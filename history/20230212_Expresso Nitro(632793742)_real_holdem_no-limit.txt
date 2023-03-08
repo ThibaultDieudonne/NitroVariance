@@ -1,0 +1,102 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717828427003461633-1-1676236815 - Holdem no limit (10/20) - 2023/02/12 21:20:15 UTC
+Table: 'Expresso Nitro(632793742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: zineelectrik (300)
+Seat 3: fouinne (300)
+*** ANTE/BLINDS ***
+zineelectrik posts small blind 10
+fouinne posts big blind 20
+Dealt to _SKR [5s Qc]
+*** PRE-FLOP *** 
+_SKR folds
+zineelectrik calls 10
+fouinne raises 40 to 60
+zineelectrik calls 40
+*** FLOP *** [6s 2h 3s]
+zineelectrik bets 240 and is all-in
+fouinne folds
+zineelectrik collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [6s 2h 3s]
+Seat 2: zineelectrik (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717828427003461633-2-1676236830 - Holdem no limit (10/20) - 2023/02/12 21:20:30 UTC
+Table: 'Expresso Nitro(632793742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: zineelectrik (360)
+Seat 3: fouinne (240)
+*** ANTE/BLINDS ***
+fouinne posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d Kh]
+*** PRE-FLOP *** 
+zineelectrik calls 20
+fouinne folds
+_SKR checks
+*** FLOP *** [7h 7c 4s]
+_SKR checks
+zineelectrik checks
+*** TURN *** [7h 7c 4s][2h]
+_SKR checks
+zineelectrik bets 33
+_SKR folds
+zineelectrik collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [7h 7c 4s 2h]
+Seat 2: zineelectrik (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717828427003461633-3-1676236865 - Holdem no limit (10/20) - 2023/02/12 21:21:05 UTC
+Table: 'Expresso Nitro(632793742)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: zineelectrik (390)
+Seat 3: fouinne (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+zineelectrik posts big blind 20
+Dealt to _SKR [Ks 3s]
+*** PRE-FLOP *** 
+fouinne raises 50 to 70
+_SKR folds
+zineelectrik calls 50
+*** FLOP *** [8c 5c 4c]
+zineelectrik checks
+fouinne bets 150
+zineelectrik folds
+fouinne collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [8c 5c 4c]
+Seat 3: fouinne (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717828427003461633-4-1676236889 - Holdem no limit (15/30) - 2023/02/12 21:21:29 UTC
+Table: 'Expresso Nitro(632793742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: zineelectrik (320)
+Seat 3: fouinne (310)
+*** ANTE/BLINDS ***
+zineelectrik posts small blind 15
+fouinne posts big blind 30
+Dealt to _SKR [Kd Qc]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+zineelectrik folds
+fouinne calls 240
+*** FLOP *** [7h 5s 4s]
+*** TURN *** [7h 5s 4s][4c]
+*** RIVER *** [7h 5s 4s 4c][7s]
+*** SHOW DOWN ***
+_SKR shows [Kd Qc] (Two pairs : 7 and 4)
+fouinne shows [Ad Qs] (Two pairs : 7 and 4)
+fouinne collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [7h 5s 4s 4c 7s]
+Seat 1: _SKR (button) showed [Kd Qc] and lost with Two pairs : 7 and 4
+Seat 3: fouinne (big blind) showed [Ad Qs] and won 555 with Two pairs : 7 and 4
+
+

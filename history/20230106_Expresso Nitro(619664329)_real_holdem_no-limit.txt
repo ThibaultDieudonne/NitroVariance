@@ -1,0 +1,60 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661438027552784385-1-1673013270 - Holdem no limit (10/20) - 2023/01/06 13:54:30 UTC
+Table: 'Expresso Nitro(619664329)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: AB_Sniper578 (300)
+Seat 3: nono749 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AB_Sniper578 posts big blind 20
+Dealt to _SKR [6d Kc]
+*** PRE-FLOP *** 
+nono749 calls 20
+_SKR folds
+AB_Sniper578 raises 280 to 300 and is all-in
+nono749 calls 280 and is all-in
+*** FLOP *** [2s 3c 9h]
+*** TURN *** [2s 3c 9h][8h]
+*** RIVER *** [2s 3c 9h 8h][2d]
+*** SHOW DOWN ***
+nono749 shows [As 6h] (One pair : 2)
+AB_Sniper578 shows [Ah 8c] (Two pairs : 8 and 2)
+AB_Sniper578 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [2s 3c 9h 8h 2d]
+Seat 2: AB_Sniper578 (big blind) showed [Ah 8c] and won 610 with Two pairs : 8 and 2
+Seat 3: nono749 (button) showed [As 6h] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661438027552784385-2-1673013286 - Holdem no limit (10/20) - 2023/01/06 13:54:46 UTC
+Table: 'Expresso Nitro(619664329)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: AB_Sniper578 (610)
+*** ANTE/BLINDS ***
+AB_Sniper578 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd 5h]
+*** PRE-FLOP *** 
+AB_Sniper578 calls 10
+_SKR checks
+*** FLOP *** [7d 6d 3h]
+_SKR checks
+AB_Sniper578 checks
+*** TURN *** [7d 6d 3h][5s]
+_SKR checks
+AB_Sniper578 checks
+*** RIVER *** [7d 6d 3h 5s][Jh]
+_SKR bets 40
+AB_Sniper578 raises 550 to 590 and is all-in
+_SKR calls 230 and is all-in
+*** SHOW DOWN ***
+_SKR shows [Jd 5h] (Two pairs : Jacks and 5)
+AB_Sniper578 shows [Th 4s] (Straight 7 high)
+AB_Sniper578 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 6d 3h 5s Jh]
+Seat 1: _SKR (big blind) showed [Jd 5h] and lost with Two pairs : Jacks and 5
+Seat 2: AB_Sniper578 (small blind) (button) showed [Th 4s] and won 900 with Straight 7 high
+
+

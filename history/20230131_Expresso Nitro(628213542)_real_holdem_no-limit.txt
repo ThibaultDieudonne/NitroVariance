@@ -1,0 +1,230 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698156617794322433-1-1675183312 - Holdem no limit (10/20) - 2023/01/31 16:41:52 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: ZD-MASTA (300)
+Seat 3: Zourite9.7.4 (300)
+*** ANTE/BLINDS ***
+ZD-MASTA posts small blind 10
+Zourite9.7.4 posts big blind 20
+Dealt to _SKR [Jd 4h]
+*** PRE-FLOP *** 
+_SKR folds
+ZD-MASTA calls 10
+Zourite9.7.4 raises 40 to 60
+ZD-MASTA calls 40
+*** FLOP *** [7d 9s Kh]
+ZD-MASTA checks
+Zourite9.7.4 bets 120
+ZD-MASTA raises 120 to 240 and is all-in
+Zourite9.7.4 calls 120 and is all-in
+*** TURN *** [7d 9s Kh][2c]
+*** RIVER *** [7d 9s Kh 2c][Kc]
+*** SHOW DOWN ***
+Zourite9.7.4 shows [Qh Ad] (One pair : Kings)
+ZD-MASTA shows [8s 7s] (Two pairs : Kings and 7)
+ZD-MASTA collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7d 9s Kh 2c Kc]
+Seat 2: ZD-MASTA (small blind) showed [8s 7s] and won 600 with Two pairs : Kings and 7
+Seat 3: Zourite9.7.4 (big blind) showed [Qh Ad] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698156617794322433-2-1675183340 - Holdem no limit (10/20) - 2023/01/31 16:42:20 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: ZD-MASTA (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ZD-MASTA posts big blind 20
+Dealt to _SKR [3h 5d]
+*** PRE-FLOP *** 
+_SKR folds
+ZD-MASTA collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: ZD-MASTA (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698156617794322433-3-1675183345 - Holdem no limit (10/20) - 2023/01/31 16:42:25 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: ZD-MASTA (610)
+*** ANTE/BLINDS ***
+ZD-MASTA posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 9s]
+*** PRE-FLOP *** 
+ZD-MASTA calls 10
+_SKR checks
+*** FLOP *** [6c 8c 3c]
+_SKR checks
+ZD-MASTA checks
+*** TURN *** [6c 8c 3c][2s]
+_SKR checks
+ZD-MASTA checks
+*** RIVER *** [6c 8c 3c 2s][Ac]
+_SKR bets 20
+ZD-MASTA calls 20
+*** SHOW DOWN ***
+ZD-MASTA shows [3h 5h] (One pair : 3)
+_SKR shows [8h 9s] (One pair : 8)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [6c 8c 3c 2s Ac]
+Seat 1: _SKR (big blind) showed [8h 9s] and won 80 with One pair : 8
+Seat 2: ZD-MASTA (small blind) (button) showed [3h 5h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698156617794322433-4-1675183381 - Holdem no limit (15/30) - 2023/01/31 16:43:01 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (330)
+Seat 2: ZD-MASTA (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ZD-MASTA posts big blind 30
+Dealt to _SKR [Kc 2d]
+*** PRE-FLOP *** 
+_SKR folds
+ZD-MASTA collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: ZD-MASTA (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698156617794322433-5-1675183389 - Holdem no limit (15/30) - 2023/01/31 16:43:09 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (315)
+Seat 2: ZD-MASTA (585)
+*** ANTE/BLINDS ***
+ZD-MASTA posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd Jd]
+*** PRE-FLOP *** 
+ZD-MASTA calls 15
+_SKR raises 285 to 315 and is all-in
+ZD-MASTA calls 285
+*** FLOP *** [7c Kh Qc]
+*** TURN *** [7c Kh Qc][7h]
+*** RIVER *** [7c Kh Qc 7h][4h]
+*** SHOW DOWN ***
+ZD-MASTA shows [Ad 6s] (One pair : 7)
+_SKR shows [Kd Jd] (Two pairs : Kings and 7)
+_SKR collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [7c Kh Qc 7h 4h]
+Seat 1: _SKR (big blind) showed [Kd Jd] and won 630 with Two pairs : Kings and 7
+Seat 2: ZD-MASTA (small blind) (button) showed [Ad 6s] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698156617794322433-6-1675183409 - Holdem no limit (15/30) - 2023/01/31 16:43:29 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (630)
+Seat 2: ZD-MASTA (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ZD-MASTA posts big blind 30
+Dealt to _SKR [4d 4h]
+*** PRE-FLOP *** 
+_SKR raises 600 to 630 and is all-in
+ZD-MASTA folds
+_SKR collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 1: _SKR (small blind) (button) won 660
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698156617794322433-7-1675183416 - Holdem no limit (15/30) - 2023/01/31 16:43:36 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (660)
+Seat 2: ZD-MASTA (240)
+*** ANTE/BLINDS ***
+ZD-MASTA posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6h 3s]
+*** PRE-FLOP *** 
+ZD-MASTA folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698156617794322433-8-1675183419 - Holdem no limit (15/30) - 2023/01/31 16:43:39 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (675)
+Seat 2: ZD-MASTA (225)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ZD-MASTA posts big blind 30
+Dealt to _SKR [Kd Jc]
+*** PRE-FLOP *** 
+_SKR raises 645 to 675 and is all-in
+ZD-MASTA folds
+_SKR collected 705 from pot
+*** SUMMARY ***
+Total pot 705 | No rake
+Seat 1: _SKR (small blind) (button) won 705
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698156617794322433-9-1675183427 - Holdem no limit (15/30) - 2023/01/31 16:43:47 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (705)
+Seat 2: ZD-MASTA (195)
+*** ANTE/BLINDS ***
+ZD-MASTA posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8h 5h]
+*** PRE-FLOP *** 
+ZD-MASTA raises 165 to 195 and is all-in
+_SKR folds
+ZD-MASTA collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 2: ZD-MASTA (small blind) (button) won 225
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698156617794322433-10-1675183434 - Holdem no limit (20/40) - 2023/01/31 16:43:54 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (675)
+Seat 2: ZD-MASTA (225)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+ZD-MASTA posts big blind 40
+Dealt to _SKR [Ad Qh]
+*** PRE-FLOP *** 
+_SKR raises 635 to 675 and is all-in
+ZD-MASTA folds
+_SKR collected 715 from pot
+*** SUMMARY ***
+Total pot 715 | No rake
+Seat 1: _SKR (small blind) (button) won 715
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698156617794322433-11-1675183440 - Holdem no limit (20/40) - 2023/01/31 16:44:00 UTC
+Table: 'Expresso Nitro(628213542)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (715)
+Seat 2: ZD-MASTA (185)
+*** ANTE/BLINDS ***
+ZD-MASTA posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4c Ad]
+*** PRE-FLOP *** 
+ZD-MASTA raises 145 to 185 and is all-in
+_SKR calls 145
+*** FLOP *** [2s 8d 2d]
+*** TURN *** [2s 8d 2d][4h]
+*** RIVER *** [2s 8d 2d 4h][Tc]
+*** SHOW DOWN ***
+ZD-MASTA shows [Ac 6c] (One pair : 2)
+_SKR shows [4c Ad] (Two pairs : 4 and 2)
+_SKR collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Board: [2s 8d 2d 4h Tc]
+Seat 1: _SKR (big blind) showed [4c Ad] and won 370 with Two pairs : 4 and 2
+Seat 2: ZD-MASTA (small blind) (button) showed [Ac 6c] and lost with One pair : 2
+
+

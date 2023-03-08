@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717565562120044545-1-1676227165 - Holdem no limit (10/20) - 2023/02/12 18:39:25 UTC
+Table: 'Expresso Nitro(632732539)#0' 3-max (real money) Seat #3 is the button
+Seat 1: piranias (300)
+Seat 2: _SKR (300)
+Seat 3: Alexdec21 (300)
+*** ANTE/BLINDS ***
+piranias posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d Ad]
+*** PRE-FLOP *** 
+Alexdec21 folds
+piranias calls 10
+_SKR raises 280 to 300 and is all-in
+piranias folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717565562120044545-2-1676227184 - Holdem no limit (10/20) - 2023/02/12 18:39:44 UTC
+Table: 'Expresso Nitro(632732539)#0' 3-max (real money) Seat #1 is the button
+Seat 1: piranias (280)
+Seat 2: _SKR (320)
+Seat 3: Alexdec21 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Alexdec21 posts big blind 20
+Dealt to _SKR [As Ts]
+*** PRE-FLOP *** 
+piranias calls 20
+_SKR raises 300 to 320 and is all-in
+Alexdec21 calls 280 and is all-in
+piranias calls 260 and is all-in
+*** FLOP *** [Qc 2s 4h]
+*** TURN *** [Qc 2s 4h][7h]
+*** RIVER *** [Qc 2s 4h 7h][7d]
+*** SHOW DOWN ***
+piranias shows [Td Kd] (One pair : 7)
+_SKR shows [As Ts] (One pair : 7)
+Alexdec21 shows [Ac Jc] (One pair : 7)
+Alexdec21 collected 880 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc 2s 4h 7h 7d]
+Seat 1: piranias (button) showed [Td Kd] and lost with One pair : 7
+Seat 2: _SKR (small blind) showed [As Ts] and won 20 with One pair : 7
+Seat 3: Alexdec21 (big blind) showed [Ac Jc] and won 880 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717565562120044545-3-1676227223 - Holdem no limit (15/30) - 2023/02/12 18:40:23 UTC
+Table: 'Expresso Nitro(632732539)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (20)
+Seat 3: Alexdec21 (880)
+*** ANTE/BLINDS ***
+Alexdec21 posts small blind 15
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [8s Qc]
+*** PRE-FLOP *** 
+Alexdec21 calls 15
+*** FLOP *** [5d Js Jd]
+*** TURN *** [5d Js Jd][9h]
+*** RIVER *** [5d Js Jd 9h][8c]
+*** SHOW DOWN ***
+_SKR shows [8s Qc] (Two pairs : Jacks and 8)
+Alexdec21 shows [6h Kd] (One pair : Jacks)
+Alexdec21 collected 10 from side pot 1
+_SKR collected 40 from main pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [5d Js Jd 9h 8c]
+Seat 2: _SKR (big blind) showed [8s Qc] and won 40 with Two pairs : Jacks and 8
+Seat 3: Alexdec21 (small blind) (button) showed [6h Kd] and won 10 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717565562120044545-4-1676227234 - Holdem no limit (15/30) - 2023/02/12 18:40:34 UTC
+Table: 'Expresso Nitro(632732539)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (40)
+Seat 3: Alexdec21 (860)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Alexdec21 posts big blind 30
+Dealt to _SKR [8d Qs]
+*** PRE-FLOP *** 
+_SKR raises 10 to 40 and is all-in
+Alexdec21 calls 10
+*** FLOP *** [3s 8s Jh]
+*** TURN *** [3s 8s Jh][As]
+*** RIVER *** [3s 8s Jh As][Ad]
+*** SHOW DOWN ***
+_SKR shows [8d Qs] (Two pairs : Aces and 8)
+Alexdec21 shows [7h Jc] (Two pairs : Aces and Jacks)
+Alexdec21 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3s 8s Jh As Ad]
+Seat 2: _SKR (small blind) (button) showed [8d Qs] and lost with Two pairs : Aces and 8
+Seat 3: Alexdec21 (big blind) showed [7h Jc] and won 80 with Two pairs : Aces and Jacks
+
+

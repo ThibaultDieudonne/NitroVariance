@@ -1,0 +1,128 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698248070532956161-1-1675187352 - Holdem no limit (10/20) - 2023/01/31 17:49:12 UTC
+Table: 'Expresso Nitro(628234835)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Player221015 (300)
+Seat 2: Vnik (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Vnik posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc 6d]
+*** PRE-FLOP *** 
+Player221015 folds
+Vnik raises 280 to 300 and is all-in
+_SKR folds
+Vnik collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Vnik (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698248070532956161-2-1675187366 - Holdem no limit (10/20) - 2023/01/31 17:49:26 UTC
+Table: 'Expresso Nitro(628234835)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Player221015 (300)
+Seat 2: Vnik (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Player221015 posts big blind 20
+Dealt to _SKR [Kh 4s]
+*** PRE-FLOP *** 
+Vnik raises 300 to 320 and is all-in
+_SKR folds
+Player221015 folds
+Vnik collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: Vnik (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698248070532956161-3-1675187378 - Holdem no limit (10/20) - 2023/01/31 17:49:38 UTC
+Table: 'Expresso Nitro(628234835)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Player221015 (280)
+Seat 2: Vnik (350)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Player221015 posts small blind 10
+Vnik posts big blind 20
+Dealt to _SKR [Tc 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Player221015 folds
+Vnik collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Vnik (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698248070532956161-4-1675187386 - Holdem no limit (10/20) - 2023/01/31 17:49:46 UTC
+Table: 'Expresso Nitro(628234835)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Player221015 (270)
+Seat 2: Vnik (360)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Vnik posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c 5d]
+*** PRE-FLOP *** 
+Player221015 raises 24 to 44
+Vnik raises 316 to 360 and is all-in
+_SKR folds
+Player221015 folds
+Vnik collected 424 from pot
+*** SUMMARY ***
+Total pot 424 | No rake
+Seat 2: Vnik (small blind) won 424
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698248070532956161-5-1675187417 - Holdem no limit (15/30) - 2023/01/31 17:50:17 UTC
+Table: 'Expresso Nitro(628234835)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Player221015 (226)
+Seat 2: Vnik (424)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Player221015 posts big blind 30
+Dealt to _SKR [Tc 2s]
+*** PRE-FLOP *** 
+Vnik raises 394 to 424 and is all-in
+_SKR folds
+Player221015 calls 196 and is all-in
+*** FLOP *** [Qc 9s 4h]
+*** TURN *** [Qc 9s 4h][Ks]
+*** RIVER *** [Qc 9s 4h Ks][7c]
+*** SHOW DOWN ***
+Player221015 shows [Jh Ah] (High card : Ace)
+Vnik shows [Js 9d] (One pair : 9)
+Vnik collected 665 from pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Board: [Qc 9s 4h Ks 7c]
+Seat 1: Player221015 (big blind) showed [Jh Ah] and lost with High card : Ace
+Seat 2: Vnik (button) showed [Js 9d] and won 665 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698248070532956161-6-1675187442 - Holdem no limit (15/30) - 2023/01/31 17:50:42 UTC
+Table: 'Expresso Nitro(628234835)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Vnik (665)
+Seat 3: _SKR (235)
+*** ANTE/BLINDS ***
+Vnik posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc Ts]
+*** PRE-FLOP *** 
+Vnik raises 635 to 665 and is all-in
+_SKR calls 205 and is all-in
+*** FLOP *** [5c 7h 5s]
+*** TURN *** [5c 7h 5s][Jc]
+*** RIVER *** [5c 7h 5s Jc][3d]
+*** SHOW DOWN ***
+_SKR shows [Qc Ts] (One pair : 5)
+Vnik shows [Qs Js] (Two pairs : Jacks and 5)
+Vnik collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c 7h 5s Jc 3d]
+Seat 2: Vnik (small blind) (button) showed [Qs Js] and won 900 with Two pairs : Jacks and 5
+Seat 3: _SKR (big blind) showed [Qc Ts] and lost with One pair : 5
+
+

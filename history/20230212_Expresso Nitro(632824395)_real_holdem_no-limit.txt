@@ -1,0 +1,108 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717960080635985921-1-1676241246 - Holdem no limit (10/20) - 2023/02/12 22:34:06 UTC
+Table: 'Expresso Nitro(632824395)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: The truth (300)
+Seat 3: Tonyozzzzz (300)
+*** ANTE/BLINDS ***
+The truth posts small blind 10
+Tonyozzzzz posts big blind 20
+Dealt to _SKR [2h 7d]
+*** PRE-FLOP *** 
+_SKR folds
+The truth calls 10
+Tonyozzzzz checks
+*** FLOP *** [Td 9h Qs]
+The truth checks
+Tonyozzzzz checks
+*** TURN *** [Td 9h Qs][5c]
+The truth checks
+Tonyozzzzz checks
+*** RIVER *** [Td 9h Qs 5c][7s]
+The truth checks
+Tonyozzzzz checks
+*** SHOW DOWN ***
+Tonyozzzzz shows [6s Ac] (High card : Ace)
+The truth shows [2c 2d] (One pair : 2)
+The truth collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Td 9h Qs 5c 7s]
+Seat 2: The truth (small blind) showed [2c 2d] and won 40 with One pair : 2
+Seat 3: Tonyozzzzz (big blind) showed [6s Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717960080635985921-2-1676241274 - Holdem no limit (10/20) - 2023/02/12 22:34:34 UTC
+Table: 'Expresso Nitro(632824395)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: The truth (320)
+Seat 3: Tonyozzzzz (280)
+*** ANTE/BLINDS ***
+Tonyozzzzz posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h Jh]
+*** PRE-FLOP *** 
+The truth raises 50 to 70
+Tonyozzzzz folds
+_SKR folds
+The truth collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: The truth (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717960080635985921-3-1676241283 - Holdem no limit (10/20) - 2023/02/12 22:34:43 UTC
+Table: 'Expresso Nitro(632824395)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: The truth (350)
+Seat 3: Tonyozzzzz (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+The truth posts big blind 20
+Dealt to _SKR [5c 5h]
+*** PRE-FLOP *** 
+Tonyozzzzz raises 20 to 40
+_SKR raises 240 to 280 and is all-in
+The truth raises 70 to 350 and is all-in
+Tonyozzzzz calls 230 and is all-in
+*** FLOP *** [Jd 7d 3h]
+*** TURN *** [Jd 7d 3h][4c]
+*** RIVER *** [Jd 7d 3h 4c][Jh]
+*** SHOW DOWN ***
+Tonyozzzzz shows [2c Kh] (One pair : Jacks)
+_SKR shows [5c 5h] (Two pairs : Jacks and 5)
+The truth shows [Qh As] (One pair : Jacks)
+The truth collected 70 from side pot 1
+_SKR collected 830 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jd 7d 3h 4c Jh]
+Seat 1: _SKR (small blind) showed [5c 5h] and won 830 with Two pairs : Jacks and 5
+Seat 2: The truth (big blind) showed [Qh As] and won 70 with One pair : Jacks
+Seat 3: Tonyozzzzz (button) showed [2c Kh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717960080635985921-4-1676241299 - Holdem no limit (10/20) - 2023/02/12 22:34:59 UTC
+Table: 'Expresso Nitro(632824395)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (830)
+Seat 2: The truth (70)
+*** ANTE/BLINDS ***
+The truth posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3c Qs]
+*** PRE-FLOP *** 
+The truth raises 50 to 70 and is all-in
+_SKR calls 50
+*** FLOP *** [Js Jd Tc]
+*** TURN *** [Js Jd Tc][6s]
+*** RIVER *** [Js Jd Tc 6s][6c]
+*** SHOW DOWN ***
+The truth shows [7h 9s] (Two pairs : Jacks and 6)
+_SKR shows [3c Qs] (Two pairs : Jacks and 6)
+_SKR collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Js Jd Tc 6s 6c]
+Seat 1: _SKR (big blind) showed [3c Qs] and won 140 with Two pairs : Jacks and 6
+Seat 2: The truth (small blind) (button) showed [7h 9s] and lost with Two pairs : Jacks and 6
+
+

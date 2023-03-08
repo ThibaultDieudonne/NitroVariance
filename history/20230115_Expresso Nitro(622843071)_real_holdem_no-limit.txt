@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675090620485206017-1-1673743830 - Holdem no limit (10/20) - 2023/01/15 00:50:30 UTC
+Table: 'Expresso Nitro(622843071)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Edortatu (300)
+Seat 3: andy_Boss425 (300)
+*** ANTE/BLINDS ***
+andy_Boss425 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Qs]
+*** PRE-FLOP *** 
+Edortatu calls 20
+andy_Boss425 calls 10
+_SKR checks
+*** FLOP *** [Jd 6c 5c]
+andy_Boss425 bets 20
+_SKR folds
+Edortatu calls 20
+*** TURN *** [Jd 6c 5c][4d]
+andy_Boss425 bets 20
+Edortatu calls 20
+*** RIVER *** [Jd 6c 5c 4d][Th]
+andy_Boss425 bets 140
+Edortatu folds
+andy_Boss425 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Jd 6c 5c 4d Th]
+Seat 3: andy_Boss425 (small blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675090620485206017-2-1673743883 - Holdem no limit (10/20) - 2023/01/15 00:51:23 UTC
+Table: 'Expresso Nitro(622843071)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Edortatu (240)
+Seat 3: andy_Boss425 (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Edortatu posts big blind 20
+Dealt to _SKR [Jc Kd]
+*** PRE-FLOP *** 
+andy_Boss425 folds
+_SKR raises 260 to 280 and is all-in
+Edortatu folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: _SKR (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675090620485206017-3-1673743895 - Holdem no limit (15/30) - 2023/01/15 00:51:35 UTC
+Table: 'Expresso Nitro(622843071)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Edortatu (220)
+Seat 3: andy_Boss425 (380)
+*** ANTE/BLINDS ***
+Edortatu posts small blind 15
+andy_Boss425 posts big blind 30
+Dealt to _SKR [8h Tc]
+*** PRE-FLOP *** 
+_SKR folds
+Edortatu calls 15
+andy_Boss425 checks
+*** FLOP *** [Qh 8d 4c]
+Edortatu bets 60
+andy_Boss425 folds
+Edortatu collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qh 8d 4c]
+Seat 2: Edortatu (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675090620485206017-4-1673743914 - Holdem no limit (15/30) - 2023/01/15 00:51:54 UTC
+Table: 'Expresso Nitro(622843071)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Edortatu (250)
+Seat 3: andy_Boss425 (350)
+*** ANTE/BLINDS ***
+andy_Boss425 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7d 7c]
+*** PRE-FLOP *** 
+Edortatu calls 30
+andy_Boss425 calls 15
+_SKR raises 270 to 300 and is all-in
+Edortatu folds
+andy_Boss425 calls 270
+*** FLOP *** [Tc Kh 6s]
+*** TURN *** [Tc Kh 6s][Ac]
+*** RIVER *** [Tc Kh 6s Ac][8d]
+*** SHOW DOWN ***
+_SKR shows [7d 7c] (One pair : 7)
+andy_Boss425 shows [3d Kd] (One pair : Kings)
+andy_Boss425 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Tc Kh 6s Ac 8d]
+Seat 1: _SKR (big blind) showed [7d 7c] and lost with One pair : 7
+Seat 3: andy_Boss425 (small blind) showed [3d Kd] and won 630 with One pair : Kings
+
+

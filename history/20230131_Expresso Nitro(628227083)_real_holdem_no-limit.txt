@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698214775946477569-1-1675185874 - Holdem no limit (10/20) - 2023/01/31 17:24:34 UTC
+Table: 'Expresso Nitro(628227083)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gronhino (300)
+Seat 2: Julienfor1 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Julienfor1 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c 8d]
+*** PRE-FLOP *** 
+Gronhino folds
+Julienfor1 raises 280 to 300 and is all-in
+_SKR folds
+Julienfor1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Julienfor1 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698214775946477569-2-1675185882 - Holdem no limit (10/20) - 2023/01/31 17:24:42 UTC
+Table: 'Expresso Nitro(628227083)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gronhino (300)
+Seat 2: Julienfor1 (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Gronhino posts big blind 20
+Dealt to _SKR [Kd 5d]
+*** PRE-FLOP *** 
+Julienfor1 calls 20
+_SKR raises 260 to 280 and is all-in
+Gronhino calls 260
+Julienfor1 calls 260
+*** FLOP *** [Jc 4c 9s]
+Gronhino bets 20 and is all-in
+Julienfor1 calls 20
+*** TURN *** [Jc 4c 9s][7h]
+*** RIVER *** [Jc 4c 9s 7h][Ah]
+*** SHOW DOWN ***
+Julienfor1 shows [Qs 8h] (High card : Ace)
+_SKR shows [Kd 5d] (High card : Ace)
+Gronhino shows [Ac As] (Trips of Aces)
+Gronhino collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Jc 4c 9s 7h Ah]
+Seat 1: Gronhino (big blind) showed [Ac As] and won 880 with Trips of Aces
+Seat 2: Julienfor1 (button) showed [Qs 8h] and lost with High card : Ace
+Seat 3: _SKR (small blind) showed [Kd 5d] and lost with High card : Ace
+
+

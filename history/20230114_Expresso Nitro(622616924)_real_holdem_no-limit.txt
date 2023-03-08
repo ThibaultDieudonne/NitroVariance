@@ -1,0 +1,535 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674119326516117505-1-1673701926 - Holdem no limit (10/20) - 2023/01/14 13:12:06 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Moh Lskro (300)
+Seat 2: _SKR (300)
+Seat 3: Dimoitoiteki (300)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 10
+Moh Lskro posts big blind 20
+Dealt to _SKR [8c Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Dimoitoiteki folds
+Moh Lskro collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Moh Lskro (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674119326516117505-2-1673701933 - Holdem no limit (10/20) - 2023/01/14 13:12:13 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Moh Lskro (310)
+Seat 2: _SKR (300)
+Seat 3: Dimoitoiteki (290)
+*** ANTE/BLINDS ***
+Moh Lskro posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts 9s]
+*** PRE-FLOP *** 
+Dimoitoiteki folds
+Moh Lskro raises 40 to 60
+_SKR calls 40
+*** FLOP *** [Qd 9h 7d]
+Moh Lskro bets 250 and is all-in
+_SKR calls 240 and is all-in
+*** TURN *** [Qd 9h 7d][Jc]
+*** RIVER *** [Qd 9h 7d Jc][Td]
+*** SHOW DOWN ***
+Moh Lskro shows [7h As] (One pair : 7)
+_SKR shows [Ts 9s] (Two pairs : Tens and 9)
+_SKR collected 600 from main pot
+Moh Lskro collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Qd 9h 7d Jc Td]
+Seat 1: Moh Lskro (small blind) showed [7h As] and won 10 with One pair : 7
+Seat 2: _SKR (big blind) showed [Ts 9s] and won 600 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674119326516117505-3-1673701948 - Holdem no limit (10/20) - 2023/01/14 13:12:28 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Moh Lskro (10)
+Seat 2: _SKR (600)
+Seat 3: Dimoitoiteki (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Dimoitoiteki posts big blind 20
+Dealt to _SKR [Kh 4h]
+*** PRE-FLOP *** 
+Moh Lskro calls 10 and is all-in
+_SKR raises 580 to 600 and is all-in
+Dimoitoiteki folds
+*** FLOP *** [9d 7s Jc]
+*** TURN *** [9d 7s Jc][5d]
+*** RIVER *** [9d 7s Jc 5d][Js]
+*** SHOW DOWN ***
+Moh Lskro shows [3s 7c] (Two pairs : Jacks and 7)
+_SKR shows [Kh 4h] (One pair : Jacks)
+_SKR collected 600 from side pot 1
+Moh Lskro collected 30 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [9d 7s Jc 5d Js]
+Seat 1: Moh Lskro (button) showed [3s 7c] and won 30 with Two pairs : Jacks and 7
+Seat 2: _SKR (small blind) showed [Kh 4h] and won 600 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674119326516117505-4-1673701961 - Holdem no limit (10/20) - 2023/01/14 13:12:41 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Moh Lskro (30)
+Seat 2: _SKR (600)
+Seat 3: Dimoitoiteki (270)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 10
+Moh Lskro posts big blind 20
+Dealt to _SKR [2s 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Dimoitoiteki folds
+Moh Lskro collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Moh Lskro (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674119326516117505-5-1673701968 - Holdem no limit (10/20) - 2023/01/14 13:12:48 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Moh Lskro (40)
+Seat 2: _SKR (600)
+Seat 3: Dimoitoiteki (260)
+*** ANTE/BLINDS ***
+Moh Lskro posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h Jh]
+*** PRE-FLOP *** 
+Dimoitoiteki calls 20
+Moh Lskro raises 20 to 40 and is all-in
+_SKR folds
+Dimoitoiteki calls 20
+*** FLOP *** [Ad 2d 7c]
+*** TURN *** [Ad 2d 7c][3h]
+*** RIVER *** [Ad 2d 7c 3h][6s]
+*** SHOW DOWN ***
+Dimoitoiteki shows [Ah 3c] (Two pairs : Aces and 3)
+Moh Lskro shows [6c 6d] (Trips of 6)
+Moh Lskro collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ad 2d 7c 3h 6s]
+Seat 1: Moh Lskro (small blind) showed [6c 6d] and won 100 with Trips of 6
+Seat 3: Dimoitoiteki (button) showed [Ah 3c] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674119326516117505-6-1673701989 - Holdem no limit (15/30) - 2023/01/14 13:13:09 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Moh Lskro (100)
+Seat 2: _SKR (580)
+Seat 3: Dimoitoiteki (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Dimoitoiteki posts big blind 30
+Dealt to _SKR [8h 3s]
+*** PRE-FLOP *** 
+Moh Lskro folds
+_SKR folds
+Dimoitoiteki collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Dimoitoiteki (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674119326516117505-7-1673701994 - Holdem no limit (15/30) - 2023/01/14 13:13:14 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Moh Lskro (100)
+Seat 2: _SKR (565)
+Seat 3: Dimoitoiteki (235)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 15
+Moh Lskro posts big blind 30
+Dealt to _SKR [4h Qh]
+*** PRE-FLOP *** 
+_SKR folds
+Dimoitoiteki folds
+Moh Lskro collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Moh Lskro (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674119326516117505-8-1673701999 - Holdem no limit (15/30) - 2023/01/14 13:13:19 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Moh Lskro (115)
+Seat 2: _SKR (565)
+Seat 3: Dimoitoiteki (220)
+*** ANTE/BLINDS ***
+Moh Lskro posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6h 7s]
+*** PRE-FLOP *** 
+Dimoitoiteki folds
+Moh Lskro raises 85 to 115 and is all-in
+_SKR folds
+Moh Lskro collected 145 from pot
+*** SUMMARY ***
+Total pot 145 | No rake
+Seat 1: Moh Lskro (small blind) won 145
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674119326516117505-9-1673702011 - Holdem no limit (15/30) - 2023/01/14 13:13:31 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Moh Lskro (145)
+Seat 2: _SKR (535)
+Seat 3: Dimoitoiteki (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Dimoitoiteki posts big blind 30
+Dealt to _SKR [7c 5c]
+*** PRE-FLOP *** 
+Moh Lskro folds
+_SKR folds
+Dimoitoiteki collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Dimoitoiteki (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674119326516117505-10-1673702022 - Holdem no limit (15/30) - 2023/01/14 13:13:42 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Moh Lskro (145)
+Seat 2: _SKR (520)
+Seat 3: Dimoitoiteki (235)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 15
+Moh Lskro posts big blind 30
+Dealt to _SKR [2c Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Dimoitoiteki raises 30 to 60
+Moh Lskro raises 85 to 145 and is all-in
+Dimoitoiteki calls 85
+*** FLOP *** [7d Qh Jc]
+*** TURN *** [7d Qh Jc][6h]
+*** RIVER *** [7d Qh Jc 6h][Ad]
+*** SHOW DOWN ***
+Moh Lskro shows [3d Qs] (One pair : Queens)
+Dimoitoiteki shows [Kc Tc] (Straight Ace high)
+Dimoitoiteki collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Board: [7d Qh Jc 6h Ad]
+Seat 1: Moh Lskro (big blind) showed [3d Qs] and lost with One pair : Queens
+Seat 3: Dimoitoiteki (small blind) showed [Kc Tc] and won 290 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-11-1673702043 - Holdem no limit (20/40) - 2023/01/14 13:14:03 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (520)
+Seat 3: Dimoitoiteki (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Dimoitoiteki posts big blind 40
+Dealt to _SKR [8s Qh]
+*** PRE-FLOP *** 
+_SKR raises 480 to 520 and is all-in
+Dimoitoiteki folds
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 2: _SKR (small blind) (button) won 560
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-12-1673702049 - Holdem no limit (20/40) - 2023/01/14 13:14:09 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (560)
+Seat 3: Dimoitoiteki (340)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c Jh]
+*** PRE-FLOP *** 
+Dimoitoiteki folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-13-1673702053 - Holdem no limit (20/40) - 2023/01/14 13:14:13 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (580)
+Seat 3: Dimoitoiteki (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Dimoitoiteki posts big blind 40
+Dealt to _SKR [3c 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Dimoitoiteki collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Dimoitoiteki (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-14-1673702058 - Holdem no limit (20/40) - 2023/01/14 13:14:18 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (560)
+Seat 3: Dimoitoiteki (340)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8d Ah]
+*** PRE-FLOP *** 
+Dimoitoiteki folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-15-1673702062 - Holdem no limit (20/40) - 2023/01/14 13:14:22 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (580)
+Seat 3: Dimoitoiteki (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Dimoitoiteki posts big blind 40
+Dealt to _SKR [Jd Ac]
+*** PRE-FLOP *** 
+_SKR raises 540 to 580 and is all-in
+Dimoitoiteki folds
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 2: _SKR (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-16-1673702068 - Holdem no limit (20/40) - 2023/01/14 13:14:28 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: Dimoitoiteki (280)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3h Qh]
+*** PRE-FLOP *** 
+Dimoitoiteki folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-17-1673702072 - Holdem no limit (20/40) - 2023/01/14 13:14:32 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (640)
+Seat 3: Dimoitoiteki (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Dimoitoiteki posts big blind 40
+Dealt to _SKR [9d Ts]
+*** PRE-FLOP *** 
+_SKR raises 600 to 640 and is all-in
+Dimoitoiteki folds
+_SKR collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 2: _SKR (small blind) (button) won 680
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-18-1673702081 - Holdem no limit (20/40) - 2023/01/14 13:14:41 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (680)
+Seat 3: Dimoitoiteki (220)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2s 2h]
+*** PRE-FLOP *** 
+Dimoitoiteki folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-19-1673702085 - Holdem no limit (20/40) - 2023/01/14 13:14:45 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (700)
+Seat 3: Dimoitoiteki (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Dimoitoiteki posts big blind 40
+Dealt to _SKR [4h 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Dimoitoiteki collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Dimoitoiteki (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-20-1673702088 - Holdem no limit (20/40) - 2023/01/14 13:14:48 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (680)
+Seat 3: Dimoitoiteki (220)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6h 3s]
+*** PRE-FLOP *** 
+Dimoitoiteki folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-21-1673702092 - Holdem no limit (20/40) - 2023/01/14 13:14:52 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (700)
+Seat 3: Dimoitoiteki (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Dimoitoiteki posts big blind 40
+Dealt to _SKR [Qc 9h]
+*** PRE-FLOP *** 
+_SKR raises 660 to 700 and is all-in
+Dimoitoiteki folds
+_SKR collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Seat 2: _SKR (small blind) (button) won 740
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674119326516117505-22-1673702100 - Holdem no limit (20/40) - 2023/01/14 13:15:00 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (740)
+Seat 3: Dimoitoiteki (160)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kh 5h]
+*** PRE-FLOP *** 
+Dimoitoiteki folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674119326516117505-23-1673702104 - Holdem no limit (30/60) - 2023/01/14 13:15:04 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (760)
+Seat 3: Dimoitoiteki (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Dimoitoiteki posts big blind 60
+Dealt to _SKR [2h 9h]
+*** PRE-FLOP *** 
+_SKR folds
+Dimoitoiteki collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Dimoitoiteki (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674119326516117505-24-1673702108 - Holdem no limit (30/60) - 2023/01/14 13:15:08 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (730)
+Seat 3: Dimoitoiteki (170)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3c 9h]
+*** PRE-FLOP *** 
+Dimoitoiteki folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674119326516117505-25-1673702111 - Holdem no limit (30/60) - 2023/01/14 13:15:11 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (760)
+Seat 3: Dimoitoiteki (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Dimoitoiteki posts big blind 60
+Dealt to _SKR [Kh 3d]
+*** PRE-FLOP *** 
+_SKR raises 700 to 760 and is all-in
+Dimoitoiteki calls 80 and is all-in
+*** FLOP *** [6s Ac Qs]
+*** TURN *** [6s Ac Qs][3h]
+*** RIVER *** [6s Ac Qs 3h][9s]
+*** SHOW DOWN ***
+_SKR shows [Kh 3d] (One pair : 3)
+Dimoitoiteki shows [4c 6c] (One pair : 6)
+Dimoitoiteki collected 280 from main pot
+_SKR collected 620 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s Ac Qs 3h 9s]
+Seat 2: _SKR (small blind) (button) showed [Kh 3d] and won 620 with One pair : 3
+Seat 3: Dimoitoiteki (big blind) showed [4c 6c] and won 280 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674119326516117505-26-1673702125 - Holdem no limit (30/60) - 2023/01/14 13:15:25 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: Dimoitoiteki (280)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qh 3h]
+*** PRE-FLOP *** 
+Dimoitoiteki folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674119326516117505-27-1673702130 - Holdem no limit (30/60) - 2023/01/14 13:15:30 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (650)
+Seat 3: Dimoitoiteki (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Dimoitoiteki posts big blind 60
+Dealt to _SKR [3h Jc]
+*** PRE-FLOP *** 
+_SKR raises 590 to 650 and is all-in
+Dimoitoiteki folds
+_SKR collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Seat 2: _SKR (small blind) (button) won 710
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674119326516117505-28-1673702137 - Holdem no limit (30/60) - 2023/01/14 13:15:37 UTC
+Table: 'Expresso Nitro(622616924)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (710)
+Seat 3: Dimoitoiteki (190)
+*** ANTE/BLINDS ***
+Dimoitoiteki posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2h 2c]
+*** PRE-FLOP *** 
+Dimoitoiteki raises 130 to 190 and is all-in
+_SKR calls 130
+*** FLOP *** [9c 4c 9h]
+*** TURN *** [9c 4c 9h][Td]
+*** RIVER *** [9c 4c 9h Td][5d]
+*** SHOW DOWN ***
+Dimoitoiteki shows [6d Qh] (One pair : 9)
+_SKR shows [2h 2c] (Two pairs : 9 and 2)
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [9c 4c 9h Td 5d]
+Seat 2: _SKR (big blind) showed [2h 2c] and won 380 with Two pairs : 9 and 2
+Seat 3: Dimoitoiteki (small blind) (button) showed [6d Qh] and lost with One pair : 9
+
+

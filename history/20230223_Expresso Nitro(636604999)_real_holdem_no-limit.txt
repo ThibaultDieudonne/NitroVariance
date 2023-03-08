@@ -1,0 +1,85 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2734197651175112705-1-1677187717 - Holdem no limit (10/20) - 2023/02/23 21:28:37 UTC
+Table: 'Expresso Nitro(636604999)#0' 3-max (real money) Seat #3 is the button
+Seat 1: courage 51 (300)
+Seat 2: _SKR (300)
+Seat 3: Tit2mars (300)
+*** ANTE/BLINDS ***
+courage 51 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As 3d]
+*** PRE-FLOP *** 
+Tit2mars folds
+courage 51 calls 10
+_SKR raises 280 to 300 and is all-in
+courage 51 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2734197651175112705-2-1677187727 - Holdem no limit (10/20) - 2023/02/23 21:28:47 UTC
+Table: 'Expresso Nitro(636604999)#0' 3-max (real money) Seat #1 is the button
+Seat 1: courage 51 (280)
+Seat 2: _SKR (320)
+Seat 3: Tit2mars (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Tit2mars posts big blind 20
+Dealt to _SKR [Qc 3h]
+*** PRE-FLOP *** 
+courage 51 calls 20
+_SKR folds
+Tit2mars checks
+*** FLOP *** [6c 7d 9h]
+Tit2mars checks
+courage 51 bets 33
+Tit2mars calls 33
+*** TURN *** [6c 7d 9h][2d]
+Tit2mars checks
+courage 51 bets 75
+Tit2mars calls 75
+*** RIVER *** [6c 7d 9h 2d][4h]
+Tit2mars bets 172 and is all-in
+courage 51 calls 152 and is all-in
+*** SHOW DOWN ***
+courage 51 shows [4d 9d] (Two pairs : 9 and 4)
+Tit2mars shows [6s 4s] (Two pairs : 6 and 4)
+Tit2mars collected 20 from side pot 1
+courage 51 collected 570 from main pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [6c 7d 9h 2d 4h]
+Seat 1: courage 51 (button) showed [4d 9d] and won 570 with Two pairs : 9 and 4
+Seat 3: Tit2mars (big blind) showed [6s 4s] and won 20 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2734197651175112705-3-1677187753 - Holdem no limit (10/20) - 2023/02/23 21:29:13 UTC
+Table: 'Expresso Nitro(636604999)#0' 3-max (real money) Seat #2 is the button
+Seat 1: courage 51 (570)
+Seat 2: _SKR (310)
+Seat 3: Tit2mars (20)
+*** ANTE/BLINDS ***
+Tit2mars posts small blind 10
+courage 51 posts big blind 20
+Dealt to _SKR [3c 3s]
+*** PRE-FLOP *** 
+_SKR raises 290 to 310 and is all-in
+Tit2mars calls 10 and is all-in
+courage 51 calls 290
+*** FLOP *** [Jc 2d 7h]
+*** TURN *** [Jc 2d 7h][Qh]
+*** RIVER *** [Jc 2d 7h Qh][5s]
+*** SHOW DOWN ***
+_SKR shows [3c 3s] (One pair : 3)
+Tit2mars shows [Kh 5d] (One pair : 5)
+courage 51 shows [Jh Ks] (One pair : Jacks)
+courage 51 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Jc 2d 7h Qh 5s]
+Seat 1: courage 51 (big blind) showed [Jh Ks] and won 640 with One pair : Jacks
+Seat 2: _SKR (button) showed [3c 3s] and lost with One pair : 3
+Seat 3: Tit2mars (small blind) showed [Kh 5d] and lost with One pair : 5
+
+

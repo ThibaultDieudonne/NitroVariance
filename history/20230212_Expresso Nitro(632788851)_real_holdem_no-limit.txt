@@ -1,0 +1,48 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717807420318416897-1-1676236028 - Holdem no limit (10/20) - 2023/02/12 21:07:08 UTC
+Table: 'Expresso Nitro(632788851)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chatar 2mes2 (300)
+Seat 2: _SKR (300)
+Seat 3: PeterparKKer (300)
+*** ANTE/BLINDS ***
+Chatar 2mes2 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac Td]
+*** PRE-FLOP *** 
+PeterparKKer folds
+Chatar 2mes2 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717807420318416897-2-1676236040 - Holdem no limit (10/20) - 2023/02/12 21:07:20 UTC
+Table: 'Expresso Nitro(632788851)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chatar 2mes2 (290)
+Seat 2: _SKR (310)
+Seat 3: PeterparKKer (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+PeterparKKer posts big blind 20
+Dealt to _SKR [Ts Td]
+*** PRE-FLOP *** 
+Chatar 2mes2 raises 40 to 60
+_SKR raises 250 to 310 and is all-in
+PeterparKKer calls 280 and is all-in
+Chatar 2mes2 calls 230 and is all-in
+*** FLOP *** [Jc Ad 7s]
+*** TURN *** [Jc Ad 7s][Th]
+*** RIVER *** [Jc Ad 7s Th][2d]
+*** SHOW DOWN ***
+Chatar 2mes2 shows [6c 6h] (One pair : 6)
+PeterparKKer shows [Ac 9d] (One pair : Aces)
+_SKR shows [Ts Td] (Trips of Tens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jc Ad 7s Th 2d]
+Seat 1: Chatar 2mes2 (button) showed [6c 6h] and lost with One pair : 6
+Seat 2: _SKR (small blind) showed [Ts Td] and won 900 with Trips of Tens
+Seat 3: PeterparKKer (big blind) showed [Ac 9d] and lost with One pair : Aces
+
+

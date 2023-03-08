@@ -1,0 +1,128 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696880703269765121-1-1675101790 - Holdem no limit (10/20) - 2023/01/30 18:03:10 UTC
+Table: 'Expresso Nitro(627916470)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: ThIStheWay (300)
+Seat 3: OuardiExcel (300)
+*** ANTE/BLINDS ***
+ThIStheWay posts small blind 10
+OuardiExcel posts big blind 20
+Dealt to _SKR [3c 9h]
+*** PRE-FLOP *** 
+_SKR folds
+ThIStheWay calls 10
+OuardiExcel checks
+*** FLOP *** [3h 4d Kd]
+ThIStheWay checks
+OuardiExcel checks
+*** TURN *** [3h 4d Kd][6c]
+ThIStheWay bets 30
+OuardiExcel folds
+ThIStheWay collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [3h 4d Kd 6c]
+Seat 2: ThIStheWay (small blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696880703269765121-2-1675101809 - Holdem no limit (10/20) - 2023/01/30 18:03:29 UTC
+Table: 'Expresso Nitro(627916470)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: ThIStheWay (320)
+Seat 3: OuardiExcel (280)
+*** ANTE/BLINDS ***
+OuardiExcel posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks Js]
+*** PRE-FLOP *** 
+ThIStheWay folds
+OuardiExcel calls 10
+_SKR raises 280 to 300 and is all-in
+OuardiExcel folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696880703269765121-3-1675101822 - Holdem no limit (10/20) - 2023/01/30 18:03:42 UTC
+Table: 'Expresso Nitro(627916470)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: ThIStheWay (320)
+Seat 3: OuardiExcel (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ThIStheWay posts big blind 20
+Dealt to _SKR [3c Qd]
+*** PRE-FLOP *** 
+OuardiExcel raises 30 to 50
+_SKR folds
+ThIStheWay calls 30
+*** FLOP *** [2d As 7d]
+ThIStheWay checks
+OuardiExcel checks
+*** TURN *** [2d As 7d][4s]
+ThIStheWay checks
+OuardiExcel bets 72
+ThIStheWay folds
+OuardiExcel collected 182 from pot
+*** SUMMARY ***
+Total pot 182 | No rake
+Board: [2d As 7d 4s]
+Seat 3: OuardiExcel (button) won 182
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696880703269765121-4-1675101840 - Holdem no limit (10/20) - 2023/01/30 18:04:00 UTC
+Table: 'Expresso Nitro(627916470)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: ThIStheWay (270)
+Seat 3: OuardiExcel (320)
+*** ANTE/BLINDS ***
+ThIStheWay posts small blind 10
+OuardiExcel posts big blind 20
+Dealt to _SKR [As 6d]
+*** PRE-FLOP *** 
+_SKR raises 290 to 310 and is all-in
+ThIStheWay calls 260 and is all-in
+OuardiExcel folds
+*** FLOP *** [Qh 7c Tc]
+*** TURN *** [Qh 7c Tc][4c]
+*** RIVER *** [Qh 7c Tc 4c][8d]
+*** SHOW DOWN ***
+_SKR shows [As 6d] (High card : Ace)
+ThIStheWay shows [8h Ah] (One pair : 8)
+ThIStheWay collected 560 from main pot
+_SKR collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qh 7c Tc 4c 8d]
+Seat 1: _SKR (button) showed [As 6d] and won 40 with High card : Ace
+Seat 2: ThIStheWay (small blind) showed [8h Ah] and won 560 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696880703269765121-5-1675101854 - Holdem no limit (15/30) - 2023/01/30 18:04:14 UTC
+Table: 'Expresso Nitro(627916470)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (40)
+Seat 2: ThIStheWay (560)
+Seat 3: OuardiExcel (300)
+*** ANTE/BLINDS ***
+OuardiExcel posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3d 6h]
+*** PRE-FLOP *** 
+ThIStheWay folds
+OuardiExcel raises 270 to 300 and is all-in
+_SKR calls 10 and is all-in
+*** FLOP *** [Qc Ah 5c]
+*** TURN *** [Qc Ah 5c][9h]
+*** RIVER *** [Qc Ah 5c 9h][Kc]
+*** SHOW DOWN ***
+_SKR shows [3d 6h] (High card : Ace)
+OuardiExcel shows [3c 8c] (Flush King high)
+OuardiExcel collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Qc Ah 5c 9h Kc]
+Seat 1: _SKR (big blind) showed [3d 6h] and lost with High card : Ace
+Seat 3: OuardiExcel (small blind) showed [3c 8c] and won 340 with Flush King high
+
+

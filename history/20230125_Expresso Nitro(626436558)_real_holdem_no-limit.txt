@@ -1,0 +1,57 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690524529628807169-1-1674684772 - Holdem no limit (10/20) - 2023/01/25 22:12:52 UTC
+Table: 'Expresso Nitro(626436558)#0' 3-max (real money) Seat #1 is the button
+Seat 1: B4ckinBl4ck (300)
+Seat 2: Benji44250A (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Benji44250A posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh Qs]
+*** PRE-FLOP *** 
+B4ckinBl4ck raises 20 to 40
+Benji44250A calls 30
+_SKR raises 60 to 100
+B4ckinBl4ck calls 60
+Benji44250A calls 60
+*** FLOP *** [7h Kh 5h]
+Benji44250A bets 200 and is all-in
+_SKR calls 200 and is all-in
+B4ckinBl4ck folds
+*** TURN *** [7h Kh 5h][Jh]
+*** RIVER *** [7h Kh 5h Jh][3s]
+*** SHOW DOWN ***
+Benji44250A shows [9c Kd] (One pair : Kings)
+_SKR shows [Qh Qs] (Flush King high)
+_SKR collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [7h Kh 5h Jh 3s]
+Seat 2: Benji44250A (small blind) showed [9c Kd] and lost with One pair : Kings
+Seat 3: _SKR (big blind) showed [Qh Qs] and won 700 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690524529628807169-2-1674684808 - Holdem no limit (10/20) - 2023/01/25 22:13:28 UTC
+Table: 'Expresso Nitro(626436558)#0' 3-max (real money) Seat #3 is the button
+Seat 1: B4ckinBl4ck (200)
+Seat 3: _SKR (700)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+B4ckinBl4ck posts big blind 20
+Dealt to _SKR [Jc Qh]
+*** PRE-FLOP *** 
+_SKR raises 680 to 700 and is all-in
+B4ckinBl4ck calls 180 and is all-in
+*** FLOP *** [Td Qd 2c]
+*** TURN *** [Td Qd 2c][Js]
+*** RIVER *** [Td Qd 2c Js][7h]
+*** SHOW DOWN ***
+B4ckinBl4ck shows [Ac 3d] (High card : Ace)
+_SKR shows [Jc Qh] (Two pairs : Queens and Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td Qd 2c Js 7h]
+Seat 1: B4ckinBl4ck (big blind) showed [Ac 3d] and lost with High card : Ace
+Seat 3: _SKR (small blind) (button) showed [Jc Qh] and won 900 with Two pairs : Queens and Jacks
+
+

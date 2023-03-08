@@ -1,0 +1,110 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676329881758859265-1-1673820234 - Holdem no limit (10/20) - 2023/01/15 22:03:54 UTC
+Table: 'Expresso Nitro(623131609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ironanna (300)
+Seat 2: _SKR (300)
+Seat 3: joker7501 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+joker7501 posts big blind 20
+Dealt to _SKR [Qh Js]
+*** PRE-FLOP *** 
+ironanna calls 20
+_SKR raises 280 to 300 and is all-in
+joker7501 folds
+ironanna folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676329881758859265-2-1673820253 - Holdem no limit (10/20) - 2023/01/15 22:04:13 UTC
+Table: 'Expresso Nitro(623131609)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ironanna (280)
+Seat 2: _SKR (340)
+Seat 3: joker7501 (280)
+*** ANTE/BLINDS ***
+joker7501 posts small blind 10
+ironanna posts big blind 20
+Dealt to _SKR [8c Ac]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+joker7501 calls 30
+ironanna raises 240 to 280 and is all-in
+_SKR calls 240
+joker7501 folds
+*** FLOP *** [7s 5s 3s]
+*** TURN *** [7s 5s 3s][4c]
+*** RIVER *** [7s 5s 3s 4c][3c]
+*** SHOW DOWN ***
+_SKR shows [8c Ac] (One pair : 3)
+ironanna shows [9s 9d] (Two pairs : 9 and 3)
+ironanna collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7s 5s 3s 4c 3c]
+Seat 1: ironanna (big blind) showed [9s 9d] and won 600 with Two pairs : 9 and 3
+Seat 2: _SKR (button) showed [8c Ac] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676329881758859265-3-1673820276 - Holdem no limit (10/20) - 2023/01/15 22:04:36 UTC
+Table: 'Expresso Nitro(623131609)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ironanna (600)
+Seat 2: _SKR (60)
+Seat 3: joker7501 (240)
+*** ANTE/BLINDS ***
+ironanna posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h 5c]
+*** PRE-FLOP *** 
+joker7501 calls 20
+ironanna calls 10
+_SKR checks
+*** FLOP *** [Ks Kc 3s]
+ironanna bets 20
+_SKR raises 20 to 40 and is all-in
+joker7501 folds
+ironanna calls 20
+*** TURN *** [Ks Kc 3s][Td]
+*** RIVER *** [Ks Kc 3s Td][6d]
+*** SHOW DOWN ***
+ironanna shows [8s Js] (One pair : Kings)
+_SKR shows [3h 5c] (Two pairs : Kings and 3)
+_SKR collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Ks Kc 3s Td 6d]
+Seat 1: ironanna (small blind) showed [8s Js] and lost with One pair : Kings
+Seat 2: _SKR (big blind) showed [3h 5c] and won 140 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676329881758859265-4-1673820317 - Holdem no limit (15/30) - 2023/01/15 22:05:17 UTC
+Table: 'Expresso Nitro(623131609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ironanna (540)
+Seat 2: _SKR (140)
+Seat 3: joker7501 (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+joker7501 posts big blind 30
+Dealt to _SKR [8c Ac]
+*** PRE-FLOP *** 
+ironanna raises 510 to 540 and is all-in
+_SKR calls 125 and is all-in
+joker7501 calls 190 and is all-in
+*** FLOP *** [Qs 6h Kc]
+*** TURN *** [Qs 6h Kc][Jh]
+*** RIVER *** [Qs 6h Kc Jh][8d]
+*** SHOW DOWN ***
+_SKR shows [8c Ac] (One pair : 8)
+ironanna shows [4d 4s] (One pair : 4)
+joker7501 shows [Jd As] (One pair : Jacks)
+joker7501 collected 580 from main pot
+ironanna collected 320 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qs 6h Kc Jh 8d]
+Seat 1: ironanna (button) showed [4d 4s] and won 320 with One pair : 4
+Seat 2: _SKR (small blind) showed [8c Ac] and lost with One pair : 8
+Seat 3: joker7501 (big blind) showed [Jd As] and won 580 with One pair : Jacks
+
+

@@ -1,0 +1,73 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730583479145201665-1-1676986958 - Holdem no limit (10/20) - 2023/02/21 13:42:38 UTC
+Table: 'Expresso Nitro(635763509)#0' 3-max (real money) Seat #1 is the button
+Seat 1: l3xc0rp (300)
+Seat 2: timon076 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+timon076 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad 3h]
+*** PRE-FLOP *** 
+l3xc0rp folds
+timon076 calls 10
+_SKR raises 280 to 300 and is all-in
+timon076 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730583479145201665-2-1676986970 - Holdem no limit (10/20) - 2023/02/21 13:42:50 UTC
+Table: 'Expresso Nitro(635763509)#0' 3-max (real money) Seat #2 is the button
+Seat 1: l3xc0rp (300)
+Seat 2: timon076 (280)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+l3xc0rp posts big blind 20
+Dealt to _SKR [5c Td]
+*** PRE-FLOP *** 
+timon076 raises 260 to 280 and is all-in
+_SKR folds
+l3xc0rp calls 260
+*** FLOP *** [6c Qs Kc]
+*** TURN *** [6c Qs Kc][2s]
+*** RIVER *** [6c Qs Kc 2s][Ah]
+*** SHOW DOWN ***
+timon076 shows [4c 4d] (One pair : 4)
+l3xc0rp shows [Tc Jc] (Straight Ace high)
+l3xc0rp collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [6c Qs Kc 2s Ah]
+Seat 1: l3xc0rp (big blind) showed [Tc Jc] and won 570 with Straight Ace high
+Seat 2: timon076 (button) showed [4c 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730583479145201665-3-1676986988 - Holdem no limit (10/20) - 2023/02/21 13:43:08 UTC
+Table: 'Expresso Nitro(635763509)#0' 3-max (real money) Seat #1 is the button
+Seat 1: l3xc0rp (590)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+l3xc0rp posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d Ad]
+*** PRE-FLOP *** 
+l3xc0rp raises 20 to 40
+_SKR raises 270 to 310 and is all-in
+l3xc0rp calls 270
+*** FLOP *** [Qc 5s Kh]
+*** TURN *** [Qc 5s Kh][9d]
+*** RIVER *** [Qc 5s Kh 9d][6s]
+*** SHOW DOWN ***
+_SKR shows [5d Ad] (One pair : 5)
+l3xc0rp shows [2s Kc] (One pair : Kings)
+l3xc0rp collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qc 5s Kh 9d 6s]
+Seat 1: l3xc0rp (small blind) (button) showed [2s Kc] and won 620 with One pair : Kings
+Seat 3: _SKR (big blind) showed [5d Ad] and lost with One pair : 5
+
+

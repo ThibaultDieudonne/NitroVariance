@@ -1,0 +1,110 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661429562172243969-1-1673012837 - Holdem no limit (10/20) - 2023/01/06 13:47:17 UTC
+Table: 'Expresso Nitro(619662358)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jsm76 (300)
+Seat 2: Taiyahz (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+jsm76 posts big blind 20
+Dealt to _SKR [Kd Jh]
+*** PRE-FLOP *** 
+Taiyahz calls 20
+_SKR raises 20 to 40
+jsm76 folds
+Taiyahz calls 20
+*** FLOP *** [Td 8c 3d]
+_SKR checks
+Taiyahz bets 35
+_SKR calls 35
+*** TURN *** [Td 8c 3d][Qs]
+_SKR checks
+Taiyahz checks
+*** RIVER *** [Td 8c 3d Qs][3h]
+_SKR checks
+Taiyahz checks
+*** SHOW DOWN ***
+_SKR shows [Kd Jh] (One pair : 3)
+Taiyahz shows [6c Tc] (Two pairs : Tens and 3)
+Taiyahz collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [Td 8c 3d Qs 3h]
+Seat 2: Taiyahz (button) showed [6c Tc] and won 170 with Two pairs : Tens and 3
+Seat 3: _SKR (small blind) showed [Kd Jh] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661429562172243969-2-1673012873 - Holdem no limit (10/20) - 2023/01/06 13:47:53 UTC
+Table: 'Expresso Nitro(619662358)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jsm76 (280)
+Seat 2: Taiyahz (395)
+Seat 3: _SKR (225)
+*** ANTE/BLINDS ***
+jsm76 posts small blind 10
+Taiyahz posts big blind 20
+Dealt to _SKR [9s Ts]
+*** PRE-FLOP *** 
+_SKR folds
+jsm76 raises 260 to 280 and is all-in
+Taiyahz folds
+jsm76 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: jsm76 (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661429562172243969-3-1673012891 - Holdem no limit (10/20) - 2023/01/06 13:48:11 UTC
+Table: 'Expresso Nitro(619662358)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jsm76 (300)
+Seat 2: Taiyahz (375)
+Seat 3: _SKR (225)
+*** ANTE/BLINDS ***
+Taiyahz posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c Qc]
+*** PRE-FLOP *** 
+jsm76 raises 280 to 300 and is all-in
+Taiyahz calls 290
+_SKR folds
+*** FLOP *** [7c 9h 4c]
+*** TURN *** [7c 9h 4c][5d]
+*** RIVER *** [7c 9h 4c 5d][Ts]
+*** SHOW DOWN ***
+Taiyahz shows [Qh Ad] (High card : Ace)
+jsm76 shows [4s 9s] (Two pairs : 9 and 4)
+jsm76 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [7c 9h 4c 5d Ts]
+Seat 1: jsm76 (button) showed [4s 9s] and won 620 with Two pairs : 9 and 4
+Seat 2: Taiyahz (small blind) showed [Qh Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661429562172243969-4-1673012906 - Holdem no limit (15/30) - 2023/01/06 13:48:26 UTC
+Table: 'Expresso Nitro(619662358)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jsm76 (620)
+Seat 2: Taiyahz (75)
+Seat 3: _SKR (205)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+jsm76 posts big blind 30
+Dealt to _SKR [Ac Td]
+*** PRE-FLOP *** 
+Taiyahz raises 45 to 75 and is all-in
+_SKR raises 130 to 205 and is all-in
+jsm76 calls 175
+*** FLOP *** [3h 2s 6d]
+*** TURN *** [3h 2s 6d][6h]
+*** RIVER *** [3h 2s 6d 6h][8s]
+*** SHOW DOWN ***
+Taiyahz shows [Jd Tc] (One pair : 6)
+_SKR shows [Ac Td] (One pair : 6)
+jsm76 shows [Kh Ad] (One pair : 6)
+jsm76 collected 485 from pot
+*** SUMMARY ***
+Total pot 485 | No rake
+Board: [3h 2s 6d 6h 8s]
+Seat 1: jsm76 (big blind) showed [Kh Ad] and won 485 with One pair : 6
+Seat 2: Taiyahz (button) showed [Jd Tc] and lost with One pair : 6
+Seat 3: _SKR (small blind) showed [Ac Td] and lost with One pair : 6
+
+

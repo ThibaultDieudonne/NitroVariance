@@ -1,0 +1,215 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689829930337828865-1-1674654454 - Holdem no limit (10/20) - 2023/01/25 13:47:34 UTC
+Table: 'Expresso Nitro(626274834)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AnelkAS64 (300)
+Seat 2: LaPrincesse_ (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+LaPrincesse_ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc Jc]
+*** PRE-FLOP *** 
+AnelkAS64 calls 20
+LaPrincesse_ folds
+_SKR raises 280 to 300 and is all-in
+AnelkAS64 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689829930337828865-2-1674654462 - Holdem no limit (10/20) - 2023/01/25 13:47:42 UTC
+Table: 'Expresso Nitro(626274834)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AnelkAS64 (280)
+Seat 2: LaPrincesse_ (290)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AnelkAS64 posts big blind 20
+Dealt to _SKR [Kc 2h]
+*** PRE-FLOP *** 
+LaPrincesse_ folds
+_SKR folds
+AnelkAS64 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: AnelkAS64 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689829930337828865-3-1674654471 - Holdem no limit (10/20) - 2023/01/25 13:47:51 UTC
+Table: 'Expresso Nitro(626274834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AnelkAS64 (290)
+Seat 2: LaPrincesse_ (290)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+AnelkAS64 posts small blind 10
+LaPrincesse_ posts big blind 20
+Dealt to _SKR [Qh 8c]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+AnelkAS64 calls 30
+LaPrincesse_ raises 20 to 60
+_SKR calls 20
+AnelkAS64 raises 230 to 290 and is all-in
+LaPrincesse_ calls 230 and is all-in
+_SKR folds
+*** FLOP *** [2c Ts 2s]
+*** TURN *** [2c Ts 2s][4s]
+*** RIVER *** [2c Ts 2s 4s][Ah]
+*** SHOW DOWN ***
+LaPrincesse_ shows [Qc Tc] (Two pairs : Tens and 2)
+AnelkAS64 shows [Ac 9s] (Two pairs : Aces and 2)
+AnelkAS64 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [2c Ts 2s 4s Ah]
+Seat 1: AnelkAS64 (small blind) showed [Ac 9s] and won 640 with Two pairs : Aces and 2
+Seat 2: LaPrincesse_ (big blind) showed [Qc Tc] and lost with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689829930337828865-4-1674654492 - Holdem no limit (10/20) - 2023/01/25 13:48:12 UTC
+Table: 'Expresso Nitro(626274834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AnelkAS64 (640)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AnelkAS64 posts big blind 20
+Dealt to _SKR [5h 7d]
+*** PRE-FLOP *** 
+_SKR folds
+AnelkAS64 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: AnelkAS64 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689829930337828865-5-1674654496 - Holdem no limit (10/20) - 2023/01/25 13:48:16 UTC
+Table: 'Expresso Nitro(626274834)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AnelkAS64 (650)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+AnelkAS64 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh 3d]
+*** PRE-FLOP *** 
+AnelkAS64 calls 10
+_SKR checks
+*** FLOP *** [As 2h 3s]
+_SKR checks
+AnelkAS64 checks
+*** TURN *** [As 2h 3s][9d]
+_SKR checks
+AnelkAS64 checks
+*** RIVER *** [As 2h 3s 9d][7c]
+_SKR checks
+AnelkAS64 checks
+*** SHOW DOWN ***
+AnelkAS64 shows [Ks 4s] (High card : Ace)
+_SKR shows [Kh 3d] (One pair : 3)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [As 2h 3s 9d 7c]
+Seat 1: AnelkAS64 (small blind) (button) showed [Ks 4s] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [Kh 3d] and won 40 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689829930337828865-6-1674654518 - Holdem no limit (15/30) - 2023/01/25 13:48:38 UTC
+Table: 'Expresso Nitro(626274834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AnelkAS64 (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+AnelkAS64 posts big blind 30
+Dealt to _SKR [Ks 8h]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+AnelkAS64 folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: _SKR (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689829930337828865-7-1674654526 - Holdem no limit (15/30) - 2023/01/25 13:48:46 UTC
+Table: 'Expresso Nitro(626274834)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AnelkAS64 (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+AnelkAS64 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5d 6d]
+*** PRE-FLOP *** 
+AnelkAS64 calls 15
+_SKR checks
+*** FLOP *** [6h Tc 7d]
+_SKR checks
+AnelkAS64 checks
+*** TURN *** [6h Tc 7d][8s]
+_SKR bets 60
+AnelkAS64 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6h Tc 7d 8s]
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689829930337828865-8-1674654536 - Holdem no limit (15/30) - 2023/01/25 13:48:56 UTC
+Table: 'Expresso Nitro(626274834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AnelkAS64 (570)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+AnelkAS64 posts big blind 30
+Dealt to _SKR [Th 6c]
+*** PRE-FLOP *** 
+_SKR folds
+AnelkAS64 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: AnelkAS64 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689829930337828865-9-1674654540 - Holdem no limit (15/30) - 2023/01/25 13:49:00 UTC
+Table: 'Expresso Nitro(626274834)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AnelkAS64 (585)
+Seat 3: _SKR (315)
+*** ANTE/BLINDS ***
+AnelkAS64 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5d 3s]
+*** PRE-FLOP *** 
+AnelkAS64 raises 60 to 90
+_SKR folds
+AnelkAS64 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: AnelkAS64 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689829930337828865-10-1674654545 - Holdem no limit (15/30) - 2023/01/25 13:49:05 UTC
+Table: 'Expresso Nitro(626274834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AnelkAS64 (615)
+Seat 3: _SKR (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+AnelkAS64 posts big blind 30
+Dealt to _SKR [Kd Ts]
+*** PRE-FLOP *** 
+_SKR raises 255 to 285 and is all-in
+AnelkAS64 calls 255
+*** FLOP *** [6h 8d Jd]
+*** TURN *** [6h 8d Jd][Td]
+*** RIVER *** [6h 8d Jd Td][Jc]
+*** SHOW DOWN ***
+_SKR shows [Kd Ts] (Two pairs : Jacks and Tens)
+AnelkAS64 shows [9h Qh] (Straight Queen high)
+AnelkAS64 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [6h 8d Jd Td Jc]
+Seat 1: AnelkAS64 (big blind) showed [9h Qh] and won 570 with Straight Queen high
+Seat 3: _SKR (small blind) (button) showed [Kd Ts] and lost with Two pairs : Jacks and Tens
+
+

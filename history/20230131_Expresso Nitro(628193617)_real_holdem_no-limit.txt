@@ -1,0 +1,70 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698071040570949633-1-1675179138 - Holdem no limit (10/20) - 2023/01/31 15:32:18 UTC
+Table: 'Expresso Nitro(628193617)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Chachaa75018 (300)
+Seat 2: _SKR (300)
+Seat 3: Diaspval0909 (300)
+*** ANTE/BLINDS ***
+Diaspval0909 posts small blind 10
+Chachaa75018 posts big blind 20
+Dealt to _SKR [7d 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Diaspval0909 calls 10
+Chachaa75018 checks
+*** FLOP *** [4h 5d 6h]
+Diaspval0909 checks
+Chachaa75018 bets 20
+Diaspval0909 calls 20
+*** TURN *** [4h 5d 6h][Qh]
+Diaspval0909 checks
+Chachaa75018 bets 20
+Diaspval0909 calls 20
+*** RIVER *** [4h 5d 6h Qh][Td]
+Diaspval0909 checks
+Chachaa75018 bets 42
+Diaspval0909 calls 42
+*** SHOW DOWN ***
+Chachaa75018 shows [4s Jd] (One pair : 4)
+Diaspval0909 shows [Th As] (One pair : Tens)
+Diaspval0909 collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [4h 5d 6h Qh Td]
+Seat 1: Chachaa75018 (big blind) showed [4s Jd] and lost with One pair : 4
+Seat 3: Diaspval0909 (small blind) showed [Th As] and won 204 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698071040570949633-2-1675179160 - Holdem no limit (10/20) - 2023/01/31 15:32:40 UTC
+Table: 'Expresso Nitro(628193617)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chachaa75018 (198)
+Seat 2: _SKR (300)
+Seat 3: Diaspval0909 (402)
+*** ANTE/BLINDS ***
+Chachaa75018 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd Kc]
+*** PRE-FLOP *** 
+Diaspval0909 calls 20
+Chachaa75018 raises 30 to 50
+_SKR calls 30
+Diaspval0909 calls 30
+*** FLOP *** [Th Jd 2d]
+Chachaa75018 bets 20
+_SKR raises 54 to 74
+Diaspval0909 calls 74
+Chachaa75018 folds
+*** TURN *** [Th Jd 2d][9h]
+_SKR bets 176 and is all-in
+Diaspval0909 calls 176
+*** RIVER *** [Th Jd 2d 9h][4d]
+*** SHOW DOWN ***
+_SKR shows [Kd Kc] (One pair : Kings)
+Diaspval0909 shows [Ad 6d] (Flush Ace high)
+Diaspval0909 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Th Jd 2d 9h 4d]
+Seat 2: _SKR (big blind) showed [Kd Kc] and lost with One pair : Kings
+Seat 3: Diaspval0909 (button) showed [Ad 6d] and won 670 with Flush Ace high
+
+

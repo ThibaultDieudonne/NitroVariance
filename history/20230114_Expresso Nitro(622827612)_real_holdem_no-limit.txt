@@ -1,0 +1,28 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675024224585777153-1-1673740579 - Holdem no limit (10/20) - 2023/01/14 23:56:19 UTC
+Table: 'Expresso Nitro(622827612)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Dji.R.2s (300)
+Seat 3: Pablo Chance (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Dji.R.2s posts big blind 20
+Dealt to _SKR [Ad 8c]
+*** PRE-FLOP *** 
+Pablo Chance calls 20
+_SKR raises 280 to 300 and is all-in
+Dji.R.2s calls 280 and is all-in
+Pablo Chance folds
+*** FLOP *** [Jc 9d Kd]
+*** TURN *** [Jc 9d Kd][8h]
+*** RIVER *** [Jc 9d Kd 8h][3d]
+*** SHOW DOWN ***
+_SKR shows [Ad 8c] (One pair : 8)
+Dji.R.2s shows [Kh 7h] (One pair : Kings)
+Dji.R.2s collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Jc 9d Kd 8h 3d]
+Seat 1: _SKR (small blind) showed [Ad 8c] and lost with One pair : 8
+Seat 2: Dji.R.2s (big blind) showed [Kh 7h] and won 620 with One pair : Kings
+
+

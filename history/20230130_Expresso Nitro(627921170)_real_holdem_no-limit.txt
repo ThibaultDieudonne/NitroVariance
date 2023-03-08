@@ -1,0 +1,103 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696900889616056321-1-1675102622 - Holdem no limit (10/20) - 2023/01/30 18:17:02 UTC
+Table: 'Expresso Nitro(627921170)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: pine-duitre6 (300)
+Seat 3: Rozana (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+pine-duitre6 posts big blind 20
+Dealt to _SKR [Kh Kd]
+*** PRE-FLOP *** 
+Rozana folds
+_SKR calls 10
+pine-duitre6 checks
+*** FLOP *** [6h 8c 3h]
+_SKR bets 20
+pine-duitre6 calls 20
+*** TURN *** [6h 8c 3h][4c]
+_SKR bets 52
+pine-duitre6 calls 52
+*** RIVER *** [6h 8c 3h 4c][2s]
+_SKR bets 208 and is all-in
+pine-duitre6 folds
+_SKR collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | No rake
+Board: [6h 8c 3h 4c 2s]
+Seat 1: _SKR (small blind) won 392
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696900889616056321-2-1675102649 - Holdem no limit (10/20) - 2023/01/30 18:17:29 UTC
+Table: 'Expresso Nitro(627921170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (392)
+Seat 2: pine-duitre6 (208)
+Seat 3: Rozana (300)
+*** ANTE/BLINDS ***
+pine-duitre6 posts small blind 10
+Rozana posts big blind 20
+Dealt to _SKR [8c 7d]
+*** PRE-FLOP *** 
+_SKR folds
+pine-duitre6 folds
+Rozana collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Rozana (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696900889616056321-3-1675102653 - Holdem no limit (10/20) - 2023/01/30 18:17:33 UTC
+Table: 'Expresso Nitro(627921170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (392)
+Seat 2: pine-duitre6 (198)
+Seat 3: Rozana (310)
+*** ANTE/BLINDS ***
+Rozana posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d 7s]
+*** PRE-FLOP *** 
+pine-duitre6 calls 20
+Rozana raises 290 to 310 and is all-in
+_SKR raises 82 to 392 and is all-in
+pine-duitre6 calls 178 and is all-in
+*** FLOP *** [Qs 2c 4d]
+*** TURN *** [Qs 2c 4d][9c]
+*** RIVER *** [Qs 2c 4d 9c][5d]
+*** SHOW DOWN ***
+pine-duitre6 shows [7h 8h] (High card : Queen)
+_SKR shows [7d 7s] (One pair : 7)
+Rozana shows [9s Ah] (One pair : 9)
+Rozana collected 818 from main pot
+_SKR collected 82 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qs 2c 4d 9c 5d]
+Seat 1: _SKR (big blind) showed [7d 7s] and won 82 with One pair : 7
+Seat 2: pine-duitre6 (button) showed [7h 8h] and lost with High card : Queen
+Seat 3: Rozana (small blind) showed [9s Ah] and won 818 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696900889616056321-4-1675102669 - Holdem no limit (10/20) - 2023/01/30 18:17:49 UTC
+Table: 'Expresso Nitro(627921170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (82)
+Seat 3: Rozana (818)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Rozana posts big blind 20
+Dealt to _SKR [Kh Tc]
+*** PRE-FLOP *** 
+_SKR raises 62 to 82 and is all-in
+Rozana calls 62
+*** FLOP *** [6c As 5d]
+*** TURN *** [6c As 5d][2c]
+*** RIVER *** [6c As 5d 2c][4h]
+*** SHOW DOWN ***
+_SKR shows [Kh Tc] (High card : Ace)
+Rozana shows [2s Ac] (Two pairs : Aces and 2)
+Rozana collected 164 from pot
+*** SUMMARY ***
+Total pot 164 | No rake
+Board: [6c As 5d 2c 4h]
+Seat 1: _SKR (small blind) (button) showed [Kh Tc] and lost with High card : Ace
+Seat 3: Rozana (big blind) showed [2s Ac] and won 164 with Two pairs : Aces and 2
+
+

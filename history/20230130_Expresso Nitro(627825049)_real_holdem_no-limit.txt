@@ -1,0 +1,130 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488053064597505-1-1675082863 - Holdem no limit (10/20) - 2023/01/30 12:47:43 UTC
+Table: 'Expresso Nitro(627825049)#0' 3-max (real money) Seat #2 is the button
+Seat 1: SIHEMBoss947 (300)
+Seat 2: dbrunoz (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+SIHEMBoss947 posts big blind 20
+Dealt to _SKR [5s Td]
+*** PRE-FLOP *** 
+dbrunoz calls 20
+_SKR folds
+SIHEMBoss947 raises 40 to 60
+dbrunoz calls 40
+*** FLOP *** [Qh Ac Th]
+SIHEMBoss947 bets 46
+dbrunoz folds
+SIHEMBoss947 collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | No rake
+Board: [Qh Ac Th]
+Seat 1: SIHEMBoss947 (big blind) won 176
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488053064597505-2-1675082896 - Holdem no limit (10/20) - 2023/01/30 12:48:16 UTC
+Table: 'Expresso Nitro(627825049)#0' 3-max (real money) Seat #3 is the button
+Seat 1: SIHEMBoss947 (370)
+Seat 2: dbrunoz (240)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+SIHEMBoss947 posts small blind 10
+dbrunoz posts big blind 20
+Dealt to _SKR [8d Jd]
+*** PRE-FLOP *** 
+_SKR folds
+SIHEMBoss947 calls 10
+dbrunoz checks
+*** FLOP *** [5d 6s Qs]
+SIHEMBoss947 checks
+dbrunoz checks
+*** TURN *** [5d 6s Qs][Ad]
+SIHEMBoss947 bets 20
+dbrunoz raises 45 to 65
+SIHEMBoss947 calls 45
+*** RIVER *** [5d 6s Qs Ad][9s]
+SIHEMBoss947 bets 59
+dbrunoz folds
+SIHEMBoss947 collected 229 from pot
+*** SUMMARY ***
+Total pot 229 | No rake
+Board: [5d 6s Qs Ad 9s]
+Seat 1: SIHEMBoss947 (small blind) won 229
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696488053064597505-3-1675082961 - Holdem no limit (15/30) - 2023/01/30 12:49:21 UTC
+Table: 'Expresso Nitro(627825049)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SIHEMBoss947 (455)
+Seat 2: dbrunoz (155)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+dbrunoz posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ts 3h]
+*** PRE-FLOP *** 
+SIHEMBoss947 calls 30
+dbrunoz calls 15
+_SKR checks
+*** FLOP *** [3d 7d Ad]
+dbrunoz checks
+_SKR checks
+SIHEMBoss947 bets 59
+dbrunoz calls 59
+_SKR folds
+*** TURN *** [3d 7d Ad][9h]
+dbrunoz bets 66 and is all-in
+SIHEMBoss947 calls 66
+*** RIVER *** [3d 7d Ad 9h][Ah]
+*** SHOW DOWN ***
+dbrunoz shows [8h 7h] (Two pairs : Aces and 7)
+SIHEMBoss947 shows [9d Th] (Two pairs : Aces and 9)
+SIHEMBoss947 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [3d 7d Ad 9h Ah]
+Seat 1: SIHEMBoss947 (button) showed [9d Th] and won 340 with Two pairs : Aces and 9
+Seat 2: dbrunoz (small blind) showed [8h 7h] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696488053064597505-4-1675083019 - Holdem no limit (20/40) - 2023/01/30 12:50:19 UTC
+Table: 'Expresso Nitro(627825049)#0' 3-max (real money) Seat #3 is the button
+Seat 1: SIHEMBoss947 (640)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+SIHEMBoss947 posts big blind 40
+Dealt to _SKR [7d Tc]
+*** PRE-FLOP *** 
+_SKR folds
+SIHEMBoss947 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: SIHEMBoss947 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696488053064597505-5-1675083023 - Holdem no limit (20/40) - 2023/01/30 12:50:23 UTC
+Table: 'Expresso Nitro(627825049)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SIHEMBoss947 (660)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+SIHEMBoss947 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Td Qh]
+*** PRE-FLOP *** 
+SIHEMBoss947 calls 20
+_SKR raises 200 to 240 and is all-in
+SIHEMBoss947 calls 200
+*** FLOP *** [7h Tc 3s]
+*** TURN *** [7h Tc 3s][Kd]
+*** RIVER *** [7h Tc 3s Kd][5d]
+*** SHOW DOWN ***
+_SKR shows [Td Qh] (One pair : Tens)
+SIHEMBoss947 shows [Ah As] (One pair : Aces)
+SIHEMBoss947 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [7h Tc 3s Kd 5d]
+Seat 1: SIHEMBoss947 (small blind) (button) showed [Ah As] and won 480 with One pair : Aces
+Seat 3: _SKR (big blind) showed [Td Qh] and lost with One pair : Tens
+
+

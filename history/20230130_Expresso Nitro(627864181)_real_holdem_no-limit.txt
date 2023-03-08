@@ -1,0 +1,29 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696656123724824577-1-1675091952 - Holdem no limit (10/20) - 2023/01/30 15:19:12 UTC
+Table: 'Expresso Nitro(627864181)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cheaps&Fish (300)
+Seat 2: CALLfredo (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Cheaps&Fish posts small blind 10
+CALLfredo posts big blind 20
+Dealt to _SKR [Qs Kd]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Cheaps&Fish calls 290 and is all-in
+CALLfredo calls 280 and is all-in
+*** FLOP *** [2s Qh Kh]
+*** TURN *** [2s Qh Kh][Jc]
+*** RIVER *** [2s Qh Kh Jc][2d]
+*** SHOW DOWN ***
+Cheaps&Fish shows [Ad Ks] (Two pairs : Kings and 2)
+CALLfredo shows [6c 9d] (One pair : 2)
+_SKR shows [Qs Kd] (Two pairs : Kings and Queens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2s Qh Kh Jc 2d]
+Seat 1: Cheaps&Fish (small blind) showed [Ad Ks] and lost with Two pairs : Kings and 2
+Seat 2: CALLfredo (big blind) showed [6c 9d] and lost with One pair : 2
+Seat 3: _SKR (button) showed [Qs Kd] and won 900 with Two pairs : Kings and Queens
+
+

@@ -1,0 +1,224 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695247026559385601-1-1675002171 - Holdem no limit (10/20) - 2023/01/29 14:22:51 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LA SOMTUEUSE (300)
+Seat 2: _SKR (300)
+Seat 3: -Ajean- (300)
+*** ANTE/BLINDS ***
+LA SOMTUEUSE posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 8c]
+*** PRE-FLOP *** 
+-Ajean- folds
+LA SOMTUEUSE raises 280 to 300 and is all-in
+_SKR folds
+LA SOMTUEUSE collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: LA SOMTUEUSE (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695247026559385601-2-1675002189 - Holdem no limit (10/20) - 2023/01/29 14:23:09 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LA SOMTUEUSE (320)
+Seat 2: _SKR (280)
+Seat 3: -Ajean- (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+-Ajean- posts big blind 20
+Dealt to _SKR [7d 5s]
+*** PRE-FLOP *** 
+LA SOMTUEUSE raises 300 to 320 and is all-in
+_SKR folds
+-Ajean- calls 280 and is all-in
+*** FLOP *** [9s 4s 3h]
+*** TURN *** [9s 4s 3h][4c]
+*** RIVER *** [9s 4s 3h 4c][7h]
+*** SHOW DOWN ***
+LA SOMTUEUSE shows [Tc Qc] (One pair : 4)
+-Ajean- shows [8h Ah] (One pair : 4)
+-Ajean- collected 610 from main pot
+LA SOMTUEUSE collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [9s 4s 3h 4c 7h]
+Seat 1: LA SOMTUEUSE (button) showed [Tc Qc] and won 20 with One pair : 4
+Seat 3: -Ajean- (big blind) showed [8h Ah] and won 610 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695247026559385601-3-1675002202 - Holdem no limit (10/20) - 2023/01/29 14:23:22 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LA SOMTUEUSE (20)
+Seat 2: _SKR (270)
+Seat 3: -Ajean- (610)
+*** ANTE/BLINDS ***
+-Ajean- posts small blind 10
+LA SOMTUEUSE posts big blind 20 and is all-in
+Dealt to _SKR [8s 7c]
+*** PRE-FLOP *** 
+_SKR folds
+-Ajean- raises 20 to 40
+*** FLOP *** [Tc 3c 6c]
+*** TURN *** [Tc 3c 6c][Qd]
+*** RIVER *** [Tc 3c 6c Qd][4h]
+*** SHOW DOWN ***
+LA SOMTUEUSE shows [Ac 7s] (High card : Ace)
+-Ajean- shows [Ah Kh] (High card : Ace)
+-Ajean- collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Tc 3c 6c Qd 4h]
+Seat 1: LA SOMTUEUSE (big blind) showed [Ac 7s] and lost with High card : Ace
+Seat 3: -Ajean- (small blind) showed [Ah Kh] and won 60 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695247026559385601-4-1675002217 - Holdem no limit (10/20) - 2023/01/29 14:23:37 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (270)
+Seat 3: -Ajean- (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+-Ajean- posts big blind 20
+Dealt to _SKR [5s Kd]
+*** PRE-FLOP *** 
+_SKR folds
+-Ajean- collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: -Ajean- (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695247026559385601-5-1675002222 - Holdem no limit (10/20) - 2023/01/29 14:23:42 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (260)
+Seat 3: -Ajean- (640)
+*** ANTE/BLINDS ***
+-Ajean- posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9c As]
+*** PRE-FLOP *** 
+-Ajean- raises 620 to 640 and is all-in
+_SKR calls 240 and is all-in
+*** FLOP *** [6c Jd 8h]
+*** TURN *** [6c Jd 8h][Ks]
+*** RIVER *** [6c Jd 8h Ks][Ts]
+*** SHOW DOWN ***
+_SKR shows [9c As] (High card : Ace)
+-Ajean- shows [Ac 4h] (High card : Ace)
+-Ajean- collected 380 from side pot 1
+_SKR collected 520 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c Jd 8h Ks Ts]
+Seat 2: _SKR (big blind) showed [9c As] and won 520 with High card : Ace
+Seat 3: -Ajean- (small blind) (button) showed [Ac 4h] and won 380 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695247026559385601-6-1675002236 - Holdem no limit (15/30) - 2023/01/29 14:23:56 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (520)
+Seat 3: -Ajean- (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+-Ajean- posts big blind 30
+Dealt to _SKR [6d Ah]
+*** PRE-FLOP *** 
+_SKR raises 490 to 520 and is all-in
+-Ajean- folds
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 2: _SKR (small blind) (button) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695247026559385601-7-1675002249 - Holdem no limit (15/30) - 2023/01/29 14:24:09 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (550)
+Seat 3: -Ajean- (350)
+*** ANTE/BLINDS ***
+-Ajean- posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh 8c]
+*** PRE-FLOP *** 
+-Ajean- raises 320 to 350 and is all-in
+_SKR folds
+-Ajean- collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: -Ajean- (small blind) (button) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695247026559385601-8-1675002257 - Holdem no limit (15/30) - 2023/01/29 14:24:17 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (520)
+Seat 3: -Ajean- (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+-Ajean- posts big blind 30
+Dealt to _SKR [As 2s]
+*** PRE-FLOP *** 
+_SKR raises 490 to 520 and is all-in
+-Ajean- folds
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 2: _SKR (small blind) (button) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695247026559385601-9-1675002265 - Holdem no limit (15/30) - 2023/01/29 14:24:25 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (550)
+Seat 3: -Ajean- (350)
+*** ANTE/BLINDS ***
+-Ajean- posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah 6c]
+*** PRE-FLOP *** 
+-Ajean- folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695247026559385601-10-1675002270 - Holdem no limit (15/30) - 2023/01/29 14:24:30 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (565)
+Seat 3: -Ajean- (335)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+-Ajean- posts big blind 30
+Dealt to _SKR [9h 5c]
+*** PRE-FLOP *** 
+_SKR folds
+-Ajean- collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: -Ajean- (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695247026559385601-11-1675002275 - Holdem no limit (15/30) - 2023/01/29 14:24:35 UTC
+Table: 'Expresso Nitro(627536100)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (550)
+Seat 3: -Ajean- (350)
+*** ANTE/BLINDS ***
+-Ajean- posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh Js]
+*** PRE-FLOP *** 
+-Ajean- calls 15
+_SKR raises 520 to 550 and is all-in
+-Ajean- calls 320 and is all-in
+*** FLOP *** [4s 5s Jc]
+*** TURN *** [4s 5s Jc][2c]
+*** RIVER *** [4s 5s Jc 2c][5c]
+*** SHOW DOWN ***
+-Ajean- shows [Ah 7d] (One pair : 5)
+_SKR shows [Kh Js] (Two pairs : Jacks and 5)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 5s Jc 2c 5c]
+Seat 2: _SKR (big blind) showed [Kh Js] and won 900 with Two pairs : Jacks and 5
+Seat 3: -Ajean- (small blind) (button) showed [Ah 7d] and lost with One pair : 5
+
+

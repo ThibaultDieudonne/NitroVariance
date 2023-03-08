@@ -1,0 +1,361 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689835092888518657-1-1674654766 - Holdem no limit (10/20) - 2023/01/25 13:52:46 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Weakfish33 (300)
+Seat 2: _SKR (300)
+Seat 3: GolDrwa (300)
+*** ANTE/BLINDS ***
+GolDrwa posts small blind 10
+Weakfish33 posts big blind 20
+Dealt to _SKR [Qs 6h]
+*** PRE-FLOP *** 
+_SKR folds
+GolDrwa folds
+Weakfish33 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Weakfish33 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689835092888518657-2-1674654773 - Holdem no limit (10/20) - 2023/01/25 13:52:53 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Weakfish33 (310)
+Seat 2: _SKR (300)
+Seat 3: GolDrwa (290)
+*** ANTE/BLINDS ***
+Weakfish33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 9c]
+*** PRE-FLOP *** 
+GolDrwa folds
+Weakfish33 raises 20 to 40
+_SKR calls 20
+*** FLOP *** [Qc 9s 2c]
+Weakfish33 bets 52
+_SKR calls 52
+*** TURN *** [Qc 9s 2c][6d]
+Weakfish33 checks
+_SKR bets 64
+Weakfish33 calls 64
+*** RIVER *** [Qc 9s 2c 6d][6c]
+Weakfish33 bets 154 and is all-in
+_SKR calls 144 and is all-in
+*** SHOW DOWN ***
+Weakfish33 shows [Tc 9d] (Two pairs : 9 and 6)
+_SKR shows [Qh 9c] (Two pairs : Queens and 9)
+_SKR collected 600 from main pot
+Weakfish33 collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Qc 9s 2c 6d 6c]
+Seat 1: Weakfish33 (small blind) showed [Tc 9d] and won 10 with Two pairs : 9 and 6
+Seat 2: _SKR (big blind) showed [Qh 9c] and won 600 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689835092888518657-3-1674654820 - Holdem no limit (10/20) - 2023/01/25 13:53:40 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Weakfish33 (10)
+Seat 2: _SKR (600)
+Seat 3: GolDrwa (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+GolDrwa posts big blind 20
+Dealt to _SKR [4s Th]
+*** PRE-FLOP *** 
+Weakfish33 calls 10 and is all-in
+_SKR folds
+*** FLOP *** [Qs Ts 3h]
+*** TURN *** [Qs Ts 3h][2d]
+*** RIVER *** [Qs Ts 3h 2d][Kd]
+*** SHOW DOWN ***
+Weakfish33 shows [Qh 2h] (Two pairs : Queens and 2)
+GolDrwa shows [3d 6c] (One pair : 3)
+GolDrwa collected 10 from side pot 1
+Weakfish33 collected 30 from main pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qs Ts 3h 2d Kd]
+Seat 1: Weakfish33 (button) showed [Qh 2h] and won 30 with Two pairs : Queens and 2
+Seat 3: GolDrwa (big blind) showed [3d 6c] and won 10 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689835092888518657-4-1674654833 - Holdem no limit (15/30) - 2023/01/25 13:53:53 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Weakfish33 (30)
+Seat 2: _SKR (590)
+Seat 3: GolDrwa (280)
+*** ANTE/BLINDS ***
+GolDrwa posts small blind 15
+Weakfish33 posts big blind 30 and is all-in
+Dealt to _SKR [Ts Kc]
+*** PRE-FLOP *** 
+_SKR raises 560 to 590 and is all-in
+GolDrwa folds
+*** FLOP *** [Ad 3c 7d]
+*** TURN *** [Ad 3c 7d][Qc]
+*** RIVER *** [Ad 3c 7d Qc][7c]
+*** SHOW DOWN ***
+Weakfish33 shows [8s 6d] (One pair : 7)
+_SKR shows [Ts Kc] (One pair : 7)
+_SKR collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | No rake
+Board: [Ad 3c 7d Qc 7c]
+Seat 1: Weakfish33 (big blind) showed [8s 6d] and lost with One pair : 7
+Seat 2: _SKR (button) showed [Ts Kc] and won 635 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689835092888518657-5-1674654851 - Holdem no limit (15/30) - 2023/01/25 13:54:11 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (635)
+Seat 3: GolDrwa (265)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+GolDrwa posts big blind 30
+Dealt to _SKR [6s 2h]
+*** PRE-FLOP *** 
+_SKR folds
+GolDrwa collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: GolDrwa (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689835092888518657-6-1674654855 - Holdem no limit (15/30) - 2023/01/25 13:54:15 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: GolDrwa (280)
+*** ANTE/BLINDS ***
+GolDrwa posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th Ts]
+*** PRE-FLOP *** 
+GolDrwa folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689835092888518657-7-1674654858 - Holdem no limit (15/30) - 2023/01/25 13:54:18 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (635)
+Seat 3: GolDrwa (265)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+GolDrwa posts big blind 30
+Dealt to _SKR [Jc Ac]
+*** PRE-FLOP *** 
+_SKR raises 605 to 635 and is all-in
+GolDrwa folds
+_SKR collected 665 from pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Seat 2: _SKR (small blind) (button) won 665
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689835092888518657-8-1674654863 - Holdem no limit (15/30) - 2023/01/25 13:54:23 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (665)
+Seat 3: GolDrwa (235)
+*** ANTE/BLINDS ***
+GolDrwa posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3h 9s]
+*** PRE-FLOP *** 
+GolDrwa folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689835092888518657-9-1674654866 - Holdem no limit (15/30) - 2023/01/25 13:54:26 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (680)
+Seat 3: GolDrwa (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+GolDrwa posts big blind 30
+Dealt to _SKR [Jd 2h]
+*** PRE-FLOP *** 
+_SKR folds
+GolDrwa collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: GolDrwa (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689835092888518657-10-1674654871 - Holdem no limit (15/30) - 2023/01/25 13:54:31 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (665)
+Seat 3: GolDrwa (235)
+*** ANTE/BLINDS ***
+GolDrwa posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8c Ks]
+*** PRE-FLOP *** 
+GolDrwa raises 205 to 235 and is all-in
+_SKR calls 205
+*** FLOP *** [6d 6h Jh]
+*** TURN *** [6d 6h Jh][5c]
+*** RIVER *** [6d 6h Jh 5c][Tc]
+*** SHOW DOWN ***
+_SKR shows [8c Ks] (One pair : 6)
+GolDrwa shows [Ac 4s] (One pair : 6)
+GolDrwa collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [6d 6h Jh 5c Tc]
+Seat 2: _SKR (big blind) showed [8c Ks] and lost with One pair : 6
+Seat 3: GolDrwa (small blind) (button) showed [Ac 4s] and won 470 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689835092888518657-11-1674654885 - Holdem no limit (20/40) - 2023/01/25 13:54:45 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (430)
+Seat 3: GolDrwa (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+GolDrwa posts big blind 40
+Dealt to _SKR [9c As]
+*** PRE-FLOP *** 
+_SKR raises 390 to 430 and is all-in
+GolDrwa folds
+_SKR collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 2: _SKR (small blind) (button) won 470
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689835092888518657-12-1674654891 - Holdem no limit (20/40) - 2023/01/25 13:54:51 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (470)
+Seat 3: GolDrwa (430)
+*** ANTE/BLINDS ***
+GolDrwa posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh 3s]
+*** PRE-FLOP *** 
+GolDrwa raises 390 to 430 and is all-in
+_SKR folds
+GolDrwa collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 3: GolDrwa (small blind) (button) won 470
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689835092888518657-13-1674654895 - Holdem no limit (20/40) - 2023/01/25 13:54:55 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (430)
+Seat 3: GolDrwa (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+GolDrwa posts big blind 40
+Dealt to _SKR [Qh 6s]
+*** PRE-FLOP *** 
+_SKR folds
+GolDrwa collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: GolDrwa (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689835092888518657-14-1674654900 - Holdem no limit (20/40) - 2023/01/25 13:55:00 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (410)
+Seat 3: GolDrwa (490)
+*** ANTE/BLINDS ***
+GolDrwa posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 9s]
+*** PRE-FLOP *** 
+GolDrwa folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689835092888518657-15-1674654904 - Holdem no limit (20/40) - 2023/01/25 13:55:04 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (430)
+Seat 3: GolDrwa (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+GolDrwa posts big blind 40
+Dealt to _SKR [2s 9s]
+*** PRE-FLOP *** 
+_SKR folds
+GolDrwa collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: GolDrwa (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689835092888518657-16-1674654907 - Holdem no limit (20/40) - 2023/01/25 13:55:07 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (410)
+Seat 3: GolDrwa (490)
+*** ANTE/BLINDS ***
+GolDrwa posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8d Kh]
+*** PRE-FLOP *** 
+GolDrwa raises 450 to 490 and is all-in
+_SKR calls 370 and is all-in
+*** FLOP *** [Js 8s Kc]
+*** TURN *** [Js 8s Kc][Td]
+*** RIVER *** [Js 8s Kc Td][5c]
+*** SHOW DOWN ***
+_SKR shows [8d Kh] (Two pairs : Kings and 8)
+GolDrwa shows [Qc Tc] (One pair : Tens)
+GolDrwa collected 80 from side pot 1
+_SKR collected 820 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js 8s Kc Td 5c]
+Seat 2: _SKR (big blind) showed [8d Kh] and won 820 with Two pairs : Kings and 8
+Seat 3: GolDrwa (small blind) (button) showed [Qc Tc] and won 80 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689835092888518657-17-1674654919 - Holdem no limit (20/40) - 2023/01/25 13:55:19 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (820)
+Seat 3: GolDrwa (80)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+GolDrwa posts big blind 40
+Dealt to _SKR [4d 9s]
+*** PRE-FLOP *** 
+_SKR folds
+GolDrwa collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: GolDrwa (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689835092888518657-18-1674654922 - Holdem no limit (20/40) - 2023/01/25 13:55:22 UTC
+Table: 'Expresso Nitro(626276036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (800)
+Seat 3: GolDrwa (100)
+*** ANTE/BLINDS ***
+GolDrwa posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s 4c]
+*** PRE-FLOP *** 
+GolDrwa raises 60 to 100 and is all-in
+_SKR calls 60
+*** FLOP *** [9d 6h 4d]
+*** TURN *** [9d 6h 4d][5s]
+*** RIVER *** [9d 6h 4d 5s][Qs]
+*** SHOW DOWN ***
+GolDrwa shows [5d 3s] (One pair : 5)
+_SKR shows [4s 4c] (Trips of 4)
+_SKR collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [9d 6h 4d 5s Qs]
+Seat 2: _SKR (big blind) showed [4s 4c] and won 200 with Trips of 4
+Seat 3: GolDrwa (small blind) (button) showed [5d 3s] and lost with One pair : 5
+
+

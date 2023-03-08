@@ -1,0 +1,136 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661383563072503809-1-1673012302 - Holdem no limit (10/20) - 2023/01/06 13:38:22 UTC
+Table: 'Expresso Nitro(619651648)#0' 3-max (real money) Seat #2 is the button
+Seat 1: merata (300)
+Seat 2: Foufou876 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+merata posts big blind 20
+Dealt to _SKR [Ac Ts]
+*** PRE-FLOP *** 
+Foufou876 calls 20
+_SKR raises 280 to 300 and is all-in
+merata folds
+Foufou876 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661383563072503809-2-1673012326 - Holdem no limit (10/20) - 2023/01/06 13:38:46 UTC
+Table: 'Expresso Nitro(619651648)#0' 3-max (real money) Seat #3 is the button
+Seat 1: merata (280)
+Seat 2: Foufou876 (280)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+merata posts small blind 10
+Foufou876 posts big blind 20
+Dealt to _SKR [8s 6h]
+*** PRE-FLOP *** 
+_SKR folds
+merata calls 10
+Foufou876 checks
+*** FLOP *** [9d 8d 5c]
+merata bets 20
+Foufou876 calls 20
+*** TURN *** [9d 8d 5c][8c]
+merata bets 40
+Foufou876 calls 40
+*** RIVER *** [9d 8d 5c 8c][4c]
+merata checks
+Foufou876 bets 104
+merata calls 104
+*** SHOW DOWN ***
+Foufou876 shows [7c 3s] (One pair : 8)
+merata shows [7s 9c] (Two pairs : 9 and 8)
+merata collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | No rake
+Board: [9d 8d 5c 8c 4c]
+Seat 1: merata (small blind) showed [7s 9c] and won 368 with Two pairs : 9 and 8
+Seat 2: Foufou876 (big blind) showed [7c 3s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661383563072503809-3-1673012398 - Holdem no limit (15/30) - 2023/01/06 13:39:58 UTC
+Table: 'Expresso Nitro(619651648)#0' 3-max (real money) Seat #1 is the button
+Seat 1: merata (464)
+Seat 2: Foufou876 (96)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+Foufou876 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd Kc]
+*** PRE-FLOP *** 
+merata folds
+Foufou876 raises 66 to 96 and is all-in
+_SKR raises 66 to 162
+*** FLOP *** [9d 2c 4c]
+*** TURN *** [9d 2c 4c][Jh]
+*** RIVER *** [9d 2c 4c Jh][Js]
+*** SHOW DOWN ***
+Foufou876 shows [5h 8s] (One pair : Jacks)
+_SKR shows [Kd Kc] (Two pairs : Kings and Jacks)
+_SKR collected 258 from pot
+*** SUMMARY ***
+Total pot 258 | No rake
+Board: [9d 2c 4c Jh Js]
+Seat 2: Foufou876 (small blind) showed [5h 8s] and lost with One pair : Jacks
+Seat 3: _SKR (big blind) showed [Kd Kc] and won 258 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661383563072503809-4-1673012414 - Holdem no limit (15/30) - 2023/01/06 13:40:14 UTC
+Table: 'Expresso Nitro(619651648)#0' 3-max (real money) Seat #3 is the button
+Seat 1: merata (464)
+Seat 3: _SKR (436)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+merata posts big blind 30
+Dealt to _SKR [9d Kh]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+merata calls 30
+*** FLOP *** [7c 6h 5s]
+merata checks
+_SKR checks
+*** TURN *** [7c 6h 5s][8s]
+merata checks
+_SKR bets 60
+merata calls 60
+*** RIVER *** [7c 6h 5s 8s][3h]
+merata checks
+_SKR bets 156
+merata folds
+_SKR collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [7c 6h 5s 8s 3h]
+Seat 3: _SKR (small blind) (button) won 396
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661383563072503809-5-1673012470 - Holdem no limit (20/40) - 2023/01/06 13:41:10 UTC
+Table: 'Expresso Nitro(619651648)#0' 3-max (real money) Seat #1 is the button
+Seat 1: merata (344)
+Seat 3: _SKR (556)
+*** ANTE/BLINDS ***
+merata posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kd Kh]
+*** PRE-FLOP *** 
+merata calls 20
+_SKR raises 516 to 556 and is all-in
+merata calls 304 and is all-in
+*** FLOP *** [Qh 5s Kc]
+*** TURN *** [Qh 5s Kc][4s]
+*** RIVER *** [Qh 5s Kc 4s][Qc]
+*** SHOW DOWN ***
+merata shows [6d Ad] (One pair : Queens)
+_SKR shows [Kd Kh] (Full of Kings and Queens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qh 5s Kc 4s Qc]
+Seat 1: merata (small blind) (button) showed [6d Ad] and lost with One pair : Queens
+Seat 3: _SKR (big blind) showed [Kd Kh] and won 900 with Full of Kings and Queens
+
+

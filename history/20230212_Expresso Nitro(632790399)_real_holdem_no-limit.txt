@@ -1,0 +1,269 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814068927791105-1-1676236276 - Holdem no limit (10/20) - 2023/02/12 21:11:16 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #1 is the button
+Seat 1: topee (300)
+Seat 2: _SKR (300)
+Seat 3: kst3456 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+kst3456 posts big blind 20
+Dealt to _SKR [2c Jh]
+*** PRE-FLOP *** 
+topee folds
+_SKR folds
+kst3456 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: kst3456 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814068927791105-2-1676236287 - Holdem no limit (10/20) - 2023/02/12 21:11:27 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #2 is the button
+Seat 1: topee (300)
+Seat 2: _SKR (290)
+Seat 3: kst3456 (310)
+*** ANTE/BLINDS ***
+kst3456 posts small blind 10
+topee posts big blind 20
+Dealt to _SKR [Kc 6d]
+*** PRE-FLOP *** 
+_SKR folds
+kst3456 folds
+topee collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: topee (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814068927791105-3-1676236295 - Holdem no limit (10/20) - 2023/02/12 21:11:35 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #3 is the button
+Seat 1: topee (310)
+Seat 2: _SKR (290)
+Seat 3: kst3456 (300)
+*** ANTE/BLINDS ***
+topee posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 8s]
+*** PRE-FLOP *** 
+kst3456 folds
+topee raises 290 to 310 and is all-in
+_SKR folds
+topee collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: topee (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814068927791105-4-1676236305 - Holdem no limit (10/20) - 2023/02/12 21:11:45 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #1 is the button
+Seat 1: topee (330)
+Seat 2: _SKR (270)
+Seat 3: kst3456 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+kst3456 posts big blind 20
+Dealt to _SKR [6h Jh]
+*** PRE-FLOP *** 
+topee folds
+_SKR raises 20 to 40
+kst3456 calls 20
+*** FLOP *** [5s 7d As]
+_SKR checks
+kst3456 bets 28
+_SKR folds
+kst3456 collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [5s 7d As]
+Seat 3: kst3456 (big blind) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814068927791105-5-1676236324 - Holdem no limit (10/20) - 2023/02/12 21:12:04 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #2 is the button
+Seat 1: topee (330)
+Seat 2: _SKR (230)
+Seat 3: kst3456 (340)
+*** ANTE/BLINDS ***
+kst3456 posts small blind 10
+topee posts big blind 20
+Dealt to _SKR [Ks Qs]
+*** PRE-FLOP *** 
+_SKR raises 210 to 230 and is all-in
+kst3456 folds
+topee calls 210
+*** FLOP *** [Js Kc 4c]
+*** TURN *** [Js Kc 4c][6d]
+*** RIVER *** [Js Kc 4c 6d][Ah]
+*** SHOW DOWN ***
+topee shows [Kh Qc] (One pair : Kings)
+_SKR shows [Ks Qs] (One pair : Kings)
+_SKR collected 235 from pot
+topee collected 235 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [Js Kc 4c 6d Ah]
+Seat 1: topee (big blind) showed [Kh Qc] and won 235 with One pair : Kings
+Seat 2: _SKR (button) showed [Ks Qs] and won 235 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717814068927791105-6-1676236340 - Holdem no limit (15/30) - 2023/02/12 21:12:20 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #3 is the button
+Seat 1: topee (335)
+Seat 2: _SKR (235)
+Seat 3: kst3456 (330)
+*** ANTE/BLINDS ***
+topee posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 9h]
+*** PRE-FLOP *** 
+kst3456 folds
+topee calls 15
+_SKR checks
+*** FLOP *** [7s 9d 4d]
+topee checks
+_SKR checks
+*** TURN *** [7s 9d 4d][4c]
+topee checks
+_SKR checks
+*** RIVER *** [7s 9d 4d 4c][9c]
+topee checks
+_SKR checks
+*** SHOW DOWN ***
+topee shows [Qd 5h] (Two pairs : 9 and 4)
+_SKR shows [2c 9h] (Full of 9 and 4)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7s 9d 4d 4c 9c]
+Seat 1: topee (small blind) showed [Qd 5h] and lost with Two pairs : 9 and 4
+Seat 2: _SKR (big blind) showed [2c 9h] and won 60 with Full of 9 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717814068927791105-7-1676236365 - Holdem no limit (15/30) - 2023/02/12 21:12:45 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #1 is the button
+Seat 1: topee (305)
+Seat 2: _SKR (265)
+Seat 3: kst3456 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+kst3456 posts big blind 30
+Dealt to _SKR [6c 3d]
+*** PRE-FLOP *** 
+topee raises 275 to 305 and is all-in
+_SKR folds
+kst3456 calls 275
+*** FLOP *** [8s 6s 6h]
+*** TURN *** [8s 6s 6h][5c]
+*** RIVER *** [8s 6s 6h 5c][2s]
+*** SHOW DOWN ***
+kst3456 shows [3c Ad] (One pair : 6)
+topee shows [8h Qd] (Two pairs : 8 and 6)
+topee collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [8s 6s 6h 5c 2s]
+Seat 1: topee (button) showed [8h Qd] and won 625 with Two pairs : 8 and 6
+Seat 3: kst3456 (big blind) showed [3c Ad] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717814068927791105-8-1676236380 - Holdem no limit (15/30) - 2023/02/12 21:13:00 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #2 is the button
+Seat 1: topee (625)
+Seat 2: _SKR (250)
+Seat 3: kst3456 (25)
+*** ANTE/BLINDS ***
+kst3456 posts small blind 15
+topee posts big blind 30
+Dealt to _SKR [2c 8d]
+*** PRE-FLOP *** 
+_SKR folds
+kst3456 calls 10 and is all-in
+*** FLOP *** [Th 8h 9c]
+*** TURN *** [Th 8h 9c][6h]
+*** RIVER *** [Th 8h 9c 6h][6s]
+*** SHOW DOWN ***
+kst3456 shows [9s As] (Two pairs : 9 and 6)
+topee shows [5h 7s] (Straight Ten high)
+topee collected 55 from pot
+*** SUMMARY ***
+Total pot 55 | No rake
+Board: [Th 8h 9c 6h 6s]
+Seat 1: topee (big blind) showed [5h 7s] and won 55 with Straight Ten high
+Seat 3: kst3456 (small blind) showed [9s As] and lost with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717814068927791105-9-1676236395 - Holdem no limit (20/40) - 2023/02/12 21:13:15 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #1 is the button
+Seat 1: topee (650)
+Seat 2: _SKR (250)
+*** ANTE/BLINDS ***
+topee posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3h 6h]
+*** PRE-FLOP *** 
+topee raises 610 to 650 and is all-in
+_SKR folds
+topee collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Seat 1: topee (small blind) (button) won 690
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717814068927791105-10-1676236407 - Holdem no limit (20/40) - 2023/02/12 21:13:27 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #2 is the button
+Seat 1: topee (690)
+Seat 2: _SKR (210)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+topee posts big blind 40
+Dealt to _SKR [Kd Tc]
+*** PRE-FLOP *** 
+_SKR raises 170 to 210 and is all-in
+topee folds
+_SKR collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 2: _SKR (small blind) (button) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717814068927791105-11-1676236415 - Holdem no limit (20/40) - 2023/02/12 21:13:35 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #1 is the button
+Seat 1: topee (650)
+Seat 2: _SKR (250)
+*** ANTE/BLINDS ***
+topee posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s 2s]
+*** PRE-FLOP *** 
+topee raises 610 to 650 and is all-in
+_SKR folds
+topee collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Seat 1: topee (small blind) (button) won 690
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717814068927791105-12-1676236422 - Holdem no limit (20/40) - 2023/02/12 21:13:42 UTC
+Table: 'Expresso Nitro(632790399)#0' 3-max (real money) Seat #2 is the button
+Seat 1: topee (690)
+Seat 2: _SKR (210)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+topee posts big blind 40
+Dealt to _SKR [Kc Qc]
+*** PRE-FLOP *** 
+_SKR raises 170 to 210 and is all-in
+topee calls 170
+*** FLOP *** [5s 7h 2d]
+*** TURN *** [5s 7h 2d][3s]
+*** RIVER *** [5s 7h 2d 3s][2c]
+*** SHOW DOWN ***
+_SKR shows [Kc Qc] (One pair : 2)
+topee shows [5h Jd] (Two pairs : 5 and 2)
+topee collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [5s 7h 2d 3s 2c]
+Seat 1: topee (big blind) showed [5h Jd] and won 420 with Two pairs : 5 and 2
+Seat 2: _SKR (small blind) (button) showed [Kc Qc] and lost with One pair : 2
+
+

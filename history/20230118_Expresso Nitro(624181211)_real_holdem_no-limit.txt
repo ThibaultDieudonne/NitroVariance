@@ -1,0 +1,374 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680837888022675457-1-1674081582 - Holdem no limit (10/20) - 2023/01/18 22:39:42 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: asiadudus (300)
+Seat 2: Linhoy (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+asiadudus posts small blind 10
+Linhoy posts big blind 20
+Dealt to _SKR [4s Th]
+*** PRE-FLOP *** 
+_SKR folds
+asiadudus calls 10
+Linhoy checks
+*** FLOP *** [3h 5c 3d]
+asiadudus checks
+Linhoy checks
+*** TURN *** [3h 5c 3d][Qd]
+asiadudus bets 26
+Linhoy calls 26
+*** RIVER *** [3h 5c 3d Qd][2h]
+asiadudus bets 32
+Linhoy folds
+asiadudus collected 124 from pot
+*** SUMMARY ***
+Total pot 124 | No rake
+Board: [3h 5c 3d Qd 2h]
+Seat 1: asiadudus (small blind) won 124
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680837888022675457-2-1674081611 - Holdem no limit (10/20) - 2023/01/18 22:40:11 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #1 is the button
+Seat 1: asiadudus (346)
+Seat 2: Linhoy (254)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Linhoy posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s 9c]
+*** PRE-FLOP *** 
+asiadudus folds
+Linhoy calls 10
+_SKR checks
+*** FLOP *** [2h 9h 4d]
+Linhoy checks
+_SKR checks
+*** TURN *** [2h 9h 4d][Kd]
+Linhoy checks
+_SKR checks
+*** RIVER *** [2h 9h 4d Kd][Ah]
+Linhoy checks
+_SKR checks
+*** SHOW DOWN ***
+Linhoy shows [8h 4c] (One pair : 4)
+_SKR shows [3s 9c] (One pair : 9)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2h 9h 4d Kd Ah]
+Seat 2: Linhoy (small blind) showed [8h 4c] and lost with One pair : 4
+Seat 3: _SKR (big blind) showed [3s 9c] and won 40 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680837888022675457-3-1674081649 - Holdem no limit (15/30) - 2023/01/18 22:40:49 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #2 is the button
+Seat 1: asiadudus (346)
+Seat 2: Linhoy (234)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+asiadudus posts big blind 30
+Dealt to _SKR [9s 8c]
+*** PRE-FLOP *** 
+Linhoy calls 30
+_SKR folds
+asiadudus checks
+*** FLOP *** [9d 8h Kh]
+asiadudus checks
+Linhoy checks
+*** TURN *** [9d 8h Kh][Jc]
+asiadudus checks
+Linhoy checks
+*** RIVER *** [9d 8h Kh Jc][Qc]
+asiadudus checks
+Linhoy checks
+*** SHOW DOWN ***
+asiadudus shows [3c 5d] (High card : King)
+Linhoy shows [Js Qs] (Two pairs : Queens and Jacks)
+Linhoy collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [9d 8h Kh Jc Qc]
+Seat 1: asiadudus (big blind) showed [3c 5d] and lost with High card : King
+Seat 2: Linhoy (button) showed [Js Qs] and won 75 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680837888022675457-4-1674081676 - Holdem no limit (15/30) - 2023/01/18 22:41:16 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: asiadudus (316)
+Seat 2: Linhoy (279)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+asiadudus posts small blind 15
+Linhoy posts big blind 30
+Dealt to _SKR [Qd 6c]
+*** PRE-FLOP *** 
+_SKR folds
+asiadudus folds
+Linhoy collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Linhoy (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680837888022675457-5-1674081686 - Holdem no limit (15/30) - 2023/01/18 22:41:26 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #1 is the button
+Seat 1: asiadudus (301)
+Seat 2: Linhoy (294)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+Linhoy posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4d 3h]
+*** PRE-FLOP *** 
+asiadudus raises 30 to 60
+Linhoy calls 45
+_SKR folds
+*** FLOP *** [Jd Ah 6h]
+Linhoy checks
+asiadudus bets 241 and is all-in
+Linhoy folds
+asiadudus collected 391 from pot
+*** SUMMARY ***
+Total pot 391 | No rake
+Board: [Jd Ah 6h]
+Seat 1: asiadudus (button) won 391
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680837888022675457-6-1674081706 - Holdem no limit (20/40) - 2023/01/18 22:41:46 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #2 is the button
+Seat 1: asiadudus (391)
+Seat 2: Linhoy (234)
+Seat 3: _SKR (275)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+asiadudus posts big blind 40
+Dealt to _SKR [4c 9h]
+*** PRE-FLOP *** 
+Linhoy calls 40
+_SKR folds
+asiadudus checks
+*** FLOP *** [9s Js Ac]
+asiadudus checks
+Linhoy bets 65
+asiadudus folds
+Linhoy collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [9s Js Ac]
+Seat 2: Linhoy (button) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680837888022675457-7-1674081731 - Holdem no limit (20/40) - 2023/01/18 22:42:11 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: asiadudus (351)
+Seat 2: Linhoy (294)
+Seat 3: _SKR (255)
+*** ANTE/BLINDS ***
+asiadudus posts small blind 20
+Linhoy posts big blind 40
+Dealt to _SKR [As 5h]
+*** PRE-FLOP *** 
+_SKR raises 215 to 255 and is all-in
+asiadudus folds
+Linhoy calls 215
+*** FLOP *** [5s 4h Ts]
+*** TURN *** [5s 4h Ts][5c]
+*** RIVER *** [5s 4h Ts 5c][2h]
+*** SHOW DOWN ***
+Linhoy shows [Ac Td] (Two pairs : Tens and 5)
+_SKR shows [As 5h] (Trips of 5)
+_SKR collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [5s 4h Ts 5c 2h]
+Seat 2: Linhoy (big blind) showed [Ac Td] and lost with Two pairs : Tens and 5
+Seat 3: _SKR (button) showed [As 5h] and won 530 with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680837888022675457-8-1674081746 - Holdem no limit (20/40) - 2023/01/18 22:42:26 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #1 is the button
+Seat 1: asiadudus (331)
+Seat 2: Linhoy (39)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+Linhoy posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh Th]
+*** PRE-FLOP *** 
+asiadudus calls 40
+Linhoy calls 19 and is all-in
+_SKR raises 490 to 530 and is all-in
+asiadudus folds
+*** FLOP *** [3h 8c 8s]
+*** TURN *** [3h 8c 8s][3s]
+*** RIVER *** [3h 8c 8s 3s][7d]
+*** SHOW DOWN ***
+Linhoy shows [Js 6s] (Two pairs : 8 and 3)
+_SKR shows [Jh Th] (Two pairs : 8 and 3)
+_SKR collected 551 from side pot 1
+Linhoy collected 58 from main pot
+*** SUMMARY ***
+Total pot 609 | No rake
+Board: [3h 8c 8s 3s 7d]
+Seat 2: Linhoy (small blind) showed [Js 6s] and won 58 with Two pairs : 8 and 3
+Seat 3: _SKR (big blind) showed [Jh Th] and won 551 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680837888022675457-9-1674081762 - Holdem no limit (30/60) - 2023/01/18 22:42:42 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #2 is the button
+Seat 1: asiadudus (291)
+Seat 2: Linhoy (58)
+Seat 3: _SKR (551)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+asiadudus posts big blind 60
+Dealt to _SKR [Th 9d]
+*** PRE-FLOP *** 
+Linhoy calls 58 and is all-in
+_SKR raises 491 to 551 and is all-in
+asiadudus folds
+*** FLOP *** [8h 5d Tc]
+*** TURN *** [8h 5d Tc][Jd]
+*** RIVER *** [8h 5d Tc Jd][Ks]
+*** SHOW DOWN ***
+Linhoy shows [Qd 8c] (One pair : 8)
+_SKR shows [Th 9d] (One pair : Tens)
+_SKR collected 669 from pot
+*** SUMMARY ***
+Total pot 669 | No rake
+Board: [8h 5d Tc Jd Ks]
+Seat 2: Linhoy (button) showed [Qd 8c] and lost with One pair : 8
+Seat 3: _SKR (small blind) showed [Th 9d] and won 669 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680837888022675457-10-1674081779 - Holdem no limit (30/60) - 2023/01/18 22:42:59 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #1 is the button
+Seat 1: asiadudus (231)
+Seat 3: _SKR (669)
+*** ANTE/BLINDS ***
+asiadudus posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qs 6s]
+*** PRE-FLOP *** 
+asiadudus folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680837888022675457-11-1674081783 - Holdem no limit (30/60) - 2023/01/18 22:43:03 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: asiadudus (201)
+Seat 3: _SKR (699)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+asiadudus posts big blind 60
+Dealt to _SKR [2d Jd]
+*** PRE-FLOP *** 
+_SKR raises 639 to 699 and is all-in
+asiadudus calls 141 and is all-in
+*** FLOP *** [As 5c Ts]
+*** TURN *** [As 5c Ts][8s]
+*** RIVER *** [As 5c Ts 8s][Qc]
+*** SHOW DOWN ***
+asiadudus shows [Js Qs] (Flush Ace high)
+_SKR shows [2d Jd] (High card : Ace)
+_SKR collected 498 from side pot 1
+asiadudus collected 402 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As 5c Ts 8s Qc]
+Seat 1: asiadudus (big blind) showed [Js Qs] and won 402 with Flush Ace high
+Seat 3: _SKR (small blind) (button) showed [2d Jd] and won 498 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680837888022675457-12-1674081796 - Holdem no limit (30/60) - 2023/01/18 22:43:16 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #1 is the button
+Seat 1: asiadudus (402)
+Seat 3: _SKR (498)
+*** ANTE/BLINDS ***
+asiadudus posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9c 8h]
+*** PRE-FLOP *** 
+asiadudus calls 30
+_SKR checks
+*** FLOP *** [Jc Jd 9s]
+_SKR bets 60
+asiadudus folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Jc Jd 9s]
+Seat 3: _SKR (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2680837888022675457-13-1674081826 - Holdem no limit (40/80) - 2023/01/18 22:43:46 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: asiadudus (342)
+Seat 3: _SKR (558)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+asiadudus posts big blind 80
+Dealt to _SKR [7c 9c]
+*** PRE-FLOP *** 
+_SKR raises 478 to 558 and is all-in
+asiadudus calls 262 and is all-in
+*** FLOP *** [6c 5d Qc]
+*** TURN *** [6c 5d Qc][2d]
+*** RIVER *** [6c 5d Qc 2d][Qs]
+*** SHOW DOWN ***
+asiadudus shows [Kh 7d] (One pair : Queens)
+_SKR shows [7c 9c] (One pair : Queens)
+_SKR collected 216 from side pot 1
+asiadudus collected 684 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c 5d Qc 2d Qs]
+Seat 1: asiadudus (big blind) showed [Kh 7d] and won 684 with One pair : Queens
+Seat 3: _SKR (small blind) (button) showed [7c 9c] and won 216 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2680837888022675457-14-1674081839 - Holdem no limit (40/80) - 2023/01/18 22:43:59 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #1 is the button
+Seat 1: asiadudus (684)
+Seat 3: _SKR (216)
+*** ANTE/BLINDS ***
+asiadudus posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3d Ad]
+*** PRE-FLOP *** 
+asiadudus folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2680837888022675457-15-1674081843 - Holdem no limit (40/80) - 2023/01/18 22:44:03 UTC
+Table: 'Expresso Nitro(624181211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: asiadudus (644)
+Seat 3: _SKR (256)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+asiadudus posts big blind 80
+Dealt to _SKR [Qc Ah]
+*** PRE-FLOP *** 
+_SKR raises 176 to 256 and is all-in
+asiadudus calls 176
+*** FLOP *** [Js 4d 6h]
+*** TURN *** [Js 4d 6h][4h]
+*** RIVER *** [Js 4d 6h 4h][7d]
+*** SHOW DOWN ***
+_SKR shows [Qc Ah] (One pair : 4)
+asiadudus shows [3d Jd] (Two pairs : Jacks and 4)
+asiadudus collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | No rake
+Board: [Js 4d 6h 4h 7d]
+Seat 1: asiadudus (big blind) showed [3d Jd] and won 512 with Two pairs : Jacks and 4
+Seat 3: _SKR (small blind) (button) showed [Qc Ah] and lost with One pair : 4
+
+

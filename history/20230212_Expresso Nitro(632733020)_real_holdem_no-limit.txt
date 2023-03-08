@@ -1,0 +1,385 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717567627999313921-1-1676227238 - Holdem no limit (10/20) - 2023/02/12 18:40:38 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kroutchou (300)
+Seat 2: Anthony0260 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+kroutchou posts small blind 10
+Anthony0260 posts big blind 20
+Dealt to _SKR [3d 8s]
+*** PRE-FLOP *** 
+_SKR folds
+kroutchou folds
+Anthony0260 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Anthony0260 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717567627999313921-2-1676227246 - Holdem no limit (10/20) - 2023/02/12 18:40:46 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kroutchou (290)
+Seat 2: Anthony0260 (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Anthony0260 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac 8c]
+*** PRE-FLOP *** 
+kroutchou folds
+Anthony0260 calls 10
+_SKR raises 280 to 300 and is all-in
+Anthony0260 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717567627999313921-3-1676227264 - Holdem no limit (10/20) - 2023/02/12 18:41:04 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kroutchou (290)
+Seat 2: Anthony0260 (290)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+kroutchou posts big blind 20
+Dealt to _SKR [Js 9h]
+*** PRE-FLOP *** 
+Anthony0260 calls 20
+_SKR folds
+kroutchou checks
+*** FLOP *** [Jd Qd 4s]
+kroutchou checks
+Anthony0260 checks
+*** TURN *** [Jd Qd 4s][Ah]
+kroutchou checks
+Anthony0260 checks
+*** RIVER *** [Jd Qd 4s Ah][Ad]
+kroutchou checks
+Anthony0260 bets 20
+kroutchou folds
+Anthony0260 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Jd Qd 4s Ah Ad]
+Seat 2: Anthony0260 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717567627999313921-4-1676227285 - Holdem no limit (10/20) - 2023/02/12 18:41:25 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kroutchou (270)
+Seat 2: Anthony0260 (320)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+kroutchou posts small blind 10
+Anthony0260 posts big blind 20
+Dealt to _SKR [6s Td]
+*** PRE-FLOP *** 
+_SKR folds
+kroutchou raises 250 to 270 and is all-in
+Anthony0260 calls 250
+*** FLOP *** [6d Qs 3c]
+*** TURN *** [6d Qs 3c][Kc]
+*** RIVER *** [6d Qs 3c Kc][3h]
+*** SHOW DOWN ***
+Anthony0260 shows [Th 5h] (One pair : 3)
+kroutchou shows [4d 4c] (Two pairs : 4 and 3)
+kroutchou collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [6d Qs 3c Kc 3h]
+Seat 1: kroutchou (small blind) showed [4d 4c] and won 540 with Two pairs : 4 and 3
+Seat 2: Anthony0260 (big blind) showed [Th 5h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717567627999313921-5-1676227304 - Holdem no limit (15/30) - 2023/02/12 18:41:44 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kroutchou (540)
+Seat 2: Anthony0260 (50)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+Anthony0260 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc 5h]
+*** PRE-FLOP *** 
+kroutchou raises 510 to 540 and is all-in
+Anthony0260 folds
+_SKR folds
+kroutchou collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Seat 1: kroutchou (button) won 585
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717567627999313921-6-1676227313 - Holdem no limit (15/30) - 2023/02/12 18:41:53 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kroutchou (585)
+Seat 2: Anthony0260 (35)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+kroutchou posts big blind 30
+Dealt to _SKR [3h Kc]
+*** PRE-FLOP *** 
+Anthony0260 folds
+_SKR raises 250 to 280 and is all-in
+kroutchou folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 3: _SKR (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717567627999313921-7-1676227323 - Holdem no limit (15/30) - 2023/02/12 18:42:03 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kroutchou (555)
+Seat 2: Anthony0260 (35)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+kroutchou posts small blind 15
+Anthony0260 posts big blind 30
+Dealt to _SKR [Jc 5s]
+*** PRE-FLOP *** 
+_SKR folds
+kroutchou calls 15
+Anthony0260 checks
+*** FLOP *** [8s Ah 9s]
+kroutchou bets 30
+Anthony0260 folds
+kroutchou collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [8s Ah 9s]
+Seat 1: kroutchou (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717567627999313921-8-1676227335 - Holdem no limit (15/30) - 2023/02/12 18:42:15 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kroutchou (585)
+Seat 2: Anthony0260 (5)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+Anthony0260 posts small blind 5 and is all-in
+_SKR posts big blind 30
+Dealt to _SKR [5c Qd]
+*** PRE-FLOP *** 
+kroutchou folds
+*** FLOP *** [2s 9s 4s]
+*** TURN *** [2s 9s 4s][6h]
+*** RIVER *** [2s 9s 4s 6h][Ad]
+*** SHOW DOWN ***
+Anthony0260 shows [Ks 9h] (One pair : 9)
+_SKR shows [5c Qd] (High card : Ace)
+_SKR collected 25 from side pot 1
+Anthony0260 collected 10 from main pot
+*** SUMMARY ***
+Total pot 35 | No rake
+Board: [2s 9s 4s 6h Ad]
+Seat 2: Anthony0260 (small blind) showed [Ks 9h] and won 10 with One pair : 9
+Seat 3: _SKR (big blind) showed [5c Qd] and won 25 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717567627999313921-9-1676227346 - Holdem no limit (15/30) - 2023/02/12 18:42:26 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kroutchou (585)
+Seat 2: Anthony0260 (10)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+kroutchou posts big blind 30
+Dealt to _SKR [Tc 2d]
+*** PRE-FLOP *** 
+Anthony0260 calls 10 and is all-in
+_SKR folds
+*** FLOP *** [Jd 3c As]
+*** TURN *** [Jd 3c As][Qh]
+*** RIVER *** [Jd 3c As Qh][9s]
+*** SHOW DOWN ***
+kroutchou shows [6d Qc] (One pair : Queens)
+Anthony0260 shows [2h Ah] (One pair : Aces)
+Anthony0260 collected 30 from main pot
+kroutchou collected 25 from side pot 1
+*** SUMMARY ***
+Total pot 55 | No rake
+Board: [Jd 3c As Qh 9s]
+Seat 1: kroutchou (big blind) showed [6d Qc] and won 25 with One pair : Queens
+Seat 2: Anthony0260 (button) showed [2h Ah] and won 30 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717567627999313921-10-1676227357 - Holdem no limit (20/40) - 2023/02/12 18:42:37 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kroutchou (580)
+Seat 2: Anthony0260 (30)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+kroutchou posts small blind 20
+Anthony0260 posts big blind 30 and is all-in
+Dealt to _SKR [Kc Ac]
+*** PRE-FLOP *** 
+_SKR raises 260 to 290 and is all-in
+kroutchou folds
+*** FLOP *** [4c Jh 4s]
+*** TURN *** [4c Jh 4s][Ts]
+*** RIVER *** [4c Jh 4s Ts][2s]
+*** SHOW DOWN ***
+Anthony0260 shows [9d 9s] (Two pairs : 9 and 4)
+_SKR shows [Kc Ac] (One pair : 4)
+_SKR collected 260 from side pot 1
+Anthony0260 collected 80 from main pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [4c Jh 4s Ts 2s]
+Seat 2: Anthony0260 (big blind) showed [9d 9s] and won 80 with Two pairs : 9 and 4
+Seat 3: _SKR (button) showed [Kc Ac] and won 260 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717567627999313921-11-1676227370 - Holdem no limit (20/40) - 2023/02/12 18:42:50 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kroutchou (560)
+Seat 2: Anthony0260 (80)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Anthony0260 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ah Jc]
+*** PRE-FLOP *** 
+kroutchou folds
+Anthony0260 raises 40 to 80 and is all-in
+_SKR raises 40 to 120
+*** FLOP *** [Jd 2c 8d]
+*** TURN *** [Jd 2c 8d][5c]
+*** RIVER *** [Jd 2c 8d 5c][2s]
+*** SHOW DOWN ***
+Anthony0260 shows [Kc Kh] (Two pairs : Kings and 2)
+_SKR shows [Ah Jc] (Two pairs : Jacks and 2)
+_SKR collected 40 from side pot 1
+Anthony0260 collected 160 from main pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Jd 2c 8d 5c 2s]
+Seat 2: Anthony0260 (small blind) showed [Kc Kh] and won 160 with Two pairs : Kings and 2
+Seat 3: _SKR (big blind) showed [Ah Jc] and won 40 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717567627999313921-12-1676227386 - Holdem no limit (20/40) - 2023/02/12 18:43:06 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kroutchou (560)
+Seat 2: Anthony0260 (160)
+Seat 3: _SKR (180)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+kroutchou posts big blind 40
+Dealt to _SKR [Kh Js]
+*** PRE-FLOP *** 
+Anthony0260 raises 40 to 80
+_SKR raises 100 to 180 and is all-in
+kroutchou folds
+Anthony0260 calls 80 and is all-in
+*** FLOP *** [9c Jd Jh]
+*** TURN *** [9c Jd Jh][Tc]
+*** RIVER *** [9c Jd Jh Tc][4d]
+*** SHOW DOWN ***
+Anthony0260 shows [Qh 4h] (Two pairs : Jacks and 4)
+_SKR shows [Kh Js] (Trips of Jacks)
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [9c Jd Jh Tc 4d]
+Seat 2: Anthony0260 (button) showed [Qh 4h] and lost with Two pairs : Jacks and 4
+Seat 3: _SKR (small blind) showed [Kh Js] and won 380 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717567627999313921-13-1676227405 - Holdem no limit (20/40) - 2023/02/12 18:43:25 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kroutchou (520)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+kroutchou posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s Kh]
+*** PRE-FLOP *** 
+kroutchou calls 20
+_SKR raises 340 to 380 and is all-in
+kroutchou folds
+_SKR collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: _SKR (big blind) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717567627999313921-14-1676227416 - Holdem no limit (30/60) - 2023/02/12 18:43:36 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kroutchou (480)
+Seat 3: _SKR (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+kroutchou posts big blind 60
+Dealt to _SKR [7d Kh]
+*** PRE-FLOP *** 
+_SKR raises 360 to 420 and is all-in
+kroutchou folds
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 3: _SKR (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717567627999313921-15-1676227421 - Holdem no limit (30/60) - 2023/02/12 18:43:41 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kroutchou (420)
+Seat 3: _SKR (480)
+*** ANTE/BLINDS ***
+kroutchou posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3c 9c]
+*** PRE-FLOP *** 
+kroutchou calls 30
+_SKR checks
+*** FLOP *** [3s Qc 5d]
+_SKR checks
+kroutchou bets 60
+_SKR calls 60
+*** TURN *** [3s Qc 5d][5h]
+_SKR checks
+kroutchou checks
+*** RIVER *** [3s Qc 5d 5h][Ks]
+_SKR checks
+kroutchou bets 60
+_SKR calls 60
+*** SHOW DOWN ***
+_SKR shows [3c 9c] (Two pairs : 5 and 3)
+kroutchou shows [6c 5s] (Trips of 5)
+kroutchou collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [3s Qc 5d 5h Ks]
+Seat 1: kroutchou (small blind) (button) showed [6c 5s] and won 360 with Trips of 5
+Seat 3: _SKR (big blind) showed [3c 9c] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717567627999313921-16-1676227454 - Holdem no limit (30/60) - 2023/02/12 18:44:14 UTC
+Table: 'Expresso Nitro(632733020)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kroutchou (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+kroutchou posts big blind 60
+Dealt to _SKR [8d 6d]
+*** PRE-FLOP *** 
+_SKR raises 240 to 300 and is all-in
+kroutchou calls 240
+*** FLOP *** [8s 7d 7h]
+*** TURN *** [8s 7d 7h][Ks]
+*** RIVER *** [8s 7d 7h Ks][2c]
+*** SHOW DOWN ***
+_SKR shows [8d 6d] (Two pairs : 8 and 7)
+kroutchou shows [Kc Kh] (Full of Kings and 7)
+kroutchou collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8s 7d 7h Ks 2c]
+Seat 1: kroutchou (big blind) showed [Kc Kh] and won 600 with Full of Kings and 7
+Seat 3: _SKR (small blind) (button) showed [8d 6d] and lost with Two pairs : 8 and 7
+
+

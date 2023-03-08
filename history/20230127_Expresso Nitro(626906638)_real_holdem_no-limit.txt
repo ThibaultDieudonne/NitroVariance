@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692543507855310849-1-1674829807 - Holdem no limit (10/20) - 2023/01/27 14:30:07 UTC
+Table: 'Expresso Nitro(626906638)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Raisaraisa (300)
+Seat 2: Chachaa75018 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Raisaraisa posts small blind 10
+Chachaa75018 posts big blind 20
+Dealt to _SKR [Js Ts]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Raisaraisa calls 30
+Chachaa75018 calls 20
+*** FLOP *** [3h 5c 7h]
+Raisaraisa checks
+Chachaa75018 checks
+_SKR checks
+*** TURN *** [3h 5c 7h][4c]
+Raisaraisa checks
+Chachaa75018 checks
+_SKR checks
+*** RIVER *** [3h 5c 7h 4c][Ad]
+Raisaraisa checks
+Chachaa75018 bets 120
+_SKR folds
+Raisaraisa folds
+Chachaa75018 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3h 5c 7h 4c Ad]
+Seat 2: Chachaa75018 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692543507855310849-2-1674829835 - Holdem no limit (10/20) - 2023/01/27 14:30:35 UTC
+Table: 'Expresso Nitro(626906638)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Raisaraisa (260)
+Seat 2: Chachaa75018 (380)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Chachaa75018 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d 7s]
+*** PRE-FLOP *** 
+Raisaraisa raises 240 to 260 and is all-in
+Chachaa75018 folds
+_SKR folds
+Raisaraisa collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 1: Raisaraisa (button) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692543507855310849-3-1674829851 - Holdem no limit (10/20) - 2023/01/27 14:30:51 UTC
+Table: 'Expresso Nitro(626906638)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Raisaraisa (290)
+Seat 2: Chachaa75018 (370)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Raisaraisa posts big blind 20
+Dealt to _SKR [3s 3d]
+*** PRE-FLOP *** 
+Chachaa75018 folds
+_SKR raises 220 to 240 and is all-in
+Raisaraisa raises 50 to 290 and is all-in
+*** FLOP *** [9d 2s Qd]
+*** TURN *** [9d 2s Qd][Jh]
+*** RIVER *** [9d 2s Qd Jh][Kh]
+*** SHOW DOWN ***
+_SKR shows [3s 3d] (One pair : 3)
+Raisaraisa shows [Jd 6s] (One pair : Jacks)
+Raisaraisa collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [9d 2s Qd Jh Kh]
+Seat 1: Raisaraisa (big blind) showed [Jd 6s] and won 530 with One pair : Jacks
+Seat 3: _SKR (small blind) showed [3s 3d] and lost with One pair : 3
+
+

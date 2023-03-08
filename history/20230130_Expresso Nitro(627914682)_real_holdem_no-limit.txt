@@ -1,0 +1,92 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696873023868239873-1-1675101483 - Holdem no limit (10/20) - 2023/01/30 17:58:03 UTC
+Table: 'Expresso Nitro(627914682)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Guessmymind (300)
+Seat 3: Messi_Mbappe (300)
+*** ANTE/BLINDS ***
+Guessmymind posts small blind 10
+Messi_Mbappe posts big blind 20
+Dealt to _SKR [6c Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Guessmymind raises 20 to 40
+Messi_Mbappe calls 20
+*** FLOP *** [4s Kd 3h]
+Guessmymind checks
+Messi_Mbappe checks
+*** TURN *** [4s Kd 3h][7c]
+Guessmymind checks
+Messi_Mbappe checks
+*** RIVER *** [4s Kd 3h 7c][8s]
+Guessmymind bets 28
+Messi_Mbappe folds
+Guessmymind collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [4s Kd 3h 7c 8s]
+Seat 2: Guessmymind (small blind) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696873023868239873-2-1675101511 - Holdem no limit (10/20) - 2023/01/30 17:58:31 UTC
+Table: 'Expresso Nitro(627914682)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Guessmymind (340)
+Seat 3: Messi_Mbappe (260)
+*** ANTE/BLINDS ***
+Messi_Mbappe posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c Ad]
+*** PRE-FLOP *** 
+Guessmymind raises 20 to 40
+Messi_Mbappe calls 30
+_SKR folds
+*** FLOP *** [4d 9h 2h]
+Messi_Mbappe checks
+Guessmymind checks
+*** TURN *** [4d 9h 2h][2s]
+Messi_Mbappe checks
+Guessmymind checks
+*** RIVER *** [4d 9h 2h 2s][7s]
+Messi_Mbappe checks
+Guessmymind checks
+*** SHOW DOWN ***
+Messi_Mbappe shows [8h Td] (One pair : 2)
+Guessmymind shows [Qh Kd] (One pair : 2)
+Guessmymind collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4d 9h 2h 2s 7s]
+Seat 2: Guessmymind (button) showed [Qh Kd] and won 100 with One pair : 2
+Seat 3: Messi_Mbappe (small blind) showed [8h Td] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696873023868239873-3-1675101542 - Holdem no limit (15/30) - 2023/01/30 17:59:02 UTC
+Table: 'Expresso Nitro(627914682)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Guessmymind (400)
+Seat 3: Messi_Mbappe (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Guessmymind posts big blind 30
+Dealt to _SKR [Kc 4s]
+*** PRE-FLOP *** 
+Messi_Mbappe calls 30
+_SKR raises 250 to 280 and is all-in
+Guessmymind raises 120 to 400 and is all-in
+Messi_Mbappe calls 190 and is all-in
+*** FLOP *** [8d 8s 8c]
+*** TURN *** [8d 8s 8c][6s]
+*** RIVER *** [8d 8s 8c 6s][2s]
+*** SHOW DOWN ***
+_SKR shows [Kc 4s] (Trips of 8)
+Messi_Mbappe shows [5d Js] (Trips of 8)
+Guessmymind shows [Qs Qc] (Full of 8 and Queens)
+Guessmymind collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d 8s 8c 6s 2s]
+Seat 1: _SKR (small blind) showed [Kc 4s] and lost with Trips of 8
+Seat 2: Guessmymind (big blind) showed [Qs Qc] and won 900 with Full of 8 and Queens
+Seat 3: Messi_Mbappe (button) showed [5d Js] and lost with Trips of 8
+
+

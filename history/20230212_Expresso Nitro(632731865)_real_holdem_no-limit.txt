@@ -1,0 +1,72 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717562667312087041-1-1676227058 - Holdem no limit (10/20) - 2023/02/12 18:37:38 UTC
+Table: 'Expresso Nitro(632731865)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Msellem (300)
+Seat 2: _SKR (300)
+Seat 3: Cal1m3ro (300)
+*** ANTE/BLINDS ***
+Msellem posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d Tc]
+*** PRE-FLOP *** 
+Cal1m3ro calls 20
+Msellem raises 280 to 300 and is all-in
+_SKR folds
+Cal1m3ro folds
+Msellem collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: Msellem (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717562667312087041-2-1676227074 - Holdem no limit (10/20) - 2023/02/12 18:37:54 UTC
+Table: 'Expresso Nitro(632731865)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msellem (340)
+Seat 2: _SKR (280)
+Seat 3: Cal1m3ro (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cal1m3ro posts big blind 20
+Dealt to _SKR [Jc 2d]
+*** PRE-FLOP *** 
+Msellem calls 20
+_SKR folds
+Cal1m3ro checks
+*** FLOP *** [Kd 2c 9s]
+Cal1m3ro checks
+Msellem bets 20
+Cal1m3ro folds
+Msellem collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Kd 2c 9s]
+Seat 1: Msellem (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717562667312087041-3-1676227088 - Holdem no limit (10/20) - 2023/02/12 18:38:08 UTC
+Table: 'Expresso Nitro(632731865)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msellem (370)
+Seat 2: _SKR (270)
+Seat 3: Cal1m3ro (260)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 10
+Msellem posts big blind 20
+Dealt to _SKR [Qh Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Cal1m3ro folds
+Msellem raises 330 to 370 and is all-in
+_SKR calls 230 and is all-in
+*** FLOP *** [7h 3h 2d]
+*** TURN *** [7h 3h 2d][7s]
+*** RIVER *** [7h 3h 2d 7s][9c]
+*** SHOW DOWN ***
+_SKR shows [Qh Kh] (One pair : 7)
+Msellem shows [3s 3d] (Full of 3 and 7)
+Msellem collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [7h 3h 2d 7s 9c]
+Seat 1: Msellem (big blind) showed [3s 3d] and won 650 with Full of 3 and 7
+Seat 2: _SKR (button) showed [Qh Kh] and lost with One pair : 7
+
+

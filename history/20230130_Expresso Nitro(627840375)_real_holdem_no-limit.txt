@@ -1,0 +1,83 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696553877733376001-1-1675086719 - Holdem no limit (10/20) - 2023/01/30 13:51:59 UTC
+Table: 'Expresso Nitro(627840375)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: bouts80000 (300)
+Seat 3: Patrick2202 (300)
+*** ANTE/BLINDS ***
+bouts80000 posts small blind 10
+Patrick2202 posts big blind 20
+Dealt to _SKR [Th 2h]
+*** PRE-FLOP *** 
+_SKR folds
+bouts80000 folds
+Patrick2202 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Patrick2202 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696553877733376001-2-1675086729 - Holdem no limit (10/20) - 2023/01/30 13:52:09 UTC
+Table: 'Expresso Nitro(627840375)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: bouts80000 (290)
+Seat 3: Patrick2202 (310)
+*** ANTE/BLINDS ***
+Patrick2202 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c Kd]
+*** PRE-FLOP *** 
+bouts80000 raises 50 to 70
+Patrick2202 calls 60
+_SKR folds
+*** FLOP *** [6h 4c 2s]
+Patrick2202 checks
+bouts80000 bets 20
+Patrick2202 calls 20
+*** TURN *** [6h 4c 2s][6c]
+Patrick2202 checks
+bouts80000 bets 20
+Patrick2202 calls 20
+*** RIVER *** [6h 4c 2s 6c][5h]
+Patrick2202 checks
+bouts80000 checks
+*** SHOW DOWN ***
+bouts80000 shows [Ad Qh] (One pair : 6)
+Patrick2202 shows [Ac 3c] (Straight 6 high)
+Patrick2202 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [6h 4c 2s 6c 5h]
+Seat 2: bouts80000 (button) showed [Ad Qh] and lost with One pair : 6
+Seat 3: Patrick2202 (small blind) showed [Ac 3c] and won 240 with Straight 6 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696553877733376001-3-1675086752 - Holdem no limit (10/20) - 2023/01/30 13:52:32 UTC
+Table: 'Expresso Nitro(627840375)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: bouts80000 (180)
+Seat 3: Patrick2202 (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+bouts80000 posts big blind 20
+Dealt to _SKR [8h Qc]
+*** PRE-FLOP *** 
+Patrick2202 calls 20
+_SKR raises 260 to 280 and is all-in
+bouts80000 calls 160 and is all-in
+Patrick2202 calls 260
+*** FLOP *** [4d 5h Qd]
+*** TURN *** [4d 5h Qd][Jh]
+*** RIVER *** [4d 5h Qd Jh][2h]
+*** SHOW DOWN ***
+_SKR shows [8h Qc] (One pair : Queens)
+bouts80000 shows [3s 3c] (One pair : 3)
+Patrick2202 shows [Jc Js] (Trips of Jacks)
+Patrick2202 collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [4d 5h Qd Jh 2h]
+Seat 1: _SKR (small blind) showed [8h Qc] and lost with One pair : Queens
+Seat 2: bouts80000 (big blind) showed [3s 3c] and lost with One pair : 3
+Seat 3: Patrick2202 (button) showed [Jc Js] and won 740 with Trips of Jacks
+
+

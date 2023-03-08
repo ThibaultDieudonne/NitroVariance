@@ -1,0 +1,126 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717806642929336321-1-1676235998 - Holdem no limit (10/20) - 2023/02/12 21:06:38 UTC
+Table: 'Expresso Nitro(632788670)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djeggy (300)
+Seat 2: Ju..lie (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Djeggy posts small blind 10
+Ju..lie posts big blind 20
+Dealt to _SKR [2h 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Djeggy folds
+Ju..lie collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Ju..lie (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717806642929336321-2-1676236020 - Holdem no limit (10/20) - 2023/02/12 21:07:00 UTC
+Table: 'Expresso Nitro(632788670)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Djeggy (290)
+Seat 2: Ju..lie (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Ju..lie posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d 3c]
+*** PRE-FLOP *** 
+Djeggy folds
+Ju..lie folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717806642929336321-3-1676236041 - Holdem no limit (10/20) - 2023/02/12 21:07:21 UTC
+Table: 'Expresso Nitro(632788670)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Djeggy (290)
+Seat 2: Ju..lie (300)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Djeggy posts big blind 20
+Dealt to _SKR [2s 7s]
+*** PRE-FLOP *** 
+Ju..lie calls 20
+_SKR folds
+Djeggy checks
+*** FLOP *** [Js 9d 8d]
+Djeggy checks
+Ju..lie checks
+*** TURN *** [Js 9d 8d][Ts]
+Djeggy checks
+Ju..lie bets 50
+Djeggy calls 50
+*** RIVER *** [Js 9d 8d Ts][9h]
+Djeggy checks
+Ju..lie bets 98
+Djeggy raises 122 to 220 and is all-in
+Ju..lie calls 122
+*** SHOW DOWN ***
+Djeggy shows [8c 7c] (Straight Jack high)
+Ju..lie shows [Jc 7d] (Straight Jack high)
+Ju..lie collected 295 from pot
+Djeggy collected 295 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Js 9d 8d Ts 9h]
+Seat 1: Djeggy (big blind) showed [8c 7c] and won 295 with Straight Jack high
+Seat 2: Ju..lie (button) showed [Jc 7d] and won 295 with Straight Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717806642929336321-4-1676236075 - Holdem no limit (15/30) - 2023/02/12 21:07:55 UTC
+Table: 'Expresso Nitro(632788670)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djeggy (295)
+Seat 2: Ju..lie (305)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Djeggy posts small blind 15
+Ju..lie posts big blind 30
+Dealt to _SKR [Ah 4h]
+*** PRE-FLOP *** 
+_SKR raises 270 to 300 and is all-in
+Djeggy calls 280 and is all-in
+Ju..lie folds
+*** FLOP *** [5h 6h 9s]
+*** TURN *** [5h 6h 9s][Ts]
+*** RIVER *** [5h 6h 9s Ts][5c]
+*** SHOW DOWN ***
+Djeggy shows [Qs Ad] (One pair : 5)
+_SKR shows [Ah 4h] (One pair : 5)
+_SKR collected 5 from side pot 1
+Djeggy collected 620 from main pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [5h 6h 9s Ts 5c]
+Seat 1: Djeggy (small blind) showed [Qs Ad] and won 620 with One pair : 5
+Seat 3: _SKR (button) showed [Ah 4h] and won 5 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717806642929336321-5-1676236086 - Holdem no limit (15/30) - 2023/02/12 21:08:06 UTC
+Table: 'Expresso Nitro(632788670)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Djeggy (620)
+Seat 2: Ju..lie (275)
+Seat 3: _SKR (5)
+*** ANTE/BLINDS ***
+Ju..lie posts small blind 15
+_SKR posts big blind 5 and is all-in
+Dealt to _SKR [3h Th]
+*** PRE-FLOP *** 
+Djeggy folds
+*** FLOP *** [8d 9s Ac]
+*** TURN *** [8d 9s Ac][5h]
+*** RIVER *** [8d 9s Ac 5h][4c]
+*** SHOW DOWN ***
+_SKR shows [3h Th] (High card : Ace)
+Ju..lie shows [Jc 7h] (High card : Ace)
+Ju..lie collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | No rake
+Board: [8d 9s Ac 5h 4c]
+Seat 2: Ju..lie (small blind) showed [Jc 7h] and won 20 with High card : Ace
+Seat 3: _SKR (big blind) showed [3h Th] and lost with High card : Ace
+
+

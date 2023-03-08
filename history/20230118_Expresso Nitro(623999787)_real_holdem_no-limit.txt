@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680058677875965953-1-1674050190 - Holdem no limit (10/20) - 2023/01/18 13:56:30 UTC
+Table: 'Expresso Nitro(623999787)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Alvaro.l (300)
+Seat 2: _SKR (300)
+Seat 3: Demon38222 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Demon38222 posts big blind 20
+Dealt to _SKR [Jc 4d]
+*** PRE-FLOP *** 
+Alvaro.l raises 30 to 50
+_SKR folds
+Demon38222 folds
+Alvaro.l collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: Alvaro.l (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680058677875965953-2-1674050197 - Holdem no limit (10/20) - 2023/01/18 13:56:37 UTC
+Table: 'Expresso Nitro(623999787)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Alvaro.l (330)
+Seat 2: _SKR (290)
+Seat 3: Demon38222 (280)
+*** ANTE/BLINDS ***
+Demon38222 posts small blind 10
+Alvaro.l posts big blind 20
+Dealt to _SKR [8c 8h]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Demon38222 folds
+Alvaro.l raises 40 to 330 and is all-in
+*** FLOP *** [7d 3d 4c]
+*** TURN *** [7d 3d 4c][As]
+*** RIVER *** [7d 3d 4c As][9s]
+*** SHOW DOWN ***
+_SKR shows [8c 8h] (One pair : 8)
+Alvaro.l shows [Jh Jd] (One pair : Jacks)
+Alvaro.l collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [7d 3d 4c As 9s]
+Seat 1: Alvaro.l (big blind) showed [Jh Jd] and won 630 with One pair : Jacks
+Seat 2: _SKR (button) showed [8c 8h] and lost with One pair : 8
+
+

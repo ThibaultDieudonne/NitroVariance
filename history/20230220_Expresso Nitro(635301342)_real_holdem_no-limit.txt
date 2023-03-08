@@ -1,0 +1,399 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728598486994911233-1-1676854652 - Holdem no limit (10/20) - 2023/02/20 00:57:32 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: al0casia (300)
+Seat 2: Nevil (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+al0casia posts small blind 10
+Nevil posts big blind 20
+Dealt to _SKR [8c 4h]
+*** PRE-FLOP *** 
+_SKR folds
+al0casia calls 10
+Nevil checks
+*** FLOP *** [3h Jc 9s]
+al0casia checks
+Nevil bets 26
+al0casia calls 26
+*** TURN *** [3h Jc 9s][2c]
+al0casia checks
+Nevil bets 60
+al0casia calls 60
+*** RIVER *** [3h Jc 9s 2c][Js]
+al0casia checks
+Nevil checks
+*** SHOW DOWN ***
+Nevil shows [9h 5c] (Two pairs : Jacks and 9)
+al0casia shows [Jd 8d] (Trips of Jacks)
+al0casia collected 212 from pot
+*** SUMMARY ***
+Total pot 212 | No rake
+Board: [3h Jc 9s 2c Js]
+Seat 1: al0casia (small blind) showed [Jd 8d] and won 212 with Trips of Jacks
+Seat 2: Nevil (big blind) showed [9h 5c] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728598486994911233-2-1676854690 - Holdem no limit (10/20) - 2023/02/20 00:58:10 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: al0casia (406)
+Seat 2: Nevil (194)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Nevil posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd 2s]
+*** PRE-FLOP *** 
+al0casia raises 20 to 40
+Nevil calls 30
+_SKR folds
+*** FLOP *** [7h 2h Th]
+Nevil checks
+al0casia bets 80
+Nevil calls 80
+*** TURN *** [7h 2h Th][Qd]
+Nevil checks
+al0casia checks
+*** RIVER *** [7h 2h Th Qd][8d]
+Nevil checks
+al0casia bets 169
+Nevil folds
+al0casia collected 429 from pot
+*** SUMMARY ***
+Total pot 429 | No rake
+Board: [7h 2h Th Qd 8d]
+Seat 1: al0casia (button) won 429
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728598486994911233-3-1676854741 - Holdem no limit (15/30) - 2023/02/20 00:59:01 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #2 is the button
+Seat 1: al0casia (546)
+Seat 2: Nevil (74)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+al0casia posts big blind 30
+Dealt to _SKR [3d 5s]
+*** PRE-FLOP *** 
+Nevil raises 44 to 74 and is all-in
+_SKR folds
+al0casia calls 44
+*** FLOP *** [Tc 9s 8d]
+*** TURN *** [Tc 9s 8d][2d]
+*** RIVER *** [Tc 9s 8d 2d][5d]
+*** SHOW DOWN ***
+al0casia shows [7d Kh] (High card : King)
+Nevil shows [Ah 8h] (One pair : 8)
+Nevil collected 163 from pot
+*** SUMMARY ***
+Total pot 163 | No rake
+Board: [Tc 9s 8d 2d 5d]
+Seat 1: al0casia (big blind) showed [7d Kh] and lost with High card : King
+Seat 2: Nevil (button) showed [Ah 8h] and won 163 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728598486994911233-4-1676854756 - Holdem no limit (15/30) - 2023/02/20 00:59:16 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: al0casia (472)
+Seat 2: Nevil (163)
+Seat 3: _SKR (265)
+*** ANTE/BLINDS ***
+al0casia posts small blind 15
+Nevil posts big blind 30
+Dealt to _SKR [6s 8c]
+*** PRE-FLOP *** 
+_SKR folds
+al0casia raises 442 to 472 and is all-in
+Nevil calls 133 and is all-in
+*** FLOP *** [As 7d Th]
+*** TURN *** [As 7d Th][9d]
+*** RIVER *** [As 7d Th 9d][2s]
+*** SHOW DOWN ***
+al0casia shows [Ah 8s] (One pair : Aces)
+Nevil shows [2d 2h] (Trips of 2)
+Nevil collected 326 from main pot
+al0casia collected 309 from side pot 1
+*** SUMMARY ***
+Total pot 635 | No rake
+Board: [As 7d Th 9d 2s]
+Seat 1: al0casia (small blind) showed [Ah 8s] and won 309 with One pair : Aces
+Seat 2: Nevil (big blind) showed [2d 2h] and won 326 with Trips of 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728598486994911233-5-1676854772 - Holdem no limit (20/40) - 2023/02/20 00:59:32 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: al0casia (309)
+Seat 2: Nevil (326)
+Seat 3: _SKR (265)
+*** ANTE/BLINDS ***
+Nevil posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kh 8c]
+*** PRE-FLOP *** 
+al0casia folds
+Nevil calls 20
+_SKR raises 225 to 265 and is all-in
+Nevil folds
+_SKR collected 305 from pot
+*** SUMMARY ***
+Total pot 305 | No rake
+Seat 3: _SKR (big blind) won 305
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728598486994911233-6-1676854784 - Holdem no limit (20/40) - 2023/02/20 00:59:44 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #2 is the button
+Seat 1: al0casia (309)
+Seat 2: Nevil (286)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+al0casia posts big blind 40
+Dealt to _SKR [6d Tc]
+*** PRE-FLOP *** 
+Nevil folds
+_SKR folds
+al0casia collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: al0casia (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728598486994911233-7-1676854789 - Holdem no limit (20/40) - 2023/02/20 00:59:49 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: al0casia (329)
+Seat 2: Nevil (286)
+Seat 3: _SKR (285)
+*** ANTE/BLINDS ***
+al0casia posts small blind 20
+Nevil posts big blind 40
+Dealt to _SKR [4h 6h]
+*** PRE-FLOP *** 
+_SKR folds
+al0casia folds
+Nevil collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Nevil (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728598486994911233-8-1676854793 - Holdem no limit (20/40) - 2023/02/20 00:59:53 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: al0casia (309)
+Seat 2: Nevil (306)
+Seat 3: _SKR (285)
+*** ANTE/BLINDS ***
+Nevil posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qc 2d]
+*** PRE-FLOP *** 
+al0casia folds
+Nevil calls 20
+_SKR checks
+*** FLOP *** [Ks 5h 2s]
+Nevil bets 40
+_SKR calls 40
+*** TURN *** [Ks 5h 2s][Th]
+Nevil checks
+_SKR checks
+*** RIVER *** [Ks 5h 2s Th][Ah]
+Nevil checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Qc 2d] (One pair : 2)
+Nevil shows [5s 8h] (One pair : 5)
+Nevil collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ks 5h 2s Th Ah]
+Seat 2: Nevil (small blind) showed [5s 8h] and won 160 with One pair : 5
+Seat 3: _SKR (big blind) showed [Qc 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728598486994911233-9-1676854815 - Holdem no limit (20/40) - 2023/02/20 01:00:15 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #2 is the button
+Seat 1: al0casia (309)
+Seat 2: Nevil (386)
+Seat 3: _SKR (205)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+al0casia posts big blind 40
+Dealt to _SKR [Ah 3s]
+*** PRE-FLOP *** 
+Nevil folds
+_SKR raises 165 to 205 and is all-in
+al0casia calls 165
+*** FLOP *** [2s 3d Jd]
+*** TURN *** [2s 3d Jd][As]
+*** RIVER *** [2s 3d Jd As][5h]
+*** SHOW DOWN ***
+al0casia shows [Kd Tc] (High card : Ace)
+_SKR shows [Ah 3s] (Two pairs : Aces and 3)
+_SKR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Board: [2s 3d Jd As 5h]
+Seat 1: al0casia (big blind) showed [Kd Tc] and lost with High card : Ace
+Seat 3: _SKR (small blind) showed [Ah 3s] and won 410 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728598486994911233-10-1676854829 - Holdem no limit (30/60) - 2023/02/20 01:00:29 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: al0casia (104)
+Seat 2: Nevil (386)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+al0casia posts small blind 30
+Nevil posts big blind 60
+Dealt to _SKR [3s 8c]
+*** PRE-FLOP *** 
+_SKR folds
+al0casia raises 44 to 104 and is all-in
+Nevil calls 44
+*** FLOP *** [4d Ts 8d]
+*** TURN *** [4d Ts 8d][4c]
+*** RIVER *** [4d Ts 8d 4c][7d]
+*** SHOW DOWN ***
+Nevil shows [7c 5h] (Two pairs : 7 and 4)
+al0casia shows [Tc 6h] (Two pairs : Tens and 4)
+al0casia collected 208 from pot
+*** SUMMARY ***
+Total pot 208 | No rake
+Board: [4d Ts 8d 4c 7d]
+Seat 1: al0casia (small blind) showed [Tc 6h] and won 208 with Two pairs : Tens and 4
+Seat 2: Nevil (big blind) showed [7c 5h] and lost with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728598486994911233-11-1676854843 - Holdem no limit (30/60) - 2023/02/20 01:00:43 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: al0casia (208)
+Seat 2: Nevil (282)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+Nevil posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qh Jc]
+*** PRE-FLOP *** 
+al0casia folds
+Nevil calls 30
+_SKR raises 350 to 410 and is all-in
+Nevil folds
+_SKR collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 3: _SKR (big blind) won 470
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728598486994911233-12-1676854854 - Holdem no limit (30/60) - 2023/02/20 01:00:54 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #2 is the button
+Seat 1: al0casia (208)
+Seat 2: Nevil (222)
+Seat 3: _SKR (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+al0casia posts big blind 60
+Dealt to _SKR [8c 4c]
+*** PRE-FLOP *** 
+Nevil raises 162 to 222 and is all-in
+_SKR folds
+al0casia folds
+Nevil collected 312 from pot
+*** SUMMARY ***
+Total pot 312 | No rake
+Seat 2: Nevil (button) won 312
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728598486994911233-13-1676854858 - Holdem no limit (30/60) - 2023/02/20 01:00:58 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: al0casia (148)
+Seat 2: Nevil (312)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+al0casia posts small blind 30
+Nevil posts big blind 60
+Dealt to _SKR [8c 9c]
+*** PRE-FLOP *** 
+_SKR folds
+al0casia raises 88 to 148 and is all-in
+Nevil calls 88
+*** FLOP *** [Jc 5d Tc]
+*** TURN *** [Jc 5d Tc][4s]
+*** RIVER *** [Jc 5d Tc 4s][Js]
+*** SHOW DOWN ***
+al0casia shows [3s 8s] (One pair : Jacks)
+Nevil shows [4c Qc] (Two pairs : Jacks and 4)
+Nevil collected 296 from pot
+*** SUMMARY ***
+Total pot 296 | No rake
+Board: [Jc 5d Tc 4s Js]
+Seat 1: al0casia (small blind) showed [3s 8s] and lost with One pair : Jacks
+Seat 2: Nevil (big blind) showed [4c Qc] and won 296 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728598486994911233-14-1676854874 - Holdem no limit (30/60) - 2023/02/20 01:01:14 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Nevil (460)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+Nevil posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kd Qd]
+*** PRE-FLOP *** 
+Nevil calls 30
+_SKR raises 380 to 440 and is all-in
+Nevil folds
+_SKR collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 3: _SKR (big blind) won 500
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728598486994911233-15-1676854883 - Holdem no limit (30/60) - 2023/02/20 01:01:23 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Nevil (400)
+Seat 3: _SKR (500)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Nevil posts big blind 60
+Dealt to _SKR [8h 6h]
+*** PRE-FLOP *** 
+_SKR raises 440 to 500 and is all-in
+Nevil calls 340 and is all-in
+*** FLOP *** [9s 3c Ts]
+*** TURN *** [9s 3c Ts][4h]
+*** RIVER *** [9s 3c Ts 4h][9d]
+*** SHOW DOWN ***
+Nevil shows [Js Qc] (One pair : 9)
+_SKR shows [8h 6h] (One pair : 9)
+_SKR collected 100 from side pot 1
+Nevil collected 800 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 3c Ts 4h 9d]
+Seat 2: Nevil (big blind) showed [Js Qc] and won 800 with One pair : 9
+Seat 3: _SKR (small blind) (button) showed [8h 6h] and won 100 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2728598486994911233-16-1676854894 - Holdem no limit (40/80) - 2023/02/20 01:01:34 UTC
+Table: 'Expresso Nitro(635301342)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Nevil (800)
+Seat 3: _SKR (100)
+*** ANTE/BLINDS ***
+Nevil posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [6d 8d]
+*** PRE-FLOP *** 
+Nevil raises 80 to 160
+_SKR calls 20 and is all-in
+*** FLOP *** [5s 6s Tc]
+*** TURN *** [5s 6s Tc][Ts]
+*** RIVER *** [5s 6s Tc Ts][4c]
+*** SHOW DOWN ***
+_SKR shows [6d 8d] (Two pairs : Tens and 6)
+Nevil shows [Td Kc] (Trips of Tens)
+Nevil collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [5s 6s Tc Ts 4c]
+Seat 2: Nevil (small blind) (button) showed [Td Kc] and won 260 with Trips of Tens
+Seat 3: _SKR (big blind) showed [6d 8d] and lost with Two pairs : Tens and 6
+
+

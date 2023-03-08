@@ -1,0 +1,111 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698272289853538305-1-1675188331 - Holdem no limit (10/20) - 2023/01/31 18:05:31 UTC
+Table: 'Expresso Nitro(628240474)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kingfish9100 (300)
+Seat 2: _SKR (300)
+Seat 3: WINAWAX BOT (300)
+*** ANTE/BLINDS ***
+Kingfish9100 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js Ad]
+*** PRE-FLOP *** 
+WINAWAX BOT calls 20
+Kingfish9100 calls 10
+_SKR raises 280 to 300 and is all-in
+WINAWAX BOT folds
+Kingfish9100 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698272289853538305-2-1675188344 - Holdem no limit (10/20) - 2023/01/31 18:05:44 UTC
+Table: 'Expresso Nitro(628240474)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kingfish9100 (280)
+Seat 2: _SKR (340)
+Seat 3: WINAWAX BOT (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+WINAWAX BOT posts big blind 20
+Dealt to _SKR [4h Ks]
+*** PRE-FLOP *** 
+Kingfish9100 folds
+_SKR folds
+WINAWAX BOT collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: WINAWAX BOT (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698272289853538305-3-1675188351 - Holdem no limit (10/20) - 2023/01/31 18:05:51 UTC
+Table: 'Expresso Nitro(628240474)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kingfish9100 (280)
+Seat 2: _SKR (330)
+Seat 3: WINAWAX BOT (290)
+*** ANTE/BLINDS ***
+WINAWAX BOT posts small blind 10
+Kingfish9100 posts big blind 20
+Dealt to _SKR [3d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+WINAWAX BOT raises 20 to 40
+Kingfish9100 calls 20
+*** FLOP *** [7h 3h Ah]
+WINAWAX BOT bets 52
+Kingfish9100 calls 52
+*** TURN *** [7h 3h Ah][2d]
+WINAWAX BOT bets 120
+Kingfish9100 folds
+WINAWAX BOT collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Board: [7h 3h Ah 2d]
+Seat 3: WINAWAX BOT (small blind) won 304
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698272289853538305-4-1675188389 - Holdem no limit (15/30) - 2023/01/31 18:06:29 UTC
+Table: 'Expresso Nitro(628240474)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kingfish9100 (188)
+Seat 2: _SKR (330)
+Seat 3: WINAWAX BOT (382)
+*** ANTE/BLINDS ***
+Kingfish9100 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c 6c]
+*** PRE-FLOP *** 
+WINAWAX BOT raises 30 to 60
+Kingfish9100 folds
+_SKR folds
+WINAWAX BOT collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: WINAWAX BOT (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698272289853538305-5-1675188402 - Holdem no limit (15/30) - 2023/01/31 18:06:42 UTC
+Table: 'Expresso Nitro(628240474)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kingfish9100 (173)
+Seat 2: _SKR (300)
+Seat 3: WINAWAX BOT (427)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+WINAWAX BOT posts big blind 30
+Dealt to _SKR [7d 7c]
+*** PRE-FLOP *** 
+Kingfish9100 folds
+_SKR raises 270 to 300 and is all-in
+WINAWAX BOT raises 127 to 427 and is all-in
+*** FLOP *** [As 9d 5s]
+*** TURN *** [As 9d 5s][Ks]
+*** RIVER *** [As 9d 5s Ks][6c]
+*** SHOW DOWN ***
+_SKR shows [7d 7c] (One pair : 7)
+WINAWAX BOT shows [Kh Jh] (One pair : Kings)
+WINAWAX BOT collected 727 from pot
+*** SUMMARY ***
+Total pot 727 | No rake
+Board: [As 9d 5s Ks 6c]
+Seat 2: _SKR (small blind) showed [7d 7c] and lost with One pair : 7
+Seat 3: WINAWAX BOT (big blind) showed [Kh Jh] and won 727 with One pair : Kings
+
+

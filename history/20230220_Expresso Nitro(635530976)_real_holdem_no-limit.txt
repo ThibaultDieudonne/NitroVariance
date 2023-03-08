@@ -1,0 +1,306 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729584757514960897-1-1676920979 - Holdem no limit (10/20) - 2023/02/20 19:22:59 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: evalad (300)
+Seat 3: Haribo85100 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+evalad posts big blind 20
+Dealt to _SKR [3h Jc]
+*** PRE-FLOP *** 
+Haribo85100 calls 20
+_SKR folds
+evalad checks
+*** FLOP *** [4c 9h 9c]
+evalad bets 33
+Haribo85100 calls 33
+*** TURN *** [4c 9h 9c][5s]
+evalad checks
+Haribo85100 bets 75
+evalad folds
+Haribo85100 collected 191 from pot
+*** SUMMARY ***
+Total pot 191 | No rake
+Board: [4c 9h 9c 5s]
+Seat 3: Haribo85100 (button) won 191
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729584757514960897-2-1676920998 - Holdem no limit (10/20) - 2023/02/20 19:23:18 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: evalad (247)
+Seat 3: Haribo85100 (363)
+*** ANTE/BLINDS ***
+evalad posts small blind 10
+Haribo85100 posts big blind 20
+Dealt to _SKR [5h Tc]
+*** PRE-FLOP *** 
+_SKR folds
+evalad calls 10
+Haribo85100 checks
+*** FLOP *** [2c Kh 6s]
+evalad checks
+Haribo85100 checks
+*** TURN *** [2c Kh 6s][Qh]
+evalad checks
+Haribo85100 checks
+*** RIVER *** [2c Kh 6s Qh][Qc]
+evalad checks
+Haribo85100 checks
+*** SHOW DOWN ***
+evalad shows [5d 3h] (One pair : Queens)
+Haribo85100 shows [8s 3d] (One pair : Queens)
+Haribo85100 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2c Kh 6s Qh Qc]
+Seat 2: evalad (small blind) showed [5d 3h] and lost with One pair : Queens
+Seat 3: Haribo85100 (big blind) showed [8s 3d] and won 40 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729584757514960897-3-1676921020 - Holdem no limit (10/20) - 2023/02/20 19:23:40 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: evalad (227)
+Seat 3: Haribo85100 (383)
+*** ANTE/BLINDS ***
+Haribo85100 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd 9d]
+*** PRE-FLOP *** 
+evalad calls 20
+Haribo85100 folds
+_SKR checks
+*** FLOP *** [4s Qs 5c]
+_SKR checks
+evalad bets 50
+_SKR folds
+evalad collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4s Qs 5c]
+Seat 2: evalad (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729584757514960897-4-1676921040 - Holdem no limit (15/30) - 2023/02/20 19:24:00 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 2: evalad (257)
+Seat 3: Haribo85100 (373)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+evalad posts big blind 30
+Dealt to _SKR [6s 8s]
+*** PRE-FLOP *** 
+Haribo85100 raises 30 to 60
+_SKR folds
+evalad raises 197 to 257 and is all-in
+Haribo85100 calls 197
+*** FLOP *** [Jd Ks 6c]
+*** TURN *** [Jd Ks 6c][5s]
+*** RIVER *** [Jd Ks 6c 5s][Kh]
+*** SHOW DOWN ***
+evalad shows [8h 9s] (One pair : Kings)
+Haribo85100 shows [Kd Th] (Trips of Kings)
+Haribo85100 collected 529 from pot
+*** SUMMARY ***
+Total pot 529 | No rake
+Board: [Jd Ks 6c 5s Kh]
+Seat 2: evalad (big blind) showed [8h 9s] and lost with One pair : Kings
+Seat 3: Haribo85100 (button) showed [Kd Th] and won 529 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729584757514960897-5-1676921058 - Holdem no limit (15/30) - 2023/02/20 19:24:18 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (255)
+Seat 3: Haribo85100 (645)
+*** ANTE/BLINDS ***
+Haribo85100 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc 4s]
+*** PRE-FLOP *** 
+Haribo85100 calls 15
+_SKR checks
+*** FLOP *** [Kc 3d 7d]
+_SKR checks
+Haribo85100 checks
+*** TURN *** [Kc 3d 7d][7s]
+_SKR checks
+Haribo85100 bets 30
+_SKR folds
+Haribo85100 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Kc 3d 7d 7s]
+Seat 3: Haribo85100 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729584757514960897-6-1676921080 - Holdem no limit (15/30) - 2023/02/20 19:24:40 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (225)
+Seat 3: Haribo85100 (675)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Haribo85100 posts big blind 30
+Dealt to _SKR [Jc 7s]
+*** PRE-FLOP *** 
+_SKR raises 195 to 225 and is all-in
+Haribo85100 folds
+_SKR collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 1: _SKR (small blind) (button) won 255
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729584757514960897-7-1676921086 - Holdem no limit (15/30) - 2023/02/20 19:24:46 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (255)
+Seat 3: Haribo85100 (645)
+*** ANTE/BLINDS ***
+Haribo85100 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3c Js]
+*** PRE-FLOP *** 
+Haribo85100 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729584757514960897-8-1676921090 - Holdem no limit (15/30) - 2023/02/20 19:24:50 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 3: Haribo85100 (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Haribo85100 posts big blind 30
+Dealt to _SKR [9h 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Haribo85100 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Haribo85100 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729584757514960897-9-1676921093 - Holdem no limit (15/30) - 2023/02/20 19:24:53 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (255)
+Seat 3: Haribo85100 (645)
+*** ANTE/BLINDS ***
+Haribo85100 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h Kh]
+*** PRE-FLOP *** 
+Haribo85100 raises 615 to 645 and is all-in
+_SKR calls 225 and is all-in
+*** FLOP *** [4s 5h Th]
+*** TURN *** [4s 5h Th][Ah]
+*** RIVER *** [4s 5h Th Ah][3h]
+*** SHOW DOWN ***
+_SKR shows [9h Kh] (Flush Ace high)
+Haribo85100 shows [2h 2d] (Flush Ace high)
+Haribo85100 collected 390 from side pot 1
+_SKR collected 510 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 5h Th Ah 3h]
+Seat 1: _SKR (big blind) showed [9h Kh] and won 510 with Flush Ace high
+Seat 3: Haribo85100 (small blind) (button) showed [2h 2d] and won 390 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729584757514960897-10-1676921105 - Holdem no limit (20/40) - 2023/02/20 19:25:05 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (510)
+Seat 3: Haribo85100 (390)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Haribo85100 posts big blind 40
+Dealt to _SKR [9s Jc]
+*** PRE-FLOP *** 
+_SKR calls 20
+Haribo85100 checks
+*** FLOP *** [4c 2h Ad]
+Haribo85100 bets 80
+_SKR folds
+Haribo85100 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [4c 2h Ad]
+Seat 3: Haribo85100 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729584757514960897-11-1676921131 - Holdem no limit (20/40) - 2023/02/20 19:25:31 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (470)
+Seat 3: Haribo85100 (430)
+*** ANTE/BLINDS ***
+Haribo85100 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3d 7c]
+*** PRE-FLOP *** 
+Haribo85100 calls 20
+_SKR checks
+*** FLOP *** [Ah Ks Jh]
+_SKR checks
+Haribo85100 checks
+*** TURN *** [Ah Ks Jh][Kd]
+_SKR checks
+Haribo85100 checks
+*** RIVER *** [Ah Ks Jh Kd][Tc]
+_SKR checks
+Haribo85100 checks
+*** SHOW DOWN ***
+_SKR shows [3d 7c] (One pair : Kings)
+Haribo85100 shows [Ts 5s] (Two pairs : Kings and Tens)
+Haribo85100 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ah Ks Jh Kd Tc]
+Seat 1: _SKR (big blind) showed [3d 7c] and lost with One pair : Kings
+Seat 3: Haribo85100 (small blind) (button) showed [Ts 5s] and won 80 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729584757514960897-12-1676921159 - Holdem no limit (30/60) - 2023/02/20 19:25:59 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (430)
+Seat 3: Haribo85100 (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Haribo85100 posts big blind 60
+Dealt to _SKR [9c 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Haribo85100 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Haribo85100 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729584757514960897-13-1676921164 - Holdem no limit (30/60) - 2023/02/20 19:26:04 UTC
+Table: 'Expresso Nitro(635530976)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (400)
+Seat 3: Haribo85100 (500)
+*** ANTE/BLINDS ***
+Haribo85100 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3h Qh]
+*** PRE-FLOP *** 
+Haribo85100 calls 30
+_SKR raises 340 to 400 and is all-in
+Haribo85100 calls 340
+*** FLOP *** [Ts 4h 7d]
+*** TURN *** [Ts 4h 7d][Jh]
+*** RIVER *** [Ts 4h 7d Jh][As]
+*** SHOW DOWN ***
+_SKR shows [3h Qh] (High card : Ace)
+Haribo85100 shows [7c Kh] (One pair : 7)
+Haribo85100 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Ts 4h 7d Jh As]
+Seat 1: _SKR (big blind) showed [3h Qh] and lost with High card : Ace
+Seat 3: Haribo85100 (small blind) (button) showed [7c Kh] and won 800 with One pair : 7
+
+

@@ -1,0 +1,76 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721189406416306177-1-1676418873 - Holdem no limit (10/20) - 2023/02/14 23:54:33 UTC
+Table: 'Expresso Nitro(633576281)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Koroftn (300)
+Seat 3: loic090595 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Koroftn posts big blind 20
+Dealt to _SKR [2c 7s]
+*** PRE-FLOP *** 
+loic090595 folds
+_SKR folds
+Koroftn collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Koroftn (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721189406416306177-2-1676418880 - Holdem no limit (10/20) - 2023/02/14 23:54:40 UTC
+Table: 'Expresso Nitro(633576281)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Koroftn (310)
+Seat 3: loic090595 (300)
+*** ANTE/BLINDS ***
+Koroftn posts small blind 10
+loic090595 posts big blind 20
+Dealt to _SKR [Ac Qc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Koroftn folds
+loic090595 calls 20
+*** FLOP *** [7s 8s 2s]
+loic090595 checks
+_SKR checks
+*** TURN *** [7s 8s 2s][Js]
+loic090595 checks
+_SKR checks
+*** RIVER *** [7s 8s 2s Js][8c]
+loic090595 bets 20
+_SKR folds
+loic090595 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [7s 8s 2s Js 8c]
+Seat 3: loic090595 (big blind) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721189406416306177-3-1676418898 - Holdem no limit (10/20) - 2023/02/14 23:54:58 UTC
+Table: 'Expresso Nitro(633576281)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: Koroftn (300)
+Seat 3: loic090595 (350)
+*** ANTE/BLINDS ***
+loic090595 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s Ks]
+*** PRE-FLOP *** 
+Koroftn raises 280 to 300 and is all-in
+loic090595 calls 290
+_SKR calls 230 and is all-in
+*** FLOP *** [Tc 6d As]
+*** TURN *** [Tc 6d As][4s]
+*** RIVER *** [Tc 6d As 4s][3h]
+*** SHOW DOWN ***
+_SKR shows [6s Ks] (One pair : 6)
+loic090595 shows [Ad Jh] (One pair : Aces)
+Koroftn shows [Ah 4d] (Two pairs : Aces and 4)
+Koroftn collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [Tc 6d As 4s 3h]
+Seat 1: _SKR (big blind) showed [6s Ks] and lost with One pair : 6
+Seat 2: Koroftn (button) showed [Ah 4d] and won 850 with Two pairs : Aces and 4
+Seat 3: loic090595 (small blind) showed [Ad Jh] and lost with One pair : Aces
+
+

@@ -1,0 +1,127 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675032608361938945-1-1673741129 - Holdem no limit (10/20) - 2023/01/15 00:05:29 UTC
+Table: 'Expresso Nitro(622829564)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AP_Slash (300)
+Seat 2: Kaouthar jul (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AP_Slash posts big blind 20
+Dealt to _SKR [5s Jc]
+*** PRE-FLOP *** 
+Kaouthar jul raises 50 to 70
+_SKR folds
+AP_Slash raises 230 to 300 and is all-in
+Kaouthar jul calls 230 and is all-in
+*** FLOP *** [Qh Jh 6d]
+*** TURN *** [Qh Jh 6d][Qc]
+*** RIVER *** [Qh Jh 6d Qc][9s]
+*** SHOW DOWN ***
+Kaouthar jul shows [Ac 4d] (One pair : Queens)
+AP_Slash shows [Kc Ah] (One pair : Queens)
+AP_Slash collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Qh Jh 6d Qc 9s]
+Seat 1: AP_Slash (big blind) showed [Kc Ah] and won 610 with One pair : Queens
+Seat 2: Kaouthar jul (button) showed [Ac 4d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675032608361938945-2-1673741153 - Holdem no limit (10/20) - 2023/01/15 00:05:53 UTC
+Table: 'Expresso Nitro(622829564)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AP_Slash (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+AP_Slash posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd Jc]
+*** PRE-FLOP *** 
+AP_Slash folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675032608361938945-3-1673741160 - Holdem no limit (10/20) - 2023/01/15 00:06:00 UTC
+Table: 'Expresso Nitro(622829564)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AP_Slash (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AP_Slash posts big blind 20
+Dealt to _SKR [Ah 7h]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+AP_Slash folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675032608361938945-4-1673741166 - Holdem no limit (10/20) - 2023/01/15 00:06:06 UTC
+Table: 'Expresso Nitro(622829564)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AP_Slash (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+AP_Slash posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s 9h]
+*** PRE-FLOP *** 
+AP_Slash folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675032608361938945-5-1673741170 - Holdem no limit (10/20) - 2023/01/15 00:06:10 UTC
+Table: 'Expresso Nitro(622829564)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AP_Slash (570)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AP_Slash posts big blind 20
+Dealt to _SKR [8d Kd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+AP_Slash calls 20
+*** FLOP *** [Ks Jc 2c]
+AP_Slash checks
+_SKR checks
+*** TURN *** [Ks Jc 2c][8s]
+AP_Slash checks
+_SKR bets 40
+AP_Slash folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ks Jc 2c 8s]
+Seat 3: _SKR (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675032608361938945-6-1673741200 - Holdem no limit (15/30) - 2023/01/15 00:06:40 UTC
+Table: 'Expresso Nitro(622829564)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AP_Slash (530)
+Seat 3: _SKR (370)
+*** ANTE/BLINDS ***
+AP_Slash posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9c 9s]
+*** PRE-FLOP *** 
+AP_Slash raises 500 to 530 and is all-in
+_SKR calls 340 and is all-in
+*** FLOP *** [4d 5s 4c]
+*** TURN *** [4d 5s 4c][3h]
+*** RIVER *** [4d 5s 4c 3h][Tc]
+*** SHOW DOWN ***
+_SKR shows [9c 9s] (Two pairs : 9 and 4)
+AP_Slash shows [Qh Td] (Two pairs : Tens and 4)
+AP_Slash collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 5s 4c 3h Tc]
+Seat 1: AP_Slash (small blind) (button) showed [Qh Td] and won 900 with Two pairs : Tens and 4
+Seat 3: _SKR (big blind) showed [9c 9s] and lost with Two pairs : 9 and 4
+
+

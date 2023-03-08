@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680857412944003073-1-1674082263 - Holdem no limit (10/20) - 2023/01/18 22:51:03 UTC
+Table: 'Expresso Nitro(624185757)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fumier06 (300)
+Seat 2: _SKR (300)
+Seat 3: RuLo95 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+RuLo95 posts big blind 20
+Dealt to _SKR [7h 3h]
+*** PRE-FLOP *** 
+Fumier06 raises 280 to 300 and is all-in
+_SKR folds
+RuLo95 folds
+Fumier06 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Fumier06 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680857412944003073-2-1674082272 - Holdem no limit (10/20) - 2023/01/18 22:51:12 UTC
+Table: 'Expresso Nitro(624185757)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Fumier06 (330)
+Seat 2: _SKR (290)
+Seat 3: RuLo95 (280)
+*** ANTE/BLINDS ***
+RuLo95 posts small blind 10
+Fumier06 posts big blind 20
+Dealt to _SKR [4d 5s]
+*** PRE-FLOP *** 
+_SKR folds
+RuLo95 calls 10
+Fumier06 raises 310 to 330 and is all-in
+RuLo95 folds
+Fumier06 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: Fumier06 (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680857412944003073-3-1674082287 - Holdem no limit (10/20) - 2023/01/18 22:51:27 UTC
+Table: 'Expresso Nitro(624185757)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fumier06 (350)
+Seat 2: _SKR (290)
+Seat 3: RuLo95 (260)
+*** ANTE/BLINDS ***
+Fumier06 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 3d]
+*** PRE-FLOP *** 
+RuLo95 calls 20
+Fumier06 calls 10
+_SKR checks
+*** FLOP *** [Kd Qc Jd]
+Fumier06 checks
+_SKR checks
+RuLo95 checks
+*** TURN *** [Kd Qc Jd][6h]
+Fumier06 bets 20
+_SKR folds
+RuLo95 calls 20
+*** RIVER *** [Kd Qc Jd 6h][Jh]
+Fumier06 bets 20
+RuLo95 calls 20
+*** SHOW DOWN ***
+Fumier06 shows [Qh 9c] (Two pairs : Queens and Jacks)
+RuLo95 shows [Kh 9d] (Two pairs : Kings and Jacks)
+RuLo95 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Kd Qc Jd 6h Jh]
+Seat 1: Fumier06 (small blind) showed [Qh 9c] and lost with Two pairs : Queens and Jacks
+Seat 3: RuLo95 (button) showed [Kh 9d] and won 140 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680857412944003073-4-1674082313 - Holdem no limit (10/20) - 2023/01/18 22:51:53 UTC
+Table: 'Expresso Nitro(624185757)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fumier06 (290)
+Seat 2: _SKR (270)
+Seat 3: RuLo95 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+RuLo95 posts big blind 20
+Dealt to _SKR [As 8c]
+*** PRE-FLOP *** 
+Fumier06 folds
+_SKR raises 250 to 270 and is all-in
+RuLo95 calls 250
+*** FLOP *** [9d Th Jc]
+*** TURN *** [9d Th Jc][3d]
+*** RIVER *** [9d Th Jc 3d][Td]
+*** SHOW DOWN ***
+_SKR shows [As 8c] (One pair : Tens)
+RuLo95 shows [Ac 3c] (Two pairs : Tens and 3)
+RuLo95 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [9d Th Jc 3d Td]
+Seat 2: _SKR (small blind) showed [As 8c] and lost with One pair : Tens
+Seat 3: RuLo95 (big blind) showed [Ac 3c] and won 540 with Two pairs : Tens and 3
+
+

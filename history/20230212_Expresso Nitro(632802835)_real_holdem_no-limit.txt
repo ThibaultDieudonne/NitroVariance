@@ -1,0 +1,347 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717867481141084161-1-1676238214 - Holdem no limit (10/20) - 2023/02/12 21:43:34 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Bestbenred (300)
+Seat 3: Mallena (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Bestbenred posts big blind 20
+Dealt to _SKR [Jd Ts]
+*** PRE-FLOP *** 
+Mallena raises 20 to 40
+_SKR folds
+Bestbenred folds
+Mallena collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: Mallena (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717867481141084161-2-1676238225 - Holdem no limit (10/20) - 2023/02/12 21:43:45 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Bestbenred (280)
+Seat 3: Mallena (330)
+*** ANTE/BLINDS ***
+Bestbenred posts small blind 10
+Mallena posts big blind 20
+Dealt to _SKR [Tc 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Bestbenred raises 260 to 280 and is all-in
+Mallena folds
+Bestbenred collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: Bestbenred (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717867481141084161-3-1676238239 - Holdem no limit (10/20) - 2023/02/12 21:43:59 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Bestbenred (300)
+Seat 3: Mallena (310)
+*** ANTE/BLINDS ***
+Mallena posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 9s]
+*** PRE-FLOP *** 
+Bestbenred calls 20
+Mallena calls 10
+_SKR raises 270 to 290 and is all-in
+Bestbenred raises 10 to 300 and is all-in
+Mallena folds
+*** FLOP *** [3c As 4c]
+*** TURN *** [3c As 4c][5h]
+*** RIVER *** [3c As 4c 5h][2h]
+*** SHOW DOWN ***
+_SKR shows [9h 9s] (Straight 5 high)
+Bestbenred shows [Tc 9c] (Straight 5 high)
+Bestbenred collected 310 from side pot 1
+_SKR collected 300 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [3c As 4c 5h 2h]
+Seat 1: _SKR (big blind) showed [9h 9s] and won 300 with Straight 5 high
+Seat 2: Bestbenred (button) showed [Tc 9c] and won 310 with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717867481141084161-4-1676238265 - Holdem no limit (10/20) - 2023/02/12 21:44:25 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Bestbenred (310)
+Seat 3: Mallena (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Bestbenred posts big blind 20
+Dealt to _SKR [7h Ac]
+*** PRE-FLOP *** 
+Mallena raises 20 to 40
+_SKR folds
+Bestbenred raises 270 to 310 and is all-in
+Mallena calls 250 and is all-in
+*** FLOP *** [3c 5h Qc]
+*** TURN *** [3c 5h Qc][5c]
+*** RIVER *** [3c 5h Qc 5c][Th]
+*** SHOW DOWN ***
+Bestbenred shows [6c Ah] (One pair : 5)
+Mallena shows [Qs Qh] (Full of Queens and 5)
+Mallena collected 590 from main pot
+Bestbenred collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [3c 5h Qc 5c Th]
+Seat 2: Bestbenred (big blind) showed [6c Ah] and won 20 with One pair : 5
+Seat 3: Mallena (button) showed [Qs Qh] and won 590 with Full of Queens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717867481141084161-5-1676238286 - Holdem no limit (15/30) - 2023/02/12 21:44:46 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Bestbenred (20)
+Seat 3: Mallena (590)
+*** ANTE/BLINDS ***
+Bestbenred posts small blind 15
+Mallena posts big blind 30
+Dealt to _SKR [8h 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Bestbenred calls 5 and is all-in
+*** FLOP *** [Kd 2d Tc]
+*** TURN *** [Kd 2d Tc][Qd]
+*** RIVER *** [Kd 2d Tc Qd][4d]
+*** SHOW DOWN ***
+Bestbenred shows [7h Qh] (One pair : Queens)
+Mallena shows [Ac Ad] (Flush Ace high)
+Mallena collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Kd 2d Tc Qd 4d]
+Seat 2: Bestbenred (small blind) showed [7h Qh] and lost with One pair : Queens
+Seat 3: Mallena (big blind) showed [Ac Ad] and won 50 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717867481141084161-6-1676238303 - Holdem no limit (15/30) - 2023/02/12 21:45:03 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 3: Mallena (610)
+*** ANTE/BLINDS ***
+Mallena posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc 8c]
+*** PRE-FLOP *** 
+Mallena raises 580 to 610 and is all-in
+_SKR folds
+Mallena collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 3: Mallena (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717867481141084161-7-1676238314 - Holdem no limit (15/30) - 2023/02/12 21:45:14 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (260)
+Seat 3: Mallena (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mallena posts big blind 30
+Dealt to _SKR [Qs Jc]
+*** PRE-FLOP *** 
+_SKR raises 230 to 260 and is all-in
+Mallena folds
+_SKR collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 1: _SKR (small blind) (button) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717867481141084161-8-1676238320 - Holdem no limit (15/30) - 2023/02/12 21:45:20 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 3: Mallena (610)
+*** ANTE/BLINDS ***
+Mallena posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5s Qc]
+*** PRE-FLOP *** 
+Mallena raises 580 to 610 and is all-in
+_SKR folds
+Mallena collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 3: Mallena (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717867481141084161-9-1676238326 - Holdem no limit (15/30) - 2023/02/12 21:45:26 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (260)
+Seat 3: Mallena (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mallena posts big blind 30
+Dealt to _SKR [4d Qs]
+*** PRE-FLOP *** 
+_SKR folds
+Mallena collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Mallena (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717867481141084161-10-1676238331 - Holdem no limit (20/40) - 2023/02/12 21:45:31 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (245)
+Seat 3: Mallena (655)
+*** ANTE/BLINDS ***
+Mallena posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kh 3h]
+*** PRE-FLOP *** 
+Mallena raises 615 to 655 and is all-in
+_SKR calls 205 and is all-in
+*** FLOP *** [3s 5d Kd]
+*** TURN *** [3s 5d Kd][8h]
+*** RIVER *** [3s 5d Kd 8h][8c]
+*** SHOW DOWN ***
+_SKR shows [Kh 3h] (Two pairs : Kings and 8)
+Mallena shows [6s 5c] (Two pairs : 8 and 5)
+Mallena collected 410 from side pot 1
+_SKR collected 490 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3s 5d Kd 8h 8c]
+Seat 1: _SKR (big blind) showed [Kh 3h] and won 490 with Two pairs : Kings and 8
+Seat 3: Mallena (small blind) (button) showed [6s 5c] and won 410 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717867481141084161-11-1676238344 - Holdem no limit (20/40) - 2023/02/12 21:45:44 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (490)
+Seat 3: Mallena (410)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mallena posts big blind 40
+Dealt to _SKR [Ac 9s]
+*** PRE-FLOP *** 
+_SKR raises 450 to 490 and is all-in
+Mallena folds
+_SKR collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 1: _SKR (small blind) (button) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717867481141084161-12-1676238350 - Holdem no limit (20/40) - 2023/02/12 21:45:50 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (530)
+Seat 3: Mallena (370)
+*** ANTE/BLINDS ***
+Mallena posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c Td]
+*** PRE-FLOP *** 
+Mallena calls 20
+_SKR checks
+*** FLOP *** [3d As 4s]
+_SKR checks
+Mallena bets 80
+_SKR folds
+Mallena collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [3d As 4s]
+Seat 3: Mallena (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717867481141084161-13-1676238367 - Holdem no limit (20/40) - 2023/02/12 21:46:07 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (490)
+Seat 3: Mallena (410)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mallena posts big blind 40
+Dealt to _SKR [Tc 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Mallena collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Mallena (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717867481141084161-14-1676238373 - Holdem no limit (20/40) - 2023/02/12 21:46:13 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (470)
+Seat 3: Mallena (430)
+*** ANTE/BLINDS ***
+Mallena posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8d 7s]
+*** PRE-FLOP *** 
+Mallena raises 390 to 430 and is all-in
+_SKR folds
+Mallena collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 3: Mallena (small blind) (button) won 470
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717867481141084161-15-1676238384 - Holdem no limit (20/40) - 2023/02/12 21:46:24 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (430)
+Seat 3: Mallena (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mallena posts big blind 40
+Dealt to _SKR [3s 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Mallena collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Mallena (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717867481141084161-16-1676238388 - Holdem no limit (20/40) - 2023/02/12 21:46:28 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (410)
+Seat 3: Mallena (490)
+*** ANTE/BLINDS ***
+Mallena posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [As 4d]
+*** PRE-FLOP *** 
+Mallena calls 20
+_SKR raises 370 to 410 and is all-in
+Mallena folds
+_SKR collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 1: _SKR (big blind) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717867481141084161-17-1676238396 - Holdem no limit (30/60) - 2023/02/12 21:46:36 UTC
+Table: 'Expresso Nitro(632802835)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (450)
+Seat 3: Mallena (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Mallena posts big blind 60
+Dealt to _SKR [Ah 9c]
+*** PRE-FLOP *** 
+_SKR raises 390 to 450 and is all-in
+Mallena calls 390 and is all-in
+*** FLOP *** [6h 7c 2h]
+*** TURN *** [6h 7c 2h][5d]
+*** RIVER *** [6h 7c 2h 5d][8h]
+*** SHOW DOWN ***
+Mallena shows [Qd Kh] (High card : King)
+_SKR shows [Ah 9c] (Straight 9 high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6h 7c 2h 5d 8h]
+Seat 1: _SKR (small blind) (button) showed [Ah 9c] and won 900 with Straight 9 high
+Seat 3: Mallena (big blind) showed [Qd Kh] and lost with High card : King
+
+

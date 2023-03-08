@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718704145065312257-1-1676296342 - Holdem no limit (10/20) - 2023/02/13 13:52:22 UTC
+Table: 'Expresso Nitro(632997636)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Dali2021 (300)
+Seat 2: abouriou (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Dali2021 posts small blind 10
+abouriou posts big blind 20
+Dealt to _SKR [9d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Dali2021 raises 280 to 300 and is all-in
+abouriou folds
+Dali2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Dali2021 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718704145065312257-2-1676296349 - Holdem no limit (10/20) - 2023/02/13 13:52:29 UTC
+Table: 'Expresso Nitro(632997636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dali2021 (320)
+Seat 2: abouriou (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+abouriou posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd Qd]
+*** PRE-FLOP *** 
+Dali2021 raises 300 to 320 and is all-in
+abouriou folds
+_SKR calls 280 and is all-in
+*** FLOP *** [Th 7h 8c]
+*** TURN *** [Th 7h 8c][7d]
+*** RIVER *** [Th 7h 8c 7d][6d]
+*** SHOW DOWN ***
+_SKR shows [Kd Qd] (One pair : 7)
+Dali2021 shows [Qs 9s] (Straight Ten high)
+Dali2021 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Th 7h 8c 7d 6d]
+Seat 1: Dali2021 (button) showed [Qs 9s] and won 630 with Straight Ten high
+Seat 3: _SKR (big blind) showed [Kd Qd] and lost with One pair : 7
+
+

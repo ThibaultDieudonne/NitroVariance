@@ -1,0 +1,346 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661403483130822657-1-1673011488 - Holdem no limit (10/20) - 2023/01/06 13:24:48 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AlexBehind (300)
+Seat 2: MC-PICSOU- (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+MC-PICSOU- posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d Ah]
+*** PRE-FLOP *** 
+AlexBehind calls 20
+MC-PICSOU- calls 10
+_SKR raises 280 to 300 and is all-in
+AlexBehind folds
+MC-PICSOU- folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661403483130822657-2-1673011500 - Holdem no limit (10/20) - 2023/01/06 13:25:00 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AlexBehind (280)
+Seat 2: MC-PICSOU- (280)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AlexBehind posts big blind 20
+Dealt to _SKR [8d Qh]
+*** PRE-FLOP *** 
+MC-PICSOU- calls 20
+_SKR calls 10
+AlexBehind checks
+*** FLOP *** [5d Qd 9s]
+_SKR checks
+AlexBehind checks
+MC-PICSOU- bets 60
+_SKR calls 60
+AlexBehind folds
+*** TURN *** [5d Qd 9s][Ah]
+_SKR checks
+MC-PICSOU- bets 40
+_SKR calls 40
+*** RIVER *** [5d Qd 9s Ah][7c]
+_SKR checks
+MC-PICSOU- checks
+*** SHOW DOWN ***
+MC-PICSOU- shows [6c 6s] (One pair : 6)
+_SKR shows [8d Qh] (One pair : Queens)
+_SKR collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [5d Qd 9s Ah 7c]
+Seat 2: MC-PICSOU- (button) showed [6c 6s] and lost with One pair : 6
+Seat 3: _SKR (small blind) showed [8d Qh] and won 260 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661403483130822657-3-1673011550 - Holdem no limit (15/30) - 2023/01/06 13:25:50 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AlexBehind (260)
+Seat 2: MC-PICSOU- (160)
+Seat 3: _SKR (480)
+*** ANTE/BLINDS ***
+AlexBehind posts small blind 15
+MC-PICSOU- posts big blind 30
+Dealt to _SKR [Kc Td]
+*** PRE-FLOP *** 
+_SKR raises 450 to 480 and is all-in
+AlexBehind folds
+MC-PICSOU- calls 130 and is all-in
+*** FLOP *** [Ad 2c 4h]
+*** TURN *** [Ad 2c 4h][Qd]
+*** RIVER *** [Ad 2c 4h Qd][5s]
+*** SHOW DOWN ***
+MC-PICSOU- shows [Th Ac] (One pair : Aces)
+_SKR shows [Kc Td] (High card : Ace)
+_SKR collected 320 from side pot 1
+MC-PICSOU- collected 335 from main pot
+*** SUMMARY ***
+Total pot 655 | No rake
+Board: [Ad 2c 4h Qd 5s]
+Seat 2: MC-PICSOU- (big blind) showed [Th Ac] and won 335 with One pair : Aces
+Seat 3: _SKR (button) showed [Kc Td] and won 320 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661403483130822657-4-1673011564 - Holdem no limit (15/30) - 2023/01/06 13:26:04 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AlexBehind (245)
+Seat 2: MC-PICSOU- (335)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+MC-PICSOU- posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh Qd]
+*** PRE-FLOP *** 
+AlexBehind calls 30
+MC-PICSOU- calls 15
+_SKR raises 290 to 320 and is all-in
+AlexBehind folds
+MC-PICSOU- folds
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: _SKR (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661403483130822657-5-1673011574 - Holdem no limit (15/30) - 2023/01/06 13:26:14 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AlexBehind (215)
+Seat 2: MC-PICSOU- (305)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+AlexBehind posts big blind 30
+Dealt to _SKR [As 5d]
+*** PRE-FLOP *** 
+MC-PICSOU- folds
+_SKR raises 350 to 380 and is all-in
+AlexBehind folds
+_SKR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 3: _SKR (small blind) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661403483130822657-6-1673011591 - Holdem no limit (15/30) - 2023/01/06 13:26:31 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AlexBehind (185)
+Seat 2: MC-PICSOU- (305)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+AlexBehind posts small blind 15
+MC-PICSOU- posts big blind 30
+Dealt to _SKR [7d 2d]
+*** PRE-FLOP *** 
+_SKR folds
+AlexBehind folds
+MC-PICSOU- collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MC-PICSOU- (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661403483130822657-7-1673011597 - Holdem no limit (15/30) - 2023/01/06 13:26:37 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AlexBehind (170)
+Seat 2: MC-PICSOU- (320)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+MC-PICSOU- posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 5c]
+*** PRE-FLOP *** 
+AlexBehind calls 30
+MC-PICSOU- calls 15
+_SKR checks
+*** FLOP *** [Tc 8s 7d]
+MC-PICSOU- bets 150
+_SKR folds
+AlexBehind calls 140 and is all-in
+*** TURN *** [Tc 8s 7d][Ks]
+*** RIVER *** [Tc 8s 7d Ks][Kc]
+*** SHOW DOWN ***
+AlexBehind shows [9h Ts] (Two pairs : Kings and Tens)
+MC-PICSOU- shows [Td Qc] (Two pairs : Kings and Tens)
+MC-PICSOU- collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Tc 8s 7d Ks Kc]
+Seat 1: AlexBehind (button) showed [9h Ts] and lost with Two pairs : Kings and Tens
+Seat 2: MC-PICSOU- (small blind) showed [Td Qc] and won 380 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661403483130822657-8-1673011618 - Holdem no limit (20/40) - 2023/01/06 13:26:58 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MC-PICSOU- (520)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+MC-PICSOU- posts big blind 40
+Dealt to _SKR [Ks 5c]
+*** PRE-FLOP *** 
+_SKR calls 20
+MC-PICSOU- checks
+*** FLOP *** [Td 9d Qs]
+MC-PICSOU- checks
+_SKR checks
+*** TURN *** [Td 9d Qs][7d]
+MC-PICSOU- bets 40
+_SKR folds
+MC-PICSOU- collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Td 9d Qs 7d]
+Seat 2: MC-PICSOU- (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661403483130822657-9-1673011631 - Holdem no limit (20/40) - 2023/01/06 13:27:11 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MC-PICSOU- (560)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+MC-PICSOU- posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 8s]
+*** PRE-FLOP *** 
+MC-PICSOU- calls 20
+_SKR checks
+*** FLOP *** [7s Qc 3c]
+_SKR checks
+MC-PICSOU- bets 80
+_SKR folds
+MC-PICSOU- collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [7s Qc 3c]
+Seat 2: MC-PICSOU- (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661403483130822657-10-1673011645 - Holdem no limit (20/40) - 2023/01/06 13:27:25 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MC-PICSOU- (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+MC-PICSOU- posts big blind 40
+Dealt to _SKR [4d 6s]
+*** PRE-FLOP *** 
+_SKR folds
+MC-PICSOU- collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MC-PICSOU- (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661403483130822657-11-1673011648 - Holdem no limit (20/40) - 2023/01/06 13:27:28 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MC-PICSOU- (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+MC-PICSOU- posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ad Qh]
+*** PRE-FLOP *** 
+MC-PICSOU- calls 20
+_SKR raises 240 to 280 and is all-in
+MC-PICSOU- folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661403483130822657-12-1673011655 - Holdem no limit (20/40) - 2023/01/06 13:27:35 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MC-PICSOU- (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+MC-PICSOU- posts big blind 40
+Dealt to _SKR [7h Qs]
+*** PRE-FLOP *** 
+_SKR raises 280 to 320 and is all-in
+MC-PICSOU- folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661403483130822657-13-1673011662 - Holdem no limit (20/40) - 2023/01/06 13:27:42 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MC-PICSOU- (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+MC-PICSOU- posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4c 3s]
+*** PRE-FLOP *** 
+MC-PICSOU- folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2661403483130822657-14-1673011666 - Holdem no limit (30/60) - 2023/01/06 13:27:46 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MC-PICSOU- (520)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+MC-PICSOU- posts big blind 60
+Dealt to _SKR [7c Ah]
+*** PRE-FLOP *** 
+_SKR raises 320 to 380 and is all-in
+MC-PICSOU- folds
+_SKR collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 3: _SKR (small blind) (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2661403483130822657-15-1673011672 - Holdem no limit (30/60) - 2023/01/06 13:27:52 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MC-PICSOU- (460)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+MC-PICSOU- posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qd Ac]
+*** PRE-FLOP *** 
+MC-PICSOU- folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2661403483130822657-16-1673011675 - Holdem no limit (30/60) - 2023/01/06 13:27:55 UTC
+Table: 'Expresso Nitro(619656286)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MC-PICSOU- (430)
+Seat 3: _SKR (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+MC-PICSOU- posts big blind 60
+Dealt to _SKR [Js Jc]
+*** PRE-FLOP *** 
+_SKR calls 30
+MC-PICSOU- raises 370 to 430 and is all-in
+_SKR calls 370
+*** FLOP *** [6d 5d Qs]
+*** TURN *** [6d 5d Qs][7d]
+*** RIVER *** [6d 5d Qs 7d][4d]
+*** SHOW DOWN ***
+MC-PICSOU- shows [Tc Ts] (One pair : Tens)
+_SKR shows [Js Jc] (One pair : Jacks)
+_SKR collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [6d 5d Qs 7d 4d]
+Seat 2: MC-PICSOU- (big blind) showed [Tc Ts] and lost with One pair : Tens
+Seat 3: _SKR (small blind) (button) showed [Js Jc] and won 860 with One pair : Jacks
+
+

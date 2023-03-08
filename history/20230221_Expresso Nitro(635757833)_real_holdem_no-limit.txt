@@ -1,0 +1,603 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730559100910829569-1-1676985500 - Holdem no limit (10/20) - 2023/02/21 13:18:20 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Math103 (300)
+Seat 2: Tryphon0 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Math103 posts big blind 20
+Dealt to _SKR [Jh 2s]
+*** PRE-FLOP *** 
+Tryphon0 raises 20 to 40
+_SKR folds
+Math103 folds
+Tryphon0 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: Tryphon0 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730559100910829569-2-1676985505 - Holdem no limit (10/20) - 2023/02/21 13:18:25 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Math103 (280)
+Seat 2: Tryphon0 (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Math103 posts small blind 10
+Tryphon0 posts big blind 20
+Dealt to _SKR [Td 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Math103 folds
+Tryphon0 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Tryphon0 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730559100910829569-3-1676985511 - Holdem no limit (10/20) - 2023/02/21 13:18:31 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Math103 (270)
+Seat 2: Tryphon0 (340)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s 2d]
+*** PRE-FLOP *** 
+Math103 folds
+Tryphon0 raises 20 to 40
+_SKR folds
+Tryphon0 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Tryphon0 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730559100910829569-4-1676985525 - Holdem no limit (10/20) - 2023/02/21 13:18:45 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Math103 (270)
+Seat 2: Tryphon0 (360)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Math103 posts big blind 20
+Dealt to _SKR [5c 9d]
+*** PRE-FLOP *** 
+Tryphon0 raises 20 to 40
+_SKR folds
+Math103 calls 20
+*** FLOP *** [Kd 2s Js]
+Math103 checks
+Tryphon0 bets 31
+Math103 calls 31
+*** TURN *** [Kd 2s Js][Ts]
+Math103 checks
+Tryphon0 bets 99
+Math103 calls 99
+*** RIVER *** [Kd 2s Js Ts][8d]
+Math103 checks
+Tryphon0 checks
+*** SHOW DOWN ***
+Math103 shows [7s Ad] (High card : Ace)
+Tryphon0 shows [Ks Qc] (One pair : Kings)
+Tryphon0 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [Kd 2s Js Ts 8d]
+Seat 1: Math103 (big blind) showed [7s Ad] and lost with High card : Ace
+Seat 2: Tryphon0 (button) showed [Ks Qc] and won 350 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730559100910829569-5-1676985567 - Holdem no limit (15/30) - 2023/02/21 13:19:27 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Math103 (100)
+Seat 2: Tryphon0 (540)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Math103 posts small blind 15
+Tryphon0 posts big blind 30
+Dealt to _SKR [6c 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Math103 raises 30 to 60
+Tryphon0 folds
+Math103 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Math103 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730559100910829569-6-1676985577 - Holdem no limit (15/30) - 2023/02/21 13:19:37 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Math103 (130)
+Seat 2: Tryphon0 (510)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc Ts]
+*** PRE-FLOP *** 
+Math103 raises 30 to 60
+Tryphon0 folds
+_SKR calls 30
+*** FLOP *** [Ah 9c 2d]
+_SKR checks
+Math103 checks
+*** TURN *** [Ah 9c 2d][8d]
+_SKR checks
+Math103 checks
+*** RIVER *** [Ah 9c 2d 8d][Ac]
+_SKR bets 68
+Math103 calls 68
+*** SHOW DOWN ***
+Math103 shows [Jh Th] (One pair : Aces)
+_SKR shows [Qc Ts] (One pair : Aces)
+_SKR collected 271 from pot
+*** SUMMARY ***
+Total pot 271 | No rake
+Board: [Ah 9c 2d 8d Ac]
+Seat 1: Math103 (button) showed [Jh Th] and lost with One pair : Aces
+Seat 3: _SKR (big blind) showed [Qc Ts] and won 271 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730559100910829569-7-1676985610 - Holdem no limit (15/30) - 2023/02/21 13:20:10 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Math103 (2)
+Seat 2: Tryphon0 (495)
+Seat 3: _SKR (403)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Math103 posts big blind 2 and is all-in
+Dealt to _SKR [Kh As]
+*** PRE-FLOP *** 
+Tryphon0 raises 45 to 60
+_SKR raises 343 to 403 and is all-in
+Tryphon0 folds
+*** FLOP *** [2s Td 2d]
+*** TURN *** [2s Td 2d][Qd]
+*** RIVER *** [2s Td 2d Qd][3d]
+*** SHOW DOWN ***
+Math103 shows [3h Jh] (Two pairs : 3 and 2)
+_SKR shows [Kh As] (One pair : 2)
+_SKR collected 459 from side pot 1
+Math103 collected 6 from main pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Board: [2s Td 2d Qd 3d]
+Seat 1: Math103 (big blind) showed [3h Jh] and won 6 with Two pairs : 3 and 2
+Seat 3: _SKR (small blind) showed [Kh As] and won 459 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730559100910829569-8-1676985630 - Holdem no limit (20/40) - 2023/02/21 13:20:30 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Math103 (6)
+Seat 2: Tryphon0 (435)
+Seat 3: _SKR (459)
+*** ANTE/BLINDS ***
+Math103 posts small blind 6 and is all-in
+Tryphon0 posts big blind 40
+Dealt to _SKR [2h 8c]
+*** PRE-FLOP *** 
+_SKR folds
+*** FLOP *** [Jc 6d Kh]
+*** TURN *** [Jc 6d Kh][2c]
+*** RIVER *** [Jc 6d Kh 2c][3s]
+*** SHOW DOWN ***
+Math103 shows [9d 4c] (High card : King)
+Tryphon0 shows [4h 7d] (High card : King)
+Tryphon0 collected 34 from side pot 1
+Math103 collected 12 from main pot
+*** SUMMARY ***
+Total pot 46 | No rake
+Board: [Jc 6d Kh 2c 3s]
+Seat 1: Math103 (small blind) showed [9d 4c] and won 12 with High card : King
+Seat 2: Tryphon0 (big blind) showed [4h 7d] and won 34 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730559100910829569-9-1676985639 - Holdem no limit (20/40) - 2023/02/21 13:20:39 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Math103 (12)
+Seat 2: Tryphon0 (429)
+Seat 3: _SKR (459)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4c Js]
+*** PRE-FLOP *** 
+Math103 folds
+Tryphon0 raises 40 to 80
+_SKR folds
+Tryphon0 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Tryphon0 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730559100910829569-10-1676985653 - Holdem no limit (20/40) - 2023/02/21 13:20:53 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Math103 (12)
+Seat 2: Tryphon0 (469)
+Seat 3: _SKR (419)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Math103 posts big blind 12 and is all-in
+Dealt to _SKR [5h 2s]
+*** PRE-FLOP *** 
+Tryphon0 raises 60 to 80
+_SKR folds
+*** FLOP *** [6c Kh 8s]
+*** TURN *** [6c Kh 8s][Ad]
+*** RIVER *** [6c Kh 8s Ad][Qd]
+*** SHOW DOWN ***
+Math103 shows [6h Kd] (Two pairs : Kings and 6)
+Tryphon0 shows [Th Td] (One pair : Tens)
+Tryphon0 collected 76 from side pot 1
+Math103 collected 36 from main pot
+*** SUMMARY ***
+Total pot 112 | No rake
+Board: [6c Kh 8s Ad Qd]
+Seat 1: Math103 (big blind) showed [6h Kd] and won 36 with Two pairs : Kings and 6
+Seat 2: Tryphon0 (button) showed [Th Td] and won 76 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730559100910829569-11-1676985667 - Holdem no limit (20/40) - 2023/02/21 13:21:07 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Math103 (36)
+Seat 2: Tryphon0 (465)
+Seat 3: _SKR (399)
+*** ANTE/BLINDS ***
+Math103 posts small blind 20
+Tryphon0 posts big blind 40
+Dealt to _SKR [3d 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Math103 calls 16 and is all-in
+*** FLOP *** [Qs 8d Jd]
+*** TURN *** [Qs 8d Jd][5c]
+*** RIVER *** [Qs 8d Jd 5c][2s]
+*** SHOW DOWN ***
+Math103 shows [Qh Ks] (One pair : Queens)
+Tryphon0 shows [6h 9c] (High card : Queen)
+Tryphon0 collected 4 from side pot 1
+Math103 collected 72 from main pot
+*** SUMMARY ***
+Total pot 76 | No rake
+Board: [Qs 8d Jd 5c 2s]
+Seat 1: Math103 (small blind) showed [Qh Ks] and won 72 with One pair : Queens
+Seat 2: Tryphon0 (big blind) showed [6h 9c] and won 4 with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730559100910829569-12-1676985679 - Holdem no limit (30/60) - 2023/02/21 13:21:19 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Math103 (72)
+Seat 2: Tryphon0 (429)
+Seat 3: _SKR (399)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7c 9s]
+*** PRE-FLOP *** 
+Math103 raises 12 to 72 and is all-in
+Tryphon0 folds
+_SKR calls 12
+*** FLOP *** [3d 5d 9h]
+*** TURN *** [3d 5d 9h][Kh]
+*** RIVER *** [3d 5d 9h Kh][7d]
+*** SHOW DOWN ***
+Math103 shows [Ah 5s] (One pair : 5)
+_SKR shows [7c 9s] (Two pairs : 9 and 7)
+_SKR collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | No rake
+Board: [3d 5d 9h Kh 7d]
+Seat 1: Math103 (button) showed [Ah 5s] and lost with One pair : 5
+Seat 3: _SKR (big blind) showed [7c 9s] and won 174 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730559100910829569-13-1676985696 - Holdem no limit (30/60) - 2023/02/21 13:21:36 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tryphon0 (399)
+Seat 3: _SKR (501)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Tryphon0 posts big blind 60
+Dealt to _SKR [3h Ts]
+*** PRE-FLOP *** 
+_SKR folds
+Tryphon0 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Tryphon0 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730559100910829569-14-1676985700 - Holdem no limit (30/60) - 2023/02/21 13:21:40 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Tryphon0 (429)
+Seat 3: _SKR (471)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7h Ks]
+*** PRE-FLOP *** 
+Tryphon0 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730559100910829569-15-1676985704 - Holdem no limit (30/60) - 2023/02/21 13:21:44 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tryphon0 (399)
+Seat 3: _SKR (501)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Tryphon0 posts big blind 60
+Dealt to _SKR [9d Jd]
+*** PRE-FLOP *** 
+_SKR raises 441 to 501 and is all-in
+Tryphon0 calls 339 and is all-in
+*** FLOP *** [7d 2d 6d]
+*** TURN *** [7d 2d 6d][Qd]
+*** RIVER *** [7d 2d 6d Qd][Kd]
+*** SHOW DOWN ***
+Tryphon0 shows [Ad 6s] (Flush Ace high)
+_SKR shows [9d Jd] (Flush King high)
+_SKR collected 102 from side pot 1
+Tryphon0 collected 798 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 2d 6d Qd Kd]
+Seat 2: Tryphon0 (big blind) showed [Ad 6s] and won 798 with Flush Ace high
+Seat 3: _SKR (small blind) (button) showed [9d Jd] and won 102 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730559100910829569-16-1676985715 - Holdem no limit (30/60) - 2023/02/21 13:21:55 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Tryphon0 (798)
+Seat 3: _SKR (102)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7h 8d]
+*** PRE-FLOP *** 
+Tryphon0 raises 60 to 120
+_SKR calls 42 and is all-in
+*** FLOP *** [4d Qh 9h]
+*** TURN *** [4d Qh 9h][4h]
+*** RIVER *** [4d Qh 9h 4h][3d]
+*** SHOW DOWN ***
+Tryphon0 shows [5d 7c] (One pair : 4)
+_SKR shows [7h 8d] (One pair : 4)
+_SKR collected 204 from main pot
+Tryphon0 collected 18 from side pot 1
+*** SUMMARY ***
+Total pot 222 | No rake
+Board: [4d Qh 9h 4h 3d]
+Seat 2: Tryphon0 (small blind) (button) showed [5d 7c] and won 18 with One pair : 4
+Seat 3: _SKR (big blind) showed [7h 8d] and won 204 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730559100910829569-17-1676985730 - Holdem no limit (30/60) - 2023/02/21 13:22:10 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tryphon0 (696)
+Seat 3: _SKR (204)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Tryphon0 posts big blind 60
+Dealt to _SKR [Ac Td]
+*** PRE-FLOP *** 
+_SKR raises 144 to 204 and is all-in
+Tryphon0 folds
+_SKR collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Seat 3: _SKR (small blind) (button) won 264
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730559100910829569-18-1676985734 - Holdem no limit (30/60) - 2023/02/21 13:22:14 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Tryphon0 (636)
+Seat 3: _SKR (264)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2s 5s]
+*** PRE-FLOP *** 
+Tryphon0 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-19-1676985737 - Holdem no limit (40/80) - 2023/02/21 13:22:17 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tryphon0 (606)
+Seat 3: _SKR (294)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Tryphon0 posts big blind 80
+Dealt to _SKR [3d 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Tryphon0 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Tryphon0 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-20-1676985744 - Holdem no limit (40/80) - 2023/02/21 13:22:24 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Tryphon0 (646)
+Seat 3: _SKR (254)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [8s 3c]
+*** PRE-FLOP *** 
+Tryphon0 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-21-1676985748 - Holdem no limit (40/80) - 2023/02/21 13:22:28 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tryphon0 (606)
+Seat 3: _SKR (294)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Tryphon0 posts big blind 80
+Dealt to _SKR [Tc 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Tryphon0 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Tryphon0 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-22-1676985751 - Holdem no limit (40/80) - 2023/02/21 13:22:31 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Tryphon0 (646)
+Seat 3: _SKR (254)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [8s Qd]
+*** PRE-FLOP *** 
+Tryphon0 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-23-1676985754 - Holdem no limit (40/80) - 2023/02/21 13:22:34 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tryphon0 (606)
+Seat 3: _SKR (294)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Tryphon0 posts big blind 80
+Dealt to _SKR [Qc Ks]
+*** PRE-FLOP *** 
+_SKR raises 214 to 294 and is all-in
+Tryphon0 folds
+_SKR collected 374 from pot
+*** SUMMARY ***
+Total pot 374 | No rake
+Seat 3: _SKR (small blind) (button) won 374
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-24-1676985760 - Holdem no limit (40/80) - 2023/02/21 13:22:40 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Tryphon0 (526)
+Seat 3: _SKR (374)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [4d 6d]
+*** PRE-FLOP *** 
+Tryphon0 raises 446 to 526 and is all-in
+_SKR folds
+Tryphon0 collected 606 from pot
+*** SUMMARY ***
+Total pot 606 | No rake
+Seat 2: Tryphon0 (small blind) (button) won 606
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-25-1676985766 - Holdem no limit (40/80) - 2023/02/21 13:22:46 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tryphon0 (606)
+Seat 3: _SKR (294)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Tryphon0 posts big blind 80
+Dealt to _SKR [8s Jc]
+*** PRE-FLOP *** 
+_SKR raises 214 to 294 and is all-in
+Tryphon0 folds
+_SKR collected 374 from pot
+*** SUMMARY ***
+Total pot 374 | No rake
+Seat 3: _SKR (small blind) (button) won 374
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-26-1676985777 - Holdem no limit (40/80) - 2023/02/21 13:22:57 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Tryphon0 (526)
+Seat 3: _SKR (374)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Ks 4s]
+*** PRE-FLOP *** 
+Tryphon0 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-27-1676985780 - Holdem no limit (40/80) - 2023/02/21 13:23:00 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tryphon0 (486)
+Seat 3: _SKR (414)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Tryphon0 posts big blind 80
+Dealt to _SKR [Qs 9d]
+*** PRE-FLOP *** 
+_SKR raises 334 to 414 and is all-in
+Tryphon0 folds
+_SKR collected 494 from pot
+*** SUMMARY ***
+Total pot 494 | No rake
+Seat 3: _SKR (small blind) (button) won 494
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-28-1676985785 - Holdem no limit (40/80) - 2023/02/21 13:23:05 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Tryphon0 (406)
+Seat 3: _SKR (494)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [7s 6s]
+*** PRE-FLOP *** 
+Tryphon0 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2730559100910829569-29-1676985788 - Holdem no limit (40/80) - 2023/02/21 13:23:08 UTC
+Table: 'Expresso Nitro(635757833)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tryphon0 (366)
+Seat 3: _SKR (534)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Tryphon0 posts big blind 80
+Dealt to _SKR [Ac Ad]
+*** PRE-FLOP *** 
+_SKR raises 454 to 534 and is all-in
+Tryphon0 calls 286 and is all-in
+*** FLOP *** [9h Ah Js]
+*** TURN *** [9h Ah Js][Jh]
+*** RIVER *** [9h Ah Js Jh][2s]
+*** SHOW DOWN ***
+Tryphon0 shows [9c 4c] (Two pairs : Jacks and 9)
+_SKR shows [Ac Ad] (Full of Aces and Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9h Ah Js Jh 2s]
+Seat 2: Tryphon0 (big blind) showed [9c 4c] and lost with Two pairs : Jacks and 9
+Seat 3: _SKR (small blind) (button) showed [Ac Ad] and won 900 with Full of Aces and Jacks
+
+

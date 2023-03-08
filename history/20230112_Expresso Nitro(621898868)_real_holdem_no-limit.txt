@@ -1,0 +1,128 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671035299479420929-1-1673527761 - Holdem no limit (10/20) - 2023/01/12 12:49:21 UTC
+Table: 'Expresso Nitro(621898868)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: _Juanito (300)
+Seat 3: Le varcois (300)
+*** ANTE/BLINDS ***
+Le varcois posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c 4c]
+*** PRE-FLOP *** 
+_Juanito calls 20
+Le varcois calls 10
+_SKR checks
+*** FLOP *** [5s 9h Qh]
+Le varcois checks
+_SKR checks
+_Juanito bets 20
+Le varcois folds
+_SKR folds
+_Juanito collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5s 9h Qh]
+Seat 2: _Juanito (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671035299479420929-2-1673527806 - Holdem no limit (10/20) - 2023/01/12 12:50:06 UTC
+Table: 'Expresso Nitro(621898868)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: _Juanito (340)
+Seat 3: Le varcois (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+_Juanito posts big blind 20
+Dealt to _SKR [8s 4s]
+*** PRE-FLOP *** 
+Le varcois folds
+_SKR folds
+_Juanito collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _Juanito (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671035299479420929-3-1673527812 - Holdem no limit (10/20) - 2023/01/12 12:50:12 UTC
+Table: 'Expresso Nitro(621898868)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: _Juanito (350)
+Seat 3: Le varcois (280)
+*** ANTE/BLINDS ***
+_Juanito posts small blind 10
+Le varcois posts big blind 20
+Dealt to _SKR [6s 9s]
+*** PRE-FLOP *** 
+_SKR folds
+_Juanito raises 330 to 350 and is all-in
+Le varcois folds
+_Juanito collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 2: _Juanito (small blind) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671035299479420929-4-1673527818 - Holdem no limit (15/30) - 2023/01/12 12:50:18 UTC
+Table: 'Expresso Nitro(621898868)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: _Juanito (370)
+Seat 3: Le varcois (260)
+*** ANTE/BLINDS ***
+Le varcois posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5c 6d]
+*** PRE-FLOP *** 
+_Juanito folds
+Le varcois raises 230 to 260 and is all-in
+_SKR folds
+Le varcois collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: Le varcois (small blind) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671035299479420929-5-1673527830 - Holdem no limit (15/30) - 2023/01/12 12:50:30 UTC
+Table: 'Expresso Nitro(621898868)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (240)
+Seat 2: _Juanito (370)
+Seat 3: Le varcois (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+_Juanito posts big blind 30
+Dealt to _SKR [Qd Ac]
+*** PRE-FLOP *** 
+Le varcois folds
+_SKR raises 210 to 240 and is all-in
+_Juanito folds
+_SKR collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: _SKR (small blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671035299479420929-6-1673527839 - Holdem no limit (15/30) - 2023/01/12 12:50:39 UTC
+Table: 'Expresso Nitro(621898868)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: _Juanito (340)
+Seat 3: Le varcois (290)
+*** ANTE/BLINDS ***
+_Juanito posts small blind 15
+Le varcois posts big blind 30
+Dealt to _SKR [Jc Qh]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+_Juanito folds
+Le varcois calls 240
+*** FLOP *** [2d 5d 3c]
+*** TURN *** [2d 5d 3c][9c]
+*** RIVER *** [2d 5d 3c 9c][7d]
+*** SHOW DOWN ***
+_SKR shows [Jc Qh] (High card : Queen)
+Le varcois shows [Kh Ts] (High card : King)
+Le varcois collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [2d 5d 3c 9c 7d]
+Seat 1: _SKR (button) showed [Jc Qh] and lost with High card : Queen
+Seat 3: Le varcois (big blind) showed [Kh Ts] and won 555 with High card : King
+
+

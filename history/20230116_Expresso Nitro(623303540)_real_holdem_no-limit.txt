@@ -1,0 +1,45 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677068319781027841-1-1673875631 - Holdem no limit (10/20) - 2023/01/16 13:27:11 UTC
+Table: 'Expresso Nitro(623303540)#0' 3-max (real money) Seat #1 is the button
+Seat 1: noguris1 (300)
+Seat 2: _SKR (300)
+Seat 3: Jorgiiito10 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Jorgiiito10 posts big blind 20
+Dealt to _SKR [Ts 3d]
+*** PRE-FLOP *** 
+noguris1 folds
+_SKR folds
+Jorgiiito10 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Jorgiiito10 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677068319781027841-2-1673875639 - Holdem no limit (10/20) - 2023/01/16 13:27:19 UTC
+Table: 'Expresso Nitro(623303540)#0' 3-max (real money) Seat #2 is the button
+Seat 1: noguris1 (300)
+Seat 2: _SKR (290)
+Seat 3: Jorgiiito10 (310)
+*** ANTE/BLINDS ***
+Jorgiiito10 posts small blind 10
+noguris1 posts big blind 20
+Dealt to _SKR [7h 7s]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Jorgiiito10 raises 20 to 310 and is all-in
+noguris1 folds
+*** FLOP *** [9d 8d 3d]
+*** TURN *** [9d 8d 3d][As]
+*** RIVER *** [9d 8d 3d As][Kh]
+*** SHOW DOWN ***
+_SKR shows [7h 7s] (One pair : 7)
+Jorgiiito10 shows [Qs Qd] (One pair : Queens)
+Jorgiiito10 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9d 8d 3d As Kh]
+Seat 2: _SKR (button) showed [7h 7s] and lost with One pair : 7
+Seat 3: Jorgiiito10 (small blind) showed [Qs Qd] and won 620 with One pair : Queens
+
+

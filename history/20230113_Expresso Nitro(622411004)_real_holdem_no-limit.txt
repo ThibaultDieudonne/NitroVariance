@@ -1,0 +1,341 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673234906850525185-1-1673643671 - Holdem no limit (10/20) - 2023/01/13 21:01:11 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ledsh (300)
+Seat 2: cancian (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+ledsh posts small blind 10
+cancian posts big blind 20
+Dealt to _SKR [Tc Jh]
+*** PRE-FLOP *** 
+_SKR folds
+ledsh calls 10
+cancian checks
+*** FLOP *** [3c 6s 3s]
+ledsh checks
+cancian bets 32
+ledsh calls 32
+*** TURN *** [3c 6s 3s][Qh]
+ledsh checks
+cancian bets 75
+ledsh calls 75
+*** RIVER *** [3c 6s 3s Qh][8c]
+ledsh checks
+cancian bets 100
+ledsh calls 100
+*** SHOW DOWN ***
+ledsh shows [6c Js] (Two pairs : 6 and 3)
+cancian shows [Ac 3d] (Trips of 3)
+cancian collected 454 from pot
+*** SUMMARY ***
+Total pot 454 | No rake
+Board: [3c 6s 3s Qh 8c]
+Seat 1: ledsh (small blind) showed [6c Js] and lost with Two pairs : 6 and 3
+Seat 2: cancian (big blind) showed [Ac 3d] and won 454 with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673234906850525185-2-1673643714 - Holdem no limit (10/20) - 2023/01/13 21:01:54 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ledsh (73)
+Seat 2: cancian (527)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+cancian posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d Qc]
+*** PRE-FLOP *** 
+ledsh raises 53 to 73 and is all-in
+cancian folds
+_SKR folds
+ledsh collected 103 from pot
+*** SUMMARY ***
+Total pot 103 | No rake
+Seat 1: ledsh (button) won 103
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673234906850525185-3-1673643727 - Holdem no limit (15/30) - 2023/01/13 21:02:07 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ledsh (103)
+Seat 2: cancian (517)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ledsh posts big blind 30
+Dealt to _SKR [7d 8d]
+*** PRE-FLOP *** 
+cancian folds
+_SKR raises 250 to 280 and is all-in
+ledsh folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 3: _SKR (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673234906850525185-4-1673643740 - Holdem no limit (15/30) - 2023/01/13 21:02:20 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ledsh (73)
+Seat 2: cancian (517)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+ledsh posts small blind 15
+cancian posts big blind 30
+Dealt to _SKR [2s Kh]
+*** PRE-FLOP *** 
+_SKR folds
+ledsh raises 43 to 73 and is all-in
+cancian folds
+ledsh collected 103 from pot
+*** SUMMARY ***
+Total pot 103 | No rake
+Seat 1: ledsh (small blind) won 103
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673234906850525185-5-1673643751 - Holdem no limit (15/30) - 2023/01/13 21:02:31 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ledsh (103)
+Seat 2: cancian (487)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+cancian posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc As]
+*** PRE-FLOP *** 
+ledsh raises 73 to 103 and is all-in
+cancian folds
+_SKR raises 207 to 310 and is all-in
+*** FLOP *** [8s 4s 5c]
+*** TURN *** [8s 4s 5c][Qd]
+*** RIVER *** [8s 4s 5c Qd][Kd]
+*** SHOW DOWN ***
+ledsh shows [4c Qh] (Two pairs : Queens and 4)
+_SKR shows [Kc As] (One pair : Kings)
+_SKR collected 207 from side pot 1
+ledsh collected 221 from main pot
+*** SUMMARY ***
+Total pot 428 | No rake
+Board: [8s 4s 5c Qd Kd]
+Seat 1: ledsh (button) showed [4c Qh] and won 221 with Two pairs : Queens and 4
+Seat 3: _SKR (big blind) showed [Kc As] and won 207 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673234906850525185-6-1673643765 - Holdem no limit (15/30) - 2023/01/13 21:02:45 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ledsh (221)
+Seat 2: cancian (472)
+Seat 3: _SKR (207)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ledsh posts big blind 30
+Dealt to _SKR [7d Qd]
+*** PRE-FLOP *** 
+cancian calls 30
+_SKR raises 177 to 207 and is all-in
+ledsh raises 14 to 221 and is all-in
+cancian folds
+*** FLOP *** [2c 4d Jh]
+*** TURN *** [2c 4d Jh][Ks]
+*** RIVER *** [2c 4d Jh Ks][Jc]
+*** SHOW DOWN ***
+ledsh shows [9h 8c] (One pair : Jacks)
+_SKR shows [7d Qd] (One pair : Jacks)
+_SKR collected 444 from main pot
+ledsh collected 14 from side pot 1
+*** SUMMARY ***
+Total pot 458 | No rake
+Board: [2c 4d Jh Ks Jc]
+Seat 1: ledsh (big blind) showed [9h 8c] and won 14 with One pair : Jacks
+Seat 3: _SKR (small blind) showed [7d Qd] and won 444 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673234906850525185-7-1673643788 - Holdem no limit (20/40) - 2023/01/13 21:03:08 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ledsh (14)
+Seat 2: cancian (442)
+Seat 3: _SKR (444)
+*** ANTE/BLINDS ***
+ledsh posts small blind 14 and is all-in
+cancian posts big blind 40
+Dealt to _SKR [2s 4d]
+*** PRE-FLOP *** 
+_SKR folds
+*** FLOP *** [Ts 7d Ad]
+*** TURN *** [Ts 7d Ad][3d]
+*** RIVER *** [Ts 7d Ad 3d][9h]
+*** SHOW DOWN ***
+ledsh shows [7c 6c] (One pair : 7)
+cancian shows [Kd 4h] (High card : Ace)
+cancian collected 26 from side pot 1
+ledsh collected 28 from main pot
+*** SUMMARY ***
+Total pot 54 | No rake
+Board: [Ts 7d Ad 3d 9h]
+Seat 1: ledsh (small blind) showed [7c 6c] and won 28 with One pair : 7
+Seat 2: cancian (big blind) showed [Kd 4h] and won 26 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673234906850525185-8-1673643797 - Holdem no limit (20/40) - 2023/01/13 21:03:17 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ledsh (28)
+Seat 2: cancian (428)
+Seat 3: _SKR (444)
+*** ANTE/BLINDS ***
+cancian posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5h Jc]
+*** PRE-FLOP *** 
+ledsh calls 28 and is all-in
+cancian calls 20
+_SKR checks
+*** FLOP *** [7c 2s Qc]
+cancian bets 40
+_SKR folds
+*** TURN *** [7c 2s Qc][9s]
+*** RIVER *** [7c 2s Qc 9s][9c]
+*** SHOW DOWN ***
+ledsh shows [Ad 5s] (One pair : 9)
+cancian shows [Qh 7d] (Two pairs : Queens and 9)
+cancian collected 148 from pot
+*** SUMMARY ***
+Total pot 148 | No rake
+Board: [7c 2s Qc 9s 9c]
+Seat 1: ledsh (button) showed [Ad 5s] and lost with One pair : 9
+Seat 2: cancian (small blind) showed [Qh 7d] and won 148 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673234906850525185-9-1673643815 - Holdem no limit (20/40) - 2023/01/13 21:03:35 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #3 is the button
+Seat 2: cancian (496)
+Seat 3: _SKR (404)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+cancian posts big blind 40
+Dealt to _SKR [9s 6s]
+*** PRE-FLOP *** 
+_SKR folds
+cancian collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: cancian (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673234906850525185-10-1673643822 - Holdem no limit (20/40) - 2023/01/13 21:03:42 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #2 is the button
+Seat 2: cancian (516)
+Seat 3: _SKR (384)
+*** ANTE/BLINDS ***
+cancian posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9d 7h]
+*** PRE-FLOP *** 
+cancian calls 20
+_SKR checks
+*** FLOP *** [Jh Jc Qh]
+_SKR checks
+cancian bets 100
+_SKR folds
+cancian collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Jh Jc Qh]
+Seat 2: cancian (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2673234906850525185-11-1673643850 - Holdem no limit (30/60) - 2023/01/13 21:04:10 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #3 is the button
+Seat 2: cancian (556)
+Seat 3: _SKR (344)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+cancian posts big blind 60
+Dealt to _SKR [Th 9s]
+*** PRE-FLOP *** 
+_SKR folds
+cancian collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: cancian (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2673234906850525185-12-1673643855 - Holdem no limit (30/60) - 2023/01/13 21:04:15 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #2 is the button
+Seat 2: cancian (586)
+Seat 3: _SKR (314)
+*** ANTE/BLINDS ***
+cancian posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9c 9h]
+*** PRE-FLOP *** 
+cancian folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2673234906850525185-13-1673643860 - Holdem no limit (30/60) - 2023/01/13 21:04:20 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #3 is the button
+Seat 2: cancian (556)
+Seat 3: _SKR (344)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+cancian posts big blind 60
+Dealt to _SKR [Td Qs]
+*** PRE-FLOP *** 
+_SKR raises 284 to 344 and is all-in
+cancian calls 284
+*** FLOP *** [6d 4h 3s]
+*** TURN *** [6d 4h 3s][6c]
+*** RIVER *** [6d 4h 3s 6c][Ts]
+*** SHOW DOWN ***
+cancian shows [8c 2c] (One pair : 6)
+_SKR shows [Td Qs] (Two pairs : Tens and 6)
+_SKR collected 688 from pot
+*** SUMMARY ***
+Total pot 688 | No rake
+Board: [6d 4h 3s 6c Ts]
+Seat 2: cancian (big blind) showed [8c 2c] and lost with One pair : 6
+Seat 3: _SKR (small blind) (button) showed [Td Qs] and won 688 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2673234906850525185-14-1673643876 - Holdem no limit (30/60) - 2023/01/13 21:04:36 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #2 is the button
+Seat 2: cancian (212)
+Seat 3: _SKR (688)
+*** ANTE/BLINDS ***
+cancian posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jh Th]
+*** PRE-FLOP *** 
+cancian folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2673234906850525185-15-1673643883 - Holdem no limit (30/60) - 2023/01/13 21:04:43 UTC
+Table: 'Expresso Nitro(622411004)#0' 3-max (real money) Seat #3 is the button
+Seat 2: cancian (182)
+Seat 3: _SKR (718)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+cancian posts big blind 60
+Dealt to _SKR [Kd 3d]
+*** PRE-FLOP *** 
+_SKR raises 658 to 718 and is all-in
+cancian calls 122 and is all-in
+*** FLOP *** [5c Ac Qd]
+*** TURN *** [5c Ac Qd][Th]
+*** RIVER *** [5c Ac Qd Th][3s]
+*** SHOW DOWN ***
+cancian shows [8h 9s] (High card : Ace)
+_SKR shows [Kd 3d] (One pair : 3)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c Ac Qd Th 3s]
+Seat 2: cancian (big blind) showed [8h 9s] and lost with High card : Ace
+Seat 3: _SKR (small blind) (button) showed [Kd 3d] and won 900 with One pair : 3
+
+

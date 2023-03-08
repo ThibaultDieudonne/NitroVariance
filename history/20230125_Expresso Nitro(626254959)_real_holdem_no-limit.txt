@@ -1,0 +1,321 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689744567862820865-1-1674649283 - Holdem no limit (10/20) - 2023/01/25 12:21:23 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: loladela (300)
+Seat 3: tatadu83 (300)
+*** ANTE/BLINDS ***
+loladela posts small blind 10
+tatadu83 posts big blind 20
+Dealt to _SKR [Jc 8c]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+loladela folds
+tatadu83 folds
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: _SKR (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689744567862820865-2-1674649292 - Holdem no limit (10/20) - 2023/01/25 12:21:32 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (330)
+Seat 2: loladela (290)
+Seat 3: tatadu83 (280)
+*** ANTE/BLINDS ***
+tatadu83 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh 2h]
+*** PRE-FLOP *** 
+loladela calls 20
+tatadu83 calls 10
+_SKR checks
+*** FLOP *** [2s 8s As]
+tatadu83 checks
+_SKR checks
+loladela bets 21
+tatadu83 folds
+_SKR folds
+loladela collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [2s 8s As]
+Seat 2: loladela (button) won 81
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689744567862820865-3-1674649319 - Holdem no limit (10/20) - 2023/01/25 12:21:59 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: loladela (330)
+Seat 3: tatadu83 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+loladela posts big blind 20
+Dealt to _SKR [3s 5c]
+*** PRE-FLOP *** 
+tatadu83 raises 240 to 260 and is all-in
+_SKR folds
+loladela folds
+tatadu83 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: tatadu83 (button) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689744567862820865-4-1674649329 - Holdem no limit (10/20) - 2023/01/25 12:22:09 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: loladela (310)
+Seat 3: tatadu83 (290)
+*** ANTE/BLINDS ***
+loladela posts small blind 10
+tatadu83 posts big blind 20
+Dealt to _SKR [3h 4s]
+*** PRE-FLOP *** 
+_SKR folds
+loladela calls 10
+tatadu83 raises 270 to 290 and is all-in
+loladela folds
+tatadu83 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 3: tatadu83 (big blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689744567862820865-5-1674649338 - Holdem no limit (10/20) - 2023/01/25 12:22:18 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: loladela (290)
+Seat 3: tatadu83 (310)
+*** ANTE/BLINDS ***
+tatadu83 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Js]
+*** PRE-FLOP *** 
+loladela folds
+tatadu83 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689744567862820865-6-1674649343 - Holdem no limit (15/30) - 2023/01/25 12:22:23 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: loladela (290)
+Seat 3: tatadu83 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+loladela posts big blind 30
+Dealt to _SKR [Ks Ad]
+*** PRE-FLOP *** 
+tatadu83 raises 270 to 300 and is all-in
+_SKR raises 10 to 310 and is all-in
+loladela folds
+*** FLOP *** [Js Kd 9d]
+*** TURN *** [Js Kd 9d][Jc]
+*** RIVER *** [Js Kd 9d Jc][3s]
+*** SHOW DOWN ***
+tatadu83 shows [Tc As] (One pair : Jacks)
+_SKR shows [Ks Ad] (Two pairs : Kings and Jacks)
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Js Kd 9d Jc 3s]
+Seat 1: _SKR (small blind) showed [Ks Ad] and won 640 with Two pairs : Kings and Jacks
+Seat 3: tatadu83 (button) showed [Tc As] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689744567862820865-7-1674649356 - Holdem no limit (15/30) - 2023/01/25 12:22:36 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (640)
+Seat 2: loladela (260)
+*** ANTE/BLINDS ***
+loladela posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5d 9c]
+*** PRE-FLOP *** 
+loladela calls 15
+_SKR checks
+*** FLOP *** [4s 9s 2h]
+_SKR checks
+loladela checks
+*** TURN *** [4s 9s 2h][3c]
+_SKR checks
+loladela bets 30
+_SKR calls 30
+*** RIVER *** [4s 9s 2h 3c][Kc]
+_SKR checks
+loladela bets 30
+_SKR calls 30
+*** SHOW DOWN ***
+_SKR shows [5d 9c] (One pair : 9)
+loladela shows [Jc Kd] (One pair : Kings)
+loladela collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4s 9s 2h 3c Kc]
+Seat 1: _SKR (big blind) showed [5d 9c] and lost with One pair : 9
+Seat 2: loladela (small blind) (button) showed [Jc Kd] and won 180 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689744567862820865-8-1674649395 - Holdem no limit (15/30) - 2023/01/25 12:23:15 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (550)
+Seat 2: loladela (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+loladela posts big blind 30
+Dealt to _SKR [Jc Ks]
+*** PRE-FLOP *** 
+_SKR raises 520 to 550 and is all-in
+loladela folds
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 1: _SKR (small blind) (button) won 580
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689744567862820865-9-1674649402 - Holdem no limit (20/40) - 2023/01/25 12:23:22 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (580)
+Seat 2: loladela (320)
+*** ANTE/BLINDS ***
+loladela posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qh 3d]
+*** PRE-FLOP *** 
+loladela folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689744567862820865-10-1674649405 - Holdem no limit (20/40) - 2023/01/25 12:23:25 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 2: loladela (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+loladela posts big blind 40
+Dealt to _SKR [4d 2c]
+*** PRE-FLOP *** 
+_SKR folds
+loladela collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: loladela (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689744567862820865-11-1674649412 - Holdem no limit (20/40) - 2023/01/25 12:23:32 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (580)
+Seat 2: loladela (320)
+*** ANTE/BLINDS ***
+loladela posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c 9c]
+*** PRE-FLOP *** 
+loladela folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689744567862820865-12-1674649415 - Holdem no limit (20/40) - 2023/01/25 12:23:35 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 2: loladela (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+loladela posts big blind 40
+Dealt to _SKR [6h Td]
+*** PRE-FLOP *** 
+_SKR folds
+loladela collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: loladela (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689744567862820865-13-1674649418 - Holdem no limit (20/40) - 2023/01/25 12:23:38 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (580)
+Seat 2: loladela (320)
+*** ANTE/BLINDS ***
+loladela posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qd Kd]
+*** PRE-FLOP *** 
+loladela calls 20
+_SKR raises 540 to 580 and is all-in
+loladela calls 280 and is all-in
+*** FLOP *** [3s 9d 9s]
+*** TURN *** [3s 9d 9s][Tc]
+*** RIVER *** [3s 9d 9s Tc][2s]
+*** SHOW DOWN ***
+_SKR shows [Qd Kd] (One pair : 9)
+loladela shows [9h Ac] (Trips of 9)
+loladela collected 640 from main pot
+_SKR collected 260 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3s 9d 9s Tc 2s]
+Seat 1: _SKR (big blind) showed [Qd Kd] and won 260 with One pair : 9
+Seat 2: loladela (small blind) (button) showed [9h Ac] and won 640 with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689744567862820865-14-1674649431 - Holdem no limit (20/40) - 2023/01/25 12:23:51 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (260)
+Seat 2: loladela (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+loladela posts big blind 40
+Dealt to _SKR [7d 7c]
+*** PRE-FLOP *** 
+_SKR raises 220 to 260 and is all-in
+loladela calls 220
+*** FLOP *** [Kh Qh 6h]
+*** TURN *** [Kh Qh 6h][4d]
+*** RIVER *** [Kh Qh 6h 4d][Qc]
+*** SHOW DOWN ***
+loladela shows [Ah 8c] (One pair : Queens)
+_SKR shows [7d 7c] (Two pairs : Queens and 7)
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Kh Qh 6h 4d Qc]
+Seat 1: _SKR (small blind) (button) showed [7d 7c] and won 520 with Two pairs : Queens and 7
+Seat 2: loladela (big blind) showed [Ah 8c] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689744567862820865-15-1674649444 - Holdem no limit (20/40) - 2023/01/25 12:24:04 UTC
+Table: 'Expresso Nitro(626254959)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (520)
+Seat 2: loladela (380)
+*** ANTE/BLINDS ***
+loladela posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c Ad]
+*** PRE-FLOP *** 
+loladela calls 20
+_SKR raises 480 to 520 and is all-in
+loladela calls 340 and is all-in
+*** FLOP *** [Kc 5s Qc]
+*** TURN *** [Kc 5s Qc][6h]
+*** RIVER *** [Kc 5s Qc 6h][Jd]
+*** SHOW DOWN ***
+loladela shows [9s 7d] (High card : King)
+_SKR shows [7c Ad] (High card : Ace)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kc 5s Qc 6h Jd]
+Seat 1: _SKR (big blind) showed [7c Ad] and won 900 with High card : Ace
+Seat 2: loladela (small blind) (button) showed [9s 7d] and lost with High card : King
+
+

@@ -1,0 +1,363 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718619237856837633-1-1676291948 - Holdem no limit (10/20) - 2023/02/13 12:39:08 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #3 is the button
+Seat 1: guicha61 (300)
+Seat 2: _SKR (300)
+Seat 3: fredrro78 (300)
+*** ANTE/BLINDS ***
+guicha61 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d 3s]
+*** PRE-FLOP *** 
+fredrro78 calls 20
+guicha61 calls 10
+_SKR checks
+*** FLOP *** [2c 6h 8h]
+guicha61 checks
+_SKR checks
+fredrro78 checks
+*** TURN *** [2c 6h 8h][5d]
+guicha61 checks
+_SKR checks
+fredrro78 bets 39
+guicha61 calls 39
+_SKR folds
+*** RIVER *** [2c 6h 8h 5d][6c]
+guicha61 checks
+fredrro78 bets 30
+guicha61 raises 30 to 60
+fredrro78 calls 30
+*** SHOW DOWN ***
+fredrro78 shows [5h Qd] (Two pairs : 6 and 5)
+guicha61 shows [Jd 6s] (Trips of 6)
+guicha61 collected 258 from pot
+*** SUMMARY ***
+Total pot 258 | No rake
+Board: [2c 6h 8h 5d 6c]
+Seat 1: guicha61 (small blind) showed [Jd 6s] and won 258 with Trips of 6
+Seat 3: fredrro78 (button) showed [5h Qd] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718619237856837633-2-1676292002 - Holdem no limit (10/20) - 2023/02/13 12:40:02 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #1 is the button
+Seat 1: guicha61 (439)
+Seat 2: _SKR (280)
+Seat 3: fredrro78 (181)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+fredrro78 posts big blind 20
+Dealt to _SKR [6d 3h]
+*** PRE-FLOP *** 
+guicha61 raises 20 to 40
+_SKR folds
+fredrro78 raises 141 to 181 and is all-in
+guicha61 calls 141
+*** FLOP *** [5d 6h 9s]
+*** TURN *** [5d 6h 9s][Jh]
+*** RIVER *** [5d 6h 9s Jh][5s]
+*** SHOW DOWN ***
+guicha61 shows [Qc 8c] (One pair : 5)
+fredrro78 shows [Ah Jd] (Two pairs : Jacks and 5)
+fredrro78 collected 372 from pot
+*** SUMMARY ***
+Total pot 372 | No rake
+Board: [5d 6h 9s Jh 5s]
+Seat 1: guicha61 (button) showed [Qc 8c] and lost with One pair : 5
+Seat 3: fredrro78 (big blind) showed [Ah Jd] and won 372 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718619237856837633-3-1676292020 - Holdem no limit (15/30) - 2023/02/13 12:40:20 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #2 is the button
+Seat 1: guicha61 (258)
+Seat 2: _SKR (270)
+Seat 3: fredrro78 (372)
+*** ANTE/BLINDS ***
+fredrro78 posts small blind 15
+guicha61 posts big blind 30
+Dealt to _SKR [8d 9d]
+*** PRE-FLOP *** 
+_SKR folds
+fredrro78 calls 15
+guicha61 checks
+*** FLOP *** [5c Kh 7s]
+fredrro78 checks
+guicha61 checks
+*** TURN *** [5c Kh 7s][4h]
+fredrro78 checks
+guicha61 checks
+*** RIVER *** [5c Kh 7s 4h][Ac]
+fredrro78 checks
+guicha61 bets 60
+fredrro78 folds
+guicha61 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5c Kh 7s 4h Ac]
+Seat 1: guicha61 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718619237856837633-4-1676292038 - Holdem no limit (15/30) - 2023/02/13 12:40:38 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #3 is the button
+Seat 1: guicha61 (288)
+Seat 2: _SKR (270)
+Seat 3: fredrro78 (342)
+*** ANTE/BLINDS ***
+guicha61 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ac Tc]
+*** PRE-FLOP *** 
+fredrro78 calls 30
+guicha61 raises 258 to 288 and is all-in
+_SKR calls 240 and is all-in
+fredrro78 folds
+*** FLOP *** [5s Th 7d]
+*** TURN *** [5s Th 7d][8d]
+*** RIVER *** [5s Th 7d 8d][4h]
+*** SHOW DOWN ***
+guicha61 shows [Ks Ad] (High card : Ace)
+_SKR shows [Ac Tc] (One pair : Tens)
+_SKR collected 570 from main pot
+guicha61 collected 18 from side pot 1
+*** SUMMARY ***
+Total pot 588 | No rake
+Board: [5s Th 7d 8d 4h]
+Seat 1: guicha61 (small blind) showed [Ks Ad] and won 18 with High card : Ace
+Seat 2: _SKR (big blind) showed [Ac Tc] and won 570 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718619237856837633-5-1676292052 - Holdem no limit (15/30) - 2023/02/13 12:40:52 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #1 is the button
+Seat 1: guicha61 (18)
+Seat 2: _SKR (570)
+Seat 3: fredrro78 (312)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+fredrro78 posts big blind 30
+Dealt to _SKR [Qd 8d]
+*** PRE-FLOP *** 
+guicha61 calls 18 and is all-in
+_SKR raises 540 to 570 and is all-in
+fredrro78 folds
+*** FLOP *** [2h 8h As]
+*** TURN *** [2h 8h As][Kh]
+*** RIVER *** [2h 8h As Kh][5c]
+*** SHOW DOWN ***
+guicha61 shows [Ad 6s] (One pair : Aces)
+_SKR shows [Qd 8d] (One pair : 8)
+_SKR collected 564 from side pot 1
+guicha61 collected 54 from main pot
+*** SUMMARY ***
+Total pot 618 | No rake
+Board: [2h 8h As Kh 5c]
+Seat 1: guicha61 (button) showed [Ad 6s] and won 54 with One pair : Aces
+Seat 2: _SKR (small blind) showed [Qd 8d] and won 564 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718619237856837633-6-1676292066 - Holdem no limit (20/40) - 2023/02/13 12:41:06 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #2 is the button
+Seat 1: guicha61 (54)
+Seat 2: _SKR (564)
+Seat 3: fredrro78 (282)
+*** ANTE/BLINDS ***
+fredrro78 posts small blind 20
+guicha61 posts big blind 40
+Dealt to _SKR [8d 5h]
+*** PRE-FLOP *** 
+_SKR folds
+fredrro78 calls 20
+guicha61 raises 14 to 54 and is all-in
+fredrro78 calls 14
+*** FLOP *** [3h 2d 5c]
+*** TURN *** [3h 2d 5c][3c]
+*** RIVER *** [3h 2d 5c 3c][7d]
+*** SHOW DOWN ***
+fredrro78 shows [4d 9d] (One pair : 3)
+guicha61 shows [4h Jh] (One pair : 3)
+guicha61 collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [3h 2d 5c 3c 7d]
+Seat 1: guicha61 (big blind) showed [4h Jh] and won 108 with One pair : 3
+Seat 3: fredrro78 (small blind) showed [4d 9d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718619237856837633-7-1676292082 - Holdem no limit (20/40) - 2023/02/13 12:41:22 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #3 is the button
+Seat 1: guicha61 (108)
+Seat 2: _SKR (564)
+Seat 3: fredrro78 (228)
+*** ANTE/BLINDS ***
+guicha61 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7h 3d]
+*** PRE-FLOP *** 
+fredrro78 raises 188 to 228 and is all-in
+guicha61 folds
+_SKR folds
+fredrro78 collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | No rake
+Seat 3: fredrro78 (button) won 288
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718619237856837633-8-1676292090 - Holdem no limit (20/40) - 2023/02/13 12:41:30 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #1 is the button
+Seat 1: guicha61 (88)
+Seat 2: _SKR (524)
+Seat 3: fredrro78 (288)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+fredrro78 posts big blind 40
+Dealt to _SKR [4h 7c]
+*** PRE-FLOP *** 
+guicha61 raises 48 to 88 and is all-in
+_SKR folds
+fredrro78 calls 48
+*** FLOP *** [6h 8c 2c]
+*** TURN *** [6h 8c 2c][6s]
+*** RIVER *** [6h 8c 2c 6s][2h]
+*** SHOW DOWN ***
+guicha61 shows [Qc 3d] (Two pairs : 6 and 2)
+fredrro78 shows [Qh Th] (Two pairs : 6 and 2)
+fredrro78 collected 98 from pot
+guicha61 collected 98 from pot
+*** SUMMARY ***
+Total pot 196 | No rake
+Board: [6h 8c 2c 6s 2h]
+Seat 1: guicha61 (button) showed [Qc 3d] and won 98 with Two pairs : 6 and 2
+Seat 3: fredrro78 (big blind) showed [Qh Th] and won 98 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718619237856837633-9-1676292105 - Holdem no limit (20/40) - 2023/02/13 12:41:45 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #2 is the button
+Seat 1: guicha61 (98)
+Seat 2: _SKR (504)
+Seat 3: fredrro78 (298)
+*** ANTE/BLINDS ***
+fredrro78 posts small blind 20
+guicha61 posts big blind 40
+Dealt to _SKR [3c Qd]
+*** PRE-FLOP *** 
+_SKR folds
+fredrro78 folds
+guicha61 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: guicha61 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718619237856837633-10-1676292110 - Holdem no limit (20/40) - 2023/02/13 12:41:50 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #3 is the button
+Seat 1: guicha61 (118)
+Seat 2: _SKR (504)
+Seat 3: fredrro78 (278)
+*** ANTE/BLINDS ***
+guicha61 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8d 4h]
+*** PRE-FLOP *** 
+fredrro78 folds
+guicha61 raises 78 to 118 and is all-in
+_SKR folds
+guicha61 collected 158 from pot
+*** SUMMARY ***
+Total pot 158 | No rake
+Seat 1: guicha61 (small blind) won 158
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718619237856837633-11-1676292118 - Holdem no limit (20/40) - 2023/02/13 12:41:58 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #1 is the button
+Seat 1: guicha61 (158)
+Seat 2: _SKR (464)
+Seat 3: fredrro78 (278)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+fredrro78 posts big blind 40
+Dealt to _SKR [Ks Tc]
+*** PRE-FLOP *** 
+guicha61 raises 118 to 158 and is all-in
+_SKR raises 306 to 464 and is all-in
+fredrro78 folds
+*** FLOP *** [Jc 6h 5s]
+*** TURN *** [Jc 6h 5s][3s]
+*** RIVER *** [Jc 6h 5s 3s][8h]
+*** SHOW DOWN ***
+guicha61 shows [4c Kd] (High card : King)
+_SKR shows [Ks Tc] (High card : King)
+_SKR collected 662 from pot
+*** SUMMARY ***
+Total pot 662 | No rake
+Board: [Jc 6h 5s 3s 8h]
+Seat 1: guicha61 (button) showed [4c Kd] and lost with High card : King
+Seat 2: _SKR (small blind) showed [Ks Tc] and won 662 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718619237856837633-12-1676292136 - Holdem no limit (30/60) - 2023/02/13 12:42:16 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (662)
+Seat 3: fredrro78 (238)
+*** ANTE/BLINDS ***
+fredrro78 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5h 3d]
+*** PRE-FLOP *** 
+fredrro78 calls 30
+_SKR checks
+*** FLOP *** [3c 7h 2c]
+_SKR checks
+fredrro78 checks
+*** TURN *** [3c 7h 2c][9d]
+_SKR checks
+fredrro78 checks
+*** RIVER *** [3c 7h 2c 9d][Ah]
+_SKR checks
+fredrro78 bets 178 and is all-in
+_SKR folds
+fredrro78 collected 298 from pot
+*** SUMMARY ***
+Total pot 298 | No rake
+Board: [3c 7h 2c 9d Ah]
+Seat 3: fredrro78 (small blind) (button) won 298
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718619237856837633-13-1676292156 - Holdem no limit (30/60) - 2023/02/13 12:42:36 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (602)
+Seat 3: fredrro78 (298)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+fredrro78 posts big blind 60
+Dealt to _SKR [2h 9h]
+*** PRE-FLOP *** 
+_SKR raises 542 to 602 and is all-in
+fredrro78 folds
+_SKR collected 662 from pot
+*** SUMMARY ***
+Total pot 662 | No rake
+Seat 2: _SKR (small blind) (button) won 662
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718619237856837633-14-1676292162 - Holdem no limit (30/60) - 2023/02/13 12:42:42 UTC
+Table: 'Expresso Nitro(632977867)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (662)
+Seat 3: fredrro78 (238)
+*** ANTE/BLINDS ***
+fredrro78 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ad 6d]
+*** PRE-FLOP *** 
+fredrro78 raises 178 to 238 and is all-in
+_SKR calls 178
+*** FLOP *** [5s 6h 3h]
+*** TURN *** [5s 6h 3h][Td]
+*** RIVER *** [5s 6h 3h Td][2c]
+*** SHOW DOWN ***
+fredrro78 shows [Js 7s] (High card : Jack)
+_SKR shows [Ad 6d] (One pair : 6)
+_SKR collected 476 from pot
+*** SUMMARY ***
+Total pot 476 | No rake
+Board: [5s 6h 3h Td 2c]
+Seat 2: _SKR (big blind) showed [Ad 6d] and won 476 with One pair : 6
+Seat 3: fredrro78 (small blind) (button) showed [Js 7s] and lost with High card : Jack
+
+

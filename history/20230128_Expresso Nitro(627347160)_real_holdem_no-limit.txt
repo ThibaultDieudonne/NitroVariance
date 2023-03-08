@@ -1,0 +1,67 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694435535438479361-1-1674940116 - Holdem no limit (10/20) - 2023/01/28 21:08:36 UTC
+Table: 'Expresso Nitro(627347160)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: el matthador (300)
+Seat 3: Luigi.. (300)
+*** ANTE/BLINDS ***
+Luigi.. posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td 2c]
+*** PRE-FLOP *** 
+el matthador folds
+Luigi.. raises 40 to 60
+_SKR folds
+Luigi.. collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: Luigi.. (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694435535438479361-2-1674940131 - Holdem no limit (10/20) - 2023/01/28 21:08:51 UTC
+Table: 'Expresso Nitro(627347160)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: el matthador (300)
+Seat 3: Luigi.. (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+el matthador posts big blind 20
+Dealt to _SKR [Qs 4d]
+*** PRE-FLOP *** 
+Luigi.. raises 40 to 60
+_SKR folds
+el matthador folds
+Luigi.. collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Luigi.. (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694435535438479361-3-1674940158 - Holdem no limit (10/20) - 2023/01/28 21:09:18 UTC
+Table: 'Expresso Nitro(627347160)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: el matthador (280)
+Seat 3: Luigi.. (350)
+*** ANTE/BLINDS ***
+el matthador posts small blind 10
+Luigi.. posts big blind 20
+Dealt to _SKR [Ah 6h]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+el matthador raises 10 to 280 and is all-in
+Luigi.. raises 70 to 350 and is all-in
+*** FLOP *** [3c 4s 6c]
+*** TURN *** [3c 4s 6c][Qd]
+*** RIVER *** [3c 4s 6c Qd][Th]
+*** SHOW DOWN ***
+_SKR shows [Ah 6h] (One pair : 6)
+el matthador shows [Ks Jh] (High card : King)
+Luigi.. shows [Td Kh] (One pair : Tens)
+Luigi.. collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3c 4s 6c Qd Th]
+Seat 1: _SKR (button) showed [Ah 6h] and lost with One pair : 6
+Seat 2: el matthador (small blind) showed [Ks Jh] and lost with High card : King
+Seat 3: Luigi.. (big blind) showed [Td Kh] and won 900 with One pair : Tens
+
+

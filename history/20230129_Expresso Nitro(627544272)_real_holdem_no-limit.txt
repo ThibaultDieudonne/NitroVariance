@@ -1,0 +1,187 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695282125032128513-1-1675004097 - Holdem no limit (10/20) - 2023/01/29 14:54:57 UTC
+Table: 'Expresso Nitro(627544272)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TRIANA (300)
+Seat 2: _SKR (300)
+Seat 3: an0nio (300)
+*** ANTE/BLINDS ***
+an0nio posts small blind 10
+TRIANA posts big blind 20
+Dealt to _SKR [7h Ts]
+*** PRE-FLOP *** 
+_SKR folds
+an0nio folds
+TRIANA collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: TRIANA (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695282125032128513-2-1675004110 - Holdem no limit (10/20) - 2023/01/29 14:55:10 UTC
+Table: 'Expresso Nitro(627544272)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TRIANA (310)
+Seat 2: _SKR (300)
+Seat 3: an0nio (290)
+*** ANTE/BLINDS ***
+TRIANA posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 8h]
+*** PRE-FLOP *** 
+an0nio raises 20 to 40
+TRIANA folds
+_SKR calls 20
+*** FLOP *** [5c 4s 2s]
+_SKR checks
+an0nio bets 40
+_SKR folds
+an0nio collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [5c 4s 2s]
+Seat 3: an0nio (button) won 130
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695282125032128513-3-1675004135 - Holdem no limit (10/20) - 2023/01/29 14:55:35 UTC
+Table: 'Expresso Nitro(627544272)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TRIANA (300)
+Seat 2: _SKR (260)
+Seat 3: an0nio (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+an0nio posts big blind 20
+Dealt to _SKR [8h 6c]
+*** PRE-FLOP *** 
+TRIANA calls 20
+_SKR folds
+an0nio checks
+*** FLOP *** [Tc 2d 9h]
+an0nio bets 20
+TRIANA calls 20
+*** TURN *** [Tc 2d 9h][Td]
+an0nio bets 40
+TRIANA calls 40
+*** RIVER *** [Tc 2d 9h Td][9s]
+an0nio bets 90
+TRIANA raises 130 to 220 and is all-in
+an0nio calls 130
+*** SHOW DOWN ***
+an0nio shows [9c 3d] (Full of 9 and Tens)
+TRIANA shows [Qd Ts] (Full of Tens and 9)
+TRIANA collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Tc 2d 9h Td 9s]
+Seat 1: TRIANA (button) showed [Qd Ts] and won 610 with Full of Tens and 9
+Seat 3: an0nio (big blind) showed [9c 3d] and lost with Full of 9 and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695282125032128513-4-1675004176 - Holdem no limit (15/30) - 2023/01/29 14:56:16 UTC
+Table: 'Expresso Nitro(627544272)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TRIANA (610)
+Seat 2: _SKR (250)
+Seat 3: an0nio (40)
+*** ANTE/BLINDS ***
+an0nio posts small blind 15
+TRIANA posts big blind 30
+Dealt to _SKR [9s 2h]
+*** PRE-FLOP *** 
+_SKR folds
+an0nio raises 10 to 40 and is all-in
+TRIANA calls 10
+*** FLOP *** [6c 2c 3h]
+*** TURN *** [6c 2c 3h][2d]
+*** RIVER *** [6c 2c 3h 2d][Jc]
+*** SHOW DOWN ***
+an0nio shows [3d Ah] (Two pairs : 3 and 2)
+TRIANA shows [4c 5d] (Straight 6 high)
+TRIANA collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [6c 2c 3h 2d Jc]
+Seat 1: TRIANA (big blind) showed [4c 5d] and won 80 with Straight 6 high
+Seat 3: an0nio (small blind) showed [3d Ah] and lost with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695282125032128513-5-1675004199 - Holdem no limit (15/30) - 2023/01/29 14:56:39 UTC
+Table: 'Expresso Nitro(627544272)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TRIANA (650)
+Seat 2: _SKR (250)
+*** ANTE/BLINDS ***
+TRIANA posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6c As]
+*** PRE-FLOP *** 
+TRIANA calls 15
+_SKR raises 220 to 250 and is all-in
+TRIANA calls 220
+*** FLOP *** [Kd 5c Kh]
+*** TURN *** [Kd 5c Kh][6s]
+*** RIVER *** [Kd 5c Kh 6s][Ad]
+*** SHOW DOWN ***
+TRIANA shows [Qc Jd] (One pair : Kings)
+_SKR shows [6c As] (Two pairs : Aces and Kings)
+_SKR collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Kd 5c Kh 6s Ad]
+Seat 1: TRIANA (small blind) (button) showed [Qc Jd] and lost with One pair : Kings
+Seat 2: _SKR (big blind) showed [6c As] and won 500 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695282125032128513-6-1675004217 - Holdem no limit (20/40) - 2023/01/29 14:56:57 UTC
+Table: 'Expresso Nitro(627544272)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TRIANA (400)
+Seat 2: _SKR (500)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+TRIANA posts big blind 40
+Dealt to _SKR [Qd 3d]
+*** PRE-FLOP *** 
+_SKR folds
+TRIANA collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: TRIANA (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695282125032128513-7-1675004224 - Holdem no limit (20/40) - 2023/01/29 14:57:04 UTC
+Table: 'Expresso Nitro(627544272)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TRIANA (420)
+Seat 2: _SKR (480)
+*** ANTE/BLINDS ***
+TRIANA posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5s Js]
+*** PRE-FLOP *** 
+TRIANA raises 380 to 420 and is all-in
+_SKR folds
+TRIANA collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 1: TRIANA (small blind) (button) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695282125032128513-8-1675004237 - Holdem no limit (20/40) - 2023/01/29 14:57:17 UTC
+Table: 'Expresso Nitro(627544272)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TRIANA (460)
+Seat 2: _SKR (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+TRIANA posts big blind 40
+Dealt to _SKR [Kc 4c]
+*** PRE-FLOP *** 
+_SKR raises 400 to 440 and is all-in
+TRIANA calls 400
+*** FLOP *** [2d 7c 8s]
+*** TURN *** [2d 7c 8s][Jd]
+*** RIVER *** [2d 7c 8s Jd][6h]
+*** SHOW DOWN ***
+_SKR shows [Kc 4c] (High card : King)
+TRIANA shows [Kd 9d] (High card : King)
+TRIANA collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [2d 7c 8s Jd 6h]
+Seat 1: TRIANA (big blind) showed [Kd 9d] and won 880 with High card : King
+Seat 2: _SKR (small blind) (button) showed [Kc 4c] and lost with High card : King
+
+

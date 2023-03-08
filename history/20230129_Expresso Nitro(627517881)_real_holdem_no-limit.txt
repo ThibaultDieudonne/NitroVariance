@@ -1,0 +1,328 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695168776550219777-1-1674997700 - Holdem no limit (10/20) - 2023/01/29 13:08:20 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Robertum (300)
+Seat 2: LaFobie31 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+LaFobie31 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah Js]
+*** PRE-FLOP *** 
+Robertum raises 280 to 300 and is all-in
+LaFobie31 folds
+_SKR calls 280 and is all-in
+*** FLOP *** [As Tc 5h]
+*** TURN *** [As Tc 5h][Qh]
+*** RIVER *** [As Tc 5h Qh][Qc]
+*** SHOW DOWN ***
+Robertum shows [4d 4c] (Two pairs : Queens and 4)
+_SKR shows [Ah Js] (Two pairs : Aces and Queens)
+_SKR collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [As Tc 5h Qh Qc]
+Seat 1: Robertum (button) showed [4d 4c] and lost with Two pairs : Queens and 4
+Seat 3: _SKR (big blind) showed [Ah Js] and won 610 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695168776550219777-2-1674997721 - Holdem no limit (10/20) - 2023/01/29 13:08:41 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LaFobie31 (290)
+Seat 3: _SKR (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LaFobie31 posts big blind 20
+Dealt to _SKR [Ts 8s]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+LaFobie31 calls 20
+*** FLOP *** [4c Js Qs]
+LaFobie31 checks
+_SKR bets 40
+LaFobie31 calls 40
+*** TURN *** [4c Js Qs][Jd]
+LaFobie31 checks
+_SKR bets 20
+LaFobie31 calls 20
+*** RIVER *** [4c Js Qs Jd][6s]
+LaFobie31 checks
+_SKR bets 510 and is all-in
+LaFobie31 folds
+_SKR collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [4c Js Qs Jd 6s]
+Seat 3: _SKR (small blind) (button) won 710
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695168776550219777-3-1674997793 - Holdem no limit (15/30) - 2023/01/29 13:09:53 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LaFobie31 (190)
+Seat 3: _SKR (710)
+*** ANTE/BLINDS ***
+LaFobie31 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9s Js]
+*** PRE-FLOP *** 
+LaFobie31 raises 160 to 190 and is all-in
+_SKR calls 160
+*** FLOP *** [Qh 5s Kd]
+*** TURN *** [Qh 5s Kd][4c]
+*** RIVER *** [Qh 5s Kd 4c][9c]
+*** SHOW DOWN ***
+_SKR shows [9s Js] (One pair : 9)
+LaFobie31 shows [Jc Qs] (One pair : Queens)
+LaFobie31 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Qh 5s Kd 4c 9c]
+Seat 2: LaFobie31 (small blind) (button) showed [Jc Qs] and won 380 with One pair : Queens
+Seat 3: _SKR (big blind) showed [9s Js] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695168776550219777-4-1674997809 - Holdem no limit (15/30) - 2023/01/29 13:10:09 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LaFobie31 (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LaFobie31 posts big blind 30
+Dealt to _SKR [Qh Kh]
+*** PRE-FLOP *** 
+_SKR raises 490 to 520 and is all-in
+LaFobie31 folds
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 3: _SKR (small blind) (button) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695168776550219777-5-1674997825 - Holdem no limit (20/40) - 2023/01/29 13:10:25 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LaFobie31 (350)
+Seat 3: _SKR (550)
+*** ANTE/BLINDS ***
+LaFobie31 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9s 8c]
+*** PRE-FLOP *** 
+LaFobie31 calls 20
+_SKR checks
+*** FLOP *** [Jd 7s As]
+_SKR checks
+LaFobie31 bets 40
+_SKR folds
+LaFobie31 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jd 7s As]
+Seat 2: LaFobie31 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695168776550219777-6-1674997857 - Holdem no limit (20/40) - 2023/01/29 13:10:57 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LaFobie31 (390)
+Seat 3: _SKR (510)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+LaFobie31 posts big blind 40
+Dealt to _SKR [2s 8d]
+*** PRE-FLOP *** 
+_SKR folds
+LaFobie31 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: LaFobie31 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695168776550219777-7-1674997870 - Holdem no limit (20/40) - 2023/01/29 13:11:10 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LaFobie31 (410)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+LaFobie31 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s 6h]
+*** PRE-FLOP *** 
+LaFobie31 calls 20
+_SKR checks
+*** FLOP *** [Qh 7c 3c]
+_SKR checks
+LaFobie31 checks
+*** TURN *** [Qh 7c 3c][4h]
+_SKR bets 52
+LaFobie31 folds
+_SKR collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Qh 7c 3c 4h]
+Seat 3: _SKR (big blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695168776550219777-8-1674997891 - Holdem no limit (30/60) - 2023/01/29 13:11:31 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LaFobie31 (370)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+LaFobie31 posts big blind 60
+Dealt to _SKR [2c 3s]
+*** PRE-FLOP *** 
+_SKR folds
+LaFobie31 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: LaFobie31 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695168776550219777-9-1674997898 - Holdem no limit (30/60) - 2023/01/29 13:11:38 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LaFobie31 (400)
+Seat 3: _SKR (500)
+*** ANTE/BLINDS ***
+LaFobie31 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ah 6s]
+*** PRE-FLOP *** 
+LaFobie31 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695168776550219777-10-1674997903 - Holdem no limit (30/60) - 2023/01/29 13:11:43 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LaFobie31 (370)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+LaFobie31 posts big blind 60
+Dealt to _SKR [Qc 8c]
+*** PRE-FLOP *** 
+_SKR raises 470 to 530 and is all-in
+LaFobie31 calls 310 and is all-in
+*** FLOP *** [4s Ks 2d]
+*** TURN *** [4s Ks 2d][6h]
+*** RIVER *** [4s Ks 2d 6h][Jh]
+*** SHOW DOWN ***
+LaFobie31 shows [3d 4h] (One pair : 4)
+_SKR shows [Qc 8c] (High card : King)
+_SKR collected 160 from side pot 1
+LaFobie31 collected 740 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s Ks 2d 6h Jh]
+Seat 2: LaFobie31 (big blind) showed [3d 4h] and won 740 with One pair : 4
+Seat 3: _SKR (small blind) (button) showed [Qc 8c] and won 160 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695168776550219777-11-1674997916 - Holdem no limit (30/60) - 2023/01/29 13:11:56 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LaFobie31 (740)
+Seat 3: _SKR (160)
+*** ANTE/BLINDS ***
+LaFobie31 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ad 9d]
+*** PRE-FLOP *** 
+LaFobie31 calls 30
+_SKR raises 100 to 160 and is all-in
+LaFobie31 folds
+_SKR collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Seat 3: _SKR (big blind) won 220
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695168776550219777-12-1674997925 - Holdem no limit (30/60) - 2023/01/29 13:12:05 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LaFobie31 (680)
+Seat 3: _SKR (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+LaFobie31 posts big blind 60
+Dealt to _SKR [Qh Kd]
+*** PRE-FLOP *** 
+_SKR raises 160 to 220 and is all-in
+LaFobie31 folds
+_SKR collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: _SKR (small blind) (button) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695168776550219777-13-1674997933 - Holdem no limit (30/60) - 2023/01/29 13:12:13 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LaFobie31 (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+LaFobie31 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5s Qs]
+*** PRE-FLOP *** 
+LaFobie31 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2695168776550219777-14-1674997938 - Holdem no limit (40/80) - 2023/01/29 13:12:18 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LaFobie31 (590)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+LaFobie31 posts big blind 80
+Dealt to _SKR [7h Ts]
+*** PRE-FLOP *** 
+_SKR raises 230 to 310 and is all-in
+LaFobie31 folds
+_SKR collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 3: _SKR (small blind) (button) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2695168776550219777-15-1674997947 - Holdem no limit (40/80) - 2023/01/29 13:12:27 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LaFobie31 (510)
+Seat 3: _SKR (390)
+*** ANTE/BLINDS ***
+LaFobie31 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [9c 7d]
+*** PRE-FLOP *** 
+LaFobie31 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2695168776550219777-16-1674997951 - Holdem no limit (40/80) - 2023/01/29 13:12:31 UTC
+Table: 'Expresso Nitro(627517881)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LaFobie31 (470)
+Seat 3: _SKR (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+LaFobie31 posts big blind 80
+Dealt to _SKR [Kc 3h]
+*** PRE-FLOP *** 
+_SKR raises 350 to 430 and is all-in
+LaFobie31 calls 350
+*** FLOP *** [8h 4c 5d]
+*** TURN *** [8h 4c 5d][7h]
+*** RIVER *** [8h 4c 5d 7h][2c]
+*** SHOW DOWN ***
+_SKR shows [Kc 3h] (High card : King)
+LaFobie31 shows [Qc Kh] (High card : King)
+LaFobie31 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [8h 4c 5d 7h 2c]
+Seat 2: LaFobie31 (big blind) showed [Qc Kh] and won 860 with High card : King
+Seat 3: _SKR (small blind) (button) showed [Kc 3h] and lost with High card : King
+
+

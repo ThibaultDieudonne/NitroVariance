@@ -1,0 +1,308 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689775723555586049-1-1674651193 - Holdem no limit (10/20) - 2023/01/25 12:53:13 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shereen.M-L (300)
+Seat 2: _SKR (300)
+Seat 3: J.CAPO (300)
+*** ANTE/BLINDS ***
+J.CAPO posts small blind 10
+Shereen.M-L posts big blind 20
+Dealt to _SKR [6d 5h]
+*** PRE-FLOP *** 
+_SKR folds
+J.CAPO raises 20 to 40
+Shereen.M-L raises 260 to 300 and is all-in
+J.CAPO folds
+Shereen.M-L collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: Shereen.M-L (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689775723555586049-2-1674651208 - Holdem no limit (10/20) - 2023/01/25 12:53:28 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shereen.M-L (340)
+Seat 2: _SKR (300)
+Seat 3: J.CAPO (260)
+*** ANTE/BLINDS ***
+Shereen.M-L posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s 7c]
+*** PRE-FLOP *** 
+J.CAPO calls 20
+Shereen.M-L folds
+_SKR checks
+*** FLOP *** [Tc 3d 5d]
+_SKR checks
+J.CAPO checks
+*** TURN *** [Tc 3d 5d][9h]
+_SKR checks
+J.CAPO checks
+*** RIVER *** [Tc 3d 5d 9h][2c]
+_SKR bets 33
+J.CAPO folds
+_SKR collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [Tc 3d 5d 9h 2c]
+Seat 2: _SKR (big blind) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689775723555586049-3-1674651242 - Holdem no limit (10/20) - 2023/01/25 12:54:02 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shereen.M-L (330)
+Seat 2: _SKR (330)
+Seat 3: J.CAPO (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+J.CAPO posts big blind 20
+Dealt to _SKR [9c Td]
+*** PRE-FLOP *** 
+Shereen.M-L raises 310 to 330 and is all-in
+_SKR folds
+J.CAPO calls 220 and is all-in
+*** FLOP *** [Qd 8c Jd]
+*** TURN *** [Qd 8c Jd][Qc]
+*** RIVER *** [Qd 8c Jd Qc][4s]
+*** SHOW DOWN ***
+Shereen.M-L shows [Kh 9h] (One pair : Queens)
+J.CAPO shows [Th Ah] (One pair : Queens)
+J.CAPO collected 490 from main pot
+Shereen.M-L collected 90 from side pot 1
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Qd 8c Jd Qc 4s]
+Seat 1: Shereen.M-L (button) showed [Kh 9h] and won 90 with One pair : Queens
+Seat 3: J.CAPO (big blind) showed [Th Ah] and won 490 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689775723555586049-4-1674651256 - Holdem no limit (15/30) - 2023/01/25 12:54:16 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shereen.M-L (90)
+Seat 2: _SKR (320)
+Seat 3: J.CAPO (490)
+*** ANTE/BLINDS ***
+J.CAPO posts small blind 15
+Shereen.M-L posts big blind 30
+Dealt to _SKR [9c 4s]
+*** PRE-FLOP *** 
+_SKR folds
+J.CAPO raises 60 to 90
+Shereen.M-L calls 60 and is all-in
+*** FLOP *** [4c 7d Qh]
+*** TURN *** [4c 7d Qh][3d]
+*** RIVER *** [4c 7d Qh 3d][9s]
+*** SHOW DOWN ***
+Shereen.M-L shows [8h Ac] (High card : Ace)
+J.CAPO shows [Ks Kc] (One pair : Kings)
+J.CAPO collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4c 7d Qh 3d 9s]
+Seat 1: Shereen.M-L (big blind) showed [8h Ac] and lost with High card : Ace
+Seat 3: J.CAPO (small blind) showed [Ks Kc] and won 180 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689775723555586049-5-1674651272 - Holdem no limit (15/30) - 2023/01/25 12:54:32 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (320)
+Seat 3: J.CAPO (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+J.CAPO posts big blind 30
+Dealt to _SKR [Ac Qs]
+*** PRE-FLOP *** 
+_SKR raises 290 to 320 and is all-in
+J.CAPO folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: _SKR (small blind) (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689775723555586049-6-1674651279 - Holdem no limit (15/30) - 2023/01/25 12:54:39 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (350)
+Seat 3: J.CAPO (550)
+*** ANTE/BLINDS ***
+J.CAPO posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3s Jd]
+*** PRE-FLOP *** 
+J.CAPO calls 15
+_SKR checks
+*** FLOP *** [9d Ad 2s]
+_SKR checks
+J.CAPO checks
+*** TURN *** [9d Ad 2s][5d]
+_SKR checks
+J.CAPO bets 30
+_SKR calls 30
+*** RIVER *** [9d Ad 2s 5d][Tc]
+_SKR checks
+J.CAPO bets 90
+_SKR folds
+J.CAPO collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [9d Ad 2s 5d Tc]
+Seat 3: J.CAPO (small blind) (button) won 210
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689775723555586049-7-1674651319 - Holdem no limit (20/40) - 2023/01/25 12:55:19 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (290)
+Seat 3: J.CAPO (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+J.CAPO posts big blind 40
+Dealt to _SKR [4c 8d]
+*** PRE-FLOP *** 
+_SKR folds
+J.CAPO collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: J.CAPO (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689775723555586049-8-1674651327 - Holdem no limit (20/40) - 2023/01/25 12:55:27 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (270)
+Seat 3: J.CAPO (630)
+*** ANTE/BLINDS ***
+J.CAPO posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8h Ad]
+*** PRE-FLOP *** 
+J.CAPO folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689775723555586049-9-1674651336 - Holdem no limit (20/40) - 2023/01/25 12:55:36 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (290)
+Seat 3: J.CAPO (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+J.CAPO posts big blind 40
+Dealt to _SKR [Qc 7h]
+*** PRE-FLOP *** 
+_SKR raises 250 to 290 and is all-in
+J.CAPO folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: _SKR (small blind) (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689775723555586049-10-1674651343 - Holdem no limit (20/40) - 2023/01/25 12:55:43 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (330)
+Seat 3: J.CAPO (570)
+*** ANTE/BLINDS ***
+J.CAPO posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kd Ac]
+*** PRE-FLOP *** 
+J.CAPO calls 20
+_SKR raises 290 to 330 and is all-in
+J.CAPO calls 290
+*** FLOP *** [Tc Js 3s]
+*** TURN *** [Tc Js 3s][3d]
+*** RIVER *** [Tc Js 3s 3d][7c]
+*** SHOW DOWN ***
+J.CAPO shows [Ad Qh] (One pair : 3)
+_SKR shows [Kd Ac] (One pair : 3)
+_SKR collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Tc Js 3s 3d 7c]
+Seat 2: _SKR (big blind) showed [Kd Ac] and won 660 with One pair : 3
+Seat 3: J.CAPO (small blind) (button) showed [Ad Qh] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689775723555586049-11-1674651365 - Holdem no limit (20/40) - 2023/01/25 12:56:05 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (660)
+Seat 3: J.CAPO (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+J.CAPO posts big blind 40
+Dealt to _SKR [Ts 8d]
+*** PRE-FLOP *** 
+_SKR folds
+J.CAPO collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: J.CAPO (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689775723555586049-12-1674651370 - Holdem no limit (30/60) - 2023/01/25 12:56:10 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (640)
+Seat 3: J.CAPO (260)
+*** ANTE/BLINDS ***
+J.CAPO posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8s 6d]
+*** PRE-FLOP *** 
+J.CAPO folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689775723555586049-13-1674651376 - Holdem no limit (30/60) - 2023/01/25 12:56:16 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (670)
+Seat 3: J.CAPO (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+J.CAPO posts big blind 60
+Dealt to _SKR [4c Ah]
+*** PRE-FLOP *** 
+_SKR raises 610 to 670 and is all-in
+J.CAPO calls 170 and is all-in
+*** FLOP *** [3h Ks Qs]
+*** TURN *** [3h Ks Qs][3c]
+*** RIVER *** [3h Ks Qs 3c][2d]
+*** SHOW DOWN ***
+_SKR shows [4c Ah] (One pair : 3)
+J.CAPO shows [8s Qh] (Two pairs : Queens and 3)
+J.CAPO collected 460 from main pot
+_SKR collected 440 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3h Ks Qs 3c 2d]
+Seat 2: _SKR (small blind) (button) showed [4c Ah] and won 440 with One pair : 3
+Seat 3: J.CAPO (big blind) showed [8s Qh] and won 460 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689775723555586049-14-1674651390 - Holdem no limit (30/60) - 2023/01/25 12:56:30 UTC
+Table: 'Expresso Nitro(626262213)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (440)
+Seat 3: J.CAPO (460)
+*** ANTE/BLINDS ***
+J.CAPO posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8s Qs]
+*** PRE-FLOP *** 
+J.CAPO raises 400 to 460 and is all-in
+_SKR calls 380 and is all-in
+*** FLOP *** [9c 4d Kh]
+*** TURN *** [9c 4d Kh][Tc]
+*** RIVER *** [9c 4d Kh Tc][5s]
+*** SHOW DOWN ***
+_SKR shows [8s Qs] (High card : King)
+J.CAPO shows [Ac 2c] (High card : Ace)
+J.CAPO collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9c 4d Kh Tc 5s]
+Seat 2: _SKR (big blind) showed [8s Qs] and lost with High card : King
+Seat 3: J.CAPO (small blind) (button) showed [Ac 2c] and won 900 with High card : Ace
+
+

@@ -1,0 +1,316 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689781796639342593-1-1674651502 - Holdem no limit (10/20) - 2023/01/25 12:58:22 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Sax (300)
+Seat 2: Idhem3313 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Idhem3313 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 4s]
+*** PRE-FLOP *** 
+Mr Sax folds
+Idhem3313 raises 40 to 60
+_SKR folds
+Idhem3313 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: Idhem3313 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689781796639342593-2-1674651523 - Holdem no limit (10/20) - 2023/01/25 12:58:43 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Mr Sax (300)
+Seat 2: Idhem3313 (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mr Sax posts big blind 20
+Dealt to _SKR [4s 6s]
+*** PRE-FLOP *** 
+Idhem3313 raises 300 to 320 and is all-in
+_SKR folds
+Mr Sax calls 280 and is all-in
+*** FLOP *** [7c 3c Js]
+*** TURN *** [7c 3c Js][7d]
+*** RIVER *** [7c 3c Js 7d][8s]
+*** SHOW DOWN ***
+Mr Sax shows [Jd Kd] (Two pairs : Jacks and 7)
+Idhem3313 shows [5c Kh] (One pair : 7)
+Idhem3313 collected 20 from side pot 1
+Mr Sax collected 610 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [7c 3c Js 7d 8s]
+Seat 1: Mr Sax (big blind) showed [Jd Kd] and won 610 with Two pairs : Jacks and 7
+Seat 2: Idhem3313 (button) showed [5c Kh] and won 20 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689781796639342593-3-1674651541 - Holdem no limit (10/20) - 2023/01/25 12:59:01 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mr Sax (610)
+Seat 2: Idhem3313 (20)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Mr Sax posts small blind 10
+Idhem3313 posts big blind 20 and is all-in
+Dealt to _SKR [2h Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Mr Sax calls 10
+*** FLOP *** [7h 4s 5s]
+*** TURN *** [7h 4s 5s][9s]
+*** RIVER *** [7h 4s 5s 9s][Js]
+*** SHOW DOWN ***
+Mr Sax shows [Td Th] (One pair : Tens)
+Idhem3313 shows [2s 5c] (Flush Jack high)
+Idhem3313 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [7h 4s 5s 9s Js]
+Seat 1: Mr Sax (small blind) showed [Td Th] and lost with One pair : Tens
+Seat 2: Idhem3313 (big blind) showed [2s 5c] and won 40 with Flush Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689781796639342593-4-1674651560 - Holdem no limit (15/30) - 2023/01/25 12:59:20 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Sax (590)
+Seat 2: Idhem3313 (40)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Idhem3313 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc 8c]
+*** PRE-FLOP *** 
+Mr Sax raises 560 to 590 and is all-in
+Idhem3313 folds
+_SKR folds
+Mr Sax collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | No rake
+Seat 1: Mr Sax (button) won 635
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689781796639342593-5-1674651575 - Holdem no limit (15/30) - 2023/01/25 12:59:35 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Mr Sax (635)
+Seat 2: Idhem3313 (25)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mr Sax posts big blind 30
+Dealt to _SKR [Ah Ad]
+*** PRE-FLOP *** 
+Idhem3313 calls 25 and is all-in
+_SKR raises 210 to 240 and is all-in
+Mr Sax folds
+*** FLOP *** [Kh 8c 6h]
+*** TURN *** [Kh 8c 6h][3s]
+*** RIVER *** [Kh 8c 6h 3s][6d]
+*** SHOW DOWN ***
+Idhem3313 shows [5d Kc] (Two pairs : Kings and 6)
+_SKR shows [Ah Ad] (Two pairs : Aces and 6)
+_SKR collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Board: [Kh 8c 6h 3s 6d]
+Seat 2: Idhem3313 (button) showed [5d Kc] and lost with Two pairs : Kings and 6
+Seat 3: _SKR (small blind) showed [Ah Ad] and won 295 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689781796639342593-6-1674651593 - Holdem no limit (15/30) - 2023/01/25 12:59:53 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Sax (605)
+Seat 3: _SKR (295)
+*** ANTE/BLINDS ***
+Mr Sax posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jh Th]
+*** PRE-FLOP *** 
+Mr Sax calls 15
+_SKR raises 265 to 295 and is all-in
+Mr Sax folds
+_SKR collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 3: _SKR (big blind) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689781796639342593-7-1674651611 - Holdem no limit (15/30) - 2023/01/25 13:00:11 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mr Sax (575)
+Seat 3: _SKR (325)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mr Sax posts big blind 30
+Dealt to _SKR [4c Kc]
+*** PRE-FLOP *** 
+_SKR raises 295 to 325 and is all-in
+Mr Sax folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 3: _SKR (small blind) (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689781796639342593-8-1674651622 - Holdem no limit (20/40) - 2023/01/25 13:00:22 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Sax (545)
+Seat 3: _SKR (355)
+*** ANTE/BLINDS ***
+Mr Sax posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 3s]
+*** PRE-FLOP *** 
+Mr Sax calls 20
+_SKR checks
+*** FLOP *** [Qh 4c 6s]
+_SKR checks
+Mr Sax bets 40
+_SKR folds
+Mr Sax collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qh 4c 6s]
+Seat 1: Mr Sax (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689781796639342593-9-1674651644 - Holdem no limit (20/40) - 2023/01/25 13:00:44 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mr Sax (585)
+Seat 3: _SKR (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mr Sax posts big blind 40
+Dealt to _SKR [9d Jh]
+*** PRE-FLOP *** 
+_SKR raises 275 to 315 and is all-in
+Mr Sax folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 3: _SKR (small blind) (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689781796639342593-10-1674651653 - Holdem no limit (20/40) - 2023/01/25 13:00:53 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Sax (545)
+Seat 3: _SKR (355)
+*** ANTE/BLINDS ***
+Mr Sax posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh 4h]
+*** PRE-FLOP *** 
+Mr Sax calls 20
+_SKR checks
+*** FLOP *** [Th 4s 9s]
+_SKR checks
+Mr Sax checks
+*** TURN *** [Th 4s 9s][Ks]
+_SKR checks
+Mr Sax checks
+*** RIVER *** [Th 4s 9s Ks][3s]
+_SKR checks
+Mr Sax checks
+*** SHOW DOWN ***
+Mr Sax shows [5d Jc] (High card : King)
+_SKR shows [Jh 4h] (One pair : 4)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Th 4s 9s Ks 3s]
+Seat 1: Mr Sax (small blind) (button) showed [5d Jc] and lost with High card : King
+Seat 3: _SKR (big blind) showed [Jh 4h] and won 80 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689781796639342593-11-1674651694 - Holdem no limit (30/60) - 2023/01/25 13:01:34 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mr Sax (505)
+Seat 3: _SKR (395)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Mr Sax posts big blind 60
+Dealt to _SKR [Jc Qd]
+*** PRE-FLOP *** 
+_SKR raises 335 to 395 and is all-in
+Mr Sax calls 335
+*** FLOP *** [4s Kd 2h]
+*** TURN *** [4s Kd 2h][9c]
+*** RIVER *** [4s Kd 2h 9c][Tc]
+*** SHOW DOWN ***
+Mr Sax shows [6c Ah] (High card : Ace)
+_SKR shows [Jc Qd] (Straight King high)
+_SKR collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [4s Kd 2h 9c Tc]
+Seat 1: Mr Sax (big blind) showed [6c Ah] and lost with High card : Ace
+Seat 3: _SKR (small blind) (button) showed [Jc Qd] and won 790 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689781796639342593-12-1674651709 - Holdem no limit (30/60) - 2023/01/25 13:01:49 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Sax (110)
+Seat 3: _SKR (790)
+*** ANTE/BLINDS ***
+Mr Sax posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9h Qc]
+*** PRE-FLOP *** 
+Mr Sax raises 50 to 110 and is all-in
+_SKR calls 50
+*** FLOP *** [8s 8c 5c]
+*** TURN *** [8s 8c 5c][7d]
+*** RIVER *** [8s 8c 5c 7d][Kc]
+*** SHOW DOWN ***
+_SKR shows [9h Qc] (One pair : 8)
+Mr Sax shows [7c 5h] (Two pairs : 8 and 7)
+Mr Sax collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [8s 8c 5c 7d Kc]
+Seat 1: Mr Sax (small blind) (button) showed [7c 5h] and won 220 with Two pairs : 8 and 7
+Seat 3: _SKR (big blind) showed [9h Qc] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689781796639342593-13-1674651725 - Holdem no limit (30/60) - 2023/01/25 13:02:05 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mr Sax (220)
+Seat 3: _SKR (680)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Mr Sax posts big blind 60
+Dealt to _SKR [7c 8s]
+*** PRE-FLOP *** 
+_SKR raises 620 to 680 and is all-in
+Mr Sax folds
+_SKR collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Seat 3: _SKR (small blind) (button) won 740
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689781796639342593-14-1674651736 - Holdem no limit (30/60) - 2023/01/25 13:02:16 UTC
+Table: 'Expresso Nitro(626263627)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Sax (160)
+Seat 3: _SKR (740)
+*** ANTE/BLINDS ***
+Mr Sax posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4h 7s]
+*** PRE-FLOP *** 
+Mr Sax raises 100 to 160 and is all-in
+_SKR calls 100
+*** FLOP *** [2s Kh 7h]
+*** TURN *** [2s Kh 7h][9h]
+*** RIVER *** [2s Kh 7h 9h][Jd]
+*** SHOW DOWN ***
+Mr Sax shows [4d Th] (High card : King)
+_SKR shows [4h 7s] (One pair : 7)
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [2s Kh 7h 9h Jd]
+Seat 1: Mr Sax (small blind) (button) showed [4d Th] and lost with High card : King
+Seat 3: _SKR (big blind) showed [4h 7s] and won 320 with One pair : 7
+
+

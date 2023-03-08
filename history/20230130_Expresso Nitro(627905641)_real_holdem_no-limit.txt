@@ -1,0 +1,428 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696834193068916737-1-1675099920 - Holdem no limit (10/20) - 2023/01/30 17:32:00 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Deglingue29 (300)
+Seat 3: piranias (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Deglingue29 posts big blind 20
+Dealt to _SKR [3d Ts]
+*** PRE-FLOP *** 
+piranias calls 20
+_SKR folds
+Deglingue29 checks
+*** FLOP *** [Tc 6c As]
+Deglingue29 checks
+piranias bets 50
+Deglingue29 calls 50
+*** TURN *** [Tc 6c As][8c]
+Deglingue29 checks
+piranias bets 98
+Deglingue29 folds
+piranias collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [Tc 6c As 8c]
+Seat 3: piranias (button) won 248
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696834193068916737-2-1675099954 - Holdem no limit (10/20) - 2023/01/30 17:32:34 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Deglingue29 (230)
+Seat 3: piranias (380)
+*** ANTE/BLINDS ***
+Deglingue29 posts small blind 10
+piranias posts big blind 20
+Dealt to _SKR [Th 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Deglingue29 calls 10
+piranias raises 40 to 60
+Deglingue29 folds
+piranias collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: piranias (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696834193068916737-3-1675099965 - Holdem no limit (10/20) - 2023/01/30 17:32:45 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Deglingue29 (210)
+Seat 3: piranias (400)
+*** ANTE/BLINDS ***
+piranias posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac Ah]
+*** PRE-FLOP *** 
+Deglingue29 calls 20
+piranias calls 10
+_SKR raises 40 to 60
+Deglingue29 calls 40
+piranias calls 40
+*** FLOP *** [4h 9s 7c]
+piranias bets 340 and is all-in
+_SKR calls 230 and is all-in
+Deglingue29 folds
+*** TURN *** [4h 9s 7c][Kc]
+*** RIVER *** [4h 9s 7c Kc][3s]
+*** SHOW DOWN ***
+_SKR shows [Ac Ah] (One pair : Aces)
+piranias shows [8h Ts] (High card : King)
+piranias collected 110 from side pot 1
+_SKR collected 640 from main pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [4h 9s 7c Kc 3s]
+Seat 1: _SKR (big blind) showed [Ac Ah] and won 640 with One pair : Aces
+Seat 3: piranias (small blind) showed [8h Ts] and won 110 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696834193068916737-4-1675099991 - Holdem no limit (15/30) - 2023/01/30 17:33:11 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (640)
+Seat 2: Deglingue29 (150)
+Seat 3: piranias (110)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Deglingue29 posts big blind 30
+Dealt to _SKR [Qs Ad]
+*** PRE-FLOP *** 
+piranias raises 80 to 110 and is all-in
+_SKR raises 530 to 640 and is all-in
+Deglingue29 folds
+*** FLOP *** [7d Jd 6s]
+*** TURN *** [7d Jd 6s][6h]
+*** RIVER *** [7d Jd 6s 6h][7c]
+*** SHOW DOWN ***
+_SKR shows [Qs Ad] (Two pairs : 7 and 6)
+piranias shows [Kd Jh] (Two pairs : Jacks and 7)
+piranias collected 250 from main pot
+_SKR collected 530 from side pot 1
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [7d Jd 6s 6h 7c]
+Seat 1: _SKR (small blind) showed [Qs Ad] and won 530 with Two pairs : 7 and 6
+Seat 3: piranias (button) showed [Kd Jh] and won 250 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696834193068916737-5-1675100004 - Holdem no limit (15/30) - 2023/01/30 17:33:24 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (530)
+Seat 2: Deglingue29 (120)
+Seat 3: piranias (250)
+*** ANTE/BLINDS ***
+Deglingue29 posts small blind 15
+piranias posts big blind 30
+Dealt to _SKR [Ah Tc]
+*** PRE-FLOP *** 
+_SKR raises 500 to 530 and is all-in
+Deglingue29 folds
+piranias folds
+_SKR collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Seat 1: _SKR (button) won 575
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696834193068916737-6-1675100021 - Holdem no limit (15/30) - 2023/01/30 17:33:41 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (575)
+Seat 2: Deglingue29 (105)
+Seat 3: piranias (220)
+*** ANTE/BLINDS ***
+piranias posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5d Th]
+*** PRE-FLOP *** 
+Deglingue29 raises 75 to 105 and is all-in
+piranias folds
+_SKR folds
+Deglingue29 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: Deglingue29 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696834193068916737-7-1675100035 - Holdem no limit (20/40) - 2023/01/30 17:33:55 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (545)
+Seat 2: Deglingue29 (150)
+Seat 3: piranias (205)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Deglingue29 posts big blind 40
+Dealt to _SKR [3c 5h]
+*** PRE-FLOP *** 
+piranias folds
+_SKR folds
+Deglingue29 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Deglingue29 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696834193068916737-8-1675100040 - Holdem no limit (20/40) - 2023/01/30 17:34:00 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (525)
+Seat 2: Deglingue29 (170)
+Seat 3: piranias (205)
+*** ANTE/BLINDS ***
+Deglingue29 posts small blind 20
+piranias posts big blind 40
+Dealt to _SKR [6c Js]
+*** PRE-FLOP *** 
+_SKR folds
+Deglingue29 raises 130 to 170 and is all-in
+piranias calls 130
+*** FLOP *** [6d 9h Ks]
+*** TURN *** [6d 9h Ks][5h]
+*** RIVER *** [6d 9h Ks 5h][Ac]
+*** SHOW DOWN ***
+Deglingue29 shows [2s 2h] (One pair : 2)
+piranias shows [9d Qs] (One pair : 9)
+piranias collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [6d 9h Ks 5h Ac]
+Seat 2: Deglingue29 (small blind) showed [2s 2h] and lost with One pair : 2
+Seat 3: piranias (big blind) showed [9d Qs] and won 340 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696834193068916737-9-1675100056 - Holdem no limit (20/40) - 2023/01/30 17:34:16 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (525)
+Seat 3: piranias (375)
+*** ANTE/BLINDS ***
+piranias posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qh 7c]
+*** PRE-FLOP *** 
+piranias folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696834193068916737-10-1675100060 - Holdem no limit (20/40) - 2023/01/30 17:34:20 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (545)
+Seat 3: piranias (355)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+piranias posts big blind 40
+Dealt to _SKR [3c 4s]
+*** PRE-FLOP *** 
+_SKR folds
+piranias collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: piranias (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696834193068916737-11-1675100064 - Holdem no limit (20/40) - 2023/01/30 17:34:24 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (525)
+Seat 3: piranias (375)
+*** ANTE/BLINDS ***
+piranias posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kh Ac]
+*** PRE-FLOP *** 
+piranias folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696834193068916737-12-1675100067 - Holdem no limit (20/40) - 2023/01/30 17:34:27 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (545)
+Seat 3: piranias (355)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+piranias posts big blind 40
+Dealt to _SKR [7h 3h]
+*** PRE-FLOP *** 
+_SKR folds
+piranias collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: piranias (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696834193068916737-13-1675100075 - Holdem no limit (20/40) - 2023/01/30 17:34:35 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (525)
+Seat 3: piranias (375)
+*** ANTE/BLINDS ***
+piranias posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kd 4d]
+*** PRE-FLOP *** 
+piranias folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696834193068916737-14-1675100094 - Holdem no limit (20/40) - 2023/01/30 17:34:54 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (545)
+Seat 3: piranias (355)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+piranias posts big blind 40
+Dealt to _SKR [4h Kd]
+*** PRE-FLOP *** 
+_SKR raises 505 to 545 and is all-in
+piranias folds
+_SKR collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Seat 1: _SKR (small blind) (button) won 585
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696834193068916737-15-1675100099 - Holdem no limit (30/60) - 2023/01/30 17:34:59 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (585)
+Seat 3: piranias (315)
+*** ANTE/BLINDS ***
+piranias posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kd 5d]
+*** PRE-FLOP *** 
+piranias raises 120 to 180
+_SKR folds
+piranias collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: piranias (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696834193068916737-16-1675100105 - Holdem no limit (30/60) - 2023/01/30 17:35:05 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (525)
+Seat 3: piranias (375)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+piranias posts big blind 60
+Dealt to _SKR [7c 3s]
+*** PRE-FLOP *** 
+_SKR folds
+piranias collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: piranias (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696834193068916737-17-1675100110 - Holdem no limit (30/60) - 2023/01/30 17:35:10 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (495)
+Seat 3: piranias (405)
+*** ANTE/BLINDS ***
+piranias posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kc 8d]
+*** PRE-FLOP *** 
+piranias folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696834193068916737-18-1675100113 - Holdem no limit (30/60) - 2023/01/30 17:35:13 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (525)
+Seat 3: piranias (375)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+piranias posts big blind 60
+Dealt to _SKR [9s 2s]
+*** PRE-FLOP *** 
+_SKR folds
+piranias collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: piranias (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696834193068916737-19-1675100117 - Holdem no limit (30/60) - 2023/01/30 17:35:17 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (495)
+Seat 3: piranias (405)
+*** ANTE/BLINDS ***
+piranias posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jd 4h]
+*** PRE-FLOP *** 
+piranias folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696834193068916737-20-1675100120 - Holdem no limit (30/60) - 2023/01/30 17:35:20 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (525)
+Seat 3: piranias (375)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+piranias posts big blind 60
+Dealt to _SKR [Jd 9c]
+*** PRE-FLOP *** 
+_SKR raises 465 to 525 and is all-in
+piranias folds
+_SKR collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Seat 1: _SKR (small blind) (button) won 585
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696834193068916737-21-1675100125 - Holdem no limit (30/60) - 2023/01/30 17:35:25 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (585)
+Seat 3: piranias (315)
+*** ANTE/BLINDS ***
+piranias posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ad Qc]
+*** PRE-FLOP *** 
+piranias folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696834193068916737-22-1675100129 - Holdem no limit (30/60) - 2023/01/30 17:35:29 UTC
+Table: 'Expresso Nitro(627905641)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (615)
+Seat 3: piranias (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+piranias posts big blind 60
+Dealt to _SKR [6h Ah]
+*** PRE-FLOP *** 
+_SKR raises 555 to 615 and is all-in
+piranias calls 225 and is all-in
+*** FLOP *** [Ts Kh 5h]
+*** TURN *** [Ts Kh 5h][4h]
+*** RIVER *** [Ts Kh 5h 4h][Jh]
+*** SHOW DOWN ***
+piranias shows [5d Qd] (One pair : 5)
+_SKR shows [6h Ah] (Flush Ace high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts Kh 5h 4h Jh]
+Seat 1: _SKR (small blind) (button) showed [6h Ah] and won 900 with Flush Ace high
+Seat 3: piranias (big blind) showed [5d Qd] and lost with One pair : 5
+
+

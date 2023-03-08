@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730613578276012033-1-1676988689 - Holdem no limit (10/20) - 2023/02/21 14:11:29 UTC
+Table: 'Expresso Nitro(635770517)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Julfull684 (300)
+Seat 2: _SKR (300)
+Seat 3: corleone6211 (300)
+*** ANTE/BLINDS ***
+Julfull684 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 4h]
+*** PRE-FLOP *** 
+corleone6211 folds
+Julfull684 raises 280 to 300 and is all-in
+_SKR folds
+Julfull684 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Julfull684 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730613578276012033-2-1676988696 - Holdem no limit (10/20) - 2023/02/21 14:11:36 UTC
+Table: 'Expresso Nitro(635770517)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Julfull684 (320)
+Seat 2: _SKR (280)
+Seat 3: corleone6211 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+corleone6211 posts big blind 20
+Dealt to _SKR [Ad 7d]
+*** PRE-FLOP *** 
+Julfull684 raises 300 to 320 and is all-in
+_SKR calls 270 and is all-in
+corleone6211 folds
+*** FLOP *** [Qs 2c Js]
+*** TURN *** [Qs 2c Js][Qd]
+*** RIVER *** [Qs 2c Js Qd][4h]
+*** SHOW DOWN ***
+_SKR shows [Ad 7d] (One pair : Queens)
+Julfull684 shows [Qh 3h] (Trips of Queens)
+Julfull684 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qs 2c Js Qd 4h]
+Seat 1: Julfull684 (button) showed [Qh 3h] and won 620 with Trips of Queens
+Seat 2: _SKR (small blind) showed [Ad 7d] and lost with One pair : Queens
+
+

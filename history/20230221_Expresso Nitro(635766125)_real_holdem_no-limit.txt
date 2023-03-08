@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730594714779648001-1-1676987620 - Holdem no limit (10/20) - 2023/02/21 13:53:40 UTC
+Table: 'Expresso Nitro(635766125)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DelipsoN (300)
+Seat 2: _SKR (300)
+Seat 3: 9fabi7 (300)
+*** ANTE/BLINDS ***
+9fabi7 posts small blind 10
+DelipsoN posts big blind 20
+Dealt to _SKR [Tc Ks]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+9fabi7 calls 30
+DelipsoN calls 20
+*** FLOP *** [9h 5c Qs]
+9fabi7 checks
+DelipsoN checks
+_SKR checks
+*** TURN *** [9h 5c Qs][Kc]
+9fabi7 checks
+DelipsoN checks
+_SKR bets 42
+9fabi7 folds
+DelipsoN folds
+_SKR collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [9h 5c Qs Kc]
+Seat 2: _SKR (button) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730594714779648001-2-1676987653 - Holdem no limit (10/20) - 2023/02/21 13:54:13 UTC
+Table: 'Expresso Nitro(635766125)#0' 3-max (real money) Seat #3 is the button
+Seat 1: DelipsoN (260)
+Seat 2: _SKR (380)
+Seat 3: 9fabi7 (260)
+*** ANTE/BLINDS ***
+DelipsoN posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h 5h]
+*** PRE-FLOP *** 
+9fabi7 folds
+DelipsoN raises 40 to 60
+_SKR folds
+DelipsoN collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: DelipsoN (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730594714779648001-3-1676987669 - Holdem no limit (10/20) - 2023/02/21 13:54:29 UTC
+Table: 'Expresso Nitro(635766125)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DelipsoN (280)
+Seat 2: _SKR (360)
+Seat 3: 9fabi7 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+9fabi7 posts big blind 20
+Dealt to _SKR [9c Ad]
+*** PRE-FLOP *** 
+DelipsoN raises 20 to 40
+_SKR raises 320 to 360 and is all-in
+9fabi7 calls 240 and is all-in
+DelipsoN calls 240 and is all-in
+*** FLOP *** [Jd Qd 7d]
+*** TURN *** [Jd Qd 7d][5s]
+*** RIVER *** [Jd Qd 7d 5s][8h]
+*** SHOW DOWN ***
+9fabi7 shows [Ts Kc] (High card : King)
+DelipsoN shows [7c 3c] (One pair : 7)
+_SKR shows [9c Ad] (High card : Ace)
+_SKR collected 80 from side pot 1
+DelipsoN collected 820 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jd Qd 7d 5s 8h]
+Seat 1: DelipsoN (button) showed [7c 3c] and won 820 with One pair : 7
+Seat 2: _SKR (small blind) showed [9c Ad] and won 80 with High card : Ace
+Seat 3: 9fabi7 (big blind) showed [Ts Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730594714779648001-4-1676987689 - Holdem no limit (15/30) - 2023/02/21 13:54:49 UTC
+Table: 'Expresso Nitro(635766125)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DelipsoN (820)
+Seat 2: _SKR (80)
+*** ANTE/BLINDS ***
+DelipsoN posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qs 8h]
+*** PRE-FLOP *** 
+DelipsoN raises 30 to 60
+_SKR raises 20 to 80 and is all-in
+DelipsoN calls 20
+*** FLOP *** [2h 8d Kc]
+*** TURN *** [2h 8d Kc][8c]
+*** RIVER *** [2h 8d Kc 8c][As]
+*** SHOW DOWN ***
+_SKR shows [Qs 8h] (Trips of 8)
+DelipsoN shows [Ac Ad] (Full of Aces and 8)
+DelipsoN collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [2h 8d Kc 8c As]
+Seat 1: DelipsoN (small blind) (button) showed [Ac Ad] and won 160 with Full of Aces and 8
+Seat 2: _SKR (big blind) showed [Qs 8h] and lost with Trips of 8
+
+

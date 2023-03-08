@@ -1,0 +1,255 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717901480102199297-1-1676239346 - Holdem no limit (10/20) - 2023/02/12 22:02:26 UTC
+Table: 'Expresso Nitro(632810751)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Isafx (300)
+Seat 3: laperce33 (300)
+*** ANTE/BLINDS ***
+laperce33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s As]
+*** PRE-FLOP *** 
+Isafx folds
+laperce33 calls 10
+_SKR raises 280 to 300 and is all-in
+laperce33 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717901480102199297-2-1676239366 - Holdem no limit (10/20) - 2023/02/12 22:02:46 UTC
+Table: 'Expresso Nitro(632810751)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: Isafx (300)
+Seat 3: laperce33 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Isafx posts big blind 20
+Dealt to _SKR [9s 7d]
+*** PRE-FLOP *** 
+laperce33 folds
+_SKR folds
+Isafx collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Isafx (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717901480102199297-3-1676239376 - Holdem no limit (10/20) - 2023/02/12 22:02:56 UTC
+Table: 'Expresso Nitro(632810751)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: Isafx (310)
+Seat 3: laperce33 (280)
+*** ANTE/BLINDS ***
+Isafx posts small blind 10
+laperce33 posts big blind 20
+Dealt to _SKR [9h Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Isafx calls 30
+laperce33 raises 240 to 280 and is all-in
+_SKR folds
+Isafx calls 240
+*** FLOP *** [9d Ah 4h]
+*** TURN *** [9d Ah 4h][2d]
+*** RIVER *** [9d Ah 4h 2d][Ad]
+*** SHOW DOWN ***
+Isafx shows [Td Qh] (One pair : Aces)
+laperce33 shows [Th Qs] (One pair : Aces)
+laperce33 collected 300 from pot
+Isafx collected 300 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9d Ah 4h 2d Ad]
+Seat 2: Isafx (small blind) showed [Td Qh] and won 300 with One pair : Aces
+Seat 3: laperce33 (big blind) showed [Th Qs] and won 300 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717901480102199297-4-1676239400 - Holdem no limit (10/20) - 2023/02/12 22:03:20 UTC
+Table: 'Expresso Nitro(632810751)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Isafx (330)
+Seat 3: laperce33 (300)
+*** ANTE/BLINDS ***
+laperce33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 4c]
+*** PRE-FLOP *** 
+Isafx calls 20
+laperce33 calls 10
+_SKR checks
+*** FLOP *** [2h 8c 4d]
+laperce33 bets 20
+_SKR calls 20
+Isafx calls 20
+*** TURN *** [2h 8c 4d][Jh]
+laperce33 checks
+_SKR checks
+Isafx bets 42
+laperce33 calls 42
+_SKR folds
+*** RIVER *** [2h 8c 4d Jh][2d]
+laperce33 checks
+Isafx checks
+*** SHOW DOWN ***
+Isafx shows [7s Qs] (One pair : 2)
+laperce33 shows [5h 5s] (Two pairs : 5 and 2)
+laperce33 collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [2h 8c 4d Jh 2d]
+Seat 2: Isafx (button) showed [7s Qs] and lost with One pair : 2
+Seat 3: laperce33 (small blind) showed [5h 5s] and won 204 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717901480102199297-5-1676239447 - Holdem no limit (15/30) - 2023/02/12 22:04:07 UTC
+Table: 'Expresso Nitro(632810751)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (230)
+Seat 2: Isafx (248)
+Seat 3: laperce33 (422)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Isafx posts big blind 30
+Dealt to _SKR [6d Qc]
+*** PRE-FLOP *** 
+laperce33 folds
+_SKR raises 200 to 230 and is all-in
+Isafx calls 200
+*** FLOP *** [Ts Jd Ac]
+*** TURN *** [Ts Jd Ac][Tc]
+*** RIVER *** [Ts Jd Ac Tc][Kc]
+*** SHOW DOWN ***
+Isafx shows [6h As] (Two pairs : Aces and Tens)
+_SKR shows [6d Qc] (Straight Ace high)
+_SKR collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [Ts Jd Ac Tc Kc]
+Seat 1: _SKR (small blind) showed [6d Qc] and won 460 with Straight Ace high
+Seat 2: Isafx (big blind) showed [6h As] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717901480102199297-6-1676239465 - Holdem no limit (20/40) - 2023/02/12 22:04:25 UTC
+Table: 'Expresso Nitro(632810751)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (460)
+Seat 2: Isafx (18)
+Seat 3: laperce33 (422)
+*** ANTE/BLINDS ***
+Isafx posts small blind 18 and is all-in
+laperce33 posts big blind 40
+Dealt to _SKR [Qd 5h]
+*** PRE-FLOP *** 
+_SKR folds
+*** FLOP *** [6d 4c 5s]
+*** TURN *** [6d 4c 5s][Td]
+*** RIVER *** [6d 4c 5s Td][Tc]
+*** SHOW DOWN ***
+Isafx shows [Ts Qh] (Trips of Tens)
+laperce33 shows [Js 9h] (One pair : Tens)
+laperce33 collected 22 from side pot 1
+Isafx collected 36 from main pot
+*** SUMMARY ***
+Total pot 58 | No rake
+Board: [6d 4c 5s Td Tc]
+Seat 2: Isafx (small blind) showed [Ts Qh] and won 36 with Trips of Tens
+Seat 3: laperce33 (big blind) showed [Js 9h] and won 22 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717901480102199297-7-1676239474 - Holdem no limit (20/40) - 2023/02/12 22:04:34 UTC
+Table: 'Expresso Nitro(632810751)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (460)
+Seat 2: Isafx (36)
+Seat 3: laperce33 (404)
+*** ANTE/BLINDS ***
+laperce33 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ah Qh]
+*** PRE-FLOP *** 
+Isafx calls 36 and is all-in
+laperce33 calls 20
+_SKR raises 420 to 460 and is all-in
+laperce33 folds
+*** FLOP *** [2c Kh Js]
+*** TURN *** [2c Kh Js][Tc]
+*** RIVER *** [2c Kh Js Tc][5h]
+*** SHOW DOWN ***
+Isafx shows [Jc Kc] (Two pairs : Kings and Jacks)
+_SKR shows [Ah Qh] (Straight Ace high)
+_SKR collected 536 from pot
+*** SUMMARY ***
+Total pot 536 | No rake
+Board: [2c Kh Js Tc 5h]
+Seat 1: _SKR (big blind) showed [Ah Qh] and won 536 with Straight Ace high
+Seat 2: Isafx (button) showed [Jc Kc] and lost with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717901480102199297-8-1676239492 - Holdem no limit (20/40) - 2023/02/12 22:04:52 UTC
+Table: 'Expresso Nitro(632810751)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (536)
+Seat 3: laperce33 (364)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+laperce33 posts big blind 40
+Dealt to _SKR [7s Kd]
+*** PRE-FLOP *** 
+_SKR raises 496 to 536 and is all-in
+laperce33 folds
+_SKR collected 576 from pot
+*** SUMMARY ***
+Total pot 576 | No rake
+Seat 1: _SKR (small blind) (button) won 576
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717901480102199297-9-1676239502 - Holdem no limit (20/40) - 2023/02/12 22:05:02 UTC
+Table: 'Expresso Nitro(632810751)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (576)
+Seat 3: laperce33 (324)
+*** ANTE/BLINDS ***
+laperce33 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js Ah]
+*** PRE-FLOP *** 
+laperce33 calls 20
+_SKR raises 536 to 576 and is all-in
+laperce33 calls 284 and is all-in
+*** FLOP *** [4d 8s 7c]
+*** TURN *** [4d 8s 7c][Jd]
+*** RIVER *** [4d 8s 7c Jd][Kc]
+*** SHOW DOWN ***
+_SKR shows [Js Ah] (One pair : Jacks)
+laperce33 shows [8h Ks] (Two pairs : Kings and 8)
+laperce33 collected 648 from main pot
+_SKR collected 252 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 8s 7c Jd Kc]
+Seat 1: _SKR (big blind) showed [Js Ah] and won 252 with One pair : Jacks
+Seat 3: laperce33 (small blind) (button) showed [8h Ks] and won 648 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717901480102199297-10-1676239516 - Holdem no limit (20/40) - 2023/02/12 22:05:16 UTC
+Table: 'Expresso Nitro(632810751)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (252)
+Seat 3: laperce33 (648)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+laperce33 posts big blind 40
+Dealt to _SKR [3h Kh]
+*** PRE-FLOP *** 
+_SKR raises 212 to 252 and is all-in
+laperce33 calls 212
+*** FLOP *** [2h 9c 7s]
+*** TURN *** [2h 9c 7s][Qc]
+*** RIVER *** [2h 9c 7s Qc][7d]
+*** SHOW DOWN ***
+_SKR shows [3h Kh] (One pair : 7)
+laperce33 shows [Ad 3s] (One pair : 7)
+laperce33 collected 504 from pot
+*** SUMMARY ***
+Total pot 504 | No rake
+Board: [2h 9c 7s Qc 7d]
+Seat 1: _SKR (small blind) (button) showed [3h Kh] and lost with One pair : 7
+Seat 3: laperce33 (big blind) showed [Ad 3s] and won 504 with One pair : 7
+
+

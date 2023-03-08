@@ -1,0 +1,287 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690512774303318017-1-1674684325 - Holdem no limit (10/20) - 2023/01/25 22:05:25 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Markez29 (300)
+Seat 3: Toromat (300)
+*** ANTE/BLINDS ***
+Markez29 posts small blind 10
+Toromat posts big blind 20
+Dealt to _SKR [Th Ah]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Markez29 folds
+Toromat calls 20
+*** FLOP *** [Ac 3h 7h]
+Toromat checks
+_SKR bets 45
+Toromat calls 45
+*** TURN *** [Ac 3h 7h][Jh]
+Toromat checks
+_SKR bets 63
+Toromat calls 63
+*** RIVER *** [Ac 3h 7h Jh][7s]
+Toromat checks
+_SKR bets 152 and is all-in
+Toromat folds
+_SKR collected 458 from pot
+*** SUMMARY ***
+Total pot 458 | No rake
+Board: [Ac 3h 7h Jh 7s]
+Seat 1: _SKR (button) won 458
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690512774303318017-2-1674684368 - Holdem no limit (10/20) - 2023/01/25 22:06:08 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (458)
+Seat 2: Markez29 (290)
+Seat 3: Toromat (152)
+*** ANTE/BLINDS ***
+Toromat posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As 5h]
+*** PRE-FLOP *** 
+Markez29 raises 50 to 70
+Toromat folds
+_SKR folds
+Markez29 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: Markez29 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690512774303318017-3-1674684393 - Holdem no limit (15/30) - 2023/01/25 22:06:33 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (438)
+Seat 2: Markez29 (320)
+Seat 3: Toromat (142)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Markez29 posts big blind 30
+Dealt to _SKR [9h 7c]
+*** PRE-FLOP *** 
+Toromat calls 30
+_SKR folds
+Markez29 checks
+*** FLOP *** [Qc Kd 4s]
+Markez29 checks
+Toromat checks
+*** TURN *** [Qc Kd 4s][Kh]
+Markez29 checks
+Toromat checks
+*** RIVER *** [Qc Kd 4s Kh][8d]
+Markez29 checks
+Toromat bets 30
+Markez29 folds
+Toromat collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [Qc Kd 4s Kh 8d]
+Seat 3: Toromat (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690512774303318017-4-1674684407 - Holdem no limit (15/30) - 2023/01/25 22:06:47 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (423)
+Seat 2: Markez29 (290)
+Seat 3: Toromat (187)
+*** ANTE/BLINDS ***
+Markez29 posts small blind 15
+Toromat posts big blind 30
+Dealt to _SKR [6c 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Markez29 calls 15
+Toromat checks
+*** FLOP *** [Qc Qh 5d]
+Markez29 bets 30
+Toromat folds
+Markez29 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qc Qh 5d]
+Seat 2: Markez29 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690512774303318017-5-1674684420 - Holdem no limit (15/30) - 2023/01/25 22:07:00 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (423)
+Seat 2: Markez29 (320)
+Seat 3: Toromat (157)
+*** ANTE/BLINDS ***
+Toromat posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad 3d]
+*** PRE-FLOP *** 
+Markez29 folds
+Toromat calls 15
+_SKR raises 393 to 423 and is all-in
+Toromat calls 127 and is all-in
+*** FLOP *** [6c Kc 9d]
+*** TURN *** [6c Kc 9d][Jc]
+*** RIVER *** [6c Kc 9d Jc][Qs]
+*** SHOW DOWN ***
+_SKR shows [Ad 3d] (High card : Ace)
+Toromat shows [Ts 7s] (Straight King high)
+Toromat collected 314 from main pot
+_SKR collected 266 from side pot 1
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6c Kc 9d Jc Qs]
+Seat 1: _SKR (big blind) showed [Ad 3d] and won 266 with High card : Ace
+Seat 3: Toromat (small blind) showed [Ts 7s] and won 314 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690512774303318017-6-1674684433 - Holdem no limit (15/30) - 2023/01/25 22:07:13 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (266)
+Seat 2: Markez29 (320)
+Seat 3: Toromat (314)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Markez29 posts big blind 30
+Dealt to _SKR [5s 8d]
+*** PRE-FLOP *** 
+Toromat folds
+_SKR folds
+Markez29 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Markez29 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690512774303318017-7-1674684438 - Holdem no limit (15/30) - 2023/01/25 22:07:18 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (251)
+Seat 2: Markez29 (335)
+Seat 3: Toromat (314)
+*** ANTE/BLINDS ***
+Markez29 posts small blind 15
+Toromat posts big blind 30
+Dealt to _SKR [6s 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Markez29 calls 15
+Toromat checks
+*** FLOP *** [8d 6h Js]
+Markez29 checks
+Toromat bets 30
+Markez29 folds
+Toromat collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [8d 6h Js]
+Seat 3: Toromat (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690512774303318017-8-1674684462 - Holdem no limit (20/40) - 2023/01/25 22:07:42 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (251)
+Seat 2: Markez29 (305)
+Seat 3: Toromat (344)
+*** ANTE/BLINDS ***
+Toromat posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd 4c]
+*** PRE-FLOP *** 
+Markez29 folds
+Toromat folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690512774303318017-9-1674684467 - Holdem no limit (20/40) - 2023/01/25 22:07:47 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (271)
+Seat 2: Markez29 (305)
+Seat 3: Toromat (324)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Markez29 posts big blind 40
+Dealt to _SKR [9s Th]
+*** PRE-FLOP *** 
+Toromat calls 40
+_SKR folds
+Markez29 raises 265 to 305 and is all-in
+Toromat calls 265
+*** FLOP *** [3s Jh Ac]
+*** TURN *** [3s Jh Ac][7d]
+*** RIVER *** [3s Jh Ac 7d][4h]
+*** SHOW DOWN ***
+Toromat shows [Tc Js] (One pair : Jacks)
+Markez29 shows [5c Ah] (One pair : Aces)
+Markez29 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [3s Jh Ac 7d 4h]
+Seat 2: Markez29 (big blind) showed [5c Ah] and won 630 with One pair : Aces
+Seat 3: Toromat (button) showed [Tc Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690512774303318017-10-1674684482 - Holdem no limit (20/40) - 2023/01/25 22:08:02 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (251)
+Seat 2: Markez29 (630)
+Seat 3: Toromat (19)
+*** ANTE/BLINDS ***
+Markez29 posts small blind 20
+Toromat posts big blind 19 and is all-in
+Dealt to _SKR [7s 3h]
+*** PRE-FLOP *** 
+_SKR folds
+*** FLOP *** [7c 3c Jc]
+*** TURN *** [7c 3c Jc][6h]
+*** RIVER *** [7c 3c Jc 6h][Jd]
+*** SHOW DOWN ***
+Toromat shows [9d 9c] (Two pairs : Jacks and 9)
+Markez29 shows [As Ah] (Two pairs : Aces and Jacks)
+Markez29 collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Board: [7c 3c Jc 6h Jd]
+Seat 2: Markez29 (small blind) showed [As Ah] and won 39 with Two pairs : Aces and Jacks
+Seat 3: Toromat (big blind) showed [9d 9c] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690512774303318017-11-1674684497 - Holdem no limit (20/40) - 2023/01/25 22:08:17 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (251)
+Seat 2: Markez29 (649)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Markez29 posts big blind 40
+Dealt to _SKR [4c 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Markez29 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Markez29 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690512774303318017-12-1674684501 - Holdem no limit (30/60) - 2023/01/25 22:08:21 UTC
+Table: 'Expresso Nitro(626433821)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (231)
+Seat 2: Markez29 (669)
+*** ANTE/BLINDS ***
+Markez29 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Js Kc]
+*** PRE-FLOP *** 
+Markez29 raises 609 to 669 and is all-in
+_SKR calls 171 and is all-in
+*** FLOP *** [5h 3c 8h]
+*** TURN *** [5h 3c 8h][Ah]
+*** RIVER *** [5h 3c 8h Ah][3d]
+*** SHOW DOWN ***
+_SKR shows [Js Kc] (One pair : 3)
+Markez29 shows [As Ts] (Two pairs : Aces and 3)
+Markez29 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h 3c 8h Ah 3d]
+Seat 1: _SKR (big blind) showed [Js Kc] and lost with One pair : 3
+Seat 2: Markez29 (small blind) (button) showed [As Ts] and won 900 with Two pairs : Aces and 3
+
+

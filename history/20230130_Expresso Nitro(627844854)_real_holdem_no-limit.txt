@@ -1,0 +1,45 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696573114891894785-1-1675087759 - Holdem no limit (10/20) - 2023/01/30 14:09:19 UTC
+Table: 'Expresso Nitro(627844854)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Antoine2759 (300)
+Seat 2: alain_25 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Antoine2759 posts big blind 20
+Dealt to _SKR [6c 4h]
+*** PRE-FLOP *** 
+alain_25 folds
+_SKR folds
+Antoine2759 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Antoine2759 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696573114891894785-2-1675087765 - Holdem no limit (10/20) - 2023/01/30 14:09:25 UTC
+Table: 'Expresso Nitro(627844854)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Antoine2759 (310)
+Seat 2: alain_25 (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Antoine2759 posts small blind 10
+alain_25 posts big blind 20
+Dealt to _SKR [8s Ac]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Antoine2759 folds
+alain_25 calls 270
+*** FLOP *** [4d 9h Js]
+*** TURN *** [4d 9h Js][Kh]
+*** RIVER *** [4d 9h Js Kh][Jh]
+*** SHOW DOWN ***
+_SKR shows [8s Ac] (One pair : Jacks)
+alain_25 shows [Ah Ks] (Two pairs : Kings and Jacks)
+alain_25 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [4d 9h Js Kh Jh]
+Seat 2: alain_25 (big blind) showed [Ah Ks] and won 590 with Two pairs : Kings and Jacks
+Seat 3: _SKR (button) showed [8s Ac] and lost with One pair : Jacks
+
+

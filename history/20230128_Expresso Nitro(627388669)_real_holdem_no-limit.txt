@@ -1,0 +1,55 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694613815235969025-1-1674947337 - Holdem no limit (10/20) - 2023/01/28 23:08:57 UTC
+Table: 'Expresso Nitro(627388669)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ElAsdelPoker (300)
+Seat 2: _SKR (300)
+Seat 3: B. RODRIGUEZ (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+B. RODRIGUEZ posts big blind 20
+Dealt to _SKR [Kh Jh]
+*** PRE-FLOP *** 
+ElAsdelPoker folds
+_SKR raises 20 to 40
+B. RODRIGUEZ calls 20
+*** FLOP *** [7h Qc 9d]
+_SKR checks
+B. RODRIGUEZ bets 28
+_SKR calls 28
+*** TURN *** [7h Qc 9d][5h]
+_SKR checks
+B. RODRIGUEZ bets 232 and is all-in
+_SKR folds
+B. RODRIGUEZ collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | No rake
+Board: [7h Qc 9d 5h]
+Seat 3: B. RODRIGUEZ (big blind) won 368
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694613815235969025-2-1674947364 - Holdem no limit (10/20) - 2023/01/28 23:09:24 UTC
+Table: 'Expresso Nitro(627388669)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ElAsdelPoker (300)
+Seat 2: _SKR (232)
+Seat 3: B. RODRIGUEZ (368)
+*** ANTE/BLINDS ***
+B. RODRIGUEZ posts small blind 10
+ElAsdelPoker posts big blind 20
+Dealt to _SKR [5c 5d]
+*** PRE-FLOP *** 
+_SKR raises 212 to 232 and is all-in
+B. RODRIGUEZ folds
+ElAsdelPoker calls 212
+*** FLOP *** [2c Jc Jd]
+*** TURN *** [2c Jc Jd][6c]
+*** RIVER *** [2c Jc Jd 6c][As]
+*** SHOW DOWN ***
+_SKR shows [5c 5d] (Two pairs : Jacks and 5)
+ElAsdelPoker shows [Qs Js] (Trips of Jacks)
+ElAsdelPoker collected 474 from pot
+*** SUMMARY ***
+Total pot 474 | No rake
+Board: [2c Jc Jd 6c As]
+Seat 1: ElAsdelPoker (big blind) showed [Qs Js] and won 474 with Trips of Jacks
+Seat 2: _SKR (button) showed [5c 5d] and lost with Two pairs : Jacks and 5
+
+

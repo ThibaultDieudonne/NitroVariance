@@ -1,0 +1,76 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698223778197929985-1-1675186252 - Holdem no limit (10/20) - 2023/01/31 17:30:52 UTC
+Table: 'Expresso Nitro(628229179)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: eViEdaNSe (300)
+Seat 3: AD_29_AD (300)
+*** ANTE/BLINDS ***
+eViEdaNSe posts small blind 10
+AD_29_AD posts big blind 20
+Dealt to _SKR [Tc Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+eViEdaNSe calls 30
+AD_29_AD folds
+*** FLOP *** [4s 3s 9c]
+eViEdaNSe bets 65
+_SKR folds
+eViEdaNSe collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [4s 3s 9c]
+Seat 2: eViEdaNSe (small blind) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698223778197929985-2-1675186269 - Holdem no limit (10/20) - 2023/01/31 17:31:09 UTC
+Table: 'Expresso Nitro(628229179)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (260)
+Seat 2: eViEdaNSe (360)
+Seat 3: AD_29_AD (280)
+*** ANTE/BLINDS ***
+AD_29_AD posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h 3c]
+*** PRE-FLOP *** 
+eViEdaNSe folds
+AD_29_AD calls 10
+_SKR checks
+*** FLOP *** [9d Ah Qs]
+AD_29_AD checks
+_SKR checks
+*** TURN *** [9d Ah Qs][Jd]
+AD_29_AD bets 20
+_SKR folds
+AD_29_AD collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9d Ah Qs Jd]
+Seat 3: AD_29_AD (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698223778197929985-3-1675186299 - Holdem no limit (10/20) - 2023/01/31 17:31:39 UTC
+Table: 'Expresso Nitro(628229179)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (240)
+Seat 2: eViEdaNSe (360)
+Seat 3: AD_29_AD (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+eViEdaNSe posts big blind 20
+Dealt to _SKR [Kh 8d]
+*** PRE-FLOP *** 
+AD_29_AD folds
+_SKR raises 220 to 240 and is all-in
+eViEdaNSe calls 220
+*** FLOP *** [9s 5s Jc]
+*** TURN *** [9s 5s Jc][7s]
+*** RIVER *** [9s 5s Jc 7s][9h]
+*** SHOW DOWN ***
+_SKR shows [Kh 8d] (One pair : 9)
+eViEdaNSe shows [8s 8c] (Two pairs : 9 and 8)
+eViEdaNSe collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [9s 5s Jc 7s 9h]
+Seat 1: _SKR (small blind) showed [Kh 8d] and lost with One pair : 9
+Seat 2: eViEdaNSe (big blind) showed [8s 8c] and won 480 with Two pairs : 9 and 8
+
+

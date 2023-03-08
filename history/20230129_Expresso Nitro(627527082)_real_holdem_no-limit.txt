@@ -1,0 +1,57 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695208294544310273-1-1674999986 - Holdem no limit (10/20) - 2023/01/29 13:46:26 UTC
+Table: 'Expresso Nitro(627527082)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Helder Julie (300)
+Seat 2: _SKR (300)
+Seat 3: Leimyo (300)
+*** ANTE/BLINDS ***
+Helder Julie posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3c 9h]
+*** PRE-FLOP *** 
+Leimyo folds
+Helder Julie calls 10
+_SKR checks
+*** FLOP *** [Th 7d 7c]
+Helder Julie checks
+_SKR checks
+*** TURN *** [Th 7d 7c][9c]
+Helder Julie bets 40
+_SKR calls 40
+*** RIVER *** [Th 7d 7c 9c][Kh]
+Helder Julie bets 42
+_SKR folds
+Helder Julie collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [Th 7d 7c 9c Kh]
+Seat 1: Helder Julie (small blind) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695208294544310273-2-1675000014 - Holdem no limit (10/20) - 2023/01/29 13:46:54 UTC
+Table: 'Expresso Nitro(627527082)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Helder Julie (360)
+Seat 2: _SKR (240)
+Seat 3: Leimyo (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Leimyo posts big blind 20
+Dealt to _SKR [7d As]
+*** PRE-FLOP *** 
+Helder Julie calls 20
+_SKR raises 220 to 240 and is all-in
+Leimyo folds
+Helder Julie calls 220
+*** FLOP *** [2d 8h Kh]
+*** TURN *** [2d 8h Kh][Jh]
+*** RIVER *** [2d 8h Kh Jh][3d]
+*** SHOW DOWN ***
+_SKR shows [7d As] (High card : Ace)
+Helder Julie shows [9h Ks] (One pair : Kings)
+Helder Julie collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [2d 8h Kh Jh 3d]
+Seat 1: Helder Julie (button) showed [9h Ks] and won 500 with One pair : Kings
+Seat 2: _SKR (small blind) showed [7d As] and lost with High card : Ace
+
+

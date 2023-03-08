@@ -1,0 +1,77 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698264185250250753-1-1675187979 - Holdem no limit (10/20) - 2023/01/31 17:59:39 UTC
+Table: 'Expresso Nitro(628238587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: DiEgOkaOs (300)
+Seat 3: Ragnard94400 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+DiEgOkaOs posts big blind 20
+Dealt to _SKR [2c 7c]
+*** PRE-FLOP *** 
+Ragnard94400 calls 20
+_SKR folds
+DiEgOkaOs checks
+*** FLOP *** [Kd 3d 4c]
+DiEgOkaOs checks
+Ragnard94400 checks
+*** TURN *** [Kd 3d 4c][Jc]
+DiEgOkaOs bets 33
+Ragnard94400 folds
+DiEgOkaOs collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [Kd 3d 4c Jc]
+Seat 2: DiEgOkaOs (big blind) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698264185250250753-2-1675188003 - Holdem no limit (10/20) - 2023/01/31 18:00:03 UTC
+Table: 'Expresso Nitro(628238587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: DiEgOkaOs (330)
+Seat 3: Ragnard94400 (280)
+*** ANTE/BLINDS ***
+DiEgOkaOs posts small blind 10
+Ragnard94400 posts big blind 20
+Dealt to _SKR [2d 6h]
+*** PRE-FLOP *** 
+_SKR folds
+DiEgOkaOs raises 310 to 330 and is all-in
+Ragnard94400 folds
+DiEgOkaOs collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: DiEgOkaOs (small blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698264185250250753-3-1675188010 - Holdem no limit (10/20) - 2023/01/31 18:00:10 UTC
+Table: 'Expresso Nitro(628238587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: DiEgOkaOs (350)
+Seat 3: Ragnard94400 (260)
+*** ANTE/BLINDS ***
+Ragnard94400 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc As]
+*** PRE-FLOP *** 
+DiEgOkaOs raises 20 to 40
+Ragnard94400 calls 30
+_SKR raises 250 to 290 and is all-in
+DiEgOkaOs raises 60 to 350 and is all-in
+Ragnard94400 calls 220 and is all-in
+*** FLOP *** [4h 4c 3d]
+*** TURN *** [4h 4c 3d][6d]
+*** RIVER *** [4h 4c 3d 6d][8d]
+*** SHOW DOWN ***
+_SKR shows [Kc As] (One pair : 4)
+DiEgOkaOs shows [Jd Jc] (Two pairs : Jacks and 4)
+Ragnard94400 shows [Qd Kd] (Flush King high)
+Ragnard94400 collected 780 from main pot
+DiEgOkaOs collected 120 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h 4c 3d 6d 8d]
+Seat 1: _SKR (big blind) showed [Kc As] and lost with One pair : 4
+Seat 2: DiEgOkaOs (button) showed [Jd Jc] and won 120 with Two pairs : Jacks and 4
+Seat 3: Ragnard94400 (small blind) showed [Qd Kd] and won 780 with Flush King high
+
+

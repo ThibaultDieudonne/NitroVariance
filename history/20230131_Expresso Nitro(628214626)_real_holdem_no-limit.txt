@@ -1,0 +1,157 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698161273538871297-1-1675183525 - Holdem no limit (10/20) - 2023/01/31 16:45:25 UTC
+Table: 'Expresso Nitro(628214626)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Peliroro (300)
+Seat 2: Tahitiboy680 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Peliroro posts big blind 20
+Dealt to _SKR [Jh Ts]
+*** PRE-FLOP *** 
+Tahitiboy680 folds
+_SKR calls 10
+Peliroro checks
+*** FLOP *** [8c Td Ac]
+_SKR checks
+Peliroro bets 40
+_SKR calls 40
+*** TURN *** [8c Td Ac][3c]
+_SKR checks
+Peliroro checks
+*** RIVER *** [8c Td Ac 3c][7h]
+_SKR checks
+Peliroro checks
+*** SHOW DOWN ***
+Peliroro shows [5c 8d] (One pair : 8)
+_SKR shows [Jh Ts] (One pair : Tens)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8c Td Ac 3c 7h]
+Seat 1: Peliroro (big blind) showed [5c 8d] and lost with One pair : 8
+Seat 3: _SKR (small blind) showed [Jh Ts] and won 120 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698161273538871297-2-1675183553 - Holdem no limit (10/20) - 2023/01/31 16:45:53 UTC
+Table: 'Expresso Nitro(628214626)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Peliroro (240)
+Seat 2: Tahitiboy680 (300)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+Peliroro posts small blind 10
+Tahitiboy680 posts big blind 20
+Dealt to _SKR [6s Ad]
+*** PRE-FLOP *** 
+_SKR raises 340 to 360 and is all-in
+Peliroro calls 230 and is all-in
+Tahitiboy680 calls 280 and is all-in
+*** FLOP *** [Tc 5s 9d]
+*** TURN *** [Tc 5s 9d][4s]
+*** RIVER *** [Tc 5s 9d 4s][Kh]
+*** SHOW DOWN ***
+Peliroro shows [8s 5h] (One pair : 5)
+Tahitiboy680 shows [Ks Kc] (Trips of Kings)
+_SKR shows [6s Ad] (High card : Ace)
+_SKR collected 60 from side pot 1
+Tahitiboy680 collected 840 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 5s 9d 4s Kh]
+Seat 1: Peliroro (small blind) showed [8s 5h] and lost with One pair : 5
+Seat 2: Tahitiboy680 (big blind) showed [Ks Kc] and won 840 with Trips of Kings
+Seat 3: _SKR (button) showed [6s Ad] and won 60 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698161273538871297-3-1675183576 - Holdem no limit (10/20) - 2023/01/31 16:46:16 UTC
+Table: 'Expresso Nitro(628214626)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Tahitiboy680 (840)
+Seat 3: _SKR (60)
+*** ANTE/BLINDS ***
+Tahitiboy680 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad Kd]
+*** PRE-FLOP *** 
+Tahitiboy680 raises 20 to 40
+_SKR raises 20 to 60 and is all-in
+Tahitiboy680 calls 20
+*** FLOP *** [9d 5s Jh]
+*** TURN *** [9d 5s Jh][Tc]
+*** RIVER *** [9d 5s Jh Tc][6h]
+*** SHOW DOWN ***
+Tahitiboy680 shows [3c 7h] (High card : Jack)
+_SKR shows [Ad Kd] (High card : Ace)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9d 5s Jh Tc 6h]
+Seat 2: Tahitiboy680 (small blind) (button) showed [3c 7h] and lost with High card : Jack
+Seat 3: _SKR (big blind) showed [Ad Kd] and won 120 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698161273538871297-4-1675183594 - Holdem no limit (15/30) - 2023/01/31 16:46:34 UTC
+Table: 'Expresso Nitro(628214626)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tahitiboy680 (780)
+Seat 3: _SKR (120)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Tahitiboy680 posts big blind 30
+Dealt to _SKR [Qd Qs]
+*** PRE-FLOP *** 
+_SKR raises 90 to 120 and is all-in
+Tahitiboy680 calls 90
+*** FLOP *** [8h 3c 9s]
+*** TURN *** [8h 3c 9s][Ac]
+*** RIVER *** [8h 3c 9s Ac][7h]
+*** SHOW DOWN ***
+Tahitiboy680 shows [4s 8d] (One pair : 8)
+_SKR shows [Qd Qs] (One pair : Queens)
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8h 3c 9s Ac 7h]
+Seat 2: Tahitiboy680 (big blind) showed [4s 8d] and lost with One pair : 8
+Seat 3: _SKR (small blind) (button) showed [Qd Qs] and won 240 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698161273538871297-5-1675183608 - Holdem no limit (15/30) - 2023/01/31 16:46:48 UTC
+Table: 'Expresso Nitro(628214626)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Tahitiboy680 (660)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+Tahitiboy680 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh 3h]
+*** PRE-FLOP *** 
+Tahitiboy680 raises 630 to 660 and is all-in
+_SKR folds
+Tahitiboy680 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Seat 2: Tahitiboy680 (small blind) (button) won 690
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698161273538871297-6-1675183615 - Holdem no limit (15/30) - 2023/01/31 16:46:55 UTC
+Table: 'Expresso Nitro(628214626)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Tahitiboy680 (690)
+Seat 3: _SKR (210)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Tahitiboy680 posts big blind 30
+Dealt to _SKR [Js Qd]
+*** PRE-FLOP *** 
+_SKR raises 180 to 210 and is all-in
+Tahitiboy680 calls 180
+*** FLOP *** [Ac Tc 3s]
+*** TURN *** [Ac Tc 3s][6s]
+*** RIVER *** [Ac Tc 3s 6s][4d]
+*** SHOW DOWN ***
+_SKR shows [Js Qd] (High card : Ace)
+Tahitiboy680 shows [Ks 3h] (One pair : 3)
+Tahitiboy680 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Ac Tc 3s 6s 4d]
+Seat 2: Tahitiboy680 (big blind) showed [Ks 3h] and won 420 with One pair : 3
+Seat 3: _SKR (small blind) (button) showed [Js Qd] and lost with High card : Ace
+
+

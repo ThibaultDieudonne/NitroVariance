@@ -1,0 +1,97 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729163056151003137-1-1676903795 - Holdem no limit (10/20) - 2023/02/20 14:36:35 UTC
+Table: 'Expresso Nitro(635432791)#0' 3-max (real money) Seat #2 is the button
+Seat 1: yoyoc93 (300)
+Seat 2: _SKR (300)
+Seat 3: bonboncoco (300)
+*** ANTE/BLINDS ***
+bonboncoco posts small blind 10
+yoyoc93 posts big blind 20
+Dealt to _SKR [7h 6s]
+*** PRE-FLOP *** 
+_SKR folds
+bonboncoco calls 10
+yoyoc93 checks
+*** FLOP *** [Qs Js Ad]
+bonboncoco bets 20
+yoyoc93 calls 20
+*** TURN *** [Qs Js Ad][3h]
+bonboncoco checks
+yoyoc93 bets 28
+bonboncoco calls 28
+*** RIVER *** [Qs Js Ad 3h][8h]
+bonboncoco checks
+yoyoc93 bets 136
+bonboncoco folds
+yoyoc93 collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | No rake
+Board: [Qs Js Ad 3h 8h]
+Seat 1: yoyoc93 (big blind) won 272
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729163056151003137-2-1676903821 - Holdem no limit (10/20) - 2023/02/20 14:37:01 UTC
+Table: 'Expresso Nitro(635432791)#0' 3-max (real money) Seat #3 is the button
+Seat 1: yoyoc93 (368)
+Seat 2: _SKR (300)
+Seat 3: bonboncoco (232)
+*** ANTE/BLINDS ***
+yoyoc93 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qd 3c]
+*** PRE-FLOP *** 
+bonboncoco folds
+yoyoc93 calls 10
+_SKR checks
+*** FLOP *** [8d 7d Qh]
+yoyoc93 checks
+_SKR bets 20
+yoyoc93 calls 20
+*** TURN *** [8d 7d Qh][9c]
+yoyoc93 checks
+_SKR bets 40
+yoyoc93 raises 90 to 130
+_SKR calls 90
+*** RIVER *** [8d 7d Qh 9c][9h]
+yoyoc93 bets 119
+_SKR calls 119
+*** SHOW DOWN ***
+_SKR shows [Qd 3c] (Two pairs : Queens and 9)
+yoyoc93 shows [Td Jh] (Straight Queen high)
+yoyoc93 collected 578 from pot
+*** SUMMARY ***
+Total pot 578 | No rake
+Board: [8d 7d Qh 9c 9h]
+Seat 1: yoyoc93 (small blind) showed [Td Jh] and won 578 with Straight Queen high
+Seat 2: _SKR (big blind) showed [Qd 3c] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729163056151003137-3-1676903865 - Holdem no limit (15/30) - 2023/02/20 14:37:45 UTC
+Table: 'Expresso Nitro(635432791)#0' 3-max (real money) Seat #1 is the button
+Seat 1: yoyoc93 (657)
+Seat 2: _SKR (11)
+Seat 3: bonboncoco (232)
+*** ANTE/BLINDS ***
+_SKR posts small blind 11 and is all-in
+bonboncoco posts big blind 30
+Dealt to _SKR [Qs Jc]
+*** PRE-FLOP *** 
+yoyoc93 calls 30
+bonboncoco raises 30 to 60
+yoyoc93 calls 30
+*** FLOP *** [7c 4h Kh]
+bonboncoco checks
+yoyoc93 bets 46
+bonboncoco folds
+*** TURN *** [7c 4h Kh][8h]
+*** RIVER *** [7c 4h Kh 8h][Jh]
+*** SHOW DOWN ***
+_SKR shows [Qs Jc] (One pair : Jacks)
+yoyoc93 shows [4s 4d] (Trips of 4)
+yoyoc93 collected 177 from pot
+*** SUMMARY ***
+Total pot 177 | No rake
+Board: [7c 4h Kh 8h Jh]
+Seat 1: yoyoc93 (button) showed [4s 4d] and won 177 with Trips of 4
+Seat 2: _SKR (small blind) showed [Qs Jc] and lost with One pair : Jacks
+
+

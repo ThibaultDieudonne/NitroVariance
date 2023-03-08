@@ -1,0 +1,74 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696596075787059201-1-1675089013 - Holdem no limit (10/20) - 2023/01/30 14:30:13 UTC
+Table: 'Expresso Nitro(627850200)#0' 3-max (real money) Seat #1 is the button
+Seat 1: krakas (300)
+Seat 2: dansledoute (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+dansledoute posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 4h]
+*** PRE-FLOP *** 
+krakas folds
+dansledoute calls 10
+_SKR checks
+*** FLOP *** [3c Ah 7s]
+dansledoute checks
+_SKR checks
+*** TURN *** [3c Ah 7s][As]
+dansledoute checks
+_SKR checks
+*** RIVER *** [3c Ah 7s As][9c]
+dansledoute bets 20
+_SKR folds
+dansledoute collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3c Ah 7s As 9c]
+Seat 2: dansledoute (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696596075787059201-2-1675089039 - Holdem no limit (10/20) - 2023/01/30 14:30:39 UTC
+Table: 'Expresso Nitro(627850200)#0' 3-max (real money) Seat #2 is the button
+Seat 1: krakas (300)
+Seat 2: dansledoute (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+krakas posts big blind 20
+Dealt to _SKR [6d 7c]
+*** PRE-FLOP *** 
+dansledoute folds
+_SKR folds
+krakas collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: krakas (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696596075787059201-3-1675089050 - Holdem no limit (10/20) - 2023/01/30 14:30:50 UTC
+Table: 'Expresso Nitro(627850200)#0' 3-max (real money) Seat #3 is the button
+Seat 1: krakas (310)
+Seat 2: dansledoute (320)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+krakas posts small blind 10
+dansledoute posts big blind 20
+Dealt to _SKR [4d Ac]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+krakas calls 260
+dansledoute folds
+*** FLOP *** [Qc Kh 2s]
+*** TURN *** [Qc Kh 2s][Ts]
+*** RIVER *** [Qc Kh 2s Ts][6h]
+*** SHOW DOWN ***
+_SKR shows [4d Ac] (High card : Ace)
+krakas shows [Js As] (Straight Ace high)
+krakas collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Qc Kh 2s Ts 6h]
+Seat 1: krakas (small blind) showed [Js As] and won 560 with Straight Ace high
+Seat 3: _SKR (button) showed [4d Ac] and lost with High card : Ace
+
+

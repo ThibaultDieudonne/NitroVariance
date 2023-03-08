@@ -1,0 +1,251 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729584705975353345-1-1676920978 - Holdem no limit (10/20) - 2023/02/20 19:22:58 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: malo25102000 (300)
+Seat 3: Carte rose19 (300)
+*** ANTE/BLINDS ***
+Carte rose19 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s 3d]
+*** PRE-FLOP *** 
+malo25102000 folds
+Carte rose19 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729584705975353345-2-1676920986 - Holdem no limit (10/20) - 2023/02/20 19:23:06 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: malo25102000 (300)
+Seat 3: Carte rose19 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+malo25102000 posts big blind 20
+Dealt to _SKR [Js Tc]
+*** PRE-FLOP *** 
+Carte rose19 raises 20 to 40
+_SKR folds
+malo25102000 folds
+Carte rose19 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: Carte rose19 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729584705975353345-3-1676920995 - Holdem no limit (10/20) - 2023/02/20 19:23:15 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: malo25102000 (280)
+Seat 3: Carte rose19 (320)
+*** ANTE/BLINDS ***
+malo25102000 posts small blind 10
+Carte rose19 posts big blind 20
+Dealt to _SKR [Qh 7c]
+*** PRE-FLOP *** 
+_SKR folds
+malo25102000 calls 10
+Carte rose19 checks
+*** FLOP *** [Tc 4d 4h]
+malo25102000 checks
+Carte rose19 checks
+*** TURN *** [Tc 4d 4h][Td]
+malo25102000 checks
+Carte rose19 checks
+*** RIVER *** [Tc 4d 4h Td][3s]
+malo25102000 checks
+Carte rose19 checks
+*** SHOW DOWN ***
+Carte rose19 shows [2s 9h] (Two pairs : Tens and 4)
+malo25102000 shows [6c Kc] (Two pairs : Tens and 4)
+malo25102000 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Tc 4d 4h Td 3s]
+Seat 2: malo25102000 (small blind) showed [6c Kc] and won 40 with Two pairs : Tens and 4
+Seat 3: Carte rose19 (big blind) showed [2s 9h] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729584705975353345-4-1676921015 - Holdem no limit (10/20) - 2023/02/20 19:23:35 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: malo25102000 (300)
+Seat 3: Carte rose19 (300)
+*** ANTE/BLINDS ***
+Carte rose19 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc 6d]
+*** PRE-FLOP *** 
+malo25102000 folds
+Carte rose19 calls 10
+_SKR checks
+*** FLOP *** [3c 9h Qs]
+Carte rose19 checks
+_SKR checks
+*** TURN *** [3c 9h Qs][Tc]
+Carte rose19 checks
+_SKR checks
+*** RIVER *** [3c 9h Qs Tc][3h]
+Carte rose19 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Jc 6d] (One pair : 3)
+Carte rose19 shows [4d Jd] (One pair : 3)
+Carte rose19 collected 20 from pot
+_SKR collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [3c 9h Qs Tc 3h]
+Seat 1: _SKR (big blind) showed [Jc 6d] and won 20 with One pair : 3
+Seat 3: Carte rose19 (small blind) showed [4d Jd] and won 20 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729584705975353345-5-1676921037 - Holdem no limit (15/30) - 2023/02/20 19:23:57 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: malo25102000 (300)
+Seat 3: Carte rose19 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+malo25102000 posts big blind 30
+Dealt to _SKR [Ah Qh]
+*** PRE-FLOP *** 
+Carte rose19 raises 30 to 60
+_SKR raises 240 to 300 and is all-in
+malo25102000 folds
+Carte rose19 calls 240 and is all-in
+*** FLOP *** [Kh 9c Js]
+*** TURN *** [Kh 9c Js][9s]
+*** RIVER *** [Kh 9c Js 9s][Kc]
+*** SHOW DOWN ***
+_SKR shows [Ah Qh] (Two pairs : Kings and 9)
+Carte rose19 shows [Ad 2h] (Two pairs : Kings and 9)
+Carte rose19 collected 315 from pot
+_SKR collected 315 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Kh 9c Js 9s Kc]
+Seat 1: _SKR (small blind) showed [Ah Qh] and won 315 with Two pairs : Kings and 9
+Seat 3: Carte rose19 (button) showed [Ad 2h] and won 315 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729584705975353345-6-1676921057 - Holdem no limit (15/30) - 2023/02/20 19:24:17 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (315)
+Seat 2: malo25102000 (270)
+Seat 3: Carte rose19 (315)
+*** ANTE/BLINDS ***
+malo25102000 posts small blind 15
+Carte rose19 posts big blind 30
+Dealt to _SKR [3c 3d]
+*** PRE-FLOP *** 
+_SKR raises 285 to 315 and is all-in
+malo25102000 calls 255 and is all-in
+Carte rose19 folds
+*** FLOP *** [2h 4c Ac]
+*** TURN *** [2h 4c Ac][6d]
+*** RIVER *** [2h 4c Ac 6d][8c]
+*** SHOW DOWN ***
+malo25102000 shows [Qc Th] (High card : Ace)
+_SKR shows [3c 3d] (One pair : 3)
+_SKR collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Board: [2h 4c Ac 6d 8c]
+Seat 1: _SKR (button) showed [3c 3d] and won 615 with One pair : 3
+Seat 2: malo25102000 (small blind) showed [Qc Th] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729584705975353345-7-1676921075 - Holdem no limit (15/30) - 2023/02/20 19:24:35 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (615)
+Seat 3: Carte rose19 (285)
+*** ANTE/BLINDS ***
+Carte rose19 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th 7c]
+*** PRE-FLOP *** 
+Carte rose19 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729584705975353345-8-1676921079 - Holdem no limit (15/30) - 2023/02/20 19:24:39 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (630)
+Seat 3: Carte rose19 (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Carte rose19 posts big blind 30
+Dealt to _SKR [Kc 9c]
+*** PRE-FLOP *** 
+_SKR raises 600 to 630 and is all-in
+Carte rose19 folds
+_SKR collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 1: _SKR (small blind) (button) won 660
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729584705975353345-9-1676921094 - Holdem no limit (20/40) - 2023/02/20 19:24:54 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (660)
+Seat 3: Carte rose19 (240)
+*** ANTE/BLINDS ***
+Carte rose19 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qs 7h]
+*** PRE-FLOP *** 
+Carte rose19 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729584705975353345-10-1676921098 - Holdem no limit (20/40) - 2023/02/20 19:24:58 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (680)
+Seat 3: Carte rose19 (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Carte rose19 posts big blind 40
+Dealt to _SKR [7h 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Carte rose19 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Carte rose19 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729584705975353345-11-1676921102 - Holdem no limit (20/40) - 2023/02/20 19:25:02 UTC
+Table: 'Expresso Nitro(635530964)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (660)
+Seat 3: Carte rose19 (240)
+*** ANTE/BLINDS ***
+Carte rose19 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3h As]
+*** PRE-FLOP *** 
+Carte rose19 calls 20
+_SKR raises 620 to 660 and is all-in
+Carte rose19 calls 200 and is all-in
+*** FLOP *** [6c 2d 7h]
+*** TURN *** [6c 2d 7h][Js]
+*** RIVER *** [6c 2d 7h Js][Qd]
+*** SHOW DOWN ***
+Carte rose19 shows [3c 5c] (High card : Queen)
+_SKR shows [3h As] (High card : Ace)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c 2d 7h Js Qd]
+Seat 1: _SKR (big blind) showed [3h As] and won 900 with High card : Ace
+Seat 3: Carte rose19 (small blind) (button) showed [3c 5c] and lost with High card : Queen
+
+

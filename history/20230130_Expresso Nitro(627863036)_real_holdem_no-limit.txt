@@ -1,0 +1,366 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696651205987270657-1-1675091705 - Holdem no limit (10/20) - 2023/01/30 15:15:05 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LouWyz (300)
+Seat 2: Idris-212 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LouWyz posts big blind 20
+Dealt to _SKR [4d Kh]
+*** PRE-FLOP *** 
+Idris-212 folds
+_SKR calls 10
+LouWyz raises 280 to 300 and is all-in
+_SKR folds
+LouWyz collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: LouWyz (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696651205987270657-2-1675091720 - Holdem no limit (10/20) - 2023/01/30 15:15:20 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LouWyz (320)
+Seat 2: Idris-212 (300)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+LouWyz posts small blind 10
+Idris-212 posts big blind 20
+Dealt to _SKR [As Jd]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+LouWyz folds
+Idris-212 calls 260
+*** FLOP *** [2h 8c 5s]
+*** TURN *** [2h 8c 5s][4h]
+*** RIVER *** [2h 8c 5s 4h][Ks]
+*** SHOW DOWN ***
+Idris-212 shows [Js Qh] (High card : King)
+_SKR shows [As Jd] (High card : Ace)
+_SKR collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [2h 8c 5s 4h Ks]
+Seat 2: Idris-212 (big blind) showed [Js Qh] and lost with High card : King
+Seat 3: _SKR (button) showed [As Jd] and won 570 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696651205987270657-3-1675091747 - Holdem no limit (10/20) - 2023/01/30 15:15:47 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LouWyz (310)
+Seat 2: Idris-212 (20)
+Seat 3: _SKR (570)
+*** ANTE/BLINDS ***
+Idris-212 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h Jh]
+*** PRE-FLOP *** 
+LouWyz folds
+Idris-212 calls 10 and is all-in
+*** FLOP *** [3s Ks 3d]
+*** TURN *** [3s Ks 3d][8s]
+*** RIVER *** [3s Ks 3d 8s][Jc]
+*** SHOW DOWN ***
+Idris-212 shows [9d Js] (Two pairs : Jacks and 3)
+_SKR shows [9h Jh] (Two pairs : Jacks and 3)
+_SKR collected 20 from pot
+Idris-212 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [3s Ks 3d 8s Jc]
+Seat 2: Idris-212 (small blind) showed [9d Js] and won 20 with Two pairs : Jacks and 3
+Seat 3: _SKR (big blind) showed [9h Jh] and won 20 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696651205987270657-4-1675091764 - Holdem no limit (15/30) - 2023/01/30 15:16:04 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LouWyz (310)
+Seat 2: Idris-212 (20)
+Seat 3: _SKR (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LouWyz posts big blind 30
+Dealt to _SKR [Jc 3c]
+*** PRE-FLOP *** 
+Idris-212 folds
+_SKR raises 540 to 570 and is all-in
+LouWyz folds
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 3: _SKR (small blind) won 600
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696651205987270657-5-1675091771 - Holdem no limit (15/30) - 2023/01/30 15:16:11 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LouWyz (280)
+Seat 2: Idris-212 (20)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+LouWyz posts small blind 15
+Idris-212 posts big blind 20 and is all-in
+Dealt to _SKR [Td 7d]
+*** PRE-FLOP *** 
+_SKR calls 30
+LouWyz calls 15
+*** FLOP *** [Ts 8h 4d]
+LouWyz bets 30
+_SKR raises 30 to 60
+LouWyz calls 30
+*** TURN *** [Ts 8h 4d][3c]
+LouWyz checks
+_SKR bets 510 and is all-in
+LouWyz folds
+*** RIVER *** [Ts 8h 4d 3c][4c]
+*** SHOW DOWN ***
+Idris-212 shows [Jc Jh] (Two pairs : Jacks and 4)
+_SKR shows [Td 7d] (Two pairs : Tens and 4)
+_SKR collected 650 from side pot 1
+Idris-212 collected 60 from main pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [Ts 8h 4d 3c 4c]
+Seat 2: Idris-212 (big blind) showed [Jc Jh] and won 60 with Two pairs : Jacks and 4
+Seat 3: _SKR (button) showed [Td 7d] and won 650 with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696651205987270657-6-1675091792 - Holdem no limit (15/30) - 2023/01/30 15:16:32 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LouWyz (190)
+Seat 2: Idris-212 (60)
+Seat 3: _SKR (650)
+*** ANTE/BLINDS ***
+Idris-212 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ac Jd]
+*** PRE-FLOP *** 
+LouWyz folds
+Idris-212 raises 30 to 60 and is all-in
+_SKR raises 30 to 90
+*** FLOP *** [Th 2d 9h]
+*** TURN *** [Th 2d 9h][Qc]
+*** RIVER *** [Th 2d 9h Qc][6h]
+*** SHOW DOWN ***
+Idris-212 shows [4h Qs] (One pair : Queens)
+_SKR shows [Ac Jd] (High card : Ace)
+_SKR collected 30 from side pot 1
+Idris-212 collected 120 from main pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Th 2d 9h Qc 6h]
+Seat 2: Idris-212 (small blind) showed [4h Qs] and won 120 with One pair : Queens
+Seat 3: _SKR (big blind) showed [Ac Jd] and won 30 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696651205987270657-7-1675091811 - Holdem no limit (15/30) - 2023/01/30 15:16:51 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LouWyz (190)
+Seat 2: Idris-212 (120)
+Seat 3: _SKR (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LouWyz posts big blind 30
+Dealt to _SKR [8d Qh]
+*** PRE-FLOP *** 
+Idris-212 folds
+_SKR raises 560 to 590 and is all-in
+LouWyz folds
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 3: _SKR (small blind) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696651205987270657-8-1675091821 - Holdem no limit (15/30) - 2023/01/30 15:17:01 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LouWyz (160)
+Seat 2: Idris-212 (120)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+LouWyz posts small blind 15
+Idris-212 posts big blind 30
+Dealt to _SKR [Ad 2c]
+*** PRE-FLOP *** 
+_SKR raises 590 to 620 and is all-in
+LouWyz calls 145 and is all-in
+Idris-212 folds
+*** FLOP *** [Th Tc Qc]
+*** TURN *** [Th Tc Qc][3h]
+*** RIVER *** [Th Tc Qc 3h][Ac]
+*** SHOW DOWN ***
+LouWyz shows [5d Kh] (One pair : Tens)
+_SKR shows [Ad 2c] (Two pairs : Aces and Tens)
+_SKR collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [Th Tc Qc 3h Ac]
+Seat 1: LouWyz (small blind) showed [5d Kh] and lost with One pair : Tens
+Seat 3: _SKR (button) showed [Ad 2c] and won 810 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696651205987270657-9-1675091837 - Holdem no limit (20/40) - 2023/01/30 15:17:17 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Idris-212 (90)
+Seat 3: _SKR (810)
+*** ANTE/BLINDS ***
+Idris-212 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5h 3c]
+*** PRE-FLOP *** 
+Idris-212 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696651205987270657-10-1675091841 - Holdem no limit (20/40) - 2023/01/30 15:17:21 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Idris-212 (70)
+Seat 3: _SKR (830)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Idris-212 posts big blind 40
+Dealt to _SKR [3s 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Idris-212 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Idris-212 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696651205987270657-11-1675091844 - Holdem no limit (20/40) - 2023/01/30 15:17:24 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Idris-212 (90)
+Seat 3: _SKR (810)
+*** ANTE/BLINDS ***
+Idris-212 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qs 7c]
+*** PRE-FLOP *** 
+Idris-212 raises 50 to 90 and is all-in
+_SKR calls 50
+*** FLOP *** [3c 9s 7d]
+*** TURN *** [3c 9s 7d][5s]
+*** RIVER *** [3c 9s 7d 5s][Ad]
+*** SHOW DOWN ***
+_SKR shows [Qs 7c] (One pair : 7)
+Idris-212 shows [Ah 4c] (One pair : Aces)
+Idris-212 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3c 9s 7d 5s Ad]
+Seat 2: Idris-212 (small blind) (button) showed [Ah 4c] and won 180 with One pair : Aces
+Seat 3: _SKR (big blind) showed [Qs 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696651205987270657-12-1675091861 - Holdem no limit (20/40) - 2023/01/30 15:17:41 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Idris-212 (180)
+Seat 3: _SKR (720)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Idris-212 posts big blind 40
+Dealt to _SKR [2c Td]
+*** PRE-FLOP *** 
+_SKR folds
+Idris-212 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Idris-212 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696651205987270657-13-1675091865 - Holdem no limit (20/40) - 2023/01/30 15:17:45 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Idris-212 (200)
+Seat 3: _SKR (700)
+*** ANTE/BLINDS ***
+Idris-212 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c Ts]
+*** PRE-FLOP *** 
+Idris-212 raises 160 to 200 and is all-in
+_SKR folds
+Idris-212 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: Idris-212 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696651205987270657-14-1675091880 - Holdem no limit (20/40) - 2023/01/30 15:18:00 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Idris-212 (240)
+Seat 3: _SKR (660)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Idris-212 posts big blind 40
+Dealt to _SKR [Ts 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Idris-212 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Idris-212 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696651205987270657-15-1675091883 - Holdem no limit (30/60) - 2023/01/30 15:18:03 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Idris-212 (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+Idris-212 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [6s 6c]
+*** PRE-FLOP *** 
+Idris-212 calls 30
+_SKR raises 580 to 640 and is all-in
+Idris-212 folds
+_SKR collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 3: _SKR (big blind) won 700
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696651205987270657-16-1675091893 - Holdem no limit (30/60) - 2023/01/30 15:18:13 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Idris-212 (200)
+Seat 3: _SKR (700)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Idris-212 posts big blind 60
+Dealt to _SKR [5s Kh]
+*** PRE-FLOP *** 
+_SKR raises 640 to 700 and is all-in
+Idris-212 folds
+_SKR collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Seat 3: _SKR (small blind) (button) won 760
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696651205987270657-17-1675091907 - Holdem no limit (30/60) - 2023/01/30 15:18:27 UTC
+Table: 'Expresso Nitro(627863036)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Idris-212 (140)
+Seat 3: _SKR (760)
+*** ANTE/BLINDS ***
+Idris-212 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Js 9d]
+*** PRE-FLOP *** 
+Idris-212 raises 80 to 140 and is all-in
+_SKR calls 80
+*** FLOP *** [7d Qd Jd]
+*** TURN *** [7d Qd Jd][6c]
+*** RIVER *** [7d Qd Jd 6c][Qh]
+*** SHOW DOWN ***
+Idris-212 shows [8h Ks] (One pair : Queens)
+_SKR shows [Js 9d] (Two pairs : Queens and Jacks)
+_SKR collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [7d Qd Jd 6c Qh]
+Seat 2: Idris-212 (small blind) (button) showed [8h Ks] and lost with One pair : Queens
+Seat 3: _SKR (big blind) showed [Js 9d] and won 280 with Two pairs : Queens and Jacks
+
+

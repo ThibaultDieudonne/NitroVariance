@@ -1,0 +1,402 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717271180766609409-1-1676215031 - Holdem no limit (10/20) - 2023/02/12 15:17:11 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Reno133176 (300)
+Seat 3: Ninapepite (300)
+*** ANTE/BLINDS ***
+Ninapepite posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 8h]
+*** PRE-FLOP *** 
+Reno133176 raises 20 to 40
+Ninapepite folds
+_SKR folds
+Reno133176 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: Reno133176 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717271180766609409-2-1676215042 - Holdem no limit (10/20) - 2023/02/12 15:17:22 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Reno133176 (330)
+Seat 3: Ninapepite (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Reno133176 posts big blind 20
+Dealt to _SKR [2d 5h]
+*** PRE-FLOP *** 
+Ninapepite calls 20
+_SKR folds
+Reno133176 checks
+*** FLOP *** [Jd 3c 5d]
+Reno133176 bets 20
+Ninapepite calls 20
+*** TURN *** [Jd 3c 5d][Jc]
+Reno133176 bets 20
+Ninapepite calls 20
+*** RIVER *** [Jd 3c 5d Jc][4h]
+Reno133176 checks
+Ninapepite checks
+*** SHOW DOWN ***
+Reno133176 shows [Td 9h] (One pair : Jacks)
+Ninapepite shows [Qs Ad] (One pair : Jacks)
+Ninapepite collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [Jd 3c 5d Jc 4h]
+Seat 2: Reno133176 (big blind) showed [Td 9h] and lost with One pair : Jacks
+Seat 3: Ninapepite (button) showed [Qs Ad] and won 130 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717271180766609409-3-1676215068 - Holdem no limit (10/20) - 2023/02/12 15:17:48 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Reno133176 (270)
+Seat 3: Ninapepite (360)
+*** ANTE/BLINDS ***
+Reno133176 posts small blind 10
+Ninapepite posts big blind 20
+Dealt to _SKR [2s 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Reno133176 calls 10
+Ninapepite checks
+*** FLOP *** [As Qd 4s]
+Reno133176 checks
+Ninapepite checks
+*** TURN *** [As Qd 4s][Kd]
+Reno133176 checks
+Ninapepite checks
+*** RIVER *** [As Qd 4s Kd][9c]
+Reno133176 bets 40
+Ninapepite calls 40
+*** SHOW DOWN ***
+Ninapepite shows [4c 5c] (One pair : 4)
+Reno133176 shows [2h 9h] (One pair : 9)
+Reno133176 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [As Qd 4s Kd 9c]
+Seat 2: Reno133176 (small blind) showed [2h 9h] and won 120 with One pair : 9
+Seat 3: Ninapepite (big blind) showed [4c 5c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717271180766609409-4-1676215093 - Holdem no limit (15/30) - 2023/02/12 15:18:13 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Reno133176 (330)
+Seat 3: Ninapepite (300)
+*** ANTE/BLINDS ***
+Ninapepite posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8c Ts]
+*** PRE-FLOP *** 
+Reno133176 folds
+Ninapepite calls 15
+_SKR checks
+*** FLOP *** [Jc 5h Td]
+Ninapepite bets 30
+_SKR calls 30
+*** TURN *** [Jc 5h Td][9c]
+Ninapepite bets 30
+_SKR calls 30
+*** RIVER *** [Jc 5h Td 9c][3h]
+Ninapepite bets 30
+_SKR calls 30
+*** SHOW DOWN ***
+_SKR shows [8c Ts] (One pair : Tens)
+Ninapepite shows [Qs Jd] (One pair : Jacks)
+Ninapepite collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jc 5h Td 9c 3h]
+Seat 1: _SKR (big blind) showed [8c Ts] and lost with One pair : Tens
+Seat 3: Ninapepite (small blind) showed [Qs Jd] and won 240 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717271180766609409-5-1676215131 - Holdem no limit (15/30) - 2023/02/12 15:18:51 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (150)
+Seat 2: Reno133176 (330)
+Seat 3: Ninapepite (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Reno133176 posts big blind 30
+Dealt to _SKR [Qh Kh]
+*** PRE-FLOP *** 
+Ninapepite folds
+_SKR raises 120 to 150 and is all-in
+Reno133176 calls 120
+*** FLOP *** [Qc Th Jc]
+*** TURN *** [Qc Th Jc][4s]
+*** RIVER *** [Qc Th Jc 4s][2s]
+*** SHOW DOWN ***
+Reno133176 shows [Ac 3c] (High card : Ace)
+_SKR shows [Qh Kh] (One pair : Queens)
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Qc Th Jc 4s 2s]
+Seat 1: _SKR (small blind) showed [Qh Kh] and won 300 with One pair : Queens
+Seat 2: Reno133176 (big blind) showed [Ac 3c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717271180766609409-6-1676215154 - Holdem no limit (20/40) - 2023/02/12 15:19:14 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Reno133176 (180)
+Seat 3: Ninapepite (420)
+*** ANTE/BLINDS ***
+Reno133176 posts small blind 20
+Ninapepite posts big blind 40
+Dealt to _SKR [4c Kd]
+*** PRE-FLOP *** 
+_SKR folds
+Reno133176 calls 20
+Ninapepite checks
+*** FLOP *** [3h 5c 2d]
+Reno133176 checks
+Ninapepite checks
+*** TURN *** [3h 5c 2d][3d]
+Reno133176 bets 80
+Ninapepite folds
+Reno133176 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [3h 5c 2d 3d]
+Seat 2: Reno133176 (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717271180766609409-7-1676215172 - Holdem no limit (20/40) - 2023/02/12 15:19:32 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Reno133176 (220)
+Seat 3: Ninapepite (380)
+*** ANTE/BLINDS ***
+Ninapepite posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ah Qd]
+*** PRE-FLOP *** 
+Reno133176 folds
+Ninapepite calls 20
+_SKR raises 260 to 300 and is all-in
+Ninapepite calls 260
+*** FLOP *** [7d 6d Kd]
+*** TURN *** [7d 6d Kd][Qc]
+*** RIVER *** [7d 6d Kd Qc][Kc]
+*** SHOW DOWN ***
+Ninapepite shows [Th Ad] (One pair : Kings)
+_SKR shows [Ah Qd] (Two pairs : Kings and Queens)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7d 6d Kd Qc Kc]
+Seat 1: _SKR (big blind) showed [Ah Qd] and won 600 with Two pairs : Kings and Queens
+Seat 3: Ninapepite (small blind) showed [Th Ad] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717271180766609409-8-1676215191 - Holdem no limit (20/40) - 2023/02/12 15:19:51 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (600)
+Seat 2: Reno133176 (220)
+Seat 3: Ninapepite (80)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Reno133176 posts big blind 40
+Dealt to _SKR [Jc Ks]
+*** PRE-FLOP *** 
+Ninapepite folds
+_SKR raises 560 to 600 and is all-in
+Reno133176 calls 180 and is all-in
+*** FLOP *** [8c Qd Qh]
+*** TURN *** [8c Qd Qh][8s]
+*** RIVER *** [8c Qd Qh 8s][4c]
+*** SHOW DOWN ***
+_SKR shows [Jc Ks] (Two pairs : Queens and 8)
+Reno133176 shows [Kh 3h] (Two pairs : Queens and 8)
+Reno133176 collected 220 from main pot
+_SKR collected 600 from side pot 1
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [8c Qd Qh 8s 4c]
+Seat 1: _SKR (small blind) showed [Jc Ks] and won 600 with Two pairs : Queens and 8
+Seat 2: Reno133176 (big blind) showed [Kh 3h] and won 220 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717271180766609409-9-1676215207 - Holdem no limit (30/60) - 2023/02/12 15:20:07 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 2: Reno133176 (220)
+Seat 3: Ninapepite (80)
+*** ANTE/BLINDS ***
+Reno133176 posts small blind 30
+Ninapepite posts big blind 60
+Dealt to _SKR [3c Js]
+*** PRE-FLOP *** 
+_SKR folds
+Reno133176 folds
+Ninapepite collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Ninapepite (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717271180766609409-10-1676215215 - Holdem no limit (30/60) - 2023/02/12 15:20:15 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (600)
+Seat 2: Reno133176 (190)
+Seat 3: Ninapepite (110)
+*** ANTE/BLINDS ***
+Ninapepite posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3h 6d]
+*** PRE-FLOP *** 
+Reno133176 calls 60
+Ninapepite raises 50 to 110 and is all-in
+_SKR folds
+Reno133176 calls 50
+*** FLOP *** [Qd 2h 9s]
+*** TURN *** [Qd 2h 9s][9h]
+*** RIVER *** [Qd 2h 9s 9h][Js]
+*** SHOW DOWN ***
+Reno133176 shows [Qs 7c] (Two pairs : Queens and 9)
+Ninapepite shows [Qc 3c] (Two pairs : Queens and 9)
+Ninapepite collected 140 from pot
+Reno133176 collected 140 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Qd 2h 9s 9h Js]
+Seat 2: Reno133176 (button) showed [Qs 7c] and won 140 with Two pairs : Queens and 9
+Seat 3: Ninapepite (small blind) showed [Qc 3c] and won 140 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717271180766609409-11-1676215234 - Holdem no limit (30/60) - 2023/02/12 15:20:34 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (540)
+Seat 2: Reno133176 (220)
+Seat 3: Ninapepite (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Reno133176 posts big blind 60
+Dealt to _SKR [5c 7h]
+*** PRE-FLOP *** 
+Ninapepite raises 80 to 140 and is all-in
+_SKR folds
+Reno133176 calls 80
+*** FLOP *** [9h 4c Qd]
+*** TURN *** [9h 4c Qd][Qs]
+*** RIVER *** [9h 4c Qd Qs][2h]
+*** SHOW DOWN ***
+Reno133176 shows [2d 9c] (Two pairs : Queens and 9)
+Ninapepite shows [Qc Ts] (Trips of Queens)
+Ninapepite collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [9h 4c Qd Qs 2h]
+Seat 2: Reno133176 (big blind) showed [2d 9c] and lost with Two pairs : Queens and 9
+Seat 3: Ninapepite (button) showed [Qc Ts] and won 310 with Trips of Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717271180766609409-12-1676215250 - Holdem no limit (30/60) - 2023/02/12 15:20:50 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (510)
+Seat 2: Reno133176 (80)
+Seat 3: Ninapepite (310)
+*** ANTE/BLINDS ***
+Reno133176 posts small blind 30
+Ninapepite posts big blind 60
+Dealt to _SKR [Ah 7h]
+*** PRE-FLOP *** 
+_SKR raises 450 to 510 and is all-in
+Reno133176 calls 50 and is all-in
+Ninapepite folds
+*** FLOP *** [5c Ks Th]
+*** TURN *** [5c Ks Th][Td]
+*** RIVER *** [5c Ks Th Td][4d]
+*** SHOW DOWN ***
+Reno133176 shows [Jh Qd] (One pair : Tens)
+_SKR shows [Ah 7h] (One pair : Tens)
+_SKR collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [5c Ks Th Td 4d]
+Seat 1: _SKR (button) showed [Ah 7h] and won 650 with One pair : Tens
+Seat 2: Reno133176 (small blind) showed [Jh Qd] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717271180766609409-13-1676215266 - Holdem no limit (30/60) - 2023/02/12 15:21:06 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (650)
+Seat 3: Ninapepite (250)
+*** ANTE/BLINDS ***
+Ninapepite posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2s 5d]
+*** PRE-FLOP *** 
+Ninapepite folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717271180766609409-14-1676215270 - Holdem no limit (40/80) - 2023/02/12 15:21:10 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (680)
+Seat 3: Ninapepite (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Ninapepite posts big blind 80
+Dealt to _SKR [3c 3h]
+*** PRE-FLOP *** 
+_SKR raises 600 to 680 and is all-in
+Ninapepite folds
+_SKR collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Seat 1: _SKR (small blind) (button) won 760
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717271180766609409-15-1676215276 - Holdem no limit (40/80) - 2023/02/12 15:21:16 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (760)
+Seat 3: Ninapepite (140)
+*** ANTE/BLINDS ***
+Ninapepite posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Ks Ac]
+*** PRE-FLOP *** 
+Ninapepite folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717271180766609409-16-1676215281 - Holdem no limit (40/80) - 2023/02/12 15:21:21 UTC
+Table: 'Expresso Nitro(632663998)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (800)
+Seat 3: Ninapepite (100)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Ninapepite posts big blind 80
+Dealt to _SKR [Qc Qh]
+*** PRE-FLOP *** 
+_SKR raises 720 to 800 and is all-in
+Ninapepite calls 20 and is all-in
+*** FLOP *** [9d 2c Kc]
+*** TURN *** [9d 2c Kc][2d]
+*** RIVER *** [9d 2c Kc 2d][7h]
+*** SHOW DOWN ***
+Ninapepite shows [9c Jd] (Two pairs : 9 and 2)
+_SKR shows [Qc Qh] (Two pairs : Queens and 2)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d 2c Kc 2d 7h]
+Seat 1: _SKR (small blind) (button) showed [Qc Qh] and won 900 with Two pairs : Queens and 2
+Seat 3: Ninapepite (big blind) showed [9c Jd] and lost with Two pairs : 9 and 2
+
+

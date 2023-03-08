@@ -1,0 +1,243 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717798933463040001-1-1676235721 - Holdem no limit (10/20) - 2023/02/12 21:02:01 UTC
+Table: 'Expresso Nitro(632786875)#0' 3-max (real money) Seat #1 is the button
+Seat 1: andresalbox1 (300)
+Seat 2: Llelex59 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Llelex59 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 5c]
+*** PRE-FLOP *** 
+andresalbox1 calls 20
+Llelex59 calls 10
+_SKR checks
+*** FLOP *** [8h Jd Kc]
+Llelex59 checks
+_SKR checks
+andresalbox1 checks
+*** TURN *** [8h Jd Kc][As]
+Llelex59 checks
+_SKR checks
+andresalbox1 checks
+*** RIVER *** [8h Jd Kc As][5s]
+Llelex59 checks
+_SKR checks
+andresalbox1 bets 60
+Llelex59 folds
+_SKR folds
+andresalbox1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8h Jd Kc As 5s]
+Seat 1: andresalbox1 (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717798933463040001-2-1676235753 - Holdem no limit (10/20) - 2023/02/12 21:02:33 UTC
+Table: 'Expresso Nitro(632786875)#0' 3-max (real money) Seat #2 is the button
+Seat 1: andresalbox1 (340)
+Seat 2: Llelex59 (280)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+andresalbox1 posts big blind 20
+Dealt to _SKR [7d Jc]
+*** PRE-FLOP *** 
+Llelex59 calls 20
+_SKR folds
+andresalbox1 checks
+*** FLOP *** [8h 4c 4h]
+andresalbox1 checks
+Llelex59 checks
+*** TURN *** [8h 4c 4h][Ad]
+andresalbox1 bets 50
+Llelex59 folds
+andresalbox1 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [8h 4c 4h Ad]
+Seat 1: andresalbox1 (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717798933463040001-3-1676235772 - Holdem no limit (10/20) - 2023/02/12 21:02:52 UTC
+Table: 'Expresso Nitro(632786875)#0' 3-max (real money) Seat #3 is the button
+Seat 1: andresalbox1 (370)
+Seat 2: Llelex59 (260)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+andresalbox1 posts small blind 10
+Llelex59 posts big blind 20
+Dealt to _SKR [Qh Ts]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+andresalbox1 calls 30
+Llelex59 calls 20
+*** FLOP *** [As Kd Jh]
+andresalbox1 checks
+Llelex59 checks
+_SKR bets 30
+andresalbox1 calls 30
+Llelex59 folds
+*** TURN *** [As Kd Jh][7d]
+andresalbox1 checks
+_SKR bets 63
+andresalbox1 calls 63
+*** RIVER *** [As Kd Jh 7d][5s]
+andresalbox1 checks
+_SKR bets 137 and is all-in
+andresalbox1 folds
+_SKR collected 443 from pot
+*** SUMMARY ***
+Total pot 443 | No rake
+Board: [As Kd Jh 7d 5s]
+Seat 3: _SKR (button) won 443
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717798933463040001-4-1676235801 - Holdem no limit (15/30) - 2023/02/12 21:03:21 UTC
+Table: 'Expresso Nitro(632786875)#0' 3-max (real money) Seat #1 is the button
+Seat 1: andresalbox1 (237)
+Seat 2: Llelex59 (220)
+Seat 3: _SKR (443)
+*** ANTE/BLINDS ***
+Llelex59 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc 2s]
+*** PRE-FLOP *** 
+andresalbox1 calls 30
+Llelex59 calls 15
+_SKR checks
+*** FLOP *** [5s Kh 4s]
+Llelex59 checks
+_SKR checks
+andresalbox1 checks
+*** TURN *** [5s Kh 4s][Qh]
+Llelex59 checks
+_SKR checks
+andresalbox1 checks
+*** RIVER *** [5s Kh 4s Qh][6c]
+Llelex59 checks
+_SKR checks
+andresalbox1 bets 59
+Llelex59 folds
+_SKR calls 59
+*** SHOW DOWN ***
+andresalbox1 shows [8c 6d] (One pair : 6)
+_SKR shows [Qc 2s] (One pair : Queens)
+_SKR collected 208 from pot
+*** SUMMARY ***
+Total pot 208 | No rake
+Board: [5s Kh 4s Qh 6c]
+Seat 1: andresalbox1 (button) showed [8c 6d] and lost with One pair : 6
+Seat 3: _SKR (big blind) showed [Qc 2s] and won 208 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717798933463040001-5-1676235844 - Holdem no limit (20/40) - 2023/02/12 21:04:04 UTC
+Table: 'Expresso Nitro(632786875)#0' 3-max (real money) Seat #2 is the button
+Seat 1: andresalbox1 (148)
+Seat 2: Llelex59 (190)
+Seat 3: _SKR (562)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+andresalbox1 posts big blind 40
+Dealt to _SKR [4c 9d]
+*** PRE-FLOP *** 
+Llelex59 raises 150 to 190 and is all-in
+_SKR folds
+andresalbox1 calls 108 and is all-in
+*** FLOP *** [Jh 7d 4h]
+*** TURN *** [Jh 7d 4h][Kh]
+*** RIVER *** [Jh 7d 4h Kh][7h]
+*** SHOW DOWN ***
+andresalbox1 shows [Ac 6c] (One pair : 7)
+Llelex59 shows [8d Kd] (Two pairs : Kings and 7)
+Llelex59 collected 358 from pot
+*** SUMMARY ***
+Total pot 358 | No rake
+Board: [Jh 7d 4h Kh 7h]
+Seat 1: andresalbox1 (big blind) showed [Ac 6c] and lost with One pair : 7
+Seat 2: Llelex59 (button) showed [8d Kd] and won 358 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717798933463040001-6-1676235859 - Holdem no limit (20/40) - 2023/02/12 21:04:19 UTC
+Table: 'Expresso Nitro(632786875)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Llelex59 (358)
+Seat 3: _SKR (542)
+*** ANTE/BLINDS ***
+Llelex59 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ts 6d]
+*** PRE-FLOP *** 
+Llelex59 calls 20
+_SKR checks
+*** FLOP *** [4c 5c 6h]
+_SKR checks
+Llelex59 bets 40
+_SKR calls 40
+*** TURN *** [4c 5c 6h][2h]
+_SKR checks
+Llelex59 bets 56
+_SKR calls 56
+*** RIVER *** [4c 5c 6h 2h][6s]
+_SKR checks
+Llelex59 checks
+*** SHOW DOWN ***
+Llelex59 shows [Ah Ad] (Two pairs : Aces and 6)
+_SKR shows [Ts 6d] (Trips of 6)
+_SKR collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | No rake
+Board: [4c 5c 6h 2h 6s]
+Seat 2: Llelex59 (small blind) (button) showed [Ah Ad] and lost with Two pairs : Aces and 6
+Seat 3: _SKR (big blind) showed [Ts 6d] and won 272 with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717798933463040001-7-1676235889 - Holdem no limit (20/40) - 2023/02/12 21:04:49 UTC
+Table: 'Expresso Nitro(632786875)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Llelex59 (222)
+Seat 3: _SKR (678)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Llelex59 posts big blind 40
+Dealt to _SKR [Jh Qc]
+*** PRE-FLOP *** 
+_SKR raises 638 to 678 and is all-in
+Llelex59 calls 182 and is all-in
+*** FLOP *** [5s 9h As]
+*** TURN *** [5s 9h As][6h]
+*** RIVER *** [5s 9h As 6h][3h]
+*** SHOW DOWN ***
+Llelex59 shows [Ac Js] (One pair : Aces)
+_SKR shows [Jh Qc] (High card : Ace)
+_SKR collected 456 from side pot 1
+Llelex59 collected 444 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s 9h As 6h 3h]
+Seat 2: Llelex59 (big blind) showed [Ac Js] and won 444 with One pair : Aces
+Seat 3: _SKR (small blind) (button) showed [Jh Qc] and won 456 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717798933463040001-8-1676235900 - Holdem no limit (30/60) - 2023/02/12 21:05:00 UTC
+Table: 'Expresso Nitro(632786875)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Llelex59 (444)
+Seat 3: _SKR (456)
+*** ANTE/BLINDS ***
+Llelex59 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kc Qh]
+*** PRE-FLOP *** 
+Llelex59 raises 384 to 444 and is all-in
+_SKR calls 384
+*** FLOP *** [4d 4s 2c]
+*** TURN *** [4d 4s 2c][2s]
+*** RIVER *** [4d 4s 2c 2s][9d]
+*** SHOW DOWN ***
+Llelex59 shows [Js 3c] (Two pairs : 4 and 2)
+_SKR shows [Kc Qh] (Two pairs : 4 and 2)
+_SKR collected 888 from pot
+*** SUMMARY ***
+Total pot 888 | No rake
+Board: [4d 4s 2c 2s 9d]
+Seat 2: Llelex59 (small blind) (button) showed [Js 3c] and lost with Two pairs : 4 and 2
+Seat 3: _SKR (big blind) showed [Kc Qh] and won 888 with Two pairs : 4 and 2
+
+

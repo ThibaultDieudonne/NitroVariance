@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729159697486577665-1-1676903628 - Holdem no limit (10/20) - 2023/02/20 14:33:48 UTC
+Table: 'Expresso Nitro(635432009)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: MONTEAZUL71 (300)
+Seat 3: Momofcgb (300)
+*** ANTE/BLINDS ***
+MONTEAZUL71 posts small blind 10
+Momofcgb posts big blind 20
+Dealt to _SKR [Tc Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+MONTEAZUL71 calls 30
+Momofcgb calls 20
+*** FLOP *** [6d 4s 2h]
+MONTEAZUL71 checks
+Momofcgb bets 78
+_SKR folds
+MONTEAZUL71 folds
+Momofcgb collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [6d 4s 2h]
+Seat 3: Momofcgb (big blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729159697486577665-2-1676903650 - Holdem no limit (10/20) - 2023/02/20 14:34:10 UTC
+Table: 'Expresso Nitro(635432009)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (260)
+Seat 2: MONTEAZUL71 (260)
+Seat 3: Momofcgb (380)
+*** ANTE/BLINDS ***
+Momofcgb posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s As]
+*** PRE-FLOP *** 
+MONTEAZUL71 folds
+Momofcgb folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729159697486577665-3-1676903655 - Holdem no limit (10/20) - 2023/02/20 14:34:15 UTC
+Table: 'Expresso Nitro(635432009)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 2: MONTEAZUL71 (260)
+Seat 3: Momofcgb (370)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MONTEAZUL71 posts big blind 20
+Dealt to _SKR [Kd Kc]
+*** PRE-FLOP *** 
+Momofcgb calls 20
+_SKR raises 40 to 60
+MONTEAZUL71 raises 200 to 260 and is all-in
+Momofcgb folds
+_SKR raises 10 to 270 and is all-in
+*** FLOP *** [3s Ac 5d]
+*** TURN *** [3s Ac 5d][3d]
+*** RIVER *** [3s Ac 5d 3d][8h]
+*** SHOW DOWN ***
+_SKR shows [Kd Kc] (Two pairs : Kings and 3)
+MONTEAZUL71 shows [Ah 9d] (Two pairs : Aces and 3)
+MONTEAZUL71 collected 540 from main pot
+_SKR collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [3s Ac 5d 3d 8h]
+Seat 1: _SKR (small blind) showed [Kd Kc] and won 10 with Two pairs : Kings and 3
+Seat 2: MONTEAZUL71 (big blind) showed [Ah 9d] and won 540 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729159697486577665-4-1676903682 - Holdem no limit (10/20) - 2023/02/20 14:34:42 UTC
+Table: 'Expresso Nitro(635432009)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (10)
+Seat 2: MONTEAZUL71 (540)
+Seat 3: Momofcgb (350)
+*** ANTE/BLINDS ***
+MONTEAZUL71 posts small blind 10
+Momofcgb posts big blind 20
+Dealt to _SKR [Jc 8d]
+*** PRE-FLOP *** 
+_SKR calls 10 and is all-in
+MONTEAZUL71 calls 10
+Momofcgb checks
+*** FLOP *** [Kd 9h 8s]
+MONTEAZUL71 bets 20
+Momofcgb calls 20
+*** TURN *** [Kd 9h 8s][Td]
+MONTEAZUL71 bets 20
+Momofcgb calls 20
+*** RIVER *** [Kd 9h 8s Td][5d]
+MONTEAZUL71 bets 20
+Momofcgb raises 47 to 67
+MONTEAZUL71 calls 47
+*** SHOW DOWN ***
+_SKR shows [Jc 8d] (One pair : 8)
+Momofcgb shows [Th 3h] (One pair : Tens)
+MONTEAZUL71 shows [Kc 7s] (One pair : Kings)
+MONTEAZUL71 collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Board: [Kd 9h 8s Td 5d]
+Seat 1: _SKR (button) showed [Jc 8d] and lost with One pair : 8
+Seat 2: MONTEAZUL71 (small blind) showed [Kc 7s] and won 264 with One pair : Kings
+Seat 3: Momofcgb (big blind) showed [Th 3h] and lost with One pair : Tens
+
+

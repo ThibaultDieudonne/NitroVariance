@@ -1,0 +1,234 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680851133701816321-1-1674082036 - Holdem no limit (10/20) - 2023/01/18 22:47:16 UTC
+Table: 'Expresso Nitro(624184295)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kemetic (300)
+Seat 2: _SKR (300)
+Seat 3: _Ben59_ (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+_Ben59_ posts big blind 20
+Dealt to _SKR [Kc 3d]
+*** PRE-FLOP *** 
+Kemetic folds
+_SKR calls 10
+_Ben59_ checks
+*** FLOP *** [Ad Jd Qc]
+_SKR checks
+_Ben59_ checks
+*** TURN *** [Ad Jd Qc][2d]
+_SKR checks
+_Ben59_ checks
+*** RIVER *** [Ad Jd Qc 2d][Qd]
+_SKR checks
+_Ben59_ bets 40
+_SKR folds
+_Ben59_ collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ad Jd Qc 2d Qd]
+Seat 3: _Ben59_ (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680851133701816321-2-1674082086 - Holdem no limit (10/20) - 2023/01/18 22:48:06 UTC
+Table: 'Expresso Nitro(624184295)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kemetic (300)
+Seat 2: _SKR (280)
+Seat 3: _Ben59_ (320)
+*** ANTE/BLINDS ***
+_Ben59_ posts small blind 10
+Kemetic posts big blind 20
+Dealt to _SKR [7d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+_Ben59_ calls 10
+Kemetic checks
+*** FLOP *** [Qs 2h 7c]
+_Ben59_ checks
+Kemetic checks
+*** TURN *** [Qs 2h 7c][2c]
+_Ben59_ checks
+Kemetic checks
+*** RIVER *** [Qs 2h 7c 2c][As]
+_Ben59_ checks
+Kemetic checks
+*** SHOW DOWN ***
+Kemetic shows [6d 5d] (One pair : 2)
+_Ben59_ shows [Td 9s] (One pair : 2)
+_Ben59_ collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qs 2h 7c 2c As]
+Seat 1: Kemetic (big blind) showed [6d 5d] and lost with One pair : 2
+Seat 3: _Ben59_ (small blind) showed [Td 9s] and won 40 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680851133701816321-3-1674082112 - Holdem no limit (15/30) - 2023/01/18 22:48:32 UTC
+Table: 'Expresso Nitro(624184295)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kemetic (280)
+Seat 2: _SKR (280)
+Seat 3: _Ben59_ (340)
+*** ANTE/BLINDS ***
+Kemetic posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9s 8s]
+*** PRE-FLOP *** 
+_Ben59_ raises 30 to 60
+Kemetic calls 45
+_SKR calls 30
+*** FLOP *** [5c 9d 8h]
+Kemetic checks
+_SKR checks
+_Ben59_ checks
+*** TURN *** [5c 9d 8h][2c]
+Kemetic checks
+_SKR bets 63
+_Ben59_ folds
+Kemetic calls 63
+*** RIVER *** [5c 9d 8h 2c][3d]
+Kemetic checks
+_SKR bets 157 and is all-in
+Kemetic calls 157 and is all-in
+*** SHOW DOWN ***
+Kemetic shows [6c 3c] (One pair : 3)
+_SKR shows [9s 8s] (Two pairs : 9 and 8)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5c 9d 8h 2c 3d]
+Seat 1: Kemetic (small blind) showed [6c 3c] and lost with One pair : 3
+Seat 2: _SKR (big blind) showed [9s 8s] and won 620 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680851133701816321-4-1674082178 - Holdem no limit (20/40) - 2023/01/18 22:49:38 UTC
+Table: 'Expresso Nitro(624184295)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (620)
+Seat 3: _Ben59_ (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+_Ben59_ posts big blind 40
+Dealt to _SKR [Kd Qc]
+*** PRE-FLOP *** 
+_SKR raises 580 to 620 and is all-in
+_Ben59_ folds
+_SKR collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 2: _SKR (small blind) (button) won 660
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680851133701816321-5-1674082191 - Holdem no limit (20/40) - 2023/01/18 22:49:51 UTC
+Table: 'Expresso Nitro(624184295)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (660)
+Seat 3: _Ben59_ (240)
+*** ANTE/BLINDS ***
+_Ben59_ posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc Ts]
+*** PRE-FLOP *** 
+_Ben59_ raises 60 to 100
+_SKR raises 560 to 660 and is all-in
+_Ben59_ calls 140 and is all-in
+*** FLOP *** [4h Ac Ad]
+*** TURN *** [4h Ac Ad][9c]
+*** RIVER *** [4h Ac Ad 9c][2s]
+*** SHOW DOWN ***
+_SKR shows [Kc Ts] (One pair : Aces)
+_Ben59_ shows [3c 3s] (Two pairs : Aces and 3)
+_Ben59_ collected 480 from main pot
+_SKR collected 420 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h Ac Ad 9c 2s]
+Seat 2: _SKR (big blind) showed [Kc Ts] and won 420 with One pair : Aces
+Seat 3: _Ben59_ (small blind) (button) showed [3c 3s] and won 480 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680851133701816321-6-1674082213 - Holdem no limit (30/60) - 2023/01/18 22:50:13 UTC
+Table: 'Expresso Nitro(624184295)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (420)
+Seat 3: _Ben59_ (480)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+_Ben59_ posts big blind 60
+Dealt to _SKR [2h 9s]
+*** PRE-FLOP *** 
+_SKR folds
+_Ben59_ collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _Ben59_ (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680851133701816321-7-1674082218 - Holdem no limit (30/60) - 2023/01/18 22:50:18 UTC
+Table: 'Expresso Nitro(624184295)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (390)
+Seat 3: _Ben59_ (510)
+*** ANTE/BLINDS ***
+_Ben59_ posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ac 7h]
+*** PRE-FLOP *** 
+_Ben59_ folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680851133701816321-8-1674082222 - Holdem no limit (30/60) - 2023/01/18 22:50:22 UTC
+Table: 'Expresso Nitro(624184295)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (420)
+Seat 3: _Ben59_ (480)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+_Ben59_ posts big blind 60
+Dealt to _SKR [3d 5d]
+*** PRE-FLOP *** 
+_SKR folds
+_Ben59_ collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _Ben59_ (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680851133701816321-9-1674082228 - Holdem no limit (30/60) - 2023/01/18 22:50:28 UTC
+Table: 'Expresso Nitro(624184295)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (390)
+Seat 3: _Ben59_ (510)
+*** ANTE/BLINDS ***
+_Ben59_ posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3d Qc]
+*** PRE-FLOP *** 
+_Ben59_ raises 90 to 150
+_SKR folds
+_Ben59_ collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: _Ben59_ (small blind) (button) won 210
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680851133701816321-10-1674082235 - Holdem no limit (30/60) - 2023/01/18 22:50:35 UTC
+Table: 'Expresso Nitro(624184295)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (330)
+Seat 3: _Ben59_ (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+_Ben59_ posts big blind 60
+Dealt to _SKR [6d Kc]
+*** PRE-FLOP *** 
+_SKR raises 270 to 330 and is all-in
+_Ben59_ raises 240 to 570 and is all-in
+*** FLOP *** [7c 9h Qs]
+*** TURN *** [7c 9h Qs][Th]
+*** RIVER *** [7c 9h Qs Th][9d]
+*** SHOW DOWN ***
+_SKR shows [6d Kc] (One pair : 9)
+_Ben59_ shows [Td 7d] (Two pairs : Tens and 9)
+_Ben59_ collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c 9h Qs Th 9d]
+Seat 2: _SKR (small blind) (button) showed [6d Kc] and lost with One pair : 9
+Seat 3: _Ben59_ (big blind) showed [Td 7d] and won 900 with Two pairs : Tens and 9
+
+

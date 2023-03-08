@@ -1,0 +1,194 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696638355445121025-1-1675091068 - Holdem no limit (10/20) - 2023/01/30 15:04:28 UTC
+Table: 'Expresso Nitro(627860044)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pig59430 (300)
+Seat 2: _SKR (300)
+Seat 3: Pilotenana (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Pilotenana posts big blind 20
+Dealt to _SKR [7s 3h]
+*** PRE-FLOP *** 
+Pig59430 calls 20
+_SKR folds
+Pilotenana checks
+*** FLOP *** [9d 2c 8d]
+Pilotenana checks
+Pig59430 bets 20
+Pilotenana calls 20
+*** TURN *** [9d 2c 8d][4c]
+Pilotenana checks
+Pig59430 bets 20
+Pilotenana calls 20
+*** RIVER *** [9d 2c 8d 4c][Th]
+Pilotenana checks
+Pig59430 checks
+*** SHOW DOWN ***
+Pilotenana shows [Ac 4s] (One pair : 4)
+Pig59430 shows [8c Kc] (One pair : 8)
+Pig59430 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [9d 2c 8d 4c Th]
+Seat 1: Pig59430 (button) showed [8c Kc] and won 130 with One pair : 8
+Seat 3: Pilotenana (big blind) showed [Ac 4s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696638355445121025-2-1675091092 - Holdem no limit (10/20) - 2023/01/30 15:04:52 UTC
+Table: 'Expresso Nitro(627860044)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pig59430 (370)
+Seat 2: _SKR (290)
+Seat 3: Pilotenana (240)
+*** ANTE/BLINDS ***
+Pilotenana posts small blind 10
+Pig59430 posts big blind 20
+Dealt to _SKR [6c 9d]
+*** PRE-FLOP *** 
+_SKR folds
+Pilotenana calls 10
+Pig59430 checks
+*** FLOP *** [7s 2s 4c]
+Pilotenana checks
+Pig59430 checks
+*** TURN *** [7s 2s 4c][5d]
+Pilotenana checks
+Pig59430 checks
+*** RIVER *** [7s 2s 4c 5d][Ad]
+Pilotenana checks
+Pig59430 checks
+*** SHOW DOWN ***
+Pig59430 shows [9h Jc] (High card : Ace)
+Pilotenana shows [8h 4d] (One pair : 4)
+Pilotenana collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [7s 2s 4c 5d Ad]
+Seat 1: Pig59430 (big blind) showed [9h Jc] and lost with High card : Ace
+Seat 3: Pilotenana (small blind) showed [8h 4d] and won 40 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696638355445121025-3-1675091117 - Holdem no limit (10/20) - 2023/01/30 15:05:17 UTC
+Table: 'Expresso Nitro(627860044)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pig59430 (350)
+Seat 2: _SKR (290)
+Seat 3: Pilotenana (260)
+*** ANTE/BLINDS ***
+Pig59430 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h Ad]
+*** PRE-FLOP *** 
+Pilotenana calls 20
+Pig59430 calls 10
+_SKR raises 270 to 290 and is all-in
+Pilotenana folds
+Pig59430 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696638355445121025-4-1675091130 - Holdem no limit (15/30) - 2023/01/30 15:05:30 UTC
+Table: 'Expresso Nitro(627860044)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pig59430 (330)
+Seat 2: _SKR (330)
+Seat 3: Pilotenana (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Pilotenana posts big blind 30
+Dealt to _SKR [4h Qh]
+*** PRE-FLOP *** 
+Pig59430 raises 300 to 330 and is all-in
+_SKR folds
+Pilotenana folds
+Pig59430 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Seat 1: Pig59430 (button) won 375
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696638355445121025-5-1675091139 - Holdem no limit (15/30) - 2023/01/30 15:05:39 UTC
+Table: 'Expresso Nitro(627860044)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pig59430 (375)
+Seat 2: _SKR (315)
+Seat 3: Pilotenana (210)
+*** ANTE/BLINDS ***
+Pilotenana posts small blind 15
+Pig59430 posts big blind 30
+Dealt to _SKR [Js 9c]
+*** PRE-FLOP *** 
+_SKR folds
+Pilotenana calls 15
+Pig59430 checks
+*** FLOP *** [9s 3s 4s]
+Pilotenana checks
+Pig59430 checks
+*** TURN *** [9s 3s 4s][9h]
+Pilotenana checks
+Pig59430 checks
+*** RIVER *** [9s 3s 4s 9h][Kc]
+Pilotenana checks
+Pig59430 checks
+*** SHOW DOWN ***
+Pig59430 shows [Jc Tc] (One pair : 9)
+Pilotenana shows [8d Qd] (One pair : 9)
+Pilotenana collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9s 3s 4s 9h Kc]
+Seat 1: Pig59430 (big blind) showed [Jc Tc] and lost with One pair : 9
+Seat 3: Pilotenana (small blind) showed [8d Qd] and won 60 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696638355445121025-6-1675091165 - Holdem no limit (15/30) - 2023/01/30 15:06:05 UTC
+Table: 'Expresso Nitro(627860044)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pig59430 (345)
+Seat 2: _SKR (315)
+Seat 3: Pilotenana (240)
+*** ANTE/BLINDS ***
+Pig59430 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4s 8d]
+*** PRE-FLOP *** 
+Pilotenana folds
+Pig59430 calls 15
+_SKR checks
+*** FLOP *** [Ad 5s 6h]
+Pig59430 bets 30
+_SKR folds
+Pig59430 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ad 5s 6h]
+Seat 1: Pig59430 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696638355445121025-7-1675091177 - Holdem no limit (15/30) - 2023/01/30 15:06:17 UTC
+Table: 'Expresso Nitro(627860044)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pig59430 (375)
+Seat 2: _SKR (285)
+Seat 3: Pilotenana (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Pilotenana posts big blind 30
+Dealt to _SKR [Ts 9s]
+*** PRE-FLOP *** 
+Pig59430 calls 30
+_SKR raises 255 to 285 and is all-in
+Pilotenana calls 210 and is all-in
+Pig59430 calls 255
+*** FLOP *** [9d Ah Qh]
+*** TURN *** [9d Ah Qh][5d]
+*** RIVER *** [9d Ah Qh 5d][4s]
+*** SHOW DOWN ***
+_SKR shows [Ts 9s] (One pair : 9)
+Pilotenana shows [Ks Qs] (One pair : Queens)
+Pig59430 shows [Js Ad] (One pair : Aces)
+Pig59430 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [9d Ah Qh 5d 4s]
+Seat 1: Pig59430 (button) showed [Js Ad] and won 810 with One pair : Aces
+Seat 2: _SKR (small blind) showed [Ts 9s] and lost with One pair : 9
+Seat 3: Pilotenana (big blind) showed [Ks Qs] and lost with One pair : Queens
+
+

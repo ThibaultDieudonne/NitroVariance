@@ -1,0 +1,110 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671067443014664193-1-1673529466 - Holdem no limit (10/20) - 2023/01/12 13:17:46 UTC
+Table: 'Expresso Nitro(621906352)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Jonsmiith (300)
+Seat 3: JaviGuzman (300)
+*** ANTE/BLINDS ***
+JaviGuzman posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7h Kc]
+*** PRE-FLOP *** 
+Jonsmiith folds
+JaviGuzman raises 280 to 300 and is all-in
+_SKR folds
+JaviGuzman collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: JaviGuzman (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671067443014664193-2-1673529479 - Holdem no limit (10/20) - 2023/01/12 13:17:59 UTC
+Table: 'Expresso Nitro(621906352)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Jonsmiith (300)
+Seat 3: JaviGuzman (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Jonsmiith posts big blind 20
+Dealt to _SKR [Td 3c]
+*** PRE-FLOP *** 
+JaviGuzman raises 300 to 320 and is all-in
+_SKR folds
+Jonsmiith folds
+JaviGuzman collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: JaviGuzman (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671067443014664193-3-1673529526 - Holdem no limit (15/30) - 2023/01/12 13:18:46 UTC
+Table: 'Expresso Nitro(621906352)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Jonsmiith (280)
+Seat 3: JaviGuzman (350)
+*** ANTE/BLINDS ***
+Jonsmiith posts small blind 15
+JaviGuzman posts big blind 30
+Dealt to _SKR [2h Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Jonsmiith raises 75 to 105
+JaviGuzman folds
+Jonsmiith collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 2: Jonsmiith (small blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671067443014664193-4-1673529539 - Holdem no limit (15/30) - 2023/01/12 13:18:59 UTC
+Table: 'Expresso Nitro(621906352)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Jonsmiith (310)
+Seat 3: JaviGuzman (320)
+*** ANTE/BLINDS ***
+JaviGuzman posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3c Jc]
+*** PRE-FLOP *** 
+Jonsmiith folds
+JaviGuzman calls 15
+_SKR checks
+*** FLOP *** [3h Ks Ts]
+JaviGuzman checks
+_SKR checks
+*** TURN *** [3h Ks Ts][Qd]
+JaviGuzman bets 30
+_SKR folds
+JaviGuzman collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [3h Ks Ts Qd]
+Seat 3: JaviGuzman (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671067443014664193-5-1673529566 - Holdem no limit (15/30) - 2023/01/12 13:19:26 UTC
+Table: 'Expresso Nitro(621906352)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (240)
+Seat 2: Jonsmiith (310)
+Seat 3: JaviGuzman (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Jonsmiith posts big blind 30
+Dealt to _SKR [8d Ad]
+*** PRE-FLOP *** 
+JaviGuzman folds
+_SKR raises 210 to 240 and is all-in
+Jonsmiith calls 210
+*** FLOP *** [2d Qs Jh]
+*** TURN *** [2d Qs Jh][Jc]
+*** RIVER *** [2d Qs Jh Jc][9d]
+*** SHOW DOWN ***
+_SKR shows [8d Ad] (One pair : Jacks)
+Jonsmiith shows [As 9s] (Two pairs : Jacks and 9)
+Jonsmiith collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [2d Qs Jh Jc 9d]
+Seat 1: _SKR (small blind) showed [8d Ad] and lost with One pair : Jacks
+Seat 2: Jonsmiith (big blind) showed [As 9s] and won 480 with Two pairs : Jacks and 9
+
+

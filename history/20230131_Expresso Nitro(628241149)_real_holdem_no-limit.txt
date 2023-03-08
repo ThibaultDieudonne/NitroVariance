@@ -1,0 +1,86 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698275188956463105-1-1675188452 - Holdem no limit (10/20) - 2023/01/31 18:07:32 UTC
+Table: 'Expresso Nitro(628241149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Hyene 66 (300)
+Seat 3: Lirix78 (300)
+*** ANTE/BLINDS ***
+Lirix78 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d Jc]
+*** PRE-FLOP *** 
+Hyene 66 calls 20
+Lirix78 calls 10
+_SKR checks
+*** FLOP *** [4d 2s 7d]
+Lirix78 checks
+_SKR checks
+Hyene 66 bets 20
+Lirix78 calls 20
+_SKR folds
+*** TURN *** [4d 2s 7d][Ah]
+Lirix78 checks
+Hyene 66 checks
+*** RIVER *** [4d 2s 7d Ah][9d]
+Lirix78 bets 260 and is all-in
+Hyene 66 folds
+Lirix78 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [4d 2s 7d Ah 9d]
+Seat 3: Lirix78 (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698275188956463105-2-1675188496 - Holdem no limit (10/20) - 2023/01/31 18:08:16 UTC
+Table: 'Expresso Nitro(628241149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Hyene 66 (260)
+Seat 3: Lirix78 (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Hyene 66 posts big blind 20
+Dealt to _SKR [9s Jd]
+*** PRE-FLOP *** 
+Lirix78 folds
+_SKR raises 20 to 40
+Hyene 66 calls 20
+*** FLOP *** [5h 2d 2h]
+_SKR checks
+Hyene 66 checks
+*** TURN *** [5h 2d 2h][Ks]
+_SKR checks
+Hyene 66 bets 20
+_SKR folds
+Hyene 66 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [5h 2d 2h Ks]
+Seat 2: Hyene 66 (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698275188956463105-3-1675188518 - Holdem no limit (15/30) - 2023/01/31 18:08:38 UTC
+Table: 'Expresso Nitro(628241149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (240)
+Seat 2: Hyene 66 (300)
+Seat 3: Lirix78 (360)
+*** ANTE/BLINDS ***
+Hyene 66 posts small blind 15
+Lirix78 posts big blind 30
+Dealt to _SKR [5d Ah]
+*** PRE-FLOP *** 
+_SKR raises 210 to 240 and is all-in
+Hyene 66 folds
+Lirix78 raises 120 to 360 and is all-in
+*** FLOP *** [6c 3h 5c]
+*** TURN *** [6c 3h 5c][Qc]
+*** RIVER *** [6c 3h 5c Qc][3c]
+*** SHOW DOWN ***
+_SKR shows [5d Ah] (Two pairs : 5 and 3)
+Lirix78 shows [3d As] (Trips of 3)
+Lirix78 collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Board: [6c 3h 5c Qc 3c]
+Seat 1: _SKR (button) showed [5d Ah] and lost with Two pairs : 5 and 3
+Seat 3: Lirix78 (big blind) showed [3d As] and won 615 with Trips of 3
+
+

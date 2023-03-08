@@ -1,0 +1,33 @@
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 8 - HandId: #2680925166053097473-36-1674086424 - Holdem no limit (16/80/160) - 2023/01/19 00:00:24 UTC
+Table: 'Starting Block Winamax Poker Tour(624201532)#0' 6-max (real money) Seat #4 is the button
+Seat 3: _SKR (1282)
+Seat 4: nono1319 (1331)
+Seat 5: FR_Crack33 (2429)
+Seat 6: Rouviere 34 (3958)
+*** ANTE/BLINDS ***
+FR_Crack33 posts ante 16
+Rouviere 34 posts ante 16
+_SKR posts ante 16
+nono1319 posts ante 16
+FR_Crack33 posts small blind 80
+Rouviere 34 posts big blind 160
+Dealt to _SKR [Qd 9s]
+*** PRE-FLOP *** 
+_SKR raises 1106 to 1266 and is all-in
+nono1319 calls 1266
+FR_Crack33 folds
+Rouviere 34 folds
+*** FLOP *** [Tc 7d Th]
+*** TURN *** [Tc 7d Th][5d]
+*** RIVER *** [Tc 7d Th 5d][3s]
+*** SHOW DOWN ***
+_SKR shows [Qd 9s] (One pair : Tens)
+nono1319 shows [Ts Js] (Trips of Tens)
+nono1319 collected 2836 from pot
+*** SUMMARY ***
+Total pot 2836 | No rake
+Board: [Tc 7d Th 5d 3s]
+Seat 3: _SKR showed [Qd 9s] and lost with One pair : Tens
+Seat 4: nono1319 (button) showed [Ts Js] and won 2836 with Trips of Tens
+
+

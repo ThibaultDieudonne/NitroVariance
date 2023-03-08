@@ -1,0 +1,436 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696637500746629121-1-1675091029 - Holdem no limit (10/20) - 2023/01/30 15:03:49 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Djordjo94 (300)
+Seat 2: projet X17 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Djordjo94 posts big blind 20
+Dealt to _SKR [9h 3h]
+*** PRE-FLOP *** 
+projet X17 raises 20 to 40
+_SKR folds
+Djordjo94 calls 20
+*** FLOP *** [Tc 2h Js]
+Djordjo94 checks
+projet X17 checks
+*** TURN *** [Tc 2h Js][Kc]
+Djordjo94 checks
+projet X17 checks
+*** RIVER *** [Tc 2h Js Kc][Ad]
+Djordjo94 bets 59
+projet X17 folds
+Djordjo94 collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [Tc 2h Js Kc Ad]
+Seat 1: Djordjo94 (big blind) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696637500746629121-2-1675091042 - Holdem no limit (10/20) - 2023/01/30 15:04:02 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djordjo94 (350)
+Seat 2: projet X17 (260)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Djordjo94 posts small blind 10
+projet X17 posts big blind 20
+Dealt to _SKR [Ts 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Djordjo94 calls 10
+projet X17 checks
+*** FLOP *** [7h Js 5s]
+Djordjo94 bets 20
+projet X17 folds
+Djordjo94 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7h Js 5s]
+Seat 1: Djordjo94 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696637500746629121-3-1675091052 - Holdem no limit (10/20) - 2023/01/30 15:04:12 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Djordjo94 (370)
+Seat 2: projet X17 (240)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+projet X17 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s 6h]
+*** PRE-FLOP *** 
+Djordjo94 calls 20
+projet X17 folds
+_SKR checks
+*** FLOP *** [9h 3h Ad]
+_SKR checks
+Djordjo94 bets 20
+_SKR folds
+Djordjo94 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [9h 3h Ad]
+Seat 1: Djordjo94 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696637500746629121-4-1675091067 - Holdem no limit (10/20) - 2023/01/30 15:04:27 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Djordjo94 (400)
+Seat 2: projet X17 (230)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Djordjo94 posts big blind 20
+Dealt to _SKR [2s Td]
+*** PRE-FLOP *** 
+projet X17 calls 20
+_SKR folds
+Djordjo94 checks
+*** FLOP *** [5h Tc 7d]
+Djordjo94 checks
+projet X17 checks
+*** TURN *** [5h Tc 7d][6c]
+Djordjo94 checks
+projet X17 bets 50
+Djordjo94 calls 50
+*** RIVER *** [5h Tc 7d 6c][6h]
+Djordjo94 checks
+projet X17 bets 98
+Djordjo94 folds
+projet X17 collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [5h Tc 7d 6c 6h]
+Seat 2: projet X17 (button) won 248
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696637500746629121-5-1675091083 - Holdem no limit (10/20) - 2023/01/30 15:04:43 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djordjo94 (330)
+Seat 2: projet X17 (310)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Djordjo94 posts small blind 10
+projet X17 posts big blind 20
+Dealt to _SKR [6c Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Djordjo94 calls 10
+projet X17 checks
+*** FLOP *** [6d 5c 5s]
+Djordjo94 checks
+projet X17 checks
+*** TURN *** [6d 5c 5s][8h]
+Djordjo94 checks
+projet X17 checks
+*** RIVER *** [6d 5c 5s 8h][6h]
+Djordjo94 checks
+projet X17 checks
+*** SHOW DOWN ***
+projet X17 shows [2d Qd] (Two pairs : 6 and 5)
+Djordjo94 shows [Kh 7s] (Two pairs : 6 and 5)
+Djordjo94 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [6d 5c 5s 8h 6h]
+Seat 1: Djordjo94 (small blind) showed [Kh 7s] and won 40 with Two pairs : 6 and 5
+Seat 2: projet X17 (big blind) showed [2d Qd] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696637500746629121-6-1675091098 - Holdem no limit (15/30) - 2023/01/30 15:04:58 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Djordjo94 (350)
+Seat 2: projet X17 (290)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+projet X17 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8s 4h]
+*** PRE-FLOP *** 
+Djordjo94 calls 30
+projet X17 calls 15
+_SKR checks
+*** FLOP *** [Ah 7d 9c]
+projet X17 checks
+_SKR checks
+Djordjo94 checks
+*** TURN *** [Ah 7d 9c][2s]
+projet X17 checks
+_SKR checks
+Djordjo94 bets 30
+projet X17 folds
+_SKR folds
+Djordjo94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ah 7d 9c 2s]
+Seat 1: Djordjo94 (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696637500746629121-7-1675091117 - Holdem no limit (15/30) - 2023/01/30 15:05:17 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Djordjo94 (410)
+Seat 2: projet X17 (260)
+Seat 3: _SKR (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Djordjo94 posts big blind 30
+Dealt to _SKR [2d 5s]
+*** PRE-FLOP *** 
+projet X17 calls 30
+_SKR folds
+Djordjo94 checks
+*** FLOP *** [Jh 7c Qs]
+Djordjo94 checks
+projet X17 bets 49
+Djordjo94 calls 49
+*** TURN *** [Jh 7c Qs][Kc]
+Djordjo94 checks
+projet X17 bets 61
+Djordjo94 calls 61
+*** RIVER *** [Jh 7c Qs Kc][5c]
+Djordjo94 checks
+projet X17 checks
+*** SHOW DOWN ***
+projet X17 shows [8d Ah] (High card : Ace)
+Djordjo94 shows [Qd 9h] (One pair : Queens)
+Djordjo94 collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Board: [Jh 7c Qs Kc 5c]
+Seat 1: Djordjo94 (big blind) showed [Qd 9h] and won 295 with One pair : Queens
+Seat 2: projet X17 (button) showed [8d Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696637500746629121-8-1675091141 - Holdem no limit (15/30) - 2023/01/30 15:05:41 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djordjo94 (565)
+Seat 2: projet X17 (120)
+Seat 3: _SKR (215)
+*** ANTE/BLINDS ***
+Djordjo94 posts small blind 15
+projet X17 posts big blind 30
+Dealt to _SKR [Ac 7d]
+*** PRE-FLOP *** 
+_SKR raises 185 to 215 and is all-in
+Djordjo94 folds
+projet X17 calls 90 and is all-in
+*** FLOP *** [9d 6d Ad]
+*** TURN *** [9d 6d Ad][Ts]
+*** RIVER *** [9d 6d Ad Ts][9h]
+*** SHOW DOWN ***
+projet X17 shows [Js Kh] (One pair : 9)
+_SKR shows [Ac 7d] (Two pairs : Aces and 9)
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [9d 6d Ad Ts 9h]
+Seat 2: projet X17 (big blind) showed [Js Kh] and lost with One pair : 9
+Seat 3: _SKR (button) showed [Ac 7d] and won 350 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696637500746629121-9-1675091157 - Holdem no limit (20/40) - 2023/01/30 15:05:57 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djordjo94 (550)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Djordjo94 posts big blind 40
+Dealt to _SKR [9h 5d]
+*** PRE-FLOP *** 
+_SKR folds
+Djordjo94 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Djordjo94 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696637500746629121-10-1675091161 - Holdem no limit (20/40) - 2023/01/30 15:06:01 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Djordjo94 (570)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+Djordjo94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9s 6s]
+*** PRE-FLOP *** 
+Djordjo94 calls 20
+_SKR checks
+*** FLOP *** [9d Jc Qd]
+_SKR checks
+Djordjo94 checks
+*** TURN *** [9d Jc Qd][2s]
+_SKR checks
+Djordjo94 checks
+*** RIVER *** [9d Jc Qd 2s][Tc]
+_SKR checks
+Djordjo94 checks
+*** SHOW DOWN ***
+Djordjo94 shows [5d 4d] (High card : Queen)
+_SKR shows [9s 6s] (One pair : 9)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9d Jc Qd 2s Tc]
+Seat 1: Djordjo94 (small blind) (button) showed [5d 4d] and lost with High card : Queen
+Seat 3: _SKR (big blind) showed [9s 6s] and won 80 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696637500746629121-11-1675091180 - Holdem no limit (20/40) - 2023/01/30 15:06:20 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djordjo94 (530)
+Seat 3: _SKR (370)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Djordjo94 posts big blind 40
+Dealt to _SKR [6h Ah]
+*** PRE-FLOP *** 
+_SKR raises 330 to 370 and is all-in
+Djordjo94 folds
+_SKR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 3: _SKR (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696637500746629121-12-1675091186 - Holdem no limit (20/40) - 2023/01/30 15:06:26 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Djordjo94 (490)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+Djordjo94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ah 2c]
+*** PRE-FLOP *** 
+Djordjo94 calls 20
+_SKR raises 370 to 410 and is all-in
+Djordjo94 folds
+_SKR collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 3: _SKR (big blind) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696637500746629121-13-1675091191 - Holdem no limit (20/40) - 2023/01/30 15:06:31 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djordjo94 (450)
+Seat 3: _SKR (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Djordjo94 posts big blind 40
+Dealt to _SKR [2h 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Djordjo94 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Djordjo94 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696637500746629121-14-1675091196 - Holdem no limit (20/40) - 2023/01/30 15:06:36 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Djordjo94 (470)
+Seat 3: _SKR (430)
+*** ANTE/BLINDS ***
+Djordjo94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9d Ah]
+*** PRE-FLOP *** 
+Djordjo94 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696637500746629121-15-1675091199 - Holdem no limit (20/40) - 2023/01/30 15:06:39 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djordjo94 (450)
+Seat 3: _SKR (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Djordjo94 posts big blind 40
+Dealt to _SKR [6c 7d]
+*** PRE-FLOP *** 
+_SKR folds
+Djordjo94 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Djordjo94 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696637500746629121-16-1675091203 - Holdem no limit (20/40) - 2023/01/30 15:06:43 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Djordjo94 (470)
+Seat 3: _SKR (430)
+*** ANTE/BLINDS ***
+Djordjo94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6h Ac]
+*** PRE-FLOP *** 
+Djordjo94 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696637500746629121-17-1675091206 - Holdem no limit (30/60) - 2023/01/30 15:06:46 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djordjo94 (450)
+Seat 3: _SKR (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Djordjo94 posts big blind 60
+Dealt to _SKR [Tc 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Djordjo94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Djordjo94 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696637500746629121-18-1675091209 - Holdem no limit (30/60) - 2023/01/30 15:06:49 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Djordjo94 (480)
+Seat 3: _SKR (420)
+*** ANTE/BLINDS ***
+Djordjo94 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8h 2h]
+*** PRE-FLOP *** 
+Djordjo94 raises 120 to 180
+_SKR folds
+Djordjo94 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: Djordjo94 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696637500746629121-19-1675091216 - Holdem no limit (30/60) - 2023/01/30 15:06:56 UTC
+Table: 'Expresso Nitro(627859845)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Djordjo94 (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Djordjo94 posts big blind 60
+Dealt to _SKR [Td Ac]
+*** PRE-FLOP *** 
+_SKR raises 300 to 360 and is all-in
+Djordjo94 calls 300
+*** FLOP *** [7s Ts Qd]
+*** TURN *** [7s Ts Qd][Ks]
+*** RIVER *** [7s Ts Qd Ks][3d]
+*** SHOW DOWN ***
+_SKR shows [Td Ac] (One pair : Tens)
+Djordjo94 shows [Qs 5s] (Flush King high)
+Djordjo94 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [7s Ts Qd Ks 3d]
+Seat 1: Djordjo94 (big blind) showed [Qs 5s] and won 720 with Flush King high
+Seat 3: _SKR (small blind) (button) showed [Td Ac] and lost with One pair : Tens
+
+

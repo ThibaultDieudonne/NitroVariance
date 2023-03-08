@@ -1,0 +1,208 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672611681326071809-1-1673616554 - Holdem no limit (10/20) - 2023/01/13 13:29:14 UTC
+Table: 'Expresso Nitro(622265898)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ewen Renault (300)
+Seat 2: _SKR (300)
+Seat 3: My_louu (300)
+*** ANTE/BLINDS ***
+My_louu posts small blind 10
+Ewen Renault posts big blind 20
+Dealt to _SKR [6d Qd]
+*** PRE-FLOP *** 
+_SKR folds
+My_louu calls 10
+Ewen Renault checks
+*** FLOP *** [As 8c 6c]
+My_louu checks
+Ewen Renault bets 20
+My_louu calls 20
+*** TURN *** [As 8c 6c][2s]
+My_louu checks
+Ewen Renault checks
+*** RIVER *** [As 8c 6c 2s][5h]
+My_louu checks
+Ewen Renault checks
+*** SHOW DOWN ***
+My_louu shows [Td Ks] (High card : Ace)
+Ewen Renault shows [Qh 6h] (One pair : 6)
+Ewen Renault collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [As 8c 6c 2s 5h]
+Seat 1: Ewen Renault (big blind) showed [Qh 6h] and won 80 with One pair : 6
+Seat 3: My_louu (small blind) showed [Td Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672611681326071809-2-1673616580 - Holdem no limit (10/20) - 2023/01/13 13:29:40 UTC
+Table: 'Expresso Nitro(622265898)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ewen Renault (340)
+Seat 2: _SKR (300)
+Seat 3: My_louu (260)
+*** ANTE/BLINDS ***
+Ewen Renault posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9c 7s]
+*** PRE-FLOP *** 
+My_louu calls 20
+Ewen Renault calls 10
+_SKR checks
+*** FLOP *** [3c 8c Td]
+Ewen Renault checks
+_SKR checks
+My_louu checks
+*** TURN *** [3c 8c Td][Qh]
+Ewen Renault checks
+_SKR bets 39
+My_louu folds
+Ewen Renault folds
+_SKR collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [3c 8c Td Qh]
+Seat 2: _SKR (big blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672611681326071809-3-1673616603 - Holdem no limit (10/20) - 2023/01/13 13:30:03 UTC
+Table: 'Expresso Nitro(622265898)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ewen Renault (320)
+Seat 2: _SKR (340)
+Seat 3: My_louu (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+My_louu posts big blind 20
+Dealt to _SKR [5d Ts]
+*** PRE-FLOP *** 
+Ewen Renault calls 20
+_SKR folds
+My_louu checks
+*** FLOP *** [4h 7h 2d]
+My_louu checks
+Ewen Renault checks
+*** TURN *** [4h 7h 2d][As]
+My_louu checks
+Ewen Renault bets 20
+My_louu calls 20
+*** RIVER *** [4h 7h 2d As][7s]
+My_louu checks
+Ewen Renault checks
+*** SHOW DOWN ***
+My_louu shows [4d 9c] (Two pairs : 7 and 4)
+Ewen Renault shows [Ad Qc] (Two pairs : Aces and 7)
+Ewen Renault collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [4h 7h 2d As 7s]
+Seat 1: Ewen Renault (button) showed [Ad Qc] and won 90 with Two pairs : Aces and 7
+Seat 3: My_louu (big blind) showed [4d 9c] and lost with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2672611681326071809-4-1673616627 - Holdem no limit (15/30) - 2023/01/13 13:30:27 UTC
+Table: 'Expresso Nitro(622265898)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ewen Renault (370)
+Seat 2: _SKR (330)
+Seat 3: My_louu (200)
+*** ANTE/BLINDS ***
+My_louu posts small blind 15
+Ewen Renault posts big blind 30
+Dealt to _SKR [Qh 4s]
+*** PRE-FLOP *** 
+_SKR folds
+My_louu calls 15
+Ewen Renault checks
+*** FLOP *** [6d 9d 3s]
+My_louu checks
+Ewen Renault checks
+*** TURN *** [6d 9d 3s][8d]
+My_louu checks
+Ewen Renault checks
+*** RIVER *** [6d 9d 3s 8d][Ah]
+My_louu checks
+Ewen Renault checks
+*** SHOW DOWN ***
+My_louu shows [Js 4h] (High card : Ace)
+Ewen Renault shows [Qd Jh] (High card : Ace)
+Ewen Renault collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6d 9d 3s 8d Ah]
+Seat 1: Ewen Renault (big blind) showed [Qd Jh] and won 60 with High card : Ace
+Seat 3: My_louu (small blind) showed [Js 4h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2672611681326071809-5-1673616650 - Holdem no limit (15/30) - 2023/01/13 13:30:50 UTC
+Table: 'Expresso Nitro(622265898)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ewen Renault (400)
+Seat 2: _SKR (330)
+Seat 3: My_louu (170)
+*** ANTE/BLINDS ***
+Ewen Renault posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c Ah]
+*** PRE-FLOP *** 
+My_louu folds
+Ewen Renault calls 15
+_SKR checks
+*** FLOP *** [2s Jc 3c]
+Ewen Renault checks
+_SKR checks
+*** TURN *** [2s Jc 3c][9d]
+Ewen Renault checks
+_SKR checks
+*** RIVER *** [2s Jc 3c 9d][Ad]
+Ewen Renault checks
+_SKR checks
+*** SHOW DOWN ***
+Ewen Renault shows [6d 2d] (One pair : 2)
+_SKR shows [2c Ah] (Two pairs : Aces and 2)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2s Jc 3c 9d Ad]
+Seat 1: Ewen Renault (small blind) showed [6d 2d] and lost with One pair : 2
+Seat 2: _SKR (big blind) showed [2c Ah] and won 60 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2672611681326071809-6-1673616678 - Holdem no limit (20/40) - 2023/01/13 13:31:18 UTC
+Table: 'Expresso Nitro(622265898)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ewen Renault (370)
+Seat 2: _SKR (360)
+Seat 3: My_louu (170)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+My_louu posts big blind 40
+Dealt to _SKR [3s 5c]
+*** PRE-FLOP *** 
+Ewen Renault folds
+_SKR folds
+My_louu collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: My_louu (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2672611681326071809-7-1673616684 - Holdem no limit (20/40) - 2023/01/13 13:31:24 UTC
+Table: 'Expresso Nitro(622265898)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ewen Renault (370)
+Seat 2: _SKR (340)
+Seat 3: My_louu (190)
+*** ANTE/BLINDS ***
+My_louu posts small blind 20
+Ewen Renault posts big blind 40
+Dealt to _SKR [Ac 6d]
+*** PRE-FLOP *** 
+_SKR raises 300 to 340 and is all-in
+My_louu folds
+Ewen Renault calls 300
+*** FLOP *** [Ad Ks Js]
+*** TURN *** [Ad Ks Js][8h]
+*** RIVER *** [Ad Ks Js 8h][3s]
+*** SHOW DOWN ***
+_SKR shows [Ac 6d] (One pair : Aces)
+Ewen Renault shows [Qc Tc] (Straight Ace high)
+Ewen Renault collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [Ad Ks Js 8h 3s]
+Seat 1: Ewen Renault (big blind) showed [Qc Tc] and won 700 with Straight Ace high
+Seat 2: _SKR (button) showed [Ac 6d] and lost with One pair : Aces
+
+

@@ -1,0 +1,110 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717296289145421825-1-1676216254 - Holdem no limit (10/20) - 2023/02/12 15:37:34 UTC
+Table: 'Expresso Nitro(632669844)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: j_d4vid (300)
+Seat 3: klaim18 (300)
+*** ANTE/BLINDS ***
+j_d4vid posts small blind 10
+klaim18 posts big blind 20
+Dealt to _SKR [Kh 7d]
+*** PRE-FLOP *** 
+_SKR folds
+j_d4vid raises 20 to 40
+klaim18 calls 20
+*** FLOP *** [Ac Js 2c]
+j_d4vid checks
+klaim18 bets 20
+j_d4vid calls 20
+*** TURN *** [Ac Js 2c][8h]
+j_d4vid checks
+klaim18 bets 20
+j_d4vid raises 70 to 90
+klaim18 calls 70
+*** RIVER *** [Ac Js 2c 8h][Qs]
+j_d4vid bets 150 and is all-in
+klaim18 calls 150 and is all-in
+*** SHOW DOWN ***
+klaim18 shows [Jc 7c] (One pair : Jacks)
+j_d4vid shows [Qc As] (Two pairs : Aces and Queens)
+j_d4vid collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ac Js 2c 8h Qs]
+Seat 2: j_d4vid (small blind) showed [Qc As] and won 600 with Two pairs : Aces and Queens
+Seat 3: klaim18 (big blind) showed [Jc 7c] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717296289145421825-2-1676216289 - Holdem no limit (10/20) - 2023/02/12 15:38:09 UTC
+Table: 'Expresso Nitro(632669844)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: j_d4vid (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+j_d4vid posts big blind 20
+Dealt to _SKR [7s 7c]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+j_d4vid folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: _SKR (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717296289145421825-3-1676216296 - Holdem no limit (10/20) - 2023/02/12 15:38:16 UTC
+Table: 'Expresso Nitro(632669844)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (320)
+Seat 2: j_d4vid (580)
+*** ANTE/BLINDS ***
+j_d4vid posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h As]
+*** PRE-FLOP *** 
+j_d4vid folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717296289145421825-4-1676216311 - Holdem no limit (15/30) - 2023/02/12 15:38:31 UTC
+Table: 'Expresso Nitro(632669844)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (330)
+Seat 2: j_d4vid (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+j_d4vid posts big blind 30
+Dealt to _SKR [5c 7c]
+*** PRE-FLOP *** 
+_SKR folds
+j_d4vid collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: j_d4vid (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717296289145421825-5-1676216317 - Holdem no limit (15/30) - 2023/02/12 15:38:37 UTC
+Table: 'Expresso Nitro(632669844)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (315)
+Seat 2: j_d4vid (585)
+*** ANTE/BLINDS ***
+j_d4vid posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7h 7c]
+*** PRE-FLOP *** 
+j_d4vid raises 555 to 585 and is all-in
+_SKR calls 285 and is all-in
+*** FLOP *** [2s Jc 4s]
+*** TURN *** [2s Jc 4s][Qh]
+*** RIVER *** [2s Jc 4s Qh][6s]
+*** SHOW DOWN ***
+_SKR shows [7h 7c] (One pair : 7)
+j_d4vid shows [Ad Qc] (One pair : Queens)
+j_d4vid collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2s Jc 4s Qh 6s]
+Seat 1: _SKR (big blind) showed [7h 7c] and lost with One pair : 7
+Seat 2: j_d4vid (small blind) (button) showed [Ad Qc] and won 900 with One pair : Queens
+
+

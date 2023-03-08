@@ -1,0 +1,443 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675042340757831681-1-1673741385 - Holdem no limit (10/20) - 2023/01/15 00:09:45 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Alexmew (300)
+Seat 3: Pablo Chance (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Alexmew posts big blind 20
+Dealt to _SKR [2s Qs]
+*** PRE-FLOP *** 
+Pablo Chance calls 20
+_SKR folds
+Alexmew checks
+*** FLOP *** [Ah 8c Th]
+Alexmew checks
+Pablo Chance checks
+*** TURN *** [Ah 8c Th][Kd]
+Alexmew checks
+Pablo Chance bets 50
+Alexmew calls 50
+*** RIVER *** [Ah 8c Th Kd][6s]
+Alexmew checks
+Pablo Chance checks
+*** SHOW DOWN ***
+Pablo Chance shows [Kc 3d] (One pair : Kings)
+Alexmew shows [Kh 9c] (One pair : Kings)
+Alexmew collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Ah 8c Th Kd 6s]
+Seat 2: Alexmew (big blind) showed [Kh 9c] and won 150 with One pair : Kings
+Seat 3: Pablo Chance (button) showed [Kc 3d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675042340757831681-2-1673741412 - Holdem no limit (10/20) - 2023/01/15 00:10:12 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Alexmew (380)
+Seat 3: Pablo Chance (230)
+*** ANTE/BLINDS ***
+Alexmew posts small blind 10
+Pablo Chance posts big blind 20
+Dealt to _SKR [4c 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Alexmew calls 10
+Pablo Chance raises 210 to 230 and is all-in
+Alexmew folds
+Pablo Chance collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 3: Pablo Chance (big blind) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675042340757831681-3-1673741429 - Holdem no limit (10/20) - 2023/01/15 00:10:29 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Alexmew (360)
+Seat 3: Pablo Chance (250)
+*** ANTE/BLINDS ***
+Pablo Chance posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h 8d]
+*** PRE-FLOP *** 
+Alexmew folds
+Pablo Chance calls 10
+_SKR checks
+*** FLOP *** [8c As 5c]
+Pablo Chance checks
+_SKR checks
+*** TURN *** [8c As 5c][Kd]
+Pablo Chance checks
+_SKR checks
+*** RIVER *** [8c As 5c Kd][Td]
+Pablo Chance checks
+_SKR checks
+*** SHOW DOWN ***
+Pablo Chance shows [4h 3c] (High card : Ace)
+_SKR shows [2h 8d] (One pair : 8)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [8c As 5c Kd Td]
+Seat 1: _SKR (big blind) showed [2h 8d] and won 40 with One pair : 8
+Seat 3: Pablo Chance (small blind) showed [4h 3c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675042340757831681-4-1673741464 - Holdem no limit (15/30) - 2023/01/15 00:11:04 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: Alexmew (360)
+Seat 3: Pablo Chance (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Alexmew posts big blind 30
+Dealt to _SKR [Kc Qs]
+*** PRE-FLOP *** 
+Pablo Chance folds
+_SKR raises 280 to 310 and is all-in
+Alexmew calls 280
+*** FLOP *** [Tc Qd 2d]
+*** TURN *** [Tc Qd 2d][7h]
+*** RIVER *** [Tc Qd 2d 7h][3s]
+*** SHOW DOWN ***
+Alexmew shows [As Th] (One pair : Tens)
+_SKR shows [Kc Qs] (One pair : Queens)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Tc Qd 2d 7h 3s]
+Seat 1: _SKR (small blind) showed [Kc Qs] and won 620 with One pair : Queens
+Seat 2: Alexmew (big blind) showed [As Th] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675042340757831681-5-1673741481 - Holdem no limit (15/30) - 2023/01/15 00:11:21 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (620)
+Seat 2: Alexmew (50)
+Seat 3: Pablo Chance (230)
+*** ANTE/BLINDS ***
+Alexmew posts small blind 15
+Pablo Chance posts big blind 30
+Dealt to _SKR [8s 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Alexmew folds
+Pablo Chance collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Pablo Chance (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675042340757831681-6-1673741486 - Holdem no limit (15/30) - 2023/01/15 00:11:26 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (620)
+Seat 2: Alexmew (35)
+Seat 3: Pablo Chance (245)
+*** ANTE/BLINDS ***
+Pablo Chance posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3s Qh]
+*** PRE-FLOP *** 
+Alexmew folds
+Pablo Chance calls 15
+_SKR checks
+*** FLOP *** [Kc Kd 2d]
+Pablo Chance checks
+_SKR checks
+*** TURN *** [Kc Kd 2d][9h]
+Pablo Chance checks
+_SKR checks
+*** RIVER *** [Kc Kd 2d 9h][Ts]
+Pablo Chance checks
+_SKR checks
+*** SHOW DOWN ***
+Pablo Chance shows [6s Jd] (One pair : Kings)
+_SKR shows [3s Qh] (One pair : Kings)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kc Kd 2d 9h Ts]
+Seat 1: _SKR (big blind) showed [3s Qh] and won 60 with One pair : Kings
+Seat 3: Pablo Chance (small blind) showed [6s Jd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675042340757831681-7-1673741511 - Holdem no limit (20/40) - 2023/01/15 00:11:51 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (650)
+Seat 2: Alexmew (35)
+Seat 3: Pablo Chance (215)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Alexmew posts big blind 35 and is all-in
+Dealt to _SKR [2c 7d]
+*** PRE-FLOP *** 
+Pablo Chance raises 180 to 215 and is all-in
+_SKR folds
+*** FLOP *** [3c 5h 6h]
+*** TURN *** [3c 5h 6h][3h]
+*** RIVER *** [3c 5h 6h 3h][Kh]
+*** SHOW DOWN ***
+Alexmew shows [6s 2h] (Flush King high)
+Pablo Chance shows [As Tc] (One pair : 3)
+Pablo Chance collected 180 from side pot 1
+Alexmew collected 90 from main pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [3c 5h 6h 3h Kh]
+Seat 2: Alexmew (big blind) showed [6s 2h] and won 90 with Flush King high
+Seat 3: Pablo Chance (button) showed [As Tc] and won 180 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675042340757831681-8-1673741524 - Holdem no limit (20/40) - 2023/01/15 00:12:04 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (630)
+Seat 2: Alexmew (90)
+Seat 3: Pablo Chance (180)
+*** ANTE/BLINDS ***
+Alexmew posts small blind 20
+Pablo Chance posts big blind 40
+Dealt to _SKR [Kc 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Alexmew raises 50 to 90 and is all-in
+Pablo Chance raises 90 to 180 and is all-in
+*** FLOP *** [3h 2c 9d]
+*** TURN *** [3h 2c 9d][Qc]
+*** RIVER *** [3h 2c 9d Qc][2d]
+*** SHOW DOWN ***
+Alexmew shows [7s 7c] (Two pairs : 7 and 2)
+Pablo Chance shows [3s Ks] (Two pairs : 3 and 2)
+Pablo Chance collected 90 from side pot 1
+Alexmew collected 180 from main pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [3h 2c 9d Qc 2d]
+Seat 2: Alexmew (small blind) showed [7s 7c] and won 180 with Two pairs : 7 and 2
+Seat 3: Pablo Chance (big blind) showed [3s Ks] and won 90 with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675042340757831681-9-1673741544 - Holdem no limit (20/40) - 2023/01/15 00:12:24 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (630)
+Seat 2: Alexmew (180)
+Seat 3: Pablo Chance (90)
+*** ANTE/BLINDS ***
+Pablo Chance posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9s As]
+*** PRE-FLOP *** 
+Alexmew folds
+Pablo Chance raises 50 to 90 and is all-in
+_SKR calls 50
+*** FLOP *** [9c 7s 7h]
+*** TURN *** [9c 7s 7h][6h]
+*** RIVER *** [9c 7s 7h 6h][8d]
+*** SHOW DOWN ***
+_SKR shows [9s As] (Two pairs : 9 and 7)
+Pablo Chance shows [Kc Kd] (Two pairs : Kings and 7)
+Pablo Chance collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9c 7s 7h 6h 8d]
+Seat 1: _SKR (big blind) showed [9s As] and lost with Two pairs : 9 and 7
+Seat 3: Pablo Chance (small blind) showed [Kc Kd] and won 180 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675042340757831681-10-1673741559 - Holdem no limit (20/40) - 2023/01/15 00:12:39 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (540)
+Seat 2: Alexmew (180)
+Seat 3: Pablo Chance (180)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Alexmew posts big blind 40
+Dealt to _SKR [8c 5s]
+*** PRE-FLOP *** 
+Pablo Chance raises 140 to 180 and is all-in
+_SKR folds
+Alexmew folds
+Pablo Chance collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: Pablo Chance (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675042340757831681-11-1673741567 - Holdem no limit (30/60) - 2023/01/15 00:12:47 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (520)
+Seat 2: Alexmew (140)
+Seat 3: Pablo Chance (240)
+*** ANTE/BLINDS ***
+Alexmew posts small blind 30
+Pablo Chance posts big blind 60
+Dealt to _SKR [Tc 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Alexmew folds
+Pablo Chance collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Pablo Chance (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675042340757831681-12-1673741574 - Holdem no limit (30/60) - 2023/01/15 00:12:54 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (520)
+Seat 2: Alexmew (110)
+Seat 3: Pablo Chance (270)
+*** ANTE/BLINDS ***
+Pablo Chance posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2s 9h]
+*** PRE-FLOP *** 
+Alexmew raises 50 to 110 and is all-in
+Pablo Chance calls 80
+_SKR folds
+*** FLOP *** [4d 6s 2d]
+*** TURN *** [4d 6s 2d][Js]
+*** RIVER *** [4d 6s 2d Js][4h]
+*** SHOW DOWN ***
+Pablo Chance shows [9s Qd] (One pair : 4)
+Alexmew shows [3d Ad] (One pair : 4)
+Alexmew collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [4d 6s 2d Js 4h]
+Seat 2: Alexmew (button) showed [3d Ad] and won 280 with One pair : 4
+Seat 3: Pablo Chance (small blind) showed [9s Qd] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675042340757831681-13-1673741589 - Holdem no limit (30/60) - 2023/01/15 00:13:09 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (460)
+Seat 2: Alexmew (280)
+Seat 3: Pablo Chance (160)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Alexmew posts big blind 60
+Dealt to _SKR [6s 3d]
+*** PRE-FLOP *** 
+Pablo Chance raises 100 to 160 and is all-in
+_SKR folds
+Alexmew calls 100
+*** FLOP *** [7s 5c As]
+*** TURN *** [7s 5c As][Qs]
+*** RIVER *** [7s 5c As Qs][3s]
+*** SHOW DOWN ***
+Pablo Chance shows [Kc 4c] (High card : Ace)
+Alexmew shows [Tc Ks] (Flush Ace high)
+Alexmew collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [7s 5c As Qs 3s]
+Seat 2: Alexmew (big blind) showed [Tc Ks] and won 350 with Flush Ace high
+Seat 3: Pablo Chance (button) showed [Kc 4c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675042340757831681-14-1673741602 - Holdem no limit (30/60) - 2023/01/15 00:13:22 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (430)
+Seat 2: Alexmew (470)
+*** ANTE/BLINDS ***
+Alexmew posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qd Jc]
+*** PRE-FLOP *** 
+Alexmew folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675042340757831681-15-1673741606 - Holdem no limit (30/60) - 2023/01/15 00:13:26 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (460)
+Seat 2: Alexmew (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Alexmew posts big blind 60
+Dealt to _SKR [5c 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Alexmew collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Alexmew (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675042340757831681-16-1673741609 - Holdem no limit (30/60) - 2023/01/15 00:13:29 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (430)
+Seat 2: Alexmew (470)
+*** ANTE/BLINDS ***
+Alexmew posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9c Qh]
+*** PRE-FLOP *** 
+Alexmew folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675042340757831681-17-1673741612 - Holdem no limit (30/60) - 2023/01/15 00:13:32 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (460)
+Seat 2: Alexmew (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Alexmew posts big blind 60
+Dealt to _SKR [8h Js]
+*** PRE-FLOP *** 
+_SKR folds
+Alexmew collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Alexmew (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675042340757831681-18-1673741616 - Holdem no limit (30/60) - 2023/01/15 00:13:36 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (430)
+Seat 2: Alexmew (470)
+*** ANTE/BLINDS ***
+Alexmew posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jc 7s]
+*** PRE-FLOP *** 
+Alexmew folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675042340757831681-19-1673741619 - Holdem no limit (30/60) - 2023/01/15 00:13:39 UTC
+Table: 'Expresso Nitro(622831830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (460)
+Seat 2: Alexmew (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Alexmew posts big blind 60
+Dealt to _SKR [Ts Ac]
+*** PRE-FLOP *** 
+_SKR raises 400 to 460 and is all-in
+Alexmew calls 380 and is all-in
+*** FLOP *** [Td Kc 5d]
+*** TURN *** [Td Kc 5d][9h]
+*** RIVER *** [Td Kc 5d 9h][3c]
+*** SHOW DOWN ***
+Alexmew shows [Ad 3s] (One pair : 3)
+_SKR shows [Ts Ac] (One pair : Tens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td Kc 5d 9h 3c]
+Seat 1: _SKR (small blind) (button) showed [Ts Ac] and won 900 with One pair : Tens
+Seat 2: Alexmew (big blind) showed [Ad 3s] and lost with One pair : 3
+
+

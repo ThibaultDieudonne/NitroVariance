@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729590207828459521-1-1676921190 - Holdem no limit (10/20) - 2023/02/20 19:26:30 UTC
+Table: 'Expresso Nitro(635532245)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gogo44260 (300)
+Seat 2: _SKR (300)
+Seat 3: Carte rose19 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Carte rose19 posts big blind 20
+Dealt to _SKR [Th 9c]
+*** PRE-FLOP *** 
+Gogo44260 calls 20
+_SKR folds
+Carte rose19 raises 20 to 40
+Gogo44260 calls 20
+*** FLOP *** [5s Qh 6s]
+Carte rose19 bets 59
+Gogo44260 raises 201 to 260 and is all-in
+Carte rose19 folds
+Gogo44260 collected 409 from pot
+*** SUMMARY ***
+Total pot 409 | No rake
+Board: [5s Qh 6s]
+Seat 1: Gogo44260 (button) won 409
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729590207828459521-2-1676921214 - Holdem no limit (10/20) - 2023/02/20 19:26:54 UTC
+Table: 'Expresso Nitro(635532245)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gogo44260 (409)
+Seat 2: _SKR (290)
+Seat 3: Carte rose19 (201)
+*** ANTE/BLINDS ***
+Carte rose19 posts small blind 10
+Gogo44260 posts big blind 20
+Dealt to _SKR [2c Jc]
+*** PRE-FLOP *** 
+_SKR folds
+Carte rose19 calls 10
+Gogo44260 checks
+*** FLOP *** [Ks Ts Ah]
+Carte rose19 checks
+Gogo44260 checks
+*** TURN *** [Ks Ts Ah][6h]
+Carte rose19 bets 26
+Gogo44260 calls 26
+*** RIVER *** [Ks Ts Ah 6h][Jh]
+Carte rose19 bets 155 and is all-in
+Gogo44260 folds
+Carte rose19 collected 247 from pot
+*** SUMMARY ***
+Total pot 247 | No rake
+Board: [Ks Ts Ah 6h Jh]
+Seat 3: Carte rose19 (small blind) won 247
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729590207828459521-3-1676921247 - Holdem no limit (15/30) - 2023/02/20 19:27:27 UTC
+Table: 'Expresso Nitro(635532245)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gogo44260 (363)
+Seat 2: _SKR (290)
+Seat 3: Carte rose19 (247)
+*** ANTE/BLINDS ***
+Gogo44260 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4d 6c]
+*** PRE-FLOP *** 
+Carte rose19 raises 30 to 60
+Gogo44260 folds
+_SKR folds
+Carte rose19 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: Carte rose19 (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729590207828459521-4-1676921264 - Holdem no limit (15/30) - 2023/02/20 19:27:44 UTC
+Table: 'Expresso Nitro(635532245)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gogo44260 (348)
+Seat 2: _SKR (260)
+Seat 3: Carte rose19 (292)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Carte rose19 posts big blind 30
+Dealt to _SKR [3s 3d]
+*** PRE-FLOP *** 
+Gogo44260 calls 30
+_SKR raises 230 to 260 and is all-in
+Carte rose19 folds
+Gogo44260 calls 230
+*** FLOP *** [Ac 8d 3h]
+*** TURN *** [Ac 8d 3h][7c]
+*** RIVER *** [Ac 8d 3h 7c][5h]
+*** SHOW DOWN ***
+_SKR shows [3s 3d] (Trips of 3)
+Gogo44260 shows [2d 4d] (Straight 5 high)
+Gogo44260 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Ac 8d 3h 7c 5h]
+Seat 1: Gogo44260 (button) showed [2d 4d] and won 550 with Straight 5 high
+Seat 2: _SKR (small blind) showed [3s 3d] and lost with Trips of 3
+
+

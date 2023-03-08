@@ -1,0 +1,61 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697285400858198017-1-1675116330 - Holdem no limit (10/20) - 2023/01/30 22:05:30 UTC
+Table: 'Expresso Nitro(628010696)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Soso076 (300)
+Seat 3: Mortyzer (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Soso076 posts big blind 20
+Dealt to _SKR [5c 4c]
+*** PRE-FLOP *** 
+Mortyzer raises 20 to 40
+_SKR folds
+Soso076 calls 20
+*** FLOP *** [Th 3c 7h]
+Soso076 checks
+Mortyzer bets 20
+Soso076 calls 20
+*** TURN *** [Th 3c 7h][8s]
+Soso076 checks
+Mortyzer checks
+*** RIVER *** [Th 3c 7h 8s][9d]
+Soso076 checks
+Mortyzer checks
+*** SHOW DOWN ***
+Mortyzer shows [Kd 7d] (One pair : 7)
+Soso076 shows [Qd 9c] (One pair : 9)
+Soso076 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [Th 3c 7h 8s 9d]
+Seat 2: Soso076 (big blind) showed [Qd 9c] and won 130 with One pair : 9
+Seat 3: Mortyzer (button) showed [Kd 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697285400858198017-2-1675116351 - Holdem no limit (10/20) - 2023/01/30 22:05:51 UTC
+Table: 'Expresso Nitro(628010696)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Soso076 (370)
+Seat 3: Mortyzer (240)
+*** ANTE/BLINDS ***
+Soso076 posts small blind 10
+Mortyzer posts big blind 20
+Dealt to _SKR [Ks Qh]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Soso076 calls 280
+Mortyzer folds
+*** FLOP *** [Ac 9h 8s]
+*** TURN *** [Ac 9h 8s][6d]
+*** RIVER *** [Ac 9h 8s 6d][3h]
+*** SHOW DOWN ***
+_SKR shows [Ks Qh] (High card : Ace)
+Soso076 shows [Ad Jh] (One pair : Aces)
+Soso076 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ac 9h 8s 6d 3h]
+Seat 1: _SKR (button) showed [Ks Qh] and lost with High card : Ace
+Seat 2: Soso076 (small blind) showed [Ad Jh] and won 600 with One pair : Aces
+
+

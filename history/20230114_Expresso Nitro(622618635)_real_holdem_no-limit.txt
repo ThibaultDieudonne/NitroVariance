@@ -1,0 +1,374 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674126675205160961-1-1673702338 - Holdem no limit (10/20) - 2023/01/14 13:18:58 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MAMACITAPOKE (300)
+Seat 2: Dje1985 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MAMACITAPOKE posts big blind 20
+Dealt to _SKR [6c 9s]
+*** PRE-FLOP *** 
+Dje1985 calls 20
+_SKR folds
+MAMACITAPOKE checks
+*** FLOP *** [4h 9h 6d]
+MAMACITAPOKE checks
+Dje1985 checks
+*** TURN *** [4h 9h 6d][7s]
+MAMACITAPOKE checks
+Dje1985 checks
+*** RIVER *** [4h 9h 6d 7s][5s]
+MAMACITAPOKE checks
+Dje1985 bets 20
+MAMACITAPOKE calls 20
+*** SHOW DOWN ***
+MAMACITAPOKE shows [4d Th] (One pair : 4)
+Dje1985 shows [Ac 3d] (Straight 7 high)
+Dje1985 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [4h 9h 6d 7s 5s]
+Seat 1: MAMACITAPOKE (big blind) showed [4d Th] and lost with One pair : 4
+Seat 2: Dje1985 (button) showed [Ac 3d] and won 90 with Straight 7 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674126675205160961-2-1673702367 - Holdem no limit (10/20) - 2023/01/14 13:19:27 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MAMACITAPOKE (260)
+Seat 2: Dje1985 (350)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+MAMACITAPOKE posts small blind 10
+Dje1985 posts big blind 20
+Dealt to _SKR [2c Qs]
+*** PRE-FLOP *** 
+_SKR folds
+MAMACITAPOKE calls 10
+Dje1985 checks
+*** FLOP *** [Ad 3d Ah]
+MAMACITAPOKE checks
+Dje1985 bets 20
+MAMACITAPOKE calls 20
+*** TURN *** [Ad 3d Ah][7c]
+MAMACITAPOKE checks
+Dje1985 checks
+*** RIVER *** [Ad 3d Ah 7c][As]
+MAMACITAPOKE bets 30
+Dje1985 raises 30 to 60
+MAMACITAPOKE calls 30
+*** SHOW DOWN ***
+Dje1985 shows [9d 6c] (Trips of Aces)
+MAMACITAPOKE shows [Tc Qc] (Trips of Aces)
+MAMACITAPOKE collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Ad 3d Ah 7c As]
+Seat 1: MAMACITAPOKE (small blind) showed [Tc Qc] and won 200 with Trips of Aces
+Seat 2: Dje1985 (big blind) showed [9d 6c] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674126675205160961-3-1673702391 - Holdem no limit (10/20) - 2023/01/14 13:19:51 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MAMACITAPOKE (360)
+Seat 2: Dje1985 (250)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Dje1985 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 4h]
+*** PRE-FLOP *** 
+MAMACITAPOKE calls 20
+Dje1985 calls 10
+_SKR checks
+*** FLOP *** [9h Jc 3h]
+Dje1985 checks
+_SKR checks
+MAMACITAPOKE bets 30
+Dje1985 calls 30
+_SKR folds
+*** TURN *** [9h Jc 3h][Qc]
+Dje1985 checks
+MAMACITAPOKE checks
+*** RIVER *** [9h Jc 3h Qc][8d]
+Dje1985 bets 120
+MAMACITAPOKE calls 120
+*** SHOW DOWN ***
+Dje1985 shows [7c 8s] (One pair : 8)
+MAMACITAPOKE shows [9s Ac] (One pair : 9)
+MAMACITAPOKE collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [9h Jc 3h Qc 8d]
+Seat 1: MAMACITAPOKE (button) showed [9s Ac] and won 360 with One pair : 9
+Seat 2: Dje1985 (small blind) showed [7c 8s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674126675205160961-4-1673702439 - Holdem no limit (15/30) - 2023/01/14 13:20:39 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MAMACITAPOKE (550)
+Seat 2: Dje1985 (80)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+MAMACITAPOKE posts big blind 30
+Dealt to _SKR [Qh 8s]
+*** PRE-FLOP *** 
+Dje1985 raises 30 to 60
+_SKR calls 45
+MAMACITAPOKE calls 30
+*** FLOP *** [Th 3h 3s]
+_SKR checks
+MAMACITAPOKE bets 60
+Dje1985 calls 20 and is all-in
+_SKR folds
+*** TURN *** [Th 3h 3s][Jh]
+*** RIVER *** [Th 3h 3s Jh][6s]
+*** SHOW DOWN ***
+MAMACITAPOKE shows [6d 7c] (Two pairs : 6 and 3)
+Dje1985 shows [Ah Jd] (Two pairs : Jacks and 3)
+Dje1985 collected 220 from main pot
+MAMACITAPOKE collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [Th 3h 3s Jh 6s]
+Seat 1: MAMACITAPOKE (big blind) showed [6d 7c] and won 40 with Two pairs : 6 and 3
+Seat 2: Dje1985 (button) showed [Ah Jd] and won 220 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674126675205160961-5-1673702467 - Holdem no limit (20/40) - 2023/01/14 13:21:07 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MAMACITAPOKE (470)
+Seat 2: Dje1985 (220)
+Seat 3: _SKR (210)
+*** ANTE/BLINDS ***
+MAMACITAPOKE posts small blind 20
+Dje1985 posts big blind 40
+Dealt to _SKR [4d 3s]
+*** PRE-FLOP *** 
+_SKR folds
+MAMACITAPOKE folds
+Dje1985 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Dje1985 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674126675205160961-6-1673702478 - Holdem no limit (20/40) - 2023/01/14 13:21:18 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MAMACITAPOKE (450)
+Seat 2: Dje1985 (240)
+Seat 3: _SKR (210)
+*** ANTE/BLINDS ***
+Dje1985 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3h 6h]
+*** PRE-FLOP *** 
+MAMACITAPOKE raises 410 to 450 and is all-in
+Dje1985 folds
+_SKR folds
+MAMACITAPOKE collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 1: MAMACITAPOKE (button) won 510
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674126675205160961-7-1673702492 - Holdem no limit (20/40) - 2023/01/14 13:21:32 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MAMACITAPOKE (510)
+Seat 2: Dje1985 (220)
+Seat 3: _SKR (170)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+MAMACITAPOKE posts big blind 40
+Dealt to _SKR [9c Jd]
+*** PRE-FLOP *** 
+Dje1985 calls 40
+_SKR raises 130 to 170 and is all-in
+MAMACITAPOKE folds
+Dje1985 calls 130
+*** FLOP *** [7d Th Jc]
+*** TURN *** [7d Th Jc][Qd]
+*** RIVER *** [7d Th Jc Qd][4s]
+*** SHOW DOWN ***
+Dje1985 shows [5h Kc] (High card : King)
+_SKR shows [9c Jd] (One pair : Jacks)
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [7d Th Jc Qd 4s]
+Seat 2: Dje1985 (button) showed [5h Kc] and lost with High card : King
+Seat 3: _SKR (small blind) showed [9c Jd] and won 380 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674126675205160961-8-1673702516 - Holdem no limit (30/60) - 2023/01/14 13:21:56 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MAMACITAPOKE (470)
+Seat 2: Dje1985 (50)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+MAMACITAPOKE posts small blind 30
+Dje1985 posts big blind 50 and is all-in
+Dealt to _SKR [Td 3s]
+*** PRE-FLOP *** 
+_SKR folds
+MAMACITAPOKE calls 30
+*** FLOP *** [Kd 4d 2c]
+*** TURN *** [Kd 4d 2c][Ks]
+*** RIVER *** [Kd 4d 2c Ks][Tc]
+*** SHOW DOWN ***
+MAMACITAPOKE shows [Qs Jc] (One pair : Kings)
+Dje1985 shows [7d Ad] (One pair : Kings)
+Dje1985 collected 100 from main pot
+MAMACITAPOKE collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [Kd 4d 2c Ks Tc]
+Seat 1: MAMACITAPOKE (small blind) showed [Qs Jc] and won 10 with One pair : Kings
+Seat 2: Dje1985 (big blind) showed [7d Ad] and won 100 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674126675205160961-9-1673702532 - Holdem no limit (30/60) - 2023/01/14 13:22:12 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MAMACITAPOKE (420)
+Seat 2: Dje1985 (100)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+Dje1985 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3c As]
+*** PRE-FLOP *** 
+MAMACITAPOKE folds
+Dje1985 calls 30
+_SKR raises 320 to 380 and is all-in
+Dje1985 calls 40 and is all-in
+*** FLOP *** [Jd Tc 8c]
+*** TURN *** [Jd Tc 8c][4h]
+*** RIVER *** [Jd Tc 8c 4h][5c]
+*** SHOW DOWN ***
+Dje1985 shows [4c Qh] (One pair : 4)
+_SKR shows [3c As] (High card : Ace)
+_SKR collected 280 from side pot 1
+Dje1985 collected 200 from main pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Jd Tc 8c 4h 5c]
+Seat 2: Dje1985 (small blind) showed [4c Qh] and won 200 with One pair : 4
+Seat 3: _SKR (big blind) showed [3c As] and won 280 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674126675205160961-10-1673702551 - Holdem no limit (30/60) - 2023/01/14 13:22:31 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MAMACITAPOKE (420)
+Seat 2: Dje1985 (200)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+MAMACITAPOKE posts big blind 60
+Dealt to _SKR [Qh 5s]
+*** PRE-FLOP *** 
+Dje1985 folds
+_SKR raises 220 to 280 and is all-in
+MAMACITAPOKE folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2674126675205160961-11-1673702574 - Holdem no limit (40/80) - 2023/01/14 13:22:54 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MAMACITAPOKE (360)
+Seat 2: Dje1985 (200)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+MAMACITAPOKE posts small blind 40
+Dje1985 posts big blind 80
+Dealt to _SKR [8d 6h]
+*** PRE-FLOP *** 
+_SKR folds
+MAMACITAPOKE folds
+Dje1985 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Dje1985 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2674126675205160961-12-1673702583 - Holdem no limit (40/80) - 2023/01/14 13:23:03 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MAMACITAPOKE (320)
+Seat 2: Dje1985 (240)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+Dje1985 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [5c 5s]
+*** PRE-FLOP *** 
+MAMACITAPOKE folds
+Dje1985 calls 40
+_SKR raises 260 to 340 and is all-in
+Dje1985 calls 160 and is all-in
+*** FLOP *** [2d 8h 3d]
+*** TURN *** [2d 8h 3d][9c]
+*** RIVER *** [2d 8h 3d 9c][Ac]
+*** SHOW DOWN ***
+Dje1985 shows [Ad Kc] (One pair : Aces)
+_SKR shows [5c 5s] (One pair : 5)
+_SKR collected 100 from side pot 1
+Dje1985 collected 480 from main pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [2d 8h 3d 9c Ac]
+Seat 2: Dje1985 (small blind) showed [Ad Kc] and won 480 with One pair : Aces
+Seat 3: _SKR (big blind) showed [5c 5s] and won 100 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2674126675205160961-13-1673702601 - Holdem no limit (40/80) - 2023/01/14 13:23:21 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MAMACITAPOKE (320)
+Seat 2: Dje1985 (480)
+Seat 3: _SKR (100)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+MAMACITAPOKE posts big blind 80
+Dealt to _SKR [3d 4s]
+*** PRE-FLOP *** 
+Dje1985 calls 80
+_SKR folds
+MAMACITAPOKE checks
+*** FLOP *** [Qc 3s Th]
+MAMACITAPOKE checks
+Dje1985 bets 80
+MAMACITAPOKE folds
+Dje1985 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Qc 3s Th]
+Seat 2: Dje1985 (button) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2674126675205160961-14-1673702620 - Holdem no limit (40/80) - 2023/01/14 13:23:40 UTC
+Table: 'Expresso Nitro(622618635)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MAMACITAPOKE (240)
+Seat 2: Dje1985 (600)
+Seat 3: _SKR (60)
+*** ANTE/BLINDS ***
+MAMACITAPOKE posts small blind 40
+Dje1985 posts big blind 80
+Dealt to _SKR [As 7s]
+*** PRE-FLOP *** 
+_SKR calls 60 and is all-in
+MAMACITAPOKE folds
+*** FLOP *** [9d 9h 9c]
+*** TURN *** [9d 9h 9c][5h]
+*** RIVER *** [9d 9h 9c 5h][2d]
+*** SHOW DOWN ***
+_SKR shows [As 7s] (Trips of 9)
+Dje1985 shows [Ks Kc] (Full of 9 and Kings)
+Dje1985 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9d 9h 9c 5h 2d]
+Seat 2: Dje1985 (big blind) showed [Ks Kc] and won 180 with Full of 9 and Kings
+Seat 3: _SKR (button) showed [As 7s] and lost with Trips of 9
+
+

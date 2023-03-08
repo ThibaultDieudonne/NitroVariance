@@ -1,0 +1,116 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730582164885209089-1-1676986879 - Holdem no limit (10/20) - 2023/02/21 13:41:19 UTC
+Table: 'Expresso Nitro(635763203)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rusteen40 (300)
+Seat 2: moumoudu13 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Rusteen40 posts big blind 20
+Dealt to _SKR [9c 8d]
+*** PRE-FLOP *** 
+moumoudu13 calls 20
+_SKR folds
+Rusteen40 checks
+*** FLOP *** [Kd 4c Td]
+Rusteen40 checks
+moumoudu13 bets 40
+Rusteen40 calls 40
+*** TURN *** [Kd 4c Td][Qs]
+Rusteen40 checks
+moumoudu13 bets 50
+Rusteen40 calls 50
+*** RIVER *** [Kd 4c Td Qs][2s]
+Rusteen40 checks
+moumoudu13 checks
+*** SHOW DOWN ***
+Rusteen40 shows [Qc Jd] (One pair : Queens)
+moumoudu13 shows [Ks 9d] (One pair : Kings)
+moumoudu13 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Board: [Kd 4c Td Qs 2s]
+Seat 1: Rusteen40 (big blind) showed [Qc Jd] and lost with One pair : Queens
+Seat 2: moumoudu13 (button) showed [Ks 9d] and won 230 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730582164885209089-2-1676986903 - Holdem no limit (10/20) - 2023/02/21 13:41:43 UTC
+Table: 'Expresso Nitro(635763203)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rusteen40 (190)
+Seat 2: moumoudu13 (420)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Rusteen40 posts small blind 10
+moumoudu13 posts big blind 20
+Dealt to _SKR [5d 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Rusteen40 calls 10
+moumoudu13 checks
+*** FLOP *** [3h 9d 7h]
+Rusteen40 checks
+moumoudu13 bets 160
+Rusteen40 folds
+moumoudu13 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [3h 9d 7h]
+Seat 2: moumoudu13 (big blind) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730582164885209089-3-1676986920 - Holdem no limit (10/20) - 2023/02/21 13:42:00 UTC
+Table: 'Expresso Nitro(635763203)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rusteen40 (170)
+Seat 2: moumoudu13 (440)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+moumoudu13 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac Th]
+*** PRE-FLOP *** 
+Rusteen40 calls 20
+moumoudu13 calls 10
+_SKR raises 270 to 290 and is all-in
+Rusteen40 calls 150 and is all-in
+moumoudu13 folds
+*** FLOP *** [Qd Kc Qh]
+*** TURN *** [Qd Kc Qh][3d]
+*** RIVER *** [Qd Kc Qh 3d][2c]
+*** SHOW DOWN ***
+Rusteen40 shows [4c Ks] (Two pairs : Kings and Queens)
+_SKR shows [Ac Th] (One pair : Queens)
+_SKR collected 120 from side pot 1
+Rusteen40 collected 360 from main pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qd Kc Qh 3d 2c]
+Seat 1: Rusteen40 (button) showed [4c Ks] and won 360 with Two pairs : Kings and Queens
+Seat 3: _SKR (big blind) showed [Ac Th] and won 120 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730582164885209089-4-1676986935 - Holdem no limit (15/30) - 2023/02/21 13:42:15 UTC
+Table: 'Expresso Nitro(635763203)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rusteen40 (360)
+Seat 2: moumoudu13 (420)
+Seat 3: _SKR (120)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Rusteen40 posts big blind 30
+Dealt to _SKR [Th Jd]
+*** PRE-FLOP *** 
+moumoudu13 folds
+_SKR raises 90 to 120 and is all-in
+Rusteen40 calls 90
+*** FLOP *** [5c 2d 6s]
+*** TURN *** [5c 2d 6s][9h]
+*** RIVER *** [5c 2d 6s 9h][8h]
+*** SHOW DOWN ***
+_SKR shows [Th Jd] (High card : Jack)
+Rusteen40 shows [8c As] (One pair : 8)
+Rusteen40 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5c 2d 6s 9h 8h]
+Seat 1: Rusteen40 (big blind) showed [8c As] and won 240 with One pair : 8
+Seat 3: _SKR (small blind) showed [Th Jd] and lost with High card : Jack
+
+

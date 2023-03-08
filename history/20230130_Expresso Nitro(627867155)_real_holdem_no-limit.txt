@@ -1,0 +1,444 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696668896957562881-1-1675092567 - Holdem no limit (10/20) - 2023/01/30 15:29:27 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: parphil02 (300)
+Seat 3: BedMt (300)
+*** ANTE/BLINDS ***
+BedMt posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 2h]
+*** PRE-FLOP *** 
+parphil02 calls 20
+BedMt calls 10
+_SKR checks
+*** FLOP *** [Ts 9d 6d]
+BedMt checks
+_SKR checks
+parphil02 checks
+*** TURN *** [Ts 9d 6d][Js]
+BedMt checks
+_SKR checks
+parphil02 bets 20
+BedMt calls 20
+_SKR folds
+*** RIVER *** [Ts 9d 6d Js][2d]
+BedMt checks
+parphil02 checks
+*** SHOW DOWN ***
+parphil02 shows [As 5h] (High card : Ace)
+BedMt shows [Tc Kc] (One pair : Tens)
+BedMt collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ts 9d 6d Js 2d]
+Seat 2: parphil02 (button) showed [As 5h] and lost with High card : Ace
+Seat 3: BedMt (small blind) showed [Tc Kc] and won 100 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696668896957562881-2-1675092607 - Holdem no limit (10/20) - 2023/01/30 15:30:07 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: parphil02 (260)
+Seat 3: BedMt (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+parphil02 posts big blind 20
+Dealt to _SKR [6h 4c]
+*** PRE-FLOP *** 
+BedMt calls 20
+_SKR folds
+parphil02 raises 30 to 50
+BedMt folds
+parphil02 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: parphil02 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696668896957562881-3-1675092620 - Holdem no limit (10/20) - 2023/01/30 15:30:20 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: parphil02 (290)
+Seat 3: BedMt (340)
+*** ANTE/BLINDS ***
+parphil02 posts small blind 10
+BedMt posts big blind 20
+Dealt to _SKR [3s Ks]
+*** PRE-FLOP *** 
+_SKR folds
+parphil02 calls 10
+BedMt checks
+*** FLOP *** [Qs Qd 3h]
+parphil02 checks
+BedMt checks
+*** TURN *** [Qs Qd 3h][Td]
+parphil02 checks
+BedMt bets 20
+parphil02 calls 20
+*** RIVER *** [Qs Qd 3h Td][5s]
+parphil02 bets 80
+BedMt folds
+parphil02 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Qs Qd 3h Td 5s]
+Seat 2: parphil02 (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696668896957562881-4-1675092650 - Holdem no limit (15/30) - 2023/01/30 15:30:50 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: parphil02 (330)
+Seat 3: BedMt (300)
+*** ANTE/BLINDS ***
+BedMt posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3h 4h]
+*** PRE-FLOP *** 
+parphil02 folds
+BedMt calls 15
+_SKR checks
+*** FLOP *** [4c Jh Tc]
+BedMt checks
+_SKR checks
+*** TURN *** [4c Jh Tc][Kc]
+BedMt checks
+_SKR checks
+*** RIVER *** [4c Jh Tc Kc][Td]
+BedMt checks
+_SKR checks
+*** SHOW DOWN ***
+BedMt shows [8s 9c] (One pair : Tens)
+_SKR shows [3h 4h] (Two pairs : Tens and 4)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [4c Jh Tc Kc Td]
+Seat 1: _SKR (big blind) showed [3h 4h] and won 60 with Two pairs : Tens and 4
+Seat 3: BedMt (small blind) showed [8s 9c] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696668896957562881-5-1675092680 - Holdem no limit (15/30) - 2023/01/30 15:31:20 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: parphil02 (330)
+Seat 3: BedMt (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+parphil02 posts big blind 30
+Dealt to _SKR [3s Qd]
+*** PRE-FLOP *** 
+BedMt calls 30
+_SKR folds
+parphil02 checks
+*** FLOP *** [9s 4c 5s]
+parphil02 bets 30
+BedMt raises 210 to 240 and is all-in
+parphil02 calls 210
+*** TURN *** [9s 4c 5s][8s]
+*** RIVER *** [9s 4c 5s 8s][3c]
+*** SHOW DOWN ***
+parphil02 shows [6d 9c] (One pair : 9)
+BedMt shows [8d 9d] (Two pairs : 9 and 8)
+BedMt collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [9s 4c 5s 8s 3c]
+Seat 2: parphil02 (big blind) showed [6d 9c] and lost with One pair : 9
+Seat 3: BedMt (button) showed [8d 9d] and won 555 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696668896957562881-6-1675092699 - Holdem no limit (20/40) - 2023/01/30 15:31:39 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (285)
+Seat 2: parphil02 (60)
+Seat 3: BedMt (555)
+*** ANTE/BLINDS ***
+parphil02 posts small blind 20
+BedMt posts big blind 40
+Dealt to _SKR [4s As]
+*** PRE-FLOP *** 
+_SKR raises 245 to 285 and is all-in
+parphil02 folds
+BedMt folds
+_SKR collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 1: _SKR (button) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696668896957562881-7-1675092707 - Holdem no limit (20/40) - 2023/01/30 15:31:47 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (345)
+Seat 2: parphil02 (40)
+Seat 3: BedMt (515)
+*** ANTE/BLINDS ***
+BedMt posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s Th]
+*** PRE-FLOP *** 
+parphil02 calls 40 and is all-in
+BedMt calls 20
+_SKR checks
+*** FLOP *** [8s 2c Jd]
+BedMt checks
+_SKR checks
+*** TURN *** [8s 2c Jd][3h]
+BedMt checks
+_SKR checks
+*** RIVER *** [8s 2c Jd 3h][3d]
+BedMt checks
+_SKR checks
+*** SHOW DOWN ***
+parphil02 shows [4c 7d] (One pair : 3)
+_SKR shows [4s Th] (One pair : 3)
+BedMt shows [Tc 7c] (One pair : 3)
+BedMt collected 60 from pot
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8s 2c Jd 3h 3d]
+Seat 1: _SKR (big blind) showed [4s Th] and won 60 with One pair : 3
+Seat 2: parphil02 (button) showed [4c 7d] and lost with One pair : 3
+Seat 3: BedMt (small blind) showed [Tc 7c] and won 60 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696668896957562881-8-1675092733 - Holdem no limit (20/40) - 2023/01/30 15:32:13 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (365)
+Seat 3: BedMt (535)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+BedMt posts big blind 40
+Dealt to _SKR [6s Js]
+*** PRE-FLOP *** 
+_SKR raises 325 to 365 and is all-in
+BedMt folds
+_SKR collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Seat 1: _SKR (small blind) (button) won 405
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696668896957562881-9-1675092739 - Holdem no limit (20/40) - 2023/01/30 15:32:19 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (405)
+Seat 3: BedMt (495)
+*** ANTE/BLINDS ***
+BedMt posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5d 3s]
+*** PRE-FLOP *** 
+BedMt calls 20
+_SKR checks
+*** FLOP *** [Ks Qd 4s]
+_SKR checks
+BedMt bets 40
+_SKR folds
+BedMt collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ks Qd 4s]
+Seat 3: BedMt (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696668896957562881-10-1675092752 - Holdem no limit (30/60) - 2023/01/30 15:32:32 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (365)
+Seat 3: BedMt (535)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+BedMt posts big blind 60
+Dealt to _SKR [6h Js]
+*** PRE-FLOP *** 
+_SKR raises 305 to 365 and is all-in
+BedMt folds
+_SKR collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 1: _SKR (small blind) (button) won 425
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696668896957562881-11-1675092764 - Holdem no limit (30/60) - 2023/01/30 15:32:44 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (425)
+Seat 3: BedMt (475)
+*** ANTE/BLINDS ***
+BedMt posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c 7d]
+*** PRE-FLOP *** 
+BedMt calls 30
+_SKR checks
+*** FLOP *** [Jd 5d Th]
+_SKR checks
+BedMt checks
+*** TURN *** [Jd 5d Th][3c]
+_SKR bets 60
+BedMt folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Jd 5d Th 3c]
+Seat 1: _SKR (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696668896957562881-12-1675092794 - Holdem no limit (30/60) - 2023/01/30 15:33:14 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (485)
+Seat 3: BedMt (415)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+BedMt posts big blind 60
+Dealt to _SKR [Td Ad]
+*** PRE-FLOP *** 
+_SKR raises 425 to 485 and is all-in
+BedMt folds
+_SKR collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Seat 1: _SKR (small blind) (button) won 545
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696668896957562881-13-1675092799 - Holdem no limit (30/60) - 2023/01/30 15:33:19 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (545)
+Seat 3: BedMt (355)
+*** ANTE/BLINDS ***
+BedMt posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [6s Ts]
+*** PRE-FLOP *** 
+BedMt folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696668896957562881-14-1675092803 - Holdem no limit (40/80) - 2023/01/30 15:33:23 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (575)
+Seat 3: BedMt (325)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+BedMt posts big blind 80
+Dealt to _SKR [Qs Kc]
+*** PRE-FLOP *** 
+_SKR raises 495 to 575 and is all-in
+BedMt calls 245 and is all-in
+*** FLOP *** [9s 3s 5s]
+*** TURN *** [9s 3s 5s][6h]
+*** RIVER *** [9s 3s 5s 6h][Ac]
+*** SHOW DOWN ***
+_SKR shows [Qs Kc] (High card : Ace)
+BedMt shows [9c Ah] (Two pairs : Aces and 9)
+BedMt collected 650 from main pot
+_SKR collected 250 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 3s 5s 6h Ac]
+Seat 1: _SKR (small blind) (button) showed [Qs Kc] and won 250 with High card : Ace
+Seat 3: BedMt (big blind) showed [9c Ah] and won 650 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696668896957562881-15-1675092814 - Holdem no limit (40/80) - 2023/01/30 15:33:34 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (250)
+Seat 3: BedMt (650)
+*** ANTE/BLINDS ***
+BedMt posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [6s 5c]
+*** PRE-FLOP *** 
+BedMt raises 570 to 650 and is all-in
+_SKR calls 170 and is all-in
+*** FLOP *** [Kd 8c Qh]
+*** TURN *** [Kd 8c Qh][5s]
+*** RIVER *** [Kd 8c Qh 5s][5d]
+*** SHOW DOWN ***
+_SKR shows [6s 5c] (Trips of 5)
+BedMt shows [Kh Jd] (Two pairs : Kings and 5)
+BedMt collected 400 from side pot 1
+_SKR collected 500 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd 8c Qh 5s 5d]
+Seat 1: _SKR (big blind) showed [6s 5c] and won 500 with Trips of 5
+Seat 3: BedMt (small blind) (button) showed [Kh Jd] and won 400 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696668896957562881-16-1675092825 - Holdem no limit (40/80) - 2023/01/30 15:33:45 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (500)
+Seat 3: BedMt (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+BedMt posts big blind 80
+Dealt to _SKR [Ac 5h]
+*** PRE-FLOP *** 
+_SKR raises 420 to 500 and is all-in
+BedMt folds
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 1: _SKR (small blind) (button) won 580
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696668896957562881-17-1675092830 - Holdem no limit (40/80) - 2023/01/30 15:33:50 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (580)
+Seat 3: BedMt (320)
+*** ANTE/BLINDS ***
+BedMt posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3h Kc]
+*** PRE-FLOP *** 
+BedMt folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696668896957562881-18-1675092834 - Holdem no limit (40/80) - 2023/01/30 15:33:54 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (620)
+Seat 3: BedMt (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+BedMt posts big blind 80
+Dealt to _SKR [4s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+BedMt collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: BedMt (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696668896957562881-19-1675092838 - Holdem no limit (40/80) - 2023/01/30 15:33:58 UTC
+Table: 'Expresso Nitro(627867155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (580)
+Seat 3: BedMt (320)
+*** ANTE/BLINDS ***
+BedMt posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Qh 6d]
+*** PRE-FLOP *** 
+BedMt raises 240 to 320 and is all-in
+_SKR calls 240
+*** FLOP *** [5d Qc Kc]
+*** TURN *** [5d Qc Kc][Js]
+*** RIVER *** [5d Qc Kc Js][9s]
+*** SHOW DOWN ***
+BedMt shows [5s Ad] (One pair : 5)
+_SKR shows [Qh 6d] (One pair : Queens)
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [5d Qc Kc Js 9s]
+Seat 1: _SKR (big blind) showed [Qh 6d] and won 640 with One pair : Queens
+Seat 3: BedMt (small blind) (button) showed [5s Ad] and lost with One pair : 5
+
+

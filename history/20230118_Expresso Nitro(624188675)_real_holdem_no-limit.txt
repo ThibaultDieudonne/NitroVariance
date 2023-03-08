@@ -1,0 +1,48 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680869945658572801-1-1674082700 - Holdem no limit (10/20) - 2023/01/18 22:58:20 UTC
+Table: 'Expresso Nitro(624188675)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Rikinho89 (300)
+Seat 3: Job-Legend (300)
+*** ANTE/BLINDS ***
+Rikinho89 posts small blind 10
+Job-Legend posts big blind 20
+Dealt to _SKR [Td 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Rikinho89 folds
+Job-Legend collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Job-Legend (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680869945658572801-2-1674082705 - Holdem no limit (10/20) - 2023/01/18 22:58:25 UTC
+Table: 'Expresso Nitro(624188675)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Rikinho89 (290)
+Seat 3: Job-Legend (310)
+*** ANTE/BLINDS ***
+Job-Legend posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah Qs]
+*** PRE-FLOP *** 
+Rikinho89 raises 270 to 290 and is all-in
+Job-Legend raises 20 to 310 and is all-in
+_SKR calls 280 and is all-in
+*** FLOP *** [9d 6s 8s]
+*** TURN *** [9d 6s 8s][9h]
+*** RIVER *** [9d 6s 8s 9h][Jh]
+*** SHOW DOWN ***
+_SKR shows [Ah Qs] (One pair : 9)
+Rikinho89 shows [9c 8h] (Full of 9 and 8)
+Job-Legend shows [Jc As] (Two pairs : Jacks and 9)
+Job-Legend collected 30 from side pot 1
+Rikinho89 collected 870 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d 6s 8s 9h Jh]
+Seat 1: _SKR (big blind) showed [Ah Qs] and lost with One pair : 9
+Seat 2: Rikinho89 (button) showed [9c 8h] and won 870 with Full of 9 and 8
+Seat 3: Job-Legend (small blind) showed [Jc As] and won 30 with Two pairs : Jacks and 9
+
+

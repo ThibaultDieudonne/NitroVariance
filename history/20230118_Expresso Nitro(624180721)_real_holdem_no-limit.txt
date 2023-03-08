@@ -1,0 +1,99 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680835783488700417-1-1674081483 - Holdem no limit (10/20) - 2023/01/18 22:38:03 UTC
+Table: 'Expresso Nitro(624180721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Zbeubzbeub92 (300)
+Seat 2: Hakk133 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Hakk133 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5h Kd]
+*** PRE-FLOP *** 
+Zbeubzbeub92 raises 280 to 300 and is all-in
+Hakk133 folds
+_SKR folds
+Zbeubzbeub92 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Zbeubzbeub92 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680835783488700417-2-1674081514 - Holdem no limit (10/20) - 2023/01/18 22:38:34 UTC
+Table: 'Expresso Nitro(624180721)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Zbeubzbeub92 (330)
+Seat 2: Hakk133 (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Zbeubzbeub92 posts big blind 20
+Dealt to _SKR [Jd 3d]
+*** PRE-FLOP *** 
+Hakk133 calls 20
+_SKR folds
+Zbeubzbeub92 checks
+*** FLOP *** [Tc 7c 7d]
+Zbeubzbeub92 checks
+Hakk133 checks
+*** TURN *** [Tc 7c 7d][3h]
+Zbeubzbeub92 checks
+Hakk133 checks
+*** RIVER *** [Tc 7c 7d 3h][4s]
+Zbeubzbeub92 checks
+Hakk133 checks
+*** SHOW DOWN ***
+Hakk133 shows [9s 6h] (One pair : 7)
+Zbeubzbeub92 shows [Ad 2d] (One pair : 7)
+Zbeubzbeub92 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Tc 7c 7d 3h 4s]
+Seat 1: Zbeubzbeub92 (big blind) showed [Ad 2d] and won 50 with One pair : 7
+Seat 2: Hakk133 (button) showed [9s 6h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680835783488700417-3-1674081579 - Holdem no limit (15/30) - 2023/01/18 22:39:39 UTC
+Table: 'Expresso Nitro(624180721)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Zbeubzbeub92 (360)
+Seat 2: Hakk133 (270)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Zbeubzbeub92 posts small blind 15
+Hakk133 posts big blind 30
+Dealt to _SKR [6s 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Zbeubzbeub92 raises 30 to 60
+Hakk133 folds
+Zbeubzbeub92 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Zbeubzbeub92 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680835783488700417-4-1674081618 - Holdem no limit (20/40) - 2023/01/18 22:40:18 UTC
+Table: 'Expresso Nitro(624180721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Zbeubzbeub92 (390)
+Seat 2: Hakk133 (240)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Hakk133 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Tc Qh]
+*** PRE-FLOP *** 
+Zbeubzbeub92 raises 40 to 80
+Hakk133 folds
+_SKR raises 190 to 270 and is all-in
+Zbeubzbeub92 calls 190
+*** FLOP *** [6c 4d Kd]
+*** TURN *** [6c 4d Kd][3s]
+*** RIVER *** [6c 4d Kd 3s][4h]
+*** SHOW DOWN ***
+_SKR shows [Tc Qh] (One pair : 4)
+Zbeubzbeub92 shows [Ad 2d] (One pair : 4)
+Zbeubzbeub92 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6c 4d Kd 3s 4h]
+Seat 1: Zbeubzbeub92 (button) showed [Ad 2d] and won 560 with One pair : 4
+Seat 3: _SKR (big blind) showed [Tc Qh] and lost with One pair : 4
+
+

@@ -1,0 +1,447 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691973965127090177-1-1674775871 - Holdem no limit (10/20) - 2023/01/26 23:31:11 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BRM1CAVE (300)
+Seat 2: angry wolf (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+BRM1CAVE posts big blind 20
+Dealt to _SKR [4c 3c]
+*** PRE-FLOP *** 
+angry wolf folds
+_SKR calls 10
+BRM1CAVE checks
+*** FLOP *** [Kc 8h Ah]
+_SKR checks
+BRM1CAVE bets 20
+_SKR folds
+BRM1CAVE collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kc 8h Ah]
+Seat 1: BRM1CAVE (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691973965127090177-2-1674775900 - Holdem no limit (10/20) - 2023/01/26 23:31:40 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BRM1CAVE (320)
+Seat 2: angry wolf (300)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+BRM1CAVE posts small blind 10
+angry wolf posts big blind 20
+Dealt to _SKR [9d 7c]
+*** PRE-FLOP *** 
+_SKR folds
+BRM1CAVE calls 10
+angry wolf raises 40 to 60
+BRM1CAVE folds
+angry wolf collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: angry wolf (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691973965127090177-3-1674775916 - Holdem no limit (10/20) - 2023/01/26 23:31:56 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BRM1CAVE (300)
+Seat 2: angry wolf (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 5h]
+*** PRE-FLOP *** 
+BRM1CAVE raises 20 to 40
+angry wolf raises 280 to 320 and is all-in
+_SKR folds
+BRM1CAVE calls 260 and is all-in
+*** FLOP *** [Jc Tc 5d]
+*** TURN *** [Jc Tc 5d][8h]
+*** RIVER *** [Jc Tc 5d 8h][7s]
+*** SHOW DOWN ***
+BRM1CAVE shows [Kd Qs] (High card : King)
+angry wolf shows [Ad 6d] (High card : Ace)
+angry wolf collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Jc Tc 5d 8h 7s]
+Seat 1: BRM1CAVE (button) showed [Kd Qs] and lost with High card : King
+Seat 2: angry wolf (small blind) showed [Ad 6d] and won 640 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691973965127090177-4-1674775945 - Holdem no limit (15/30) - 2023/01/26 23:32:25 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 2: angry wolf (640)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+angry wolf posts big blind 30
+Dealt to _SKR [As Kh]
+*** PRE-FLOP *** 
+_SKR raises 230 to 260 and is all-in
+angry wolf calls 230
+*** FLOP *** [Ks Ah 7c]
+*** TURN *** [Ks Ah 7c][8d]
+*** RIVER *** [Ks Ah 7c 8d][3h]
+*** SHOW DOWN ***
+angry wolf shows [3d Qd] (One pair : 3)
+_SKR shows [As Kh] (Two pairs : Aces and Kings)
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Ks Ah 7c 8d 3h]
+Seat 2: angry wolf (big blind) showed [3d Qd] and lost with One pair : 3
+Seat 3: _SKR (small blind) (button) showed [As Kh] and won 520 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691973965127090177-5-1674775965 - Holdem no limit (15/30) - 2023/01/26 23:32:45 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 2: angry wolf (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8s Jd]
+*** PRE-FLOP *** 
+angry wolf raises 350 to 380 and is all-in
+_SKR folds
+angry wolf collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 2: angry wolf (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691973965127090177-6-1674775970 - Holdem no limit (15/30) - 2023/01/26 23:32:50 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 2: angry wolf (410)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+angry wolf posts big blind 30
+Dealt to _SKR [5h 3h]
+*** PRE-FLOP *** 
+_SKR folds
+angry wolf collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: angry wolf (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691973965127090177-7-1674775976 - Holdem no limit (15/30) - 2023/01/26 23:32:56 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 2: angry wolf (425)
+Seat 3: _SKR (475)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4h Qs]
+*** PRE-FLOP *** 
+angry wolf folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691973965127090177-8-1674775981 - Holdem no limit (15/30) - 2023/01/26 23:33:01 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 2: angry wolf (410)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+angry wolf posts big blind 30
+Dealt to _SKR [Js Qd]
+*** PRE-FLOP *** 
+_SKR raises 460 to 490 and is all-in
+angry wolf folds
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 3: _SKR (small blind) (button) won 520
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691973965127090177-9-1674775987 - Holdem no limit (20/40) - 2023/01/26 23:33:07 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 2: angry wolf (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qc Th]
+*** PRE-FLOP *** 
+angry wolf folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691973965127090177-10-1674775991 - Holdem no limit (20/40) - 2023/01/26 23:33:11 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 2: angry wolf (360)
+Seat 3: _SKR (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+angry wolf posts big blind 40
+Dealt to _SKR [4h 9c]
+*** PRE-FLOP *** 
+_SKR folds
+angry wolf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: angry wolf (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691973965127090177-11-1674776000 - Holdem no limit (20/40) - 2023/01/26 23:33:20 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 2: angry wolf (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9h 9s]
+*** PRE-FLOP *** 
+angry wolf raises 340 to 380 and is all-in
+_SKR calls 340
+*** FLOP *** [Ac Qs Td]
+*** TURN *** [Ac Qs Td][5h]
+*** RIVER *** [Ac Qs Td 5h][5c]
+*** SHOW DOWN ***
+_SKR shows [9h 9s] (Two pairs : 9 and 5)
+angry wolf shows [Js 5s] (Trips of 5)
+angry wolf collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [Ac Qs Td 5h 5c]
+Seat 2: angry wolf (small blind) (button) showed [Js 5s] and won 760 with Trips of 5
+Seat 3: _SKR (big blind) showed [9h 9s] and lost with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691973965127090177-12-1674776015 - Holdem no limit (20/40) - 2023/01/26 23:33:35 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 2: angry wolf (760)
+Seat 3: _SKR (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+angry wolf posts big blind 40
+Dealt to _SKR [5s 2d]
+*** PRE-FLOP *** 
+_SKR folds
+angry wolf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: angry wolf (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691973965127090177-13-1674776019 - Holdem no limit (20/40) - 2023/01/26 23:33:39 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 2: angry wolf (780)
+Seat 3: _SKR (120)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ah Js]
+*** PRE-FLOP *** 
+angry wolf raises 80 to 120
+_SKR calls 80 and is all-in
+*** FLOP *** [3d 2s 2h]
+*** TURN *** [3d 2s 2h][Jh]
+*** RIVER *** [3d 2s 2h Jh][Tc]
+*** SHOW DOWN ***
+angry wolf shows [5h 9h] (One pair : 2)
+_SKR shows [Ah Js] (Two pairs : Jacks and 2)
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3d 2s 2h Jh Tc]
+Seat 2: angry wolf (small blind) (button) showed [5h 9h] and lost with One pair : 2
+Seat 3: _SKR (big blind) showed [Ah Js] and won 240 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691973965127090177-14-1674776034 - Holdem no limit (20/40) - 2023/01/26 23:33:54 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 2: angry wolf (660)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+angry wolf posts big blind 40
+Dealt to _SKR [Tc 4d]
+*** PRE-FLOP *** 
+_SKR folds
+angry wolf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: angry wolf (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691973965127090177-15-1674776037 - Holdem no limit (20/40) - 2023/01/26 23:33:57 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 2: angry wolf (680)
+Seat 3: _SKR (220)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3d Kc]
+*** PRE-FLOP *** 
+angry wolf folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691973965127090177-16-1674776042 - Holdem no limit (20/40) - 2023/01/26 23:34:02 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 2: angry wolf (660)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+angry wolf posts big blind 40
+Dealt to _SKR [4d 6d]
+*** PRE-FLOP *** 
+_SKR folds
+angry wolf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: angry wolf (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691973965127090177-17-1674776050 - Holdem no limit (30/60) - 2023/01/26 23:34:10 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 2: angry wolf (680)
+Seat 3: _SKR (220)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8s 9d]
+*** PRE-FLOP *** 
+angry wolf folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691973965127090177-18-1674776056 - Holdem no limit (30/60) - 2023/01/26 23:34:16 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 2: angry wolf (650)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+angry wolf posts big blind 60
+Dealt to _SKR [4h Ks]
+*** PRE-FLOP *** 
+_SKR raises 190 to 250 and is all-in
+angry wolf calls 190
+*** FLOP *** [5s 2s 6h]
+*** TURN *** [5s 2s 6h][5c]
+*** RIVER *** [5s 2s 6h 5c][9h]
+*** SHOW DOWN ***
+angry wolf shows [Jh Qh] (One pair : 5)
+_SKR shows [4h Ks] (One pair : 5)
+_SKR collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [5s 2s 6h 5c 9h]
+Seat 2: angry wolf (big blind) showed [Jh Qh] and lost with One pair : 5
+Seat 3: _SKR (small blind) (button) showed [4h Ks] and won 500 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691973965127090177-19-1674776072 - Holdem no limit (30/60) - 2023/01/26 23:34:32 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 2: angry wolf (400)
+Seat 3: _SKR (500)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7d Qs]
+*** PRE-FLOP *** 
+angry wolf raises 340 to 400 and is all-in
+_SKR folds
+angry wolf collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 2: angry wolf (small blind) (button) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691973965127090177-20-1674776080 - Holdem no limit (30/60) - 2023/01/26 23:34:40 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 2: angry wolf (460)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+angry wolf posts big blind 60
+Dealt to _SKR [4h 2c]
+*** PRE-FLOP *** 
+_SKR folds
+angry wolf collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: angry wolf (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691973965127090177-21-1674776085 - Holdem no limit (30/60) - 2023/01/26 23:34:45 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 2: angry wolf (490)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Th 3c]
+*** PRE-FLOP *** 
+angry wolf folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691973965127090177-22-1674776090 - Holdem no limit (30/60) - 2023/01/26 23:34:50 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #3 is the button
+Seat 2: angry wolf (460)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+angry wolf posts big blind 60
+Dealt to _SKR [6c Qc]
+*** PRE-FLOP *** 
+_SKR raises 380 to 440 and is all-in
+angry wolf calls 380
+*** FLOP *** [Jd 2s 5h]
+*** TURN *** [Jd 2s 5h][2c]
+*** RIVER *** [Jd 2s 5h 2c][6s]
+*** SHOW DOWN ***
+angry wolf shows [Kh 3d] (One pair : 2)
+_SKR shows [6c Qc] (Two pairs : 6 and 2)
+_SKR collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Jd 2s 5h 2c 6s]
+Seat 2: angry wolf (big blind) showed [Kh 3d] and lost with One pair : 2
+Seat 3: _SKR (small blind) (button) showed [6c Qc] and won 880 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691973965127090177-23-1674776107 - Holdem no limit (30/60) - 2023/01/26 23:35:07 UTC
+Table: 'Expresso Nitro(626774031)#0' 3-max (real money) Seat #2 is the button
+Seat 2: angry wolf (20)
+Seat 3: _SKR (880)
+*** ANTE/BLINDS ***
+angry wolf posts small blind 20 and is all-in
+_SKR posts big blind 60
+Dealt to _SKR [6h 5c]
+*** PRE-FLOP *** 
+*** FLOP *** [5s Kc 7d]
+*** TURN *** [5s Kc 7d][8d]
+*** RIVER *** [5s Kc 7d 8d][As]
+*** SHOW DOWN ***
+angry wolf shows [Qs Th] (High card : Ace)
+_SKR shows [6h 5c] (One pair : 5)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5s Kc 7d 8d As]
+Seat 2: angry wolf (small blind) (button) showed [Qs Th] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [6h 5c] and won 80 with One pair : 5
+
+

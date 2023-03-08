@@ -1,0 +1,118 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729544363347542017-1-1676919540 - Holdem no limit (10/20) - 2023/02/20 18:59:00 UTC
+Table: 'Expresso Nitro(635521571)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jessy Redon (300)
+Seat 2: _SKR (300)
+Seat 3: Lbracco6901 (300)
+*** ANTE/BLINDS ***
+Lbracco6901 posts small blind 10
+Jessy Redon posts big blind 20
+Dealt to _SKR [2s Kd]
+*** PRE-FLOP *** 
+_SKR folds
+Lbracco6901 calls 10
+Jessy Redon checks
+*** FLOP *** [7d Tc 8c]
+Lbracco6901 checks
+Jessy Redon checks
+*** TURN *** [7d Tc 8c][9s]
+Lbracco6901 checks
+Jessy Redon checks
+*** RIVER *** [7d Tc 8c 9s][6c]
+Lbracco6901 checks
+Jessy Redon bets 20
+Lbracco6901 calls 20
+*** SHOW DOWN ***
+Jessy Redon shows [4d 8d] (Straight Ten high)
+Lbracco6901 shows [3d Qd] (Straight Ten high)
+Lbracco6901 collected 40 from pot
+Jessy Redon collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7d Tc 8c 9s 6c]
+Seat 1: Jessy Redon (big blind) showed [4d 8d] and won 40 with Straight Ten high
+Seat 3: Lbracco6901 (small blind) showed [3d Qd] and won 40 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729544363347542017-2-1676919575 - Holdem no limit (10/20) - 2023/02/20 18:59:35 UTC
+Table: 'Expresso Nitro(635521571)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jessy Redon (300)
+Seat 2: _SKR (300)
+Seat 3: Lbracco6901 (300)
+*** ANTE/BLINDS ***
+Jessy Redon posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 3c]
+*** PRE-FLOP *** 
+Lbracco6901 folds
+Jessy Redon calls 10
+_SKR checks
+*** FLOP *** [6c 4c Td]
+Jessy Redon checks
+_SKR bets 20
+Jessy Redon calls 20
+*** TURN *** [6c 4c Td][3d]
+Jessy Redon bets 28
+_SKR calls 28
+*** RIVER *** [6c 4c Td 3d][2h]
+Jessy Redon bets 20
+_SKR raises 29 to 49
+Jessy Redon raises 29 to 78
+_SKR calls 29
+*** SHOW DOWN ***
+_SKR shows [Th 3c] (Two pairs : Tens and 3)
+Jessy Redon shows [5d 7c] (Straight 7 high)
+Jessy Redon collected 292 from pot
+*** SUMMARY ***
+Total pot 292 | No rake
+Board: [6c 4c Td 3d 2h]
+Seat 1: Jessy Redon (small blind) showed [5d 7c] and won 292 with Straight 7 high
+Seat 2: _SKR (big blind) showed [Th 3c] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729544363347542017-3-1676919625 - Holdem no limit (15/30) - 2023/02/20 19:00:25 UTC
+Table: 'Expresso Nitro(635521571)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jessy Redon (446)
+Seat 2: _SKR (154)
+Seat 3: Lbracco6901 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Lbracco6901 posts big blind 30
+Dealt to _SKR [4d Js]
+*** PRE-FLOP *** 
+Jessy Redon calls 30
+_SKR folds
+Lbracco6901 raises 270 to 300 and is all-in
+Jessy Redon folds
+Lbracco6901 collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 3: Lbracco6901 (big blind) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729544363347542017-4-1676919635 - Holdem no limit (15/30) - 2023/02/20 19:00:35 UTC
+Table: 'Expresso Nitro(635521571)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jessy Redon (416)
+Seat 2: _SKR (139)
+Seat 3: Lbracco6901 (345)
+*** ANTE/BLINDS ***
+Lbracco6901 posts small blind 15
+Jessy Redon posts big blind 30
+Dealt to _SKR [Ad 5s]
+*** PRE-FLOP *** 
+_SKR raises 109 to 139 and is all-in
+Lbracco6901 folds
+Jessy Redon calls 109
+*** FLOP *** [7h 9c 7d]
+*** TURN *** [7h 9c 7d][4c]
+*** RIVER *** [7h 9c 7d 4c][Kh]
+*** SHOW DOWN ***
+_SKR shows [Ad 5s] (One pair : 7)
+Jessy Redon shows [7c Ks] (Full of 7 and Kings)
+Jessy Redon collected 293 from pot
+*** SUMMARY ***
+Total pot 293 | No rake
+Board: [7h 9c 7d 4c Kh]
+Seat 1: Jessy Redon (big blind) showed [7c Ks] and won 293 with Full of 7 and Kings
+Seat 2: _SKR (button) showed [Ad 5s] and lost with One pair : 7
+
+

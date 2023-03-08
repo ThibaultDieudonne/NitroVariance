@@ -1,0 +1,152 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671065596178726913-1-1673529370 - Holdem no limit (10/20) - 2023/01/12 13:16:10 UTC
+Table: 'Expresso Nitro(621905922)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Milan006 (300)
+Seat 2: _SKR (300)
+Seat 3: Siddhartha13 (300)
+*** ANTE/BLINDS ***
+Milan006 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 7d]
+*** PRE-FLOP *** 
+Siddhartha13 raises 30 to 50
+Milan006 raises 30 to 80
+_SKR folds
+Siddhartha13 calls 30
+*** FLOP *** [4h 6c 3d]
+Milan006 checks
+Siddhartha13 checks
+*** TURN *** [4h 6c 3d][5h]
+Milan006 bets 20
+Siddhartha13 calls 20
+*** RIVER *** [4h 6c 3d 5h][Js]
+Milan006 checks
+Siddhartha13 bets 200 and is all-in
+Milan006 folds
+Siddhartha13 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [4h 6c 3d 5h Js]
+Seat 3: Siddhartha13 (button) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671065596178726913-2-1673529397 - Holdem no limit (10/20) - 2023/01/12 13:16:37 UTC
+Table: 'Expresso Nitro(621905922)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Milan006 (200)
+Seat 2: _SKR (280)
+Seat 3: Siddhartha13 (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Siddhartha13 posts big blind 20
+Dealt to _SKR [Ts Tc]
+*** PRE-FLOP *** 
+Milan006 calls 20
+_SKR raises 260 to 280 and is all-in
+Siddhartha13 folds
+Milan006 calls 180 and is all-in
+*** FLOP *** [Th Qd Ac]
+*** TURN *** [Th Qd Ac][6d]
+*** RIVER *** [Th Qd Ac 6d][5s]
+*** SHOW DOWN ***
+Milan006 shows [6s 8d] (One pair : 6)
+_SKR shows [Ts Tc] (Trips of Tens)
+_SKR collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Th Qd Ac 6d 5s]
+Seat 1: Milan006 (button) showed [6s 8d] and lost with One pair : 6
+Seat 2: _SKR (small blind) showed [Ts Tc] and won 500 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671065596178726913-3-1673529421 - Holdem no limit (10/20) - 2023/01/12 13:17:01 UTC
+Table: 'Expresso Nitro(621905922)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (500)
+Seat 3: Siddhartha13 (400)
+*** ANTE/BLINDS ***
+Siddhartha13 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc 3d]
+*** PRE-FLOP *** 
+Siddhartha13 raises 20 to 40
+_SKR folds
+Siddhartha13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Siddhartha13 (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671065596178726913-4-1673529451 - Holdem no limit (15/30) - 2023/01/12 13:17:31 UTC
+Table: 'Expresso Nitro(621905922)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (480)
+Seat 3: Siddhartha13 (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Siddhartha13 posts big blind 30
+Dealt to _SKR [Ah 2h]
+*** PRE-FLOP *** 
+_SKR raises 450 to 480 and is all-in
+Siddhartha13 calls 390 and is all-in
+*** FLOP *** [Th 5s Ad]
+*** TURN *** [Th 5s Ad][Td]
+*** RIVER *** [Th 5s Ad Td][4d]
+*** SHOW DOWN ***
+_SKR shows [Ah 2h] (Two pairs : Aces and Tens)
+Siddhartha13 shows [Ac 7d] (Two pairs : Aces and Tens)
+Siddhartha13 collected 840 from main pot
+_SKR collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Th 5s Ad Td 4d]
+Seat 2: _SKR (small blind) (button) showed [Ah 2h] and won 60 with Two pairs : Aces and Tens
+Seat 3: Siddhartha13 (big blind) showed [Ac 7d] and won 840 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671065596178726913-5-1673529469 - Holdem no limit (15/30) - 2023/01/12 13:17:49 UTC
+Table: 'Expresso Nitro(621905922)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (60)
+Seat 3: Siddhartha13 (840)
+*** ANTE/BLINDS ***
+Siddhartha13 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3h Ts]
+*** PRE-FLOP *** 
+Siddhartha13 raises 30 to 60
+_SKR calls 30 and is all-in
+*** FLOP *** [3c 7h Js]
+*** TURN *** [3c 7h Js][Kd]
+*** RIVER *** [3c 7h Js Kd][Qh]
+*** SHOW DOWN ***
+Siddhartha13 shows [6d Ad] (High card : Ace)
+_SKR shows [3h Ts] (One pair : 3)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3c 7h Js Kd Qh]
+Seat 2: _SKR (big blind) showed [3h Ts] and won 120 with One pair : 3
+Seat 3: Siddhartha13 (small blind) (button) showed [6d Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671065596178726913-6-1673529486 - Holdem no limit (20/40) - 2023/01/12 13:18:06 UTC
+Table: 'Expresso Nitro(621905922)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (120)
+Seat 3: Siddhartha13 (780)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Siddhartha13 posts big blind 40
+Dealt to _SKR [9d Js]
+*** PRE-FLOP *** 
+_SKR raises 80 to 120 and is all-in
+Siddhartha13 calls 80
+*** FLOP *** [6s Td 6h]
+*** TURN *** [6s Td 6h][3s]
+*** RIVER *** [6s Td 6h 3s][8s]
+*** SHOW DOWN ***
+_SKR shows [9d Js] (One pair : 6)
+Siddhartha13 shows [Kc 4c] (One pair : 6)
+Siddhartha13 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [6s Td 6h 3s 8s]
+Seat 2: _SKR (small blind) (button) showed [9d Js] and lost with One pair : 6
+Seat 3: Siddhartha13 (big blind) showed [Kc 4c] and won 240 with One pair : 6
+
+

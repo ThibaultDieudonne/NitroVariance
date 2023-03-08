@@ -1,0 +1,248 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661439006805327873-1-1673013316 - Holdem no limit (10/20) - 2023/01/06 13:55:16 UTC
+Table: 'Expresso Nitro(619664557)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: tavi0315 (300)
+Seat 3: jeremtom (300)
+*** ANTE/BLINDS ***
+tavi0315 posts small blind 10
+jeremtom posts big blind 20
+Dealt to _SKR [4c 7c]
+*** PRE-FLOP *** 
+_SKR folds
+tavi0315 calls 10
+jeremtom checks
+*** FLOP *** [5h 9c Js]
+tavi0315 checks
+jeremtom checks
+*** TURN *** [5h 9c Js][6c]
+tavi0315 checks
+jeremtom bets 26
+tavi0315 calls 26
+*** RIVER *** [5h 9c Js 6c][5d]
+tavi0315 checks
+jeremtom checks
+*** SHOW DOWN ***
+tavi0315 shows [Kd 8s] (One pair : 5)
+jeremtom shows [As 2d] (One pair : 5)
+jeremtom collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [5h 9c Js 6c 5d]
+Seat 2: tavi0315 (small blind) showed [Kd 8s] and lost with One pair : 5
+Seat 3: jeremtom (big blind) showed [As 2d] and won 92 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661439006805327873-2-1673013348 - Holdem no limit (10/20) - 2023/01/06 13:55:48 UTC
+Table: 'Expresso Nitro(619664557)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: tavi0315 (254)
+Seat 3: jeremtom (346)
+*** ANTE/BLINDS ***
+jeremtom posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd Tc]
+*** PRE-FLOP *** 
+tavi0315 raises 30 to 50
+jeremtom raises 296 to 346 and is all-in
+_SKR folds
+tavi0315 calls 204 and is all-in
+*** FLOP *** [Td Kd 9d]
+*** TURN *** [Td Kd 9d][6c]
+*** RIVER *** [Td Kd 9d 6c][Jc]
+*** SHOW DOWN ***
+tavi0315 shows [Th Ad] (One pair : Tens)
+jeremtom shows [8h Ah] (High card : Ace)
+jeremtom collected 92 from side pot 1
+tavi0315 collected 528 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Td Kd 9d 6c Jc]
+Seat 2: tavi0315 (button) showed [Th Ad] and won 528 with One pair : Tens
+Seat 3: jeremtom (small blind) showed [8h Ah] and won 92 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661439006805327873-3-1673013371 - Holdem no limit (10/20) - 2023/01/06 13:56:11 UTC
+Table: 'Expresso Nitro(619664557)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: tavi0315 (528)
+Seat 3: jeremtom (92)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tavi0315 posts big blind 20
+Dealt to _SKR [Qd Kc]
+*** PRE-FLOP *** 
+jeremtom raises 72 to 92 and is all-in
+_SKR raises 188 to 280 and is all-in
+tavi0315 raises 188 to 468
+*** FLOP *** [9d Jc 9s]
+*** TURN *** [9d Jc 9s][Kd]
+*** RIVER *** [9d Jc 9s Kd][Th]
+*** SHOW DOWN ***
+_SKR shows [Qd Kc] (Straight King high)
+tavi0315 shows [Ah Kh] (Two pairs : Kings and 9)
+jeremtom shows [Qs 2d] (Straight King high)
+jeremtom collected 138 from main pot
+tavi0315 collected 188 from side pot 2
+_SKR collected 514 from side pot 1
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [9d Jc 9s Kd Th]
+Seat 1: _SKR (small blind) showed [Qd Kc] and won 514 with Straight King high
+Seat 2: tavi0315 (big blind) showed [Ah Kh] and won 188 with Two pairs : Kings and 9
+Seat 3: jeremtom (button) showed [Qs 2d] and won 138 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661439006805327873-4-1673013390 - Holdem no limit (15/30) - 2023/01/06 13:56:30 UTC
+Table: 'Expresso Nitro(619664557)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (514)
+Seat 2: tavi0315 (248)
+Seat 3: jeremtom (138)
+*** ANTE/BLINDS ***
+tavi0315 posts small blind 15
+jeremtom posts big blind 30
+Dealt to _SKR [Qh Kh]
+*** PRE-FLOP *** 
+_SKR raises 484 to 514 and is all-in
+tavi0315 calls 233 and is all-in
+jeremtom folds
+*** FLOP *** [Jc 3h 7h]
+*** TURN *** [Jc 3h 7h][4d]
+*** RIVER *** [Jc 3h 7h 4d][2h]
+*** SHOW DOWN ***
+tavi0315 shows [6s Ks] (High card : King)
+_SKR shows [Qh Kh] (Flush King high)
+_SKR collected 792 from pot
+*** SUMMARY ***
+Total pot 792 | No rake
+Board: [Jc 3h 7h 4d 2h]
+Seat 1: _SKR (button) showed [Qh Kh] and won 792 with Flush King high
+Seat 2: tavi0315 (small blind) showed [6s Ks] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661439006805327873-5-1673013405 - Holdem no limit (15/30) - 2023/01/06 13:56:45 UTC
+Table: 'Expresso Nitro(619664557)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (792)
+Seat 3: jeremtom (108)
+*** ANTE/BLINDS ***
+jeremtom posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4h Ad]
+*** PRE-FLOP *** 
+jeremtom raises 78 to 108 and is all-in
+_SKR calls 78
+*** FLOP *** [Ks 5d 5s]
+*** TURN *** [Ks 5d 5s][Kh]
+*** RIVER *** [Ks 5d 5s Kh][6h]
+*** SHOW DOWN ***
+_SKR shows [4h Ad] (Two pairs : Kings and 5)
+jeremtom shows [Kd 8s] (Full of Kings and 5)
+jeremtom collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [Ks 5d 5s Kh 6h]
+Seat 1: _SKR (big blind) showed [4h Ad] and lost with Two pairs : Kings and 5
+Seat 3: jeremtom (small blind) (button) showed [Kd 8s] and won 216 with Full of Kings and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661439006805327873-6-1673013418 - Holdem no limit (15/30) - 2023/01/06 13:56:58 UTC
+Table: 'Expresso Nitro(619664557)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (684)
+Seat 3: jeremtom (216)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+jeremtom posts big blind 30
+Dealt to _SKR [Qc Ad]
+*** PRE-FLOP *** 
+_SKR raises 654 to 684 and is all-in
+jeremtom calls 186 and is all-in
+*** FLOP *** [4d 7s 6s]
+*** TURN *** [4d 7s 6s][Jh]
+*** RIVER *** [4d 7s 6s Jh][Ks]
+*** SHOW DOWN ***
+_SKR shows [Qc Ad] (High card : Ace)
+jeremtom shows [As 7c] (One pair : 7)
+jeremtom collected 432 from main pot
+_SKR collected 468 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 7s 6s Jh Ks]
+Seat 1: _SKR (small blind) (button) showed [Qc Ad] and won 468 with High card : Ace
+Seat 3: jeremtom (big blind) showed [As 7c] and won 432 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661439006805327873-7-1673013429 - Holdem no limit (15/30) - 2023/01/06 13:57:09 UTC
+Table: 'Expresso Nitro(619664557)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (468)
+Seat 3: jeremtom (432)
+*** ANTE/BLINDS ***
+jeremtom posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah 5d]
+*** PRE-FLOP *** 
+jeremtom raises 402 to 432 and is all-in
+_SKR folds
+jeremtom collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | No rake
+Seat 3: jeremtom (small blind) (button) won 462
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661439006805327873-8-1673013435 - Holdem no limit (20/40) - 2023/01/06 13:57:15 UTC
+Table: 'Expresso Nitro(619664557)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (438)
+Seat 3: jeremtom (462)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+jeremtom posts big blind 40
+Dealt to _SKR [6h 8c]
+*** PRE-FLOP *** 
+_SKR folds
+jeremtom collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: jeremtom (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661439006805327873-9-1673013438 - Holdem no limit (20/40) - 2023/01/06 13:57:18 UTC
+Table: 'Expresso Nitro(619664557)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (418)
+Seat 3: jeremtom (482)
+*** ANTE/BLINDS ***
+jeremtom posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jc 2d]
+*** PRE-FLOP *** 
+jeremtom folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661439006805327873-10-1673013441 - Holdem no limit (20/40) - 2023/01/06 13:57:21 UTC
+Table: 'Expresso Nitro(619664557)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (438)
+Seat 3: jeremtom (462)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+jeremtom posts big blind 40
+Dealt to _SKR [Qh Qd]
+*** PRE-FLOP *** 
+_SKR calls 20
+jeremtom raises 80 to 120
+_SKR raises 318 to 438 and is all-in
+jeremtom raises 24 to 462 and is all-in
+*** FLOP *** [Ks 5h 3c]
+*** TURN *** [Ks 5h 3c][Jd]
+*** RIVER *** [Ks 5h 3c Jd][3d]
+*** SHOW DOWN ***
+_SKR shows [Qh Qd] (Two pairs : Queens and 3)
+jeremtom shows [Ah As] (Two pairs : Aces and 3)
+jeremtom collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks 5h 3c Jd 3d]
+Seat 1: _SKR (small blind) (button) showed [Qh Qd] and lost with Two pairs : Queens and 3
+Seat 3: jeremtom (big blind) showed [Ah As] and won 900 with Two pairs : Aces and 3
+
+

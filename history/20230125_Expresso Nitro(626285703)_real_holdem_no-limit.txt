@@ -1,0 +1,127 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689876612337369089-1-1674657157 - Holdem no limit (10/20) - 2023/01/25 14:32:37 UTC
+Table: 'Expresso Nitro(626285703)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Boy76320 (300)
+Seat 3: totogamby13 (300)
+*** ANTE/BLINDS ***
+totogamby13 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 5d]
+*** PRE-FLOP *** 
+Boy76320 calls 20
+totogamby13 calls 10
+_SKR checks
+*** FLOP *** [Ah Ts 4h]
+totogamby13 checks
+_SKR checks
+Boy76320 checks
+*** TURN *** [Ah Ts 4h][Kh]
+totogamby13 checks
+_SKR checks
+Boy76320 bets 20
+totogamby13 folds
+_SKR folds
+Boy76320 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ah Ts 4h Kh]
+Seat 2: Boy76320 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689876612337369089-2-1674657204 - Holdem no limit (10/20) - 2023/01/25 14:33:24 UTC
+Table: 'Expresso Nitro(626285703)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Boy76320 (340)
+Seat 3: totogamby13 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Boy76320 posts big blind 20
+Dealt to _SKR [9s 2s]
+*** PRE-FLOP *** 
+totogamby13 folds
+_SKR folds
+Boy76320 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Boy76320 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689876612337369089-3-1674657210 - Holdem no limit (10/20) - 2023/01/25 14:33:30 UTC
+Table: 'Expresso Nitro(626285703)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Boy76320 (350)
+Seat 3: totogamby13 (280)
+*** ANTE/BLINDS ***
+Boy76320 posts small blind 10
+totogamby13 posts big blind 20
+Dealt to _SKR [8s 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Boy76320 calls 10
+totogamby13 checks
+*** FLOP *** [As Ac Ks]
+Boy76320 checks
+totogamby13 checks
+*** TURN *** [As Ac Ks][3s]
+Boy76320 checks
+totogamby13 checks
+*** RIVER *** [As Ac Ks 3s][6h]
+Boy76320 checks
+totogamby13 checks
+*** SHOW DOWN ***
+Boy76320 shows [4h 2h] (One pair : Aces)
+totogamby13 shows [Td 5d] (One pair : Aces)
+totogamby13 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [As Ac Ks 3s 6h]
+Seat 2: Boy76320 (small blind) showed [4h 2h] and lost with One pair : Aces
+Seat 3: totogamby13 (big blind) showed [Td 5d] and won 40 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689876612337369089-4-1674657243 - Holdem no limit (15/30) - 2023/01/25 14:34:03 UTC
+Table: 'Expresso Nitro(626285703)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Boy76320 (330)
+Seat 3: totogamby13 (300)
+*** ANTE/BLINDS ***
+totogamby13 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5s 8h]
+*** PRE-FLOP *** 
+Boy76320 folds
+totogamby13 raises 270 to 300 and is all-in
+_SKR folds
+totogamby13 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: totogamby13 (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689876612337369089-5-1674657252 - Holdem no limit (15/30) - 2023/01/25 14:34:12 UTC
+Table: 'Expresso Nitro(626285703)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (240)
+Seat 2: Boy76320 (330)
+Seat 3: totogamby13 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Boy76320 posts big blind 30
+Dealt to _SKR [8d 9d]
+*** PRE-FLOP *** 
+totogamby13 folds
+_SKR raises 210 to 240 and is all-in
+Boy76320 calls 210
+*** FLOP *** [2d 2c Ts]
+*** TURN *** [2d 2c Ts][3h]
+*** RIVER *** [2d 2c Ts 3h][Kh]
+*** SHOW DOWN ***
+_SKR shows [8d 9d] (One pair : 2)
+Boy76320 shows [Js 5s] (One pair : 2)
+Boy76320 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [2d 2c Ts 3h Kh]
+Seat 1: _SKR (small blind) showed [8d 9d] and lost with One pair : 2
+Seat 2: Boy76320 (big blind) showed [Js 5s] and won 480 with One pair : 2
+
+

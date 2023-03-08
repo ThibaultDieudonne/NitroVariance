@@ -1,0 +1,339 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671082664378761217-1-1673530250 - Holdem no limit (10/20) - 2023/01/12 13:30:50 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _carlossousa (300)
+Seat 2: _SKR (300)
+Seat 3: sosaduzz84 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+sosaduzz84 posts big blind 20
+Dealt to _SKR [Ks 8c]
+*** PRE-FLOP *** 
+_carlossousa folds
+_SKR raises 20 to 40
+sosaduzz84 calls 20
+*** FLOP *** [Qs 2h Ts]
+_SKR bets 28
+sosaduzz84 calls 28
+*** TURN *** [Qs 2h Ts][3d]
+_SKR checks
+sosaduzz84 checks
+*** RIVER *** [Qs 2h Ts 3d][8h]
+_SKR checks
+sosaduzz84 checks
+*** SHOW DOWN ***
+sosaduzz84 shows [5d 2c] (One pair : 2)
+_SKR shows [Ks 8c] (One pair : 8)
+_SKR collected 136 from pot
+*** SUMMARY ***
+Total pot 136 | No rake
+Board: [Qs 2h Ts 3d 8h]
+Seat 2: _SKR (small blind) showed [Ks 8c] and won 136 with One pair : 8
+Seat 3: sosaduzz84 (big blind) showed [5d 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671082664378761217-2-1673530281 - Holdem no limit (10/20) - 2023/01/12 13:31:21 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _carlossousa (300)
+Seat 2: _SKR (368)
+Seat 3: sosaduzz84 (232)
+*** ANTE/BLINDS ***
+sosaduzz84 posts small blind 10
+_carlossousa posts big blind 20
+Dealt to _SKR [7c 9c]
+*** PRE-FLOP *** 
+_SKR folds
+sosaduzz84 calls 10
+_carlossousa checks
+*** FLOP *** [6s 2h Ts]
+sosaduzz84 checks
+_carlossousa bets 20
+sosaduzz84 calls 20
+*** TURN *** [6s 2h Ts][Jc]
+sosaduzz84 checks
+_carlossousa checks
+*** RIVER *** [6s 2h Ts Jc][Ah]
+sosaduzz84 checks
+_carlossousa bets 80
+sosaduzz84 calls 80
+*** SHOW DOWN ***
+sosaduzz84 shows [5h 6d] (One pair : 6)
+_carlossousa shows [Td Kc] (One pair : Tens)
+_carlossousa collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [6s 2h Ts Jc Ah]
+Seat 1: _carlossousa (big blind) showed [Td Kc] and won 240 with One pair : Tens
+Seat 3: sosaduzz84 (small blind) showed [5h 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671082664378761217-3-1673530313 - Holdem no limit (15/30) - 2023/01/12 13:31:53 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _carlossousa (420)
+Seat 2: _SKR (368)
+Seat 3: sosaduzz84 (112)
+*** ANTE/BLINDS ***
+_carlossousa posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th 3c]
+*** PRE-FLOP *** 
+sosaduzz84 calls 30
+_carlossousa raises 390 to 420 and is all-in
+_SKR folds
+sosaduzz84 calls 82 and is all-in
+*** FLOP *** [Jh 9h 9s]
+*** TURN *** [Jh 9h 9s][9c]
+*** RIVER *** [Jh 9h 9s 9c][Kd]
+*** SHOW DOWN ***
+_carlossousa shows [Ac 6s] (Trips of 9)
+sosaduzz84 shows [5h As] (Trips of 9)
+sosaduzz84 collected 127 from main pot
+_carlossousa collected 435 from side pot 1
+*** SUMMARY ***
+Total pot 562 | No rake
+Board: [Jh 9h 9s 9c Kd]
+Seat 1: _carlossousa (small blind) showed [Ac 6s] and won 435 with Trips of 9
+Seat 3: sosaduzz84 (button) showed [5h As] and won 127 with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671082664378761217-4-1673530330 - Holdem no limit (15/30) - 2023/01/12 13:32:10 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _carlossousa (435)
+Seat 2: _SKR (338)
+Seat 3: sosaduzz84 (127)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+sosaduzz84 posts big blind 30
+Dealt to _SKR [5s 7d]
+*** PRE-FLOP *** 
+_carlossousa folds
+_SKR folds
+sosaduzz84 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: sosaduzz84 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671082664378761217-5-1673530336 - Holdem no limit (15/30) - 2023/01/12 13:32:16 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _carlossousa (435)
+Seat 2: _SKR (323)
+Seat 3: sosaduzz84 (142)
+*** ANTE/BLINDS ***
+sosaduzz84 posts small blind 15
+_carlossousa posts big blind 30
+Dealt to _SKR [Kd 5d]
+*** PRE-FLOP *** 
+_SKR folds
+sosaduzz84 calls 15
+_carlossousa checks
+*** FLOP *** [Jd 3d Kc]
+sosaduzz84 checks
+_carlossousa checks
+*** TURN *** [Jd 3d Kc][8s]
+sosaduzz84 checks
+_carlossousa checks
+*** RIVER *** [Jd 3d Kc 8s][6h]
+sosaduzz84 checks
+_carlossousa bets 39
+sosaduzz84 folds
+_carlossousa collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [Jd 3d Kc 8s 6h]
+Seat 1: _carlossousa (big blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671082664378761217-6-1673530365 - Holdem no limit (15/30) - 2023/01/12 13:32:45 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _carlossousa (465)
+Seat 2: _SKR (323)
+Seat 3: sosaduzz84 (112)
+*** ANTE/BLINDS ***
+_carlossousa posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc 8s]
+*** PRE-FLOP *** 
+sosaduzz84 calls 30
+_carlossousa raises 435 to 465 and is all-in
+_SKR folds
+sosaduzz84 calls 82 and is all-in
+*** FLOP *** [Js 9c 4d]
+*** TURN *** [Js 9c 4d][Ad]
+*** RIVER *** [Js 9c 4d Ad][8d]
+*** SHOW DOWN ***
+_carlossousa shows [9s 9d] (Trips of 9)
+sosaduzz84 shows [Ts Qd] (Straight Queen high)
+sosaduzz84 collected 254 from main pot
+_carlossousa collected 353 from side pot 1
+*** SUMMARY ***
+Total pot 607 | No rake
+Board: [Js 9c 4d Ad 8d]
+Seat 1: _carlossousa (small blind) showed [9s 9d] and won 353 with Trips of 9
+Seat 3: sosaduzz84 (button) showed [Ts Qd] and won 254 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671082664378761217-7-1673530383 - Holdem no limit (20/40) - 2023/01/12 13:33:03 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _carlossousa (353)
+Seat 2: _SKR (293)
+Seat 3: sosaduzz84 (254)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+sosaduzz84 posts big blind 40
+Dealt to _SKR [9h 8d]
+*** PRE-FLOP *** 
+_carlossousa raises 40 to 80
+_SKR folds
+sosaduzz84 calls 40
+*** FLOP *** [Js 9d Tc]
+sosaduzz84 checks
+_carlossousa bets 273 and is all-in
+sosaduzz84 calls 174 and is all-in
+*** TURN *** [Js 9d Tc][Qs]
+*** RIVER *** [Js 9d Tc Qs][2h]
+*** SHOW DOWN ***
+sosaduzz84 shows [Qh 6c] (One pair : Queens)
+_carlossousa shows [Kc 5c] (Straight King high)
+_carlossousa collected 627 from pot
+*** SUMMARY ***
+Total pot 627 | No rake
+Board: [Js 9d Tc Qs 2h]
+Seat 1: _carlossousa (button) showed [Kc 5c] and won 627 with Straight King high
+Seat 3: sosaduzz84 (big blind) showed [Qh 6c] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671082664378761217-8-1673530409 - Holdem no limit (20/40) - 2023/01/12 13:33:29 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _carlossousa (627)
+Seat 2: _SKR (273)
+*** ANTE/BLINDS ***
+_carlossousa posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 5h]
+*** PRE-FLOP *** 
+_carlossousa folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671082664378761217-9-1673530413 - Holdem no limit (20/40) - 2023/01/12 13:33:33 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _carlossousa (607)
+Seat 2: _SKR (293)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+_carlossousa posts big blind 40
+Dealt to _SKR [3h 7s]
+*** PRE-FLOP *** 
+_SKR folds
+_carlossousa collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _carlossousa (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671082664378761217-10-1673530417 - Holdem no limit (20/40) - 2023/01/12 13:33:37 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _carlossousa (627)
+Seat 2: _SKR (273)
+*** ANTE/BLINDS ***
+_carlossousa posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2c 5h]
+*** PRE-FLOP *** 
+_carlossousa raises 40 to 80
+_SKR folds
+_carlossousa collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: _carlossousa (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671082664378761217-11-1673530425 - Holdem no limit (20/40) - 2023/01/12 13:33:45 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _carlossousa (667)
+Seat 2: _SKR (233)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+_carlossousa posts big blind 40
+Dealt to _SKR [Ad Kh]
+*** PRE-FLOP *** 
+_SKR calls 20
+_carlossousa checks
+*** FLOP *** [8h 5d Ac]
+_carlossousa checks
+_SKR checks
+*** TURN *** [8h 5d Ac][6c]
+_carlossousa bets 40
+_SKR raises 40 to 80
+_carlossousa calls 40
+*** RIVER *** [8h 5d Ac 6c][Ks]
+_carlossousa checks
+_SKR bets 113 and is all-in
+_carlossousa folds
+_SKR collected 353 from pot
+*** SUMMARY ***
+Total pot 353 | No rake
+Board: [8h 5d Ac 6c Ks]
+Seat 2: _SKR (small blind) (button) won 353
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2671082664378761217-12-1673530440 - Holdem no limit (30/60) - 2023/01/12 13:34:00 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _carlossousa (547)
+Seat 2: _SKR (353)
+*** ANTE/BLINDS ***
+_carlossousa posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5d 8d]
+*** PRE-FLOP *** 
+_carlossousa folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2671082664378761217-13-1673530444 - Holdem no limit (30/60) - 2023/01/12 13:34:04 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _carlossousa (517)
+Seat 2: _SKR (383)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+_carlossousa posts big blind 60
+Dealt to _SKR [8s 4s]
+*** PRE-FLOP *** 
+_SKR folds
+_carlossousa collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _carlossousa (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2671082664378761217-14-1673530448 - Holdem no limit (30/60) - 2023/01/12 13:34:08 UTC
+Table: 'Expresso Nitro(621909896)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _carlossousa (547)
+Seat 2: _SKR (353)
+*** ANTE/BLINDS ***
+_carlossousa posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qd 8c]
+*** PRE-FLOP *** 
+_carlossousa raises 487 to 547 and is all-in
+_SKR calls 293 and is all-in
+*** FLOP *** [Ks Th Js]
+*** TURN *** [Ks Th Js][Qs]
+*** RIVER *** [Ks Th Js Qs][6h]
+*** SHOW DOWN ***
+_SKR shows [Qd 8c] (One pair : Queens)
+_carlossousa shows [6s 6c] (Trips of 6)
+_carlossousa collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks Th Js Qs 6h]
+Seat 1: _carlossousa (small blind) (button) showed [6s 6c] and won 900 with Trips of 6
+Seat 2: _SKR (big blind) showed [Qd 8c] and lost with One pair : Queens
+
+

@@ -1,0 +1,118 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661436459889721345-1-1673013185 - Holdem no limit (10/20) - 2023/01/06 13:53:05 UTC
+Table: 'Expresso Nitro(619663964)#0' 3-max (real money) Seat #1 is the button
+Seat 1: nono749 (300)
+Seat 2: _SKR (300)
+Seat 3: DAO79 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+DAO79 posts big blind 20
+Dealt to _SKR [Ks Kc]
+*** PRE-FLOP *** 
+nono749 calls 20
+_SKR raises 40 to 60
+DAO79 calls 40
+nono749 calls 40
+*** FLOP *** [Jd 5s 9d]
+_SKR bets 63
+DAO79 folds
+nono749 calls 63
+*** TURN *** [Jd 5s 9d][9h]
+_SKR bets 177 and is all-in
+nono749 folds
+_SKR collected 483 from pot
+*** SUMMARY ***
+Total pot 483 | No rake
+Board: [Jd 5s 9d 9h]
+Seat 2: _SKR (small blind) won 483
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661436459889721345-2-1673013205 - Holdem no limit (10/20) - 2023/01/06 13:53:25 UTC
+Table: 'Expresso Nitro(619663964)#0' 3-max (real money) Seat #2 is the button
+Seat 1: nono749 (177)
+Seat 2: _SKR (483)
+Seat 3: DAO79 (240)
+*** ANTE/BLINDS ***
+DAO79 posts small blind 10
+nono749 posts big blind 20
+Dealt to _SKR [Ac 6h]
+*** PRE-FLOP *** 
+_SKR raises 463 to 483 and is all-in
+DAO79 folds
+nono749 folds
+_SKR collected 513 from pot
+*** SUMMARY ***
+Total pot 513 | No rake
+Seat 2: _SKR (button) won 513
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661436459889721345-3-1673013215 - Holdem no limit (10/20) - 2023/01/06 13:53:35 UTC
+Table: 'Expresso Nitro(619663964)#0' 3-max (real money) Seat #3 is the button
+Seat 1: nono749 (157)
+Seat 2: _SKR (513)
+Seat 3: DAO79 (230)
+*** ANTE/BLINDS ***
+nono749 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc Kc]
+*** PRE-FLOP *** 
+DAO79 folds
+nono749 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661436459889721345-4-1673013222 - Holdem no limit (10/20) - 2023/01/06 13:53:42 UTC
+Table: 'Expresso Nitro(619663964)#0' 3-max (real money) Seat #1 is the button
+Seat 1: nono749 (147)
+Seat 2: _SKR (523)
+Seat 3: DAO79 (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+DAO79 posts big blind 20
+Dealt to _SKR [3s 4c]
+*** PRE-FLOP *** 
+nono749 calls 20
+_SKR folds
+DAO79 checks
+*** FLOP *** [2h 8d 4h]
+DAO79 checks
+nono749 bets 20
+DAO79 folds
+nono749 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [2h 8d 4h]
+Seat 1: nono749 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661436459889721345-5-1673013235 - Holdem no limit (10/20) - 2023/01/06 13:53:55 UTC
+Table: 'Expresso Nitro(619663964)#0' 3-max (real money) Seat #2 is the button
+Seat 1: nono749 (177)
+Seat 2: _SKR (513)
+Seat 3: DAO79 (210)
+*** ANTE/BLINDS ***
+DAO79 posts small blind 10
+nono749 posts big blind 20
+Dealt to _SKR [9h 9s]
+*** PRE-FLOP *** 
+_SKR raises 493 to 513 and is all-in
+DAO79 calls 200 and is all-in
+nono749 calls 157 and is all-in
+*** FLOP *** [Js 4h Jc]
+*** TURN *** [Js 4h Jc][8s]
+*** RIVER *** [Js 4h Jc 8s][9d]
+*** SHOW DOWN ***
+nono749 shows [8d 8h] (Full of 8 and Jacks)
+DAO79 shows [Ts Kh] (One pair : Jacks)
+_SKR shows [9h 9s] (Full of 9 and Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js 4h Jc 8s 9d]
+Seat 1: nono749 (big blind) showed [8d 8h] and lost with Full of 8 and Jacks
+Seat 2: _SKR (button) showed [9h 9s] and won 900 with Full of 9 and Jacks
+Seat 3: DAO79 (small blind) showed [Ts Kh] and lost with One pair : Jacks
+
+

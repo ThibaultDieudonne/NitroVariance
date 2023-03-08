@@ -1,0 +1,211 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666578549355315201-1-1673283715 - Holdem no limit (10/20) - 2023/01/09 17:01:55 UTC
+Table: 'Expresso Nitro(620861200)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ElNino0 (300)
+Seat 2: _SKR (300)
+Seat 3: Bzhnarga (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Bzhnarga posts big blind 20
+Dealt to _SKR [7d Qs]
+*** PRE-FLOP *** 
+ElNino0 raises 280 to 300 and is all-in
+_SKR folds
+Bzhnarga folds
+ElNino0 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: ElNino0 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666578549355315201-2-1673283723 - Holdem no limit (10/20) - 2023/01/09 17:02:03 UTC
+Table: 'Expresso Nitro(620861200)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ElNino0 (330)
+Seat 2: _SKR (290)
+Seat 3: Bzhnarga (280)
+*** ANTE/BLINDS ***
+Bzhnarga posts small blind 10
+ElNino0 posts big blind 20
+Dealt to _SKR [Kh 7h]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Bzhnarga folds
+ElNino0 raises 290 to 330 and is all-in
+_SKR folds
+ElNino0 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 1: ElNino0 (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666578549355315201-3-1673283731 - Holdem no limit (10/20) - 2023/01/09 17:02:11 UTC
+Table: 'Expresso Nitro(620861200)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ElNino0 (380)
+Seat 2: _SKR (250)
+Seat 3: Bzhnarga (270)
+*** ANTE/BLINDS ***
+ElNino0 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d 5c]
+*** PRE-FLOP *** 
+Bzhnarga folds
+ElNino0 calls 10
+_SKR checks
+*** FLOP *** [2c 3c Tc]
+ElNino0 bets 20
+_SKR calls 20
+*** TURN *** [2c 3c Tc][Kd]
+ElNino0 checks
+_SKR checks
+*** RIVER *** [2c 3c Tc Kd][2d]
+ElNino0 checks
+_SKR checks
+*** SHOW DOWN ***
+ElNino0 shows [6h 7h] (One pair : 2)
+_SKR shows [3d 5c] (Two pairs : 3 and 2)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2c 3c Tc Kd 2d]
+Seat 1: ElNino0 (small blind) showed [6h 7h] and lost with One pair : 2
+Seat 2: _SKR (big blind) showed [3d 5c] and won 80 with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666578549355315201-4-1673283754 - Holdem no limit (10/20) - 2023/01/09 17:02:34 UTC
+Table: 'Expresso Nitro(620861200)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ElNino0 (340)
+Seat 2: _SKR (290)
+Seat 3: Bzhnarga (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Bzhnarga posts big blind 20
+Dealt to _SKR [7c Qc]
+*** PRE-FLOP *** 
+ElNino0 folds
+_SKR raises 270 to 290 and is all-in
+Bzhnarga folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: _SKR (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666578549355315201-5-1673283771 - Holdem no limit (15/30) - 2023/01/09 17:02:51 UTC
+Table: 'Expresso Nitro(620861200)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ElNino0 (340)
+Seat 2: _SKR (310)
+Seat 3: Bzhnarga (250)
+*** ANTE/BLINDS ***
+Bzhnarga posts small blind 15
+ElNino0 posts big blind 30
+Dealt to _SKR [6s Js]
+*** PRE-FLOP *** 
+_SKR folds
+Bzhnarga raises 220 to 250 and is all-in
+ElNino0 calls 220
+*** FLOP *** [Qc 4h Ks]
+*** TURN *** [Qc 4h Ks][Tc]
+*** RIVER *** [Qc 4h Ks Tc][Ac]
+*** SHOW DOWN ***
+ElNino0 shows [8h Kh] (One pair : Kings)
+Bzhnarga shows [5s Ad] (One pair : Aces)
+Bzhnarga collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Qc 4h Ks Tc Ac]
+Seat 1: ElNino0 (big blind) showed [8h Kh] and lost with One pair : Kings
+Seat 3: Bzhnarga (small blind) showed [5s Ad] and won 500 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666578549355315201-6-1673283786 - Holdem no limit (15/30) - 2023/01/09 17:03:06 UTC
+Table: 'Expresso Nitro(620861200)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ElNino0 (90)
+Seat 2: _SKR (310)
+Seat 3: Bzhnarga (500)
+*** ANTE/BLINDS ***
+ElNino0 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc Ad]
+*** PRE-FLOP *** 
+Bzhnarga folds
+ElNino0 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666578549355315201-7-1673283791 - Holdem no limit (15/30) - 2023/01/09 17:03:11 UTC
+Table: 'Expresso Nitro(620861200)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ElNino0 (75)
+Seat 2: _SKR (325)
+Seat 3: Bzhnarga (500)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Bzhnarga posts big blind 30
+Dealt to _SKR [7s Td]
+*** PRE-FLOP *** 
+ElNino0 raises 45 to 75 and is all-in
+_SKR folds
+Bzhnarga folds
+ElNino0 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: ElNino0 (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666578549355315201-8-1673283800 - Holdem no limit (15/30) - 2023/01/09 17:03:20 UTC
+Table: 'Expresso Nitro(620861200)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ElNino0 (120)
+Seat 2: _SKR (310)
+Seat 3: Bzhnarga (470)
+*** ANTE/BLINDS ***
+Bzhnarga posts small blind 15
+ElNino0 posts big blind 30
+Dealt to _SKR [9s 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Bzhnarga raises 440 to 470 and is all-in
+ElNino0 calls 90 and is all-in
+*** FLOP *** [7c Js 2d]
+*** TURN *** [7c Js 2d][Qs]
+*** RIVER *** [7c Js 2d Qs][4h]
+*** SHOW DOWN ***
+ElNino0 shows [7s 6s] (One pair : 7)
+Bzhnarga shows [Ah 2s] (One pair : 2)
+Bzhnarga collected 350 from side pot 1
+ElNino0 collected 240 from main pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [7c Js 2d Qs 4h]
+Seat 1: ElNino0 (big blind) showed [7s 6s] and won 240 with One pair : 7
+Seat 3: Bzhnarga (small blind) showed [Ah 2s] and won 350 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666578549355315201-9-1673283814 - Holdem no limit (15/30) - 2023/01/09 17:03:34 UTC
+Table: 'Expresso Nitro(620861200)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ElNino0 (240)
+Seat 2: _SKR (310)
+Seat 3: Bzhnarga (350)
+*** ANTE/BLINDS ***
+ElNino0 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qd Ac]
+*** PRE-FLOP *** 
+Bzhnarga raises 38 to 68
+ElNino0 folds
+_SKR raises 242 to 310 and is all-in
+Bzhnarga calls 242
+*** FLOP *** [6c Qh 9h]
+*** TURN *** [6c Qh 9h][3h]
+*** RIVER *** [6c Qh 9h 3h][5c]
+*** SHOW DOWN ***
+_SKR shows [Qd Ac] (One pair : Queens)
+Bzhnarga shows [Kd Kh] (One pair : Kings)
+Bzhnarga collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | No rake
+Board: [6c Qh 9h 3h 5c]
+Seat 2: _SKR (big blind) showed [Qd Ac] and lost with One pair : Queens
+Seat 3: Bzhnarga (button) showed [Kd Kh] and won 635 with One pair : Kings
+
+

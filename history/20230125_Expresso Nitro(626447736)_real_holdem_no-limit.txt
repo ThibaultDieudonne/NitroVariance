@@ -1,0 +1,364 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690572538773241857-1-1674686381 - Holdem no limit (10/20) - 2023/01/25 22:39:41 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rysley (300)
+Seat 2: stuCCungar (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+stuCCungar posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c 7d]
+*** PRE-FLOP *** 
+Rysley raises 280 to 300 and is all-in
+stuCCungar folds
+_SKR folds
+Rysley collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Rysley (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690572538773241857-2-1674686389 - Holdem no limit (10/20) - 2023/01/25 22:39:49 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rysley (330)
+Seat 2: stuCCungar (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Rysley posts big blind 20
+Dealt to _SKR [Tc 4h]
+*** PRE-FLOP *** 
+stuCCungar raises 20 to 40
+_SKR folds
+Rysley folds
+stuCCungar collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: stuCCungar (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690572538773241857-3-1674686405 - Holdem no limit (10/20) - 2023/01/25 22:40:05 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rysley (310)
+Seat 2: stuCCungar (320)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Rysley posts small blind 10
+stuCCungar posts big blind 20
+Dealt to _SKR [Kh Ts]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Rysley raises 40 to 310 and is all-in
+stuCCungar folds
+*** FLOP *** [Kd Td As]
+*** TURN *** [Kd Td As][9c]
+*** RIVER *** [Kd Td As 9c][Jc]
+*** SHOW DOWN ***
+Rysley shows [6d 6h] (One pair : 6)
+_SKR shows [Kh Ts] (Two pairs : Kings and Tens)
+_SKR collected 560 from main pot
+Rysley collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kd Td As 9c Jc]
+Seat 1: Rysley (small blind) showed [6d 6h] and won 40 with One pair : 6
+Seat 3: _SKR (button) showed [Kh Ts] and won 560 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690572538773241857-4-1674686427 - Holdem no limit (10/20) - 2023/01/25 22:40:27 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rysley (40)
+Seat 2: stuCCungar (300)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+stuCCungar posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d 9h]
+*** PRE-FLOP *** 
+Rysley raises 20 to 40 and is all-in
+stuCCungar calls 30
+_SKR folds
+*** FLOP *** [4h 2s Ah]
+*** TURN *** [4h 2s Ah][5d]
+*** RIVER *** [4h 2s Ah 5d][Tc]
+*** SHOW DOWN ***
+Rysley shows [8c 7h] (High card : Ace)
+stuCCungar shows [Qc As] (One pair : Aces)
+stuCCungar collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4h 2s Ah 5d Tc]
+Seat 1: Rysley (button) showed [8c 7h] and lost with High card : Ace
+Seat 2: stuCCungar (small blind) showed [Qc As] and won 100 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690572538773241857-5-1674686442 - Holdem no limit (15/30) - 2023/01/25 22:40:42 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #3 is the button
+Seat 2: stuCCungar (360)
+Seat 3: _SKR (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+stuCCungar posts big blind 30
+Dealt to _SKR [3d Kd]
+*** PRE-FLOP *** 
+_SKR calls 15
+stuCCungar checks
+*** FLOP *** [Js Qd 2h]
+stuCCungar checks
+_SKR checks
+*** TURN *** [Js Qd 2h][Kc]
+stuCCungar bets 39
+_SKR calls 39
+*** RIVER *** [Js Qd 2h Kc][Qs]
+stuCCungar bets 69
+_SKR calls 69
+*** SHOW DOWN ***
+stuCCungar shows [Th Jc] (Two pairs : Queens and Jacks)
+_SKR shows [3d Kd] (Two pairs : Kings and Queens)
+_SKR collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | No rake
+Board: [Js Qd 2h Kc Qs]
+Seat 2: stuCCungar (big blind) showed [Th Jc] and lost with Two pairs : Queens and Jacks
+Seat 3: _SKR (small blind) (button) showed [3d Kd] and won 276 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690572538773241857-6-1674686484 - Holdem no limit (15/30) - 2023/01/25 22:41:24 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #2 is the button
+Seat 2: stuCCungar (222)
+Seat 3: _SKR (678)
+*** ANTE/BLINDS ***
+stuCCungar posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5c Ks]
+*** PRE-FLOP *** 
+stuCCungar raises 192 to 222 and is all-in
+_SKR folds
+stuCCungar collected 252 from pot
+*** SUMMARY ***
+Total pot 252 | No rake
+Seat 2: stuCCungar (small blind) (button) won 252
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690572538773241857-7-1674686493 - Holdem no limit (15/30) - 2023/01/25 22:41:33 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #3 is the button
+Seat 2: stuCCungar (252)
+Seat 3: _SKR (648)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+stuCCungar posts big blind 30
+Dealt to _SKR [4h 2h]
+*** PRE-FLOP *** 
+_SKR folds
+stuCCungar collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: stuCCungar (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690572538773241857-8-1674686498 - Holdem no limit (20/40) - 2023/01/25 22:41:38 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #2 is the button
+Seat 2: stuCCungar (267)
+Seat 3: _SKR (633)
+*** ANTE/BLINDS ***
+stuCCungar posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd 7s]
+*** PRE-FLOP *** 
+stuCCungar folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690572538773241857-9-1674686506 - Holdem no limit (20/40) - 2023/01/25 22:41:46 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #3 is the button
+Seat 2: stuCCungar (247)
+Seat 3: _SKR (653)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+stuCCungar posts big blind 40
+Dealt to _SKR [5s 7h]
+*** PRE-FLOP *** 
+_SKR folds
+stuCCungar collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: stuCCungar (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690572538773241857-10-1674686511 - Holdem no limit (20/40) - 2023/01/25 22:41:51 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #2 is the button
+Seat 2: stuCCungar (267)
+Seat 3: _SKR (633)
+*** ANTE/BLINDS ***
+stuCCungar posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd 4s]
+*** PRE-FLOP *** 
+stuCCungar folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690572538773241857-11-1674686515 - Holdem no limit (20/40) - 2023/01/25 22:41:55 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #3 is the button
+Seat 2: stuCCungar (247)
+Seat 3: _SKR (653)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+stuCCungar posts big blind 40
+Dealt to _SKR [8d Kc]
+*** PRE-FLOP *** 
+_SKR raises 613 to 653 and is all-in
+stuCCungar folds
+_SKR collected 693 from pot
+*** SUMMARY ***
+Total pot 693 | No rake
+Seat 3: _SKR (small blind) (button) won 693
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690572538773241857-12-1674686526 - Holdem no limit (20/40) - 2023/01/25 22:42:06 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #2 is the button
+Seat 2: stuCCungar (207)
+Seat 3: _SKR (693)
+*** ANTE/BLINDS ***
+stuCCungar posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8c Ks]
+*** PRE-FLOP *** 
+stuCCungar folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690572538773241857-13-1674686530 - Holdem no limit (20/40) - 2023/01/25 22:42:10 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #3 is the button
+Seat 2: stuCCungar (187)
+Seat 3: _SKR (713)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+stuCCungar posts big blind 40
+Dealt to _SKR [Jc Ad]
+*** PRE-FLOP *** 
+_SKR raises 673 to 713 and is all-in
+stuCCungar calls 147 and is all-in
+*** FLOP *** [5c Td 6d]
+*** TURN *** [5c Td 6d][8d]
+*** RIVER *** [5c Td 6d 8d][Tc]
+*** SHOW DOWN ***
+stuCCungar shows [8s 7s] (Two pairs : Tens and 8)
+_SKR shows [Jc Ad] (One pair : Tens)
+_SKR collected 526 from side pot 1
+stuCCungar collected 374 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c Td 6d 8d Tc]
+Seat 2: stuCCungar (big blind) showed [8s 7s] and won 374 with Two pairs : Tens and 8
+Seat 3: _SKR (small blind) (button) showed [Jc Ad] and won 526 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690572538773241857-14-1674686542 - Holdem no limit (20/40) - 2023/01/25 22:42:22 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #2 is the button
+Seat 2: stuCCungar (374)
+Seat 3: _SKR (526)
+*** ANTE/BLINDS ***
+stuCCungar posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ts 9h]
+*** PRE-FLOP *** 
+stuCCungar raises 334 to 374 and is all-in
+_SKR folds
+stuCCungar collected 414 from pot
+*** SUMMARY ***
+Total pot 414 | No rake
+Seat 2: stuCCungar (small blind) (button) won 414
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690572538773241857-15-1674686555 - Holdem no limit (20/40) - 2023/01/25 22:42:35 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #3 is the button
+Seat 2: stuCCungar (414)
+Seat 3: _SKR (486)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+stuCCungar posts big blind 40
+Dealt to _SKR [7d 6h]
+*** PRE-FLOP *** 
+_SKR folds
+stuCCungar collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: stuCCungar (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690572538773241857-16-1674686558 - Holdem no limit (30/60) - 2023/01/25 22:42:38 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #2 is the button
+Seat 2: stuCCungar (434)
+Seat 3: _SKR (466)
+*** ANTE/BLINDS ***
+stuCCungar posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2d 3c]
+*** PRE-FLOP *** 
+stuCCungar raises 374 to 434 and is all-in
+_SKR folds
+stuCCungar collected 494 from pot
+*** SUMMARY ***
+Total pot 494 | No rake
+Seat 2: stuCCungar (small blind) (button) won 494
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690572538773241857-17-1674686566 - Holdem no limit (30/60) - 2023/01/25 22:42:46 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #3 is the button
+Seat 2: stuCCungar (494)
+Seat 3: _SKR (406)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+stuCCungar posts big blind 60
+Dealt to _SKR [As 6s]
+*** PRE-FLOP *** 
+_SKR raises 346 to 406 and is all-in
+stuCCungar calls 346
+*** FLOP *** [9s Ad 9h]
+*** TURN *** [9s Ad 9h][7h]
+*** RIVER *** [9s Ad 9h 7h][8s]
+*** SHOW DOWN ***
+stuCCungar shows [5c 5s] (Two pairs : 9 and 5)
+_SKR shows [As 6s] (Two pairs : Aces and 9)
+_SKR collected 812 from pot
+*** SUMMARY ***
+Total pot 812 | No rake
+Board: [9s Ad 9h 7h 8s]
+Seat 2: stuCCungar (big blind) showed [5c 5s] and lost with Two pairs : 9 and 5
+Seat 3: _SKR (small blind) (button) showed [As 6s] and won 812 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690572538773241857-18-1674686580 - Holdem no limit (30/60) - 2023/01/25 22:43:00 UTC
+Table: 'Expresso Nitro(626447736)#0' 3-max (real money) Seat #2 is the button
+Seat 2: stuCCungar (88)
+Seat 3: _SKR (812)
+*** ANTE/BLINDS ***
+stuCCungar posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9c As]
+*** PRE-FLOP *** 
+stuCCungar raises 28 to 88 and is all-in
+_SKR calls 28
+*** FLOP *** [2d Kd 9s]
+*** TURN *** [2d Kd 9s][8d]
+*** RIVER *** [2d Kd 9s 8d][Qc]
+*** SHOW DOWN ***
+stuCCungar shows [2s 7s] (One pair : 2)
+_SKR shows [9c As] (One pair : 9)
+_SKR collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | No rake
+Board: [2d Kd 9s 8d Qc]
+Seat 2: stuCCungar (small blind) (button) showed [2s 7s] and lost with One pair : 2
+Seat 3: _SKR (big blind) showed [9c As] and won 176 with One pair : 9
+
+

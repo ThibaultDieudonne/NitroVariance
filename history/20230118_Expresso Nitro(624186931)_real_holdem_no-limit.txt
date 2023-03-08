@@ -1,0 +1,312 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680862455235608577-1-1674082442 - Holdem no limit (10/20) - 2023/01/18 22:54:02 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Clemence7612 (300)
+Seat 2: _SKR (300)
+Seat 3: SoulySwarren (300)
+*** ANTE/BLINDS ***
+SoulySwarren posts small blind 10
+Clemence7612 posts big blind 20
+Dealt to _SKR [6s 4c]
+*** PRE-FLOP *** 
+_SKR folds
+SoulySwarren calls 10
+Clemence7612 checks
+*** FLOP *** [5h 5s As]
+SoulySwarren checks
+Clemence7612 checks
+*** TURN *** [5h 5s As][Qd]
+SoulySwarren bets 20
+Clemence7612 calls 20
+*** RIVER *** [5h 5s As Qd][3d]
+SoulySwarren bets 80
+Clemence7612 calls 80
+*** SHOW DOWN ***
+Clemence7612 shows [Ad 4d] (Two pairs : Aces and 5)
+SoulySwarren shows [Qs 5d] (Full of 5 and Queens)
+SoulySwarren collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5h 5s As Qd 3d]
+Seat 1: Clemence7612 (big blind) showed [Ad 4d] and lost with Two pairs : Aces and 5
+Seat 3: SoulySwarren (small blind) showed [Qs 5d] and won 240 with Full of 5 and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680862455235608577-2-1674082471 - Holdem no limit (10/20) - 2023/01/18 22:54:31 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Clemence7612 (180)
+Seat 2: _SKR (300)
+Seat 3: SoulySwarren (420)
+*** ANTE/BLINDS ***
+Clemence7612 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s 9c]
+*** PRE-FLOP *** 
+SoulySwarren raises 400 to 420 and is all-in
+Clemence7612 folds
+_SKR folds
+SoulySwarren collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 3: SoulySwarren (button) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680862455235608577-3-1674082481 - Holdem no limit (10/20) - 2023/01/18 22:54:41 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Clemence7612 (170)
+Seat 2: _SKR (280)
+Seat 3: SoulySwarren (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+SoulySwarren posts big blind 20
+Dealt to _SKR [3s 7d]
+*** PRE-FLOP *** 
+Clemence7612 folds
+_SKR folds
+SoulySwarren collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: SoulySwarren (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680862455235608577-4-1674082485 - Holdem no limit (10/20) - 2023/01/18 22:54:45 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Clemence7612 (170)
+Seat 2: _SKR (270)
+Seat 3: SoulySwarren (460)
+*** ANTE/BLINDS ***
+SoulySwarren posts small blind 10
+Clemence7612 posts big blind 20
+Dealt to _SKR [4s Tc]
+*** PRE-FLOP *** 
+_SKR folds
+SoulySwarren calls 10
+Clemence7612 checks
+*** FLOP *** [6h 5d 2h]
+SoulySwarren checks
+Clemence7612 checks
+*** TURN *** [6h 5d 2h][Ah]
+SoulySwarren checks
+Clemence7612 checks
+*** RIVER *** [6h 5d 2h Ah][Js]
+SoulySwarren bets 20
+Clemence7612 raises 45 to 65
+SoulySwarren calls 45
+*** SHOW DOWN ***
+SoulySwarren shows [Jd 9c] (One pair : Jacks)
+Clemence7612 shows [Ad Kc] (One pair : Aces)
+Clemence7612 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [6h 5d 2h Ah Js]
+Seat 1: Clemence7612 (big blind) showed [Ad Kc] and won 170 with One pair : Aces
+Seat 3: SoulySwarren (small blind) showed [Jd 9c] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680862455235608577-5-1674082510 - Holdem no limit (15/30) - 2023/01/18 22:55:10 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Clemence7612 (255)
+Seat 2: _SKR (270)
+Seat 3: SoulySwarren (375)
+*** ANTE/BLINDS ***
+Clemence7612 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8c 3h]
+*** PRE-FLOP *** 
+SoulySwarren calls 30
+Clemence7612 calls 15
+_SKR checks
+*** FLOP *** [9s As 5d]
+Clemence7612 checks
+_SKR checks
+SoulySwarren checks
+*** TURN *** [9s As 5d][2s]
+Clemence7612 checks
+_SKR checks
+SoulySwarren checks
+*** RIVER *** [9s As 5d 2s][Ac]
+Clemence7612 checks
+_SKR checks
+SoulySwarren checks
+*** SHOW DOWN ***
+_SKR shows [8c 3h] (One pair : Aces)
+SoulySwarren shows [Qh 8d] (One pair : Aces)
+Clemence7612 shows [2c Ts] (Two pairs : Aces and 2)
+Clemence7612 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9s As 5d 2s Ac]
+Seat 1: Clemence7612 (small blind) showed [2c Ts] and won 90 with Two pairs : Aces and 2
+Seat 2: _SKR (big blind) showed [8c 3h] and lost with One pair : Aces
+Seat 3: SoulySwarren (button) showed [Qh 8d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680862455235608577-6-1674082555 - Holdem no limit (15/30) - 2023/01/18 22:55:55 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Clemence7612 (315)
+Seat 2: _SKR (240)
+Seat 3: SoulySwarren (345)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+SoulySwarren posts big blind 30
+Dealt to _SKR [Qh 2s]
+*** PRE-FLOP *** 
+Clemence7612 calls 30
+_SKR folds
+SoulySwarren checks
+*** FLOP *** [Jd Qc Jc]
+SoulySwarren bets 75
+Clemence7612 folds
+SoulySwarren collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Jd Qc Jc]
+Seat 3: SoulySwarren (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680862455235608577-7-1674082577 - Holdem no limit (20/40) - 2023/01/18 22:56:17 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Clemence7612 (285)
+Seat 2: _SKR (225)
+Seat 3: SoulySwarren (390)
+*** ANTE/BLINDS ***
+SoulySwarren posts small blind 20
+Clemence7612 posts big blind 40
+Dealt to _SKR [4c Ts]
+*** PRE-FLOP *** 
+_SKR folds
+SoulySwarren calls 20
+Clemence7612 checks
+*** FLOP *** [Jd Qd 8d]
+SoulySwarren checks
+Clemence7612 checks
+*** TURN *** [Jd Qd 8d][3s]
+SoulySwarren bets 40
+Clemence7612 calls 40
+*** RIVER *** [Jd Qd 8d 3s][Jh]
+SoulySwarren bets 40
+Clemence7612 calls 40
+*** SHOW DOWN ***
+Clemence7612 shows [5h 8c] (Two pairs : Jacks and 8)
+SoulySwarren shows [8s 3h] (Two pairs : Jacks and 8)
+SoulySwarren collected 120 from pot
+Clemence7612 collected 120 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jd Qd 8d 3s Jh]
+Seat 1: Clemence7612 (big blind) showed [5h 8c] and won 120 with Two pairs : Jacks and 8
+Seat 3: SoulySwarren (small blind) showed [8s 3h] and won 120 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680862455235608577-8-1674082589 - Holdem no limit (20/40) - 2023/01/18 22:56:29 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Clemence7612 (285)
+Seat 2: _SKR (225)
+Seat 3: SoulySwarren (390)
+*** ANTE/BLINDS ***
+Clemence7612 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s 7c]
+*** PRE-FLOP *** 
+SoulySwarren folds
+Clemence7612 calls 20
+_SKR checks
+*** FLOP *** [Tc Ts 4c]
+Clemence7612 checks
+_SKR checks
+*** TURN *** [Tc Ts 4c][6c]
+Clemence7612 checks
+_SKR checks
+*** RIVER *** [Tc Ts 4c 6c][Qs]
+Clemence7612 checks
+_SKR checks
+*** SHOW DOWN ***
+Clemence7612 shows [Kh 9h] (One pair : Tens)
+_SKR shows [4s 7c] (Two pairs : Tens and 4)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Tc Ts 4c 6c Qs]
+Seat 1: Clemence7612 (small blind) showed [Kh 9h] and lost with One pair : Tens
+Seat 2: _SKR (big blind) showed [4s 7c] and won 80 with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680862455235608577-9-1674082641 - Holdem no limit (30/60) - 2023/01/18 22:57:21 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Clemence7612 (245)
+Seat 2: _SKR (265)
+Seat 3: SoulySwarren (390)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+SoulySwarren posts big blind 60
+Dealt to _SKR [8c 3h]
+*** PRE-FLOP *** 
+Clemence7612 calls 60
+_SKR folds
+SoulySwarren raises 330 to 390 and is all-in
+Clemence7612 calls 185 and is all-in
+*** FLOP *** [Kh 9d 3s]
+*** TURN *** [Kh 9d 3s][6d]
+*** RIVER *** [Kh 9d 3s 6d][Td]
+*** SHOW DOWN ***
+Clemence7612 shows [Kd 4c] (One pair : Kings)
+SoulySwarren shows [Jc Jh] (One pair : Jacks)
+SoulySwarren collected 145 from side pot 1
+Clemence7612 collected 520 from main pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Board: [Kh 9d 3s 6d Td]
+Seat 1: Clemence7612 (button) showed [Kd 4c] and won 520 with One pair : Kings
+Seat 3: SoulySwarren (big blind) showed [Jc Jh] and won 145 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680862455235608577-10-1674082655 - Holdem no limit (30/60) - 2023/01/18 22:57:35 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Clemence7612 (520)
+Seat 2: _SKR (235)
+Seat 3: SoulySwarren (145)
+*** ANTE/BLINDS ***
+SoulySwarren posts small blind 30
+Clemence7612 posts big blind 60
+Dealt to _SKR [7s 2d]
+*** PRE-FLOP *** 
+_SKR folds
+SoulySwarren calls 30
+Clemence7612 checks
+*** FLOP *** [8c 2s Jh]
+SoulySwarren bets 85 and is all-in
+Clemence7612 folds
+SoulySwarren collected 205 from pot
+*** SUMMARY ***
+Total pot 205 | No rake
+Board: [8c 2s Jh]
+Seat 3: SoulySwarren (small blind) won 205
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680862455235608577-11-1674082665 - Holdem no limit (30/60) - 2023/01/18 22:57:45 UTC
+Table: 'Expresso Nitro(624186931)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Clemence7612 (460)
+Seat 2: _SKR (235)
+Seat 3: SoulySwarren (205)
+*** ANTE/BLINDS ***
+Clemence7612 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kc Jd]
+*** PRE-FLOP *** 
+SoulySwarren folds
+Clemence7612 calls 30
+_SKR raises 175 to 235 and is all-in
+Clemence7612 calls 175
+*** FLOP *** [9c 7c 7h]
+*** TURN *** [9c 7c 7h][Ah]
+*** RIVER *** [9c 7c 7h Ah][Th]
+*** SHOW DOWN ***
+_SKR shows [Kc Jd] (One pair : 7)
+Clemence7612 shows [Qs Ac] (Two pairs : Aces and 7)
+Clemence7612 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [9c 7c 7h Ah Th]
+Seat 1: Clemence7612 (small blind) showed [Qs Ac] and won 470 with Two pairs : Aces and 7
+Seat 2: _SKR (big blind) showed [Kc Jd] and lost with One pair : 7
+
+

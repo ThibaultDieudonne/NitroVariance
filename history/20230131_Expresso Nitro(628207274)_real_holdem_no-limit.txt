@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698129696939311105-1-1675182041 - Holdem no limit (10/20) - 2023/01/31 16:20:41 UTC
+Table: 'Expresso Nitro(628207274)#0' 3-max (real money) Seat #2 is the button
+Seat 1: flops02 (300)
+Seat 2: _SKR (300)
+Seat 3: Lassos0 (300)
+*** ANTE/BLINDS ***
+Lassos0 posts small blind 10
+flops02 posts big blind 20
+Dealt to _SKR [Jd 5d]
+*** PRE-FLOP *** 
+_SKR folds
+Lassos0 folds
+flops02 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: flops02 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698129696939311105-2-1675182046 - Holdem no limit (10/20) - 2023/01/31 16:20:46 UTC
+Table: 'Expresso Nitro(628207274)#0' 3-max (real money) Seat #3 is the button
+Seat 1: flops02 (310)
+Seat 2: _SKR (300)
+Seat 3: Lassos0 (290)
+*** ANTE/BLINDS ***
+flops02 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th Ts]
+*** PRE-FLOP *** 
+Lassos0 raises 20 to 40
+flops02 raises 20 to 60
+_SKR raises 240 to 300 and is all-in
+Lassos0 calls 250 and is all-in
+flops02 folds
+*** FLOP *** [Qd 7d 6c]
+*** TURN *** [Qd 7d 6c][Ac]
+*** RIVER *** [Qd 7d 6c Ac][5c]
+*** SHOW DOWN ***
+Lassos0 shows [Jd Kc] (High card : Ace)
+_SKR shows [Th Ts] (One pair : Tens)
+_SKR collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Qd 7d 6c Ac 5c]
+Seat 2: _SKR (big blind) showed [Th Ts] and won 650 with One pair : Tens
+Seat 3: Lassos0 (button) showed [Jd Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698129696939311105-3-1675182080 - Holdem no limit (10/20) - 2023/01/31 16:21:20 UTC
+Table: 'Expresso Nitro(628207274)#0' 3-max (real money) Seat #2 is the button
+Seat 1: flops02 (250)
+Seat 2: _SKR (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+flops02 posts big blind 20
+Dealt to _SKR [Td 4h]
+*** PRE-FLOP *** 
+_SKR folds
+flops02 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: flops02 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698129696939311105-4-1675182086 - Holdem no limit (10/20) - 2023/01/31 16:21:26 UTC
+Table: 'Expresso Nitro(628207274)#0' 3-max (real money) Seat #1 is the button
+Seat 1: flops02 (260)
+Seat 2: _SKR (640)
+*** ANTE/BLINDS ***
+flops02 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h Kh]
+*** PRE-FLOP *** 
+flops02 calls 10
+_SKR raises 620 to 640 and is all-in
+flops02 calls 240 and is all-in
+*** FLOP *** [8h 7h 6c]
+*** TURN *** [8h 7h 6c][Td]
+*** RIVER *** [8h 7h 6c Td][8s]
+*** SHOW DOWN ***
+flops02 shows [5d 7d] (Two pairs : 8 and 7)
+_SKR shows [9h Kh] (Straight Ten high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h 7h 6c Td 8s]
+Seat 1: flops02 (small blind) (button) showed [5d 7d] and lost with Two pairs : 8 and 7
+Seat 2: _SKR (big blind) showed [9h Kh] and won 900 with Straight Ten high
+
+

@@ -1,0 +1,357 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2676401723676819457-1-1673822807 - Holdem no limit (10/20) - 2023/01/15 22:46:47 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: SwimGood (300)
+Seat 3: Neirda-6 (300)
+*** ANTE/BLINDS ***
+Neirda-6 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js Ks]
+*** PRE-FLOP *** 
+SwimGood calls 20
+Neirda-6 raises 60 to 80
+_SKR raises 220 to 300 and is all-in
+SwimGood folds
+Neirda-6 calls 220 and is all-in
+*** FLOP *** [Qh Jh Ah]
+*** TURN *** [Qh Jh Ah][8s]
+*** RIVER *** [Qh Jh Ah 8s][Ac]
+*** SHOW DOWN ***
+Neirda-6 shows [2s 2c] (Two pairs : Aces and 2)
+_SKR shows [Js Ks] (Two pairs : Aces and Jacks)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qh Jh Ah 8s Ac]
+Seat 1: _SKR (big blind) showed [Js Ks] and won 620 with Two pairs : Aces and Jacks
+Seat 3: Neirda-6 (small blind) showed [2s 2c] and lost with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2676401723676819457-2-1673822825 - Holdem no limit (10/20) - 2023/01/15 22:47:05 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (620)
+Seat 2: SwimGood (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+SwimGood posts big blind 20
+Dealt to _SKR [Kh 7s]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+SwimGood raises 240 to 280 and is all-in
+_SKR folds
+SwimGood collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: SwimGood (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2676401723676819457-3-1673822832 - Holdem no limit (10/20) - 2023/01/15 22:47:12 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (580)
+Seat 2: SwimGood (320)
+*** ANTE/BLINDS ***
+SwimGood posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs Kh]
+*** PRE-FLOP *** 
+SwimGood raises 300 to 320 and is all-in
+_SKR calls 300
+*** FLOP *** [2s 7c Ks]
+*** TURN *** [2s 7c Ks][7s]
+*** RIVER *** [2s 7c Ks 7s][6d]
+*** SHOW DOWN ***
+_SKR shows [Qs Kh] (Two pairs : Kings and 7)
+SwimGood shows [5s As] (Flush Ace high)
+SwimGood collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [2s 7c Ks 7s 6d]
+Seat 1: _SKR (big blind) showed [Qs Kh] and lost with Two pairs : Kings and 7
+Seat 2: SwimGood (small blind) (button) showed [5s As] and won 640 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2676401723676819457-4-1673822845 - Holdem no limit (10/20) - 2023/01/15 22:47:25 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (260)
+Seat 2: SwimGood (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+SwimGood posts big blind 20
+Dealt to _SKR [Tc Ks]
+*** PRE-FLOP *** 
+_SKR raises 240 to 260 and is all-in
+SwimGood calls 240
+*** FLOP *** [Js Td 2c]
+*** TURN *** [Js Td 2c][Th]
+*** RIVER *** [Js Td 2c Th][5d]
+*** SHOW DOWN ***
+SwimGood shows [As 3s] (One pair : Tens)
+_SKR shows [Tc Ks] (Trips of Tens)
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Js Td 2c Th 5d]
+Seat 1: _SKR (small blind) (button) showed [Tc Ks] and won 520 with Trips of Tens
+Seat 2: SwimGood (big blind) showed [As 3s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2676401723676819457-5-1673822858 - Holdem no limit (10/20) - 2023/01/15 22:47:38 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (520)
+Seat 2: SwimGood (380)
+*** ANTE/BLINDS ***
+SwimGood posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 5c]
+*** PRE-FLOP *** 
+SwimGood calls 10
+_SKR checks
+*** FLOP *** [Ts 9h Kd]
+_SKR checks
+SwimGood bets 40
+_SKR folds
+SwimGood collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ts 9h Kd]
+Seat 2: SwimGood (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2676401723676819457-6-1673822865 - Holdem no limit (15/30) - 2023/01/15 22:47:45 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (500)
+Seat 2: SwimGood (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+SwimGood posts big blind 30
+Dealt to _SKR [8h 9d]
+*** PRE-FLOP *** 
+_SKR calls 15
+SwimGood checks
+*** FLOP *** [3d 6s 8c]
+SwimGood checks
+_SKR bets 30
+SwimGood raises 68 to 98
+_SKR raises 372 to 470 and is all-in
+SwimGood calls 272 and is all-in
+*** TURN *** [3d 6s 8c][6h]
+*** RIVER *** [3d 6s 8c 6h][6d]
+*** SHOW DOWN ***
+_SKR shows [8h 9d] (Full of 6 and 8)
+SwimGood shows [8s 5h] (Full of 6 and 8)
+SwimGood collected 400 from main pot
+_SKR collected 500 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 6s 8c 6h 6d]
+Seat 1: _SKR (small blind) (button) showed [8h 9d] and won 500 with Full of 6 and 8
+Seat 2: SwimGood (big blind) showed [8s 5h] and won 400 with Full of 6 and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2676401723676819457-7-1673822878 - Holdem no limit (15/30) - 2023/01/15 22:47:58 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (500)
+Seat 2: SwimGood (400)
+*** ANTE/BLINDS ***
+SwimGood posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jh 5c]
+*** PRE-FLOP *** 
+SwimGood folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2676401723676819457-8-1673822881 - Holdem no limit (15/30) - 2023/01/15 22:48:01 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (515)
+Seat 2: SwimGood (385)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+SwimGood posts big blind 30
+Dealt to _SKR [Js 5s]
+*** PRE-FLOP *** 
+_SKR calls 15
+SwimGood checks
+*** FLOP *** [Kh 6s 9c]
+SwimGood bets 30
+_SKR folds
+SwimGood collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Kh 6s 9c]
+Seat 2: SwimGood (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2676401723676819457-9-1673822888 - Holdem no limit (15/30) - 2023/01/15 22:48:08 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (485)
+Seat 2: SwimGood (415)
+*** ANTE/BLINDS ***
+SwimGood posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd As]
+*** PRE-FLOP *** 
+SwimGood folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2676401723676819457-10-1673822891 - Holdem no limit (15/30) - 2023/01/15 22:48:11 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (500)
+Seat 2: SwimGood (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+SwimGood posts big blind 30
+Dealt to _SKR [5c 3d]
+*** PRE-FLOP *** 
+_SKR folds
+SwimGood collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: SwimGood (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2676401723676819457-11-1673822894 - Holdem no limit (15/30) - 2023/01/15 22:48:14 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (485)
+Seat 2: SwimGood (415)
+*** ANTE/BLINDS ***
+SwimGood posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2s 8h]
+*** PRE-FLOP *** 
+SwimGood calls 15
+_SKR checks
+*** FLOP *** [3d Th Jc]
+_SKR checks
+SwimGood checks
+*** TURN *** [3d Th Jc][7c]
+_SKR checks
+SwimGood checks
+*** RIVER *** [3d Th Jc 7c][4c]
+_SKR checks
+SwimGood checks
+*** SHOW DOWN ***
+_SKR shows [2s 8h] (High card : Jack)
+SwimGood shows [8s Ac] (High card : Ace)
+SwimGood collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3d Th Jc 7c 4c]
+Seat 1: _SKR (big blind) showed [2s 8h] and lost with High card : Jack
+Seat 2: SwimGood (small blind) (button) showed [8s Ac] and won 60 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2676401723676819457-12-1673822904 - Holdem no limit (15/30) - 2023/01/15 22:48:24 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (455)
+Seat 2: SwimGood (445)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+SwimGood posts big blind 30
+Dealt to _SKR [2c Jd]
+*** PRE-FLOP *** 
+_SKR folds
+SwimGood collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: SwimGood (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2676401723676819457-13-1673822908 - Holdem no limit (15/30) - 2023/01/15 22:48:28 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (440)
+Seat 2: SwimGood (460)
+*** ANTE/BLINDS ***
+SwimGood posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8h 7s]
+*** PRE-FLOP *** 
+SwimGood calls 15
+_SKR checks
+*** FLOP *** [5h Js Ts]
+_SKR checks
+SwimGood checks
+*** TURN *** [5h Js Ts][Th]
+_SKR bets 39
+SwimGood calls 39
+*** RIVER *** [5h Js Ts Th][As]
+_SKR bets 90
+SwimGood calls 90
+*** SHOW DOWN ***
+_SKR shows [8h 7s] (One pair : Tens)
+SwimGood shows [9s Td] (Trips of Tens)
+SwimGood collected 318 from pot
+*** SUMMARY ***
+Total pot 318 | No rake
+Board: [5h Js Ts Th As]
+Seat 1: _SKR (big blind) showed [8h 7s] and lost with One pair : Tens
+Seat 2: SwimGood (small blind) (button) showed [9s Td] and won 318 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2676401723676819457-14-1673822924 - Holdem no limit (20/40) - 2023/01/15 22:48:44 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (281)
+Seat 2: SwimGood (619)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+SwimGood posts big blind 40
+Dealt to _SKR [4h 7h]
+*** PRE-FLOP *** 
+_SKR raises 241 to 281 and is all-in
+SwimGood folds
+_SKR collected 321 from pot
+*** SUMMARY ***
+Total pot 321 | No rake
+Seat 1: _SKR (small blind) (button) won 321
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2676401723676819457-15-1673822928 - Holdem no limit (20/40) - 2023/01/15 22:48:48 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (321)
+Seat 2: SwimGood (579)
+*** ANTE/BLINDS ***
+SwimGood posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s Js]
+*** PRE-FLOP *** 
+SwimGood calls 20
+_SKR raises 281 to 321 and is all-in
+SwimGood folds
+_SKR collected 361 from pot
+*** SUMMARY ***
+Total pot 361 | No rake
+Seat 1: _SKR (big blind) won 361
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2676401723676819457-16-1673822934 - Holdem no limit (20/40) - 2023/01/15 22:48:54 UTC
+Table: 'Expresso Nitro(623148336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (361)
+Seat 2: SwimGood (539)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+SwimGood posts big blind 40
+Dealt to _SKR [8d Js]
+*** PRE-FLOP *** 
+_SKR raises 321 to 361 and is all-in
+SwimGood calls 321
+*** FLOP *** [Qd 7c 6h]
+*** TURN *** [Qd 7c 6h][Tc]
+*** RIVER *** [Qd 7c 6h Tc][As]
+*** SHOW DOWN ***
+_SKR shows [8d Js] (High card : Ace)
+SwimGood shows [Ah 6d] (Two pairs : Aces and 6)
+SwimGood collected 722 from pot
+*** SUMMARY ***
+Total pot 722 | No rake
+Board: [Qd 7c 6h Tc As]
+Seat 1: _SKR (small blind) (button) showed [8d Js] and lost with High card : Ace
+Seat 2: SwimGood (big blind) showed [Ah 6d] and won 722 with Two pairs : Aces and 6
+
+

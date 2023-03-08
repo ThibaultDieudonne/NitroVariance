@@ -1,0 +1,328 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717223949011255297-1-1676212682 - Holdem no limit (10/20) - 2023/02/12 14:38:02 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Canard-45507 (300)
+Seat 3: Falcon38122 (300)
+*** ANTE/BLINDS ***
+Canard-45507 posts small blind 10
+Falcon38122 posts big blind 20
+Dealt to _SKR [Kd Qs]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Canard-45507 folds
+Falcon38122 folds
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: _SKR (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717223949011255297-2-1676212689 - Holdem no limit (10/20) - 2023/02/12 14:38:09 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (330)
+Seat 2: Canard-45507 (290)
+Seat 3: Falcon38122 (280)
+*** ANTE/BLINDS ***
+Falcon38122 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 5c]
+*** PRE-FLOP *** 
+Canard-45507 calls 20
+Falcon38122 calls 10
+_SKR checks
+*** FLOP *** [5s 7h 5d]
+Falcon38122 checks
+_SKR checks
+Canard-45507 checks
+*** TURN *** [5s 7h 5d][2s]
+Falcon38122 bets 20
+_SKR calls 20
+Canard-45507 calls 20
+*** RIVER *** [5s 7h 5d 2s][Ac]
+Falcon38122 checks
+_SKR bets 78
+Canard-45507 calls 78
+Falcon38122 folds
+*** SHOW DOWN ***
+Canard-45507 shows [7d Qd] (Two pairs : 7 and 5)
+_SKR shows [7c 5c] (Full of 5 and 7)
+_SKR collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | No rake
+Board: [5s 7h 5d 2s Ac]
+Seat 1: _SKR (big blind) showed [7c 5c] and won 276 with Full of 5 and 7
+Seat 2: Canard-45507 (button) showed [7d Qd] and lost with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717223949011255297-3-1676212747 - Holdem no limit (15/30) - 2023/02/12 14:39:07 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (488)
+Seat 2: Canard-45507 (172)
+Seat 3: Falcon38122 (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Canard-45507 posts big blind 30
+Dealt to _SKR [9s 2s]
+*** PRE-FLOP *** 
+Falcon38122 raises 30 to 60
+_SKR folds
+Canard-45507 calls 30
+*** FLOP *** [5c 8h 4h]
+Canard-45507 checks
+Falcon38122 bets 180 and is all-in
+Canard-45507 folds
+Falcon38122 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [5c 8h 4h]
+Seat 3: Falcon38122 (button) won 315
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717223949011255297-4-1676212764 - Holdem no limit (15/30) - 2023/02/12 14:39:24 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (473)
+Seat 2: Canard-45507 (112)
+Seat 3: Falcon38122 (315)
+*** ANTE/BLINDS ***
+Canard-45507 posts small blind 15
+Falcon38122 posts big blind 30
+Dealt to _SKR [Kd 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Canard-45507 raises 82 to 112 and is all-in
+Falcon38122 calls 82
+*** FLOP *** [8d 9d 6h]
+*** TURN *** [8d 9d 6h][7c]
+*** RIVER *** [8d 9d 6h 7c][Qd]
+*** SHOW DOWN ***
+Canard-45507 shows [Kh Ad] (High card : Ace)
+Falcon38122 shows [Js 5s] (Straight 9 high)
+Falcon38122 collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | No rake
+Board: [8d 9d 6h 7c Qd]
+Seat 2: Canard-45507 (small blind) showed [Kh Ad] and lost with High card : Ace
+Seat 3: Falcon38122 (big blind) showed [Js 5s] and won 224 with Straight 9 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717223949011255297-5-1676212779 - Holdem no limit (15/30) - 2023/02/12 14:39:39 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (473)
+Seat 3: Falcon38122 (427)
+*** ANTE/BLINDS ***
+Falcon38122 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc 4h]
+*** PRE-FLOP *** 
+Falcon38122 calls 15
+_SKR checks
+*** FLOP *** [Td 9d 2h]
+_SKR checks
+Falcon38122 checks
+*** TURN *** [Td 9d 2h][5s]
+_SKR checks
+Falcon38122 checks
+*** RIVER *** [Td 9d 2h 5s][4s]
+_SKR checks
+Falcon38122 checks
+*** SHOW DOWN ***
+Falcon38122 shows [6c 7d] (High card : Ten)
+_SKR shows [Kc 4h] (One pair : 4)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Td 9d 2h 5s 4s]
+Seat 1: _SKR (big blind) showed [Kc 4h] and won 60 with One pair : 4
+Seat 3: Falcon38122 (small blind) (button) showed [6c 7d] and lost with High card : Ten
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717223949011255297-6-1676212801 - Holdem no limit (20/40) - 2023/02/12 14:40:01 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (503)
+Seat 3: Falcon38122 (397)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Falcon38122 posts big blind 40
+Dealt to _SKR [4h 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Falcon38122 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Falcon38122 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717223949011255297-7-1676212804 - Holdem no limit (20/40) - 2023/02/12 14:40:04 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (483)
+Seat 3: Falcon38122 (417)
+*** ANTE/BLINDS ***
+Falcon38122 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ts Kc]
+*** PRE-FLOP *** 
+Falcon38122 calls 20
+_SKR raises 443 to 483 and is all-in
+Falcon38122 folds
+_SKR collected 523 from pot
+*** SUMMARY ***
+Total pot 523 | No rake
+Seat 1: _SKR (big blind) won 523
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717223949011255297-8-1676212811 - Holdem no limit (20/40) - 2023/02/12 14:40:11 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (523)
+Seat 3: Falcon38122 (377)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Falcon38122 posts big blind 40
+Dealt to _SKR [6d Ts]
+*** PRE-FLOP *** 
+_SKR folds
+Falcon38122 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Falcon38122 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717223949011255297-9-1676212818 - Holdem no limit (20/40) - 2023/02/12 14:40:18 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (503)
+Seat 3: Falcon38122 (397)
+*** ANTE/BLINDS ***
+Falcon38122 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ts 2s]
+*** PRE-FLOP *** 
+Falcon38122 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717223949011255297-10-1676212822 - Holdem no limit (20/40) - 2023/02/12 14:40:22 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (523)
+Seat 3: Falcon38122 (377)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Falcon38122 posts big blind 40
+Dealt to _SKR [Qs 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Falcon38122 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Falcon38122 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717223949011255297-11-1676212826 - Holdem no limit (20/40) - 2023/02/12 14:40:26 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (503)
+Seat 3: Falcon38122 (397)
+*** ANTE/BLINDS ***
+Falcon38122 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s Qs]
+*** PRE-FLOP *** 
+Falcon38122 calls 20
+_SKR raises 463 to 503 and is all-in
+Falcon38122 folds
+_SKR collected 543 from pot
+*** SUMMARY ***
+Total pot 543 | No rake
+Seat 1: _SKR (big blind) won 543
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717223949011255297-12-1676212843 - Holdem no limit (20/40) - 2023/02/12 14:40:43 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (543)
+Seat 3: Falcon38122 (357)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Falcon38122 posts big blind 40
+Dealt to _SKR [3h 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Falcon38122 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Falcon38122 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717223949011255297-13-1676212847 - Holdem no limit (20/40) - 2023/02/12 14:40:47 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (523)
+Seat 3: Falcon38122 (377)
+*** ANTE/BLINDS ***
+Falcon38122 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qc 9s]
+*** PRE-FLOP *** 
+Falcon38122 raises 40 to 80
+_SKR calls 40
+*** FLOP *** [Qh 9c Ah]
+_SKR checks
+Falcon38122 bets 56
+_SKR calls 56
+*** TURN *** [Qh 9c Ah][Jc]
+_SKR checks
+Falcon38122 checks
+*** RIVER *** [Qh 9c Ah Jc][5d]
+_SKR bets 136
+Falcon38122 calls 136
+*** SHOW DOWN ***
+Falcon38122 shows [As 8h] (One pair : Aces)
+_SKR shows [Qc 9s] (Two pairs : Queens and 9)
+_SKR collected 544 from pot
+*** SUMMARY ***
+Total pot 544 | No rake
+Board: [Qh 9c Ah Jc 5d]
+Seat 1: _SKR (big blind) showed [Qc 9s] and won 544 with Two pairs : Queens and 9
+Seat 3: Falcon38122 (small blind) (button) showed [As 8h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717223949011255297-14-1676212873 - Holdem no limit (30/60) - 2023/02/12 14:41:13 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (795)
+Seat 3: Falcon38122 (105)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Falcon38122 posts big blind 60
+Dealt to _SKR [7c 9s]
+*** PRE-FLOP *** 
+_SKR folds
+Falcon38122 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Falcon38122 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717223949011255297-15-1676212879 - Holdem no limit (30/60) - 2023/02/12 14:41:19 UTC
+Table: 'Expresso Nitro(632653001)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (765)
+Seat 3: Falcon38122 (135)
+*** ANTE/BLINDS ***
+Falcon38122 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2c Jd]
+*** PRE-FLOP *** 
+Falcon38122 calls 30
+_SKR raises 705 to 765 and is all-in
+Falcon38122 calls 75 and is all-in
+*** FLOP *** [4c Ad 4h]
+*** TURN *** [4c Ad 4h][3h]
+*** RIVER *** [4c Ad 4h 3h][Kc]
+*** SHOW DOWN ***
+Falcon38122 shows [8s Th] (One pair : 4)
+_SKR shows [2c Jd] (One pair : 4)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c Ad 4h 3h Kc]
+Seat 1: _SKR (big blind) showed [2c Jd] and won 900 with One pair : 4
+Seat 3: Falcon38122 (small blind) (button) showed [8s Th] and lost with One pair : 4
+
+

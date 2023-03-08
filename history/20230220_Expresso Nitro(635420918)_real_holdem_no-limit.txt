@@ -1,0 +1,162 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729112062004297729-1-1676901205 - Holdem no limit (10/20) - 2023/02/20 13:53:25 UTC
+Table: 'Expresso Nitro(635420918)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mirika (300)
+Seat 2: 5019.P (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+mirika posts big blind 20
+Dealt to _SKR [2s 4d]
+*** PRE-FLOP *** 
+5019.P folds
+_SKR folds
+mirika collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: mirika (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729112062004297729-2-1676901218 - Holdem no limit (10/20) - 2023/02/20 13:53:38 UTC
+Table: 'Expresso Nitro(635420918)#0' 3-max (real money) Seat #3 is the button
+Seat 1: mirika (310)
+Seat 2: 5019.P (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+mirika posts small blind 10
+5019.P posts big blind 20
+Dealt to _SKR [Qd 3h]
+*** PRE-FLOP *** 
+_SKR folds
+mirika calls 10
+5019.P checks
+*** FLOP *** [5h 2s 5c]
+mirika bets 20
+5019.P calls 20
+*** TURN *** [5h 2s 5c][6c]
+mirika bets 20
+5019.P calls 20
+*** RIVER *** [5h 2s 5c 6c][6d]
+mirika bets 20
+5019.P folds
+mirika collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [5h 2s 5c 6c 6d]
+Seat 1: mirika (small blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729112062004297729-3-1676901268 - Holdem no limit (15/30) - 2023/02/20 13:54:28 UTC
+Table: 'Expresso Nitro(635420918)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mirika (370)
+Seat 2: 5019.P (240)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+5019.P posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh Ac]
+*** PRE-FLOP *** 
+mirika folds
+5019.P folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729112062004297729-4-1676901284 - Holdem no limit (15/30) - 2023/02/20 13:54:44 UTC
+Table: 'Expresso Nitro(635420918)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mirika (370)
+Seat 2: 5019.P (225)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+mirika posts big blind 30
+Dealt to _SKR [3h 3d]
+*** PRE-FLOP *** 
+5019.P raises 30 to 60
+_SKR raises 245 to 305 and is all-in
+mirika calls 275
+5019.P folds
+*** FLOP *** [Ad Js Qc]
+*** TURN *** [Ad Js Qc][3c]
+*** RIVER *** [Ad Js Qc 3c][9s]
+*** SHOW DOWN ***
+mirika shows [8s 8h] (One pair : 8)
+_SKR shows [3h 3d] (Trips of 3)
+_SKR collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Ad Js Qc 3c 9s]
+Seat 1: mirika (big blind) showed [8s 8h] and lost with One pair : 8
+Seat 3: _SKR (small blind) showed [3h 3d] and won 670 with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729112062004297729-5-1676901328 - Holdem no limit (20/40) - 2023/02/20 13:55:28 UTC
+Table: 'Expresso Nitro(635420918)#0' 3-max (real money) Seat #3 is the button
+Seat 1: mirika (65)
+Seat 2: 5019.P (165)
+Seat 3: _SKR (670)
+*** ANTE/BLINDS ***
+mirika posts small blind 20
+5019.P posts big blind 40
+Dealt to _SKR [Ks 8s]
+*** PRE-FLOP *** 
+_SKR raises 630 to 670 and is all-in
+mirika calls 45 and is all-in
+5019.P folds
+*** FLOP *** [4d 9s 6h]
+*** TURN *** [4d 9s 6h][2c]
+*** RIVER *** [4d 9s 6h 2c][Ah]
+*** SHOW DOWN ***
+mirika shows [Qd Ts] (High card : Ace)
+_SKR shows [Ks 8s] (High card : Ace)
+_SKR collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | No rake
+Board: [4d 9s 6h 2c Ah]
+Seat 1: mirika (small blind) showed [Qd Ts] and lost with High card : Ace
+Seat 3: _SKR (button) showed [Ks 8s] and won 775 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729112062004297729-6-1676901353 - Holdem no limit (20/40) - 2023/02/20 13:55:53 UTC
+Table: 'Expresso Nitro(635420918)#0' 3-max (real money) Seat #2 is the button
+Seat 2: 5019.P (125)
+Seat 3: _SKR (775)
+*** ANTE/BLINDS ***
+5019.P posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s 2h]
+*** PRE-FLOP *** 
+5019.P raises 85 to 125 and is all-in
+_SKR folds
+5019.P collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Seat 2: 5019.P (small blind) (button) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729112062004297729-7-1676901362 - Holdem no limit (20/40) - 2023/02/20 13:56:02 UTC
+Table: 'Expresso Nitro(635420918)#0' 3-max (real money) Seat #3 is the button
+Seat 2: 5019.P (165)
+Seat 3: _SKR (735)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+5019.P posts big blind 40
+Dealt to _SKR [Kh 4c]
+*** PRE-FLOP *** 
+_SKR raises 695 to 735 and is all-in
+5019.P calls 125 and is all-in
+*** FLOP *** [5d Kc 7c]
+*** TURN *** [5d Kc 7c][3c]
+*** RIVER *** [5d Kc 7c 3c][4d]
+*** SHOW DOWN ***
+5019.P shows [Qd Ks] (One pair : Kings)
+_SKR shows [Kh 4c] (Two pairs : Kings and 4)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5d Kc 7c 3c 4d]
+Seat 2: 5019.P (big blind) showed [Qd Ks] and lost with One pair : Kings
+Seat 3: _SKR (small blind) (button) showed [Kh 4c] and won 900 with Two pairs : Kings and 4
+
+

@@ -1,0 +1,58 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689822920951201793-1-1674654043 - Holdem no limit (10/20) - 2023/01/25 13:40:43 UTC
+Table: 'Expresso Nitro(626273202)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Taieb.popo (300)
+Seat 2: Tiagiu (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Taieb.popo posts small blind 10
+Tiagiu posts big blind 20
+Dealt to _SKR [Qh 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Taieb.popo calls 10
+Tiagiu raises 280 to 300 and is all-in
+Taieb.popo calls 280 and is all-in
+*** FLOP *** [Td Qd Ks]
+*** TURN *** [Td Qd Ks][Ts]
+*** RIVER *** [Td Qd Ks Ts][4h]
+*** SHOW DOWN ***
+Taieb.popo shows [Kc 8h] (Two pairs : Kings and Tens)
+Tiagiu shows [6d Kd] (Two pairs : Kings and Tens)
+Tiagiu collected 300 from pot
+Taieb.popo collected 300 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Td Qd Ks Ts 4h]
+Seat 1: Taieb.popo (small blind) showed [Kc 8h] and won 300 with Two pairs : Kings and Tens
+Seat 2: Tiagiu (big blind) showed [6d Kd] and won 300 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689822920951201793-2-1674654056 - Holdem no limit (10/20) - 2023/01/25 13:40:56 UTC
+Table: 'Expresso Nitro(626273202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Taieb.popo (300)
+Seat 2: Tiagiu (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Tiagiu posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh Jc]
+*** PRE-FLOP *** 
+Taieb.popo raises 280 to 300 and is all-in
+Tiagiu calls 290 and is all-in
+_SKR calls 280 and is all-in
+*** FLOP *** [Kd Qd 4c]
+*** TURN *** [Kd Qd 4c][6h]
+*** RIVER *** [Kd Qd 4c 6h][6c]
+*** SHOW DOWN ***
+Tiagiu shows [7h Jh] (One pair : 6)
+_SKR shows [Kh Jc] (Two pairs : Kings and 6)
+Taieb.popo shows [Ah Kc] (Two pairs : Kings and 6)
+Taieb.popo collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd Qd 4c 6h 6c]
+Seat 1: Taieb.popo (button) showed [Ah Kc] and won 900 with Two pairs : Kings and 6
+Seat 2: Tiagiu (small blind) showed [7h Jh] and lost with One pair : 6
+Seat 3: _SKR (big blind) showed [Kh Jc] and lost with Two pairs : Kings and 6
+
+

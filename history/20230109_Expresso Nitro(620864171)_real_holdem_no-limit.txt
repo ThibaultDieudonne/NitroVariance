@@ -1,0 +1,63 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666591309703151617-1-1673284184 - Holdem no limit (10/20) - 2023/01/09 17:09:44 UTC
+Table: 'Expresso Nitro(620864171)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tony59131 (300)
+Seat 2: _SKR (300)
+Seat 3: GTOUPRI (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+GTOUPRI posts big blind 20
+Dealt to _SKR [Tc 7c]
+*** PRE-FLOP *** 
+Tony59131 raises 20 to 40
+_SKR folds
+GTOUPRI calls 20
+*** FLOP *** [5s 9c Ac]
+GTOUPRI checks
+Tony59131 bets 20
+GTOUPRI calls 20
+*** TURN *** [5s 9c Ac][Kc]
+GTOUPRI checks
+Tony59131 checks
+*** RIVER *** [5s 9c Ac Kc][7h]
+GTOUPRI checks
+Tony59131 checks
+*** SHOW DOWN ***
+GTOUPRI shows [2h 5h] (One pair : 5)
+Tony59131 shows [6s 6h] (One pair : 6)
+Tony59131 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [5s 9c Ac Kc 7h]
+Seat 1: Tony59131 (button) showed [6s 6h] and won 130 with One pair : 6
+Seat 3: GTOUPRI (big blind) showed [2h 5h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666591309703151617-2-1673284213 - Holdem no limit (10/20) - 2023/01/09 17:10:13 UTC
+Table: 'Expresso Nitro(620864171)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tony59131 (370)
+Seat 2: _SKR (290)
+Seat 3: GTOUPRI (240)
+*** ANTE/BLINDS ***
+GTOUPRI posts small blind 10
+Tony59131 posts big blind 20
+Dealt to _SKR [9c Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+GTOUPRI calls 30
+Tony59131 raises 330 to 370 and is all-in
+_SKR calls 250 and is all-in
+GTOUPRI folds
+*** FLOP *** [6c 4d Ah]
+*** TURN *** [6c 4d Ah][2s]
+*** RIVER *** [6c 4d Ah 2s][Kh]
+*** SHOW DOWN ***
+_SKR shows [9c Kc] (One pair : Kings)
+Tony59131 shows [5d Ad] (One pair : Aces)
+Tony59131 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [6c 4d Ah 2s Kh]
+Seat 1: Tony59131 (big blind) showed [5d Ad] and won 700 with One pair : Aces
+Seat 2: _SKR (button) showed [9c Kc] and lost with One pair : Kings
+
+

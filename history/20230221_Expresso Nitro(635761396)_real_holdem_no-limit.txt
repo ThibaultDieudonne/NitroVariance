@@ -1,0 +1,48 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730574403879305217-1-1676986415 - Holdem no limit (10/20) - 2023/02/21 13:33:35 UTC
+Table: 'Expresso Nitro(635761396)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Stan10 (300)
+Seat 3: tchuppp34110 (300)
+*** ANTE/BLINDS ***
+Stan10 posts small blind 10
+tchuppp34110 posts big blind 20
+Dealt to _SKR [Kd Th]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Stan10 folds
+tchuppp34110 raises 260 to 300 and is all-in
+_SKR folds
+tchuppp34110 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: tchuppp34110 (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730574403879305217-2-1676986425 - Holdem no limit (10/20) - 2023/02/21 13:33:45 UTC
+Table: 'Expresso Nitro(635761396)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (260)
+Seat 2: Stan10 (290)
+Seat 3: tchuppp34110 (350)
+*** ANTE/BLINDS ***
+tchuppp34110 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah Ts]
+*** PRE-FLOP *** 
+Stan10 calls 20
+tchuppp34110 folds
+_SKR raises 240 to 260 and is all-in
+Stan10 raises 30 to 290 and is all-in
+*** FLOP *** [Tc Qc 3s]
+*** TURN *** [Tc Qc 3s][7d]
+*** RIVER *** [Tc Qc 3s 7d][5h]
+*** SHOW DOWN ***
+_SKR shows [Ah Ts] (One pair : Tens)
+Stan10 shows [Kc Kh] (One pair : Kings)
+Stan10 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Tc Qc 3s 7d 5h]
+Seat 1: _SKR (big blind) showed [Ah Ts] and lost with One pair : Tens
+Seat 2: Stan10 (button) showed [Kc Kh] and won 560 with One pair : Kings
+
+

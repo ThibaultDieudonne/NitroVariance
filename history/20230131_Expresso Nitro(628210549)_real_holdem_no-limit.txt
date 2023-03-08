@@ -1,0 +1,95 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698143762957205505-1-1675182710 - Holdem no limit (10/20) - 2023/01/31 16:31:50 UTC
+Table: 'Expresso Nitro(628210549)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Madrigones (300)
+Seat 2: _SKR (300)
+Seat 3: MrJoyman (300)
+*** ANTE/BLINDS ***
+MrJoyman posts small blind 10
+Madrigones posts big blind 20
+Dealt to _SKR [7d 6d]
+*** PRE-FLOP *** 
+_SKR folds
+MrJoyman raises 20 to 40
+Madrigones calls 20
+*** FLOP *** [Qc Ts Ad]
+MrJoyman bets 20
+Madrigones calls 20
+*** TURN *** [Qc Ts Ad][Ac]
+MrJoyman checks
+Madrigones checks
+*** RIVER *** [Qc Ts Ad Ac][9d]
+MrJoyman bets 60
+Madrigones folds
+MrJoyman collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Qc Ts Ad Ac 9d]
+Seat 3: MrJoyman (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698143762957205505-2-1675182738 - Holdem no limit (10/20) - 2023/01/31 16:32:18 UTC
+Table: 'Expresso Nitro(628210549)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (240)
+Seat 2: _SKR (300)
+Seat 3: MrJoyman (360)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c Kd]
+*** PRE-FLOP *** 
+MrJoyman raises 20 to 40
+Madrigones raises 200 to 240 and is all-in
+_SKR folds
+MrJoyman folds
+Madrigones collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: Madrigones (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698143762957205505-3-1675182752 - Holdem no limit (10/20) - 2023/01/31 16:32:32 UTC
+Table: 'Expresso Nitro(628210549)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (300)
+Seat 2: _SKR (280)
+Seat 3: MrJoyman (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MrJoyman posts big blind 20
+Dealt to _SKR [9c 2c]
+*** PRE-FLOP *** 
+Madrigones raises 280 to 300 and is all-in
+_SKR folds
+MrJoyman folds
+Madrigones collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Madrigones (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698143762957205505-4-1675182759 - Holdem no limit (10/20) - 2023/01/31 16:32:39 UTC
+Table: 'Expresso Nitro(628210549)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Madrigones (330)
+Seat 2: _SKR (270)
+Seat 3: MrJoyman (300)
+*** ANTE/BLINDS ***
+MrJoyman posts small blind 10
+Madrigones posts big blind 20
+Dealt to _SKR [Tc Th]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+MrJoyman folds
+Madrigones raises 60 to 330 and is all-in
+*** FLOP *** [8s As Jc]
+*** TURN *** [8s As Jc][Ad]
+*** RIVER *** [8s As Jc Ad][2c]
+*** SHOW DOWN ***
+_SKR shows [Tc Th] (Two pairs : Aces and Tens)
+Madrigones shows [Qh Ah] (Trips of Aces)
+Madrigones collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [8s As Jc Ad 2c]
+Seat 1: Madrigones (big blind) showed [Qh Ah] and won 610 with Trips of Aces
+Seat 2: _SKR (button) showed [Tc Th] and lost with Two pairs : Aces and Tens
+
+

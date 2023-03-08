@@ -1,0 +1,435 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698124908050776065-1-1675181812 - Holdem no limit (10/20) - 2023/01/31 16:16:52 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carpoci (300)
+Seat 2: Abdes92500 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Abdes92500 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 4c]
+*** PRE-FLOP *** 
+Carpoci calls 20
+Abdes92500 raises 280 to 300 and is all-in
+_SKR folds
+Carpoci calls 280 and is all-in
+*** FLOP *** [9d Ts Kd]
+*** TURN *** [9d Ts Kd][9s]
+*** RIVER *** [9d Ts Kd 9s][As]
+*** SHOW DOWN ***
+Abdes92500 shows [Kc 6c] (Two pairs : Kings and 9)
+Carpoci shows [Js Qd] (Straight Ace high)
+Carpoci collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9d Ts Kd 9s As]
+Seat 1: Carpoci (button) showed [Js Qd] and won 620 with Straight Ace high
+Seat 2: Abdes92500 (small blind) showed [Kc 6c] and lost with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698124908050776065-2-1675181827 - Holdem no limit (10/20) - 2023/01/31 16:17:07 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carpoci (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Carpoci posts big blind 20
+Dealt to _SKR [6c 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Carpoci collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Carpoci (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698124908050776065-3-1675181830 - Holdem no limit (10/20) - 2023/01/31 16:17:10 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carpoci (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Carpoci posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h 6h]
+*** PRE-FLOP *** 
+Carpoci calls 10
+_SKR checks
+*** FLOP *** [Jh 3s Qh]
+_SKR checks
+Carpoci checks
+*** TURN *** [Jh 3s Qh][Tc]
+_SKR bets 26
+Carpoci calls 26
+*** RIVER *** [Jh 3s Qh Tc][4s]
+_SKR checks
+Carpoci checks
+*** SHOW DOWN ***
+Carpoci shows [Ad 5s] (High card : Ace)
+_SKR shows [3h 6h] (One pair : 3)
+_SKR collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [Jh 3s Qh Tc 4s]
+Seat 1: Carpoci (small blind) (button) showed [Ad 5s] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [3h 6h] and won 92 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698124908050776065-4-1675181851 - Holdem no limit (10/20) - 2023/01/31 16:17:31 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carpoci (584)
+Seat 3: _SKR (316)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Carpoci posts big blind 20
+Dealt to _SKR [6c Qs]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Carpoci calls 20
+*** FLOP *** [5s 6s Ad]
+Carpoci bets 20
+_SKR calls 20
+*** TURN *** [5s 6s Ad][4s]
+Carpoci checks
+_SKR checks
+*** RIVER *** [5s 6s Ad 4s][6d]
+Carpoci bets 78
+_SKR calls 78
+*** SHOW DOWN ***
+_SKR shows [6c Qs] (Trips of 6)
+Carpoci shows [Ts 2s] (Flush Ten high)
+Carpoci collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | No rake
+Board: [5s 6s Ad 4s 6d]
+Seat 1: Carpoci (big blind) showed [Ts 2s] and won 276 with Flush Ten high
+Seat 3: _SKR (small blind) (button) showed [6c Qs] and lost with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698124908050776065-5-1675181876 - Holdem no limit (15/30) - 2023/01/31 16:17:56 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carpoci (722)
+Seat 3: _SKR (178)
+*** ANTE/BLINDS ***
+Carpoci posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd Jh]
+*** PRE-FLOP *** 
+Carpoci raises 30 to 60
+_SKR raises 118 to 178 and is all-in
+Carpoci calls 118
+*** FLOP *** [9h 9s Ah]
+*** TURN *** [9h 9s Ah][Kh]
+*** RIVER *** [9h 9s Ah Kh][2c]
+*** SHOW DOWN ***
+Carpoci shows [8s Ks] (Two pairs : Kings and 9)
+_SKR shows [Kd Jh] (Two pairs : Kings and 9)
+_SKR collected 178 from pot
+Carpoci collected 178 from pot
+*** SUMMARY ***
+Total pot 356 | No rake
+Board: [9h 9s Ah Kh 2c]
+Seat 1: Carpoci (small blind) (button) showed [8s Ks] and won 178 with Two pairs : Kings and 9
+Seat 3: _SKR (big blind) showed [Kd Jh] and won 178 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698124908050776065-6-1675181888 - Holdem no limit (15/30) - 2023/01/31 16:18:08 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carpoci (722)
+Seat 3: _SKR (178)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Carpoci posts big blind 30
+Dealt to _SKR [2s Ad]
+*** PRE-FLOP *** 
+_SKR raises 148 to 178 and is all-in
+Carpoci calls 148
+*** FLOP *** [2d 3h 8c]
+*** TURN *** [2d 3h 8c][2c]
+*** RIVER *** [2d 3h 8c 2c][6h]
+*** SHOW DOWN ***
+Carpoci shows [Qh Ac] (One pair : 2)
+_SKR shows [2s Ad] (Trips of 2)
+_SKR collected 356 from pot
+*** SUMMARY ***
+Total pot 356 | No rake
+Board: [2d 3h 8c 2c 6h]
+Seat 1: Carpoci (big blind) showed [Qh Ac] and lost with One pair : 2
+Seat 3: _SKR (small blind) (button) showed [2s Ad] and won 356 with Trips of 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698124908050776065-7-1675181901 - Holdem no limit (15/30) - 2023/01/31 16:18:21 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carpoci (544)
+Seat 3: _SKR (356)
+*** ANTE/BLINDS ***
+Carpoci posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah 7c]
+*** PRE-FLOP *** 
+Carpoci calls 15
+_SKR raises 326 to 356 and is all-in
+Carpoci calls 326
+*** FLOP *** [Th Qd Js]
+*** TURN *** [Th Qd Js][6h]
+*** RIVER *** [Th Qd Js 6h][Kh]
+*** SHOW DOWN ***
+Carpoci shows [8s 3s] (High card : King)
+_SKR shows [Ah 7c] (Straight Ace high)
+_SKR collected 712 from pot
+*** SUMMARY ***
+Total pot 712 | No rake
+Board: [Th Qd Js 6h Kh]
+Seat 1: Carpoci (small blind) (button) showed [8s 3s] and lost with High card : King
+Seat 3: _SKR (big blind) showed [Ah 7c] and won 712 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698124908050776065-8-1675181916 - Holdem no limit (15/30) - 2023/01/31 16:18:36 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carpoci (188)
+Seat 3: _SKR (712)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Carpoci posts big blind 30
+Dealt to _SKR [Js 5s]
+*** PRE-FLOP *** 
+_SKR raises 682 to 712 and is all-in
+Carpoci calls 158 and is all-in
+*** FLOP *** [4c 5c 3c]
+*** TURN *** [4c 5c 3c][4d]
+*** RIVER *** [4c 5c 3c 4d][Ac]
+*** SHOW DOWN ***
+Carpoci shows [2c 7s] (Straight flush 5)
+_SKR shows [Js 5s] (Two pairs : 5 and 4)
+_SKR collected 524 from side pot 1
+Carpoci collected 376 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c 5c 3c 4d Ac]
+Seat 1: Carpoci (big blind) showed [2c 7s] and won 376 with Straight flush 5
+Seat 3: _SKR (small blind) (button) showed [Js 5s] and won 524 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698124908050776065-9-1675181927 - Holdem no limit (15/30) - 2023/01/31 16:18:47 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carpoci (376)
+Seat 3: _SKR (524)
+*** ANTE/BLINDS ***
+Carpoci posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7c Ts]
+*** PRE-FLOP *** 
+Carpoci raises 346 to 376 and is all-in
+_SKR folds
+Carpoci collected 406 from pot
+*** SUMMARY ***
+Total pot 406 | No rake
+Seat 1: Carpoci (small blind) (button) won 406
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698124908050776065-10-1675181931 - Holdem no limit (20/40) - 2023/01/31 16:18:51 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carpoci (406)
+Seat 3: _SKR (494)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Carpoci posts big blind 40
+Dealt to _SKR [8c 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Carpoci collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Carpoci (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698124908050776065-11-1675181936 - Holdem no limit (20/40) - 2023/01/31 16:18:56 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carpoci (426)
+Seat 3: _SKR (474)
+*** ANTE/BLINDS ***
+Carpoci posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qd Tc]
+*** PRE-FLOP *** 
+Carpoci calls 20
+_SKR checks
+*** FLOP *** [Qh 9c Jd]
+_SKR checks
+Carpoci checks
+*** TURN *** [Qh 9c Jd][8c]
+_SKR bets 52
+Carpoci folds
+_SKR collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Qh 9c Jd 8c]
+Seat 3: _SKR (big blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698124908050776065-12-1675181950 - Holdem no limit (20/40) - 2023/01/31 16:19:10 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carpoci (386)
+Seat 3: _SKR (514)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Carpoci posts big blind 40
+Dealt to _SKR [5h 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Carpoci collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Carpoci (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698124908050776065-13-1675181954 - Holdem no limit (20/40) - 2023/01/31 16:19:14 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carpoci (406)
+Seat 3: _SKR (494)
+*** ANTE/BLINDS ***
+Carpoci posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5c Qc]
+*** PRE-FLOP *** 
+Carpoci calls 20
+_SKR checks
+*** FLOP *** [Tc 6h 4h]
+_SKR checks
+Carpoci checks
+*** TURN *** [Tc 6h 4h][Qh]
+_SKR bets 40
+Carpoci calls 40
+*** RIVER *** [Tc 6h 4h Qh][4s]
+_SKR checks
+Carpoci bets 56
+_SKR folds
+Carpoci collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [Tc 6h 4h Qh 4s]
+Seat 1: Carpoci (small blind) (button) won 216
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698124908050776065-14-1675181982 - Holdem no limit (20/40) - 2023/01/31 16:19:42 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carpoci (486)
+Seat 3: _SKR (414)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Carpoci posts big blind 40
+Dealt to _SKR [8h Qd]
+*** PRE-FLOP *** 
+_SKR raises 374 to 414 and is all-in
+Carpoci folds
+_SKR collected 454 from pot
+*** SUMMARY ***
+Total pot 454 | No rake
+Seat 3: _SKR (small blind) (button) won 454
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698124908050776065-15-1675181990 - Holdem no limit (30/60) - 2023/01/31 16:19:50 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carpoci (446)
+Seat 3: _SKR (454)
+*** ANTE/BLINDS ***
+Carpoci posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5h 4h]
+*** PRE-FLOP *** 
+Carpoci raises 386 to 446 and is all-in
+_SKR folds
+Carpoci collected 506 from pot
+*** SUMMARY ***
+Total pot 506 | No rake
+Seat 1: Carpoci (small blind) (button) won 506
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698124908050776065-16-1675181995 - Holdem no limit (30/60) - 2023/01/31 16:19:55 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carpoci (506)
+Seat 3: _SKR (394)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Carpoci posts big blind 60
+Dealt to _SKR [2s Js]
+*** PRE-FLOP *** 
+_SKR folds
+Carpoci collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Carpoci (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698124908050776065-17-1675181999 - Holdem no limit (30/60) - 2023/01/31 16:19:59 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carpoci (536)
+Seat 3: _SKR (364)
+*** ANTE/BLINDS ***
+Carpoci posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Th 4c]
+*** PRE-FLOP *** 
+Carpoci folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698124908050776065-18-1675182002 - Holdem no limit (30/60) - 2023/01/31 16:20:02 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carpoci (506)
+Seat 3: _SKR (394)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Carpoci posts big blind 60
+Dealt to _SKR [8s 7d]
+*** PRE-FLOP *** 
+_SKR folds
+Carpoci collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Carpoci (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698124908050776065-19-1675182008 - Holdem no limit (30/60) - 2023/01/31 16:20:08 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carpoci (536)
+Seat 3: _SKR (364)
+*** ANTE/BLINDS ***
+Carpoci posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3d Js]
+*** PRE-FLOP *** 
+Carpoci raises 476 to 536 and is all-in
+_SKR folds
+Carpoci collected 596 from pot
+*** SUMMARY ***
+Total pot 596 | No rake
+Seat 1: Carpoci (small blind) (button) won 596
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698124908050776065-20-1675182014 - Holdem no limit (30/60) - 2023/01/31 16:20:14 UTC
+Table: 'Expresso Nitro(628206159)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carpoci (596)
+Seat 3: _SKR (304)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Carpoci posts big blind 60
+Dealt to _SKR [Ks 8d]
+*** PRE-FLOP *** 
+_SKR raises 244 to 304 and is all-in
+Carpoci calls 244
+*** FLOP *** [Jc 6s 4c]
+*** TURN *** [Jc 6s 4c][6c]
+*** RIVER *** [Jc 6s 4c 6c][Qh]
+*** SHOW DOWN ***
+_SKR shows [Ks 8d] (One pair : 6)
+Carpoci shows [2c 4h] (Two pairs : 6 and 4)
+Carpoci collected 608 from pot
+*** SUMMARY ***
+Total pot 608 | No rake
+Board: [Jc 6s 4c 6c Qh]
+Seat 1: Carpoci (big blind) showed [2c 4h] and won 608 with Two pairs : 6 and 4
+Seat 3: _SKR (small blind) (button) showed [Ks 8d] and lost with One pair : 6
+
+

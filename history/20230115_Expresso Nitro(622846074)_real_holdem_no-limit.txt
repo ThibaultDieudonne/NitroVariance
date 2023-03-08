@@ -1,0 +1,242 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675103518271995905-1-1673744675 - Holdem no limit (10/20) - 2023/01/15 01:04:35 UTC
+Table: 'Expresso Nitro(622846074)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CrazyHateKQ6 (300)
+Seat 2: _SKR (300)
+Seat 3: fafajj (300)
+*** ANTE/BLINDS ***
+fafajj posts small blind 10
+CrazyHateKQ6 posts big blind 20
+Dealt to _SKR [5s Ks]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+fafajj folds
+CrazyHateKQ6 raises 260 to 300 and is all-in
+_SKR folds
+CrazyHateKQ6 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: CrazyHateKQ6 (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675103518271995905-2-1673744707 - Holdem no limit (10/20) - 2023/01/15 01:05:07 UTC
+Table: 'Expresso Nitro(622846074)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CrazyHateKQ6 (350)
+Seat 2: _SKR (260)
+Seat 3: fafajj (290)
+*** ANTE/BLINDS ***
+CrazyHateKQ6 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 9h]
+*** PRE-FLOP *** 
+fafajj raises 40 to 60
+CrazyHateKQ6 raises 290 to 350 and is all-in
+_SKR folds
+fafajj folds
+CrazyHateKQ6 collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 1: CrazyHateKQ6 (small blind) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675103518271995905-3-1673744726 - Holdem no limit (10/20) - 2023/01/15 01:05:26 UTC
+Table: 'Expresso Nitro(622846074)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CrazyHateKQ6 (430)
+Seat 2: _SKR (240)
+Seat 3: fafajj (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+fafajj posts big blind 20
+Dealt to _SKR [5d 2h]
+*** PRE-FLOP *** 
+CrazyHateKQ6 raises 410 to 430 and is all-in
+_SKR folds
+fafajj calls 210 and is all-in
+*** FLOP *** [Ac Th 5s]
+*** TURN *** [Ac Th 5s][Tc]
+*** RIVER *** [Ac Th 5s Tc][2c]
+*** SHOW DOWN ***
+CrazyHateKQ6 shows [7h 9c] (One pair : Tens)
+fafajj shows [9h Qs] (One pair : Tens)
+fafajj collected 470 from main pot
+CrazyHateKQ6 collected 200 from side pot 1
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Ac Th 5s Tc 2c]
+Seat 1: CrazyHateKQ6 (button) showed [7h 9c] and won 200 with One pair : Tens
+Seat 3: fafajj (big blind) showed [9h Qs] and won 470 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675103518271995905-4-1673744741 - Holdem no limit (15/30) - 2023/01/15 01:05:41 UTC
+Table: 'Expresso Nitro(622846074)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CrazyHateKQ6 (200)
+Seat 2: _SKR (230)
+Seat 3: fafajj (470)
+*** ANTE/BLINDS ***
+fafajj posts small blind 15
+CrazyHateKQ6 posts big blind 30
+Dealt to _SKR [Qh 5d]
+*** PRE-FLOP *** 
+_SKR folds
+fafajj calls 15
+CrazyHateKQ6 checks
+*** FLOP *** [3h 4s 5s]
+fafajj checks
+CrazyHateKQ6 bets 170 and is all-in
+fafajj calls 170
+*** TURN *** [3h 4s 5s][Kd]
+*** RIVER *** [3h 4s 5s Kd][2d]
+*** SHOW DOWN ***
+fafajj shows [7h Td] (High card : King)
+CrazyHateKQ6 shows [5c Kc] (Two pairs : Kings and 5)
+CrazyHateKQ6 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [3h 4s 5s Kd 2d]
+Seat 1: CrazyHateKQ6 (big blind) showed [5c Kc] and won 400 with Two pairs : Kings and 5
+Seat 3: fafajj (small blind) showed [7h Td] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675103518271995905-5-1673744798 - Holdem no limit (20/40) - 2023/01/15 01:06:38 UTC
+Table: 'Expresso Nitro(622846074)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CrazyHateKQ6 (400)
+Seat 2: _SKR (230)
+Seat 3: fafajj (270)
+*** ANTE/BLINDS ***
+CrazyHateKQ6 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6c Kd]
+*** PRE-FLOP *** 
+fafajj raises 230 to 270 and is all-in
+CrazyHateKQ6 raises 130 to 400 and is all-in
+_SKR folds
+*** FLOP *** [Js 2d Qh]
+*** TURN *** [Js 2d Qh][4h]
+*** RIVER *** [Js 2d Qh 4h][2h]
+*** SHOW DOWN ***
+CrazyHateKQ6 shows [4c Ad] (Two pairs : 4 and 2)
+fafajj shows [Kh Jc] (Two pairs : Jacks and 2)
+fafajj collected 580 from main pot
+CrazyHateKQ6 collected 130 from side pot 1
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [Js 2d Qh 4h 2h]
+Seat 1: CrazyHateKQ6 (small blind) showed [4c Ad] and won 130 with Two pairs : 4 and 2
+Seat 3: fafajj (button) showed [Kh Jc] and won 580 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675103518271995905-6-1673744814 - Holdem no limit (20/40) - 2023/01/15 01:06:54 UTC
+Table: 'Expresso Nitro(622846074)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CrazyHateKQ6 (130)
+Seat 2: _SKR (190)
+Seat 3: fafajj (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+fafajj posts big blind 40
+Dealt to _SKR [2d 3d]
+*** PRE-FLOP *** 
+CrazyHateKQ6 raises 90 to 130 and is all-in
+_SKR folds
+fafajj folds
+CrazyHateKQ6 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Seat 1: CrazyHateKQ6 (button) won 190
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675103518271995905-7-1673744828 - Holdem no limit (20/40) - 2023/01/15 01:07:08 UTC
+Table: 'Expresso Nitro(622846074)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CrazyHateKQ6 (190)
+Seat 2: _SKR (170)
+Seat 3: fafajj (540)
+*** ANTE/BLINDS ***
+fafajj posts small blind 20
+CrazyHateKQ6 posts big blind 40
+Dealt to _SKR [3c 9h]
+*** PRE-FLOP *** 
+_SKR folds
+fafajj calls 20
+CrazyHateKQ6 raises 150 to 190 and is all-in
+fafajj raises 350 to 540 and is all-in
+*** FLOP *** [Ah 8h Ac]
+*** TURN *** [Ah 8h Ac][Ks]
+*** RIVER *** [Ah 8h Ac Ks][Th]
+*** SHOW DOWN ***
+CrazyHateKQ6 shows [Jd 9s] (One pair : Aces)
+fafajj shows [4c 6s] (One pair : Aces)
+fafajj collected 350 from side pot 1
+CrazyHateKQ6 collected 380 from main pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [Ah 8h Ac Ks Th]
+Seat 1: CrazyHateKQ6 (big blind) showed [Jd 9s] and won 380 with One pair : Aces
+Seat 3: fafajj (small blind) showed [4c 6s] and won 350 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675103518271995905-8-1673744847 - Holdem no limit (20/40) - 2023/01/15 01:07:27 UTC
+Table: 'Expresso Nitro(622846074)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CrazyHateKQ6 (380)
+Seat 2: _SKR (170)
+Seat 3: fafajj (350)
+*** ANTE/BLINDS ***
+CrazyHateKQ6 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6c 3h]
+*** PRE-FLOP *** 
+fafajj raises 310 to 350 and is all-in
+CrazyHateKQ6 raises 30 to 380 and is all-in
+_SKR folds
+*** FLOP *** [8s 5c Jd]
+*** TURN *** [8s 5c Jd][8h]
+*** RIVER *** [8s 5c Jd 8h][6s]
+*** SHOW DOWN ***
+fafajj shows [2s Qd] (One pair : 8)
+CrazyHateKQ6 shows [Jh 7h] (Two pairs : Jacks and 8)
+CrazyHateKQ6 collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [8s 5c Jd 8h 6s]
+Seat 1: CrazyHateKQ6 (small blind) showed [Jh 7h] and won 770 with Two pairs : Jacks and 8
+Seat 3: fafajj (button) showed [2s Qd] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675103518271995905-9-1673744876 - Holdem no limit (30/60) - 2023/01/15 01:07:56 UTC
+Table: 'Expresso Nitro(622846074)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CrazyHateKQ6 (770)
+Seat 2: _SKR (130)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+CrazyHateKQ6 posts big blind 60
+Dealt to _SKR [3d 4c]
+*** PRE-FLOP *** 
+_SKR folds
+CrazyHateKQ6 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: CrazyHateKQ6 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675103518271995905-10-1673744880 - Holdem no limit (30/60) - 2023/01/15 01:08:00 UTC
+Table: 'Expresso Nitro(622846074)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CrazyHateKQ6 (800)
+Seat 2: _SKR (100)
+*** ANTE/BLINDS ***
+CrazyHateKQ6 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2d 4s]
+*** PRE-FLOP *** 
+CrazyHateKQ6 raises 740 to 800 and is all-in
+_SKR calls 40 and is all-in
+*** FLOP *** [4d Ac 5h]
+*** TURN *** [4d Ac 5h][5s]
+*** RIVER *** [4d Ac 5h 5s][Ad]
+*** SHOW DOWN ***
+_SKR shows [2d 4s] (Two pairs : Aces and 5)
+CrazyHateKQ6 shows [Kd As] (Full of Aces and 5)
+CrazyHateKQ6 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d Ac 5h 5s Ad]
+Seat 1: CrazyHateKQ6 (small blind) (button) showed [Kd As] and won 900 with Full of Aces and 5
+Seat 2: _SKR (big blind) showed [2d 4s] and lost with Two pairs : Aces and 5
+
+

@@ -1,0 +1,137 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689820404100366337-1-1674653894 - Holdem no limit (10/20) - 2023/01/25 13:38:14 UTC
+Table: 'Expresso Nitro(626272616)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: gazo-line (300)
+Seat 3: FrenchMagpie (300)
+*** ANTE/BLINDS ***
+FrenchMagpie posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 7c]
+*** PRE-FLOP *** 
+gazo-line folds
+FrenchMagpie calls 10
+_SKR raises 280 to 300 and is all-in
+FrenchMagpie folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689820404100366337-2-1674653910 - Holdem no limit (10/20) - 2023/01/25 13:38:30 UTC
+Table: 'Expresso Nitro(626272616)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: gazo-line (300)
+Seat 3: FrenchMagpie (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+gazo-line posts big blind 20
+Dealt to _SKR [3h Ts]
+*** PRE-FLOP *** 
+FrenchMagpie raises 260 to 280 and is all-in
+_SKR folds
+gazo-line calls 260
+*** FLOP *** [4s 3d 3c]
+*** TURN *** [4s 3d 3c][8h]
+*** RIVER *** [4s 3d 3c 8h][9s]
+*** SHOW DOWN ***
+gazo-line shows [Kc Jd] (One pair : 3)
+FrenchMagpie shows [Ad 9h] (Two pairs : 9 and 3)
+FrenchMagpie collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [4s 3d 3c 8h 9s]
+Seat 2: gazo-line (big blind) showed [Kc Jd] and lost with One pair : 3
+Seat 3: FrenchMagpie (button) showed [Ad 9h] and won 570 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689820404100366337-3-1674653928 - Holdem no limit (10/20) - 2023/01/25 13:38:48 UTC
+Table: 'Expresso Nitro(626272616)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: gazo-line (20)
+Seat 3: FrenchMagpie (570)
+*** ANTE/BLINDS ***
+gazo-line posts small blind 10
+FrenchMagpie posts big blind 20
+Dealt to _SKR [7h 8d]
+*** PRE-FLOP *** 
+_SKR folds
+gazo-line calls 10 and is all-in
+*** FLOP *** [6s As 5c]
+*** TURN *** [6s As 5c][Ad]
+*** RIVER *** [6s As 5c Ad][2h]
+*** SHOW DOWN ***
+FrenchMagpie shows [Ts Kc] (One pair : Aces)
+gazo-line shows [Ks Jh] (One pair : Aces)
+gazo-line collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [6s As 5c Ad 2h]
+Seat 2: gazo-line (small blind) showed [Ks Jh] and won 40 with One pair : Aces
+Seat 3: FrenchMagpie (big blind) showed [Ts Kc] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689820404100366337-4-1674653940 - Holdem no limit (10/20) - 2023/01/25 13:39:00 UTC
+Table: 'Expresso Nitro(626272616)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: gazo-line (40)
+Seat 3: FrenchMagpie (550)
+*** ANTE/BLINDS ***
+FrenchMagpie posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc 8h]
+*** PRE-FLOP *** 
+gazo-line raises 20 to 40 and is all-in
+FrenchMagpie folds
+_SKR folds
+gazo-line collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: gazo-line (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689820404100366337-5-1674653956 - Holdem no limit (15/30) - 2023/01/25 13:39:16 UTC
+Table: 'Expresso Nitro(626272616)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 2: gazo-line (70)
+Seat 3: FrenchMagpie (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+gazo-line posts big blind 30
+Dealt to _SKR [6h 2c]
+*** PRE-FLOP *** 
+FrenchMagpie folds
+_SKR folds
+gazo-line collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: gazo-line (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689820404100366337-6-1674653962 - Holdem no limit (15/30) - 2023/01/25 13:39:22 UTC
+Table: 'Expresso Nitro(626272616)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (275)
+Seat 2: gazo-line (85)
+Seat 3: FrenchMagpie (540)
+*** ANTE/BLINDS ***
+gazo-line posts small blind 15
+FrenchMagpie posts big blind 30
+Dealt to _SKR [Qh Tc]
+*** PRE-FLOP *** 
+_SKR raises 245 to 275 and is all-in
+gazo-line folds
+FrenchMagpie calls 245
+*** FLOP *** [Kh 3s Ac]
+*** TURN *** [Kh 3s Ac][Th]
+*** RIVER *** [Kh 3s Ac Th][6c]
+*** SHOW DOWN ***
+_SKR shows [Qh Tc] (One pair : Tens)
+FrenchMagpie shows [Ah 9d] (One pair : Aces)
+FrenchMagpie collected 565 from pot
+*** SUMMARY ***
+Total pot 565 | No rake
+Board: [Kh 3s Ac Th 6c]
+Seat 1: _SKR (button) showed [Qh Tc] and lost with One pair : Tens
+Seat 3: FrenchMagpie (big blind) showed [Ah 9d] and won 565 with One pair : Aces
+
+

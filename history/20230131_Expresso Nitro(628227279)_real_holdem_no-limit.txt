@@ -1,0 +1,74 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698215617760067585-1-1675185910 - Holdem no limit (10/20) - 2023/01/31 17:25:10 UTC
+Table: 'Expresso Nitro(628227279)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Kenkenou (300)
+Seat 3: Nina1721 (300)
+*** ANTE/BLINDS ***
+Nina1721 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d Jd]
+*** PRE-FLOP *** 
+Kenkenou calls 20
+Nina1721 folds
+_SKR checks
+*** FLOP *** [Ac Kc 7h]
+_SKR checks
+Kenkenou bets 50
+_SKR folds
+Kenkenou collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ac Kc 7h]
+Seat 2: Kenkenou (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698215617760067585-2-1675185950 - Holdem no limit (10/20) - 2023/01/31 17:25:50 UTC
+Table: 'Expresso Nitro(628227279)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Kenkenou (330)
+Seat 3: Nina1721 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Kenkenou posts big blind 20
+Dealt to _SKR [Kd 6h]
+*** PRE-FLOP *** 
+Nina1721 raises 270 to 290 and is all-in
+_SKR folds
+Kenkenou folds
+Nina1721 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Nina1721 (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698215617760067585-3-1675185958 - Holdem no limit (10/20) - 2023/01/31 17:25:58 UTC
+Table: 'Expresso Nitro(628227279)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Kenkenou (310)
+Seat 3: Nina1721 (320)
+*** ANTE/BLINDS ***
+Kenkenou posts small blind 10
+Nina1721 posts big blind 20
+Dealt to _SKR [7d 7c]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Kenkenou calls 260
+Nina1721 calls 250
+*** FLOP *** [4c Jc 6h]
+Kenkenou bets 40 and is all-in
+Nina1721 calls 40
+*** TURN *** [4c Jc 6h][2s]
+*** RIVER *** [4c Jc 6h 2s][9s]
+*** SHOW DOWN ***
+_SKR shows [7d 7c] (One pair : 7)
+Nina1721 shows [Kh Th] (High card : King)
+Kenkenou shows [8h Jh] (One pair : Jacks)
+Kenkenou collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [4c Jc 6h 2s 9s]
+Seat 1: _SKR (button) showed [7d 7c] and lost with One pair : 7
+Seat 2: Kenkenou (small blind) showed [8h Jh] and won 890 with One pair : Jacks
+Seat 3: Nina1721 (big blind) showed [Kh Th] and lost with High card : King
+
+

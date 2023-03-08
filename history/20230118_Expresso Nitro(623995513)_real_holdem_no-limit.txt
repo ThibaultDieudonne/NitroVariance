@@ -1,0 +1,100 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680040321185742849-1-1674049174 - Holdem no limit (10/20) - 2023/01/18 13:39:34 UTC
+Table: 'Expresso Nitro(623995513)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: allez om974 (300)
+Seat 3: 1Verre_Pas2 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+allez om974 posts big blind 20
+Dealt to _SKR [Qs Jc]
+*** PRE-FLOP *** 
+1Verre_Pas2 calls 20
+_SKR raises 280 to 300 and is all-in
+allez om974 folds
+1Verre_Pas2 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680040321185742849-2-1674049188 - Holdem no limit (10/20) - 2023/01/18 13:39:48 UTC
+Table: 'Expresso Nitro(623995513)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (340)
+Seat 2: allez om974 (280)
+Seat 3: 1Verre_Pas2 (280)
+*** ANTE/BLINDS ***
+allez om974 posts small blind 10
+1Verre_Pas2 posts big blind 20
+Dealt to _SKR [Qh 4c]
+*** PRE-FLOP *** 
+_SKR folds
+allez om974 folds
+1Verre_Pas2 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: 1Verre_Pas2 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680040321185742849-3-1674049193 - Holdem no limit (10/20) - 2023/01/18 13:39:53 UTC
+Table: 'Expresso Nitro(623995513)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (340)
+Seat 2: allez om974 (270)
+Seat 3: 1Verre_Pas2 (290)
+*** ANTE/BLINDS ***
+1Verre_Pas2 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jh 2h]
+*** PRE-FLOP *** 
+allez om974 calls 20
+1Verre_Pas2 folds
+_SKR checks
+*** FLOP *** [9h 3c As]
+_SKR checks
+allez om974 checks
+*** TURN *** [9h 3c As][2c]
+_SKR checks
+allez om974 checks
+*** RIVER *** [9h 3c As 2c][Td]
+_SKR checks
+allez om974 checks
+*** SHOW DOWN ***
+allez om974 shows [8h Qh] (High card : Ace)
+_SKR shows [Jh 2h] (One pair : 2)
+_SKR collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [9h 3c As 2c Td]
+Seat 1: _SKR (big blind) showed [Jh 2h] and won 50 with One pair : 2
+Seat 2: allez om974 (button) showed [8h Qh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680040321185742849-4-1674049243 - Holdem no limit (15/30) - 2023/01/18 13:40:43 UTC
+Table: 'Expresso Nitro(623995513)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (370)
+Seat 2: allez om974 (250)
+Seat 3: 1Verre_Pas2 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+allez om974 posts big blind 30
+Dealt to _SKR [Jc Ac]
+*** PRE-FLOP *** 
+1Verre_Pas2 raises 250 to 280 and is all-in
+_SKR raises 90 to 370 and is all-in
+allez om974 calls 220 and is all-in
+*** FLOP *** [7d 8c 4d]
+*** TURN *** [7d 8c 4d][8s]
+*** RIVER *** [7d 8c 4d 8s][Ts]
+*** SHOW DOWN ***
+allez om974 shows [5h 2h] (One pair : 8)
+1Verre_Pas2 shows [Ah 5c] (One pair : 8)
+_SKR shows [Jc Ac] (One pair : 8)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 8c 4d 8s Ts]
+Seat 1: _SKR (small blind) showed [Jc Ac] and won 900 with One pair : 8
+Seat 2: allez om974 (big blind) showed [5h 2h] and lost with One pair : 8
+Seat 3: 1Verre_Pas2 (button) showed [Ah 5c] and lost with One pair : 8
+
+

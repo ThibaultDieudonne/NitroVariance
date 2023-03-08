@@ -1,0 +1,367 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729088272180445185-1-1676900844 - Holdem no limit (10/20) - 2023/02/20 13:47:24 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: flotktfilsa (300)
+Seat 3: JeffBluffley (300)
+*** ANTE/BLINDS ***
+JeffBluffley posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c 6d]
+*** PRE-FLOP *** 
+flotktfilsa raises 280 to 300 and is all-in
+JeffBluffley folds
+_SKR folds
+flotktfilsa collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: flotktfilsa (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729088272180445185-2-1676900878 - Holdem no limit (10/20) - 2023/02/20 13:47:58 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: flotktfilsa (330)
+Seat 3: JeffBluffley (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+flotktfilsa posts big blind 20
+Dealt to _SKR [9s 6c]
+*** PRE-FLOP *** 
+JeffBluffley folds
+_SKR folds
+flotktfilsa collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: flotktfilsa (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729088272180445185-3-1676900893 - Holdem no limit (10/20) - 2023/02/20 13:48:13 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: flotktfilsa (340)
+Seat 3: JeffBluffley (290)
+*** ANTE/BLINDS ***
+flotktfilsa posts small blind 10
+JeffBluffley posts big blind 20
+Dealt to _SKR [3h 7s]
+*** PRE-FLOP *** 
+_SKR folds
+flotktfilsa calls 10
+JeffBluffley checks
+*** FLOP *** [3s 4h As]
+flotktfilsa checks
+JeffBluffley checks
+*** TURN *** [3s 4h As][7h]
+flotktfilsa checks
+JeffBluffley checks
+*** RIVER *** [3s 4h As 7h][5h]
+flotktfilsa bets 20
+JeffBluffley raises 30 to 50
+flotktfilsa folds
+JeffBluffley collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [3s 4h As 7h 5h]
+Seat 3: JeffBluffley (big blind) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729088272180445185-4-1676900928 - Holdem no limit (15/30) - 2023/02/20 13:48:48 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: flotktfilsa (300)
+Seat 3: JeffBluffley (330)
+*** ANTE/BLINDS ***
+JeffBluffley posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5s 4c]
+*** PRE-FLOP *** 
+flotktfilsa calls 30
+JeffBluffley folds
+_SKR checks
+*** FLOP *** [Jh Kc 4h]
+_SKR checks
+flotktfilsa checks
+*** TURN *** [Jh Kc 4h][2s]
+_SKR checks
+flotktfilsa checks
+*** RIVER *** [Jh Kc 4h 2s][Jc]
+_SKR checks
+flotktfilsa checks
+*** SHOW DOWN ***
+flotktfilsa shows [5c 6c] (One pair : Jacks)
+_SKR shows [5s 4c] (Two pairs : Jacks and 4)
+_SKR collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [Jh Kc 4h 2s Jc]
+Seat 1: _SKR (big blind) showed [5s 4c] and won 75 with Two pairs : Jacks and 4
+Seat 2: flotktfilsa (button) showed [5c 6c] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729088272180445185-5-1676900968 - Holdem no limit (20/40) - 2023/02/20 13:49:28 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (315)
+Seat 2: flotktfilsa (270)
+Seat 3: JeffBluffley (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+flotktfilsa posts big blind 40
+Dealt to _SKR [7h 6d]
+*** PRE-FLOP *** 
+JeffBluffley raises 275 to 315 and is all-in
+_SKR folds
+flotktfilsa calls 230 and is all-in
+*** FLOP *** [6c 6s 4d]
+*** TURN *** [6c 6s 4d][9c]
+*** RIVER *** [6c 6s 4d 9c][3d]
+*** SHOW DOWN ***
+flotktfilsa shows [Qd Ts] (One pair : 6)
+JeffBluffley shows [As 7c] (One pair : 6)
+JeffBluffley collected 605 from pot
+*** SUMMARY ***
+Total pot 605 | No rake
+Board: [6c 6s 4d 9c 3d]
+Seat 2: flotktfilsa (big blind) showed [Qd Ts] and lost with One pair : 6
+Seat 3: JeffBluffley (button) showed [As 7c] and won 605 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729088272180445185-6-1676900986 - Holdem no limit (20/40) - 2023/02/20 13:49:46 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (295)
+Seat 3: JeffBluffley (605)
+*** ANTE/BLINDS ***
+JeffBluffley posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js 8h]
+*** PRE-FLOP *** 
+JeffBluffley folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729088272180445185-7-1676900989 - Holdem no limit (20/40) - 2023/02/20 13:49:49 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (315)
+Seat 3: JeffBluffley (585)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+JeffBluffley posts big blind 40
+Dealt to _SKR [2s Qc]
+*** PRE-FLOP *** 
+_SKR folds
+JeffBluffley collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: JeffBluffley (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729088272180445185-8-1676901000 - Holdem no limit (20/40) - 2023/02/20 13:50:00 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (295)
+Seat 3: JeffBluffley (605)
+*** ANTE/BLINDS ***
+JeffBluffley posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jc Js]
+*** PRE-FLOP *** 
+JeffBluffley folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729088272180445185-9-1676901007 - Holdem no limit (20/40) - 2023/02/20 13:50:07 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (315)
+Seat 3: JeffBluffley (585)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+JeffBluffley posts big blind 40
+Dealt to _SKR [Qc 9s]
+*** PRE-FLOP *** 
+_SKR raises 275 to 315 and is all-in
+JeffBluffley folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 1: _SKR (small blind) (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729088272180445185-10-1676901013 - Holdem no limit (20/40) - 2023/02/20 13:50:13 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (355)
+Seat 3: JeffBluffley (545)
+*** ANTE/BLINDS ***
+JeffBluffley posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2d Ks]
+*** PRE-FLOP *** 
+JeffBluffley raises 505 to 545 and is all-in
+_SKR folds
+JeffBluffley collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Seat 3: JeffBluffley (small blind) (button) won 585
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729088272180445185-11-1676901020 - Holdem no limit (20/40) - 2023/02/20 13:50:20 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (315)
+Seat 3: JeffBluffley (585)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+JeffBluffley posts big blind 40
+Dealt to _SKR [6h Kh]
+*** PRE-FLOP *** 
+_SKR raises 275 to 315 and is all-in
+JeffBluffley folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 1: _SKR (small blind) (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729088272180445185-12-1676901027 - Holdem no limit (30/60) - 2023/02/20 13:50:27 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (355)
+Seat 3: JeffBluffley (545)
+*** ANTE/BLINDS ***
+JeffBluffley posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9h 2h]
+*** PRE-FLOP *** 
+JeffBluffley raises 485 to 545 and is all-in
+_SKR folds
+JeffBluffley collected 605 from pot
+*** SUMMARY ***
+Total pot 605 | No rake
+Seat 3: JeffBluffley (small blind) (button) won 605
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729088272180445185-13-1676901034 - Holdem no limit (30/60) - 2023/02/20 13:50:34 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (295)
+Seat 3: JeffBluffley (605)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+JeffBluffley posts big blind 60
+Dealt to _SKR [Tc 4s]
+*** PRE-FLOP *** 
+_SKR folds
+JeffBluffley collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: JeffBluffley (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729088272180445185-14-1676901038 - Holdem no limit (30/60) - 2023/02/20 13:50:38 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (265)
+Seat 3: JeffBluffley (635)
+*** ANTE/BLINDS ***
+JeffBluffley posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ac 9d]
+*** PRE-FLOP *** 
+JeffBluffley folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729088272180445185-15-1676901042 - Holdem no limit (30/60) - 2023/02/20 13:50:42 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (295)
+Seat 3: JeffBluffley (605)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+JeffBluffley posts big blind 60
+Dealt to _SKR [2h 3s]
+*** PRE-FLOP *** 
+_SKR folds
+JeffBluffley collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: JeffBluffley (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729088272180445185-16-1676901047 - Holdem no limit (30/60) - 2023/02/20 13:50:47 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (265)
+Seat 3: JeffBluffley (635)
+*** ANTE/BLINDS ***
+JeffBluffley posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2s 6d]
+*** PRE-FLOP *** 
+JeffBluffley raises 575 to 635 and is all-in
+_SKR folds
+JeffBluffley collected 695 from pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Seat 3: JeffBluffley (small blind) (button) won 695
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729088272180445185-17-1676901059 - Holdem no limit (30/60) - 2023/02/20 13:50:59 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (205)
+Seat 3: JeffBluffley (695)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+JeffBluffley posts big blind 60
+Dealt to _SKR [Qc 9s]
+*** PRE-FLOP *** 
+_SKR raises 145 to 205 and is all-in
+JeffBluffley folds
+_SKR collected 265 from pot
+*** SUMMARY ***
+Total pot 265 | No rake
+Seat 1: _SKR (small blind) (button) won 265
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729088272180445185-18-1676901066 - Holdem no limit (30/60) - 2023/02/20 13:51:06 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (265)
+Seat 3: JeffBluffley (635)
+*** ANTE/BLINDS ***
+JeffBluffley posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c 4h]
+*** PRE-FLOP *** 
+JeffBluffley raises 575 to 635 and is all-in
+_SKR folds
+JeffBluffley collected 695 from pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Seat 3: JeffBluffley (small blind) (button) won 695
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729088272180445185-19-1676901075 - Holdem no limit (30/60) - 2023/02/20 13:51:15 UTC
+Table: 'Expresso Nitro(635415379)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (205)
+Seat 3: JeffBluffley (695)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+JeffBluffley posts big blind 60
+Dealt to _SKR [Ac 3c]
+*** PRE-FLOP *** 
+_SKR raises 145 to 205 and is all-in
+JeffBluffley raises 145 to 350
+*** FLOP *** [4d 5c 9d]
+*** TURN *** [4d 5c 9d][Qd]
+*** RIVER *** [4d 5c 9d Qd][6s]
+*** SHOW DOWN ***
+_SKR shows [Ac 3c] (High card : Ace)
+JeffBluffley shows [Td Th] (One pair : Tens)
+JeffBluffley collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [4d 5c 9d Qd 6s]
+Seat 1: _SKR (small blind) (button) showed [Ac 3c] and lost with High card : Ace
+Seat 3: JeffBluffley (big blind) showed [Td Th] and won 555 with One pair : Tens
+
+

@@ -1,0 +1,76 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654473330060427265-1-1672662180 - Holdem no limit (10/20) - 2023/01/02 12:23:00 UTC
+Table: 'Expresso Nitro(618042734)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lombardinije (300)
+Seat 2: Georges 45 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Georges 45 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 3h]
+*** PRE-FLOP *** 
+lombardinije calls 20
+Georges 45 raises 40 to 60
+_SKR folds
+lombardinije calls 40
+*** FLOP *** [5d 9s 6s]
+Georges 45 checks
+lombardinije checks
+*** TURN *** [5d 9s 6s][Tc]
+Georges 45 checks
+lombardinije checks
+*** RIVER *** [5d 9s 6s Tc][8s]
+Georges 45 bets 240 and is all-in
+lombardinije folds
+Georges 45 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [5d 9s 6s Tc 8s]
+Seat 2: Georges 45 (small blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654473330060427265-2-1672662214 - Holdem no limit (10/20) - 2023/01/02 12:23:34 UTC
+Table: 'Expresso Nitro(618042734)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lombardinije (240)
+Seat 2: Georges 45 (380)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+lombardinije posts big blind 20
+Dealt to _SKR [5s 7h]
+*** PRE-FLOP *** 
+Georges 45 raises 360 to 380 and is all-in
+_SKR folds
+lombardinije folds
+Georges 45 collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 2: Georges 45 (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654473330060427265-3-1672662222 - Holdem no limit (10/20) - 2023/01/02 12:23:42 UTC
+Table: 'Expresso Nitro(618042734)#0' 3-max (real money) Seat #3 is the button
+Seat 1: lombardinije (220)
+Seat 2: Georges 45 (410)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+lombardinije posts small blind 10
+Georges 45 posts big blind 20
+Dealt to _SKR [Kc Th]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+lombardinije folds
+Georges 45 raises 140 to 410 and is all-in
+*** FLOP *** [Ac Jh 2h]
+*** TURN *** [Ac Jh 2h][6c]
+*** RIVER *** [Ac Jh 2h 6c][Jc]
+*** SHOW DOWN ***
+_SKR shows [Kc Th] (One pair : Jacks)
+Georges 45 shows [5s Ah] (Two pairs : Aces and Jacks)
+Georges 45 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [Ac Jh 2h 6c Jc]
+Seat 2: Georges 45 (big blind) showed [5s Ah] and won 690 with Two pairs : Aces and Jacks
+Seat 3: _SKR (button) showed [Kc Th] and lost with One pair : Jacks
+
+

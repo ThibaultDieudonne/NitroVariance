@@ -1,0 +1,66 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730562262006759425-1-1676985814 - Holdem no limit (10/20) - 2023/02/21 13:23:34 UTC
+Table: 'Expresso Nitro(635758569)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: SG Lord75153 (300)
+Seat 3: Papagenoo (300)
+*** ANTE/BLINDS ***
+Papagenoo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s Ts]
+*** PRE-FLOP *** 
+SG Lord75153 folds
+Papagenoo raises 280 to 300 and is all-in
+_SKR folds
+Papagenoo collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Papagenoo (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730562262006759425-2-1676985833 - Holdem no limit (10/20) - 2023/02/21 13:23:53 UTC
+Table: 'Expresso Nitro(635758569)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: SG Lord75153 (300)
+Seat 3: Papagenoo (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+SG Lord75153 posts big blind 20
+Dealt to _SKR [3h Qs]
+*** PRE-FLOP *** 
+Papagenoo folds
+_SKR folds
+SG Lord75153 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: SG Lord75153 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730562262006759425-3-1676985853 - Holdem no limit (10/20) - 2023/02/21 13:24:13 UTC
+Table: 'Expresso Nitro(635758569)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: SG Lord75153 (310)
+Seat 3: Papagenoo (320)
+*** ANTE/BLINDS ***
+SG Lord75153 posts small blind 10
+Papagenoo posts big blind 20
+Dealt to _SKR [3c 3d]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+SG Lord75153 raises 40 to 310 and is all-in
+Papagenoo raises 10 to 320 and is all-in
+*** FLOP *** [2d 5h 8h]
+*** TURN *** [2d 5h 8h][8d]
+*** RIVER *** [2d 5h 8h 8d][Ah]
+*** SHOW DOWN ***
+_SKR shows [3c 3d] (Two pairs : 8 and 3)
+SG Lord75153 shows [As Jh] (Two pairs : Aces and 8)
+Papagenoo shows [2s 2c] (Full of 2 and 8)
+Papagenoo collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d 5h 8h 8d Ah]
+Seat 1: _SKR (button) showed [3c 3d] and lost with Two pairs : 8 and 3
+Seat 2: SG Lord75153 (small blind) showed [As Jh] and lost with Two pairs : Aces and 8
+Seat 3: Papagenoo (big blind) showed [2s 2c] and won 900 with Full of 2 and 8
+
+

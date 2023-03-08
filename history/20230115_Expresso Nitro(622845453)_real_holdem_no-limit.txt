@@ -1,0 +1,163 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675100851097305089-1-1673744429 - Holdem no limit (10/20) - 2023/01/15 01:00:29 UTC
+Table: 'Expresso Nitro(622845453)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PayPerView69 (300)
+Seat 2: _SKR (300)
+Seat 3: CrazyHateKQ6 (300)
+*** ANTE/BLINDS ***
+CrazyHateKQ6 posts small blind 10
+PayPerView69 posts big blind 20
+Dealt to _SKR [7s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+CrazyHateKQ6 calls 10
+PayPerView69 checks
+*** FLOP *** [5h 2d 8h]
+CrazyHateKQ6 bets 20
+PayPerView69 calls 20
+*** TURN *** [5h 2d 8h][8s]
+CrazyHateKQ6 bets 30
+PayPerView69 calls 30
+*** RIVER *** [5h 2d 8h 8s][Ah]
+CrazyHateKQ6 bets 80
+PayPerView69 calls 80
+*** SHOW DOWN ***
+PayPerView69 shows [5c 4s] (Two pairs : 8 and 5)
+CrazyHateKQ6 shows [3d As] (Two pairs : Aces and 8)
+CrazyHateKQ6 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [5h 2d 8h 8s Ah]
+Seat 1: PayPerView69 (big blind) showed [5c 4s] and lost with Two pairs : 8 and 5
+Seat 3: CrazyHateKQ6 (small blind) showed [3d As] and won 300 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675100851097305089-2-1673744481 - Holdem no limit (10/20) - 2023/01/15 01:01:21 UTC
+Table: 'Expresso Nitro(622845453)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PayPerView69 (150)
+Seat 2: _SKR (300)
+Seat 3: CrazyHateKQ6 (450)
+*** ANTE/BLINDS ***
+PayPerView69 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jh 8s]
+*** PRE-FLOP *** 
+CrazyHateKQ6 calls 20
+PayPerView69 raises 130 to 150 and is all-in
+_SKR folds
+CrazyHateKQ6 calls 130
+*** FLOP *** [5c 8h Kd]
+*** TURN *** [5c 8h Kd][Td]
+*** RIVER *** [5c 8h Kd Td][Qd]
+*** SHOW DOWN ***
+CrazyHateKQ6 shows [8c Qh] (Two pairs : Queens and 8)
+PayPerView69 shows [Tc Kh] (Two pairs : Kings and Tens)
+PayPerView69 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [5c 8h Kd Td Qd]
+Seat 1: PayPerView69 (small blind) showed [Tc Kh] and won 320 with Two pairs : Kings and Tens
+Seat 3: CrazyHateKQ6 (button) showed [8c Qh] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675100851097305089-3-1673744517 - Holdem no limit (15/30) - 2023/01/15 01:01:57 UTC
+Table: 'Expresso Nitro(622845453)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PayPerView69 (320)
+Seat 2: _SKR (280)
+Seat 3: CrazyHateKQ6 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+CrazyHateKQ6 posts big blind 30
+Dealt to _SKR [7h 9d]
+*** PRE-FLOP *** 
+PayPerView69 calls 30
+_SKR folds
+CrazyHateKQ6 checks
+*** FLOP *** [Kd 2c Td]
+CrazyHateKQ6 bets 30
+PayPerView69 calls 30
+*** TURN *** [Kd 2c Td][Jc]
+CrazyHateKQ6 bets 45
+PayPerView69 raises 215 to 260 and is all-in
+CrazyHateKQ6 folds
+PayPerView69 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [Kd 2c Td Jc]
+Seat 1: PayPerView69 (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675100851097305089-4-1673744549 - Holdem no limit (20/40) - 2023/01/15 01:02:29 UTC
+Table: 'Expresso Nitro(622845453)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PayPerView69 (440)
+Seat 2: _SKR (265)
+Seat 3: CrazyHateKQ6 (195)
+*** ANTE/BLINDS ***
+CrazyHateKQ6 posts small blind 20
+PayPerView69 posts big blind 40
+Dealt to _SKR [Kc 3s]
+*** PRE-FLOP *** 
+_SKR folds
+CrazyHateKQ6 calls 20
+PayPerView69 checks
+*** FLOP *** [9c 7s 7h]
+CrazyHateKQ6 bets 40
+PayPerView69 folds
+CrazyHateKQ6 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9c 7s 7h]
+Seat 3: CrazyHateKQ6 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675100851097305089-5-1673744570 - Holdem no limit (20/40) - 2023/01/15 01:02:50 UTC
+Table: 'Expresso Nitro(622845453)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PayPerView69 (400)
+Seat 2: _SKR (265)
+Seat 3: CrazyHateKQ6 (235)
+*** ANTE/BLINDS ***
+PayPerView69 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ad Kh]
+*** PRE-FLOP *** 
+CrazyHateKQ6 raises 195 to 235 and is all-in
+PayPerView69 folds
+_SKR raises 30 to 265 and is all-in
+*** FLOP *** [As 7c 9c]
+*** TURN *** [As 7c 9c][4d]
+*** RIVER *** [As 7c 9c 4d][8s]
+*** SHOW DOWN ***
+CrazyHateKQ6 shows [2s 2h] (One pair : 2)
+_SKR shows [Ad Kh] (One pair : Aces)
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [As 7c 9c 4d 8s]
+Seat 2: _SKR (big blind) showed [Ad Kh] and won 520 with One pair : Aces
+Seat 3: CrazyHateKQ6 (button) showed [2s 2h] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675100851097305089-6-1673744597 - Holdem no limit (20/40) - 2023/01/15 01:03:17 UTC
+Table: 'Expresso Nitro(622845453)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PayPerView69 (380)
+Seat 2: _SKR (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+PayPerView69 posts big blind 40
+Dealt to _SKR [Ad 9d]
+*** PRE-FLOP *** 
+_SKR raises 480 to 520 and is all-in
+PayPerView69 calls 340 and is all-in
+*** FLOP *** [3d 4h 6h]
+*** TURN *** [3d 4h 6h][As]
+*** RIVER *** [3d 4h 6h As][7h]
+*** SHOW DOWN ***
+PayPerView69 shows [Kh Kd] (One pair : Kings)
+_SKR shows [Ad 9d] (One pair : Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 4h 6h As 7h]
+Seat 1: PayPerView69 (big blind) showed [Kh Kd] and lost with One pair : Kings
+Seat 2: _SKR (small blind) (button) showed [Ad 9d] and won 900 with One pair : Aces
+
+

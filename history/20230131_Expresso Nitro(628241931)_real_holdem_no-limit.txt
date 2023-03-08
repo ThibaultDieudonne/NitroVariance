@@ -1,0 +1,74 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698278547620888577-1-1675188602 - Holdem no limit (10/20) - 2023/01/31 18:10:02 UTC
+Table: 'Expresso Nitro(628241931)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: __mao__ (300)
+Seat 3: Fabetcaro (300)
+*** ANTE/BLINDS ***
+Fabetcaro posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 9h]
+*** PRE-FLOP *** 
+__mao__ folds
+Fabetcaro folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698278547620888577-2-1675188609 - Holdem no limit (10/20) - 2023/01/31 18:10:09 UTC
+Table: 'Expresso Nitro(628241931)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: __mao__ (300)
+Seat 3: Fabetcaro (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+__mao__ posts big blind 20
+Dealt to _SKR [Qd Jc]
+*** PRE-FLOP *** 
+Fabetcaro calls 20
+_SKR raises 290 to 310 and is all-in
+__mao__ calls 280 and is all-in
+Fabetcaro calls 270 and is all-in
+*** FLOP *** [Jh 5c Qh]
+*** TURN *** [Jh 5c Qh][4d]
+*** RIVER *** [Jh 5c Qh 4d][5s]
+*** SHOW DOWN ***
+__mao__ shows [Ac 6h] (One pair : 5)
+_SKR shows [Qd Jc] (Two pairs : Queens and Jacks)
+Fabetcaro shows [Ks Kd] (Two pairs : Kings and 5)
+Fabetcaro collected 870 from main pot
+_SKR collected 30 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh 5c Qh 4d 5s]
+Seat 1: _SKR (small blind) showed [Qd Jc] and won 30 with Two pairs : Queens and Jacks
+Seat 2: __mao__ (big blind) showed [Ac 6h] and lost with One pair : 5
+Seat 3: Fabetcaro (button) showed [Ks Kd] and won 870 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698278547620888577-3-1675188638 - Holdem no limit (10/20) - 2023/01/31 18:10:38 UTC
+Table: 'Expresso Nitro(628241931)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (30)
+Seat 3: Fabetcaro (870)
+*** ANTE/BLINDS ***
+Fabetcaro posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc 3h]
+*** PRE-FLOP *** 
+Fabetcaro raises 850 to 870 and is all-in
+_SKR calls 10 and is all-in
+*** FLOP *** [Kd As 2d]
+*** TURN *** [Kd As 2d][2c]
+*** RIVER *** [Kd As 2d 2c][6c]
+*** SHOW DOWN ***
+_SKR shows [Kc 3h] (Two pairs : Kings and 2)
+Fabetcaro shows [7d Ah] (Two pairs : Aces and 2)
+Fabetcaro collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd As 2d 2c 6c]
+Seat 1: _SKR (big blind) showed [Kc 3h] and lost with Two pairs : Kings and 2
+Seat 3: Fabetcaro (small blind) (button) showed [7d Ah] and won 900 with Two pairs : Aces and 2
+
+

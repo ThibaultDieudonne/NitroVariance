@@ -1,0 +1,126 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718672521221111809-1-1676294692 - Holdem no limit (10/20) - 2023/02/13 13:24:52 UTC
+Table: 'Expresso Nitro(632990273)#0' 3-max (real money) Seat #2 is the button
+Seat 1: -willo-1 (300)
+Seat 2: Wieczo25 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+-willo-1 posts big blind 20
+Dealt to _SKR [4d 6c]
+*** PRE-FLOP *** 
+Wieczo25 calls 20
+_SKR folds
+-willo-1 checks
+*** FLOP *** [5d Qd Ts]
+-willo-1 checks
+Wieczo25 checks
+*** TURN *** [5d Qd Ts][Kh]
+-willo-1 checks
+Wieczo25 checks
+*** RIVER *** [5d Qd Ts Kh][4s]
+-willo-1 checks
+Wieczo25 checks
+*** SHOW DOWN ***
+-willo-1 shows [6d 9s] (High card : King)
+Wieczo25 shows [4c 3c] (One pair : 4)
+Wieczo25 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [5d Qd Ts Kh 4s]
+Seat 1: -willo-1 (big blind) showed [6d 9s] and lost with High card : King
+Seat 2: Wieczo25 (button) showed [4c 3c] and won 50 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718672521221111809-2-1676294715 - Holdem no limit (10/20) - 2023/02/13 13:25:15 UTC
+Table: 'Expresso Nitro(632990273)#0' 3-max (real money) Seat #3 is the button
+Seat 1: -willo-1 (280)
+Seat 2: Wieczo25 (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+-willo-1 posts small blind 10
+Wieczo25 posts big blind 20
+Dealt to _SKR [3d Td]
+*** PRE-FLOP *** 
+_SKR folds
+-willo-1 calls 10
+Wieczo25 checks
+*** FLOP *** [Tc Kh Ks]
+-willo-1 checks
+Wieczo25 checks
+*** TURN *** [Tc Kh Ks][8d]
+-willo-1 checks
+Wieczo25 checks
+*** RIVER *** [Tc Kh Ks 8d][5c]
+-willo-1 checks
+Wieczo25 checks
+*** SHOW DOWN ***
+-willo-1 shows [3h 4d] (One pair : Kings)
+Wieczo25 shows [9s 8c] (Two pairs : Kings and 8)
+Wieczo25 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Tc Kh Ks 8d 5c]
+Seat 1: -willo-1 (small blind) showed [3h 4d] and lost with One pair : Kings
+Seat 2: Wieczo25 (big blind) showed [9s 8c] and won 40 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718672521221111809-3-1676294731 - Holdem no limit (10/20) - 2023/02/13 13:25:31 UTC
+Table: 'Expresso Nitro(632990273)#0' 3-max (real money) Seat #1 is the button
+Seat 1: -willo-1 (260)
+Seat 2: Wieczo25 (350)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Wieczo25 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 6c]
+*** PRE-FLOP *** 
+-willo-1 raises 20 to 40
+Wieczo25 folds
+_SKR raises 250 to 290 and is all-in
+-willo-1 calls 220 and is all-in
+*** FLOP *** [9s 5d Jd]
+*** TURN *** [9s 5d Jd][5h]
+*** RIVER *** [9s 5d Jd 5h][3s]
+*** SHOW DOWN ***
+-willo-1 shows [Ah Js] (Two pairs : Jacks and 5)
+_SKR shows [6h 6c] (Two pairs : 6 and 5)
+_SKR collected 30 from side pot 1
+-willo-1 collected 530 from main pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9s 5d Jd 5h 3s]
+Seat 1: -willo-1 (button) showed [Ah Js] and won 530 with Two pairs : Jacks and 5
+Seat 3: _SKR (big blind) showed [6h 6c] and won 30 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718672521221111809-4-1676294748 - Holdem no limit (15/30) - 2023/02/13 13:25:48 UTC
+Table: 'Expresso Nitro(632990273)#0' 3-max (real money) Seat #2 is the button
+Seat 1: -willo-1 (530)
+Seat 2: Wieczo25 (340)
+Seat 3: _SKR (30)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+-willo-1 posts big blind 30
+Dealt to _SKR [Qd Tc]
+*** PRE-FLOP *** 
+Wieczo25 calls 30
+_SKR calls 15 and is all-in
+-willo-1 checks
+*** FLOP *** [As 3d 5h]
+-willo-1 checks
+Wieczo25 checks
+*** TURN *** [As 3d 5h][Jh]
+-willo-1 bets 90
+Wieczo25 folds
+*** RIVER *** [As 3d 5h Jh][6h]
+*** SHOW DOWN ***
+_SKR shows [Qd Tc] (High card : Ace)
+-willo-1 shows [Js 3c] (Two pairs : Jacks and 3)
+-willo-1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [As 3d 5h Jh 6h]
+Seat 1: -willo-1 (big blind) showed [Js 3c] and won 180 with Two pairs : Jacks and 3
+Seat 3: _SKR (small blind) showed [Qd Tc] and lost with High card : Ace
+
+

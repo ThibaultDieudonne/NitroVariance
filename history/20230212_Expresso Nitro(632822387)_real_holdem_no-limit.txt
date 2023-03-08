@@ -1,0 +1,121 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717951456341655553-1-1676240973 - Holdem no limit (10/20) - 2023/02/12 22:29:33 UTC
+Table: 'Expresso Nitro(632822387)#0' 3-max (real money) Seat #3 is the button
+Seat 1: -Swampy06- (300)
+Seat 2: _SKR (300)
+Seat 3: Rimkalash51 (300)
+*** ANTE/BLINDS ***
+-Swampy06- posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac Th]
+*** PRE-FLOP *** 
+Rimkalash51 raises 20 to 40
+-Swampy06- folds
+_SKR raises 260 to 300 and is all-in
+Rimkalash51 folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: _SKR (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717951456341655553-2-1676240996 - Holdem no limit (10/20) - 2023/02/12 22:29:56 UTC
+Table: 'Expresso Nitro(632822387)#0' 3-max (real money) Seat #1 is the button
+Seat 1: -Swampy06- (290)
+Seat 2: _SKR (350)
+Seat 3: Rimkalash51 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Rimkalash51 posts big blind 20
+Dealt to _SKR [5d 7s]
+*** PRE-FLOP *** 
+-Swampy06- folds
+_SKR folds
+Rimkalash51 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Rimkalash51 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717951456341655553-3-1676241005 - Holdem no limit (10/20) - 2023/02/12 22:30:05 UTC
+Table: 'Expresso Nitro(632822387)#0' 3-max (real money) Seat #2 is the button
+Seat 1: -Swampy06- (290)
+Seat 2: _SKR (340)
+Seat 3: Rimkalash51 (270)
+*** ANTE/BLINDS ***
+Rimkalash51 posts small blind 10
+-Swampy06- posts big blind 20
+Dealt to _SKR [6d 6c]
+*** PRE-FLOP *** 
+_SKR raises 320 to 340 and is all-in
+Rimkalash51 calls 260 and is all-in
+-Swampy06- folds
+*** FLOP *** [Ac Ks Qd]
+*** TURN *** [Ac Ks Qd][2c]
+*** RIVER *** [Ac Ks Qd 2c][5s]
+*** SHOW DOWN ***
+Rimkalash51 shows [3d 3h] (One pair : 3)
+_SKR shows [6d 6c] (One pair : 6)
+_SKR collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Ac Ks Qd 2c 5s]
+Seat 2: _SKR (button) showed [6d 6c] and won 630 with One pair : 6
+Seat 3: Rimkalash51 (small blind) showed [3d 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717951456341655553-4-1676241022 - Holdem no limit (10/20) - 2023/02/12 22:30:22 UTC
+Table: 'Expresso Nitro(632822387)#0' 3-max (real money) Seat #1 is the button
+Seat 1: -Swampy06- (270)
+Seat 2: _SKR (630)
+*** ANTE/BLINDS ***
+-Swampy06- posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5c 7s]
+*** PRE-FLOP *** 
+-Swampy06- calls 10
+_SKR checks
+*** FLOP *** [Kh 4d Ad]
+_SKR checks
+-Swampy06- checks
+*** TURN *** [Kh 4d Ad][6d]
+_SKR checks
+-Swampy06- checks
+*** RIVER *** [Kh 4d Ad 6d][3s]
+_SKR checks
+-Swampy06- checks
+*** SHOW DOWN ***
+-Swampy06- shows [Qc 5h] (High card : Ace)
+_SKR shows [5c 7s] (Straight 7 high)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Kh 4d Ad 6d 3s]
+Seat 1: -Swampy06- (small blind) (button) showed [Qc 5h] and lost with High card : Ace
+Seat 2: _SKR (big blind) showed [5c 7s] and won 40 with Straight 7 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717951456341655553-5-1676241057 - Holdem no limit (15/30) - 2023/02/12 22:30:57 UTC
+Table: 'Expresso Nitro(632822387)#0' 3-max (real money) Seat #2 is the button
+Seat 1: -Swampy06- (250)
+Seat 2: _SKR (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+-Swampy06- posts big blind 30
+Dealt to _SKR [3h 3s]
+*** PRE-FLOP *** 
+_SKR raises 620 to 650 and is all-in
+-Swampy06- calls 220 and is all-in
+*** FLOP *** [Jc 7h 5c]
+*** TURN *** [Jc 7h 5c][Jd]
+*** RIVER *** [Jc 7h 5c Jd][4s]
+*** SHOW DOWN ***
+-Swampy06- shows [Ah 6h] (One pair : Jacks)
+_SKR shows [3h 3s] (Two pairs : Jacks and 3)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jc 7h 5c Jd 4s]
+Seat 1: -Swampy06- (big blind) showed [Ah 6h] and lost with One pair : Jacks
+Seat 2: _SKR (small blind) (button) showed [3h 3s] and won 900 with Two pairs : Jacks and 3
+
+

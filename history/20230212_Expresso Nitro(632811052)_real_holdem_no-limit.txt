@@ -1,0 +1,93 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717902772887355393-1-1676239388 - Holdem no limit (10/20) - 2023/02/12 22:03:08 UTC
+Table: 'Expresso Nitro(632811052)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CallCatZoubi (300)
+Seat 2: _SKR (300)
+Seat 3: Flo.30 (300)
+*** ANTE/BLINDS ***
+CallCatZoubi posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c Ks]
+*** PRE-FLOP *** 
+Flo.30 raises 280 to 300 and is all-in
+CallCatZoubi folds
+_SKR folds
+Flo.30 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Flo.30 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717902772887355393-2-1676239400 - Holdem no limit (10/20) - 2023/02/12 22:03:20 UTC
+Table: 'Expresso Nitro(632811052)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CallCatZoubi (290)
+Seat 2: _SKR (280)
+Seat 3: Flo.30 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Flo.30 posts big blind 20
+Dealt to _SKR [3h 8s]
+*** PRE-FLOP *** 
+CallCatZoubi raises 270 to 290 and is all-in
+_SKR folds
+Flo.30 raises 40 to 330 and is all-in
+*** FLOP *** [Qd 8d Kh]
+*** TURN *** [Qd 8d Kh][9s]
+*** RIVER *** [Qd 8d Kh 9s][Kc]
+*** SHOW DOWN ***
+CallCatZoubi shows [4d Ad] (One pair : Kings)
+Flo.30 shows [3c As] (One pair : Kings)
+Flo.30 collected 335 from side pot 1
+CallCatZoubi collected 295 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qd 8d Kh 9s Kc]
+Seat 1: CallCatZoubi (button) showed [4d Ad] and won 295 with One pair : Kings
+Seat 3: Flo.30 (big blind) showed [3c As] and won 335 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717902772887355393-3-1676239413 - Holdem no limit (10/20) - 2023/02/12 22:03:33 UTC
+Table: 'Expresso Nitro(632811052)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CallCatZoubi (295)
+Seat 2: _SKR (270)
+Seat 3: Flo.30 (335)
+*** ANTE/BLINDS ***
+Flo.30 posts small blind 10
+CallCatZoubi posts big blind 20
+Dealt to _SKR [3c Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Flo.30 raises 315 to 335 and is all-in
+CallCatZoubi folds
+Flo.30 collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 3: Flo.30 (small blind) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717902772887355393-4-1676239424 - Holdem no limit (10/20) - 2023/02/12 22:03:44 UTC
+Table: 'Expresso Nitro(632811052)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CallCatZoubi (275)
+Seat 2: _SKR (270)
+Seat 3: Flo.30 (355)
+*** ANTE/BLINDS ***
+CallCatZoubi posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks Ac]
+*** PRE-FLOP *** 
+Flo.30 raises 335 to 355 and is all-in
+CallCatZoubi folds
+_SKR calls 250 and is all-in
+*** FLOP *** [9h 8h Ah]
+*** TURN *** [9h 8h Ah][Kc]
+*** RIVER *** [9h 8h Ah Kc][7h]
+*** SHOW DOWN ***
+_SKR shows [Ks Ac] (Two pairs : Aces and Kings)
+Flo.30 shows [Kd Qh] (Flush Ace high)
+Flo.30 collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | No rake
+Board: [9h 8h Ah Kc 7h]
+Seat 2: _SKR (big blind) showed [Ks Ac] and lost with Two pairs : Aces and Kings
+Seat 3: Flo.30 (button) showed [Kd Qh] and won 635 with Flush Ace high
+
+

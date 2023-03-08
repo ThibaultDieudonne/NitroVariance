@@ -1,0 +1,158 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717818905060966401-1-1676236455 - Holdem no limit (10/20) - 2023/02/12 21:14:15 UTC
+Table: 'Expresso Nitro(632791525)#0' 3-max (real money) Seat #2 is the button
+Seat 1: chelfrol (300)
+Seat 2: _SKR (300)
+Seat 3: Andresen21 (300)
+*** ANTE/BLINDS ***
+Andresen21 posts small blind 10
+chelfrol posts big blind 20
+Dealt to _SKR [8h Td]
+*** PRE-FLOP *** 
+_SKR folds
+Andresen21 calls 10
+chelfrol checks
+*** FLOP *** [Ac 7s Kc]
+Andresen21 checks
+chelfrol checks
+*** TURN *** [Ac 7s Kc][6c]
+Andresen21 checks
+chelfrol bets 20
+Andresen21 calls 20
+*** RIVER *** [Ac 7s Kc 6c][8d]
+Andresen21 checks
+chelfrol bets 40
+Andresen21 folds
+chelfrol collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ac 7s Kc 6c 8d]
+Seat 1: chelfrol (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717818905060966401-2-1676236486 - Holdem no limit (10/20) - 2023/02/12 21:14:46 UTC
+Table: 'Expresso Nitro(632791525)#0' 3-max (real money) Seat #3 is the button
+Seat 1: chelfrol (340)
+Seat 2: _SKR (300)
+Seat 3: Andresen21 (260)
+*** ANTE/BLINDS ***
+chelfrol posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s 4h]
+*** PRE-FLOP *** 
+Andresen21 folds
+chelfrol calls 10
+_SKR checks
+*** FLOP *** [7h 2c 9s]
+chelfrol checks
+_SKR checks
+*** TURN *** [7h 2c 9s][7s]
+chelfrol checks
+_SKR checks
+*** RIVER *** [7h 2c 9s 7s][Th]
+chelfrol checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [8s 4h] (One pair : 7)
+chelfrol shows [4d Kd] (One pair : 7)
+chelfrol collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [7h 2c 9s 7s Th]
+Seat 1: chelfrol (small blind) showed [4d Kd] and won 40 with One pair : 7
+Seat 2: _SKR (big blind) showed [8s 4h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717818905060966401-3-1676236526 - Holdem no limit (15/30) - 2023/02/12 21:15:26 UTC
+Table: 'Expresso Nitro(632791525)#0' 3-max (real money) Seat #1 is the button
+Seat 1: chelfrol (360)
+Seat 2: _SKR (280)
+Seat 3: Andresen21 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Andresen21 posts big blind 30
+Dealt to _SKR [5h 3d]
+*** PRE-FLOP *** 
+chelfrol folds
+_SKR folds
+Andresen21 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Andresen21 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717818905060966401-4-1676236534 - Holdem no limit (15/30) - 2023/02/12 21:15:34 UTC
+Table: 'Expresso Nitro(632791525)#0' 3-max (real money) Seat #2 is the button
+Seat 1: chelfrol (360)
+Seat 2: _SKR (265)
+Seat 3: Andresen21 (275)
+*** ANTE/BLINDS ***
+Andresen21 posts small blind 15
+chelfrol posts big blind 30
+Dealt to _SKR [3d Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Andresen21 raises 245 to 275 and is all-in
+chelfrol calls 245
+*** FLOP *** [9c 7s 9h]
+*** TURN *** [9c 7s 9h][9d]
+*** RIVER *** [9c 7s 9h 9d][8s]
+*** SHOW DOWN ***
+Andresen21 shows [As 2h] (Trips of 9)
+chelfrol shows [Ah Qc] (Trips of 9)
+chelfrol collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [9c 7s 9h 9d 8s]
+Seat 1: chelfrol (big blind) showed [Ah Qc] and won 550 with Trips of 9
+Seat 3: Andresen21 (small blind) showed [As 2h] and lost with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717818905060966401-5-1676236547 - Holdem no limit (15/30) - 2023/02/12 21:15:47 UTC
+Table: 'Expresso Nitro(632791525)#0' 3-max (real money) Seat #1 is the button
+Seat 1: chelfrol (635)
+Seat 2: _SKR (265)
+*** ANTE/BLINDS ***
+chelfrol posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4h 2d]
+*** PRE-FLOP *** 
+chelfrol calls 15
+_SKR checks
+*** FLOP *** [3h Ts 5s]
+_SKR checks
+chelfrol checks
+*** TURN *** [3h Ts 5s][2h]
+_SKR bets 30
+chelfrol folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [3h Ts 5s 2h]
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717818905060966401-6-1676236560 - Holdem no limit (15/30) - 2023/02/12 21:16:00 UTC
+Table: 'Expresso Nitro(632791525)#0' 3-max (real money) Seat #2 is the button
+Seat 1: chelfrol (605)
+Seat 2: _SKR (295)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+chelfrol posts big blind 30
+Dealt to _SKR [Td 8d]
+*** PRE-FLOP *** 
+_SKR raises 265 to 295 and is all-in
+chelfrol calls 265
+*** FLOP *** [Ad 6d Ks]
+*** TURN *** [Ad 6d Ks][Ac]
+*** RIVER *** [Ad 6d Ks Ac][6s]
+*** SHOW DOWN ***
+_SKR shows [Td 8d] (Two pairs : Aces and 6)
+chelfrol shows [Ah 9h] (Full of Aces and 6)
+chelfrol collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Ad 6d Ks Ac 6s]
+Seat 1: chelfrol (big blind) showed [Ah 9h] and won 590 with Full of Aces and 6
+Seat 2: _SKR (small blind) (button) showed [Td 8d] and lost with Two pairs : Aces and 6
+
+

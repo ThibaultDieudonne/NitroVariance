@@ -1,0 +1,144 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696891221644673025-1-1675102225 - Holdem no limit (10/20) - 2023/01/30 18:10:25 UTC
+Table: 'Expresso Nitro(627918919)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ED  DELINE (300)
+Seat 2: wmx-f2zwfak (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ED  DELINE posts big blind 20
+Dealt to _SKR [3c 4d]
+*** PRE-FLOP *** 
+wmx-f2zwfak raises 40 to 60
+_SKR folds
+ED  DELINE calls 40
+*** FLOP *** [Jh 4s 6h]
+ED  DELINE bets 46
+wmx-f2zwfak calls 46
+*** TURN *** [Jh 4s 6h][4h]
+ED  DELINE bets 78
+wmx-f2zwfak calls 78
+*** RIVER *** [Jh 4s 6h 4h][3s]
+ED  DELINE bets 116 and is all-in
+wmx-f2zwfak folds
+ED  DELINE collected 494 from pot
+*** SUMMARY ***
+Total pot 494 | No rake
+Board: [Jh 4s 6h 4h 3s]
+Seat 1: ED  DELINE (big blind) won 494
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696891221644673025-2-1675102261 - Holdem no limit (10/20) - 2023/01/30 18:11:01 UTC
+Table: 'Expresso Nitro(627918919)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ED  DELINE (494)
+Seat 2: wmx-f2zwfak (116)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+ED  DELINE posts small blind 10
+wmx-f2zwfak posts big blind 20
+Dealt to _SKR [4c Ts]
+*** PRE-FLOP *** 
+_SKR folds
+ED  DELINE raises 474 to 494 and is all-in
+wmx-f2zwfak calls 96 and is all-in
+*** FLOP *** [9c Js 7c]
+*** TURN *** [9c Js 7c][9s]
+*** RIVER *** [9c Js 7c 9s][5h]
+*** SHOW DOWN ***
+ED  DELINE shows [2d Qc] (One pair : 9)
+wmx-f2zwfak shows [Qd 8c] (One pair : 9)
+wmx-f2zwfak collected 232 from main pot
+ED  DELINE collected 378 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [9c Js 7c 9s 5h]
+Seat 1: ED  DELINE (small blind) showed [2d Qc] and won 378 with One pair : 9
+Seat 2: wmx-f2zwfak (big blind) showed [Qd 8c] and won 232 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696891221644673025-3-1675102291 - Holdem no limit (15/30) - 2023/01/30 18:11:31 UTC
+Table: 'Expresso Nitro(627918919)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ED  DELINE (378)
+Seat 2: wmx-f2zwfak (232)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+wmx-f2zwfak posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2d Tc]
+*** PRE-FLOP *** 
+ED  DELINE folds
+wmx-f2zwfak calls 15
+_SKR checks
+*** FLOP *** [Ah 4s 2c]
+wmx-f2zwfak checks
+_SKR checks
+*** TURN *** [Ah 4s 2c][3d]
+wmx-f2zwfak checks
+_SKR checks
+*** RIVER *** [Ah 4s 2c 3d][7s]
+wmx-f2zwfak checks
+_SKR checks
+*** SHOW DOWN ***
+wmx-f2zwfak shows [8h 6d] (High card : Ace)
+_SKR shows [2d Tc] (One pair : 2)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ah 4s 2c 3d 7s]
+Seat 2: wmx-f2zwfak (small blind) showed [8h 6d] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [2d Tc] and won 60 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696891221644673025-4-1675102339 - Holdem no limit (15/30) - 2023/01/30 18:12:19 UTC
+Table: 'Expresso Nitro(627918919)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ED  DELINE (378)
+Seat 2: wmx-f2zwfak (202)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ED  DELINE posts big blind 30
+Dealt to _SKR [7s 2c]
+*** PRE-FLOP *** 
+wmx-f2zwfak calls 30
+_SKR folds
+ED  DELINE raises 30 to 60
+wmx-f2zwfak calls 30
+*** FLOP *** [8s 9d Jd]
+ED  DELINE bets 47
+wmx-f2zwfak folds
+ED  DELINE collected 182 from pot
+*** SUMMARY ***
+Total pot 182 | No rake
+Board: [8s 9d Jd]
+Seat 1: ED  DELINE (big blind) won 182
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696891221644673025-5-1675102352 - Holdem no limit (20/40) - 2023/01/30 18:12:32 UTC
+Table: 'Expresso Nitro(627918919)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ED  DELINE (453)
+Seat 2: wmx-f2zwfak (142)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+ED  DELINE posts small blind 20
+wmx-f2zwfak posts big blind 40
+Dealt to _SKR [2d Ah]
+*** PRE-FLOP *** 
+_SKR raises 265 to 305 and is all-in
+ED  DELINE calls 285
+wmx-f2zwfak calls 102 and is all-in
+*** FLOP *** [Js 2h 7d]
+*** TURN *** [Js 2h 7d][9c]
+*** RIVER *** [Js 2h 7d 9c][6s]
+*** SHOW DOWN ***
+_SKR shows [2d Ah] (One pair : 2)
+ED  DELINE shows [Ks 6h] (One pair : 6)
+wmx-f2zwfak shows [3d Jh] (One pair : Jacks)
+wmx-f2zwfak collected 426 from main pot
+ED  DELINE collected 326 from side pot 1
+*** SUMMARY ***
+Total pot 752 | No rake
+Board: [Js 2h 7d 9c 6s]
+Seat 1: ED  DELINE (small blind) showed [Ks 6h] and won 326 with One pair : 6
+Seat 2: wmx-f2zwfak (big blind) showed [3d Jh] and won 426 with One pair : Jacks
+Seat 3: _SKR (button) showed [2d Ah] and lost with One pair : 2
+
+

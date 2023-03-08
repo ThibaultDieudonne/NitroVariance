@@ -1,0 +1,134 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674138589444440065-1-1673702975 - Holdem no limit (10/20) - 2023/01/14 13:29:35 UTC
+Table: 'Expresso Nitro(622621409)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PolloPasivo9 (300)
+Seat 2: _SKR (300)
+Seat 3: LeKarting (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LeKarting posts big blind 20
+Dealt to _SKR [3d 6h]
+*** PRE-FLOP *** 
+PolloPasivo9 calls 20
+_SKR folds
+LeKarting checks
+*** FLOP *** [Ad 4h Tc]
+LeKarting checks
+PolloPasivo9 bets 20
+LeKarting folds
+PolloPasivo9 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Ad 4h Tc]
+Seat 1: PolloPasivo9 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674138589444440065-2-1673702996 - Holdem no limit (10/20) - 2023/01/14 13:29:56 UTC
+Table: 'Expresso Nitro(622621409)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PolloPasivo9 (330)
+Seat 2: _SKR (290)
+Seat 3: LeKarting (280)
+*** ANTE/BLINDS ***
+LeKarting posts small blind 10
+PolloPasivo9 posts big blind 20
+Dealt to _SKR [7s Kh]
+*** PRE-FLOP *** 
+_SKR folds
+LeKarting raises 260 to 280 and is all-in
+PolloPasivo9 calls 260
+*** FLOP *** [4h 3h Ts]
+*** TURN *** [4h 3h Ts][7c]
+*** RIVER *** [4h 3h Ts 7c][7d]
+*** SHOW DOWN ***
+PolloPasivo9 shows [Qs Jc] (One pair : 7)
+LeKarting shows [Ac 6s] (One pair : 7)
+LeKarting collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [4h 3h Ts 7c 7d]
+Seat 1: PolloPasivo9 (big blind) showed [Qs Jc] and lost with One pair : 7
+Seat 3: LeKarting (small blind) showed [Ac 6s] and won 560 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674138589444440065-3-1673703012 - Holdem no limit (10/20) - 2023/01/14 13:30:12 UTC
+Table: 'Expresso Nitro(622621409)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PolloPasivo9 (50)
+Seat 2: _SKR (290)
+Seat 3: LeKarting (560)
+*** ANTE/BLINDS ***
+PolloPasivo9 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As Ah]
+*** PRE-FLOP *** 
+LeKarting raises 20 to 40
+PolloPasivo9 calls 30
+_SKR raises 20 to 60
+LeKarting calls 20
+PolloPasivo9 calls 10 and is all-in
+*** FLOP *** [3h Qd Td]
+_SKR bets 60
+LeKarting calls 60
+*** TURN *** [3h Qd Td][6d]
+_SKR bets 170 and is all-in
+LeKarting folds
+*** RIVER *** [3h Qd Td 6d][8d]
+*** SHOW DOWN ***
+PolloPasivo9 shows [4h Ks] (High card : King)
+_SKR shows [As Ah] (One pair : Aces)
+_SKR collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [3h Qd Td 6d 8d]
+Seat 1: PolloPasivo9 (small blind) showed [4h Ks] and lost with High card : King
+Seat 2: _SKR (big blind) showed [As Ah] and won 460 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674138589444440065-4-1673703049 - Holdem no limit (15/30) - 2023/01/14 13:30:49 UTC
+Table: 'Expresso Nitro(622621409)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (460)
+Seat 3: LeKarting (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LeKarting posts big blind 30
+Dealt to _SKR [Ts Kh]
+*** PRE-FLOP *** 
+_SKR raises 430 to 460 and is all-in
+LeKarting calls 410 and is all-in
+*** FLOP *** [8s 4c 6d]
+*** TURN *** [8s 4c 6d][Js]
+*** RIVER *** [8s 4c 6d Js][2s]
+*** SHOW DOWN ***
+_SKR shows [Ts Kh] (High card : King)
+LeKarting shows [As 4d] (One pair : 4)
+LeKarting collected 880 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s 4c 6d Js 2s]
+Seat 2: _SKR (small blind) (button) showed [Ts Kh] and won 20 with High card : King
+Seat 3: LeKarting (big blind) showed [As 4d] and won 880 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674138589444440065-5-1673703061 - Holdem no limit (15/30) - 2023/01/14 13:31:01 UTC
+Table: 'Expresso Nitro(622621409)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (20)
+Seat 3: LeKarting (880)
+*** ANTE/BLINDS ***
+LeKarting posts small blind 15
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [Td 7h]
+*** PRE-FLOP *** 
+LeKarting calls 15
+*** FLOP *** [Qs 5s 7c]
+*** TURN *** [Qs 5s 7c][5h]
+*** RIVER *** [Qs 5s 7c 5h][Ah]
+*** SHOW DOWN ***
+_SKR shows [Td 7h] (Two pairs : 7 and 5)
+LeKarting shows [5d 2s] (Trips of 5)
+LeKarting collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Qs 5s 7c 5h Ah]
+Seat 2: _SKR (big blind) showed [Td 7h] and lost with Two pairs : 7 and 5
+Seat 3: LeKarting (small blind) (button) showed [5d 2s] and won 50 with Trips of 5
+
+

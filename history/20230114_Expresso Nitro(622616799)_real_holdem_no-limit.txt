@@ -1,0 +1,85 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674118789645205505-1-1673701892 - Holdem no limit (10/20) - 2023/01/14 13:11:32 UTC
+Table: 'Expresso Nitro(622616799)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 77. Cali. (300)
+Seat 2: _SKR (300)
+Seat 3: Doss91 (300)
+*** ANTE/BLINDS ***
+Doss91 posts small blind 10
+77. Cali. posts big blind 20
+Dealt to _SKR [7h Td]
+*** PRE-FLOP *** 
+_SKR folds
+Doss91 raises 20 to 40
+77. Cali. calls 20
+*** FLOP *** [4d 9h Kd]
+Doss91 bets 20
+77. Cali. calls 20
+*** TURN *** [4d 9h Kd][Ks]
+Doss91 bets 20
+77. Cali. calls 20
+*** RIVER *** [4d 9h Kd Ks][8c]
+Doss91 bets 56
+77. Cali. folds
+Doss91 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [4d 9h Kd Ks 8c]
+Seat 3: Doss91 (small blind) won 216
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674118789645205505-2-1673701938 - Holdem no limit (10/20) - 2023/01/14 13:12:18 UTC
+Table: 'Expresso Nitro(622616799)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 77. Cali. (220)
+Seat 2: _SKR (300)
+Seat 3: Doss91 (380)
+*** ANTE/BLINDS ***
+77. Cali. posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs 2c]
+*** PRE-FLOP *** 
+Doss91 raises 20 to 40
+77. Cali. raises 180 to 220 and is all-in
+_SKR folds
+Doss91 calls 180
+*** FLOP *** [7h 4d Js]
+*** TURN *** [7h 4d Js][9c]
+*** RIVER *** [7h 4d Js 9c][Jc]
+*** SHOW DOWN ***
+Doss91 shows [Ad Kc] (One pair : Jacks)
+77. Cali. shows [Qc Qh] (Two pairs : Queens and Jacks)
+77. Cali. collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [7h 4d Js 9c Jc]
+Seat 1: 77. Cali. (small blind) showed [Qc Qh] and won 460 with Two pairs : Queens and Jacks
+Seat 3: Doss91 (button) showed [Ad Kc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674118789645205505-3-1673701964 - Holdem no limit (15/30) - 2023/01/14 13:12:44 UTC
+Table: 'Expresso Nitro(622616799)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 77. Cali. (460)
+Seat 2: _SKR (280)
+Seat 3: Doss91 (160)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Doss91 posts big blind 30
+Dealt to _SKR [Qd Kd]
+*** PRE-FLOP *** 
+77. Cali. calls 30
+_SKR raises 250 to 280 and is all-in
+Doss91 folds
+77. Cali. calls 250
+*** FLOP *** [7d As 9s]
+*** TURN *** [7d As 9s][2c]
+*** RIVER *** [7d As 9s 2c][Jd]
+*** SHOW DOWN ***
+_SKR shows [Qd Kd] (High card : Ace)
+77. Cali. shows [6h 6d] (One pair : 6)
+77. Cali. collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [7d As 9s 2c Jd]
+Seat 1: 77. Cali. (button) showed [6h 6d] and won 590 with One pair : 6
+Seat 2: _SKR (small blind) showed [Qd Kd] and lost with High card : Ace
+
+

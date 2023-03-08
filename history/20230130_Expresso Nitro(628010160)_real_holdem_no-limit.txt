@@ -1,0 +1,76 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697283098755727361-1-1675116333 - Holdem no limit (10/20) - 2023/01/30 22:05:33 UTC
+Table: 'Expresso Nitro(628010160)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tAWERS (300)
+Seat 2: Bukayo7SAKA (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Bukayo7SAKA posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As 4s]
+*** PRE-FLOP *** 
+tAWERS raises 280 to 300 and is all-in
+Bukayo7SAKA folds
+_SKR folds
+tAWERS collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: tAWERS (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697283098755727361-2-1675116348 - Holdem no limit (10/20) - 2023/01/30 22:05:48 UTC
+Table: 'Expresso Nitro(628010160)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tAWERS (330)
+Seat 2: Bukayo7SAKA (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tAWERS posts big blind 20
+Dealt to _SKR [Ah 5c]
+*** PRE-FLOP *** 
+Bukayo7SAKA folds
+_SKR raises 260 to 280 and is all-in
+tAWERS calls 260
+*** FLOP *** [Ad 3c Js]
+*** TURN *** [Ad 3c Js][Ts]
+*** RIVER *** [Ad 3c Js Ts][4s]
+*** SHOW DOWN ***
+tAWERS shows [9c Qd] (High card : Ace)
+_SKR shows [Ah 5c] (One pair : Aces)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Ad 3c Js Ts 4s]
+Seat 1: tAWERS (big blind) showed [9c Qd] and lost with High card : Ace
+Seat 3: _SKR (small blind) showed [Ah 5c] and won 560 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697283098755727361-3-1675116363 - Holdem no limit (10/20) - 2023/01/30 22:06:03 UTC
+Table: 'Expresso Nitro(628010160)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tAWERS (50)
+Seat 2: Bukayo7SAKA (290)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+tAWERS posts small blind 10
+Bukayo7SAKA posts big blind 20
+Dealt to _SKR [Qs Ad]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+tAWERS raises 10 to 50 and is all-in
+Bukayo7SAKA raises 240 to 290 and is all-in
+_SKR raises 240 to 530
+*** FLOP *** [8c Jh 6s]
+*** TURN *** [8c Jh 6s][Jc]
+*** RIVER *** [8c Jh 6s Jc][9h]
+*** SHOW DOWN ***
+tAWERS shows [3c Qd] (One pair : Jacks)
+Bukayo7SAKA shows [Ac Td] (One pair : Jacks)
+_SKR shows [Qs Ad] (One pair : Jacks)
+_SKR collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Board: [8c Jh 6s Jc 9h]
+Seat 1: tAWERS (small blind) showed [3c Qd] and lost with One pair : Jacks
+Seat 2: Bukayo7SAKA (big blind) showed [Ac Td] and lost with One pair : Jacks
+Seat 3: _SKR (button) showed [Qs Ad] and won 870 with One pair : Jacks
+
+

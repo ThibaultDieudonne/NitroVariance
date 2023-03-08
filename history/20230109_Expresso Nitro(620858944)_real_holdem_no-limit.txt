@@ -1,0 +1,74 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666568859909095425-1-1673283378 - Holdem no limit (10/20) - 2023/01/09 16:56:18 UTC
+Table: 'Expresso Nitro(620858944)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: crocodile22 (300)
+Seat 3: sampket 9471 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+crocodile22 posts big blind 20
+Dealt to _SKR [Jc Tc]
+*** PRE-FLOP *** 
+sampket 9471 raises 280 to 300 and is all-in
+_SKR folds
+crocodile22 folds
+sampket 9471 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: sampket 9471 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666568859909095425-2-1673283384 - Holdem no limit (10/20) - 2023/01/09 16:56:24 UTC
+Table: 'Expresso Nitro(620858944)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: crocodile22 (280)
+Seat 3: sampket 9471 (330)
+*** ANTE/BLINDS ***
+crocodile22 posts small blind 10
+sampket 9471 posts big blind 20
+Dealt to _SKR [Kh Th]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+crocodile22 folds
+sampket 9471 calls 20
+*** FLOP *** [7h 8c 6c]
+sampket 9471 checks
+_SKR bets 45
+sampket 9471 calls 45
+*** TURN *** [7h 8c 6c][Qs]
+sampket 9471 bets 245 and is all-in
+_SKR folds
+sampket 9471 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Board: [7h 8c 6c Qs]
+Seat 3: sampket 9471 (big blind) won 425
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666568859909095425-3-1673283412 - Holdem no limit (10/20) - 2023/01/09 16:56:52 UTC
+Table: 'Expresso Nitro(620858944)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (205)
+Seat 2: crocodile22 (270)
+Seat 3: sampket 9471 (425)
+*** ANTE/BLINDS ***
+sampket 9471 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc Qh]
+*** PRE-FLOP *** 
+crocodile22 calls 20
+sampket 9471 raises 405 to 425 and is all-in
+_SKR calls 185 and is all-in
+crocodile22 folds
+*** FLOP *** [9d 9c 3s]
+*** TURN *** [9d 9c 3s][6h]
+*** RIVER *** [9d 9c 3s 6h][8c]
+*** SHOW DOWN ***
+_SKR shows [Kc Qh] (One pair : 9)
+sampket 9471 shows [Kh 3d] (Two pairs : 9 and 3)
+sampket 9471 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [9d 9c 3s 6h 8c]
+Seat 1: _SKR (big blind) showed [Kc Qh] and lost with One pair : 9
+Seat 3: sampket 9471 (small blind) showed [Kh 3d] and won 650 with Two pairs : 9 and 3
+
+

@@ -1,0 +1,202 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698101010852741121-1-1675180879 - Holdem no limit (10/20) - 2023/01/31 16:01:19 UTC
+Table: 'Expresso Nitro(628200595)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sultan_31 (300)
+Seat 2: _SKR (300)
+Seat 3: Amdiamdi (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Amdiamdi posts big blind 20
+Dealt to _SKR [4d Td]
+*** PRE-FLOP *** 
+Sultan_31 calls 20
+_SKR folds
+Amdiamdi checks
+*** FLOP *** [Ah Kc 5s]
+Amdiamdi checks
+Sultan_31 bets 280 and is all-in
+Amdiamdi folds
+Sultan_31 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Ah Kc 5s]
+Seat 1: Sultan_31 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698101010852741121-2-1675180896 - Holdem no limit (10/20) - 2023/01/31 16:01:36 UTC
+Table: 'Expresso Nitro(628200595)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sultan_31 (330)
+Seat 2: _SKR (290)
+Seat 3: Amdiamdi (280)
+*** ANTE/BLINDS ***
+Amdiamdi posts small blind 10
+Sultan_31 posts big blind 20
+Dealt to _SKR [Kd 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Amdiamdi folds
+Sultan_31 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Sultan_31 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698101010852741121-3-1675180904 - Holdem no limit (10/20) - 2023/01/31 16:01:44 UTC
+Table: 'Expresso Nitro(628200595)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sultan_31 (340)
+Seat 2: _SKR (290)
+Seat 3: Amdiamdi (270)
+*** ANTE/BLINDS ***
+Sultan_31 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d 4d]
+*** PRE-FLOP *** 
+Amdiamdi calls 20
+Sultan_31 calls 10
+_SKR checks
+*** FLOP *** [Kd 3s Kh]
+Sultan_31 checks
+_SKR checks
+Amdiamdi bets 20
+Sultan_31 calls 20
+_SKR folds
+*** TURN *** [Kd 3s Kh][Qh]
+Sultan_31 checks
+Amdiamdi bets 20
+Sultan_31 calls 20
+*** RIVER *** [Kd 3s Kh Qh][6c]
+Sultan_31 bets 140
+Amdiamdi calls 140
+*** SHOW DOWN ***
+Sultan_31 shows [9d 4h] (One pair : Kings)
+Amdiamdi shows [3h Qc] (Two pairs : Kings and Queens)
+Amdiamdi collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Kd 3s Kh Qh 6c]
+Seat 1: Sultan_31 (small blind) showed [9d 4h] and lost with One pair : Kings
+Seat 3: Amdiamdi (button) showed [3h Qc] and won 420 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698101010852741121-4-1675180933 - Holdem no limit (10/20) - 2023/01/31 16:02:13 UTC
+Table: 'Expresso Nitro(628200595)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sultan_31 (140)
+Seat 2: _SKR (270)
+Seat 3: Amdiamdi (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Amdiamdi posts big blind 20
+Dealt to _SKR [5s 3s]
+*** PRE-FLOP *** 
+Sultan_31 raises 120 to 140 and is all-in
+_SKR folds
+Amdiamdi folds
+Sultan_31 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Seat 1: Sultan_31 (button) won 170
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698101010852741121-5-1675180938 - Holdem no limit (15/30) - 2023/01/31 16:02:18 UTC
+Table: 'Expresso Nitro(628200595)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sultan_31 (170)
+Seat 2: _SKR (260)
+Seat 3: Amdiamdi (470)
+*** ANTE/BLINDS ***
+Amdiamdi posts small blind 15
+Sultan_31 posts big blind 30
+Dealt to _SKR [6d Ks]
+*** PRE-FLOP *** 
+_SKR folds
+Amdiamdi calls 15
+Sultan_31 checks
+*** FLOP *** [Kh Qd 3d]
+Amdiamdi checks
+Sultan_31 checks
+*** TURN *** [Kh Qd 3d][Ts]
+Amdiamdi bets 30
+Sultan_31 raises 110 to 140 and is all-in
+Amdiamdi calls 110
+*** RIVER *** [Kh Qd 3d Ts][8d]
+*** SHOW DOWN ***
+Amdiamdi shows [Ad 7h] (High card : Ace)
+Sultan_31 shows [Th 5s] (One pair : Tens)
+Sultan_31 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Kh Qd 3d Ts 8d]
+Seat 1: Sultan_31 (big blind) showed [Th 5s] and won 340 with One pair : Tens
+Seat 3: Amdiamdi (small blind) showed [Ad 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698101010852741121-6-1675180960 - Holdem no limit (15/30) - 2023/01/31 16:02:40 UTC
+Table: 'Expresso Nitro(628200595)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sultan_31 (340)
+Seat 2: _SKR (260)
+Seat 3: Amdiamdi (300)
+*** ANTE/BLINDS ***
+Sultan_31 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh 9s]
+*** PRE-FLOP *** 
+Amdiamdi calls 30
+Sultan_31 raises 310 to 340 and is all-in
+_SKR folds
+Amdiamdi folds
+Sultan_31 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 1: Sultan_31 (small blind) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698101010852741121-7-1675180973 - Holdem no limit (15/30) - 2023/01/31 16:02:53 UTC
+Table: 'Expresso Nitro(628200595)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sultan_31 (400)
+Seat 2: _SKR (230)
+Seat 3: Amdiamdi (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Amdiamdi posts big blind 30
+Dealt to _SKR [Kd 7s]
+*** PRE-FLOP *** 
+Sultan_31 raises 370 to 400 and is all-in
+_SKR folds
+Amdiamdi folds
+Sultan_31 collected 445 from pot
+*** SUMMARY ***
+Total pot 445 | No rake
+Seat 1: Sultan_31 (button) won 445
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698101010852741121-8-1675180980 - Holdem no limit (15/30) - 2023/01/31 16:03:00 UTC
+Table: 'Expresso Nitro(628200595)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sultan_31 (445)
+Seat 2: _SKR (215)
+Seat 3: Amdiamdi (240)
+*** ANTE/BLINDS ***
+Amdiamdi posts small blind 15
+Sultan_31 posts big blind 30
+Dealt to _SKR [Ks 7s]
+*** PRE-FLOP *** 
+_SKR raises 185 to 215 and is all-in
+Amdiamdi calls 200
+Sultan_31 calls 185
+*** FLOP *** [8c 2s Ad]
+Amdiamdi checks
+Sultan_31 bets 230 and is all-in
+Amdiamdi calls 25 and is all-in
+*** TURN *** [8c 2s Ad][Ah]
+*** RIVER *** [8c 2s Ad Ah][2h]
+*** SHOW DOWN ***
+_SKR shows [Ks 7s] (Two pairs : Aces and 2)
+Sultan_31 shows [6s Ac] (Full of Aces and 2)
+Amdiamdi shows [As Jh] (Full of Aces and 2)
+Amdiamdi collected 348 from main pot
+Sultan_31 collected 552 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8c 2s Ad Ah 2h]
+Seat 1: Sultan_31 (big blind) showed [6s Ac] and won 552 with Full of Aces and 2
+Seat 2: _SKR (button) showed [Ks 7s] and lost with Two pairs : Aces and 2
+Seat 3: Amdiamdi (small blind) showed [As Jh] and won 348 with Full of Aces and 2
+
+

@@ -1,0 +1,98 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721187082838999041-1-1676418772 - Holdem no limit (10/20) - 2023/02/14 23:52:52 UTC
+Table: 'Expresso Nitro(633575740)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CkOnexo (300)
+Seat 2: Lou-Cie (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+CkOnexo posts big blind 20
+Dealt to _SKR [2c 8c]
+*** PRE-FLOP *** 
+Lou-Cie calls 20
+_SKR folds
+CkOnexo checks
+*** FLOP *** [5c 4d 7c]
+CkOnexo checks
+Lou-Cie checks
+*** TURN *** [5c 4d 7c][9h]
+CkOnexo bets 33
+Lou-Cie calls 33
+*** RIVER *** [5c 4d 7c 9h][8h]
+CkOnexo checks
+Lou-Cie checks
+*** SHOW DOWN ***
+Lou-Cie shows [Kd 2s] (High card : King)
+CkOnexo shows [3s 5s] (One pair : 5)
+CkOnexo collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | No rake
+Board: [5c 4d 7c 9h 8h]
+Seat 1: CkOnexo (big blind) showed [3s 5s] and won 116 with One pair : 5
+Seat 2: Lou-Cie (button) showed [Kd 2s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721187082838999041-2-1676418812 - Holdem no limit (10/20) - 2023/02/14 23:53:32 UTC
+Table: 'Expresso Nitro(633575740)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CkOnexo (363)
+Seat 2: Lou-Cie (247)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+CkOnexo posts small blind 10
+Lou-Cie posts big blind 20
+Dealt to _SKR [Ac Qs]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+CkOnexo calls 30
+Lou-Cie calls 20
+*** FLOP *** [4h 6s Ts]
+CkOnexo bets 60
+Lou-Cie calls 60
+_SKR folds
+*** TURN *** [4h 6s Ts][6c]
+CkOnexo bets 192
+Lou-Cie calls 147 and is all-in
+*** RIVER *** [4h 6s Ts 6c][5d]
+*** SHOW DOWN ***
+CkOnexo shows [3s Ks] (One pair : 6)
+Lou-Cie shows [9d Th] (Two pairs : Tens and 6)
+Lou-Cie collected 534 from main pot
+CkOnexo collected 45 from side pot 1
+*** SUMMARY ***
+Total pot 579 | No rake
+Board: [4h 6s Ts 6c 5d]
+Seat 1: CkOnexo (small blind) showed [3s Ks] and won 45 with One pair : 6
+Seat 2: Lou-Cie (big blind) showed [9d Th] and won 534 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721187082838999041-3-1676418851 - Holdem no limit (15/30) - 2023/02/14 23:54:11 UTC
+Table: 'Expresso Nitro(633575740)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CkOnexo (116)
+Seat 2: Lou-Cie (534)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+Lou-Cie posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc 9c]
+*** PRE-FLOP *** 
+CkOnexo raises 86 to 116 and is all-in
+Lou-Cie calls 101
+_SKR calls 86
+*** FLOP *** [Jc 7c 7h]
+Lou-Cie checks
+_SKR bets 134 and is all-in
+Lou-Cie calls 134
+*** TURN *** [Jc 7c 7h][2s]
+*** RIVER *** [Jc 7c 7h 2s][Ks]
+*** SHOW DOWN ***
+CkOnexo shows [Qc 6s] (One pair : 7)
+_SKR shows [Tc 9c] (One pair : 7)
+Lou-Cie shows [5s Ah] (One pair : 7)
+Lou-Cie collected 616 from pot
+*** SUMMARY ***
+Total pot 616 | No rake
+Board: [Jc 7c 7h 2s Ks]
+Seat 1: CkOnexo (button) showed [Qc 6s] and lost with One pair : 7
+Seat 2: Lou-Cie (small blind) showed [5s Ah] and won 616 with One pair : 7
+Seat 3: _SKR (big blind) showed [Tc 9c] and lost with One pair : 7
+
+

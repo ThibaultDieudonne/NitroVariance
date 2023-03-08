@@ -1,0 +1,146 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718653146623639553-1-1676293645 - Holdem no limit (10/20) - 2023/02/13 13:07:25 UTC
+Table: 'Expresso Nitro(632985762)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SlyG34 (300)
+Seat 2: Mallena (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Mallena posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd 9d]
+*** PRE-FLOP *** 
+SlyG34 calls 20
+Mallena folds
+_SKR raises 280 to 300 and is all-in
+SlyG34 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718653146623639553-2-1676293665 - Holdem no limit (10/20) - 2023/02/13 13:07:45 UTC
+Table: 'Expresso Nitro(632985762)#0' 3-max (real money) Seat #2 is the button
+Seat 1: SlyG34 (280)
+Seat 2: Mallena (290)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+SlyG34 posts big blind 20
+Dealt to _SKR [Ks Kh]
+*** PRE-FLOP *** 
+Mallena raises 270 to 290 and is all-in
+_SKR raises 40 to 330 and is all-in
+SlyG34 folds
+*** FLOP *** [8c Jh 3d]
+*** TURN *** [8c Jh 3d][Ah]
+*** RIVER *** [8c Jh 3d Ah][Qh]
+*** SHOW DOWN ***
+Mallena shows [Td Jd] (One pair : Jacks)
+_SKR shows [Ks Kh] (One pair : Kings)
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [8c Jh 3d Ah Qh]
+Seat 2: Mallena (button) showed [Td Jd] and lost with One pair : Jacks
+Seat 3: _SKR (small blind) showed [Ks Kh] and won 640 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718653146623639553-3-1676293688 - Holdem no limit (10/20) - 2023/02/13 13:08:08 UTC
+Table: 'Expresso Nitro(632985762)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SlyG34 (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+SlyG34 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s 3c]
+*** PRE-FLOP *** 
+SlyG34 calls 10
+_SKR checks
+*** FLOP *** [Jh Kc Qc]
+_SKR checks
+SlyG34 checks
+*** TURN *** [Jh Kc Qc][4h]
+_SKR checks
+SlyG34 checks
+*** RIVER *** [Jh Kc Qc 4h][Qs]
+_SKR bets 26
+SlyG34 folds
+_SKR collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Jh Kc Qc 4h Qs]
+Seat 3: _SKR (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718653146623639553-4-1676293715 - Holdem no limit (15/30) - 2023/02/13 13:08:35 UTC
+Table: 'Expresso Nitro(632985762)#0' 3-max (real money) Seat #3 is the button
+Seat 1: SlyG34 (240)
+Seat 3: _SKR (660)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+SlyG34 posts big blind 30
+Dealt to _SKR [4s As]
+*** PRE-FLOP *** 
+_SKR raises 630 to 660 and is all-in
+SlyG34 calls 210 and is all-in
+*** FLOP *** [9d Kd 9c]
+*** TURN *** [9d Kd 9c][5d]
+*** RIVER *** [9d Kd 9c 5d][Jd]
+*** SHOW DOWN ***
+SlyG34 shows [Qs 9s] (Trips of 9)
+_SKR shows [4s As] (One pair : 9)
+_SKR collected 420 from side pot 1
+SlyG34 collected 480 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d Kd 9c 5d Jd]
+Seat 1: SlyG34 (big blind) showed [Qs 9s] and won 480 with Trips of 9
+Seat 3: _SKR (small blind) (button) showed [4s As] and won 420 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718653146623639553-5-1676293727 - Holdem no limit (15/30) - 2023/02/13 13:08:47 UTC
+Table: 'Expresso Nitro(632985762)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SlyG34 (480)
+Seat 3: _SKR (420)
+*** ANTE/BLINDS ***
+SlyG34 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [As 9s]
+*** PRE-FLOP *** 
+SlyG34 calls 15
+_SKR raises 390 to 420 and is all-in
+SlyG34 folds
+_SKR collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 3: _SKR (big blind) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718653146623639553-6-1676293736 - Holdem no limit (15/30) - 2023/02/13 13:08:56 UTC
+Table: 'Expresso Nitro(632985762)#0' 3-max (real money) Seat #3 is the button
+Seat 1: SlyG34 (450)
+Seat 3: _SKR (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+SlyG34 posts big blind 30
+Dealt to _SKR [Qs Qh]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+SlyG34 calls 30
+*** FLOP *** [7s 6d 2h]
+SlyG34 bets 120
+_SKR raises 270 to 390 and is all-in
+SlyG34 calls 270 and is all-in
+*** TURN *** [7s 6d 2h][4c]
+*** RIVER *** [7s 6d 2h 4c][9d]
+*** SHOW DOWN ***
+SlyG34 shows [9c 8c] (One pair : 9)
+_SKR shows [Qs Qh] (One pair : Queens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s 6d 2h 4c 9d]
+Seat 1: SlyG34 (big blind) showed [9c 8c] and lost with One pair : 9
+Seat 3: _SKR (small blind) (button) showed [Qs Qh] and won 900 with One pair : Queens
+
+

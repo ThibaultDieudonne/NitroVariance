@@ -1,0 +1,39 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671076256287555585-1-1673529915 - Holdem no limit (10/20) - 2023/01/12 13:25:15 UTC
+Table: 'Expresso Nitro(621908404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Misho (300)
+Seat 2: _SKR (300)
+Seat 3: Docker57 (300)
+*** ANTE/BLINDS ***
+Docker57 posts small blind 10
+Misho posts big blind 20
+Dealt to _SKR [Ac Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Docker57 calls 30
+Misho calls 20
+*** FLOP *** [5c 9s Js]
+Docker57 checks
+Misho bets 20
+_SKR calls 20
+Docker57 calls 20
+*** TURN *** [5c 9s Js][Kh]
+Docker57 checks
+Misho bets 20
+_SKR raises 172 to 192
+Docker57 raises 48 to 240 and is all-in
+Misho calls 220 and is all-in
+_SKR calls 48 and is all-in
+*** RIVER *** [5c 9s Js Kh][8d]
+*** SHOW DOWN ***
+Misho shows [Jd 3s] (One pair : Jacks)
+Docker57 shows [Qc Kd] (One pair : Kings)
+_SKR shows [Ac Kc] (One pair : Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c 9s Js Kh 8d]
+Seat 1: Misho (big blind) showed [Jd 3s] and lost with One pair : Jacks
+Seat 2: _SKR (button) showed [Ac Kc] and won 900 with One pair : Kings
+Seat 3: Docker57 (small blind) showed [Qc Kd] and lost with One pair : Kings
+
+

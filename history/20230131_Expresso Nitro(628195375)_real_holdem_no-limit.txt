@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698078591123456001-1-1675179520 - Holdem no limit (10/20) - 2023/01/31 15:38:40 UTC
+Table: 'Expresso Nitro(628195375)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: manolo28 (300)
+Seat 3: Cheaps&Fish (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+manolo28 posts big blind 20
+Dealt to _SKR [5c Jd]
+*** PRE-FLOP *** 
+Cheaps&Fish folds
+_SKR folds
+manolo28 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: manolo28 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698078591123456001-2-1675179527 - Holdem no limit (10/20) - 2023/01/31 15:38:47 UTC
+Table: 'Expresso Nitro(628195375)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: manolo28 (310)
+Seat 3: Cheaps&Fish (300)
+*** ANTE/BLINDS ***
+manolo28 posts small blind 10
+Cheaps&Fish posts big blind 20
+Dealt to _SKR [5c 8c]
+*** PRE-FLOP *** 
+_SKR folds
+manolo28 calls 10
+Cheaps&Fish checks
+*** FLOP *** [Kh 8s 6h]
+manolo28 bets 290 and is all-in
+Cheaps&Fish folds
+manolo28 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Kh 8s 6h]
+Seat 2: manolo28 (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698078591123456001-3-1675179543 - Holdem no limit (10/20) - 2023/01/31 15:39:03 UTC
+Table: 'Expresso Nitro(628195375)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: manolo28 (330)
+Seat 3: Cheaps&Fish (280)
+*** ANTE/BLINDS ***
+Cheaps&Fish posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 9d]
+*** PRE-FLOP *** 
+manolo28 raises 310 to 330 and is all-in
+Cheaps&Fish calls 270 and is all-in
+_SKR calls 270 and is all-in
+*** FLOP *** [5c 5s Jh]
+*** TURN *** [5c 5s Jh][6d]
+*** RIVER *** [5c 5s Jh 6d][7c]
+*** SHOW DOWN ***
+Cheaps&Fish shows [Ad Kh] (One pair : 5)
+_SKR shows [9h 9d] (Two pairs : 9 and 5)
+manolo28 shows [9c Kc] (One pair : 5)
+manolo28 collected 40 from side pot 1
+_SKR collected 860 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c 5s Jh 6d 7c]
+Seat 1: _SKR (big blind) showed [9h 9d] and won 860 with Two pairs : 9 and 5
+Seat 2: manolo28 (button) showed [9c Kc] and won 40 with One pair : 5
+Seat 3: Cheaps&Fish (small blind) showed [Ad Kh] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698078591123456001-4-1675179560 - Holdem no limit (10/20) - 2023/01/31 15:39:20 UTC
+Table: 'Expresso Nitro(628195375)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (860)
+Seat 2: manolo28 (40)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+manolo28 posts big blind 20
+Dealt to _SKR [Kd 8c]
+*** PRE-FLOP *** 
+_SKR raises 840 to 860 and is all-in
+manolo28 calls 20 and is all-in
+*** FLOP *** [As 5c Jd]
+*** TURN *** [As 5c Jd][4c]
+*** RIVER *** [As 5c Jd 4c][3c]
+*** SHOW DOWN ***
+manolo28 shows [Ts Qh] (High card : Ace)
+_SKR shows [Kd 8c] (High card : Ace)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As 5c Jd 4c 3c]
+Seat 1: _SKR (small blind) (button) showed [Kd 8c] and won 900 with High card : Ace
+Seat 2: manolo28 (big blind) showed [Ts Qh] and lost with High card : Ace
+
+

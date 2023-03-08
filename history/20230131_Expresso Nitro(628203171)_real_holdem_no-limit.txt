@@ -1,0 +1,77 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698112074688495617-1-1675181197 - Holdem no limit (10/20) - 2023/01/31 16:06:37 UTC
+Table: 'Expresso Nitro(628203171)#0' 3-max (real money) Seat #2 is the button
+Seat 1: krakas (300)
+Seat 2: _SKR (300)
+Seat 3: Amdiamdi (300)
+*** ANTE/BLINDS ***
+Amdiamdi posts small blind 10
+krakas posts big blind 20
+Dealt to _SKR [3d 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Amdiamdi folds
+krakas collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: krakas (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698112074688495617-2-1675181205 - Holdem no limit (10/20) - 2023/01/31 16:06:45 UTC
+Table: 'Expresso Nitro(628203171)#0' 3-max (real money) Seat #3 is the button
+Seat 1: krakas (310)
+Seat 2: _SKR (300)
+Seat 3: Amdiamdi (290)
+*** ANTE/BLINDS ***
+krakas posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As Ad]
+*** PRE-FLOP *** 
+Amdiamdi calls 20
+krakas folds
+_SKR raises 30 to 50
+Amdiamdi calls 30
+*** FLOP *** [8s Ac Ks]
+_SKR checks
+Amdiamdi checks
+*** TURN *** [8s Ac Ks][3c]
+_SKR bets 55
+Amdiamdi raises 124 to 179
+_SKR raises 71 to 250 and is all-in
+Amdiamdi calls 61 and is all-in
+*** RIVER *** [8s Ac Ks 3c][9c]
+*** SHOW DOWN ***
+Amdiamdi shows [Ah 4h] (One pair : Aces)
+_SKR shows [As Ad] (Trips of Aces)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8s Ac Ks 3c 9c]
+Seat 2: _SKR (big blind) showed [As Ad] and won 600 with Trips of Aces
+Seat 3: Amdiamdi (button) showed [Ah 4h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698112074688495617-3-1675181255 - Holdem no limit (15/30) - 2023/01/31 16:07:35 UTC
+Table: 'Expresso Nitro(628203171)#0' 3-max (real money) Seat #2 is the button
+Seat 1: krakas (300)
+Seat 2: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+krakas posts big blind 30
+Dealt to _SKR [As Qc]
+*** PRE-FLOP *** 
+_SKR raises 570 to 600 and is all-in
+krakas calls 270 and is all-in
+*** FLOP *** [8d 7c Ad]
+*** TURN *** [8d 7c Ad][Jc]
+*** RIVER *** [8d 7c Ad Jc][3h]
+*** SHOW DOWN ***
+krakas shows [Ah Th] (One pair : Aces)
+_SKR shows [As Qc] (One pair : Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d 7c Ad Jc 3h]
+Seat 1: krakas (big blind) showed [Ah Th] and lost with One pair : Aces
+Seat 2: _SKR (small blind) (button) showed [As Qc] and won 900 with One pair : Aces
+
+

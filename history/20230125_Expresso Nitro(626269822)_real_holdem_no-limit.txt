@@ -1,0 +1,229 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689808403961741313-1-1674653172 - Holdem no limit (10/20) - 2023/01/25 13:26:12 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jeremy38110 (300)
+Seat 2: thegru-lens (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+jeremy38110 posts small blind 10
+thegru-lens posts big blind 20
+Dealt to _SKR [Jc Th]
+*** PRE-FLOP *** 
+_SKR folds
+jeremy38110 folds
+thegru-lens collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: thegru-lens (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689808403961741313-2-1674653180 - Holdem no limit (10/20) - 2023/01/25 13:26:20 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jeremy38110 (290)
+Seat 2: thegru-lens (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+thegru-lens posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s 5s]
+*** PRE-FLOP *** 
+jeremy38110 folds
+thegru-lens raises 290 to 310 and is all-in
+_SKR folds
+thegru-lens collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: thegru-lens (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689808403961741313-3-1674653193 - Holdem no limit (10/20) - 2023/01/25 13:26:33 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jeremy38110 (290)
+Seat 2: thegru-lens (330)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+jeremy38110 posts big blind 20
+Dealt to _SKR [4h Kd]
+*** PRE-FLOP *** 
+thegru-lens raises 310 to 330 and is all-in
+_SKR folds
+jeremy38110 calls 270 and is all-in
+*** FLOP *** [4s Tc Qh]
+*** TURN *** [4s Tc Qh][4c]
+*** RIVER *** [4s Tc Qh 4c][Ts]
+*** SHOW DOWN ***
+jeremy38110 shows [8s 7s] (Two pairs : Tens and 4)
+thegru-lens shows [6c Ah] (Two pairs : Tens and 4)
+thegru-lens collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [4s Tc Qh 4c Ts]
+Seat 1: jeremy38110 (big blind) showed [8s 7s] and lost with Two pairs : Tens and 4
+Seat 2: thegru-lens (button) showed [6c Ah] and won 630 with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689808403961741313-4-1674653206 - Holdem no limit (10/20) - 2023/01/25 13:26:46 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #2 is the button
+Seat 2: thegru-lens (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+thegru-lens posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5c 9h]
+*** PRE-FLOP *** 
+thegru-lens calls 10
+_SKR checks
+*** FLOP *** [Js 3h 3s]
+_SKR checks
+thegru-lens checks
+*** TURN *** [Js 3h 3s][9d]
+_SKR checks
+thegru-lens checks
+*** RIVER *** [Js 3h 3s 9d][8c]
+_SKR checks
+thegru-lens checks
+*** SHOW DOWN ***
+thegru-lens shows [Ks 2c] (One pair : 3)
+_SKR shows [5c 9h] (Two pairs : 9 and 3)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Js 3h 3s 9d 8c]
+Seat 2: thegru-lens (small blind) (button) showed [Ks 2c] and lost with One pair : 3
+Seat 3: _SKR (big blind) showed [5c 9h] and won 40 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689808403961741313-5-1674653231 - Holdem no limit (15/30) - 2023/01/25 13:27:11 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #3 is the button
+Seat 2: thegru-lens (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+thegru-lens posts big blind 30
+Dealt to _SKR [5d Ac]
+*** PRE-FLOP *** 
+_SKR raises 260 to 290 and is all-in
+thegru-lens calls 260
+*** FLOP *** [4s Ah 8h]
+*** TURN *** [4s Ah 8h][2c]
+*** RIVER *** [4s Ah 8h 2c][4h]
+*** SHOW DOWN ***
+thegru-lens shows [7s Ad] (Two pairs : Aces and 4)
+_SKR shows [5d Ac] (Two pairs : Aces and 4)
+_SKR collected 290 from pot
+thegru-lens collected 290 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [4s Ah 8h 2c 4h]
+Seat 2: thegru-lens (big blind) showed [7s Ad] and won 290 with Two pairs : Aces and 4
+Seat 3: _SKR (small blind) (button) showed [5d Ac] and won 290 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689808403961741313-6-1674653244 - Holdem no limit (15/30) - 2023/01/25 13:27:24 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #2 is the button
+Seat 2: thegru-lens (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+thegru-lens posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6s Qh]
+*** PRE-FLOP *** 
+thegru-lens raises 580 to 610 and is all-in
+_SKR folds
+thegru-lens collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 2: thegru-lens (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689808403961741313-7-1674653251 - Holdem no limit (15/30) - 2023/01/25 13:27:31 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #3 is the button
+Seat 2: thegru-lens (640)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+thegru-lens posts big blind 30
+Dealt to _SKR [Td 5h]
+*** PRE-FLOP *** 
+_SKR folds
+thegru-lens collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: thegru-lens (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689808403961741313-8-1674653254 - Holdem no limit (15/30) - 2023/01/25 13:27:34 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #2 is the button
+Seat 2: thegru-lens (655)
+Seat 3: _SKR (245)
+*** ANTE/BLINDS ***
+thegru-lens posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5d 6d]
+*** PRE-FLOP *** 
+thegru-lens raises 625 to 655 and is all-in
+_SKR folds
+thegru-lens collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Seat 2: thegru-lens (small blind) (button) won 685
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689808403961741313-9-1674653261 - Holdem no limit (15/30) - 2023/01/25 13:27:41 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #3 is the button
+Seat 2: thegru-lens (685)
+Seat 3: _SKR (215)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+thegru-lens posts big blind 30
+Dealt to _SKR [Js 4c]
+*** PRE-FLOP *** 
+_SKR folds
+thegru-lens collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: thegru-lens (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689808403961741313-10-1674653265 - Holdem no limit (15/30) - 2023/01/25 13:27:45 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #2 is the button
+Seat 2: thegru-lens (700)
+Seat 3: _SKR (200)
+*** ANTE/BLINDS ***
+thegru-lens posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8h 5s]
+*** PRE-FLOP *** 
+thegru-lens raises 670 to 700 and is all-in
+_SKR folds
+thegru-lens collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Seat 2: thegru-lens (small blind) (button) won 730
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689808403961741313-11-1674653272 - Holdem no limit (15/30) - 2023/01/25 13:27:52 UTC
+Table: 'Expresso Nitro(626269822)#0' 3-max (real money) Seat #3 is the button
+Seat 2: thegru-lens (730)
+Seat 3: _SKR (170)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+thegru-lens posts big blind 30
+Dealt to _SKR [6d Jd]
+*** PRE-FLOP *** 
+_SKR raises 140 to 170 and is all-in
+thegru-lens calls 140
+*** FLOP *** [Kh 5d 5h]
+*** TURN *** [Kh 5d 5h][2d]
+*** RIVER *** [Kh 5d 5h 2d][4d]
+*** SHOW DOWN ***
+_SKR shows [6d Jd] (Flush Jack high)
+thegru-lens shows [8d Qd] (Flush Queen high)
+thegru-lens collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Kh 5d 5h 2d 4d]
+Seat 2: thegru-lens (big blind) showed [8d Qd] and won 340 with Flush Queen high
+Seat 3: _SKR (small blind) (button) showed [6d Jd] and lost with Flush Jack high
+
+

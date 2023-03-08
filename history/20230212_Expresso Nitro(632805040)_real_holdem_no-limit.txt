@@ -1,0 +1,235 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717876951543971841-1-1676238544 - Holdem no limit (10/20) - 2023/02/12 21:49:04 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chincheta (300)
+Seat 2: _SKR (300)
+Seat 3: alexandre_16 (300)
+*** ANTE/BLINDS ***
+Chincheta posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 4s]
+*** PRE-FLOP *** 
+alexandre_16 folds
+Chincheta calls 10
+_SKR checks
+*** FLOP *** [Jd 6d 9s]
+Chincheta checks
+_SKR checks
+*** TURN *** [Jd 6d 9s][3h]
+Chincheta checks
+_SKR checks
+*** RIVER *** [Jd 6d 9s 3h][7c]
+Chincheta checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [8h 4s] (High card : Jack)
+Chincheta shows [3s 5h] (One pair : 3)
+Chincheta collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Jd 6d 9s 3h 7c]
+Seat 1: Chincheta (small blind) showed [3s 5h] and won 40 with One pair : 3
+Seat 2: _SKR (big blind) showed [8h 4s] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717876951543971841-2-1676238605 - Holdem no limit (15/30) - 2023/02/12 21:50:05 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chincheta (320)
+Seat 2: _SKR (280)
+Seat 3: alexandre_16 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+alexandre_16 posts big blind 30
+Dealt to _SKR [8c Ac]
+*** PRE-FLOP *** 
+Chincheta folds
+_SKR raises 250 to 280 and is all-in
+alexandre_16 folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: _SKR (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717876951543971841-3-1676238622 - Holdem no limit (15/30) - 2023/02/12 21:50:22 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Chincheta (320)
+Seat 2: _SKR (310)
+Seat 3: alexandre_16 (270)
+*** ANTE/BLINDS ***
+alexandre_16 posts small blind 15
+Chincheta posts big blind 30
+Dealt to _SKR [3c 7h]
+*** PRE-FLOP *** 
+_SKR folds
+alexandre_16 folds
+Chincheta collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Chincheta (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717876951543971841-4-1676238639 - Holdem no limit (15/30) - 2023/02/12 21:50:39 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chincheta (335)
+Seat 2: _SKR (310)
+Seat 3: alexandre_16 (255)
+*** ANTE/BLINDS ***
+Chincheta posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc 6d]
+*** PRE-FLOP *** 
+alexandre_16 calls 30
+Chincheta calls 15
+_SKR checks
+*** FLOP *** [9h 4h 2h]
+Chincheta checks
+_SKR checks
+alexandre_16 bets 31
+Chincheta folds
+_SKR folds
+alexandre_16 collected 121 from pot
+*** SUMMARY ***
+Total pot 121 | No rake
+Board: [9h 4h 2h]
+Seat 3: alexandre_16 (button) won 121
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717876951543971841-5-1676238678 - Holdem no limit (20/40) - 2023/02/12 21:51:18 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chincheta (305)
+Seat 2: _SKR (280)
+Seat 3: alexandre_16 (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+alexandre_16 posts big blind 40
+Dealt to _SKR [Kh 9c]
+*** PRE-FLOP *** 
+Chincheta raises 265 to 305 and is all-in
+_SKR folds
+alexandre_16 folds
+Chincheta collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Seat 1: Chincheta (button) won 365
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717876951543971841-6-1676238698 - Holdem no limit (20/40) - 2023/02/12 21:51:38 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Chincheta (365)
+Seat 2: _SKR (260)
+Seat 3: alexandre_16 (275)
+*** ANTE/BLINDS ***
+alexandre_16 posts small blind 20
+Chincheta posts big blind 40
+Dealt to _SKR [Qs 7c]
+*** PRE-FLOP *** 
+_SKR folds
+alexandre_16 raises 40 to 80
+Chincheta folds
+alexandre_16 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: alexandre_16 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717876951543971841-7-1676238715 - Holdem no limit (20/40) - 2023/02/12 21:51:55 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chincheta (325)
+Seat 2: _SKR (260)
+Seat 3: alexandre_16 (315)
+*** ANTE/BLINDS ***
+Chincheta posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2s 3h]
+*** PRE-FLOP *** 
+alexandre_16 raises 40 to 80
+Chincheta folds
+_SKR folds
+alexandre_16 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 3: alexandre_16 (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717876951543971841-8-1676238730 - Holdem no limit (30/60) - 2023/02/12 21:52:10 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chincheta (305)
+Seat 2: _SKR (220)
+Seat 3: alexandre_16 (375)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+alexandre_16 posts big blind 60
+Dealt to _SKR [9h 7s]
+*** PRE-FLOP *** 
+Chincheta raises 245 to 305 and is all-in
+_SKR folds
+alexandre_16 folds
+Chincheta collected 395 from pot
+*** SUMMARY ***
+Total pot 395 | No rake
+Seat 1: Chincheta (button) won 395
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717876951543971841-9-1676238741 - Holdem no limit (30/60) - 2023/02/12 21:52:21 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Chincheta (395)
+Seat 2: _SKR (190)
+Seat 3: alexandre_16 (315)
+*** ANTE/BLINDS ***
+alexandre_16 posts small blind 30
+Chincheta posts big blind 60
+Dealt to _SKR [9c 3s]
+*** PRE-FLOP *** 
+_SKR folds
+alexandre_16 folds
+Chincheta collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Chincheta (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717876951543971841-10-1676238759 - Holdem no limit (30/60) - 2023/02/12 21:52:39 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chincheta (425)
+Seat 2: _SKR (190)
+Seat 3: alexandre_16 (285)
+*** ANTE/BLINDS ***
+Chincheta posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3c 4d]
+*** PRE-FLOP *** 
+alexandre_16 folds
+Chincheta folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717876951543971841-11-1676238773 - Holdem no limit (30/60) - 2023/02/12 21:52:53 UTC
+Table: 'Expresso Nitro(632805040)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chincheta (395)
+Seat 2: _SKR (220)
+Seat 3: alexandre_16 (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+alexandre_16 posts big blind 60
+Dealt to _SKR [3d Td]
+*** PRE-FLOP *** 
+Chincheta folds
+_SKR raises 160 to 220 and is all-in
+alexandre_16 calls 160
+*** FLOP *** [2d 5s 3h]
+*** TURN *** [2d 5s 3h][4h]
+*** RIVER *** [2d 5s 3h 4h][Qs]
+*** SHOW DOWN ***
+_SKR shows [3d Td] (One pair : 3)
+alexandre_16 shows [Ah Kc] (Straight 5 high)
+alexandre_16 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [2d 5s 3h 4h Qs]
+Seat 2: _SKR (small blind) showed [3d Td] and lost with One pair : 3
+Seat 3: alexandre_16 (big blind) showed [Ah Kc] and won 440 with Straight 5 high
+
+

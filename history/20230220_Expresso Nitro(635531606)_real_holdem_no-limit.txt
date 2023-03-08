@@ -1,0 +1,170 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729587463344357377-1-1676921079 - Holdem no limit (10/20) - 2023/02/20 19:24:39 UTC
+Table: 'Expresso Nitro(635531606)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Amir-Zeus751 (300)
+Seat 2: _SKR (300)
+Seat 3: ...Cookie.. (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+...Cookie.. posts big blind 20
+Dealt to _SKR [Ah 5h]
+*** PRE-FLOP *** 
+Amir-Zeus751 raises 30 to 50
+_SKR folds
+...Cookie.. folds
+Amir-Zeus751 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: Amir-Zeus751 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729587463344357377-2-1676921091 - Holdem no limit (10/20) - 2023/02/20 19:24:51 UTC
+Table: 'Expresso Nitro(635531606)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Amir-Zeus751 (330)
+Seat 2: _SKR (290)
+Seat 3: ...Cookie.. (280)
+*** ANTE/BLINDS ***
+...Cookie.. posts small blind 10
+Amir-Zeus751 posts big blind 20
+Dealt to _SKR [Ah 4c]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+...Cookie.. folds
+Amir-Zeus751 raises 40 to 330 and is all-in
+*** FLOP *** [As Js 9h]
+*** TURN *** [As Js 9h][Ks]
+*** RIVER *** [As Js 9h Ks][Qc]
+*** SHOW DOWN ***
+Amir-Zeus751 shows [8d 7d] (High card : Ace)
+_SKR shows [Ah 4c] (One pair : Aces)
+_SKR collected 590 from main pot
+Amir-Zeus751 collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [As Js 9h Ks Qc]
+Seat 1: Amir-Zeus751 (big blind) showed [8d 7d] and won 40 with High card : Ace
+Seat 2: _SKR (button) showed [Ah 4c] and won 590 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729587463344357377-3-1676921110 - Holdem no limit (10/20) - 2023/02/20 19:25:10 UTC
+Table: 'Expresso Nitro(635531606)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Amir-Zeus751 (40)
+Seat 2: _SKR (590)
+Seat 3: ...Cookie.. (270)
+*** ANTE/BLINDS ***
+Amir-Zeus751 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 8d]
+*** PRE-FLOP *** 
+...Cookie.. folds
+Amir-Zeus751 raises 20 to 40 and is all-in
+_SKR calls 20
+*** FLOP *** [5s 6d 3s]
+*** TURN *** [5s 6d 3s][7c]
+*** RIVER *** [5s 6d 3s 7c][8c]
+*** SHOW DOWN ***
+_SKR shows [Ah 8d] (One pair : 8)
+Amir-Zeus751 shows [9h 5c] (Straight 9 high)
+Amir-Zeus751 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5s 6d 3s 7c 8c]
+Seat 1: Amir-Zeus751 (small blind) showed [9h 5c] and won 80 with Straight 9 high
+Seat 2: _SKR (big blind) showed [Ah 8d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729587463344357377-4-1676921127 - Holdem no limit (10/20) - 2023/02/20 19:25:27 UTC
+Table: 'Expresso Nitro(635531606)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Amir-Zeus751 (80)
+Seat 2: _SKR (550)
+Seat 3: ...Cookie.. (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+...Cookie.. posts big blind 20
+Dealt to _SKR [Js Jh]
+*** PRE-FLOP *** 
+Amir-Zeus751 raises 60 to 80 and is all-in
+_SKR raises 470 to 550 and is all-in
+...Cookie.. folds
+*** FLOP *** [2d 6h 6c]
+*** TURN *** [2d 6h 6c][Qc]
+*** RIVER *** [2d 6h 6c Qc][4c]
+*** SHOW DOWN ***
+Amir-Zeus751 shows [2s Ad] (Two pairs : 6 and 2)
+_SKR shows [Js Jh] (Two pairs : Jacks and 6)
+_SKR collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [2d 6h 6c Qc 4c]
+Seat 1: Amir-Zeus751 (button) showed [2s Ad] and lost with Two pairs : 6 and 2
+Seat 2: _SKR (small blind) showed [Js Jh] and won 650 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729587463344357377-5-1676921146 - Holdem no limit (15/30) - 2023/02/20 19:25:46 UTC
+Table: 'Expresso Nitro(635531606)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (650)
+Seat 3: ...Cookie.. (250)
+*** ANTE/BLINDS ***
+...Cookie.. posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6s 7c]
+*** PRE-FLOP *** 
+...Cookie.. raises 45 to 75
+_SKR folds
+...Cookie.. collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: ...Cookie.. (small blind) (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729587463344357377-6-1676921155 - Holdem no limit (15/30) - 2023/02/20 19:25:55 UTC
+Table: 'Expresso Nitro(635531606)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (620)
+Seat 3: ...Cookie.. (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+...Cookie.. posts big blind 30
+Dealt to _SKR [Qc 9c]
+*** PRE-FLOP *** 
+_SKR raises 590 to 620 and is all-in
+...Cookie.. calls 250 and is all-in
+*** FLOP *** [Kc 4s 5h]
+*** TURN *** [Kc 4s 5h][8d]
+*** RIVER *** [Kc 4s 5h 8d][3d]
+*** SHOW DOWN ***
+_SKR shows [Qc 9c] (High card : King)
+...Cookie.. shows [9s Kh] (One pair : Kings)
+...Cookie.. collected 560 from main pot
+_SKR collected 340 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kc 4s 5h 8d 3d]
+Seat 2: _SKR (small blind) (button) showed [Qc 9c] and won 340 with High card : King
+Seat 3: ...Cookie.. (big blind) showed [9s Kh] and won 560 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729587463344357377-7-1676921168 - Holdem no limit (15/30) - 2023/02/20 19:26:08 UTC
+Table: 'Expresso Nitro(635531606)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (340)
+Seat 3: ...Cookie.. (560)
+*** ANTE/BLINDS ***
+...Cookie.. posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad Td]
+*** PRE-FLOP *** 
+...Cookie.. raises 90 to 120
+_SKR raises 220 to 340 and is all-in
+...Cookie.. calls 220
+*** FLOP *** [3d 5c 7h]
+*** TURN *** [3d 5c 7h][Kd]
+*** RIVER *** [3d 5c 7h Kd][Jh]
+*** SHOW DOWN ***
+_SKR shows [Ad Td] (High card : Ace)
+...Cookie.. shows [8d Kh] (One pair : Kings)
+...Cookie.. collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [3d 5c 7h Kd Jh]
+Seat 2: _SKR (big blind) showed [Ad Td] and lost with High card : Ace
+Seat 3: ...Cookie.. (small blind) (button) showed [8d Kh] and won 680 with One pair : Kings
+
+

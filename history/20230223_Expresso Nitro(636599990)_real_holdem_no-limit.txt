@@ -1,0 +1,132 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734176137683927041-1-1677186952 - Holdem no limit (10/20) - 2023/02/23 21:15:52 UTC
+Table: 'Expresso Nitro(636599990)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ILIE87 (300)
+Seat 2: _SKR (300)
+Seat 3: lalliehen (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+lalliehen posts big blind 20
+Dealt to _SKR [Th Ts]
+*** PRE-FLOP *** 
+ILIE87 calls 20
+_SKR raises 280 to 300 and is all-in
+lalliehen folds
+ILIE87 calls 280 and is all-in
+*** FLOP *** [Ah 8c Qc]
+*** TURN *** [Ah 8c Qc][Js]
+*** RIVER *** [Ah 8c Qc Js][6d]
+*** SHOW DOWN ***
+ILIE87 shows [Kc 3h] (High card : Ace)
+_SKR shows [Th Ts] (One pair : Tens)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ah 8c Qc Js 6d]
+Seat 1: ILIE87 (button) showed [Kc 3h] and lost with High card : Ace
+Seat 2: _SKR (small blind) showed [Th Ts] and won 620 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734176137683927041-2-1677186970 - Holdem no limit (10/20) - 2023/02/23 21:16:10 UTC
+Table: 'Expresso Nitro(636599990)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: lalliehen (280)
+*** ANTE/BLINDS ***
+lalliehen posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d Qc]
+*** PRE-FLOP *** 
+lalliehen calls 10
+_SKR checks
+*** FLOP *** [5c 5s Kc]
+_SKR checks
+lalliehen checks
+*** TURN *** [5c 5s Kc][8c]
+_SKR checks
+lalliehen checks
+*** RIVER *** [5c 5s Kc 8c][2c]
+_SKR bets 26
+lalliehen calls 26
+*** SHOW DOWN ***
+lalliehen shows [2d Ad] (Two pairs : 5 and 2)
+_SKR shows [5d Qc] (Flush King high)
+_SKR collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [5c 5s Kc 8c 2c]
+Seat 2: _SKR (big blind) showed [5d Qc] and won 92 with Flush King high
+Seat 3: lalliehen (small blind) (button) showed [2d Ad] and lost with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734176137683927041-3-1677186999 - Holdem no limit (10/20) - 2023/02/23 21:16:39 UTC
+Table: 'Expresso Nitro(636599990)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (666)
+Seat 3: lalliehen (234)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+lalliehen posts big blind 20
+Dealt to _SKR [Js Ad]
+*** PRE-FLOP *** 
+_SKR raises 646 to 666 and is all-in
+lalliehen folds
+_SKR collected 686 from pot
+*** SUMMARY ***
+Total pot 686 | No rake
+Seat 2: _SKR (small blind) (button) won 686
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734176137683927041-4-1677187004 - Holdem no limit (10/20) - 2023/02/23 21:16:44 UTC
+Table: 'Expresso Nitro(636599990)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (686)
+Seat 3: lalliehen (214)
+*** ANTE/BLINDS ***
+lalliehen posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h 3d]
+*** PRE-FLOP *** 
+lalliehen calls 10
+_SKR checks
+*** FLOP *** [2s Js Kc]
+_SKR checks
+lalliehen checks
+*** TURN *** [2s Js Kc][7c]
+_SKR checks
+lalliehen checks
+*** RIVER *** [2s Js Kc 7c][9c]
+_SKR checks
+lalliehen checks
+*** SHOW DOWN ***
+_SKR shows [4h 3d] (High card : King)
+lalliehen shows [5h 5d] (One pair : 5)
+lalliehen collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2s Js Kc 7c 9c]
+Seat 2: _SKR (big blind) showed [4h 3d] and lost with High card : King
+Seat 3: lalliehen (small blind) (button) showed [5h 5d] and won 40 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2734176137683927041-5-1677187024 - Holdem no limit (15/30) - 2023/02/23 21:17:04 UTC
+Table: 'Expresso Nitro(636599990)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (666)
+Seat 3: lalliehen (234)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+lalliehen posts big blind 30
+Dealt to _SKR [Jh As]
+*** PRE-FLOP *** 
+_SKR raises 636 to 666 and is all-in
+lalliehen calls 204 and is all-in
+*** FLOP *** [6s 6h Jd]
+*** TURN *** [6s 6h Jd][Th]
+*** RIVER *** [6s 6h Jd Th][5h]
+*** SHOW DOWN ***
+lalliehen shows [Jc 9s] (Two pairs : Jacks and 6)
+_SKR shows [Jh As] (Two pairs : Jacks and 6)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s 6h Jd Th 5h]
+Seat 2: _SKR (small blind) (button) showed [Jh As] and won 900 with Two pairs : Jacks and 6
+Seat 3: lalliehen (big blind) showed [Jc 9s] and lost with Two pairs : Jacks and 6
+
+

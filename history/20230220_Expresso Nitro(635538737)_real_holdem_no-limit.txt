@@ -1,0 +1,373 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729618090756145153-1-1676922116 - Holdem no limit (10/20) - 2023/02/20 19:41:56 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vincegb05 (300)
+Seat 2: _SKR (300)
+Seat 3: YM_Fenomeno2 (300)
+*** ANTE/BLINDS ***
+Vincegb05 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac Ks]
+*** PRE-FLOP *** 
+YM_Fenomeno2 folds
+Vincegb05 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729618090756145153-2-1676922123 - Holdem no limit (10/20) - 2023/02/20 19:42:03 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vincegb05 (290)
+Seat 2: _SKR (310)
+Seat 3: YM_Fenomeno2 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+YM_Fenomeno2 posts big blind 20
+Dealt to _SKR [Jh Qd]
+*** PRE-FLOP *** 
+Vincegb05 folds
+_SKR raises 20 to 40
+YM_Fenomeno2 calls 20
+*** FLOP *** [2d 7h Ts]
+_SKR checks
+YM_Fenomeno2 checks
+*** TURN *** [2d 7h Ts][2s]
+_SKR checks
+YM_Fenomeno2 bets 40
+_SKR folds
+YM_Fenomeno2 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2d 7h Ts 2s]
+Seat 3: YM_Fenomeno2 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729618090756145153-3-1676922167 - Holdem no limit (10/20) - 2023/02/20 19:42:47 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vincegb05 (290)
+Seat 2: _SKR (270)
+Seat 3: YM_Fenomeno2 (340)
+*** ANTE/BLINDS ***
+YM_Fenomeno2 posts small blind 10
+Vincegb05 posts big blind 20
+Dealt to _SKR [Jd 3h]
+*** PRE-FLOP *** 
+_SKR folds
+YM_Fenomeno2 calls 10
+Vincegb05 checks
+*** FLOP *** [Jc Qs Ks]
+YM_Fenomeno2 checks
+Vincegb05 checks
+*** TURN *** [Jc Qs Ks][6s]
+YM_Fenomeno2 bets 20
+Vincegb05 calls 20
+*** RIVER *** [Jc Qs Ks 6s][9d]
+YM_Fenomeno2 bets 40
+Vincegb05 folds
+YM_Fenomeno2 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jc Qs Ks 6s 9d]
+Seat 3: YM_Fenomeno2 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729618090756145153-4-1676922201 - Holdem no limit (15/30) - 2023/02/20 19:43:21 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vincegb05 (250)
+Seat 2: _SKR (270)
+Seat 3: YM_Fenomeno2 (380)
+*** ANTE/BLINDS ***
+Vincegb05 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd 5d]
+*** PRE-FLOP *** 
+YM_Fenomeno2 calls 30
+Vincegb05 folds
+_SKR raises 30 to 60
+YM_Fenomeno2 calls 30
+*** FLOP *** [Th 2d 7d]
+_SKR bets 47
+YM_Fenomeno2 calls 47
+*** TURN *** [Th 2d 7d][5s]
+_SKR checks
+YM_Fenomeno2 bets 183
+_SKR calls 163 and is all-in
+*** RIVER *** [Th 2d 7d 5s][Ad]
+*** SHOW DOWN ***
+_SKR shows [Kd 5d] (Flush Ace high)
+YM_Fenomeno2 shows [5h 9h] (One pair : 5)
+YM_Fenomeno2 collected 20 from side pot 1
+_SKR collected 555 from main pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Board: [Th 2d 7d 5s Ad]
+Seat 2: _SKR (big blind) showed [Kd 5d] and won 555 with Flush Ace high
+Seat 3: YM_Fenomeno2 (button) showed [5h 9h] and won 20 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729618090756145153-5-1676922240 - Holdem no limit (20/40) - 2023/02/20 19:44:00 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vincegb05 (235)
+Seat 2: _SKR (555)
+Seat 3: YM_Fenomeno2 (110)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+YM_Fenomeno2 posts big blind 40
+Dealt to _SKR [5d 3c]
+*** PRE-FLOP *** 
+Vincegb05 calls 40
+_SKR folds
+YM_Fenomeno2 raises 70 to 110 and is all-in
+Vincegb05 raises 125 to 235 and is all-in
+*** FLOP *** [Kd 8h Kh]
+*** TURN *** [Kd 8h Kh][Ad]
+*** RIVER *** [Kd 8h Kh Ad][Qh]
+*** SHOW DOWN ***
+YM_Fenomeno2 shows [7d 7s] (Two pairs : Kings and 7)
+Vincegb05 shows [9c 8c] (Two pairs : Kings and 8)
+Vincegb05 collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Board: [Kd 8h Kh Ad Qh]
+Seat 1: Vincegb05 (button) showed [9c 8c] and won 365 with Two pairs : Kings and 8
+Seat 3: YM_Fenomeno2 (big blind) showed [7d 7s] and lost with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729618090756145153-6-1676922267 - Holdem no limit (20/40) - 2023/02/20 19:44:27 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vincegb05 (365)
+Seat 2: _SKR (535)
+*** ANTE/BLINDS ***
+Vincegb05 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7d 4s]
+*** PRE-FLOP *** 
+Vincegb05 calls 20
+_SKR checks
+*** FLOP *** [Jh 8h 4d]
+_SKR checks
+Vincegb05 checks
+*** TURN *** [Jh 8h 4d][Kc]
+_SKR checks
+Vincegb05 checks
+*** RIVER *** [Jh 8h 4d Kc][3c]
+_SKR checks
+Vincegb05 checks
+*** SHOW DOWN ***
+_SKR shows [7d 4s] (One pair : 4)
+Vincegb05 shows [8s Qs] (One pair : 8)
+Vincegb05 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Jh 8h 4d Kc 3c]
+Seat 1: Vincegb05 (small blind) (button) showed [8s Qs] and won 80 with One pair : 8
+Seat 2: _SKR (big blind) showed [7d 4s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729618090756145153-7-1676922287 - Holdem no limit (20/40) - 2023/02/20 19:44:47 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vincegb05 (405)
+Seat 2: _SKR (495)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Vincegb05 posts big blind 40
+Dealt to _SKR [Ah Ks]
+*** PRE-FLOP *** 
+_SKR raises 455 to 495 and is all-in
+Vincegb05 folds
+_SKR collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Seat 2: _SKR (small blind) (button) won 535
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729618090756145153-8-1676922293 - Holdem no limit (30/60) - 2023/02/20 19:44:53 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vincegb05 (365)
+Seat 2: _SKR (535)
+*** ANTE/BLINDS ***
+Vincegb05 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9h 3c]
+*** PRE-FLOP *** 
+Vincegb05 raises 305 to 365 and is all-in
+_SKR folds
+Vincegb05 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 1: Vincegb05 (small blind) (button) won 425
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729618090756145153-9-1676922300 - Holdem no limit (30/60) - 2023/02/20 19:45:00 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vincegb05 (425)
+Seat 2: _SKR (475)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Vincegb05 posts big blind 60
+Dealt to _SKR [3h 9c]
+*** PRE-FLOP *** 
+_SKR folds
+Vincegb05 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Vincegb05 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729618090756145153-10-1676922306 - Holdem no limit (30/60) - 2023/02/20 19:45:06 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vincegb05 (455)
+Seat 2: _SKR (445)
+*** ANTE/BLINDS ***
+Vincegb05 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9h 7h]
+*** PRE-FLOP *** 
+Vincegb05 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729618090756145153-11-1676922310 - Holdem no limit (30/60) - 2023/02/20 19:45:10 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vincegb05 (425)
+Seat 2: _SKR (475)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Vincegb05 posts big blind 60
+Dealt to _SKR [Kd 7c]
+*** PRE-FLOP *** 
+_SKR raises 415 to 475 and is all-in
+Vincegb05 folds
+_SKR collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Seat 2: _SKR (small blind) (button) won 535
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729618090756145153-12-1676922315 - Holdem no limit (30/60) - 2023/02/20 19:45:15 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vincegb05 (365)
+Seat 2: _SKR (535)
+*** ANTE/BLINDS ***
+Vincegb05 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c 2d]
+*** PRE-FLOP *** 
+Vincegb05 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729618090756145153-13-1676922320 - Holdem no limit (30/60) - 2023/02/20 19:45:20 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vincegb05 (335)
+Seat 2: _SKR (565)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Vincegb05 posts big blind 60
+Dealt to _SKR [7h 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Vincegb05 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Vincegb05 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729618090756145153-14-1676922325 - Holdem no limit (30/60) - 2023/02/20 19:45:25 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vincegb05 (365)
+Seat 2: _SKR (535)
+*** ANTE/BLINDS ***
+Vincegb05 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4s 5s]
+*** PRE-FLOP *** 
+Vincegb05 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729618090756145153-15-1676922337 - Holdem no limit (30/60) - 2023/02/20 19:45:37 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vincegb05 (335)
+Seat 2: _SKR (565)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Vincegb05 posts big blind 60
+Dealt to _SKR [Js Qc]
+*** PRE-FLOP *** 
+_SKR raises 505 to 565 and is all-in
+Vincegb05 folds
+_SKR collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Seat 2: _SKR (small blind) (button) won 625
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729618090756145153-16-1676922345 - Holdem no limit (30/60) - 2023/02/20 19:45:45 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vincegb05 (275)
+Seat 2: _SKR (625)
+*** ANTE/BLINDS ***
+Vincegb05 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [6d 3h]
+*** PRE-FLOP *** 
+Vincegb05 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2729618090756145153-17-1676922361 - Holdem no limit (40/80) - 2023/02/20 19:46:01 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vincegb05 (245)
+Seat 2: _SKR (655)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Vincegb05 posts big blind 80
+Dealt to _SKR [7h Qd]
+*** PRE-FLOP *** 
+_SKR raises 575 to 655 and is all-in
+Vincegb05 folds
+_SKR collected 735 from pot
+*** SUMMARY ***
+Total pot 735 | No rake
+Seat 2: _SKR (small blind) (button) won 735
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2729618090756145153-18-1676922370 - Holdem no limit (40/80) - 2023/02/20 19:46:10 UTC
+Table: 'Expresso Nitro(635538737)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vincegb05 (165)
+Seat 2: _SKR (735)
+*** ANTE/BLINDS ***
+Vincegb05 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [9d 2c]
+*** PRE-FLOP *** 
+Vincegb05 raises 85 to 165 and is all-in
+_SKR calls 85
+*** FLOP *** [Td 7c 9c]
+*** TURN *** [Td 7c 9c][Js]
+*** RIVER *** [Td 7c 9c Js][2s]
+*** SHOW DOWN ***
+Vincegb05 shows [4s Ks] (High card : King)
+_SKR shows [9d 2c] (Two pairs : 9 and 2)
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Td 7c 9c Js 2s]
+Seat 1: Vincegb05 (small blind) (button) showed [4s Ks] and lost with High card : King
+Seat 2: _SKR (big blind) showed [9d 2c] and won 330 with Two pairs : 9 and 2
+
+

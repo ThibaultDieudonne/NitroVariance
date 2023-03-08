@@ -1,0 +1,85 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721187821573373953-1-1676418814 - Holdem no limit (10/20) - 2023/02/14 23:53:34 UTC
+Table: 'Expresso Nitro(633575912)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Chimeira 198 (300)
+Seat 3: Aleixbp1414 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Chimeira 198 posts big blind 20
+Dealt to _SKR [6h Jd]
+*** PRE-FLOP *** 
+Aleixbp1414 raises 20 to 40
+_SKR folds
+Chimeira 198 raises 260 to 300 and is all-in
+Aleixbp1414 calls 260 and is all-in
+*** FLOP *** [2h 2c Td]
+*** TURN *** [2h 2c Td][3h]
+*** RIVER *** [2h 2c Td 3h][Ks]
+*** SHOW DOWN ***
+Chimeira 198 shows [7s Ts] (Two pairs : Tens and 2)
+Aleixbp1414 shows [Kc 7d] (Two pairs : Kings and 2)
+Aleixbp1414 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [2h 2c Td 3h Ks]
+Seat 2: Chimeira 198 (big blind) showed [7s Ts] and lost with Two pairs : Tens and 2
+Seat 3: Aleixbp1414 (button) showed [Kc 7d] and won 610 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721187821573373953-2-1676418837 - Holdem no limit (10/20) - 2023/02/14 23:53:57 UTC
+Table: 'Expresso Nitro(633575912)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 3: Aleixbp1414 (610)
+*** ANTE/BLINDS ***
+Aleixbp1414 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc Ts]
+*** PRE-FLOP *** 
+Aleixbp1414 raises 30 to 50
+_SKR calls 30
+*** FLOP *** [7d 4s Jd]
+_SKR checks
+Aleixbp1414 checks
+*** TURN *** [7d 4s Jd][7c]
+_SKR checks
+Aleixbp1414 checks
+*** RIVER *** [7d 4s Jd 7c][4d]
+_SKR checks
+Aleixbp1414 checks
+*** SHOW DOWN ***
+_SKR shows [Kc Ts] (Two pairs : 7 and 4)
+Aleixbp1414 shows [Kh 8c] (Two pairs : 7 and 4)
+Aleixbp1414 collected 50 from pot
+_SKR collected 50 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [7d 4s Jd 7c 4d]
+Seat 1: _SKR (big blind) showed [Kc Ts] and won 50 with Two pairs : 7 and 4
+Seat 3: Aleixbp1414 (small blind) (button) showed [Kh 8c] and won 50 with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721187821573373953-3-1676418881 - Holdem no limit (15/30) - 2023/02/14 23:54:41 UTC
+Table: 'Expresso Nitro(633575912)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 3: Aleixbp1414 (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Aleixbp1414 posts big blind 30
+Dealt to _SKR [8h Qs]
+*** PRE-FLOP *** 
+_SKR raises 260 to 290 and is all-in
+Aleixbp1414 calls 260
+*** FLOP *** [4s 4h Qc]
+*** TURN *** [4s 4h Qc][9h]
+*** RIVER *** [4s 4h Qc 9h][Kh]
+*** SHOW DOWN ***
+_SKR shows [8h Qs] (Two pairs : Queens and 4)
+Aleixbp1414 shows [Jd Ts] (Straight King high)
+Aleixbp1414 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [4s 4h Qc 9h Kh]
+Seat 1: _SKR (small blind) (button) showed [8h Qs] and lost with Two pairs : Queens and 4
+Seat 3: Aleixbp1414 (big blind) showed [Jd Ts] and won 580 with Straight King high
+
+

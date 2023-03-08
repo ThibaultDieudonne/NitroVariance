@@ -1,0 +1,188 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717617647188443137-1-1676229067 - Holdem no limit (10/20) - 2023/02/12 19:11:07 UTC
+Table: 'Expresso Nitro(632744666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: wmx-cp8at85 (300)
+Seat 2: _SKR (300)
+Seat 3: Ianfish (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ianfish posts big blind 20
+Dealt to _SKR [7s 4h]
+*** PRE-FLOP *** 
+wmx-cp8at85 calls 20
+_SKR folds
+Ianfish checks
+*** FLOP *** [6h Jd 8d]
+Ianfish bets 20
+wmx-cp8at85 calls 20
+*** TURN *** [6h Jd 8d][4d]
+Ianfish checks
+wmx-cp8at85 bets 20
+Ianfish calls 20
+*** RIVER *** [6h Jd 8d 4d][Td]
+Ianfish checks
+wmx-cp8at85 bets 20
+Ianfish calls 20
+*** SHOW DOWN ***
+wmx-cp8at85 shows [8s 6s] (Two pairs : 8 and 6)
+Ianfish shows [Th 9d] (Flush Jack high)
+Ianfish collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [6h Jd 8d 4d Td]
+Seat 1: wmx-cp8at85 (button) showed [8s 6s] and lost with Two pairs : 8 and 6
+Seat 3: Ianfish (big blind) showed [Th 9d] and won 170 with Flush Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717617647188443137-2-1676229124 - Holdem no limit (15/30) - 2023/02/12 19:12:04 UTC
+Table: 'Expresso Nitro(632744666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: wmx-cp8at85 (220)
+Seat 2: _SKR (290)
+Seat 3: Ianfish (390)
+*** ANTE/BLINDS ***
+Ianfish posts small blind 15
+wmx-cp8at85 posts big blind 30
+Dealt to _SKR [Ks 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Ianfish folds
+wmx-cp8at85 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: wmx-cp8at85 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717617647188443137-3-1676229138 - Holdem no limit (15/30) - 2023/02/12 19:12:18 UTC
+Table: 'Expresso Nitro(632744666)#0' 3-max (real money) Seat #3 is the button
+Seat 1: wmx-cp8at85 (235)
+Seat 2: _SKR (290)
+Seat 3: Ianfish (375)
+*** ANTE/BLINDS ***
+wmx-cp8at85 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd Ts]
+*** PRE-FLOP *** 
+Ianfish folds
+wmx-cp8at85 calls 15
+_SKR raises 260 to 290 and is all-in
+wmx-cp8at85 calls 205 and is all-in
+*** FLOP *** [7d 8h 2d]
+*** TURN *** [7d 8h 2d][5h]
+*** RIVER *** [7d 8h 2d 5h][4s]
+*** SHOW DOWN ***
+wmx-cp8at85 shows [4c As] (One pair : 4)
+_SKR shows [Kd Ts] (High card : King)
+_SKR collected 55 from side pot 1
+wmx-cp8at85 collected 470 from main pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Board: [7d 8h 2d 5h 4s]
+Seat 1: wmx-cp8at85 (small blind) showed [4c As] and won 470 with One pair : 4
+Seat 2: _SKR (big blind) showed [Kd Ts] and won 55 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717617647188443137-4-1676229157 - Holdem no limit (15/30) - 2023/02/12 19:12:37 UTC
+Table: 'Expresso Nitro(632744666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: wmx-cp8at85 (470)
+Seat 2: _SKR (55)
+Seat 3: Ianfish (375)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Ianfish posts big blind 30
+Dealt to _SKR [8c Kc]
+*** PRE-FLOP *** 
+wmx-cp8at85 calls 30
+_SKR raises 25 to 55 and is all-in
+Ianfish folds
+wmx-cp8at85 calls 25
+*** FLOP *** [Tc 6c 9c]
+*** TURN *** [Tc 6c 9c][4h]
+*** RIVER *** [Tc 6c 9c 4h][Td]
+*** SHOW DOWN ***
+wmx-cp8at85 shows [Th Kh] (Trips of Tens)
+_SKR shows [8c Kc] (Flush King high)
+_SKR collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Tc 6c 9c 4h Td]
+Seat 1: wmx-cp8at85 (button) showed [Th Kh] and lost with Trips of Tens
+Seat 2: _SKR (small blind) showed [8c Kc] and won 140 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717617647188443137-5-1676229181 - Holdem no limit (15/30) - 2023/02/12 19:13:01 UTC
+Table: 'Expresso Nitro(632744666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: wmx-cp8at85 (415)
+Seat 2: _SKR (140)
+Seat 3: Ianfish (345)
+*** ANTE/BLINDS ***
+Ianfish posts small blind 15
+wmx-cp8at85 posts big blind 30
+Dealt to _SKR [9s Qs]
+*** PRE-FLOP *** 
+_SKR raises 110 to 140 and is all-in
+Ianfish folds
+wmx-cp8at85 calls 110
+*** FLOP *** [8h Ts 7d]
+*** TURN *** [8h Ts 7d][As]
+*** RIVER *** [8h Ts 7d As][7s]
+*** SHOW DOWN ***
+wmx-cp8at85 shows [Ac 5d] (Two pairs : Aces and 7)
+_SKR shows [9s Qs] (Flush Ace high)
+_SKR collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Board: [8h Ts 7d As 7s]
+Seat 1: wmx-cp8at85 (big blind) showed [Ac 5d] and lost with Two pairs : Aces and 7
+Seat 2: _SKR (button) showed [9s Qs] and won 295 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717617647188443137-6-1676229206 - Holdem no limit (20/40) - 2023/02/12 19:13:26 UTC
+Table: 'Expresso Nitro(632744666)#0' 3-max (real money) Seat #3 is the button
+Seat 1: wmx-cp8at85 (275)
+Seat 2: _SKR (295)
+Seat 3: Ianfish (330)
+*** ANTE/BLINDS ***
+wmx-cp8at85 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3s 4c]
+*** PRE-FLOP *** 
+Ianfish folds
+wmx-cp8at85 raises 40 to 80
+_SKR folds
+wmx-cp8at85 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: wmx-cp8at85 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717617647188443137-7-1676229216 - Holdem no limit (20/40) - 2023/02/12 19:13:36 UTC
+Table: 'Expresso Nitro(632744666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: wmx-cp8at85 (315)
+Seat 2: _SKR (255)
+Seat 3: Ianfish (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Ianfish posts big blind 40
+Dealt to _SKR [Ah Ad]
+*** PRE-FLOP *** 
+wmx-cp8at85 folds
+_SKR calls 20
+Ianfish checks
+*** FLOP *** [8d 2d 4h]
+_SKR bets 40
+Ianfish calls 40
+*** TURN *** [8d 2d 4h][Td]
+_SKR bets 80
+Ianfish raises 100 to 180
+_SKR calls 95 and is all-in
+*** RIVER *** [8d 2d 4h Td][8c]
+*** SHOW DOWN ***
+_SKR shows [Ah Ad] (Two pairs : Aces and 8)
+Ianfish shows [Qd 3d] (Flush Queen high)
+Ianfish collected 515 from pot
+*** SUMMARY ***
+Total pot 515 | No rake
+Board: [8d 2d 4h Td 8c]
+Seat 2: _SKR (small blind) showed [Ah Ad] and lost with Two pairs : Aces and 8
+Seat 3: Ianfish (big blind) showed [Qd 3d] and won 515 with Flush Queen high
+
+

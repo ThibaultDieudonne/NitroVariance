@@ -1,0 +1,91 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677110728288108545-1-1673877698 - Holdem no limit (10/20) - 2023/01/16 14:01:38 UTC
+Table: 'Expresso Nitro(623313414)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Trickynstein (300)
+Seat 3: Vanessa Kade (300)
+*** ANTE/BLINDS ***
+Vanessa Kade posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs 8h]
+*** PRE-FLOP *** 
+Trickynstein folds
+Vanessa Kade folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677110728288108545-2-1673877703 - Holdem no limit (10/20) - 2023/01/16 14:01:43 UTC
+Table: 'Expresso Nitro(623313414)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: Trickynstein (300)
+Seat 3: Vanessa Kade (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Trickynstein posts big blind 20
+Dealt to _SKR [Ah 8c]
+*** PRE-FLOP *** 
+Vanessa Kade raises 20 to 40
+_SKR folds
+Trickynstein folds
+Vanessa Kade collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: Vanessa Kade (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677110728288108545-3-1673877719 - Holdem no limit (10/20) - 2023/01/16 14:01:59 UTC
+Table: 'Expresso Nitro(623313414)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Trickynstein (280)
+Seat 3: Vanessa Kade (320)
+*** ANTE/BLINDS ***
+Trickynstein posts small blind 10
+Vanessa Kade posts big blind 20
+Dealt to _SKR [Kc Jd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Trickynstein raises 240 to 280 and is all-in
+Vanessa Kade folds
+_SKR calls 240
+*** FLOP *** [5s 2h 4d]
+*** TURN *** [5s 2h 4d][Th]
+*** RIVER *** [5s 2h 4d Th][7h]
+*** SHOW DOWN ***
+_SKR shows [Kc Jd] (High card : King)
+Trickynstein shows [Ah Qc] (High card : Ace)
+Trickynstein collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5s 2h 4d Th 7h]
+Seat 1: _SKR (button) showed [Kc Jd] and lost with High card : King
+Seat 2: Trickynstein (small blind) showed [Ah Qc] and won 580 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677110728288108545-4-1673877736 - Holdem no limit (10/20) - 2023/01/16 14:02:16 UTC
+Table: 'Expresso Nitro(623313414)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (20)
+Seat 2: Trickynstein (580)
+Seat 3: Vanessa Kade (300)
+*** ANTE/BLINDS ***
+Vanessa Kade posts small blind 10
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [3h 4c]
+*** PRE-FLOP *** 
+Trickynstein raises 560 to 580 and is all-in
+Vanessa Kade folds
+*** FLOP *** [5s 9c Kd]
+*** TURN *** [5s 9c Kd][9h]
+*** RIVER *** [5s 9c Kd 9h][9d]
+*** SHOW DOWN ***
+_SKR shows [3h 4c] (Trips of 9)
+Trickynstein shows [Jh Ah] (Trips of 9)
+Trickynstein collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [5s 9c Kd 9h 9d]
+Seat 1: _SKR (big blind) showed [3h 4c] and lost with Trips of 9
+Seat 2: Trickynstein (button) showed [Jh Ah] and won 610 with Trips of 9
+
+

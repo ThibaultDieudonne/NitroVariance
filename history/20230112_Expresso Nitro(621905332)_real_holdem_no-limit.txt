@@ -1,0 +1,48 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671063062148022273-1-1673529237 - Holdem no limit (10/20) - 2023/01/12 13:13:57 UTC
+Table: 'Expresso Nitro(621905332)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: 0nlyluck (300)
+Seat 3: Festival_s (300)
+*** ANTE/BLINDS ***
+0nlyluck posts small blind 10
+Festival_s posts big blind 20
+Dealt to _SKR [5d 6h]
+*** PRE-FLOP *** 
+_SKR folds
+0nlyluck raises 30 to 50
+Festival_s raises 250 to 300 and is all-in
+0nlyluck folds
+Festival_s collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: Festival_s (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671063062148022273-2-1673529259 - Holdem no limit (10/20) - 2023/01/12 13:14:19 UTC
+Table: 'Expresso Nitro(621905332)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: 0nlyluck (250)
+Seat 3: Festival_s (350)
+*** ANTE/BLINDS ***
+Festival_s posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d Ac]
+*** PRE-FLOP *** 
+0nlyluck folds
+Festival_s calls 10
+_SKR raises 280 to 300 and is all-in
+Festival_s calls 280
+*** FLOP *** [Kh 7d 8d]
+*** TURN *** [Kh 7d 8d][Kd]
+*** RIVER *** [Kh 7d 8d Kd][4s]
+*** SHOW DOWN ***
+_SKR shows [6d Ac] (One pair : Kings)
+Festival_s shows [Ah 8h] (Two pairs : Kings and 8)
+Festival_s collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kh 7d 8d Kd 4s]
+Seat 1: _SKR (big blind) showed [6d Ac] and lost with One pair : Kings
+Seat 3: Festival_s (small blind) showed [Ah 8h] and won 600 with Two pairs : Kings and 8
+
+

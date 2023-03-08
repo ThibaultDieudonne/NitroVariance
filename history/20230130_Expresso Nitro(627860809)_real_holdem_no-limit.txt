@@ -1,0 +1,50 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696641641095102465-1-1675091248 - Holdem no limit (10/20) - 2023/01/30 15:07:28 UTC
+Table: 'Expresso Nitro(627860809)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Marlborogold (300)
+Seat 2: Kryscab (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Kryscab posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd 2d]
+*** PRE-FLOP *** 
+Marlborogold raises 280 to 300 and is all-in
+Kryscab folds
+_SKR folds
+Marlborogold collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Marlborogold (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696641641095102465-2-1675091258 - Holdem no limit (10/20) - 2023/01/30 15:07:38 UTC
+Table: 'Expresso Nitro(627860809)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Marlborogold (330)
+Seat 2: Kryscab (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Marlborogold posts big blind 20
+Dealt to _SKR [As 5h]
+*** PRE-FLOP *** 
+Kryscab calls 20
+_SKR raises 260 to 280 and is all-in
+Marlborogold raises 50 to 330 and is all-in
+Kryscab calls 270 and is all-in
+*** FLOP *** [2d Qd 4s]
+*** TURN *** [2d Qd 4s][8d]
+*** RIVER *** [2d Qd 4s 8d][8h]
+*** SHOW DOWN ***
+_SKR shows [As 5h] (One pair : 8)
+Marlborogold shows [Ah Ks] (One pair : 8)
+Kryscab shows [Ac Qc] (Two pairs : Queens and 8)
+Kryscab collected 860 from main pot
+Marlborogold collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d Qd 4s 8d 8h]
+Seat 1: Marlborogold (big blind) showed [Ah Ks] and won 40 with One pair : 8
+Seat 2: Kryscab (button) showed [Ac Qc] and won 860 with Two pairs : Queens and 8
+Seat 3: _SKR (small blind) showed [As 5h] and lost with One pair : 8
+
+

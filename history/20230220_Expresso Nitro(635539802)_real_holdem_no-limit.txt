@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729622664896315393-1-1676922267 - Holdem no limit (10/20) - 2023/02/20 19:44:27 UTC
+Table: 'Expresso Nitro(635539802)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Mays-59 (300)
+Seat 3: PIXEL 2.0 (300)
+*** ANTE/BLINDS ***
+PIXEL 2.0 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Jh]
+*** PRE-FLOP *** 
+Mays-59 calls 20
+PIXEL 2.0 raises 280 to 300 and is all-in
+_SKR folds
+Mays-59 folds
+PIXEL 2.0 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: PIXEL 2.0 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729622664896315393-2-1676922277 - Holdem no limit (10/20) - 2023/02/20 19:44:37 UTC
+Table: 'Expresso Nitro(635539802)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Mays-59 (280)
+Seat 3: PIXEL 2.0 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mays-59 posts big blind 20
+Dealt to _SKR [7s 4c]
+*** PRE-FLOP *** 
+PIXEL 2.0 folds
+_SKR folds
+Mays-59 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Mays-59 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729622664896315393-3-1676922285 - Holdem no limit (10/20) - 2023/02/20 19:44:45 UTC
+Table: 'Expresso Nitro(635539802)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Mays-59 (290)
+Seat 3: PIXEL 2.0 (340)
+*** ANTE/BLINDS ***
+Mays-59 posts small blind 10
+PIXEL 2.0 posts big blind 20
+Dealt to _SKR [Qh 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Mays-59 calls 10
+PIXEL 2.0 raises 320 to 340 and is all-in
+Mays-59 calls 270 and is all-in
+*** FLOP *** [Qc 2d 3d]
+*** TURN *** [Qc 2d 3d][9c]
+*** RIVER *** [Qc 2d 3d 9c][8d]
+*** SHOW DOWN ***
+Mays-59 shows [Jc Kh] (High card : King)
+PIXEL 2.0 shows [9d Th] (One pair : 9)
+PIXEL 2.0 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qc 2d 3d 9c 8d]
+Seat 2: Mays-59 (small blind) showed [Jc Kh] and lost with High card : King
+Seat 3: PIXEL 2.0 (big blind) showed [9d Th] and won 630 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729622664896315393-4-1676922309 - Holdem no limit (10/20) - 2023/02/20 19:45:09 UTC
+Table: 'Expresso Nitro(635539802)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 3: PIXEL 2.0 (630)
+*** ANTE/BLINDS ***
+PIXEL 2.0 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad 7c]
+*** PRE-FLOP *** 
+PIXEL 2.0 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729622664896315393-5-1676922313 - Holdem no limit (10/20) - 2023/02/20 19:45:13 UTC
+Table: 'Expresso Nitro(635539802)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 3: PIXEL 2.0 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+PIXEL 2.0 posts big blind 20
+Dealt to _SKR [Ad 5h]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+PIXEL 2.0 calls 260
+*** FLOP *** [7s 9d 2s]
+*** TURN *** [7s 9d 2s][4s]
+*** RIVER *** [7s 9d 2s 4s][Ks]
+*** SHOW DOWN ***
+_SKR shows [Ad 5h] (High card : Ace)
+PIXEL 2.0 shows [Ah 8h] (High card : Ace)
+PIXEL 2.0 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [7s 9d 2s 4s Ks]
+Seat 1: _SKR (small blind) (button) showed [Ad 5h] and lost with High card : Ace
+Seat 3: PIXEL 2.0 (big blind) showed [Ah 8h] and won 560 with High card : Ace
+
+

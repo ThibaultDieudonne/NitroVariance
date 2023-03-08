@@ -1,0 +1,80 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730575967247400961-1-1676986505 - Holdem no limit (10/20) - 2023/02/21 13:35:05 UTC
+Table: 'Expresso Nitro(635761760)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PF_Kaiser20 (300)
+Seat 2: _SKR (300)
+Seat 3: couleuroyale (300)
+*** ANTE/BLINDS ***
+couleuroyale posts small blind 10
+PF_Kaiser20 posts big blind 20
+Dealt to _SKR [3s 2h]
+*** PRE-FLOP *** 
+_SKR folds
+couleuroyale raises 40 to 60
+PF_Kaiser20 calls 40
+*** FLOP *** [Ks Ts Js]
+couleuroyale bets 120
+PF_Kaiser20 folds
+couleuroyale collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Ks Ts Js]
+Seat 3: couleuroyale (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730575967247400961-2-1676986522 - Holdem no limit (10/20) - 2023/02/21 13:35:22 UTC
+Table: 'Expresso Nitro(635761760)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PF_Kaiser20 (240)
+Seat 2: _SKR (300)
+Seat 3: couleuroyale (360)
+*** ANTE/BLINDS ***
+PF_Kaiser20 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3c Ad]
+*** PRE-FLOP *** 
+couleuroyale folds
+PF_Kaiser20 raises 20 to 40
+_SKR raises 260 to 300 and is all-in
+PF_Kaiser20 calls 200 and is all-in
+*** FLOP *** [Jh Tc Ts]
+*** TURN *** [Jh Tc Ts][6c]
+*** RIVER *** [Jh Tc Ts 6c][9c]
+*** SHOW DOWN ***
+PF_Kaiser20 shows [8d 8h] (Two pairs : Tens and 8)
+_SKR shows [3c Ad] (One pair : Tens)
+_SKR collected 60 from side pot 1
+PF_Kaiser20 collected 480 from main pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Jh Tc Ts 6c 9c]
+Seat 1: PF_Kaiser20 (small blind) showed [8d 8h] and won 480 with Two pairs : Tens and 8
+Seat 2: _SKR (big blind) showed [3c Ad] and won 60 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730575967247400961-3-1676986545 - Holdem no limit (10/20) - 2023/02/21 13:35:45 UTC
+Table: 'Expresso Nitro(635761760)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PF_Kaiser20 (480)
+Seat 2: _SKR (60)
+Seat 3: couleuroyale (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+couleuroyale posts big blind 20
+Dealt to _SKR [Js 5h]
+*** PRE-FLOP *** 
+PF_Kaiser20 calls 20
+_SKR raises 40 to 60 and is all-in
+couleuroyale folds
+PF_Kaiser20 calls 40
+*** FLOP *** [3c Kd Td]
+*** TURN *** [3c Kd Td][Qs]
+*** RIVER *** [3c Kd Td Qs][6c]
+*** SHOW DOWN ***
+_SKR shows [Js 5h] (High card : King)
+PF_Kaiser20 shows [8d Ts] (One pair : Tens)
+PF_Kaiser20 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [3c Kd Td Qs 6c]
+Seat 1: PF_Kaiser20 (button) showed [8d Ts] and won 140 with One pair : Tens
+Seat 2: _SKR (small blind) showed [Js 5h] and lost with High card : King
+
+

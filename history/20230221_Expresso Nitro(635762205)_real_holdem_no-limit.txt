@@ -1,0 +1,326 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730577878507847681-1-1676986617 - Holdem no limit (10/20) - 2023/02/21 13:36:57 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AAANAISKK (300)
+Seat 2: Oliveda (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+AAANAISKK posts small blind 10
+Oliveda posts big blind 20
+Dealt to _SKR [3d Kd]
+*** PRE-FLOP *** 
+_SKR folds
+AAANAISKK folds
+Oliveda collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Oliveda (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730577878507847681-2-1676986626 - Holdem no limit (10/20) - 2023/02/21 13:37:06 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AAANAISKK (290)
+Seat 2: Oliveda (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Oliveda posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s 2h]
+*** PRE-FLOP *** 
+AAANAISKK folds
+Oliveda calls 10
+_SKR checks
+*** FLOP *** [6h Kh Td]
+Oliveda checks
+_SKR checks
+*** TURN *** [6h Kh Td][5d]
+Oliveda bets 40
+_SKR folds
+Oliveda collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [6h Kh Td 5d]
+Seat 2: Oliveda (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730577878507847681-3-1676986645 - Holdem no limit (10/20) - 2023/02/21 13:37:25 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AAANAISKK (290)
+Seat 2: Oliveda (330)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AAANAISKK posts big blind 20
+Dealt to _SKR [3s Jc]
+*** PRE-FLOP *** 
+Oliveda calls 20
+_SKR folds
+AAANAISKK checks
+*** FLOP *** [Qd 7h Jh]
+AAANAISKK bets 33
+Oliveda calls 33
+*** TURN *** [Qd 7h Jh][Tc]
+AAANAISKK checks
+Oliveda checks
+*** RIVER *** [Qd 7h Jh Tc][Qs]
+AAANAISKK bets 75
+Oliveda calls 75
+*** SHOW DOWN ***
+Oliveda shows [9d 7d] (Two pairs : Queens and 7)
+AAANAISKK shows [5h Jd] (Two pairs : Queens and Jacks)
+AAANAISKK collected 266 from pot
+*** SUMMARY ***
+Total pot 266 | No rake
+Board: [Qd 7h Jh Tc Qs]
+Seat 1: AAANAISKK (big blind) showed [5h Jd] and won 266 with Two pairs : Queens and Jacks
+Seat 2: Oliveda (button) showed [9d 7d] and lost with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730577878507847681-4-1676986669 - Holdem no limit (10/20) - 2023/02/21 13:37:49 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AAANAISKK (428)
+Seat 2: Oliveda (202)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+AAANAISKK posts small blind 10
+Oliveda posts big blind 20
+Dealt to _SKR [7h 8d]
+*** PRE-FLOP *** 
+_SKR folds
+AAANAISKK raises 20 to 40
+Oliveda raises 162 to 202 and is all-in
+AAANAISKK calls 162
+*** FLOP *** [Qd 6h 2c]
+*** TURN *** [Qd 6h 2c][6c]
+*** RIVER *** [Qd 6h 2c 6c][3h]
+*** SHOW DOWN ***
+AAANAISKK shows [Jd 9h] (One pair : 6)
+Oliveda shows [Td Ts] (Two pairs : Tens and 6)
+Oliveda collected 404 from pot
+*** SUMMARY ***
+Total pot 404 | No rake
+Board: [Qd 6h 2c 6c 3h]
+Seat 1: AAANAISKK (small blind) showed [Jd 9h] and lost with One pair : 6
+Seat 2: Oliveda (big blind) showed [Td Ts] and won 404 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730577878507847681-5-1676986691 - Holdem no limit (15/30) - 2023/02/21 13:38:11 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AAANAISKK (226)
+Seat 2: Oliveda (404)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Oliveda posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ts 3c]
+*** PRE-FLOP *** 
+AAANAISKK raises 196 to 226 and is all-in
+Oliveda folds
+_SKR folds
+AAANAISKK collected 271 from pot
+*** SUMMARY ***
+Total pot 271 | No rake
+Seat 1: AAANAISKK (button) won 271
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730577878507847681-6-1676986704 - Holdem no limit (15/30) - 2023/02/21 13:38:24 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AAANAISKK (271)
+Seat 2: Oliveda (389)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+AAANAISKK posts big blind 30
+Dealt to _SKR [Jc 5c]
+*** PRE-FLOP *** 
+Oliveda calls 30
+_SKR folds
+AAANAISKK checks
+*** FLOP *** [8h Th 7d]
+AAANAISKK bets 49
+Oliveda calls 49
+*** TURN *** [8h Th 7d][6h]
+AAANAISKK bets 61
+Oliveda calls 61
+*** RIVER *** [8h Th 7d 6h][Ts]
+AAANAISKK bets 131 and is all-in
+Oliveda folds
+AAANAISKK collected 426 from pot
+*** SUMMARY ***
+Total pot 426 | No rake
+Board: [8h Th 7d 6h Ts]
+Seat 1: AAANAISKK (big blind) won 426
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730577878507847681-7-1676986724 - Holdem no limit (15/30) - 2023/02/21 13:38:44 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AAANAISKK (426)
+Seat 2: Oliveda (249)
+Seat 3: _SKR (225)
+*** ANTE/BLINDS ***
+AAANAISKK posts small blind 15
+Oliveda posts big blind 30
+Dealt to _SKR [7d Qc]
+*** PRE-FLOP *** 
+_SKR folds
+AAANAISKK folds
+Oliveda collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Oliveda (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730577878507847681-8-1676986733 - Holdem no limit (15/30) - 2023/02/21 13:38:53 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AAANAISKK (411)
+Seat 2: Oliveda (264)
+Seat 3: _SKR (225)
+*** ANTE/BLINDS ***
+Oliveda posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h 8s]
+*** PRE-FLOP *** 
+AAANAISKK folds
+Oliveda calls 15
+_SKR checks
+*** FLOP *** [Jh Kc 4h]
+Oliveda checks
+_SKR checks
+*** TURN *** [Jh Kc 4h][5c]
+Oliveda checks
+_SKR checks
+*** RIVER *** [Jh Kc 4h 5c][4d]
+Oliveda checks
+_SKR checks
+*** SHOW DOWN ***
+Oliveda shows [6h 2c] (One pair : 4)
+_SKR shows [9h 8s] (One pair : 4)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Jh Kc 4h 5c 4d]
+Seat 2: Oliveda (small blind) showed [6h 2c] and lost with One pair : 4
+Seat 3: _SKR (big blind) showed [9h 8s] and won 60 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730577878507847681-9-1676986779 - Holdem no limit (20/40) - 2023/02/21 13:39:39 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AAANAISKK (411)
+Seat 2: Oliveda (234)
+Seat 3: _SKR (255)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+AAANAISKK posts big blind 40
+Dealt to _SKR [4h Jd]
+*** PRE-FLOP *** 
+Oliveda raises 194 to 234 and is all-in
+_SKR folds
+AAANAISKK folds
+Oliveda collected 294 from pot
+*** SUMMARY ***
+Total pot 294 | No rake
+Seat 2: Oliveda (button) won 294
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730577878507847681-10-1676986788 - Holdem no limit (20/40) - 2023/02/21 13:39:48 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AAANAISKK (371)
+Seat 2: Oliveda (294)
+Seat 3: _SKR (235)
+*** ANTE/BLINDS ***
+AAANAISKK posts small blind 20
+Oliveda posts big blind 40
+Dealt to _SKR [2s Qs]
+*** PRE-FLOP *** 
+_SKR folds
+AAANAISKK folds
+Oliveda collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Oliveda (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730577878507847681-11-1676986797 - Holdem no limit (30/60) - 2023/02/21 13:39:57 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AAANAISKK (351)
+Seat 2: Oliveda (314)
+Seat 3: _SKR (235)
+*** ANTE/BLINDS ***
+Oliveda posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5d 4c]
+*** PRE-FLOP *** 
+AAANAISKK folds
+Oliveda calls 30
+_SKR checks
+*** FLOP *** [Th 6d Ac]
+Oliveda checks
+_SKR checks
+*** TURN *** [Th 6d Ac][Jd]
+Oliveda checks
+_SKR checks
+*** RIVER *** [Th 6d Ac Jd][8h]
+Oliveda bets 120
+_SKR folds
+Oliveda collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Th 6d Ac Jd 8h]
+Seat 2: Oliveda (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730577878507847681-12-1676986824 - Holdem no limit (30/60) - 2023/02/21 13:40:24 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AAANAISKK (351)
+Seat 2: Oliveda (374)
+Seat 3: _SKR (175)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+AAANAISKK posts big blind 60
+Dealt to _SKR [2c 8d]
+*** PRE-FLOP *** 
+Oliveda calls 60
+_SKR folds
+AAANAISKK raises 291 to 351 and is all-in
+Oliveda calls 291
+*** FLOP *** [Js 6d 7h]
+*** TURN *** [Js 6d 7h][2h]
+*** RIVER *** [Js 6d 7h 2h][Jc]
+*** SHOW DOWN ***
+AAANAISKK shows [Qd Ac] (One pair : Jacks)
+Oliveda shows [Qs Ad] (One pair : Jacks)
+Oliveda collected 366 from pot
+AAANAISKK collected 366 from pot
+*** SUMMARY ***
+Total pot 732 | No rake
+Board: [Js 6d 7h 2h Jc]
+Seat 1: AAANAISKK (big blind) showed [Qd Ac] and won 366 with One pair : Jacks
+Seat 2: Oliveda (button) showed [Qs Ad] and won 366 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730577878507847681-13-1676986844 - Holdem no limit (30/60) - 2023/02/21 13:40:44 UTC
+Table: 'Expresso Nitro(635762205)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AAANAISKK (366)
+Seat 2: Oliveda (389)
+Seat 3: _SKR (145)
+*** ANTE/BLINDS ***
+AAANAISKK posts small blind 30
+Oliveda posts big blind 60
+Dealt to _SKR [Ts Kh]
+*** PRE-FLOP *** 
+_SKR raises 85 to 145 and is all-in
+AAANAISKK folds
+Oliveda calls 85
+*** FLOP *** [8s Qc 8d]
+*** TURN *** [8s Qc 8d][Jh]
+*** RIVER *** [8s Qc 8d Jh][7d]
+*** SHOW DOWN ***
+_SKR shows [Ts Kh] (One pair : 8)
+Oliveda shows [Jd Kd] (Two pairs : Jacks and 8)
+Oliveda collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [8s Qc 8d Jh 7d]
+Seat 2: Oliveda (big blind) showed [Jd Kd] and won 320 with Two pairs : Jacks and 8
+Seat 3: _SKR (button) showed [Ts Kh] and lost with One pair : 8
+
+

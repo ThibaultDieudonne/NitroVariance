@@ -1,0 +1,131 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696870640161390593-1-1675101389 - Holdem no limit (10/20) - 2023/01/30 17:56:29 UTC
+Table: 'Expresso Nitro(627914127)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: LeGoat974 (300)
+Seat 3: WINA1905 (300)
+*** ANTE/BLINDS ***
+LeGoat974 posts small blind 10
+WINA1905 posts big blind 20
+Dealt to _SKR [9s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+LeGoat974 folds
+WINA1905 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: WINA1905 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696870640161390593-2-1675101395 - Holdem no limit (10/20) - 2023/01/30 17:56:35 UTC
+Table: 'Expresso Nitro(627914127)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: LeGoat974 (290)
+Seat 3: WINA1905 (310)
+*** ANTE/BLINDS ***
+WINA1905 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh Qh]
+*** PRE-FLOP *** 
+LeGoat974 folds
+WINA1905 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696870640161390593-3-1675101399 - Holdem no limit (10/20) - 2023/01/30 17:56:39 UTC
+Table: 'Expresso Nitro(627914127)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: LeGoat974 (290)
+Seat 3: WINA1905 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LeGoat974 posts big blind 20
+Dealt to _SKR [8h Qh]
+*** PRE-FLOP *** 
+WINA1905 folds
+_SKR raises 25 to 45
+LeGoat974 raises 25 to 70
+_SKR calls 25
+*** FLOP *** [6h 8c Ah]
+_SKR checks
+LeGoat974 bets 91
+_SKR raises 149 to 240 and is all-in
+LeGoat974 calls 129 and is all-in
+*** TURN *** [6h 8c Ah][4d]
+*** RIVER *** [6h 8c Ah 4d][Jd]
+*** SHOW DOWN ***
+_SKR shows [8h Qh] (One pair : 8)
+LeGoat974 shows [Ad 3d] (One pair : Aces)
+LeGoat974 collected 580 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6h 8c Ah 4d Jd]
+Seat 1: _SKR (small blind) showed [8h Qh] and won 20 with One pair : 8
+Seat 2: LeGoat974 (big blind) showed [Ad 3d] and won 580 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696870640161390593-4-1675101423 - Holdem no limit (10/20) - 2023/01/30 17:57:03 UTC
+Table: 'Expresso Nitro(627914127)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (20)
+Seat 2: LeGoat974 (580)
+Seat 3: WINA1905 (300)
+*** ANTE/BLINDS ***
+LeGoat974 posts small blind 10
+WINA1905 posts big blind 20
+Dealt to _SKR [4c 5d]
+*** PRE-FLOP *** 
+_SKR folds
+LeGoat974 calls 10
+WINA1905 checks
+*** FLOP *** [7s 8h 9h]
+LeGoat974 checks
+WINA1905 bets 20
+LeGoat974 calls 20
+*** TURN *** [7s 8h 9h][2d]
+LeGoat974 checks
+WINA1905 bets 52
+LeGoat974 calls 52
+*** RIVER *** [7s 8h 9h 2d][Ah]
+LeGoat974 checks
+WINA1905 bets 208 and is all-in
+LeGoat974 calls 208
+*** SHOW DOWN ***
+LeGoat974 shows [Qh Ac] (One pair : Aces)
+WINA1905 shows [Ts 6s] (Straight Ten high)
+WINA1905 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7s 8h 9h 2d Ah]
+Seat 2: LeGoat974 (small blind) showed [Qh Ac] and lost with One pair : Aces
+Seat 3: WINA1905 (big blind) showed [Ts 6s] and won 600 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696870640161390593-5-1675101455 - Holdem no limit (15/30) - 2023/01/30 17:57:35 UTC
+Table: 'Expresso Nitro(627914127)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (20)
+Seat 2: LeGoat974 (280)
+Seat 3: WINA1905 (600)
+*** ANTE/BLINDS ***
+WINA1905 posts small blind 15
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [2d 7d]
+*** PRE-FLOP *** 
+LeGoat974 raises 260 to 280 and is all-in
+WINA1905 folds
+*** FLOP *** [6h 3c 4d]
+*** TURN *** [6h 3c 4d][Ac]
+*** RIVER *** [6h 3c 4d Ac][2h]
+*** SHOW DOWN ***
+_SKR shows [2d 7d] (One pair : 2)
+LeGoat974 shows [Ad 7c] (One pair : Aces)
+LeGoat974 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [6h 3c 4d Ac 2h]
+Seat 1: _SKR (big blind) showed [2d 7d] and lost with One pair : 2
+Seat 2: LeGoat974 (button) showed [Ad 7c] and won 315 with One pair : Aces
+
+

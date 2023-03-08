@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691974579307413505-1-1674775915 - Holdem no limit (10/20) - 2023/01/26 23:31:55 UTC
+Table: 'Expresso Nitro(626774174)#0' 3-max (real money) Seat #2 is the button
+Seat 1: RISTADAV34 (300)
+Seat 2: _SKR (300)
+Seat 3: YBJN (300)
+*** ANTE/BLINDS ***
+YBJN posts small blind 10
+RISTADAV34 posts big blind 20
+Dealt to _SKR [6c 7c]
+*** PRE-FLOP *** 
+_SKR folds
+YBJN folds
+RISTADAV34 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: RISTADAV34 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691974579307413505-2-1674775923 - Holdem no limit (10/20) - 2023/01/26 23:32:03 UTC
+Table: 'Expresso Nitro(626774174)#0' 3-max (real money) Seat #3 is the button
+Seat 1: RISTADAV34 (310)
+Seat 2: _SKR (300)
+Seat 3: YBJN (290)
+*** ANTE/BLINDS ***
+RISTADAV34 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c 6c]
+*** PRE-FLOP *** 
+YBJN calls 20
+RISTADAV34 folds
+_SKR checks
+*** FLOP *** [Ah Ts Ac]
+_SKR checks
+YBJN checks
+*** TURN *** [Ah Ts Ac][8d]
+_SKR checks
+YBJN checks
+*** RIVER *** [Ah Ts Ac 8d][7h]
+_SKR bets 33
+YBJN calls 33
+*** SHOW DOWN ***
+_SKR shows [4c 6c] (One pair : Aces)
+YBJN shows [9h 6h] (Straight Ten high)
+YBJN collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | No rake
+Board: [Ah Ts Ac 8d 7h]
+Seat 2: _SKR (big blind) showed [4c 6c] and lost with One pair : Aces
+Seat 3: YBJN (button) showed [9h 6h] and won 116 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691974579307413505-3-1674775988 - Holdem no limit (15/30) - 2023/01/26 23:33:08 UTC
+Table: 'Expresso Nitro(626774174)#0' 3-max (real money) Seat #1 is the button
+Seat 1: RISTADAV34 (300)
+Seat 2: _SKR (247)
+Seat 3: YBJN (353)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+YBJN posts big blind 30
+Dealt to _SKR [8d 6h]
+*** PRE-FLOP *** 
+RISTADAV34 folds
+_SKR folds
+YBJN collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: YBJN (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691974579307413505-4-1674775998 - Holdem no limit (15/30) - 2023/01/26 23:33:18 UTC
+Table: 'Expresso Nitro(626774174)#0' 3-max (real money) Seat #2 is the button
+Seat 1: RISTADAV34 (300)
+Seat 2: _SKR (232)
+Seat 3: YBJN (368)
+*** ANTE/BLINDS ***
+YBJN posts small blind 15
+RISTADAV34 posts big blind 30
+Dealt to _SKR [Kc 7d]
+*** PRE-FLOP *** 
+_SKR raises 202 to 232 and is all-in
+YBJN calls 217
+RISTADAV34 folds
+*** FLOP *** [Qc Js 3d]
+*** TURN *** [Qc Js 3d][As]
+*** RIVER *** [Qc Js 3d As][Qd]
+*** SHOW DOWN ***
+_SKR shows [Kc 7d] (One pair : Queens)
+YBJN shows [Jd Tc] (Two pairs : Queens and Jacks)
+YBJN collected 494 from pot
+*** SUMMARY ***
+Total pot 494 | No rake
+Board: [Qc Js 3d As Qd]
+Seat 2: _SKR (button) showed [Kc 7d] and lost with One pair : Queens
+Seat 3: YBJN (small blind) showed [Jd Tc] and won 494 with Two pairs : Queens and Jacks
+
+

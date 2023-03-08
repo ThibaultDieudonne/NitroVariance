@@ -1,0 +1,138 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675075609574506497-1-1673742994 - Holdem no limit (10/20) - 2023/01/15 00:36:34 UTC
+Table: 'Expresso Nitro(622839576)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zitoun78 (300)
+Seat 2: _SKR (300)
+Seat 3: Tiloo35310 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Tiloo35310 posts big blind 20
+Dealt to _SKR [9h Jh]
+*** PRE-FLOP *** 
+zitoun78 calls 20
+_SKR raises 280 to 300 and is all-in
+Tiloo35310 folds
+zitoun78 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675075609574506497-2-1673743006 - Holdem no limit (10/20) - 2023/01/15 00:36:46 UTC
+Table: 'Expresso Nitro(622839576)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zitoun78 (280)
+Seat 2: _SKR (340)
+Seat 3: Tiloo35310 (280)
+*** ANTE/BLINDS ***
+Tiloo35310 posts small blind 10
+zitoun78 posts big blind 20
+Dealt to _SKR [Qd Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Tiloo35310 calls 30
+zitoun78 calls 20
+*** FLOP *** [Ad Kd 4s]
+Tiloo35310 checks
+zitoun78 checks
+_SKR bets 42
+Tiloo35310 folds
+zitoun78 folds
+_SKR collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [Ad Kd 4s]
+Seat 2: _SKR (button) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675075609574506497-3-1673743036 - Holdem no limit (10/20) - 2023/01/15 00:37:16 UTC
+Table: 'Expresso Nitro(622839576)#0' 3-max (real money) Seat #3 is the button
+Seat 1: zitoun78 (240)
+Seat 2: _SKR (420)
+Seat 3: Tiloo35310 (240)
+*** ANTE/BLINDS ***
+zitoun78 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd Qc]
+*** PRE-FLOP *** 
+Tiloo35310 folds
+zitoun78 calls 10
+_SKR raises 30 to 50
+zitoun78 calls 30
+*** FLOP *** [4h 6s 8h]
+zitoun78 checks
+_SKR bets 50
+zitoun78 calls 50
+*** TURN *** [4h 6s 8h][Js]
+zitoun78 checks
+_SKR bets 200
+zitoun78 calls 140 and is all-in
+*** RIVER *** [4h 6s 8h Js][7c]
+*** SHOW DOWN ***
+zitoun78 shows [5h Ks] (Straight 8 high)
+_SKR shows [Jd Qc] (One pair : Jacks)
+_SKR collected 60 from side pot 1
+zitoun78 collected 480 from main pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [4h 6s 8h Js 7c]
+Seat 1: zitoun78 (small blind) showed [5h Ks] and won 480 with Straight 8 high
+Seat 2: _SKR (big blind) showed [Jd Qc] and won 60 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675075609574506497-4-1673743079 - Holdem no limit (15/30) - 2023/01/15 00:37:59 UTC
+Table: 'Expresso Nitro(622839576)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zitoun78 (480)
+Seat 2: _SKR (180)
+Seat 3: Tiloo35310 (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Tiloo35310 posts big blind 30
+Dealt to _SKR [Js 8d]
+*** PRE-FLOP *** 
+zitoun78 calls 30
+_SKR folds
+Tiloo35310 raises 75 to 105
+zitoun78 calls 75
+*** FLOP *** [9h 8c 5h]
+Tiloo35310 bets 135 and is all-in
+zitoun78 calls 135
+*** TURN *** [9h 8c 5h][Qs]
+*** RIVER *** [9h 8c 5h Qs][7d]
+*** SHOW DOWN ***
+zitoun78 shows [8h Th] (One pair : 8)
+Tiloo35310 shows [8s Ac] (One pair : 8)
+Tiloo35310 collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [9h 8c 5h Qs 7d]
+Seat 1: zitoun78 (button) showed [8h Th] and lost with One pair : 8
+Seat 3: Tiloo35310 (big blind) showed [8s Ac] and won 495 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675075609574506497-5-1673743119 - Holdem no limit (20/40) - 2023/01/15 00:38:39 UTC
+Table: 'Expresso Nitro(622839576)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zitoun78 (240)
+Seat 2: _SKR (165)
+Seat 3: Tiloo35310 (495)
+*** ANTE/BLINDS ***
+Tiloo35310 posts small blind 20
+zitoun78 posts big blind 40
+Dealt to _SKR [Ks 6d]
+*** PRE-FLOP *** 
+_SKR raises 125 to 165 and is all-in
+Tiloo35310 calls 145
+zitoun78 folds
+*** FLOP *** [4h 9c 5d]
+*** TURN *** [4h 9c 5d][Qd]
+*** RIVER *** [4h 9c 5d Qd][7c]
+*** SHOW DOWN ***
+_SKR shows [Ks 6d] (High card : King)
+Tiloo35310 shows [6h Qh] (One pair : Queens)
+Tiloo35310 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Board: [4h 9c 5d Qd 7c]
+Seat 2: _SKR (button) showed [Ks 6d] and lost with High card : King
+Seat 3: Tiloo35310 (small blind) showed [6h Qh] and won 370 with One pair : Queens
+
+

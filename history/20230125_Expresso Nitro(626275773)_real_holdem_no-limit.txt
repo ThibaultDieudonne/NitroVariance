@@ -1,0 +1,331 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689833963312119809-1-1674654698 - Holdem no limit (10/20) - 2023/01/25 13:51:38 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Authier25300 (300)
+Seat 2: Petitenric (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Authier25300 posts small blind 10
+Petitenric posts big blind 20
+Dealt to _SKR [Js 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Authier25300 calls 10
+Petitenric checks
+*** FLOP *** [3c 9d Ad]
+Authier25300 checks
+Petitenric checks
+*** TURN *** [3c 9d Ad][7s]
+Authier25300 checks
+Petitenric checks
+*** RIVER *** [3c 9d Ad 7s][5s]
+Authier25300 checks
+Petitenric checks
+*** SHOW DOWN ***
+Authier25300 shows [4c Jc] (High card : Ace)
+Petitenric shows [Td 3h] (One pair : 3)
+Petitenric collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [3c 9d Ad 7s 5s]
+Seat 1: Authier25300 (small blind) showed [4c Jc] and lost with High card : Ace
+Seat 2: Petitenric (big blind) showed [Td 3h] and won 40 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689833963312119809-2-1674654731 - Holdem no limit (10/20) - 2023/01/25 13:52:11 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Authier25300 (280)
+Seat 2: Petitenric (320)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Petitenric posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d Ks]
+*** PRE-FLOP *** 
+Authier25300 calls 20
+Petitenric calls 10
+_SKR checks
+*** FLOP *** [Qd 5h Tc]
+Petitenric checks
+_SKR checks
+Authier25300 checks
+*** TURN *** [Qd 5h Tc][7h]
+Petitenric bets 30
+_SKR folds
+Authier25300 raises 30 to 60
+Petitenric calls 30
+*** RIVER *** [Qd 5h Tc 7h][5s]
+Petitenric checks
+Authier25300 bets 200 and is all-in
+Petitenric folds
+Authier25300 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Qd 5h Tc 7h 5s]
+Seat 1: Authier25300 (button) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689833963312119809-3-1674654776 - Holdem no limit (15/30) - 2023/01/25 13:52:56 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Authier25300 (380)
+Seat 2: Petitenric (240)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Authier25300 posts big blind 30
+Dealt to _SKR [Ac Tc]
+*** PRE-FLOP *** 
+Petitenric folds
+_SKR raises 250 to 280 and is all-in
+Authier25300 calls 250
+*** FLOP *** [5c Ad 2d]
+*** TURN *** [5c Ad 2d][Js]
+*** RIVER *** [5c Ad 2d Js][Ah]
+*** SHOW DOWN ***
+Authier25300 shows [Jh Kc] (Two pairs : Aces and Jacks)
+_SKR shows [Ac Tc] (Trips of Aces)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [5c Ad 2d Js Ah]
+Seat 1: Authier25300 (big blind) showed [Jh Kc] and lost with Two pairs : Aces and Jacks
+Seat 3: _SKR (small blind) showed [Ac Tc] and won 560 with Trips of Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689833963312119809-4-1674654793 - Holdem no limit (15/30) - 2023/01/25 13:53:13 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Authier25300 (100)
+Seat 2: Petitenric (240)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+Authier25300 posts small blind 15
+Petitenric posts big blind 30
+Dealt to _SKR [2s 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Authier25300 raises 30 to 60
+Petitenric raises 135 to 195
+Authier25300 calls 40 and is all-in
+*** FLOP *** [8c 7s 9h]
+*** TURN *** [8c 7s 9h][Kh]
+*** RIVER *** [8c 7s 9h Kh][Th]
+*** SHOW DOWN ***
+Authier25300 shows [8h 5d] (One pair : 8)
+Petitenric shows [Qh Ac] (High card : Ace)
+Petitenric collected 95 from side pot 1
+Authier25300 collected 200 from main pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Board: [8c 7s 9h Kh Th]
+Seat 1: Authier25300 (small blind) showed [8h 5d] and won 200 with One pair : 8
+Seat 2: Petitenric (big blind) showed [Qh Ac] and won 95 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689833963312119809-5-1674654819 - Holdem no limit (20/40) - 2023/01/25 13:53:39 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Authier25300 (200)
+Seat 2: Petitenric (140)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+Petitenric posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Tc Jd]
+*** PRE-FLOP *** 
+Authier25300 folds
+Petitenric raises 100 to 140 and is all-in
+_SKR calls 100
+*** FLOP *** [Qc 2c 7d]
+*** TURN *** [Qc 2c 7d][9s]
+*** RIVER *** [Qc 2c 7d 9s][2h]
+*** SHOW DOWN ***
+_SKR shows [Tc Jd] (One pair : 2)
+Petitenric shows [Ad Kd] (One pair : 2)
+Petitenric collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Qc 2c 7d 9s 2h]
+Seat 2: Petitenric (small blind) showed [Ad Kd] and won 280 with One pair : 2
+Seat 3: _SKR (big blind) showed [Tc Jd] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689833963312119809-6-1674654843 - Holdem no limit (20/40) - 2023/01/25 13:54:03 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Authier25300 (200)
+Seat 2: Petitenric (280)
+Seat 3: _SKR (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Authier25300 posts big blind 40
+Dealt to _SKR [9s 4h]
+*** PRE-FLOP *** 
+Petitenric folds
+_SKR folds
+Authier25300 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Authier25300 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689833963312119809-7-1674654850 - Holdem no limit (20/40) - 2023/01/25 13:54:10 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Authier25300 (220)
+Seat 2: Petitenric (280)
+Seat 3: _SKR (400)
+*** ANTE/BLINDS ***
+Authier25300 posts small blind 20
+Petitenric posts big blind 40
+Dealt to _SKR [Ks 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Authier25300 calls 20
+Petitenric checks
+*** FLOP *** [Qc 4h Tc]
+Authier25300 checks
+Petitenric checks
+*** TURN *** [Qc 4h Tc][7h]
+Authier25300 bets 40
+Petitenric folds
+Authier25300 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qc 4h Tc 7h]
+Seat 1: Authier25300 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689833963312119809-8-1674654879 - Holdem no limit (30/60) - 2023/01/25 13:54:39 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Authier25300 (260)
+Seat 2: Petitenric (240)
+Seat 3: _SKR (400)
+*** ANTE/BLINDS ***
+Petitenric posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c Js]
+*** PRE-FLOP *** 
+Authier25300 calls 60
+Petitenric calls 30
+_SKR checks
+*** FLOP *** [4h Qd 8h]
+Petitenric bets 180 and is all-in
+_SKR folds
+Authier25300 calls 180
+*** TURN *** [4h Qd 8h][Ac]
+*** RIVER *** [4h Qd 8h Ac][2h]
+*** SHOW DOWN ***
+Authier25300 shows [9s Kh] (High card : Ace)
+Petitenric shows [5h 9h] (Flush 9 high)
+Petitenric collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [4h Qd 8h Ac 2h]
+Seat 1: Authier25300 (button) showed [9s Kh] and lost with High card : Ace
+Seat 2: Petitenric (small blind) showed [5h 9h] and won 540 with Flush 9 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689833963312119809-9-1674654902 - Holdem no limit (30/60) - 2023/01/25 13:55:02 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Authier25300 (20)
+Seat 2: Petitenric (540)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Authier25300 posts big blind 20 and is all-in
+Dealt to _SKR [3h Qh]
+*** PRE-FLOP *** 
+Petitenric folds
+*** FLOP *** [Qs Ks 9c]
+*** TURN *** [Qs Ks 9c][6d]
+*** RIVER *** [Qs Ks 9c 6d][2d]
+*** SHOW DOWN ***
+Authier25300 shows [8d 7h] (High card : King)
+_SKR shows [3h Qh] (One pair : Queens)
+_SKR collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Qs Ks 9c 6d 2d]
+Seat 1: Authier25300 (big blind) showed [8d 7h] and lost with High card : King
+Seat 3: _SKR (small blind) showed [3h Qh] and won 50 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689833963312119809-10-1674654915 - Holdem no limit (30/60) - 2023/01/25 13:55:15 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Petitenric (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+Petitenric posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ts Js]
+*** PRE-FLOP *** 
+Petitenric folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689833963312119809-11-1674654918 - Holdem no limit (30/60) - 2023/01/25 13:55:18 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Petitenric (510)
+Seat 3: _SKR (390)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Petitenric posts big blind 60
+Dealt to _SKR [7h Th]
+*** PRE-FLOP *** 
+_SKR folds
+Petitenric collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Petitenric (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689833963312119809-12-1674654934 - Holdem no limit (30/60) - 2023/01/25 13:55:34 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Petitenric (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+Petitenric posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qd 9c]
+*** PRE-FLOP *** 
+Petitenric raises 480 to 540 and is all-in
+_SKR calls 300 and is all-in
+*** FLOP *** [5c 5h Tc]
+*** TURN *** [5c 5h Tc][6h]
+*** RIVER *** [5c 5h Tc 6h][9s]
+*** SHOW DOWN ***
+Petitenric shows [Jc Qs] (One pair : 5)
+_SKR shows [Qd 9c] (Two pairs : 9 and 5)
+_SKR collected 720 from main pot
+Petitenric collected 180 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c 5h Tc 6h 9s]
+Seat 2: Petitenric (small blind) (button) showed [Jc Qs] and won 180 with One pair : 5
+Seat 3: _SKR (big blind) showed [Qd 9c] and won 720 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2689833963312119809-13-1674654952 - Holdem no limit (40/80) - 2023/01/25 13:55:52 UTC
+Table: 'Expresso Nitro(626275773)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Petitenric (180)
+Seat 3: _SKR (720)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Petitenric posts big blind 80
+Dealt to _SKR [4c 4s]
+*** PRE-FLOP *** 
+_SKR raises 120 to 200
+Petitenric calls 100 and is all-in
+*** FLOP *** [4d Ks 5d]
+*** TURN *** [4d Ks 5d][9c]
+*** RIVER *** [4d Ks 5d 9c][Kh]
+*** SHOW DOWN ***
+Petitenric shows [Jc Ah] (One pair : Kings)
+_SKR shows [4c 4s] (Full of 4 and Kings)
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [4d Ks 5d 9c Kh]
+Seat 2: Petitenric (big blind) showed [Jc Ah] and lost with One pair : Kings
+Seat 3: _SKR (small blind) (button) showed [4c 4s] and won 380 with Full of 4 and Kings
+
+

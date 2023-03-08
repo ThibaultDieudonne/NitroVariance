@@ -1,0 +1,127 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717623015897563137-1-1676229266 - Holdem no limit (10/20) - 2023/02/12 19:14:26 UTC
+Table: 'Expresso Nitro(632745916)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: rbnmth (300)
+Seat 3: Loislastar (300)
+*** ANTE/BLINDS ***
+rbnmth posts small blind 10
+Loislastar posts big blind 20
+Dealt to _SKR [Ts 2s]
+*** PRE-FLOP *** 
+_SKR folds
+rbnmth raises 40 to 60
+Loislastar calls 40
+*** FLOP *** [3s Jd 6d]
+rbnmth checks
+Loislastar checks
+*** TURN *** [3s Jd 6d][Qc]
+rbnmth bets 78
+Loislastar folds
+rbnmth collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [3s Jd 6d Qc]
+Seat 2: rbnmth (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717623015897563137-2-1676229282 - Holdem no limit (10/20) - 2023/02/12 19:14:42 UTC
+Table: 'Expresso Nitro(632745916)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: rbnmth (360)
+Seat 3: Loislastar (240)
+*** ANTE/BLINDS ***
+Loislastar posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th Qd]
+*** PRE-FLOP *** 
+rbnmth folds
+Loislastar calls 10
+_SKR raises 280 to 300 and is all-in
+Loislastar calls 220 and is all-in
+*** FLOP *** [4c 7s 6h]
+*** TURN *** [4c 7s 6h][3c]
+*** RIVER *** [4c 7s 6h 3c][2s]
+*** SHOW DOWN ***
+_SKR shows [Th Qd] (High card : Queen)
+Loislastar shows [As Qs] (High card : Ace)
+Loislastar collected 480 from main pot
+_SKR collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [4c 7s 6h 3c 2s]
+Seat 1: _SKR (big blind) showed [Th Qd] and won 60 with High card : Queen
+Seat 3: Loislastar (small blind) showed [As Qs] and won 480 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717623015897563137-3-1676229300 - Holdem no limit (10/20) - 2023/02/12 19:15:00 UTC
+Table: 'Expresso Nitro(632745916)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (60)
+Seat 2: rbnmth (360)
+Seat 3: Loislastar (480)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+rbnmth posts big blind 20
+Dealt to _SKR [5s 4c]
+*** PRE-FLOP *** 
+Loislastar folds
+_SKR folds
+rbnmth collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: rbnmth (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717623015897563137-4-1676229307 - Holdem no limit (10/20) - 2023/02/12 19:15:07 UTC
+Table: 'Expresso Nitro(632745916)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (50)
+Seat 2: rbnmth (370)
+Seat 3: Loislastar (480)
+*** ANTE/BLINDS ***
+rbnmth posts small blind 10
+Loislastar posts big blind 20
+Dealt to _SKR [3c As]
+*** PRE-FLOP *** 
+_SKR raises 30 to 50 and is all-in
+rbnmth folds
+Loislastar calls 30
+*** FLOP *** [Jd 4c Ad]
+*** TURN *** [Jd 4c Ad][2c]
+*** RIVER *** [Jd 4c Ad 2c][Jh]
+*** SHOW DOWN ***
+Loislastar shows [Qd 8s] (One pair : Jacks)
+_SKR shows [3c As] (Two pairs : Aces and Jacks)
+_SKR collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [Jd 4c Ad 2c Jh]
+Seat 1: _SKR (button) showed [3c As] and won 110 with Two pairs : Aces and Jacks
+Seat 3: Loislastar (big blind) showed [Qd 8s] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717623015897563137-5-1676229323 - Holdem no limit (15/30) - 2023/02/12 19:15:23 UTC
+Table: 'Expresso Nitro(632745916)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (110)
+Seat 2: rbnmth (360)
+Seat 3: Loislastar (430)
+*** ANTE/BLINDS ***
+Loislastar posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2s Qc]
+*** PRE-FLOP *** 
+rbnmth raises 330 to 360 and is all-in
+Loislastar folds
+_SKR calls 80 and is all-in
+*** FLOP *** [7d Kd 7s]
+*** TURN *** [7d Kd 7s][6h]
+*** RIVER *** [7d Kd 7s 6h][9s]
+*** SHOW DOWN ***
+_SKR shows [2s Qc] (One pair : 7)
+rbnmth shows [Ah 5c] (One pair : 7)
+rbnmth collected 485 from pot
+*** SUMMARY ***
+Total pot 485 | No rake
+Board: [7d Kd 7s 6h 9s]
+Seat 1: _SKR (big blind) showed [2s Qc] and lost with One pair : 7
+Seat 2: rbnmth (button) showed [Ah 5c] and won 485 with One pair : 7
+
+

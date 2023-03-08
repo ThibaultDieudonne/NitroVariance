@@ -1,0 +1,59 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694497271298392065-1-1674942807 - Holdem no limit (10/20) - 2023/01/28 21:53:27 UTC
+Table: 'Expresso Nitro(627361534)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samich37 (300)
+Seat 2: Ricow01 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Samich37 posts small blind 10
+Ricow01 posts big blind 20
+Dealt to _SKR [4h 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Samich37 calls 10
+Ricow01 checks
+*** FLOP *** [Qh Ah Jh]
+Samich37 checks
+Ricow01 bets 30
+Samich37 calls 30
+*** TURN *** [Qh Ah Jh][7c]
+Samich37 checks
+Ricow01 checks
+*** RIVER *** [Qh Ah Jh 7c][6s]
+Samich37 checks
+Ricow01 bets 250 and is all-in
+Samich37 folds
+Ricow01 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [Qh Ah Jh 7c 6s]
+Seat 2: Ricow01 (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694497271298392065-2-1674942841 - Holdem no limit (10/20) - 2023/01/28 21:54:01 UTC
+Table: 'Expresso Nitro(627361534)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samich37 (250)
+Seat 2: Ricow01 (350)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Ricow01 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Kc]
+*** PRE-FLOP *** 
+Samich37 folds
+Ricow01 calls 10
+_SKR raises 280 to 300 and is all-in
+Ricow01 calls 280
+*** FLOP *** [Ad Jh 9s]
+*** TURN *** [Ad Jh 9s][Js]
+*** RIVER *** [Ad Jh 9s Js][2c]
+*** SHOW DOWN ***
+_SKR shows [8s Kc] (One pair : Jacks)
+Ricow01 shows [2d 9d] (Two pairs : Jacks and 9)
+Ricow01 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ad Jh 9s Js 2c]
+Seat 2: Ricow01 (small blind) showed [2d 9d] and won 600 with Two pairs : Jacks and 9
+Seat 3: _SKR (big blind) showed [8s Kc] and lost with One pair : Jacks
+
+

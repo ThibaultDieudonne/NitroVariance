@@ -1,0 +1,64 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698176932989632513-1-1675184214 - Holdem no limit (10/20) - 2023/01/31 16:56:54 UTC
+Table: 'Expresso Nitro(628218272)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Thesebb78 (300)
+Seat 2: _SKR (300)
+Seat 3: Norikyez (300)
+*** ANTE/BLINDS ***
+Thesebb78 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h Qh]
+*** PRE-FLOP *** 
+Norikyez folds
+Thesebb78 raises 280 to 300 and is all-in
+_SKR folds
+Thesebb78 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Thesebb78 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698176932989632513-2-1675184221 - Holdem no limit (10/20) - 2023/01/31 16:57:01 UTC
+Table: 'Expresso Nitro(628218272)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Thesebb78 (320)
+Seat 2: _SKR (280)
+Seat 3: Norikyez (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Norikyez posts big blind 20
+Dealt to _SKR [2c 5c]
+*** PRE-FLOP *** 
+Thesebb78 folds
+_SKR folds
+Norikyez collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Norikyez (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698176932989632513-3-1675184230 - Holdem no limit (10/20) - 2023/01/31 16:57:10 UTC
+Table: 'Expresso Nitro(628218272)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Thesebb78 (320)
+Seat 2: _SKR (270)
+Seat 3: Norikyez (310)
+*** ANTE/BLINDS ***
+Norikyez posts small blind 10
+Thesebb78 posts big blind 20
+Dealt to _SKR [6s Ah]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Norikyez folds
+Thesebb78 calls 250
+*** FLOP *** [Qh 4d 4s]
+*** TURN *** [Qh 4d 4s][6d]
+*** RIVER *** [Qh 4d 4s 6d][5c]
+*** SHOW DOWN ***
+_SKR shows [6s Ah] (Two pairs : 6 and 4)
+Thesebb78 shows [Kd Ks] (Two pairs : Kings and 4)
+Thesebb78 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Qh 4d 4s 6d 5c]
+Seat 1: Thesebb78 (big blind) showed [Kd Ks] and won 550 with Two pairs : Kings and 4
+Seat 2: _SKR (button) showed [6s Ah] and lost with Two pairs : 6 and 4
+
+

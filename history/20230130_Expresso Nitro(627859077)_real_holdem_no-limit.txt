@@ -1,0 +1,276 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696634202211745793-1-1675090867 - Holdem no limit (10/20) - 2023/01/30 15:01:07 UTC
+Table: 'Expresso Nitro(627859077)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Django-974 (300)
+Seat 3: NonolFC (300)
+*** ANTE/BLINDS ***
+NonolFC posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h Th]
+*** PRE-FLOP *** 
+Django-974 calls 20
+NonolFC folds
+_SKR checks
+*** FLOP *** [9h 3d 4c]
+_SKR checks
+Django-974 checks
+*** TURN *** [9h 3d 4c][3c]
+_SKR checks
+Django-974 bets 20
+_SKR calls 20
+*** RIVER *** [9h 3d 4c 3c][5s]
+_SKR checks
+Django-974 checks
+*** SHOW DOWN ***
+_SKR shows [4h Th] (Two pairs : 4 and 3)
+Django-974 shows [Tc 9d] (Two pairs : 9 and 3)
+Django-974 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9h 3d 4c 3c 5s]
+Seat 1: _SKR (big blind) showed [4h Th] and lost with Two pairs : 4 and 3
+Seat 2: Django-974 (button) showed [Tc 9d] and won 90 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696634202211745793-2-1675090893 - Holdem no limit (10/20) - 2023/01/30 15:01:33 UTC
+Table: 'Expresso Nitro(627859077)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (260)
+Seat 2: Django-974 (350)
+Seat 3: NonolFC (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Django-974 posts big blind 20
+Dealt to _SKR [9s 6c]
+*** PRE-FLOP *** 
+NonolFC calls 20
+_SKR folds
+Django-974 checks
+*** FLOP *** [4h 5d Jh]
+Django-974 checks
+NonolFC checks
+*** TURN *** [4h 5d Jh][5c]
+Django-974 checks
+NonolFC checks
+*** RIVER *** [4h 5d Jh 5c][5s]
+Django-974 bets 20
+NonolFC raises 90 to 110
+Django-974 folds
+NonolFC collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4h 5d Jh 5c 5s]
+Seat 3: NonolFC (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696634202211745793-3-1675090909 - Holdem no limit (10/20) - 2023/01/30 15:01:49 UTC
+Table: 'Expresso Nitro(627859077)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (250)
+Seat 2: Django-974 (310)
+Seat 3: NonolFC (340)
+*** ANTE/BLINDS ***
+Django-974 posts small blind 10
+NonolFC posts big blind 20
+Dealt to _SKR [Kh 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Django-974 calls 10
+NonolFC checks
+*** FLOP *** [Kc 4c 5c]
+Django-974 checks
+NonolFC checks
+*** TURN *** [Kc 4c 5c][5h]
+Django-974 checks
+NonolFC bets 20
+Django-974 calls 20
+*** RIVER *** [Kc 4c 5c 5h][2s]
+Django-974 checks
+NonolFC checks
+*** SHOW DOWN ***
+NonolFC shows [9s Td] (One pair : 5)
+Django-974 shows [2d 3s] (Two pairs : 5 and 2)
+Django-974 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kc 4c 5c 5h 2s]
+Seat 2: Django-974 (small blind) showed [2d 3s] and won 80 with Two pairs : 5 and 2
+Seat 3: NonolFC (big blind) showed [9s Td] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696634202211745793-4-1675090927 - Holdem no limit (15/30) - 2023/01/30 15:02:07 UTC
+Table: 'Expresso Nitro(627859077)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: Django-974 (350)
+Seat 3: NonolFC (300)
+*** ANTE/BLINDS ***
+NonolFC posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd 4s]
+*** PRE-FLOP *** 
+Django-974 folds
+NonolFC folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696634202211745793-5-1675090932 - Holdem no limit (15/30) - 2023/01/30 15:02:12 UTC
+Table: 'Expresso Nitro(627859077)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (265)
+Seat 2: Django-974 (350)
+Seat 3: NonolFC (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Django-974 posts big blind 30
+Dealt to _SKR [3s 9h]
+*** PRE-FLOP *** 
+NonolFC folds
+_SKR folds
+Django-974 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Django-974 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696634202211745793-6-1675090937 - Holdem no limit (15/30) - 2023/01/30 15:02:17 UTC
+Table: 'Expresso Nitro(627859077)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (250)
+Seat 2: Django-974 (365)
+Seat 3: NonolFC (285)
+*** ANTE/BLINDS ***
+Django-974 posts small blind 15
+NonolFC posts big blind 30
+Dealt to _SKR [6h Kc]
+*** PRE-FLOP *** 
+_SKR folds
+Django-974 calls 15
+NonolFC checks
+*** FLOP *** [7h Qh Ac]
+Django-974 checks
+NonolFC checks
+*** TURN *** [7h Qh Ac][3c]
+Django-974 checks
+NonolFC bets 30
+Django-974 calls 30
+*** RIVER *** [7h Qh Ac 3c][9d]
+Django-974 bets 78
+NonolFC raises 147 to 225 and is all-in
+Django-974 calls 147
+*** SHOW DOWN ***
+Django-974 shows [3s 7d] (Two pairs : 7 and 3)
+NonolFC shows [Qd 7s] (Two pairs : Queens and 7)
+NonolFC collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [7h Qh Ac 3c 9d]
+Seat 2: Django-974 (small blind) showed [3s 7d] and lost with Two pairs : 7 and 3
+Seat 3: NonolFC (big blind) showed [Qd 7s] and won 570 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696634202211745793-7-1675090969 - Holdem no limit (15/30) - 2023/01/30 15:02:49 UTC
+Table: 'Expresso Nitro(627859077)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: Django-974 (80)
+Seat 3: NonolFC (570)
+*** ANTE/BLINDS ***
+NonolFC posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7d 3s]
+*** PRE-FLOP *** 
+Django-974 raises 50 to 80 and is all-in
+NonolFC folds
+_SKR folds
+Django-974 collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | No rake
+Seat 2: Django-974 (button) won 125
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696634202211745793-8-1675090975 - Holdem no limit (15/30) - 2023/01/30 15:02:55 UTC
+Table: 'Expresso Nitro(627859077)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (220)
+Seat 2: Django-974 (125)
+Seat 3: NonolFC (555)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Django-974 posts big blind 30
+Dealt to _SKR [Ac 4d]
+*** PRE-FLOP *** 
+NonolFC folds
+_SKR raises 190 to 220 and is all-in
+Django-974 calls 95 and is all-in
+*** FLOP *** [7h 9d 2s]
+*** TURN *** [7h 9d 2s][Qh]
+*** RIVER *** [7h 9d 2s Qh][6c]
+*** SHOW DOWN ***
+_SKR shows [Ac 4d] (High card : Ace)
+Django-974 shows [As Jd] (High card : Ace)
+Django-974 collected 250 from main pot
+_SKR collected 95 from side pot 1
+*** SUMMARY ***
+Total pot 345 | No rake
+Board: [7h 9d 2s Qh 6c]
+Seat 1: _SKR (small blind) showed [Ac 4d] and won 95 with High card : Ace
+Seat 2: Django-974 (big blind) showed [As Jd] and won 250 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696634202211745793-9-1675090988 - Holdem no limit (20/40) - 2023/01/30 15:03:08 UTC
+Table: 'Expresso Nitro(627859077)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (95)
+Seat 2: Django-974 (250)
+Seat 3: NonolFC (555)
+*** ANTE/BLINDS ***
+Django-974 posts small blind 20
+NonolFC posts big blind 40
+Dealt to _SKR [6s Ad]
+*** PRE-FLOP *** 
+_SKR raises 55 to 95 and is all-in
+Django-974 calls 75
+NonolFC calls 55
+*** FLOP *** [8c 6h Js]
+Django-974 bets 155 and is all-in
+NonolFC calls 155
+*** TURN *** [8c 6h Js][7h]
+*** RIVER *** [8c 6h Js 7h][5h]
+*** SHOW DOWN ***
+NonolFC shows [3d 3c] (One pair : 3)
+_SKR shows [6s Ad] (One pair : 6)
+Django-974 shows [6c Qd] (One pair : 6)
+Django-974 collected 310 from side pot 1
+_SKR collected 285 from main pot
+*** SUMMARY ***
+Total pot 595 | No rake
+Board: [8c 6h Js 7h 5h]
+Seat 1: _SKR (button) showed [6s Ad] and won 285 with One pair : 6
+Seat 2: Django-974 (small blind) showed [6c Qd] and won 310 with One pair : 6
+Seat 3: NonolFC (big blind) showed [3d 3c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696634202211745793-10-1675091007 - Holdem no limit (20/40) - 2023/01/30 15:03:27 UTC
+Table: 'Expresso Nitro(627859077)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (285)
+Seat 2: Django-974 (310)
+Seat 3: NonolFC (305)
+*** ANTE/BLINDS ***
+NonolFC posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kd Js]
+*** PRE-FLOP *** 
+Django-974 calls 40
+NonolFC folds
+_SKR raises 245 to 285 and is all-in
+Django-974 calls 245
+*** FLOP *** [3h Qs Th]
+*** TURN *** [3h Qs Th][6d]
+*** RIVER *** [3h Qs Th 6d][7d]
+*** SHOW DOWN ***
+_SKR shows [Kd Js] (High card : King)
+Django-974 shows [Ac Ah] (One pair : Aces)
+Django-974 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [3h Qs Th 6d 7d]
+Seat 1: _SKR (big blind) showed [Kd Js] and lost with High card : King
+Seat 2: Django-974 (button) showed [Ac Ah] and won 590 with One pair : Aces
+
+

@@ -1,0 +1,64 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680045732844535809-1-1674049456 - Holdem no limit (10/20) - 2023/01/18 13:44:16 UTC
+Table: 'Expresso Nitro(623996773)#0' 3-max (real money) Seat #2 is the button
+Seat 1: OCD DOTT (300)
+Seat 2: Mouelleux (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+OCD DOTT posts big blind 20
+Dealt to _SKR [5c 2d]
+*** PRE-FLOP *** 
+Mouelleux folds
+_SKR folds
+OCD DOTT collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: OCD DOTT (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680045732844535809-2-1674049464 - Holdem no limit (10/20) - 2023/01/18 13:44:24 UTC
+Table: 'Expresso Nitro(623996773)#0' 3-max (real money) Seat #3 is the button
+Seat 1: OCD DOTT (310)
+Seat 2: Mouelleux (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+OCD DOTT posts small blind 10
+Mouelleux posts big blind 20
+Dealt to _SKR [3d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+OCD DOTT folds
+Mouelleux collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Mouelleux (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680045732844535809-3-1674049474 - Holdem no limit (10/20) - 2023/01/18 13:44:34 UTC
+Table: 'Expresso Nitro(623996773)#0' 3-max (real money) Seat #1 is the button
+Seat 1: OCD DOTT (300)
+Seat 2: Mouelleux (310)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Mouelleux posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc Kh]
+*** PRE-FLOP *** 
+OCD DOTT folds
+Mouelleux calls 10
+_SKR raises 270 to 290 and is all-in
+Mouelleux calls 270
+*** FLOP *** [5d Jc Jd]
+*** TURN *** [5d Jc Jd][9h]
+*** RIVER *** [5d Jc Jd 9h][5h]
+*** SHOW DOWN ***
+_SKR shows [Qc Kh] (Two pairs : Jacks and 5)
+Mouelleux shows [3s Ad] (Two pairs : Jacks and 5)
+Mouelleux collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5d Jc Jd 9h 5h]
+Seat 2: Mouelleux (small blind) showed [3s Ad] and won 580 with Two pairs : Jacks and 5
+Seat 3: _SKR (big blind) showed [Qc Kh] and lost with Two pairs : Jacks and 5
+
+

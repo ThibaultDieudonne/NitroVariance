@@ -1,0 +1,203 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717561954347515905-1-1676227036 - Holdem no limit (10/20) - 2023/02/12 18:37:16 UTC
+Table: 'Expresso Nitro(632731699)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Nathanrdw89 (300)
+Seat 3: Izy_River (300)
+*** ANTE/BLINDS ***
+Nathanrdw89 posts small blind 10
+Izy_River posts big blind 20
+Dealt to _SKR [Jc 8h]
+*** PRE-FLOP *** 
+_SKR folds
+Nathanrdw89 calls 10
+Izy_River checks
+*** FLOP *** [7h 3s 5c]
+Nathanrdw89 checks
+Izy_River bets 30
+Nathanrdw89 calls 30
+*** TURN *** [7h 3s 5c][6c]
+Nathanrdw89 checks
+Izy_River bets 40
+Nathanrdw89 folds
+Izy_River collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [7h 3s 5c 6c]
+Seat 3: Izy_River (big blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717561954347515905-2-1676227078 - Holdem no limit (10/20) - 2023/02/12 18:37:58 UTC
+Table: 'Expresso Nitro(632731699)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Nathanrdw89 (250)
+Seat 3: Izy_River (350)
+*** ANTE/BLINDS ***
+Izy_River posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h 9s]
+*** PRE-FLOP *** 
+Nathanrdw89 folds
+Izy_River calls 10
+_SKR checks
+*** FLOP *** [Ks 5h Td]
+Izy_River checks
+_SKR checks
+*** TURN *** [Ks 5h Td][7h]
+Izy_River checks
+_SKR checks
+*** RIVER *** [Ks 5h Td 7h][4c]
+Izy_River checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [3h 9s] (High card : King)
+Izy_River shows [6h 4d] (One pair : 4)
+Izy_River collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ks 5h Td 7h 4c]
+Seat 1: _SKR (big blind) showed [3h 9s] and lost with High card : King
+Seat 3: Izy_River (small blind) showed [6h 4d] and won 40 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717561954347515905-3-1676227119 - Holdem no limit (15/30) - 2023/02/12 18:38:39 UTC
+Table: 'Expresso Nitro(632731699)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Nathanrdw89 (250)
+Seat 3: Izy_River (370)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Nathanrdw89 posts big blind 30
+Dealt to _SKR [Qh Ah]
+*** PRE-FLOP *** 
+Izy_River raises 60 to 90
+_SKR raises 190 to 280 and is all-in
+Nathanrdw89 folds
+Izy_River calls 190
+*** FLOP *** [Qc 4c Qs]
+*** TURN *** [Qc 4c Qs][4s]
+*** RIVER *** [Qc 4c Qs 4s][4h]
+*** SHOW DOWN ***
+Izy_River shows [Js Jd] (Full of 4 and Queens)
+_SKR shows [Qh Ah] (Full of Queens and 4)
+_SKR collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Qc 4c Qs 4s 4h]
+Seat 1: _SKR (small blind) showed [Qh Ah] and won 590 with Full of Queens and 4
+Seat 3: Izy_River (button) showed [Js Jd] and lost with Full of 4 and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717561954347515905-4-1676227146 - Holdem no limit (15/30) - 2023/02/12 18:39:06 UTC
+Table: 'Expresso Nitro(632731699)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (590)
+Seat 2: Nathanrdw89 (220)
+Seat 3: Izy_River (90)
+*** ANTE/BLINDS ***
+Nathanrdw89 posts small blind 15
+Izy_River posts big blind 30
+Dealt to _SKR [Ah 3h]
+*** PRE-FLOP *** 
+_SKR raises 560 to 590 and is all-in
+Nathanrdw89 folds
+Izy_River calls 60 and is all-in
+*** FLOP *** [Jh Th 9c]
+*** TURN *** [Jh Th 9c][3c]
+*** RIVER *** [Jh Th 9c 3c][Qs]
+*** SHOW DOWN ***
+_SKR shows [Ah 3h] (One pair : 3)
+Izy_River shows [Kc 5c] (Straight King high)
+Izy_River collected 195 from main pot
+_SKR collected 500 from side pot 1
+*** SUMMARY ***
+Total pot 695 | No rake
+Board: [Jh Th 9c 3c Qs]
+Seat 1: _SKR (button) showed [Ah 3h] and won 500 with One pair : 3
+Seat 3: Izy_River (big blind) showed [Kc 5c] and won 195 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717561954347515905-5-1676227168 - Holdem no limit (20/40) - 2023/02/12 18:39:28 UTC
+Table: 'Expresso Nitro(632731699)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (500)
+Seat 2: Nathanrdw89 (205)
+Seat 3: Izy_River (195)
+*** ANTE/BLINDS ***
+Izy_River posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6d 6s]
+*** PRE-FLOP *** 
+Nathanrdw89 folds
+Izy_River raises 155 to 195 and is all-in
+_SKR calls 155
+*** FLOP *** [7c 2s 3h]
+*** TURN *** [7c 2s 3h][Ac]
+*** RIVER *** [7c 2s 3h Ac][Ks]
+*** SHOW DOWN ***
+Izy_River shows [Jd Qs] (High card : Ace)
+_SKR shows [6d 6s] (One pair : 6)
+_SKR collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [7c 2s 3h Ac Ks]
+Seat 1: _SKR (big blind) showed [6d 6s] and won 390 with One pair : 6
+Seat 3: Izy_River (small blind) showed [Jd Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717561954347515905-6-1676227193 - Holdem no limit (20/40) - 2023/02/12 18:39:53 UTC
+Table: 'Expresso Nitro(632731699)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (695)
+Seat 2: Nathanrdw89 (205)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Nathanrdw89 posts big blind 40
+Dealt to _SKR [9c 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Nathanrdw89 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Nathanrdw89 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717561954347515905-7-1676227199 - Holdem no limit (20/40) - 2023/02/12 18:39:59 UTC
+Table: 'Expresso Nitro(632731699)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (675)
+Seat 2: Nathanrdw89 (225)
+*** ANTE/BLINDS ***
+Nathanrdw89 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Th Kc]
+*** PRE-FLOP *** 
+Nathanrdw89 calls 20
+_SKR raises 635 to 675 and is all-in
+Nathanrdw89 folds
+_SKR collected 715 from pot
+*** SUMMARY ***
+Total pot 715 | No rake
+Seat 1: _SKR (big blind) won 715
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717561954347515905-8-1676227223 - Holdem no limit (30/60) - 2023/02/12 18:40:23 UTC
+Table: 'Expresso Nitro(632731699)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (715)
+Seat 2: Nathanrdw89 (185)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Nathanrdw89 posts big blind 60
+Dealt to _SKR [7d Ah]
+*** PRE-FLOP *** 
+_SKR raises 655 to 715 and is all-in
+Nathanrdw89 calls 125 and is all-in
+*** FLOP *** [6s 7c 8h]
+*** TURN *** [6s 7c 8h][As]
+*** RIVER *** [6s 7c 8h As][Jh]
+*** SHOW DOWN ***
+Nathanrdw89 shows [6d Ad] (Two pairs : Aces and 6)
+_SKR shows [7d Ah] (Two pairs : Aces and 7)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s 7c 8h As Jh]
+Seat 1: _SKR (small blind) (button) showed [7d Ah] and won 900 with Two pairs : Aces and 7
+Seat 2: Nathanrdw89 (big blind) showed [6d Ad] and lost with Two pairs : Aces and 6
+
+

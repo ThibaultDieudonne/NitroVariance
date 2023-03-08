@@ -1,0 +1,162 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654427279421079553-1-1672659969 - Holdem no limit (10/20) - 2023/01/02 11:46:09 UTC
+Table: 'Expresso Nitro(618032012)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Avasan (300)
+Seat 3: Dom080673 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Avasan posts big blind 20
+Dealt to _SKR [3s 7c]
+*** PRE-FLOP *** 
+Dom080673 folds
+_SKR folds
+Avasan collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Avasan (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654427279421079553-2-1672659977 - Holdem no limit (10/20) - 2023/01/02 11:46:17 UTC
+Table: 'Expresso Nitro(618032012)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Avasan (310)
+Seat 3: Dom080673 (300)
+*** ANTE/BLINDS ***
+Avasan posts small blind 10
+Dom080673 posts big blind 20
+Dealt to _SKR [6c 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Avasan raises 20 to 40
+Dom080673 folds
+Avasan collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Avasan (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654427279421079553-3-1672659995 - Holdem no limit (10/20) - 2023/01/02 11:46:35 UTC
+Table: 'Expresso Nitro(618032012)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Avasan (330)
+Seat 3: Dom080673 (280)
+*** ANTE/BLINDS ***
+Dom080673 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th Qs]
+*** PRE-FLOP *** 
+Avasan raises 20 to 40
+Dom080673 raises 240 to 280 and is all-in
+_SKR folds
+Avasan calls 240
+*** FLOP *** [6d 2d Js]
+*** TURN *** [6d 2d Js][8s]
+*** RIVER *** [6d 2d Js 8s][Ah]
+*** SHOW DOWN ***
+Avasan shows [Kd Qd] (High card : Ace)
+Dom080673 shows [7s 7d] (One pair : 7)
+Dom080673 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6d 2d Js 8s Ah]
+Seat 2: Avasan (button) showed [Kd Qd] and lost with High card : Ace
+Seat 3: Dom080673 (small blind) showed [7s 7d] and won 580 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654427279421079553-4-1672660012 - Holdem no limit (10/20) - 2023/01/02 11:46:52 UTC
+Table: 'Expresso Nitro(618032012)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 2: Avasan (50)
+Seat 3: Dom080673 (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Avasan posts big blind 20
+Dealt to _SKR [Jd As]
+*** PRE-FLOP *** 
+Dom080673 folds
+_SKR raises 40 to 60
+Avasan folds
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: _SKR (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2654427279421079553-5-1672660031 - Holdem no limit (15/30) - 2023/01/02 11:47:11 UTC
+Table: 'Expresso Nitro(618032012)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Avasan (30)
+Seat 3: Dom080673 (580)
+*** ANTE/BLINDS ***
+Avasan posts small blind 15
+Dom080673 posts big blind 30
+Dealt to _SKR [Qd 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Avasan calls 15 and is all-in
+*** FLOP *** [2d 6c 9d]
+*** TURN *** [2d 6c 9d][4d]
+*** RIVER *** [2d 6c 9d 4d][6h]
+*** SHOW DOWN ***
+Dom080673 shows [Ts As] (One pair : 6)
+Avasan shows [2c Ad] (Two pairs : 6 and 2)
+Avasan collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2d 6c 9d 4d 6h]
+Seat 2: Avasan (small blind) showed [2c Ad] and won 60 with Two pairs : 6 and 2
+Seat 3: Dom080673 (big blind) showed [Ts As] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2654427279421079553-6-1672660052 - Holdem no limit (15/30) - 2023/01/02 11:47:32 UTC
+Table: 'Expresso Nitro(618032012)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Avasan (60)
+Seat 3: Dom080673 (550)
+*** ANTE/BLINDS ***
+Dom080673 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2d Kd]
+*** PRE-FLOP *** 
+Avasan raises 30 to 60 and is all-in
+Dom080673 raises 30 to 90
+_SKR folds
+*** FLOP *** [4c Kc Jh]
+*** TURN *** [4c Kc Jh][Td]
+*** RIVER *** [4c Kc Jh Td][6s]
+*** SHOW DOWN ***
+Avasan shows [5d Qd] (High card : King)
+Dom080673 shows [Jc 3c] (One pair : Jacks)
+Dom080673 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4c Kc Jh Td 6s]
+Seat 2: Avasan (button) showed [5d Qd] and lost with High card : King
+Seat 3: Dom080673 (small blind) showed [Jc 3c] and won 180 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2654427279421079553-7-1672660072 - Holdem no limit (15/30) - 2023/01/02 11:47:52 UTC
+Table: 'Expresso Nitro(618032012)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (260)
+Seat 3: Dom080673 (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Dom080673 posts big blind 30
+Dealt to _SKR [Qs Ks]
+*** PRE-FLOP *** 
+_SKR raises 230 to 260 and is all-in
+Dom080673 calls 230
+*** FLOP *** [Ah Jc 9c]
+*** TURN *** [Ah Jc 9c][5s]
+*** RIVER *** [Ah Jc 9c 5s][Qd]
+*** SHOW DOWN ***
+_SKR shows [Qs Ks] (One pair : Queens)
+Dom080673 shows [5c 5h] (Trips of 5)
+Dom080673 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Ah Jc 9c 5s Qd]
+Seat 1: _SKR (small blind) (button) showed [Qs Ks] and lost with One pair : Queens
+Seat 3: Dom080673 (big blind) showed [5c 5h] and won 520 with Trips of 5
+
+

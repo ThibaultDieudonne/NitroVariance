@@ -1,0 +1,193 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717972218213564417-1-1676241666 - Holdem no limit (10/20) - 2023/02/12 22:41:06 UTC
+Table: 'Expresso Nitro(632827221)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kikilokoki (300)
+Seat 2: _SKR (300)
+Seat 3: Zeus2610 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Zeus2610 posts big blind 20
+Dealt to _SKR [Jh 2d]
+*** PRE-FLOP *** 
+kikilokoki calls 20
+_SKR folds
+Zeus2610 checks
+*** FLOP *** [5s 7s 3d]
+Zeus2610 checks
+kikilokoki checks
+*** TURN *** [5s 7s 3d][Qs]
+Zeus2610 bets 50
+kikilokoki folds
+Zeus2610 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [5s 7s 3d Qs]
+Seat 3: Zeus2610 (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717972218213564417-2-1676241693 - Holdem no limit (10/20) - 2023/02/12 22:41:33 UTC
+Table: 'Expresso Nitro(632827221)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kikilokoki (280)
+Seat 2: _SKR (290)
+Seat 3: Zeus2610 (330)
+*** ANTE/BLINDS ***
+Zeus2610 posts small blind 10
+kikilokoki posts big blind 20
+Dealt to _SKR [Kc 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Zeus2610 calls 10
+kikilokoki raises 30 to 50
+Zeus2610 folds
+kikilokoki collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: kikilokoki (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717972218213564417-3-1676241706 - Holdem no limit (10/20) - 2023/02/12 22:41:46 UTC
+Table: 'Expresso Nitro(632827221)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kikilokoki (300)
+Seat 2: _SKR (290)
+Seat 3: Zeus2610 (310)
+*** ANTE/BLINDS ***
+kikilokoki posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 8d]
+*** PRE-FLOP *** 
+Zeus2610 raises 290 to 310 and is all-in
+kikilokoki calls 290 and is all-in
+_SKR folds
+*** FLOP *** [3d 2d 6c]
+*** TURN *** [3d 2d 6c][7s]
+*** RIVER *** [3d 2d 6c 7s][Ac]
+*** SHOW DOWN ***
+kikilokoki shows [7h 7c] (Trips of 7)
+Zeus2610 shows [Jh Th] (High card : Ace)
+Zeus2610 collected 10 from side pot 1
+kikilokoki collected 620 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [3d 2d 6c 7s Ac]
+Seat 1: kikilokoki (small blind) showed [7h 7c] and won 620 with Trips of 7
+Seat 3: Zeus2610 (button) showed [Jh Th] and won 10 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717972218213564417-4-1676241719 - Holdem no limit (10/20) - 2023/02/12 22:41:59 UTC
+Table: 'Expresso Nitro(632827221)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kikilokoki (620)
+Seat 2: _SKR (270)
+Seat 3: Zeus2610 (10)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Zeus2610 posts big blind 10 and is all-in
+Dealt to _SKR [7d 3h]
+*** PRE-FLOP *** 
+kikilokoki folds
+*** FLOP *** [5s 5d Th]
+*** TURN *** [5s 5d Th][Ac]
+*** RIVER *** [5s 5d Th Ac][Ah]
+*** SHOW DOWN ***
+_SKR shows [7d 3h] (Two pairs : Aces and 5)
+Zeus2610 shows [Tc 4c] (Two pairs : Aces and Tens)
+Zeus2610 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | No rake
+Board: [5s 5d Th Ac Ah]
+Seat 2: _SKR (small blind) showed [7d 3h] and lost with Two pairs : Aces and 5
+Seat 3: Zeus2610 (big blind) showed [Tc 4c] and won 20 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717972218213564417-5-1676241736 - Holdem no limit (15/30) - 2023/02/12 22:42:16 UTC
+Table: 'Expresso Nitro(632827221)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kikilokoki (620)
+Seat 2: _SKR (260)
+Seat 3: Zeus2610 (20)
+*** ANTE/BLINDS ***
+Zeus2610 posts small blind 15
+kikilokoki posts big blind 30
+Dealt to _SKR [Ah 5s]
+*** PRE-FLOP *** 
+_SKR raises 230 to 260 and is all-in
+Zeus2610 calls 5 and is all-in
+kikilokoki calls 230
+*** FLOP *** [7d Qc 3d]
+*** TURN *** [7d Qc 3d][4c]
+*** RIVER *** [7d Qc 3d 4c][2h]
+*** SHOW DOWN ***
+kikilokoki shows [Jd Kd] (High card : King)
+Zeus2610 shows [8c 6c] (High card : Queen)
+_SKR shows [Ah 5s] (Straight 5 high)
+_SKR collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [7d Qc 3d 4c 2h]
+Seat 1: kikilokoki (big blind) showed [Jd Kd] and lost with High card : King
+Seat 2: _SKR (button) showed [Ah 5s] and won 540 with Straight 5 high
+Seat 3: Zeus2610 (small blind) showed [8c 6c] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717972218213564417-6-1676241758 - Holdem no limit (15/30) - 2023/02/12 22:42:38 UTC
+Table: 'Expresso Nitro(632827221)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kikilokoki (360)
+Seat 2: _SKR (540)
+*** ANTE/BLINDS ***
+kikilokoki posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5h Kd]
+*** PRE-FLOP *** 
+kikilokoki calls 15
+_SKR raises 510 to 540 and is all-in
+kikilokoki folds
+_SKR collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 2: _SKR (big blind) won 570
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717972218213564417-7-1676241769 - Holdem no limit (15/30) - 2023/02/12 22:42:49 UTC
+Table: 'Expresso Nitro(632827221)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kikilokoki (330)
+Seat 2: _SKR (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+kikilokoki posts big blind 30
+Dealt to _SKR [8h 6h]
+*** PRE-FLOP *** 
+_SKR calls 15
+kikilokoki checks
+*** FLOP *** [6d Kh 2h]
+kikilokoki checks
+_SKR bets 30
+kikilokoki folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6d Kh 2h]
+Seat 2: _SKR (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717972218213564417-8-1676241784 - Holdem no limit (20/40) - 2023/02/12 22:43:04 UTC
+Table: 'Expresso Nitro(632827221)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kikilokoki (300)
+Seat 2: _SKR (600)
+*** ANTE/BLINDS ***
+kikilokoki posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5c 5h]
+*** PRE-FLOP *** 
+kikilokoki raises 260 to 300 and is all-in
+_SKR calls 260
+*** FLOP *** [Js 5s Td]
+*** TURN *** [Js 5s Td][8c]
+*** RIVER *** [Js 5s Td 8c][6c]
+*** SHOW DOWN ***
+kikilokoki shows [7h 2c] (High card : Jack)
+_SKR shows [5c 5h] (Trips of 5)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Js 5s Td 8c 6c]
+Seat 1: kikilokoki (small blind) (button) showed [7h 2c] and lost with High card : Jack
+Seat 2: _SKR (big blind) showed [5c 5h] and won 600 with Trips of 5
+
+

@@ -1,0 +1,273 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695260362432839681-1-1675002923 - Holdem no limit (10/20) - 2023/01/29 14:35:23 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Halimmlk (300)
+Seat 2: _SKR (300)
+Seat 3: ResMed (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ResMed posts big blind 20
+Dealt to _SKR [Ac 5s]
+*** PRE-FLOP *** 
+Halimmlk calls 20
+_SKR raises 280 to 300 and is all-in
+ResMed calls 280 and is all-in
+Halimmlk folds
+*** FLOP *** [6c 4h 3d]
+*** TURN *** [6c 4h 3d][Ad]
+*** RIVER *** [6c 4h 3d Ad][3c]
+*** SHOW DOWN ***
+_SKR shows [Ac 5s] (Two pairs : Aces and 3)
+ResMed shows [2c Ah] (Two pairs : Aces and 3)
+ResMed collected 310 from pot
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [6c 4h 3d Ad 3c]
+Seat 2: _SKR (small blind) showed [Ac 5s] and won 310 with Two pairs : Aces and 3
+Seat 3: ResMed (big blind) showed [2c Ah] and won 310 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695260362432839681-2-1675002956 - Holdem no limit (10/20) - 2023/01/29 14:35:56 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Halimmlk (280)
+Seat 2: _SKR (310)
+Seat 3: ResMed (310)
+*** ANTE/BLINDS ***
+ResMed posts small blind 10
+Halimmlk posts big blind 20
+Dealt to _SKR [7h Jc]
+*** PRE-FLOP *** 
+_SKR folds
+ResMed folds
+Halimmlk collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Halimmlk (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695260362432839681-3-1675002962 - Holdem no limit (10/20) - 2023/01/29 14:36:02 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Halimmlk (290)
+Seat 2: _SKR (310)
+Seat 3: ResMed (300)
+*** ANTE/BLINDS ***
+Halimmlk posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts Qd]
+*** PRE-FLOP *** 
+ResMed raises 280 to 300 and is all-in
+Halimmlk folds
+_SKR folds
+ResMed collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: ResMed (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695260362432839681-4-1675002983 - Holdem no limit (15/30) - 2023/01/29 14:36:23 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Halimmlk (280)
+Seat 2: _SKR (290)
+Seat 3: ResMed (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ResMed posts big blind 30
+Dealt to _SKR [Qd 8c]
+*** PRE-FLOP *** 
+Halimmlk calls 30
+_SKR folds
+ResMed checks
+*** FLOP *** [5c Qc Ac]
+ResMed checks
+Halimmlk checks
+*** TURN *** [5c Qc Ac][9c]
+ResMed checks
+Halimmlk checks
+*** RIVER *** [5c Qc Ac 9c][3h]
+ResMed bets 30
+Halimmlk raises 30 to 60
+ResMed calls 30
+*** SHOW DOWN ***
+ResMed shows [5h 3c] (Flush Ace high)
+Halimmlk shows [4h Kc] (Flush Ace high)
+Halimmlk collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [5c Qc Ac 9c 3h]
+Seat 1: Halimmlk (button) showed [4h Kc] and won 195 with Flush Ace high
+Seat 3: ResMed (big blind) showed [5h 3c] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695260362432839681-5-1675003022 - Holdem no limit (15/30) - 2023/01/29 14:37:02 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Halimmlk (385)
+Seat 2: _SKR (275)
+Seat 3: ResMed (240)
+*** ANTE/BLINDS ***
+ResMed posts small blind 15
+Halimmlk posts big blind 30
+Dealt to _SKR [4c Kd]
+*** PRE-FLOP *** 
+_SKR folds
+ResMed raises 210 to 240 and is all-in
+Halimmlk calls 210
+*** FLOP *** [3c 9s 6h]
+*** TURN *** [3c 9s 6h][2h]
+*** RIVER *** [3c 9s 6h 2h][Td]
+*** SHOW DOWN ***
+Halimmlk shows [Qc Tc] (One pair : Tens)
+ResMed shows [4s 5s] (Straight 6 high)
+ResMed collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [3c 9s 6h 2h Td]
+Seat 1: Halimmlk (big blind) showed [Qc Tc] and lost with One pair : Tens
+Seat 3: ResMed (small blind) showed [4s 5s] and won 480 with Straight 6 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695260362432839681-6-1675003050 - Holdem no limit (20/40) - 2023/01/29 14:37:30 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Halimmlk (145)
+Seat 2: _SKR (275)
+Seat 3: ResMed (480)
+*** ANTE/BLINDS ***
+Halimmlk posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kd 3c]
+*** PRE-FLOP *** 
+ResMed raises 40 to 80
+Halimmlk folds
+_SKR folds
+ResMed collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 3: ResMed (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695260362432839681-7-1675003059 - Holdem no limit (20/40) - 2023/01/29 14:37:39 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Halimmlk (125)
+Seat 2: _SKR (235)
+Seat 3: ResMed (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+ResMed posts big blind 40
+Dealt to _SKR [Jd 8h]
+*** PRE-FLOP *** 
+Halimmlk folds
+_SKR raises 195 to 235 and is all-in
+ResMed calls 195
+*** FLOP *** [Kc 9c Tc]
+*** TURN *** [Kc 9c Tc][Qc]
+*** RIVER *** [Kc 9c Tc Qc][9d]
+*** SHOW DOWN ***
+ResMed shows [7s 7d] (Two pairs : 9 and 7)
+_SKR shows [Jd 8h] (Straight King high)
+_SKR collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [Kc 9c Tc Qc 9d]
+Seat 2: _SKR (small blind) showed [Jd 8h] and won 470 with Straight King high
+Seat 3: ResMed (big blind) showed [7s 7d] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695260362432839681-8-1675003076 - Holdem no limit (20/40) - 2023/01/29 14:37:56 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Halimmlk (125)
+Seat 2: _SKR (470)
+Seat 3: ResMed (305)
+*** ANTE/BLINDS ***
+ResMed posts small blind 20
+Halimmlk posts big blind 40
+Dealt to _SKR [8d Qs]
+*** PRE-FLOP *** 
+_SKR raises 430 to 470 and is all-in
+ResMed calls 285 and is all-in
+Halimmlk folds
+*** FLOP *** [6c Ks As]
+*** TURN *** [6c Ks As][Kh]
+*** RIVER *** [6c Ks As Kh][7h]
+*** SHOW DOWN ***
+ResMed shows [5s 8s] (One pair : Kings)
+_SKR shows [8d Qs] (One pair : Kings)
+_SKR collected 815 from pot
+*** SUMMARY ***
+Total pot 815 | No rake
+Board: [6c Ks As Kh 7h]
+Seat 2: _SKR (button) showed [8d Qs] and won 815 with One pair : Kings
+Seat 3: ResMed (small blind) showed [5s 8s] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695260362432839681-9-1675003093 - Holdem no limit (20/40) - 2023/01/29 14:38:13 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Halimmlk (85)
+Seat 2: _SKR (815)
+*** ANTE/BLINDS ***
+Halimmlk posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Tc Ts]
+*** PRE-FLOP *** 
+Halimmlk folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695260362432839681-10-1675003099 - Holdem no limit (30/60) - 2023/01/29 14:38:19 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Halimmlk (65)
+Seat 2: _SKR (835)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Halimmlk posts big blind 60
+Dealt to _SKR [5h 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Halimmlk collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Halimmlk (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695260362432839681-11-1675003104 - Holdem no limit (30/60) - 2023/01/29 14:38:24 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Halimmlk (95)
+Seat 2: _SKR (805)
+*** ANTE/BLINDS ***
+Halimmlk posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8d 6h]
+*** PRE-FLOP *** 
+Halimmlk folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695260362432839681-12-1675003108 - Holdem no limit (30/60) - 2023/01/29 14:38:28 UTC
+Table: 'Expresso Nitro(627539205)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Halimmlk (65)
+Seat 2: _SKR (835)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Halimmlk posts big blind 60
+Dealt to _SKR [4d Qh]
+*** PRE-FLOP *** 
+_SKR raises 60 to 120
+Halimmlk calls 5 and is all-in
+*** FLOP *** [Ts Jh Ac]
+*** TURN *** [Ts Jh Ac][4s]
+*** RIVER *** [Ts Jh Ac 4s][Ks]
+*** SHOW DOWN ***
+Halimmlk shows [Jc Tc] (Two pairs : Jacks and Tens)
+_SKR shows [4d Qh] (Straight Ace high)
+_SKR collected 185 from pot
+*** SUMMARY ***
+Total pot 185 | No rake
+Board: [Ts Jh Ac 4s Ks]
+Seat 1: Halimmlk (big blind) showed [Jc Tc] and lost with Two pairs : Jacks and Tens
+Seat 2: _SKR (small blind) (button) showed [4d Qh] and won 185 with Straight Ace high
+
+

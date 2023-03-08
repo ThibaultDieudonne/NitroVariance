@@ -1,0 +1,122 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690554989536870401-1-1674685744 - Holdem no limit (10/20) - 2023/01/25 22:29:04 UTC
+Table: 'Expresso Nitro(626443650)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: AraKKniA (300)
+Seat 3: JJ_Bourdin (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AraKKniA posts big blind 20
+Dealt to _SKR [Jh 6s]
+*** PRE-FLOP *** 
+JJ_Bourdin folds
+_SKR folds
+AraKKniA collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: AraKKniA (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690554989536870401-2-1674685748 - Holdem no limit (10/20) - 2023/01/25 22:29:08 UTC
+Table: 'Expresso Nitro(626443650)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: AraKKniA (310)
+Seat 3: JJ_Bourdin (300)
+*** ANTE/BLINDS ***
+AraKKniA posts small blind 10
+JJ_Bourdin posts big blind 20
+Dealt to _SKR [Ks Jh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+AraKKniA calls 30
+JJ_Bourdin raises 260 to 300 and is all-in
+_SKR folds
+AraKKniA raises 10 to 310 and is all-in
+*** FLOP *** [5s As 5h]
+*** TURN *** [5s As 5h][9c]
+*** RIVER *** [5s As 5h 9c][9h]
+*** SHOW DOWN ***
+AraKKniA shows [2h Ad] (Two pairs : Aces and 9)
+JJ_Bourdin shows [Ac Qd] (Two pairs : Aces and 9)
+JJ_Bourdin collected 640 from main pot
+AraKKniA collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [5s As 5h 9c 9h]
+Seat 2: AraKKniA (small blind) showed [2h Ad] and won 10 with Two pairs : Aces and 9
+Seat 3: JJ_Bourdin (big blind) showed [Ac Qd] and won 640 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690554989536870401-3-1674685771 - Holdem no limit (10/20) - 2023/01/25 22:29:31 UTC
+Table: 'Expresso Nitro(626443650)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: AraKKniA (10)
+Seat 3: JJ_Bourdin (640)
+*** ANTE/BLINDS ***
+JJ_Bourdin posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5c 4s]
+*** PRE-FLOP *** 
+AraKKniA calls 10 and is all-in
+JJ_Bourdin folds
+*** FLOP *** [Td 3d Ad]
+*** TURN *** [Td 3d Ad][3c]
+*** RIVER *** [Td 3d Ad 3c][7s]
+*** SHOW DOWN ***
+_SKR shows [5c 4s] (One pair : 3)
+AraKKniA shows [4h 5d] (One pair : 3)
+AraKKniA collected 15 from main pot
+_SKR collected 25 from side pot 1
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Td 3d Ad 3c 7s]
+Seat 1: _SKR (big blind) showed [5c 4s] and won 25 with One pair : 3
+Seat 2: AraKKniA (button) showed [4h 5d] and won 15 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690554989536870401-4-1674685787 - Holdem no limit (10/20) - 2023/01/25 22:29:47 UTC
+Table: 'Expresso Nitro(626443650)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (255)
+Seat 2: AraKKniA (15)
+Seat 3: JJ_Bourdin (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AraKKniA posts big blind 15 and is all-in
+Dealt to _SKR [4d Qc]
+*** PRE-FLOP *** 
+JJ_Bourdin folds
+_SKR folds
+AraKKniA collected 25 from pot
+*** SUMMARY ***
+Total pot 25 | No rake
+Seat 2: AraKKniA (big blind) won 25
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690554989536870401-5-1674685794 - Holdem no limit (10/20) - 2023/01/25 22:29:54 UTC
+Table: 'Expresso Nitro(626443650)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (245)
+Seat 2: AraKKniA (25)
+Seat 3: JJ_Bourdin (630)
+*** ANTE/BLINDS ***
+AraKKniA posts small blind 10
+JJ_Bourdin posts big blind 20
+Dealt to _SKR [Ad 8s]
+*** PRE-FLOP *** 
+_SKR raises 225 to 245 and is all-in
+AraKKniA calls 15 and is all-in
+JJ_Bourdin raises 225 to 470
+*** FLOP *** [7d 5h Kd]
+*** TURN *** [7d 5h Kd][Qs]
+*** RIVER *** [7d 5h Kd Qs][Tc]
+*** SHOW DOWN ***
+_SKR shows [Ad 8s] (High card : Ace)
+AraKKniA shows [3h 4h] (High card : King)
+JJ_Bourdin shows [Ah Kh] (One pair : Kings)
+JJ_Bourdin collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [7d 5h Kd Qs Tc]
+Seat 1: _SKR (button) showed [Ad 8s] and lost with High card : Ace
+Seat 2: AraKKniA (small blind) showed [3h 4h] and lost with High card : King
+Seat 3: JJ_Bourdin (big blind) showed [Ah Kh] and won 740 with One pair : Kings
+
+

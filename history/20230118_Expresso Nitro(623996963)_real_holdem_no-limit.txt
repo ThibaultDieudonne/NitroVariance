@@ -1,0 +1,100 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680046548888322049-1-1674049509 - Holdem no limit (10/20) - 2023/01/18 13:45:09 UTC
+Table: 'Expresso Nitro(623996963)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: dent95 (300)
+Seat 3: cobratate (300)
+*** ANTE/BLINDS ***
+dent95 posts small blind 10
+cobratate posts big blind 20
+Dealt to _SKR [4s 6s]
+*** PRE-FLOP *** 
+_SKR folds
+dent95 folds
+cobratate collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: cobratate (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680046548888322049-2-1674049516 - Holdem no limit (10/20) - 2023/01/18 13:45:16 UTC
+Table: 'Expresso Nitro(623996963)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: dent95 (290)
+Seat 3: cobratate (310)
+*** ANTE/BLINDS ***
+cobratate posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s Ad]
+*** PRE-FLOP *** 
+dent95 folds
+cobratate folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680046548888322049-3-1674049525 - Holdem no limit (10/20) - 2023/01/18 13:45:25 UTC
+Table: 'Expresso Nitro(623996963)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: dent95 (290)
+Seat 3: cobratate (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+dent95 posts big blind 20
+Dealt to _SKR [2s 5h]
+*** PRE-FLOP *** 
+cobratate raises 20 to 40
+_SKR folds
+dent95 calls 20
+*** FLOP *** [4d 7s 7h]
+dent95 checks
+cobratate checks
+*** TURN *** [4d 7s 7h][Kc]
+dent95 checks
+cobratate checks
+*** RIVER *** [4d 7s 7h Kc][5c]
+dent95 checks
+cobratate checks
+*** SHOW DOWN ***
+dent95 shows [3s Js] (One pair : 7)
+cobratate shows [As Jc] (One pair : 7)
+cobratate collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [4d 7s 7h Kc 5c]
+Seat 2: dent95 (big blind) showed [3s Js] and lost with One pair : 7
+Seat 3: cobratate (button) showed [As Jc] and won 90 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680046548888322049-4-1674049572 - Holdem no limit (15/30) - 2023/01/18 13:46:12 UTC
+Table: 'Expresso Nitro(623996963)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: dent95 (250)
+Seat 3: cobratate (350)
+*** ANTE/BLINDS ***
+dent95 posts small blind 15
+cobratate posts big blind 30
+Dealt to _SKR [Qs Qc]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+dent95 raises 190 to 250 and is all-in
+cobratate raises 100 to 350 and is all-in
+_SKR calls 240 and is all-in
+*** FLOP *** [9d 2d Ad]
+*** TURN *** [9d 2d Ad][Jd]
+*** RIVER *** [9d 2d Ad Jd][7h]
+*** SHOW DOWN ***
+_SKR shows [Qs Qc] (One pair : Queens)
+dent95 shows [4d Ac] (Flush Ace high)
+cobratate shows [As Js] (Two pairs : Aces and Jacks)
+cobratate collected 150 from side pot 1
+dent95 collected 750 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d 2d Ad Jd 7h]
+Seat 1: _SKR (button) showed [Qs Qc] and lost with One pair : Queens
+Seat 2: dent95 (small blind) showed [4d Ac] and won 750 with Flush Ace high
+Seat 3: cobratate (big blind) showed [As Js] and won 150 with Two pairs : Aces and Jacks
+
+

@@ -1,0 +1,50 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671048966065356801-1-1673528482 - Holdem no limit (10/20) - 2023/01/12 13:01:22 UTC
+Table: 'Expresso Nitro(621902050)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vi0507 (300)
+Seat 2: _SKR (300)
+Seat 3: Tootsi (300)
+*** ANTE/BLINDS ***
+Tootsi posts small blind 10
+Vi0507 posts big blind 20
+Dealt to _SKR [2s Ah]
+*** PRE-FLOP *** 
+_SKR folds
+Tootsi calls 10
+Vi0507 checks
+*** FLOP *** [9c 3c 7c]
+Tootsi bets 40
+Vi0507 folds
+Tootsi collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9c 3c 7c]
+Seat 3: Tootsi (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671048966065356801-2-1673528502 - Holdem no limit (10/20) - 2023/01/12 13:01:42 UTC
+Table: 'Expresso Nitro(621902050)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vi0507 (280)
+Seat 2: _SKR (300)
+Seat 3: Tootsi (320)
+*** ANTE/BLINDS ***
+Vi0507 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad Td]
+*** PRE-FLOP *** 
+Tootsi raises 300 to 320 and is all-in
+Vi0507 folds
+_SKR calls 280 and is all-in
+*** FLOP *** [Qd 4c 8s]
+*** TURN *** [Qd 4c 8s][2h]
+*** RIVER *** [Qd 4c 8s 2h][8d]
+*** SHOW DOWN ***
+_SKR shows [Ad Td] (One pair : 8)
+Tootsi shows [Qh Kc] (Two pairs : Queens and 8)
+Tootsi collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qd 4c 8s 2h 8d]
+Seat 2: _SKR (big blind) showed [Ad Td] and lost with One pair : 8
+Seat 3: Tootsi (button) showed [Qh Kc] and won 630 with Two pairs : Queens and 8
+
+

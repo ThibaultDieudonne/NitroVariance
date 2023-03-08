@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698150042199392257-1-1675183010 - Holdem no limit (10/20) - 2023/01/31 16:36:50 UTC
+Table: 'Expresso Nitro(628212011)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ChefPoulet (300)
+Seat 2: Redali (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ChefPoulet posts big blind 20
+Dealt to _SKR [Qs 6c]
+*** PRE-FLOP *** 
+Redali raises 280 to 300 and is all-in
+_SKR folds
+ChefPoulet calls 280 and is all-in
+*** FLOP *** [9h Td 2s]
+*** TURN *** [9h Td 2s][4d]
+*** RIVER *** [9h Td 2s 4d][Tc]
+*** SHOW DOWN ***
+Redali shows [As Jc] (One pair : Tens)
+ChefPoulet shows [Ad Qh] (One pair : Tens)
+ChefPoulet collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [9h Td 2s 4d Tc]
+Seat 1: ChefPoulet (big blind) showed [Ad Qh] and won 610 with One pair : Tens
+Seat 2: Redali (button) showed [As Jc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698150042199392257-2-1675183024 - Holdem no limit (10/20) - 2023/01/31 16:37:04 UTC
+Table: 'Expresso Nitro(628212011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ChefPoulet (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+ChefPoulet posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As Ah]
+*** PRE-FLOP *** 
+ChefPoulet folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698150042199392257-3-1675183028 - Holdem no limit (10/20) - 2023/01/31 16:37:08 UTC
+Table: 'Expresso Nitro(628212011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ChefPoulet (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ChefPoulet posts big blind 20
+Dealt to _SKR [7d 2h]
+*** PRE-FLOP *** 
+_SKR folds
+ChefPoulet collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: ChefPoulet (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698150042199392257-4-1675183033 - Holdem no limit (10/20) - 2023/01/31 16:37:13 UTC
+Table: 'Expresso Nitro(628212011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ChefPoulet (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+ChefPoulet posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 3h]
+*** PRE-FLOP *** 
+ChefPoulet calls 10
+_SKR checks
+*** FLOP *** [As 5c 7h]
+_SKR checks
+ChefPoulet bets 20
+_SKR folds
+ChefPoulet collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [As 5c 7h]
+Seat 1: ChefPoulet (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698150042199392257-5-1675183045 - Holdem no limit (10/20) - 2023/01/31 16:37:25 UTC
+Table: 'Expresso Nitro(628212011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ChefPoulet (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ChefPoulet posts big blind 20
+Dealt to _SKR [Kc Ts]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+ChefPoulet calls 250
+*** FLOP *** [2d Jc 2c]
+*** TURN *** [2d Jc 2c][Ac]
+*** RIVER *** [2d Jc 2c Ac][Ah]
+*** SHOW DOWN ***
+_SKR shows [Kc Ts] (Two pairs : Aces and 2)
+ChefPoulet shows [8d 8s] (Two pairs : Aces and 8)
+ChefPoulet collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [2d Jc 2c Ac Ah]
+Seat 1: ChefPoulet (big blind) showed [8d 8s] and won 540 with Two pairs : Aces and 8
+Seat 3: _SKR (small blind) (button) showed [Kc Ts] and lost with Two pairs : Aces and 2
+
+

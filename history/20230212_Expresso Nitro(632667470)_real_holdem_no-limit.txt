@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717286092893061121-1-1676215749 - Holdem no limit (10/20) - 2023/02/12 15:29:09 UTC
+Table: 'Expresso Nitro(632667470)#0' 3-max (real money) Seat #3 is the button
+Seat 1: romu060681 (300)
+Seat 2: _SKR (300)
+Seat 3: unscheduled (300)
+*** ANTE/BLINDS ***
+romu060681 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c 3c]
+*** PRE-FLOP *** 
+unscheduled raises 20 to 40
+romu060681 folds
+_SKR folds
+unscheduled collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: unscheduled (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717286092893061121-2-1676215759 - Holdem no limit (10/20) - 2023/02/12 15:29:19 UTC
+Table: 'Expresso Nitro(632667470)#0' 3-max (real money) Seat #1 is the button
+Seat 1: romu060681 (290)
+Seat 2: _SKR (280)
+Seat 3: unscheduled (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+unscheduled posts big blind 20
+Dealt to _SKR [6h 4s]
+*** PRE-FLOP *** 
+romu060681 calls 20
+_SKR folds
+unscheduled checks
+*** FLOP *** [8s 9c Kd]
+unscheduled checks
+romu060681 checks
+*** TURN *** [8s 9c Kd][Th]
+unscheduled checks
+romu060681 checks
+*** RIVER *** [8s 9c Kd Th][Tc]
+unscheduled checks
+romu060681 checks
+*** SHOW DOWN ***
+romu060681 shows [3s 2s] (One pair : Tens)
+unscheduled shows [7d 3d] (One pair : Tens)
+unscheduled collected 25 from pot
+romu060681 collected 25 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [8s 9c Kd Th Tc]
+Seat 1: romu060681 (button) showed [3s 2s] and won 25 with One pair : Tens
+Seat 3: unscheduled (big blind) showed [7d 3d] and won 25 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717286092893061121-3-1676215802 - Holdem no limit (10/20) - 2023/02/12 15:30:02 UTC
+Table: 'Expresso Nitro(632667470)#0' 3-max (real money) Seat #2 is the button
+Seat 1: romu060681 (295)
+Seat 2: _SKR (270)
+Seat 3: unscheduled (335)
+*** ANTE/BLINDS ***
+unscheduled posts small blind 10
+romu060681 posts big blind 20
+Dealt to _SKR [8d 2d]
+*** PRE-FLOP *** 
+_SKR folds
+unscheduled raises 315 to 335 and is all-in
+romu060681 folds
+unscheduled collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 3: unscheduled (small blind) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717286092893061121-4-1676215824 - Holdem no limit (15/30) - 2023/02/12 15:30:24 UTC
+Table: 'Expresso Nitro(632667470)#0' 3-max (real money) Seat #3 is the button
+Seat 1: romu060681 (275)
+Seat 2: _SKR (270)
+Seat 3: unscheduled (355)
+*** ANTE/BLINDS ***
+romu060681 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ts 9d]
+*** PRE-FLOP *** 
+unscheduled calls 30
+romu060681 calls 15
+_SKR checks
+*** FLOP *** [Td 2s 7c]
+romu060681 checks
+_SKR checks
+unscheduled bets 32
+romu060681 calls 32
+_SKR raises 208 to 240 and is all-in
+unscheduled raises 85 to 325 and is all-in
+romu060681 folds
+*** TURN *** [Td 2s 7c][8c]
+*** RIVER *** [Td 2s 7c 8c][5s]
+*** SHOW DOWN ***
+_SKR shows [Ts 9d] (One pair : Tens)
+unscheduled shows [Tc Jh] (One pair : Tens)
+unscheduled collected 687 from pot
+*** SUMMARY ***
+Total pot 687 | No rake
+Board: [Td 2s 7c 8c 5s]
+Seat 2: _SKR (big blind) showed [Ts 9d] and lost with One pair : Tens
+Seat 3: unscheduled (button) showed [Tc Jh] and won 687 with One pair : Tens
+
+

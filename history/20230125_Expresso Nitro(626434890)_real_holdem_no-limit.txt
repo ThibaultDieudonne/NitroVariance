@@ -1,0 +1,284 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690517365623357441-1-1674684466 - Holdem no limit (10/20) - 2023/01/25 22:07:46 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pot-chopboys (300)
+Seat 2: _SKR (300)
+Seat 3: didie-76 (300)
+*** ANTE/BLINDS ***
+didie-76 posts small blind 10
+pot-chopboys posts big blind 20
+Dealt to _SKR [2h 8d]
+*** PRE-FLOP *** 
+_SKR folds
+didie-76 calls 10
+pot-chopboys raises 280 to 300 and is all-in
+didie-76 folds
+pot-chopboys collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: pot-chopboys (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690517365623357441-2-1674684478 - Holdem no limit (10/20) - 2023/01/25 22:07:58 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pot-chopboys (320)
+Seat 2: _SKR (300)
+Seat 3: didie-76 (280)
+*** ANTE/BLINDS ***
+pot-chopboys posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc 8s]
+*** PRE-FLOP *** 
+didie-76 calls 20
+pot-chopboys raises 300 to 320 and is all-in
+_SKR folds
+didie-76 calls 260 and is all-in
+*** FLOP *** [Ad Ah 9c]
+*** TURN *** [Ad Ah 9c][Kh]
+*** RIVER *** [Ad Ah 9c Kh][9d]
+*** SHOW DOWN ***
+didie-76 shows [Qs 2d] (Two pairs : Aces and 9)
+pot-chopboys shows [As 8d] (Full of Aces and 9)
+pot-chopboys collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ad Ah 9c Kh 9d]
+Seat 1: pot-chopboys (small blind) showed [As 8d] and won 620 with Full of Aces and 9
+Seat 3: didie-76 (button) showed [Qs 2d] and lost with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690517365623357441-3-1674684495 - Holdem no limit (10/20) - 2023/01/25 22:08:15 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pot-chopboys (620)
+Seat 2: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+pot-chopboys posts big blind 20
+Dealt to _SKR [Tc 4c]
+*** PRE-FLOP *** 
+_SKR folds
+pot-chopboys collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: pot-chopboys (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690517365623357441-4-1674684506 - Holdem no limit (10/20) - 2023/01/25 22:08:26 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pot-chopboys (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+pot-chopboys posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh 3c]
+*** PRE-FLOP *** 
+pot-chopboys calls 10
+_SKR checks
+*** FLOP *** [9d 3h 8c]
+_SKR checks
+pot-chopboys bets 26
+_SKR folds
+pot-chopboys collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [9d 3h 8c]
+Seat 1: pot-chopboys (small blind) (button) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690517365623357441-5-1674684531 - Holdem no limit (15/30) - 2023/01/25 22:08:51 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pot-chopboys (650)
+Seat 2: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+pot-chopboys posts big blind 30
+Dealt to _SKR [Kd Js]
+*** PRE-FLOP *** 
+_SKR raises 220 to 250 and is all-in
+pot-chopboys calls 220
+*** FLOP *** [Ah 9c Kc]
+*** TURN *** [Ah 9c Kc][6h]
+*** RIVER *** [Ah 9c Kc 6h][5s]
+*** SHOW DOWN ***
+pot-chopboys shows [7d Qd] (High card : Ace)
+_SKR shows [Kd Js] (One pair : Kings)
+_SKR collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Ah 9c Kc 6h 5s]
+Seat 1: pot-chopboys (big blind) showed [7d Qd] and lost with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [Kd Js] and won 500 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690517365623357441-6-1674684547 - Holdem no limit (15/30) - 2023/01/25 22:09:07 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pot-chopboys (400)
+Seat 2: _SKR (500)
+*** ANTE/BLINDS ***
+pot-chopboys posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3s Qc]
+*** PRE-FLOP *** 
+pot-chopboys folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690517365623357441-7-1674684555 - Holdem no limit (15/30) - 2023/01/25 22:09:15 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pot-chopboys (385)
+Seat 2: _SKR (515)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+pot-chopboys posts big blind 30
+Dealt to _SKR [Jc Kd]
+*** PRE-FLOP *** 
+_SKR raises 485 to 515 and is all-in
+pot-chopboys folds
+_SKR collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Seat 2: _SKR (small blind) (button) won 545
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690517365623357441-8-1674684560 - Holdem no limit (15/30) - 2023/01/25 22:09:20 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pot-chopboys (355)
+Seat 2: _SKR (545)
+*** ANTE/BLINDS ***
+pot-chopboys posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jh 4c]
+*** PRE-FLOP *** 
+pot-chopboys folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690517365623357441-9-1674684566 - Holdem no limit (15/30) - 2023/01/25 22:09:26 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pot-chopboys (340)
+Seat 2: _SKR (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+pot-chopboys posts big blind 30
+Dealt to _SKR [4c 6c]
+*** PRE-FLOP *** 
+_SKR folds
+pot-chopboys collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: pot-chopboys (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690517365623357441-10-1674684571 - Holdem no limit (15/30) - 2023/01/25 22:09:31 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pot-chopboys (355)
+Seat 2: _SKR (545)
+*** ANTE/BLINDS ***
+pot-chopboys posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6s 8h]
+*** PRE-FLOP *** 
+pot-chopboys folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690517365623357441-11-1674684575 - Holdem no limit (15/30) - 2023/01/25 22:09:35 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pot-chopboys (340)
+Seat 2: _SKR (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+pot-chopboys posts big blind 30
+Dealt to _SKR [6c 4h]
+*** PRE-FLOP *** 
+_SKR folds
+pot-chopboys collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: pot-chopboys (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690517365623357441-12-1674684583 - Holdem no limit (20/40) - 2023/01/25 22:09:43 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pot-chopboys (355)
+Seat 2: _SKR (545)
+*** ANTE/BLINDS ***
+pot-chopboys posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Tc Ts]
+*** PRE-FLOP *** 
+pot-chopboys raises 315 to 355 and is all-in
+_SKR calls 315
+*** FLOP *** [4s Ad 3s]
+*** TURN *** [4s Ad 3s][9h]
+*** RIVER *** [4s Ad 3s 9h][5h]
+*** SHOW DOWN ***
+_SKR shows [Tc Ts] (One pair : Tens)
+pot-chopboys shows [Ah Td] (One pair : Aces)
+pot-chopboys collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [4s Ad 3s 9h 5h]
+Seat 1: pot-chopboys (small blind) (button) showed [Ah Td] and won 710 with One pair : Aces
+Seat 2: _SKR (big blind) showed [Tc Ts] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690517365623357441-13-1674684597 - Holdem no limit (20/40) - 2023/01/25 22:09:57 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pot-chopboys (710)
+Seat 2: _SKR (190)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+pot-chopboys posts big blind 40
+Dealt to _SKR [Jd Qd]
+*** PRE-FLOP *** 
+_SKR raises 150 to 190 and is all-in
+pot-chopboys raises 150 to 340
+*** FLOP *** [3c 6d 2c]
+*** TURN *** [3c 6d 2c][Qh]
+*** RIVER *** [3c 6d 2c Qh][3s]
+*** SHOW DOWN ***
+pot-chopboys shows [9d 8d] (One pair : 3)
+_SKR shows [Jd Qd] (Two pairs : Queens and 3)
+_SKR collected 380 from main pot
+pot-chopboys collected 150 from side pot 1
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [3c 6d 2c Qh 3s]
+Seat 1: pot-chopboys (big blind) showed [9d 8d] and won 150 with One pair : 3
+Seat 2: _SKR (small blind) (button) showed [Jd Qd] and won 380 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690517365623357441-14-1674684616 - Holdem no limit (20/40) - 2023/01/25 22:10:16 UTC
+Table: 'Expresso Nitro(626434890)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pot-chopboys (520)
+Seat 2: _SKR (380)
+*** ANTE/BLINDS ***
+pot-chopboys posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qc Ac]
+*** PRE-FLOP *** 
+pot-chopboys raises 480 to 520 and is all-in
+_SKR calls 340 and is all-in
+*** FLOP *** [7s 3d Jd]
+*** TURN *** [7s 3d Jd][4s]
+*** RIVER *** [7s 3d Jd 4s][6s]
+*** SHOW DOWN ***
+_SKR shows [Qc Ac] (High card : Ace)
+pot-chopboys shows [Jh Ts] (One pair : Jacks)
+pot-chopboys collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s 3d Jd 4s 6s]
+Seat 1: pot-chopboys (small blind) (button) showed [Jh Ts] and won 900 with One pair : Jacks
+Seat 2: _SKR (big blind) showed [Qc Ac] and lost with High card : Ace
+
+

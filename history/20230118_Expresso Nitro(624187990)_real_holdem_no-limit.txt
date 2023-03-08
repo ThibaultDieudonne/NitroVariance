@@ -1,0 +1,111 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680867003605975041-1-1674082596 - Holdem no limit (10/20) - 2023/01/18 22:56:36 UTC
+Table: 'Expresso Nitro(624187990)#0' 3-max (real money) Seat #3 is the button
+Seat 1: wmx-ceu6b94 (300)
+Seat 2: ARIOCA3 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+wmx-ceu6b94 posts small blind 10
+ARIOCA3 posts big blind 20
+Dealt to _SKR [3s Kc]
+*** PRE-FLOP *** 
+_SKR folds
+wmx-ceu6b94 calls 10
+ARIOCA3 checks
+*** FLOP *** [Jd 9s 4h]
+wmx-ceu6b94 checks
+ARIOCA3 bets 26
+wmx-ceu6b94 folds
+ARIOCA3 collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Jd 9s 4h]
+Seat 2: ARIOCA3 (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680867003605975041-2-1674082626 - Holdem no limit (10/20) - 2023/01/18 22:57:06 UTC
+Table: 'Expresso Nitro(624187990)#0' 3-max (real money) Seat #1 is the button
+Seat 1: wmx-ceu6b94 (280)
+Seat 2: ARIOCA3 (320)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+ARIOCA3 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d 8h]
+*** PRE-FLOP *** 
+wmx-ceu6b94 calls 20
+ARIOCA3 calls 10
+_SKR checks
+*** FLOP *** [6s Js Tc]
+ARIOCA3 bets 20
+_SKR folds
+wmx-ceu6b94 calls 20
+*** TURN *** [6s Js Tc][3h]
+ARIOCA3 bets 20
+wmx-ceu6b94 calls 20
+*** RIVER *** [6s Js Tc 3h][5s]
+ARIOCA3 bets 20
+wmx-ceu6b94 calls 20
+*** SHOW DOWN ***
+wmx-ceu6b94 shows [3s Qc] (One pair : 3)
+ARIOCA3 shows [Qs Td] (One pair : Tens)
+ARIOCA3 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6s Js Tc 3h 5s]
+Seat 1: wmx-ceu6b94 (button) showed [3s Qc] and lost with One pair : 3
+Seat 2: ARIOCA3 (small blind) showed [Qs Td] and won 180 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680867003605975041-3-1674082655 - Holdem no limit (15/30) - 2023/01/18 22:57:35 UTC
+Table: 'Expresso Nitro(624187990)#0' 3-max (real money) Seat #2 is the button
+Seat 1: wmx-ceu6b94 (200)
+Seat 2: ARIOCA3 (420)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+wmx-ceu6b94 posts big blind 30
+Dealt to _SKR [Qs Jc]
+*** PRE-FLOP *** 
+ARIOCA3 folds
+_SKR raises 250 to 280 and is all-in
+wmx-ceu6b94 calls 170 and is all-in
+*** FLOP *** [Qh Js 8d]
+*** TURN *** [Qh Js 8d][6c]
+*** RIVER *** [Qh Js 8d 6c][6s]
+*** SHOW DOWN ***
+wmx-ceu6b94 shows [Kd 5d] (One pair : 6)
+_SKR shows [Qs Jc] (Two pairs : Queens and Jacks)
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qh Js 8d 6c 6s]
+Seat 1: wmx-ceu6b94 (big blind) showed [Kd 5d] and lost with One pair : 6
+Seat 3: _SKR (small blind) showed [Qs Jc] and won 480 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680867003605975041-4-1674082670 - Holdem no limit (15/30) - 2023/01/18 22:57:50 UTC
+Table: 'Expresso Nitro(624187990)#0' 3-max (real money) Seat #2 is the button
+Seat 2: ARIOCA3 (420)
+Seat 3: _SKR (480)
+*** ANTE/BLINDS ***
+ARIOCA3 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah Qc]
+*** PRE-FLOP *** 
+ARIOCA3 raises 30 to 60
+_SKR raises 420 to 480 and is all-in
+ARIOCA3 calls 360 and is all-in
+*** FLOP *** [4d Kd Ad]
+*** TURN *** [4d Kd Ad][5s]
+*** RIVER *** [4d Kd Ad 5s][6h]
+*** SHOW DOWN ***
+ARIOCA3 shows [9h Ac] (One pair : Aces)
+_SKR shows [Ah Qc] (One pair : Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d Kd Ad 5s 6h]
+Seat 2: ARIOCA3 (small blind) (button) showed [9h Ac] and lost with One pair : Aces
+Seat 3: _SKR (big blind) showed [Ah Qc] and won 900 with One pair : Aces
+
+

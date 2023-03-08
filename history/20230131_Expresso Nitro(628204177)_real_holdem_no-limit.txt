@@ -1,0 +1,126 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698116395425595393-1-1675181406 - Holdem no limit (10/20) - 2023/01/31 16:10:06 UTC
+Table: 'Expresso Nitro(628204177)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vnik (300)
+Seat 2: _SKR (300)
+Seat 3: DO-Pichichi1 (300)
+*** ANTE/BLINDS ***
+DO-Pichichi1 posts small blind 10
+Vnik posts big blind 20
+Dealt to _SKR [2s 5d]
+*** PRE-FLOP *** 
+_SKR folds
+DO-Pichichi1 calls 10
+Vnik checks
+*** FLOP *** [Ac 8h 2h]
+DO-Pichichi1 bets 40
+Vnik folds
+DO-Pichichi1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ac 8h 2h]
+Seat 3: DO-Pichichi1 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698116395425595393-2-1675181419 - Holdem no limit (10/20) - 2023/01/31 16:10:19 UTC
+Table: 'Expresso Nitro(628204177)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vnik (280)
+Seat 2: _SKR (300)
+Seat 3: DO-Pichichi1 (320)
+*** ANTE/BLINDS ***
+Vnik posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 3s]
+*** PRE-FLOP *** 
+DO-Pichichi1 raises 300 to 320 and is all-in
+Vnik folds
+_SKR folds
+DO-Pichichi1 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: DO-Pichichi1 (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698116395425595393-3-1675181437 - Holdem no limit (10/20) - 2023/01/31 16:10:37 UTC
+Table: 'Expresso Nitro(628204177)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vnik (270)
+Seat 2: _SKR (280)
+Seat 3: DO-Pichichi1 (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+DO-Pichichi1 posts big blind 20
+Dealt to _SKR [9h Jh]
+*** PRE-FLOP *** 
+Vnik folds
+_SKR raises 20 to 40
+DO-Pichichi1 raises 310 to 350 and is all-in
+_SKR folds
+DO-Pichichi1 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 3: DO-Pichichi1 (big blind) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698116395425595393-4-1675181446 - Holdem no limit (10/20) - 2023/01/31 16:10:46 UTC
+Table: 'Expresso Nitro(628204177)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vnik (270)
+Seat 2: _SKR (240)
+Seat 3: DO-Pichichi1 (390)
+*** ANTE/BLINDS ***
+DO-Pichichi1 posts small blind 10
+Vnik posts big blind 20
+Dealt to _SKR [Ks Kd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+DO-Pichichi1 folds
+Vnik calls 20
+*** FLOP *** [3d Kc Qd]
+Vnik checks
+_SKR bets 32
+Vnik calls 32
+*** TURN *** [3d Kc Qd][Qc]
+Vnik bets 51
+_SKR calls 51
+*** RIVER *** [3d Kc Qd Qc][7d]
+Vnik bets 147 and is all-in
+_SKR calls 117 and is all-in
+*** SHOW DOWN ***
+Vnik shows [Qh Th] (Trips of Queens)
+_SKR shows [Ks Kd] (Full of Kings and Queens)
+_SKR collected 490 from main pot
+Vnik collected 30 from side pot 1
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [3d Kc Qd Qc 7d]
+Seat 1: Vnik (big blind) showed [Qh Th] and won 30 with Trips of Queens
+Seat 2: _SKR (button) showed [Ks Kd] and won 490 with Full of Kings and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698116395425595393-5-1675181492 - Holdem no limit (15/30) - 2023/01/31 16:11:32 UTC
+Table: 'Expresso Nitro(628204177)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vnik (30)
+Seat 2: _SKR (490)
+Seat 3: DO-Pichichi1 (380)
+*** ANTE/BLINDS ***
+Vnik posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd Js]
+*** PRE-FLOP *** 
+DO-Pichichi1 raises 350 to 380 and is all-in
+Vnik calls 15 and is all-in
+_SKR raises 110 to 490 and is all-in
+*** FLOP *** [Qs Kd 9s]
+*** TURN *** [Qs Kd 9s][6s]
+*** RIVER *** [Qs Kd 9s 6s][Ts]
+*** SHOW DOWN ***
+Vnik shows [Ac Kh] (One pair : Kings)
+DO-Pichichi1 shows [Jc Ad] (Straight Ace high)
+_SKR shows [Jd Js] (Flush Queen high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qs Kd 9s 6s Ts]
+Seat 1: Vnik (small blind) showed [Ac Kh] and lost with One pair : Kings
+Seat 2: _SKR (big blind) showed [Jd Js] and won 900 with Flush Queen high
+Seat 3: DO-Pichichi1 (button) showed [Jc Ad] and lost with Straight Ace high
+
+

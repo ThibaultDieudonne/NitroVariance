@@ -1,0 +1,340 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730592073374760961-1-1676987465 - Holdem no limit (10/20) - 2023/02/21 13:51:05 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: grismetal (300)
+Seat 3: Parse99 (300)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3c 7c]
+*** PRE-FLOP *** 
+grismetal raises 280 to 300 and is all-in
+Parse99 calls 290 and is all-in
+_SKR folds
+*** FLOP *** [8h 4h Js]
+*** TURN *** [8h 4h Js][2c]
+*** RIVER *** [8h 4h Js 2c][Ks]
+*** SHOW DOWN ***
+grismetal shows [Jd Td] (One pair : Jacks)
+Parse99 shows [Ad Jh] (One pair : Jacks)
+Parse99 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8h 4h Js 2c Ks]
+Seat 2: grismetal (button) showed [Jd Td] and lost with One pair : Jacks
+Seat 3: Parse99 (small blind) showed [Ad Jh] and won 620 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730592073374760961-2-1676987484 - Holdem no limit (10/20) - 2023/02/21 13:51:24 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 3: Parse99 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Parse99 posts big blind 20
+Dealt to _SKR [2d 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Parse99 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Parse99 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730592073374760961-3-1676987488 - Holdem no limit (10/20) - 2023/02/21 13:51:28 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 3: Parse99 (630)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d Tc]
+*** PRE-FLOP *** 
+Parse99 raises 610 to 630 and is all-in
+_SKR folds
+Parse99 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 3: Parse99 (small blind) (button) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730592073374760961-4-1676987494 - Holdem no limit (10/20) - 2023/02/21 13:51:34 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (250)
+Seat 3: Parse99 (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Parse99 posts big blind 20
+Dealt to _SKR [Ah Ts]
+*** PRE-FLOP *** 
+_SKR raises 230 to 250 and is all-in
+Parse99 folds
+_SKR collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: _SKR (small blind) (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730592073374760961-5-1676987500 - Holdem no limit (10/20) - 2023/02/21 13:51:40 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 3: Parse99 (630)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 6c]
+*** PRE-FLOP *** 
+Parse99 calls 10
+_SKR checks
+*** FLOP *** [6d 9c 3d]
+_SKR checks
+Parse99 bets 20
+_SKR calls 20
+*** TURN *** [6d 9c 3d][Qs]
+_SKR checks
+Parse99 checks
+*** RIVER *** [6d 9c 3d Qs][8c]
+_SKR checks
+Parse99 bets 50
+_SKR calls 50
+*** SHOW DOWN ***
+_SKR shows [7c 6c] (One pair : 6)
+Parse99 shows [8h 6h] (Two pairs : 8 and 6)
+Parse99 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6d 9c 3d Qs 8c]
+Seat 1: _SKR (big blind) showed [7c 6c] and lost with One pair : 6
+Seat 3: Parse99 (small blind) (button) showed [8h 6h] and won 180 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730592073374760961-6-1676987546 - Holdem no limit (15/30) - 2023/02/21 13:52:26 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (180)
+Seat 3: Parse99 (720)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Parse99 posts big blind 30
+Dealt to _SKR [4d 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Parse99 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Parse99 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730592073374760961-7-1676987549 - Holdem no limit (15/30) - 2023/02/21 13:52:29 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (165)
+Seat 3: Parse99 (735)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2d Tc]
+*** PRE-FLOP *** 
+Parse99 raises 705 to 735 and is all-in
+_SKR folds
+Parse99 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 3: Parse99 (small blind) (button) won 765
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730592073374760961-8-1676987557 - Holdem no limit (15/30) - 2023/02/21 13:52:37 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (135)
+Seat 3: Parse99 (765)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Parse99 posts big blind 30
+Dealt to _SKR [5h 9c]
+*** PRE-FLOP *** 
+_SKR folds
+Parse99 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Parse99 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730592073374760961-9-1676987561 - Holdem no limit (15/30) - 2023/02/21 13:52:41 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (120)
+Seat 3: Parse99 (780)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6d Jh]
+*** PRE-FLOP *** 
+Parse99 raises 750 to 780 and is all-in
+_SKR folds
+Parse99 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Seat 3: Parse99 (small blind) (button) won 810
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730592073374760961-10-1676987568 - Holdem no limit (15/30) - 2023/02/21 13:52:48 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (90)
+Seat 3: Parse99 (810)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Parse99 posts big blind 30
+Dealt to _SKR [Kc 5s]
+*** PRE-FLOP *** 
+_SKR raises 60 to 90 and is all-in
+Parse99 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: _SKR (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730592073374760961-11-1676987574 - Holdem no limit (15/30) - 2023/02/21 13:52:54 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (120)
+Seat 3: Parse99 (780)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6c Tc]
+*** PRE-FLOP *** 
+Parse99 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730592073374760961-12-1676987581 - Holdem no limit (20/40) - 2023/02/21 13:53:01 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (135)
+Seat 3: Parse99 (765)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Parse99 posts big blind 40
+Dealt to _SKR [9d Jd]
+*** PRE-FLOP *** 
+_SKR raises 95 to 135 and is all-in
+Parse99 folds
+_SKR collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | No rake
+Seat 1: _SKR (small blind) (button) won 175
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730592073374760961-13-1676987588 - Holdem no limit (20/40) - 2023/02/21 13:53:08 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (175)
+Seat 3: Parse99 (725)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qs Kc]
+*** PRE-FLOP *** 
+Parse99 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730592073374760961-14-1676987593 - Holdem no limit (20/40) - 2023/02/21 13:53:13 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (195)
+Seat 3: Parse99 (705)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Parse99 posts big blind 40
+Dealt to _SKR [4c 4h]
+*** PRE-FLOP *** 
+_SKR raises 155 to 195 and is all-in
+Parse99 calls 155
+*** FLOP *** [2s 6c Qc]
+*** TURN *** [2s 6c Qc][2c]
+*** RIVER *** [2s 6c Qc 2c][3s]
+*** SHOW DOWN ***
+Parse99 shows [5s Ah] (One pair : 2)
+_SKR shows [4c 4h] (Two pairs : 4 and 2)
+_SKR collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [2s 6c Qc 2c 3s]
+Seat 1: _SKR (small blind) (button) showed [4c 4h] and won 390 with Two pairs : 4 and 2
+Seat 3: Parse99 (big blind) showed [5s Ah] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730592073374760961-15-1676987607 - Holdem no limit (20/40) - 2023/02/21 13:53:27 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (390)
+Seat 3: Parse99 (510)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 2d]
+*** PRE-FLOP *** 
+Parse99 calls 20
+_SKR checks
+*** FLOP *** [4s 7d 7s]
+_SKR checks
+Parse99 checks
+*** TURN *** [4s 7d 7s][2h]
+_SKR checks
+Parse99 checks
+*** RIVER *** [4s 7d 7s 2h][Jd]
+_SKR checks
+Parse99 bets 40
+_SKR folds
+Parse99 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4s 7d 7s 2h Jd]
+Seat 3: Parse99 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730592073374760961-16-1676987656 - Holdem no limit (30/60) - 2023/02/21 13:54:16 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (350)
+Seat 3: Parse99 (550)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Parse99 posts big blind 60
+Dealt to _SKR [Qs Js]
+*** PRE-FLOP *** 
+_SKR raises 290 to 350 and is all-in
+Parse99 folds
+_SKR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 1: _SKR (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730592073374760961-17-1676987662 - Holdem no limit (30/60) - 2023/02/21 13:54:22 UTC
+Table: 'Expresso Nitro(635765510)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (410)
+Seat 3: Parse99 (490)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9h 7c]
+*** PRE-FLOP *** 
+Parse99 calls 30
+_SKR checks
+*** FLOP *** [7h 5h 2c]
+_SKR bets 78
+Parse99 raises 352 to 430 and is all-in
+_SKR calls 272 and is all-in
+*** TURN *** [7h 5h 2c][6s]
+*** RIVER *** [7h 5h 2c 6s][3c]
+*** SHOW DOWN ***
+_SKR shows [9h 7c] (One pair : 7)
+Parse99 shows [7s 6d] (Two pairs : 7 and 6)
+Parse99 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h 5h 2c 6s 3c]
+Seat 1: _SKR (big blind) showed [9h 7c] and lost with One pair : 7
+Seat 3: Parse99 (small blind) (button) showed [7s 6d] and won 900 with Two pairs : 7 and 6
+
+

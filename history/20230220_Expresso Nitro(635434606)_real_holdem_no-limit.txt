@@ -1,0 +1,433 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729170851516645377-1-1676904204 - Holdem no limit (10/20) - 2023/02/20 14:43:24 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Berber31 (300)
+Seat 2: _SKR (300)
+Seat 3: therby (300)
+*** ANTE/BLINDS ***
+therby posts small blind 10
+Berber31 posts big blind 20
+Dealt to _SKR [9s 4c]
+*** PRE-FLOP *** 
+_SKR folds
+therby calls 10
+Berber31 checks
+*** FLOP *** [Jh 8c 6d]
+therby bets 20
+Berber31 calls 20
+*** TURN *** [Jh 8c 6d][6c]
+therby bets 28
+Berber31 calls 28
+*** RIVER *** [Jh 8c 6d 6c][9h]
+therby checks
+Berber31 bets 48
+therby folds
+Berber31 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [Jh 8c 6d 6c 9h]
+Seat 1: Berber31 (big blind) won 184
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729170851516645377-2-1676904252 - Holdem no limit (10/20) - 2023/02/20 14:44:12 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Berber31 (368)
+Seat 2: _SKR (300)
+Seat 3: therby (232)
+*** ANTE/BLINDS ***
+Berber31 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 2h]
+*** PRE-FLOP *** 
+therby raises 20 to 40
+Berber31 calls 30
+_SKR raises 260 to 300 and is all-in
+therby calls 192 and is all-in
+Berber31 folds
+*** FLOP *** [6d 7s Ad]
+*** TURN *** [6d 7s Ad][7d]
+*** RIVER *** [6d 7s Ad 7d][8s]
+*** SHOW DOWN ***
+_SKR shows [Ah 2h] (Two pairs : Aces and 7)
+therby shows [Ts Ac] (Two pairs : Aces and 7)
+therby collected 504 from main pot
+_SKR collected 68 from side pot 1
+*** SUMMARY ***
+Total pot 572 | No rake
+Board: [6d 7s Ad 7d 8s]
+Seat 2: _SKR (big blind) showed [Ah 2h] and won 68 with Two pairs : Aces and 7
+Seat 3: therby (button) showed [Ts Ac] and won 504 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729170851516645377-3-1676904268 - Holdem no limit (15/30) - 2023/02/20 14:44:28 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Berber31 (328)
+Seat 2: _SKR (68)
+Seat 3: therby (504)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+therby posts big blind 30
+Dealt to _SKR [7c Js]
+*** PRE-FLOP *** 
+Berber31 raises 298 to 328 and is all-in
+_SKR calls 53 and is all-in
+therby raises 176 to 504 and is all-in
+*** FLOP *** [9s 5d 5h]
+*** TURN *** [9s 5d 5h][3c]
+*** RIVER *** [9s 5d 5h 3c][Jh]
+*** SHOW DOWN ***
+Berber31 shows [Th As] (One pair : 5)
+_SKR shows [7c Js] (Two pairs : Jacks and 5)
+therby shows [Ad 7h] (One pair : 5)
+therby collected 176 from side pot 2
+_SKR collected 204 from main pot
+Berber31 collected 520 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 5d 5h 3c Jh]
+Seat 1: Berber31 (button) showed [Th As] and won 520 with One pair : 5
+Seat 2: _SKR (small blind) showed [7c Js] and won 204 with Two pairs : Jacks and 5
+Seat 3: therby (big blind) showed [Ad 7h] and won 176 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729170851516645377-4-1676904286 - Holdem no limit (15/30) - 2023/02/20 14:44:46 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Berber31 (520)
+Seat 2: _SKR (204)
+Seat 3: therby (176)
+*** ANTE/BLINDS ***
+therby posts small blind 15
+Berber31 posts big blind 30
+Dealt to _SKR [6s 3c]
+*** PRE-FLOP *** 
+_SKR folds
+therby calls 15
+Berber31 checks
+*** FLOP *** [9h 9c Th]
+therby bets 30
+Berber31 raises 460 to 490 and is all-in
+therby calls 116 and is all-in
+*** TURN *** [9h 9c Th][Jc]
+*** RIVER *** [9h 9c Th Jc][Kh]
+*** SHOW DOWN ***
+Berber31 shows [7d Ac] (One pair : 9)
+therby shows [6h 5h] (Flush King high)
+therby collected 352 from main pot
+Berber31 collected 344 from side pot 1
+*** SUMMARY ***
+Total pot 696 | No rake
+Board: [9h 9c Th Jc Kh]
+Seat 1: Berber31 (big blind) showed [7d Ac] and won 344 with One pair : 9
+Seat 3: therby (small blind) showed [6h 5h] and won 352 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729170851516645377-5-1676904313 - Holdem no limit (15/30) - 2023/02/20 14:45:13 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Berber31 (344)
+Seat 2: _SKR (204)
+Seat 3: therby (352)
+*** ANTE/BLINDS ***
+Berber31 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6s 2s]
+*** PRE-FLOP *** 
+therby folds
+Berber31 raises 314 to 344 and is all-in
+_SKR folds
+Berber31 collected 374 from pot
+*** SUMMARY ***
+Total pot 374 | No rake
+Seat 1: Berber31 (small blind) won 374
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729170851516645377-6-1676904319 - Holdem no limit (15/30) - 2023/02/20 14:45:19 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Berber31 (374)
+Seat 2: _SKR (174)
+Seat 3: therby (352)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+therby posts big blind 30
+Dealt to _SKR [4s Kc]
+*** PRE-FLOP *** 
+Berber31 folds
+_SKR raises 144 to 174 and is all-in
+therby folds
+_SKR collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Seat 2: _SKR (small blind) won 204
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729170851516645377-7-1676904327 - Holdem no limit (20/40) - 2023/02/20 14:45:27 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Berber31 (374)
+Seat 2: _SKR (204)
+Seat 3: therby (322)
+*** ANTE/BLINDS ***
+therby posts small blind 20
+Berber31 posts big blind 40
+Dealt to _SKR [5s 4c]
+*** PRE-FLOP *** 
+_SKR folds
+therby calls 20
+Berber31 checks
+*** FLOP *** [3d Tc Ts]
+therby checks
+Berber31 checks
+*** TURN *** [3d Tc Ts][8d]
+therby bets 40
+Berber31 calls 40
+*** RIVER *** [3d Tc Ts 8d][4d]
+therby bets 60
+Berber31 raises 60 to 120
+therby folds
+Berber31 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [3d Tc Ts 8d 4d]
+Seat 1: Berber31 (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729170851516645377-8-1676904354 - Holdem no limit (20/40) - 2023/02/20 14:45:54 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Berber31 (514)
+Seat 2: _SKR (204)
+Seat 3: therby (182)
+*** ANTE/BLINDS ***
+Berber31 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Td 8c]
+*** PRE-FLOP *** 
+therby folds
+Berber31 calls 20
+_SKR checks
+*** FLOP *** [8d 6h 2c]
+Berber31 checks
+_SKR bets 40
+Berber31 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8d 6h 2c]
+Seat 2: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729170851516645377-9-1676904368 - Holdem no limit (20/40) - 2023/02/20 14:46:08 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Berber31 (474)
+Seat 2: _SKR (244)
+Seat 3: therby (182)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+therby posts big blind 40
+Dealt to _SKR [Kh 4c]
+*** PRE-FLOP *** 
+Berber31 raises 434 to 474 and is all-in
+_SKR folds
+therby folds
+Berber31 collected 534 from pot
+*** SUMMARY ***
+Total pot 534 | No rake
+Seat 1: Berber31 (button) won 534
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729170851516645377-10-1676904377 - Holdem no limit (20/40) - 2023/02/20 14:46:17 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Berber31 (534)
+Seat 2: _SKR (224)
+Seat 3: therby (142)
+*** ANTE/BLINDS ***
+therby posts small blind 20
+Berber31 posts big blind 40
+Dealt to _SKR [4h 9c]
+*** PRE-FLOP *** 
+_SKR folds
+therby folds
+Berber31 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Berber31 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729170851516645377-11-1676904383 - Holdem no limit (30/60) - 2023/02/20 14:46:23 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Berber31 (554)
+Seat 2: _SKR (224)
+Seat 3: therby (122)
+*** ANTE/BLINDS ***
+Berber31 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2d Jh]
+*** PRE-FLOP *** 
+therby raises 62 to 122 and is all-in
+Berber31 folds
+_SKR raises 62 to 184
+*** FLOP *** [Kc 5s Ac]
+*** TURN *** [Kc 5s Ac][6c]
+*** RIVER *** [Kc 5s Ac 6c][7s]
+*** SHOW DOWN ***
+_SKR shows [2d Jh] (High card : Ace)
+therby shows [4s Kd] (One pair : Kings)
+therby collected 274 from main pot
+_SKR collected 62 from side pot 1
+*** SUMMARY ***
+Total pot 336 | No rake
+Board: [Kc 5s Ac 6c 7s]
+Seat 2: _SKR (big blind) showed [2d Jh] and won 62 with High card : Ace
+Seat 3: therby (button) showed [4s Kd] and won 274 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729170851516645377-12-1676904402 - Holdem no limit (30/60) - 2023/02/20 14:46:42 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Berber31 (524)
+Seat 2: _SKR (102)
+Seat 3: therby (274)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+therby posts big blind 60
+Dealt to _SKR [Ts Td]
+*** PRE-FLOP *** 
+Berber31 folds
+_SKR raises 42 to 102 and is all-in
+therby raises 172 to 274 and is all-in
+*** FLOP *** [4d 5s Kh]
+*** TURN *** [4d 5s Kh][6s]
+*** RIVER *** [4d 5s Kh 6s][Qs]
+*** SHOW DOWN ***
+_SKR shows [Ts Td] (One pair : Tens)
+therby shows [9c 9d] (One pair : 9)
+therby collected 172 from side pot 1
+_SKR collected 204 from main pot
+*** SUMMARY ***
+Total pot 376 | No rake
+Board: [4d 5s Kh 6s Qs]
+Seat 2: _SKR (small blind) showed [Ts Td] and won 204 with One pair : Tens
+Seat 3: therby (big blind) showed [9c 9d] and won 172 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729170851516645377-13-1676904419 - Holdem no limit (30/60) - 2023/02/20 14:46:59 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Berber31 (524)
+Seat 2: _SKR (204)
+Seat 3: therby (172)
+*** ANTE/BLINDS ***
+therby posts small blind 30
+Berber31 posts big blind 60
+Dealt to _SKR [3c Ts]
+*** PRE-FLOP *** 
+_SKR folds
+therby folds
+Berber31 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Berber31 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729170851516645377-14-1676904423 - Holdem no limit (30/60) - 2023/02/20 14:47:03 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Berber31 (554)
+Seat 2: _SKR (204)
+Seat 3: therby (142)
+*** ANTE/BLINDS ***
+Berber31 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5h 8c]
+*** PRE-FLOP *** 
+therby folds
+Berber31 calls 30
+_SKR checks
+*** FLOP *** [Kd 5s Jc]
+Berber31 checks
+_SKR checks
+*** TURN *** [Kd 5s Jc][8h]
+Berber31 checks
+_SKR checks
+*** RIVER *** [Kd 5s Jc 8h][Ts]
+Berber31 checks
+_SKR checks
+*** SHOW DOWN ***
+Berber31 shows [2d Qh] (High card : King)
+_SKR shows [5h 8c] (Two pairs : 8 and 5)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kd 5s Jc 8h Ts]
+Seat 1: Berber31 (small blind) showed [2d Qh] and lost with High card : King
+Seat 2: _SKR (big blind) showed [5h 8c] and won 120 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2729170851516645377-15-1676904450 - Holdem no limit (40/80) - 2023/02/20 14:47:30 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Berber31 (494)
+Seat 2: _SKR (264)
+Seat 3: therby (142)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+therby posts big blind 80
+Dealt to _SKR [8h 5c]
+*** PRE-FLOP *** 
+Berber31 folds
+_SKR raises 184 to 264 and is all-in
+therby calls 62 and is all-in
+*** FLOP *** [Jc 3s 7s]
+*** TURN *** [Jc 3s 7s][6d]
+*** RIVER *** [Jc 3s 7s 6d][Kh]
+*** SHOW DOWN ***
+_SKR shows [8h 5c] (High card : King)
+therby shows [Tc 6s] (One pair : 6)
+therby collected 284 from main pot
+_SKR collected 122 from side pot 1
+*** SUMMARY ***
+Total pot 406 | No rake
+Board: [Jc 3s 7s 6d Kh]
+Seat 2: _SKR (small blind) showed [8h 5c] and won 122 with High card : King
+Seat 3: therby (big blind) showed [Tc 6s] and won 284 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2729170851516645377-16-1676904467 - Holdem no limit (40/80) - 2023/02/20 14:47:47 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Berber31 (494)
+Seat 2: _SKR (122)
+Seat 3: therby (284)
+*** ANTE/BLINDS ***
+therby posts small blind 40
+Berber31 posts big blind 80
+Dealt to _SKR [4s Tc]
+*** PRE-FLOP *** 
+_SKR folds
+therby raises 204 to 284 and is all-in
+Berber31 folds
+therby collected 364 from pot
+*** SUMMARY ***
+Total pot 364 | No rake
+Seat 3: therby (small blind) won 364
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2729170851516645377-17-1676904480 - Holdem no limit (40/80) - 2023/02/20 14:48:00 UTC
+Table: 'Expresso Nitro(635434606)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Berber31 (414)
+Seat 2: _SKR (122)
+Seat 3: therby (364)
+*** ANTE/BLINDS ***
+Berber31 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Ks 2h]
+*** PRE-FLOP *** 
+therby folds
+Berber31 calls 40
+_SKR raises 42 to 122 and is all-in
+Berber31 calls 42
+*** FLOP *** [Kd Ah 9c]
+*** TURN *** [Kd Ah 9c][5d]
+*** RIVER *** [Kd Ah 9c 5d][6c]
+*** SHOW DOWN ***
+_SKR shows [Ks 2h] (One pair : Kings)
+Berber31 shows [8s 7h] (Straight 9 high)
+Berber31 collected 244 from pot
+*** SUMMARY ***
+Total pot 244 | No rake
+Board: [Kd Ah 9c 5d 6c]
+Seat 1: Berber31 (small blind) showed [8s 7h] and won 244 with Straight 9 high
+Seat 2: _SKR (big blind) showed [Ks 2h] and lost with One pair : Kings
+
+

@@ -1,0 +1,87 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717787925461860353-1-1676235368 - Holdem no limit (10/20) - 2023/02/12 20:56:08 UTC
+Table: 'Expresso Nitro(632784312)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gwendal bmw (300)
+Seat 2: _SKR (300)
+Seat 3: lolbiplol (300)
+*** ANTE/BLINDS ***
+Gwendal bmw posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5h 7d]
+*** PRE-FLOP *** 
+lolbiplol raises 20 to 40
+Gwendal bmw calls 30
+_SKR folds
+*** FLOP *** [3d 5c Jc]
+Gwendal bmw bets 65
+lolbiplol folds
+Gwendal bmw collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [3d 5c Jc]
+Seat 1: Gwendal bmw (small blind) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717787925461860353-2-1676235384 - Holdem no limit (10/20) - 2023/02/12 20:56:24 UTC
+Table: 'Expresso Nitro(632784312)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gwendal bmw (360)
+Seat 2: _SKR (280)
+Seat 3: lolbiplol (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+lolbiplol posts big blind 20
+Dealt to _SKR [Ks 4s]
+*** PRE-FLOP *** 
+Gwendal bmw folds
+_SKR calls 10
+lolbiplol checks
+*** FLOP *** [Jc 6c Th]
+_SKR checks
+lolbiplol checks
+*** TURN *** [Jc 6c Th][Ts]
+_SKR checks
+lolbiplol checks
+*** RIVER *** [Jc 6c Th Ts][3h]
+_SKR checks
+lolbiplol checks
+*** SHOW DOWN ***
+_SKR shows [Ks 4s] (One pair : Tens)
+lolbiplol shows [3c Ad] (Two pairs : Tens and 3)
+lolbiplol collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Jc 6c Th Ts 3h]
+Seat 2: _SKR (small blind) showed [Ks 4s] and lost with One pair : Tens
+Seat 3: lolbiplol (big blind) showed [3c Ad] and won 40 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717787925461860353-3-1676235420 - Holdem no limit (10/20) - 2023/02/12 20:57:00 UTC
+Table: 'Expresso Nitro(632784312)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gwendal bmw (360)
+Seat 2: _SKR (260)
+Seat 3: lolbiplol (280)
+*** ANTE/BLINDS ***
+lolbiplol posts small blind 10
+Gwendal bmw posts big blind 20
+Dealt to _SKR [3h Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+lolbiplol calls 30
+Gwendal bmw folds
+*** FLOP *** [4h As 2h]
+lolbiplol checks
+_SKR bets 50
+lolbiplol raises 190 to 240 and is all-in
+_SKR calls 170 and is all-in
+*** TURN *** [4h As 2h][9d]
+*** RIVER *** [4h As 2h 9d][Qd]
+*** SHOW DOWN ***
+_SKR shows [3h Kh] (High card : Ace)
+lolbiplol shows [Ah 5d] (One pair : Aces)
+lolbiplol collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [4h As 2h 9d Qd]
+Seat 2: _SKR (button) showed [3h Kh] and lost with High card : Ace
+Seat 3: lolbiplol (small blind) showed [Ah 5d] and won 560 with One pair : Aces
+
+

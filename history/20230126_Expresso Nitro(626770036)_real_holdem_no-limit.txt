@@ -1,0 +1,118 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691956806732742657-1-1674775020 - Holdem no limit (10/20) - 2023/01/26 23:17:00 UTC
+Table: 'Expresso Nitro(626770036)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Ben_packm (300)
+Seat 3: GTOMAX76 (300)
+*** ANTE/BLINDS ***
+GTOMAX76 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d 3h]
+*** PRE-FLOP *** 
+Ben_packm raises 280 to 300 and is all-in
+GTOMAX76 folds
+_SKR folds
+Ben_packm collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Ben_packm (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691956806732742657-2-1674775032 - Holdem no limit (10/20) - 2023/01/26 23:17:12 UTC
+Table: 'Expresso Nitro(626770036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Ben_packm (330)
+Seat 3: GTOMAX76 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ben_packm posts big blind 20
+Dealt to _SKR [Ad Ac]
+*** PRE-FLOP *** 
+GTOMAX76 folds
+_SKR calls 10
+Ben_packm raises 310 to 330 and is all-in
+_SKR calls 260 and is all-in
+*** FLOP *** [Tc Jd 5s]
+*** TURN *** [Tc Jd 5s][Th]
+*** RIVER *** [Tc Jd 5s Th][Ts]
+*** SHOW DOWN ***
+_SKR shows [Ad Ac] (Full of Tens and Aces)
+Ben_packm shows [7s 6h] (Trips of Tens)
+Ben_packm collected 50 from side pot 1
+_SKR collected 560 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Tc Jd 5s Th Ts]
+Seat 1: _SKR (small blind) showed [Ad Ac] and won 560 with Full of Tens and Aces
+Seat 2: Ben_packm (big blind) showed [7s 6h] and won 50 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691956806732742657-3-1674775063 - Holdem no limit (10/20) - 2023/01/26 23:17:43 UTC
+Table: 'Expresso Nitro(626770036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (560)
+Seat 2: Ben_packm (50)
+Seat 3: GTOMAX76 (290)
+*** ANTE/BLINDS ***
+Ben_packm posts small blind 10
+GTOMAX76 posts big blind 20
+Dealt to _SKR [8c Ah]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Ben_packm raises 10 to 50 and is all-in
+GTOMAX76 folds
+_SKR calls 10
+*** FLOP *** [9d 3c 2h]
+*** TURN *** [9d 3c 2h][Ad]
+*** RIVER *** [9d 3c 2h Ad][3s]
+*** SHOW DOWN ***
+Ben_packm shows [Jh 9s] (Two pairs : 9 and 3)
+_SKR shows [8c Ah] (Two pairs : Aces and 3)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9d 3c 2h Ad 3s]
+Seat 1: _SKR (button) showed [8c Ah] and won 120 with Two pairs : Aces and 3
+Seat 2: Ben_packm (small blind) showed [Jh 9s] and lost with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691956806732742657-4-1674775086 - Holdem no limit (15/30) - 2023/01/26 23:18:06 UTC
+Table: 'Expresso Nitro(626770036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (630)
+Seat 3: GTOMAX76 (270)
+*** ANTE/BLINDS ***
+GTOMAX76 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6d 8d]
+*** PRE-FLOP *** 
+GTOMAX76 raises 240 to 270 and is all-in
+_SKR folds
+GTOMAX76 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: GTOMAX76 (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691956806732742657-5-1674775099 - Holdem no limit (15/30) - 2023/01/26 23:18:19 UTC
+Table: 'Expresso Nitro(626770036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 3: GTOMAX76 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+GTOMAX76 posts big blind 30
+Dealt to _SKR [7s Kd]
+*** PRE-FLOP *** 
+_SKR raises 570 to 600 and is all-in
+GTOMAX76 calls 270 and is all-in
+*** FLOP *** [7c Kh 8h]
+*** TURN *** [7c Kh 8h][5s]
+*** RIVER *** [7c Kh 8h 5s][9h]
+*** SHOW DOWN ***
+GTOMAX76 shows [As 9c] (One pair : 9)
+_SKR shows [7s Kd] (Two pairs : Kings and 7)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c Kh 8h 5s 9h]
+Seat 1: _SKR (small blind) (button) showed [7s Kd] and won 900 with Two pairs : Kings and 7
+Seat 3: GTOMAX76 (big blind) showed [As 9c] and lost with One pair : 9
+
+

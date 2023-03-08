@@ -1,0 +1,155 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692535755439341569-1-1674829386 - Holdem no limit (10/20) - 2023/01/27 14:23:06 UTC
+Table: 'Expresso Nitro(626904833)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Elnino9999 (300)
+Seat 3: PICPIC28000 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Elnino9999 posts big blind 20
+Dealt to _SKR [8h Td]
+*** PRE-FLOP *** 
+PICPIC28000 raises 20 to 40
+_SKR folds
+Elnino9999 calls 20
+*** FLOP *** [6d Ks Tc]
+Elnino9999 checks
+PICPIC28000 bets 20
+Elnino9999 folds
+PICPIC28000 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [6d Ks Tc]
+Seat 3: PICPIC28000 (button) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692535755439341569-2-1674829402 - Holdem no limit (10/20) - 2023/01/27 14:23:22 UTC
+Table: 'Expresso Nitro(626904833)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Elnino9999 (260)
+Seat 3: PICPIC28000 (350)
+*** ANTE/BLINDS ***
+Elnino9999 posts small blind 10
+PICPIC28000 posts big blind 20
+Dealt to _SKR [Ts Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Elnino9999 folds
+PICPIC28000 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: PICPIC28000 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692535755439341569-3-1674829410 - Holdem no limit (10/20) - 2023/01/27 14:23:30 UTC
+Table: 'Expresso Nitro(626904833)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Elnino9999 (250)
+Seat 3: PICPIC28000 (360)
+*** ANTE/BLINDS ***
+PICPIC28000 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c 4d]
+*** PRE-FLOP *** 
+Elnino9999 folds
+PICPIC28000 calls 10
+_SKR checks
+*** FLOP *** [8s Kh Ac]
+PICPIC28000 bets 40
+_SKR folds
+PICPIC28000 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8s Kh Ac]
+Seat 3: PICPIC28000 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692535755439341569-4-1674829428 - Holdem no limit (10/20) - 2023/01/27 14:23:48 UTC
+Table: 'Expresso Nitro(626904833)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 2: Elnino9999 (250)
+Seat 3: PICPIC28000 (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Elnino9999 posts big blind 20
+Dealt to _SKR [6s 4s]
+*** PRE-FLOP *** 
+PICPIC28000 folds
+_SKR calls 10
+Elnino9999 checks
+*** FLOP *** [6h Tc As]
+_SKR checks
+Elnino9999 checks
+*** TURN *** [6h Tc As][Th]
+_SKR checks
+Elnino9999 checks
+*** RIVER *** [6h Tc As Th][3s]
+_SKR checks
+Elnino9999 bets 20
+_SKR calls 20
+*** SHOW DOWN ***
+Elnino9999 shows [4c 2d] (One pair : Tens)
+_SKR shows [6s 4s] (Two pairs : Tens and 6)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [6h Tc As Th 3s]
+Seat 1: _SKR (small blind) showed [6s 4s] and won 80 with Two pairs : Tens and 6
+Seat 2: Elnino9999 (big blind) showed [4c 2d] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692535755439341569-5-1674829457 - Holdem no limit (15/30) - 2023/01/27 14:24:17 UTC
+Table: 'Expresso Nitro(626904833)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: Elnino9999 (210)
+Seat 3: PICPIC28000 (380)
+*** ANTE/BLINDS ***
+Elnino9999 posts small blind 15
+PICPIC28000 posts big blind 30
+Dealt to _SKR [Js Kh]
+*** PRE-FLOP *** 
+_SKR raises 280 to 310 and is all-in
+Elnino9999 calls 195 and is all-in
+PICPIC28000 folds
+*** FLOP *** [3s 6d 2d]
+*** TURN *** [3s 6d 2d][6c]
+*** RIVER *** [3s 6d 2d 6c][7s]
+*** SHOW DOWN ***
+_SKR shows [Js Kh] (One pair : 6)
+Elnino9999 shows [Qd Kd] (One pair : 6)
+Elnino9999 collected 450 from main pot
+_SKR collected 100 from side pot 1
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [3s 6d 2d 6c 7s]
+Seat 1: _SKR (button) showed [Js Kh] and won 100 with One pair : 6
+Seat 2: Elnino9999 (small blind) showed [Qd Kd] and won 450 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692535755439341569-6-1674829472 - Holdem no limit (15/30) - 2023/01/27 14:24:32 UTC
+Table: 'Expresso Nitro(626904833)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (100)
+Seat 2: Elnino9999 (450)
+Seat 3: PICPIC28000 (350)
+*** ANTE/BLINDS ***
+PICPIC28000 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2h Ad]
+*** PRE-FLOP *** 
+Elnino9999 calls 30
+PICPIC28000 folds
+_SKR raises 70 to 100 and is all-in
+Elnino9999 calls 70
+*** FLOP *** [5d 9h Ts]
+*** TURN *** [5d 9h Ts][9c]
+*** RIVER *** [5d 9h Ts 9c][4h]
+*** SHOW DOWN ***
+_SKR shows [2h Ad] (One pair : 9)
+Elnino9999 shows [Ac Ah] (Two pairs : Aces and 9)
+Elnino9999 collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Board: [5d 9h Ts 9c 4h]
+Seat 1: _SKR (big blind) showed [2h Ad] and lost with One pair : 9
+Seat 2: Elnino9999 (button) showed [Ac Ah] and won 215 with Two pairs : Aces and 9
+
+

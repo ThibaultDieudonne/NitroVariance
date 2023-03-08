@@ -1,0 +1,4633 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464388-1-1676576704 - Holdem no limit (120/500/1000) - 2023/02/16 19:45:04 UTC
+Table: 'Monster Stack(623541204)#003' 6-max (real money) Seat #2 is the button
+Seat 1: CaVa5minutes (100000)
+Seat 2: _SKR (100000)
+Seat 4: tony mozz (100000)
+Seat 5: SantaClausV8 (100000)
+Seat 6: Youmanduaa (100000)
+*** ANTE/BLINDS ***
+tony mozz posts ante 120
+SantaClausV8 posts ante 120
+CaVa5minutes posts ante 120
+_SKR posts ante 120
+Youmanduaa posts ante 120
+tony mozz posts small blind 500
+SantaClausV8 posts big blind 1000
+Dealt to _SKR [8s 8c]
+*** PRE-FLOP *** 
+Youmanduaa folds
+CaVa5minutes raises 1500 to 2500
+_SKR calls 2500
+tony mozz folds
+SantaClausV8 folds
+*** FLOP *** [9h Ad Td]
+CaVa5minutes bets 2485
+_SKR folds
+CaVa5minutes collected 9585 from pot
+*** SUMMARY ***
+Total pot 9585 | No rake
+Board: [9h Ad Td]
+Seat 1: CaVa5minutes won 9585
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464388-2-1676576749 - Holdem no limit (120/500/1000) - 2023/02/16 19:45:49 UTC
+Table: 'Monster Stack(623541204)#003' 6-max (real money) Seat #4 is the button
+Seat 1: CaVa5minutes (104480)
+Seat 2: _SKR (97380)
+Seat 4: tony mozz (99380)
+Seat 5: SantaClausV8 (98880)
+Seat 6: Youmanduaa (99880)
+*** ANTE/BLINDS ***
+SantaClausV8 posts ante 120
+Youmanduaa posts ante 120
+CaVa5minutes posts ante 120
+_SKR posts ante 120
+tony mozz posts ante 120
+SantaClausV8 posts small blind 500
+Youmanduaa posts big blind 1000
+Dealt to _SKR [Ad 7c]
+*** PRE-FLOP *** 
+CaVa5minutes folds
+_SKR raises 1500 to 2500
+tony mozz folds
+SantaClausV8 folds
+Youmanduaa folds
+_SKR collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 2: _SKR won 4600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464388-3-1676576765 - Holdem no limit (120/500/1000) - 2023/02/16 19:46:05 UTC
+Table: 'Monster Stack(623541204)#003' 6-max (real money) Seat #5 is the button
+Seat 1: CaVa5minutes (104360)
+Seat 2: _SKR (99360)
+Seat 4: tony mozz (99260)
+Seat 5: SantaClausV8 (98260)
+Seat 6: Youmanduaa (98760)
+*** ANTE/BLINDS ***
+Youmanduaa posts ante 120
+CaVa5minutes posts ante 120
+_SKR posts ante 120
+tony mozz posts ante 120
+SantaClausV8 posts ante 120
+Youmanduaa posts small blind 500
+CaVa5minutes posts big blind 1000
+Dealt to _SKR [5s 4h]
+*** PRE-FLOP *** 
+_SKR folds
+tony mozz raises 1250 to 2250
+SantaClausV8 raises 5625 to 7875
+Youmanduaa folds
+CaVa5minutes raises 11813 to 19688
+tony mozz calls 17438
+SantaClausV8 folds
+*** FLOP *** [9h 2s 7s]
+CaVa5minutes bets 24176
+tony mozz calls 24176
+*** TURN *** [9h 2s 7s][Qh]
+CaVa5minutes bets 48352
+tony mozz raises 6924 to 55276 and is all-in
+CaVa5minutes calls 6924
+*** RIVER *** [9h 2s 7s Qh][3d]
+*** SHOW DOWN ***
+tony mozz shows [Ac Qc] (One pair : Queens)
+CaVa5minutes shows [Ks Kc] (One pair : Kings)
+CaVa5minutes collected 207255 from pot
+*** SUMMARY ***
+Total pot 207255 | No rake
+Board: [9h 2s 7s Qh 3d]
+Seat 1: CaVa5minutes (big blind) showed [Ks Kc] and won 207255 with One pair : Kings
+Seat 4: tony mozz showed [Ac Qc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464388-4-1676576826 - Holdem no limit (120/500/1000) - 2023/02/16 19:47:06 UTC
+Table: 'Monster Stack(623541204)#003' 6-max (real money) Seat #6 is the button
+Seat 1: CaVa5minutes (212355)
+Seat 2: _SKR (99240)
+Seat 3: Cote-2-Bluff (100000)
+Seat 5: SantaClausV8 (90265)
+Seat 6: Youmanduaa (98140)
+*** ANTE/BLINDS ***
+CaVa5minutes posts ante 120
+_SKR posts ante 120
+Cote-2-Bluff posts ante 120
+SantaClausV8 posts ante 120
+Youmanduaa posts ante 120
+CaVa5minutes posts small blind 500
+_SKR posts big blind 1000
+Dealt to _SKR [9h 2h]
+*** PRE-FLOP *** 
+Cote-2-Bluff folds
+SantaClausV8 folds
+Youmanduaa raises 1500 to 2500
+CaVa5minutes calls 2000
+_SKR folds
+*** FLOP *** [3d Ad 6c]
+CaVa5minutes checks
+Youmanduaa checks
+*** TURN *** [3d Ad 6c][2c]
+CaVa5minutes checks
+Youmanduaa checks
+*** RIVER *** [3d Ad 6c 2c][2s]
+CaVa5minutes checks
+Youmanduaa bets 3300
+CaVa5minutes folds
+Youmanduaa collected 9900 from pot
+*** SUMMARY ***
+Total pot 9900 | No rake
+Board: [3d Ad 6c 2c 2s]
+Seat 6: Youmanduaa (button) won 9900
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464388-5-1676576878 - Holdem no limit (120/500/1000) - 2023/02/16 19:47:58 UTC
+Table: 'Monster Stack(623541204)#003' 6-max (real money) Seat #1 is the button
+Seat 1: CaVa5minutes (209735)
+Seat 2: _SKR (98120)
+Seat 3: Cote-2-Bluff (99880)
+Seat 5: SantaClausV8 (90145)
+Seat 6: Youmanduaa (102120)
+*** ANTE/BLINDS ***
+_SKR posts ante 120
+Cote-2-Bluff posts ante 120
+CaVa5minutes posts ante 120
+SantaClausV8 posts ante 120
+Youmanduaa posts ante 120
+_SKR posts small blind 500
+Cote-2-Bluff posts big blind 1000
+Dealt to _SKR [As Ks]
+*** PRE-FLOP *** 
+SantaClausV8 folds
+Youmanduaa folds
+CaVa5minutes folds
+_SKR raises 1500 to 2500
+Cote-2-Bluff calls 1500
+*** FLOP *** [2h 8s 5h]
+_SKR bets 1960
+Cote-2-Bluff calls 1960
+*** TURN *** [2h 8s 5h][6d]
+_SKR checks
+Cote-2-Bluff bets 6188
+_SKR folds
+Cote-2-Bluff collected 15708 from pot
+*** SUMMARY ***
+Total pot 15708 | No rake
+Board: [2h 8s 5h 6d]
+Seat 3: Cote-2-Bluff (big blind) won 15708
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464388-6-1676576910 - Holdem no limit (120/500/1000) - 2023/02/16 19:48:30 UTC
+Table: 'Monster Stack(623541204)#003' 6-max (real money) Seat #2 is the button
+Seat 1: CaVa5minutes (209615)
+Seat 2: _SKR (93540)
+Seat 3: Cote-2-Bluff (104820)
+Seat 4: DUMK (100000)
+Seat 5: SantaClausV8 (90025)
+Seat 6: Youmanduaa (102000)
+*** ANTE/BLINDS ***
+Cote-2-Bluff posts ante 120
+DUMK posts ante 120
+CaVa5minutes posts ante 120
+_SKR posts ante 120
+SantaClausV8 posts ante 120
+Youmanduaa posts ante 120
+Cote-2-Bluff posts small blind 500
+DUMK posts big blind 1000
+Dealt to _SKR [7c Qs]
+*** PRE-FLOP *** 
+SantaClausV8 folds
+Youmanduaa raises 1500 to 2500
+CaVa5minutes folds
+_SKR folds
+Cote-2-Bluff folds
+DUMK folds
+Youmanduaa collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 6: Youmanduaa won 4720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464388-7-1676576935 - Holdem no limit (120/500/1000) - 2023/02/16 19:48:55 UTC
+Table: 'Monster Stack(623541204)#003' 6-max (real money) Seat #3 is the button
+Seat 1: CaVa5minutes (209495)
+Seat 2: _SKR (93420)
+Seat 3: Cote-2-Bluff (104200)
+Seat 4: DUMK (98880)
+Seat 5: SantaClausV8 (89905)
+Seat 6: Youmanduaa (104100)
+*** ANTE/BLINDS ***
+DUMK posts ante 120
+SantaClausV8 posts ante 120
+CaVa5minutes posts ante 120
+_SKR posts ante 120
+Cote-2-Bluff posts ante 120
+Youmanduaa posts ante 120
+DUMK posts small blind 500
+SantaClausV8 posts big blind 1000
+Dealt to _SKR [3c Qd]
+*** PRE-FLOP *** 
+Youmanduaa folds
+CaVa5minutes folds
+_SKR folds
+Cote-2-Bluff folds
+DUMK raises 2500 to 3500
+SantaClausV8 folds
+DUMK collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Seat 4: DUMK (small blind) won 5220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464388-8-1676576961 - Holdem no limit (120/500/1000) - 2023/02/16 19:49:21 UTC
+Table: 'Monster Stack(623541204)#003' 6-max (real money) Seat #4 is the button
+Seat 2: _SKR (93300)
+Seat 3: Cote-2-Bluff (104080)
+Seat 4: DUMK (100480)
+Seat 5: SantaClausV8 (88785)
+Seat 6: Youmanduaa (103980)
+*** ANTE/BLINDS ***
+SantaClausV8 posts ante 120
+Youmanduaa posts ante 120
+_SKR posts ante 120
+Cote-2-Bluff posts ante 120
+DUMK posts ante 120
+SantaClausV8 posts small blind 500
+Youmanduaa posts big blind 1000
+Dealt to _SKR [9s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Cote-2-Bluff folds
+DUMK folds
+SantaClausV8 folds
+Youmanduaa collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 6: Youmanduaa (big blind) won 2100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-3-1676577015 - Holdem no limit (120/500/1000) - 2023/02/16 19:50:15 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #5 is the button
+Seat 2: Wargas10 (98760)
+Seat 3: QuentinD007 (150420)
+Seat 4: _SKR (93180)
+Seat 5: Scheinka (91488)
+Seat 6: CaVa5minutes (208135)
+*** ANTE/BLINDS ***
+CaVa5minutes posts ante 120
+Wargas10 posts ante 120
+QuentinD007 posts ante 120
+_SKR posts ante 120
+Scheinka posts ante 120
+CaVa5minutes posts small blind 500
+Wargas10 posts big blind 1000
+Dealt to _SKR [8s 8c]
+*** PRE-FLOP *** 
+QuentinD007 folds
+_SKR raises 1500 to 2500
+Scheinka folds
+CaVa5minutes calls 2000
+Wargas10 calls 1500
+*** FLOP *** [6d 5s 8h]
+CaVa5minutes checks
+Wargas10 checks
+_SKR bets 2025
+CaVa5minutes folds
+Wargas10 folds
+_SKR collected 10125 from pot
+*** SUMMARY ***
+Total pot 10125 | No rake
+Board: [6d 5s 8h]
+Seat 4: _SKR won 10125
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-4-1676577058 - Holdem no limit (120/500/1000) - 2023/02/16 19:50:58 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #6 is the button
+Seat 1: AAbi_dum0ine (100000)
+Seat 2: Wargas10 (96140)
+Seat 3: QuentinD007 (150300)
+Seat 4: _SKR (98660)
+Seat 5: Scheinka (91368)
+Seat 6: CaVa5minutes (205515)
+*** ANTE/BLINDS ***
+Wargas10 posts ante 120
+QuentinD007 posts ante 120
+_SKR posts ante 120
+Scheinka posts ante 120
+CaVa5minutes posts ante 120
+Wargas10 posts small blind 500
+QuentinD007 posts big blind 1000
+Dealt to _SKR [Kd 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Scheinka folds
+CaVa5minutes folds
+Wargas10 calls 500
+QuentinD007 raises 2500 to 3500
+Wargas10 calls 2500
+*** FLOP *** [8c 2h 7h]
+Wargas10 checks
+QuentinD007 checks
+*** TURN *** [8c 2h 7h][9d]
+Wargas10 checks
+QuentinD007 bets 5700
+Wargas10 folds
+QuentinD007 collected 13300 from pot
+*** SUMMARY ***
+Total pot 13300 | No rake
+Board: [8c 2h 7h 9d]
+Seat 3: QuentinD007 (big blind) won 13300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-5-1676577112 - Holdem no limit (120/500/1000) - 2023/02/16 19:51:52 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #2 is the button
+Seat 1: AAbi_dum0ine (100000)
+Seat 2: Wargas10 (92520)
+Seat 3: QuentinD007 (154280)
+Seat 4: _SKR (98540)
+Seat 5: Scheinka (91248)
+Seat 6: CaVa5minutes (205395)
+*** ANTE/BLINDS ***
+QuentinD007 posts ante 120
+_SKR posts ante 120
+AAbi_dum0ine posts ante 120
+Wargas10 posts ante 120
+Scheinka posts ante 120
+CaVa5minutes posts ante 120
+QuentinD007 posts small blind 500
+_SKR posts big blind 1000
+Dealt to _SKR [5c Qh]
+*** PRE-FLOP *** 
+Scheinka folds
+CaVa5minutes folds
+AAbi_dum0ine raises 2000 to 3000
+Wargas10 calls 3000
+QuentinD007 folds
+_SKR folds
+*** FLOP *** [Jd 8s As]
+AAbi_dum0ine checks
+Wargas10 checks
+*** TURN *** [Jd 8s As][9s]
+AAbi_dum0ine checks
+Wargas10 checks
+*** RIVER *** [Jd 8s As 9s][8h]
+AAbi_dum0ine checks
+Wargas10 bets 2877
+AAbi_dum0ine calls 2877
+*** SHOW DOWN ***
+AAbi_dum0ine shows [Jh Th] (Two pairs : Jacks and 8)
+Wargas10 shows [7d 8d] (Trips of 8)
+Wargas10 collected 13974 from pot
+*** SUMMARY ***
+Total pot 13974 | No rake
+Board: [Jd 8s As 9s 8h]
+Seat 1: AAbi_dum0ine showed [Jh Th] and lost with Two pairs : Jacks and 8
+Seat 2: Wargas10 (button) showed [7d 8d] and won 13974 with Trips of 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-6-1676577190 - Holdem no limit (120/500/1000) - 2023/02/16 19:53:10 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #3 is the button
+Seat 1: AAbi_dum0ine (94003)
+Seat 2: Wargas10 (100497)
+Seat 3: QuentinD007 (153660)
+Seat 4: _SKR (97420)
+Seat 5: Scheinka (91128)
+Seat 6: CaVa5minutes (205275)
+*** ANTE/BLINDS ***
+_SKR posts ante 120
+Scheinka posts ante 120
+AAbi_dum0ine posts ante 120
+Wargas10 posts ante 120
+QuentinD007 posts ante 120
+CaVa5minutes posts ante 120
+_SKR posts small blind 500
+Scheinka posts big blind 1000
+Dealt to _SKR [4c 8h]
+*** PRE-FLOP *** 
+CaVa5minutes raises 1500 to 2500
+AAbi_dum0ine folds
+Wargas10 folds
+QuentinD007 folds
+_SKR folds
+Scheinka folds
+CaVa5minutes collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 6: CaVa5minutes won 4720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-7-1676577204 - Holdem no limit (120/500/1000) - 2023/02/16 19:53:24 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #4 is the button
+Seat 1: AAbi_dum0ine (93883)
+Seat 2: Wargas10 (100377)
+Seat 3: QuentinD007 (153540)
+Seat 4: _SKR (96800)
+Seat 5: Scheinka (90008)
+Seat 6: CaVa5minutes (207375)
+*** ANTE/BLINDS ***
+Scheinka posts ante 120
+CaVa5minutes posts ante 120
+AAbi_dum0ine posts ante 120
+Wargas10 posts ante 120
+QuentinD007 posts ante 120
+_SKR posts ante 120
+Scheinka posts small blind 500
+CaVa5minutes posts big blind 1000
+Dealt to _SKR [Ac 4c]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+Wargas10 folds
+QuentinD007 folds
+_SKR raises 1500 to 2500
+Scheinka folds
+CaVa5minutes folds
+_SKR collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 4: _SKR (button) won 4720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-8-1676577237 - Holdem no limit (120/500/1000) - 2023/02/16 19:53:57 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #5 is the button
+Seat 1: AAbi_dum0ine (93763)
+Seat 3: QuentinD007 (153420)
+Seat 4: _SKR (98900)
+Seat 5: Scheinka (89388)
+Seat 6: CaVa5minutes (206255)
+*** ANTE/BLINDS ***
+CaVa5minutes posts ante 120
+AAbi_dum0ine posts ante 120
+QuentinD007 posts ante 120
+_SKR posts ante 120
+Scheinka posts ante 120
+CaVa5minutes posts small blind 500
+AAbi_dum0ine posts big blind 1000
+Dealt to _SKR [2c Kh]
+*** PRE-FLOP *** 
+QuentinD007 folds
+_SKR folds
+Scheinka raises 1500 to 2500
+CaVa5minutes folds
+AAbi_dum0ine calls 1500
+*** FLOP *** [6h Qc Ah]
+AAbi_dum0ine checks
+Scheinka bets 2135
+AAbi_dum0ine calls 2135
+*** TURN *** [6h Qc Ah][Jd]
+AAbi_dum0ine checks
+Scheinka bets 6741
+AAbi_dum0ine folds
+Scheinka collected 17111 from pot
+*** SUMMARY ***
+Total pot 17111 | No rake
+Board: [6h Qc Ah Jd]
+Seat 5: Scheinka (button) won 17111
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-9-1676577289 - Holdem no limit (120/500/1000) - 2023/02/16 19:54:49 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #6 is the button
+Seat 1: AAbi_dum0ine (89008)
+Seat 3: QuentinD007 (153300)
+Seat 4: _SKR (98780)
+Seat 5: Scheinka (95003)
+Seat 6: CaVa5minutes (205635)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 120
+QuentinD007 posts ante 120
+_SKR posts ante 120
+Scheinka posts ante 120
+CaVa5minutes posts ante 120
+AAbi_dum0ine posts small blind 500
+QuentinD007 posts big blind 1000
+Dealt to _SKR [4c Ts]
+*** PRE-FLOP *** 
+_SKR folds
+Scheinka raises 2000 to 3000
+CaVa5minutes calls 3000
+AAbi_dum0ine folds
+QuentinD007 calls 2000
+*** FLOP *** [7c 7d Jc]
+QuentinD007 checks
+Scheinka bets 3535
+CaVa5minutes folds
+QuentinD007 folds
+Scheinka collected 13635 from pot
+*** SUMMARY ***
+Total pot 13635 | No rake
+Board: [7c 7d Jc]
+Seat 5: Scheinka won 13635
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-10-1676577663 - Holdem no limit (120/500/1000) - 2023/02/16 20:01:03 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #1 is the button
+Seat 1: AAbi_dum0ine (88388)
+Seat 2: Moonfull (100000)
+Seat 3: QuentinD007 (150180)
+Seat 4: _SKR (98660)
+Seat 5: Scheinka (101983)
+Seat 6: CaVa5minutes (202515)
+*** ANTE/BLINDS ***
+QuentinD007 posts ante 120
+_SKR posts ante 120
+AAbi_dum0ine posts ante 120
+Scheinka posts ante 120
+CaVa5minutes posts ante 120
+QuentinD007 posts small blind 500
+_SKR posts big blind 1000
+Dealt to _SKR [5c Td]
+*** PRE-FLOP *** 
+Scheinka raises 1500 to 2500
+CaVa5minutes folds
+AAbi_dum0ine folds
+QuentinD007 folds
+_SKR folds
+Scheinka collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 5: Scheinka won 4600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-11-1676577720 - Holdem no limit (120/500/1000) - 2023/02/16 20:02:00 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #3 is the button
+Seat 1: AAbi_dum0ine (88268)
+Seat 2: Moonfull (100000)
+Seat 3: QuentinD007 (149560)
+Seat 4: _SKR (97540)
+Seat 6: CaVa5minutes (202395)
+*** ANTE/BLINDS ***
+_SKR posts ante 120
+CaVa5minutes posts ante 120
+AAbi_dum0ine posts ante 120
+Moonfull posts ante 120
+QuentinD007 posts ante 120
+_SKR posts small blind 500
+CaVa5minutes posts big blind 1000
+Dealt to _SKR [Kh 4h]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+Moonfull folds
+QuentinD007 folds
+_SKR raises 1500 to 2500
+CaVa5minutes folds
+_SKR collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 4: _SKR (small blind) won 4100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-12-1676577797 - Holdem no limit (120/500/1000) - 2023/02/16 20:03:17 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #4 is the button
+Seat 1: AAbi_dum0ine (88148)
+Seat 2: Moonfull (99880)
+Seat 3: QuentinD007 (149440)
+Seat 4: _SKR (99020)
+Seat 5: dadi1 (100000)
+Seat 6: CaVa5minutes (201275)
+*** ANTE/BLINDS ***
+CaVa5minutes posts ante 120
+AAbi_dum0ine posts ante 120
+Moonfull posts ante 120
+QuentinD007 posts ante 120
+_SKR posts ante 120
+CaVa5minutes posts small blind 500
+AAbi_dum0ine posts big blind 1000
+Dealt to _SKR [7h 8c]
+*** PRE-FLOP *** 
+Moonfull folds
+QuentinD007 folds
+_SKR folds
+CaVa5minutes raises 1500 to 2500
+AAbi_dum0ine folds
+CaVa5minutes collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 6: CaVa5minutes (small blind) won 4100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678089078888464390-13-1676577821 - Holdem no limit (120/500/1000) - 2023/02/16 20:03:41 UTC
+Table: 'Monster Stack(623541204)#005' 6-max (real money) Seat #6 is the button
+Seat 1: AAbi_dum0ine (87028)
+Seat 2: Moonfull (99760)
+Seat 3: QuentinD007 (149320)
+Seat 4: _SKR (98900)
+Seat 5: dadi1 (100000)
+Seat 6: CaVa5minutes (202755)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 120
+Moonfull posts ante 120
+QuentinD007 posts ante 120
+_SKR posts ante 120
+dadi1 posts ante 120
+CaVa5minutes posts ante 120
+AAbi_dum0ine posts small blind 500
+Moonfull posts big blind 1000
+Dealt to _SKR [Ad Td]
+*** PRE-FLOP *** 
+QuentinD007 raises 1500 to 2500
+_SKR calls 2500
+dadi1 folds
+CaVa5minutes folds
+AAbi_dum0ine folds
+Moonfull folds
+*** FLOP *** [2h As 9d]
+QuentinD007 bets 2527
+_SKR calls 2527
+*** TURN *** [2h As 9d][8c]
+QuentinD007 bets 6137
+_SKR calls 6137
+*** RIVER *** [2h As 9d 8c][Th]
+QuentinD007 bets 19638
+_SKR raises 67978 to 87616 and is all-in
+QuentinD007 calls 67978
+*** SHOW DOWN ***
+_SKR shows [Ad Td] (Two pairs : Aces and Tens)
+QuentinD007 shows [Jc Qs] (Straight Queen high)
+QuentinD007 collected 199780 from pot
+*** SUMMARY ***
+Total pot 199780 | No rake
+Board: [2h As 9d 8c Th]
+Seat 3: QuentinD007 showed [Jc Qs] and won 199780 with Straight Queen high
+Seat 4: _SKR showed [Ad Td] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-1-1676577906 - Holdem no limit (120/500/1000) - 2023/02/16 20:05:06 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Cote-2-Bluff (116005)
+Seat 2: Pokrym (82473)
+Seat 3: Maximinimus (95760)
+Seat 5: _SKR (100000)
+*** ANTE/BLINDS ***
+Pokrym posts ante 120
+Maximinimus posts ante 120
+Cote-2-Bluff posts ante 120
+_SKR posts ante 120
+Pokrym posts small blind 500
+Maximinimus posts big blind 1000
+Dealt to _SKR [2d Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Cote-2-Bluff folds
+Pokrym calls 500
+Maximinimus checks
+*** FLOP *** [Ac 7s 9c]
+Pokrym checks
+Maximinimus checks
+*** TURN *** [Ac 7s 9c][3d]
+Pokrym checks
+Maximinimus checks
+*** RIVER *** [Ac 7s 9c 3d][5s]
+Pokrym checks
+Maximinimus bets 2480
+Pokrym folds
+Maximinimus collected 4960 from pot
+*** SUMMARY ***
+Total pot 4960 | No rake
+Board: [Ac 7s 9c 3d 5s]
+Seat 3: Maximinimus (big blind) won 4960
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-2-1676577975 - Holdem no limit (120/500/1000) - 2023/02/16 20:06:15 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #2 is the button
+Seat 1: Cote-2-Bluff (115885)
+Seat 2: Pokrym (81353)
+Seat 3: Maximinimus (97120)
+Seat 5: _SKR (99880)
+Seat 6: dadi1 (99760)
+*** ANTE/BLINDS ***
+Maximinimus posts ante 120
+_SKR posts ante 120
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+dadi1 posts ante 120
+Maximinimus posts small blind 500
+_SKR posts big blind 1000
+Dealt to _SKR [8h 6d]
+*** PRE-FLOP *** 
+dadi1 raises 3100 to 4100
+Cote-2-Bluff folds
+Pokrym folds
+Maximinimus folds
+_SKR folds
+dadi1 collected 6200 from pot
+*** SUMMARY ***
+Total pot 6200 | No rake
+Seat 6: dadi1 won 6200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-3-1676578002 - Holdem no limit (120/500/1000) - 2023/02/16 20:06:42 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #3 is the button
+Seat 1: Cote-2-Bluff (115765)
+Seat 2: Pokrym (81233)
+Seat 3: Maximinimus (96500)
+Seat 5: _SKR (98760)
+Seat 6: dadi1 (101740)
+*** ANTE/BLINDS ***
+_SKR posts ante 120
+dadi1 posts ante 120
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+_SKR posts small blind 500
+dadi1 posts big blind 1000
+Dealt to _SKR [9c 2h]
+*** PRE-FLOP *** 
+Cote-2-Bluff folds
+Pokrym folds
+Maximinimus raises 2000 to 3000
+_SKR folds
+dadi1 folds
+Maximinimus collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Seat 3: Maximinimus (button) won 5100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-4-1676578024 - Holdem no limit (120/500/1000) - 2023/02/16 20:07:04 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #5 is the button
+Seat 1: Cote-2-Bluff (115645)
+Seat 2: Pokrym (81113)
+Seat 3: Maximinimus (98480)
+Seat 5: _SKR (98140)
+Seat 6: dadi1 (100620)
+*** ANTE/BLINDS ***
+dadi1 posts ante 120
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+_SKR posts ante 120
+dadi1 posts small blind 500
+Cote-2-Bluff posts big blind 1000
+Dealt to _SKR [5d 5c]
+*** PRE-FLOP *** 
+Pokrym folds
+Maximinimus folds
+_SKR raises 1500 to 2500
+dadi1 folds
+Cote-2-Bluff folds
+_SKR collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 5: _SKR (button) won 4600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-5-1676578056 - Holdem no limit (120/500/1000) - 2023/02/16 20:07:36 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #6 is the button
+Seat 1: Cote-2-Bluff (114525)
+Seat 2: Pokrym (80993)
+Seat 3: Maximinimus (98360)
+Seat 5: _SKR (100120)
+Seat 6: dadi1 (100000)
+*** ANTE/BLINDS ***
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+_SKR posts ante 120
+dadi1 posts ante 120
+Cote-2-Bluff posts small blind 500
+Pokrym posts big blind 1000
+Dealt to _SKR [4c 5d]
+*** PRE-FLOP *** 
+Maximinimus raises 1000 to 2000
+_SKR folds
+dadi1 calls 2000
+Cote-2-Bluff calls 1500
+Pokrym folds
+*** FLOP *** [6d 9d Jh]
+Cote-2-Bluff checks
+Maximinimus bets 4940
+dadi1 folds
+Cote-2-Bluff calls 4940
+*** TURN *** [6d 9d Jh][3d]
+Cote-2-Bluff checks
+Maximinimus checks
+*** RIVER *** [6d 9d Jh 3d][9c]
+Cote-2-Bluff checks
+Maximinimus checks
+*** SHOW DOWN ***
+Maximinimus shows [Qc Kh] (One pair : 9)
+Cote-2-Bluff shows [Td Ts] (Two pairs : Tens and 9)
+Cote-2-Bluff collected 17480 from pot
+*** SUMMARY ***
+Total pot 17480 | No rake
+Board: [6d 9d Jh 3d 9c]
+Seat 1: Cote-2-Bluff (small blind) showed [Td Ts] and won 17480 with Two pairs : Tens and 9
+Seat 3: Maximinimus showed [Qc Kh] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-6-1676578140 - Holdem no limit (120/500/1000) - 2023/02/16 20:09:00 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Cote-2-Bluff (124945)
+Seat 2: Pokrym (79873)
+Seat 3: Maximinimus (91300)
+Seat 5: _SKR (100000)
+Seat 6: dadi1 (97880)
+*** ANTE/BLINDS ***
+Pokrym posts ante 120
+Maximinimus posts ante 120
+Cote-2-Bluff posts ante 120
+_SKR posts ante 120
+dadi1 posts ante 120
+Pokrym posts small blind 500
+Maximinimus posts big blind 1000
+Dealt to _SKR [Ts Jh]
+*** PRE-FLOP *** 
+_SKR folds
+dadi1 raises 3100 to 4100
+Cote-2-Bluff calls 4100
+Pokrym folds
+Maximinimus folds
+*** FLOP *** [Tc Td As]
+dadi1 bets 93660 and is all-in
+Cote-2-Bluff folds
+dadi1 collected 103960 from pot
+*** SUMMARY ***
+Total pot 103960 | No rake
+Board: [Tc Td As]
+Seat 6: dadi1 won 103960
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-7-1676578182 - Holdem no limit (120/500/1000) - 2023/02/16 20:09:42 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #2 is the button
+Seat 1: Cote-2-Bluff (120725)
+Seat 2: Pokrym (79253)
+Seat 3: Maximinimus (90180)
+Seat 4: la cuveafiou (100000)
+Seat 5: _SKR (99880)
+Seat 6: dadi1 (103960)
+*** ANTE/BLINDS ***
+Maximinimus posts ante 120
+la cuveafiou posts ante 120
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+_SKR posts ante 120
+dadi1 posts ante 120
+Maximinimus posts small blind 500
+la cuveafiou posts big blind 1000
+Dealt to _SKR [7c Kh]
+*** PRE-FLOP *** 
+_SKR folds
+dadi1 raises 3220 to 4220
+Cote-2-Bluff folds
+Pokrym folds
+Maximinimus folds
+la cuveafiou folds
+dadi1 collected 6440 from pot
+*** SUMMARY ***
+Total pot 6440 | No rake
+Seat 6: dadi1 won 6440
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-8-1676578234 - Holdem no limit (120/500/1000) - 2023/02/16 20:10:34 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #3 is the button
+Seat 1: Cote-2-Bluff (120605)
+Seat 2: Pokrym (79133)
+Seat 3: Maximinimus (89560)
+Seat 4: la cuveafiou (98880)
+Seat 5: _SKR (99760)
+Seat 6: dadi1 (106060)
+*** ANTE/BLINDS ***
+la cuveafiou posts ante 120
+_SKR posts ante 120
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+dadi1 posts ante 120
+la cuveafiou posts small blind 500
+_SKR posts big blind 1000
+Dealt to _SKR [2h 8c]
+*** PRE-FLOP *** 
+dadi1 folds
+Cote-2-Bluff folds
+Pokrym folds
+Maximinimus folds
+la cuveafiou folds
+_SKR collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 5: _SKR (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-9-1676578255 - Holdem no limit (120/500/1000) - 2023/02/16 20:10:55 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #4 is the button
+Seat 1: Cote-2-Bluff (120485)
+Seat 2: Pokrym (79013)
+Seat 3: Maximinimus (89440)
+Seat 4: la cuveafiou (98260)
+Seat 5: _SKR (100860)
+Seat 6: dadi1 (105940)
+*** ANTE/BLINDS ***
+_SKR posts ante 120
+dadi1 posts ante 120
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+la cuveafiou posts ante 120
+_SKR posts small blind 500
+dadi1 posts big blind 1000
+Dealt to _SKR [6d 2d]
+*** PRE-FLOP *** 
+Cote-2-Bluff folds
+Pokrym raises 1000 to 2000
+Maximinimus folds
+la cuveafiou folds
+_SKR folds
+dadi1 calls 1000
+*** FLOP *** [Jd Qs Qc]
+dadi1 bets 1000
+Pokrym calls 1000
+*** TURN *** [Jd Qs Qc][Qh]
+dadi1 bets 102820 and is all-in
+Pokrym folds
+dadi1 collected 110040 from pot
+*** SUMMARY ***
+Total pot 110040 | No rake
+Board: [Jd Qs Qc Qh]
+Seat 6: dadi1 (big blind) won 110040
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-10-1676578293 - Holdem no limit (120/500/1000) - 2023/02/16 20:11:33 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #5 is the button
+Seat 1: Cote-2-Bluff (120365)
+Seat 2: Pokrym (75893)
+Seat 3: Maximinimus (89320)
+Seat 4: la cuveafiou (98140)
+Seat 5: _SKR (100240)
+Seat 6: dadi1 (110040)
+*** ANTE/BLINDS ***
+dadi1 posts ante 120
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+la cuveafiou posts ante 120
+_SKR posts ante 120
+dadi1 posts small blind 500
+Cote-2-Bluff posts big blind 1000
+Dealt to _SKR [Ad Ac]
+*** PRE-FLOP *** 
+Pokrym folds
+Maximinimus raises 1000 to 2000
+la cuveafiou folds
+_SKR raises 4000 to 6000
+dadi1 folds
+Cote-2-Bluff folds
+Maximinimus folds
+_SKR collected 10220 from pot
+*** SUMMARY ***
+Total pot 10220 | No rake
+Seat 5: _SKR (button) won 10220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-11-1676578328 - Holdem no limit (120/500/1000) - 2023/02/16 20:12:08 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #6 is the button
+Seat 1: Cote-2-Bluff (119245)
+Seat 2: Pokrym (75773)
+Seat 3: Maximinimus (87200)
+Seat 4: la cuveafiou (98020)
+Seat 5: _SKR (104340)
+Seat 6: dadi1 (109420)
+*** ANTE/BLINDS ***
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+la cuveafiou posts ante 120
+_SKR posts ante 120
+dadi1 posts ante 120
+Cote-2-Bluff posts small blind 500
+Pokrym posts big blind 1000
+Dealt to _SKR [6d As]
+*** PRE-FLOP *** 
+Maximinimus calls 1000
+la cuveafiou folds
+_SKR folds
+dadi1 folds
+Cote-2-Bluff folds
+Pokrym checks
+*** FLOP *** [6s 8d 2s]
+Pokrym checks
+Maximinimus checks
+*** TURN *** [6s 8d 2s][Jd]
+Pokrym checks
+Maximinimus checks
+*** RIVER *** [6s 8d 2s Jd][9h]
+Pokrym checks
+Maximinimus checks
+*** SHOW DOWN ***
+Pokrym shows [Qs 7d] (High card : Queen)
+Maximinimus shows [9c Tc] (One pair : 9)
+Maximinimus collected 3220 from pot
+*** SUMMARY ***
+Total pot 3220 | No rake
+Board: [6s 8d 2s Jd 9h]
+Seat 2: Pokrym (big blind) showed [Qs 7d] and lost with High card : Queen
+Seat 3: Maximinimus showed [9c Tc] and won 3220 with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-12-1676578394 - Holdem no limit (120/500/1000) - 2023/02/16 20:13:14 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Cote-2-Bluff (118625)
+Seat 2: Pokrym (74653)
+Seat 3: Maximinimus (89300)
+Seat 4: la cuveafiou (97900)
+Seat 5: _SKR (104220)
+Seat 6: dadi1 (109300)
+*** ANTE/BLINDS ***
+Pokrym posts ante 120
+Maximinimus posts ante 120
+Cote-2-Bluff posts ante 120
+la cuveafiou posts ante 120
+_SKR posts ante 120
+dadi1 posts ante 120
+Pokrym posts small blind 500
+Maximinimus posts big blind 1000
+Dealt to _SKR [Td Jh]
+*** PRE-FLOP *** 
+la cuveafiou folds
+_SKR folds
+dadi1 folds
+Cote-2-Bluff folds
+Pokrym calls 500
+Maximinimus checks
+*** FLOP *** [Kh 8s 2h]
+Pokrym checks
+Maximinimus checks
+*** TURN *** [Kh 8s 2h][Th]
+Pokrym checks
+Maximinimus checks
+*** RIVER *** [Kh 8s 2h Th][4c]
+Pokrym checks
+Maximinimus checks
+*** SHOW DOWN ***
+Maximinimus shows [Qs 6h] (High card : King)
+Pokrym shows [Qd Tc] (One pair : Tens)
+Pokrym collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [Kh 8s 2h Th 4c]
+Seat 2: Pokrym (small blind) showed [Qd Tc] and won 2720 with One pair : Tens
+Seat 3: Maximinimus (big blind) showed [Qs 6h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-13-1676578439 - Holdem no limit (120/500/1000) - 2023/02/16 20:13:59 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #2 is the button
+Seat 1: Cote-2-Bluff (118505)
+Seat 2: Pokrym (76253)
+Seat 3: Maximinimus (88180)
+Seat 4: la cuveafiou (97780)
+Seat 5: _SKR (104100)
+Seat 6: dadi1 (109180)
+*** ANTE/BLINDS ***
+Maximinimus posts ante 120
+la cuveafiou posts ante 120
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+_SKR posts ante 120
+dadi1 posts ante 120
+Maximinimus posts small blind 500
+la cuveafiou posts big blind 1000
+Dealt to _SKR [9s Jc]
+*** PRE-FLOP *** 
+_SKR folds
+dadi1 folds
+Cote-2-Bluff raises 2000 to 3000
+Pokrym folds
+Maximinimus calls 2500
+la cuveafiou folds
+*** FLOP *** [8c Tc 7s]
+Maximinimus bets 5018
+Cote-2-Bluff raises 9785 to 14803
+Maximinimus raises 70257 to 85060 and is all-in
+Cote-2-Bluff raises 30325 to 115385 and is all-in
+*** TURN *** [8c Tc 7s][3d]
+*** RIVER *** [8c Tc 7s 3d][Ah]
+*** SHOW DOWN ***
+Cote-2-Bluff shows [8s Ts] (Two pairs : Tens and 8)
+Maximinimus shows [Ac Td] (Two pairs : Aces and Tens)
+Maximinimus collected 177840 from main pot
+Cote-2-Bluff collected 30325 from side pot 1
+*** SUMMARY ***
+Total pot 208165 | No rake
+Board: [8c Tc 7s 3d Ah]
+Seat 1: Cote-2-Bluff showed [8s Ts] and won 30325 with Two pairs : Tens and 8
+Seat 3: Maximinimus (small blind) showed [Ac Td] and won 177840 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-14-1676578482 - Holdem no limit (120/500/1000) - 2023/02/16 20:14:42 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #3 is the button
+Seat 1: Cote-2-Bluff (30325)
+Seat 2: Pokrym (76133)
+Seat 3: Maximinimus (177840)
+Seat 4: la cuveafiou (96660)
+Seat 5: _SKR (103980)
+Seat 6: dadi1 (109060)
+*** ANTE/BLINDS ***
+la cuveafiou posts ante 120
+_SKR posts ante 120
+Cote-2-Bluff posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+dadi1 posts ante 120
+la cuveafiou posts small blind 500
+_SKR posts big blind 1000
+Dealt to _SKR [Tc 8c]
+*** PRE-FLOP *** 
+dadi1 folds
+Cote-2-Bluff folds
+Pokrym folds
+Maximinimus folds
+la cuveafiou calls 500
+_SKR raises 2500 to 3500
+la cuveafiou calls 2500
+*** FLOP *** [2s 7d 5c]
+la cuveafiou bets 3860
+_SKR folds
+la cuveafiou collected 11580 from pot
+*** SUMMARY ***
+Total pot 11580 | No rake
+Board: [2s 7d 5c]
+Seat 4: la cuveafiou (small blind) won 11580
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-15-1676578529 - Holdem no limit (120/500/1000) - 2023/02/16 20:15:29 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #4 is the button
+Seat 2: Pokrym (76013)
+Seat 3: Maximinimus (177720)
+Seat 4: la cuveafiou (100760)
+Seat 5: _SKR (100360)
+Seat 6: dadi1 (108940)
+*** ANTE/BLINDS ***
+_SKR posts ante 120
+dadi1 posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+la cuveafiou posts ante 120
+_SKR posts small blind 500
+dadi1 posts big blind 1000
+Dealt to _SKR [Th 8s]
+*** PRE-FLOP *** 
+Pokrym raises 1000 to 2000
+Maximinimus calls 2000
+la cuveafiou folds
+_SKR folds
+dadi1 folds
+*** FLOP *** [9s 2h Qd]
+Pokrym checks
+Maximinimus checks
+*** TURN *** [9s 2h Qd][5c]
+Pokrym checks
+Maximinimus checks
+*** RIVER *** [9s 2h Qd 5c][9c]
+Pokrym checks
+Maximinimus checks
+*** SHOW DOWN ***
+Pokrym shows [Kh 6h] (One pair : 9)
+Maximinimus shows [Kc 8h] (One pair : 9)
+Maximinimus collected 6100 from pot
+*** SUMMARY ***
+Total pot 6100 | No rake
+Board: [9s 2h Qd 5c 9c]
+Seat 2: Pokrym showed [Kh 6h] and lost with One pair : 9
+Seat 3: Maximinimus showed [Kc 8h] and won 6100 with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-16-1676578608 - Holdem no limit (120/500/1000) - 2023/02/16 20:16:48 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #5 is the button
+Seat 2: Pokrym (73893)
+Seat 3: Maximinimus (181700)
+Seat 4: la cuveafiou (100640)
+Seat 5: _SKR (99740)
+Seat 6: dadi1 (107820)
+*** ANTE/BLINDS ***
+dadi1 posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+la cuveafiou posts ante 120
+_SKR posts ante 120
+dadi1 posts small blind 500
+Pokrym posts big blind 1000
+Dealt to _SKR [6d 2d]
+*** PRE-FLOP *** 
+Maximinimus folds
+la cuveafiou calls 1000
+_SKR folds
+dadi1 folds
+Pokrym checks
+*** FLOP *** [Ks 8d Td]
+Pokrym checks
+la cuveafiou checks
+*** TURN *** [Ks 8d Td][Tc]
+Pokrym bets 2000
+la cuveafiou calls 2000
+*** RIVER *** [Ks 8d Td Tc][6c]
+Pokrym checks
+la cuveafiou checks
+*** SHOW DOWN ***
+la cuveafiou shows [8c Ad] (Two pairs : Tens and 8)
+Pokrym shows [7s Ts] (Trips of Tens)
+Pokrym collected 7100 from pot
+*** SUMMARY ***
+Total pot 7100 | No rake
+Board: [Ks 8d Td Tc 6c]
+Seat 2: Pokrym (big blind) showed [7s Ts] and won 7100 with Trips of Tens
+Seat 4: la cuveafiou showed [8c Ad] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-17-1676578693 - Holdem no limit (120/500/1000) - 2023/02/16 20:18:13 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #6 is the button
+Seat 2: Pokrym (77873)
+Seat 3: Maximinimus (181580)
+Seat 4: la cuveafiou (97520)
+Seat 5: _SKR (99620)
+Seat 6: dadi1 (107200)
+*** ANTE/BLINDS ***
+Pokrym posts ante 120
+Maximinimus posts ante 120
+la cuveafiou posts ante 120
+_SKR posts ante 120
+dadi1 posts ante 120
+Pokrym posts small blind 500
+Maximinimus posts big blind 1000
+Dealt to _SKR [9s Kc]
+*** PRE-FLOP *** 
+la cuveafiou folds
+_SKR folds
+dadi1 folds
+Pokrym calls 500
+Maximinimus checks
+*** FLOP *** [Jd Ad 3h]
+Pokrym checks
+Maximinimus checks
+*** TURN *** [Jd Ad 3h][5c]
+Pokrym checks
+Maximinimus bets 2600
+Pokrym calls 2600
+*** RIVER *** [Jd Ad 3h 5c][Ac]
+Pokrym checks
+Maximinimus checks
+*** SHOW DOWN ***
+Maximinimus shows [5d 7d] (Two pairs : Aces and 5)
+Pokrym shows [Jc Kd] (Two pairs : Aces and Jacks)
+Pokrym collected 7800 from pot
+*** SUMMARY ***
+Total pot 7800 | No rake
+Board: [Jd Ad 3h 5c Ac]
+Seat 2: Pokrym (small blind) showed [Jc Kd] and won 7800 with Two pairs : Aces and Jacks
+Seat 3: Maximinimus (big blind) showed [5d 7d] and lost with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-18-1676578755 - Holdem no limit (120/500/1000) - 2023/02/16 20:19:15 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #2 is the button
+Seat 2: Pokrym (81953)
+Seat 3: Maximinimus (177860)
+Seat 4: la cuveafiou (97400)
+Seat 5: _SKR (99500)
+Seat 6: dadi1 (107080)
+*** ANTE/BLINDS ***
+Maximinimus posts ante 120
+la cuveafiou posts ante 120
+Pokrym posts ante 120
+_SKR posts ante 120
+dadi1 posts ante 120
+Maximinimus posts small blind 500
+la cuveafiou posts big blind 1000
+Dealt to _SKR [2s Qh]
+*** PRE-FLOP *** 
+_SKR folds
+dadi1 folds
+Pokrym raises 1000 to 2000
+Maximinimus folds
+la cuveafiou raises 4000 to 6000
+Pokrym folds
+la cuveafiou collected 9100 from pot
+*** SUMMARY ***
+Total pot 9100 | No rake
+Seat 4: la cuveafiou (big blind) won 9100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 840971826 - HandId: #2678089078888464394-19-1676578780 - Holdem no limit (120/500/1000) - 2023/02/16 20:19:40 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #3 is the button
+Seat 2: Pokrym (79833)
+Seat 3: Maximinimus (177240)
+Seat 4: la cuveafiou (100380)
+Seat 5: _SKR (99380)
+Seat 6: dadi1 (106960)
+*** ANTE/BLINDS ***
+la cuveafiou posts ante 120
+_SKR posts ante 120
+Pokrym posts ante 120
+Maximinimus posts ante 120
+dadi1 posts ante 120
+la cuveafiou posts small blind 500
+_SKR posts big blind 1000
+Dealt to _SKR [7h 5d]
+*** PRE-FLOP *** 
+dadi1 calls 1000
+Pokrym folds
+Maximinimus raises 1000 to 2000
+la cuveafiou calls 1500
+_SKR folds
+dadi1 calls 1000
+*** FLOP *** [Td Tc 2d]
+la cuveafiou checks
+dadi1 checks
+Maximinimus checks
+*** TURN *** [Td Tc 2d][Kc]
+la cuveafiou checks
+dadi1 checks
+Maximinimus checks
+*** RIVER *** [Td Tc 2d Kc][5c]
+la cuveafiou checks
+dadi1 checks
+Maximinimus checks
+*** SHOW DOWN ***
+Maximinimus shows [4h Ad] (One pair : Tens)
+dadi1 shows [9h Jc] (One pair : Tens)
+la cuveafiou shows [4d 4s] (Two pairs : Tens and 4)
+la cuveafiou collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Board: [Td Tc 2d Kc 5c]
+Seat 3: Maximinimus (button) showed [4h Ad] and lost with One pair : Tens
+Seat 4: la cuveafiou (small blind) showed [4d 4s] and won 7600 with Two pairs : Tens and 4
+Seat 6: dadi1 showed [9h Jc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678089078888464394-20-1676578874 - Holdem no limit (140/600/1200) - 2023/02/16 20:21:14 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #4 is the button
+Seat 1: Samlegros51 (100000)
+Seat 2: Pokrym (79713)
+Seat 3: Maximinimus (175120)
+Seat 4: la cuveafiou (105860)
+Seat 5: _SKR (98260)
+Seat 6: dadi1 (104840)
+*** ANTE/BLINDS ***
+_SKR posts ante 140
+dadi1 posts ante 140
+Samlegros51 posts ante 140
+Pokrym posts ante 140
+Maximinimus posts ante 140
+la cuveafiou posts ante 140
+_SKR posts small blind 600
+dadi1 posts big blind 1200
+Dealt to _SKR [9h Ks]
+*** PRE-FLOP *** 
+Samlegros51 raises 2400 to 3600
+Pokrym calls 3600
+Maximinimus folds
+la cuveafiou folds
+_SKR folds
+dadi1 calls 2400
+*** FLOP *** [4c 6h 7s]
+dadi1 checks
+Samlegros51 checks
+Pokrym checks
+*** TURN *** [4c 6h 7s][Qs]
+dadi1 bets 12240
+Samlegros51 folds
+Pokrym folds
+dadi1 collected 24480 from pot
+*** SUMMARY ***
+Total pot 24480 | No rake
+Board: [4c 6h 7s Qs]
+Seat 6: dadi1 (big blind) won 24480
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678089078888464394-21-1676578926 - Holdem no limit (140/600/1200) - 2023/02/16 20:22:06 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #5 is the button
+Seat 1: Samlegros51 (96260)
+Seat 2: Pokrym (75973)
+Seat 3: Maximinimus (174980)
+Seat 4: la cuveafiou (105720)
+Seat 5: _SKR (97520)
+Seat 6: dadi1 (113340)
+*** ANTE/BLINDS ***
+dadi1 posts ante 140
+Samlegros51 posts ante 140
+Pokrym posts ante 140
+Maximinimus posts ante 140
+la cuveafiou posts ante 140
+_SKR posts ante 140
+dadi1 posts small blind 600
+Samlegros51 posts big blind 1200
+Dealt to _SKR [8h 8s]
+*** PRE-FLOP *** 
+Pokrym folds
+Maximinimus folds
+la cuveafiou folds
+_SKR raises 1800 to 3000
+dadi1 folds
+Samlegros51 calls 1800
+*** FLOP *** [9s 2d 5h]
+Samlegros51 checks
+_SKR checks
+*** TURN *** [9s 2d 5h][5d]
+Samlegros51 checks
+_SKR bets 2604
+Samlegros51 folds
+_SKR collected 10044 from pot
+*** SUMMARY ***
+Total pot 10044 | No rake
+Board: [9s 2d 5h 5d]
+Seat 5: _SKR (button) won 10044
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678089078888464394-22-1676578984 - Holdem no limit (140/600/1200) - 2023/02/16 20:23:04 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #6 is the button
+Seat 1: Samlegros51 (93120)
+Seat 2: Pokrym (75833)
+Seat 3: Maximinimus (174840)
+Seat 4: la cuveafiou (105580)
+Seat 5: _SKR (101820)
+Seat 6: dadi1 (112600)
+*** ANTE/BLINDS ***
+Samlegros51 posts ante 140
+Pokrym posts ante 140
+Maximinimus posts ante 140
+la cuveafiou posts ante 140
+_SKR posts ante 140
+dadi1 posts ante 140
+Samlegros51 posts small blind 600
+Pokrym posts big blind 1200
+Dealt to _SKR [9d Qc]
+*** PRE-FLOP *** 
+Maximinimus folds
+la cuveafiou raises 1200 to 2400
+_SKR folds
+dadi1 folds
+Samlegros51 calls 1800
+Pokrym folds
+*** FLOP *** [6c 9s 7s]
+Samlegros51 checks
+la cuveafiou bets 4446
+Samlegros51 calls 4446
+*** TURN *** [6c 9s 7s][2h]
+Samlegros51 checks
+la cuveafiou checks
+*** RIVER *** [6c 9s 7s 2h][9c]
+Samlegros51 bets 11956
+la cuveafiou raises 11956 to 23912
+Samlegros51 folds
+la cuveafiou collected 51600 from pot
+*** SUMMARY ***
+Total pot 51600 | No rake
+Board: [6c 9s 7s 2h 9c]
+Seat 4: la cuveafiou won 51600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678089078888464394-23-1676579058 - Holdem no limit (140/600/1200) - 2023/02/16 20:24:18 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Samlegros51 (74178)
+Seat 2: Pokrym (74493)
+Seat 3: Maximinimus (174700)
+Seat 5: _SKR (101680)
+Seat 6: dadi1 (112460)
+*** ANTE/BLINDS ***
+Pokrym posts ante 140
+Maximinimus posts ante 140
+Samlegros51 posts ante 140
+_SKR posts ante 140
+dadi1 posts ante 140
+Pokrym posts small blind 600
+Maximinimus posts big blind 1200
+Dealt to _SKR [8d 5d]
+*** PRE-FLOP *** 
+_SKR folds
+dadi1 folds
+Samlegros51 raises 1800 to 3000
+Pokrym folds
+Maximinimus calls 1800
+*** FLOP *** [Js 8s 3s]
+Maximinimus bets 4745
+Samlegros51 calls 4745
+*** TURN *** [Js 8s 3s][Jd]
+Maximinimus checks
+Samlegros51 bets 11249
+Maximinimus folds
+Samlegros51 collected 28039 from pot
+*** SUMMARY ***
+Total pot 28039 | No rake
+Board: [Js 8s 3s Jd]
+Seat 1: Samlegros51 (button) won 28039
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678089078888464394-24-1676579101 - Holdem no limit (140/600/1200) - 2023/02/16 20:25:01 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #2 is the button
+Seat 1: Samlegros51 (83083)
+Seat 2: Pokrym (73753)
+Seat 3: Maximinimus (166815)
+Seat 5: _SKR (101540)
+Seat 6: dadi1 (112320)
+*** ANTE/BLINDS ***
+Maximinimus posts ante 140
+_SKR posts ante 140
+Samlegros51 posts ante 140
+Pokrym posts ante 140
+dadi1 posts ante 140
+Maximinimus posts small blind 600
+_SKR posts big blind 1200
+Dealt to _SKR [4h 3c]
+*** PRE-FLOP *** 
+dadi1 folds
+Samlegros51 raises 1800 to 3000
+Pokrym folds
+Maximinimus folds
+_SKR folds
+Samlegros51 collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Seat 1: Samlegros51 won 5500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678089078888464394-25-1676579120 - Holdem no limit (140/600/1200) - 2023/02/16 20:25:20 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #3 is the button
+Seat 1: Samlegros51 (85443)
+Seat 2: Pokrym (73613)
+Seat 3: Maximinimus (166075)
+Seat 5: _SKR (100200)
+Seat 6: dadi1 (112180)
+*** ANTE/BLINDS ***
+_SKR posts ante 140
+dadi1 posts ante 140
+Samlegros51 posts ante 140
+Pokrym posts ante 140
+Maximinimus posts ante 140
+_SKR posts small blind 600
+dadi1 posts big blind 1200
+Dealt to _SKR [9d 5d]
+*** PRE-FLOP *** 
+Samlegros51 folds
+Pokrym folds
+Maximinimus calls 1200
+_SKR folds
+dadi1 checks
+*** FLOP *** [6s Td 6h]
+dadi1 checks
+Maximinimus checks
+*** TURN *** [6s Td 6h][Ad]
+dadi1 bets 1200
+Maximinimus calls 1200
+*** RIVER *** [6s Td 6h Ad][7c]
+dadi1 bets 1200
+Maximinimus folds
+dadi1 collected 7300 from pot
+*** SUMMARY ***
+Total pot 7300 | No rake
+Board: [6s Td 6h Ad 7c]
+Seat 6: dadi1 (big blind) won 7300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678089078888464394-26-1676579170 - Holdem no limit (140/600/1200) - 2023/02/16 20:26:10 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #5 is the button
+Seat 1: Samlegros51 (85303)
+Seat 2: Pokrym (73473)
+Seat 3: Maximinimus (163535)
+Seat 5: _SKR (99460)
+Seat 6: dadi1 (115740)
+*** ANTE/BLINDS ***
+dadi1 posts ante 140
+Samlegros51 posts ante 140
+Pokrym posts ante 140
+Maximinimus posts ante 140
+_SKR posts ante 140
+dadi1 posts small blind 600
+Samlegros51 posts big blind 1200
+Dealt to _SKR [9d Td]
+*** PRE-FLOP *** 
+Pokrym folds
+Maximinimus raises 1800 to 3000
+_SKR raises 6000 to 9000
+dadi1 folds
+Samlegros51 folds
+Maximinimus calls 6000
+*** FLOP *** [Ks Kc Tc]
+Maximinimus bets 7175
+_SKR calls 7175
+*** TURN *** [Ks Kc Tc][4d]
+Maximinimus checks
+_SKR checks
+*** RIVER *** [Ks Kc Tc 4d][3h]
+Maximinimus checks
+_SKR bets 17425
+Maximinimus calls 17425
+*** SHOW DOWN ***
+_SKR shows [9d Td] (Two pairs : Kings and Tens)
+Maximinimus shows [Ts Js] (Two pairs : Kings and Tens)
+Maximinimus collected 69700 from pot
+*** SUMMARY ***
+Total pot 69700 | No rake
+Board: [Ks Kc Tc 4d 3h]
+Seat 3: Maximinimus showed [Ts Js] and won 69700 with Two pairs : Kings and Tens
+Seat 5: _SKR (button) showed [9d Td] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678089078888464394-27-1676579237 - Holdem no limit (160/700/1400) - 2023/02/16 20:27:17 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #6 is the button
+Seat 1: Samlegros51 (83963)
+Seat 2: Pokrym (73333)
+Seat 3: Maximinimus (199495)
+Seat 5: _SKR (65720)
+Seat 6: dadi1 (115000)
+*** ANTE/BLINDS ***
+Samlegros51 posts ante 160
+Pokrym posts ante 160
+Maximinimus posts ante 160
+_SKR posts ante 160
+dadi1 posts ante 160
+Samlegros51 posts small blind 700
+Pokrym posts big blind 1400
+Dealt to _SKR [Tc 2h]
+*** PRE-FLOP *** 
+Maximinimus raises 2800 to 4200
+_SKR folds
+dadi1 folds
+Samlegros51 folds
+Pokrym folds
+Maximinimus collected 7100 from pot
+*** SUMMARY ***
+Total pot 7100 | No rake
+Seat 3: Maximinimus won 7100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678089078888464394-28-1676579259 - Holdem no limit (160/700/1400) - 2023/02/16 20:27:39 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Samlegros51 (83103)
+Seat 2: Pokrym (71773)
+Seat 3: Maximinimus (202235)
+Seat 5: _SKR (65560)
+Seat 6: dadi1 (114840)
+*** ANTE/BLINDS ***
+Pokrym posts ante 160
+Maximinimus posts ante 160
+Samlegros51 posts ante 160
+_SKR posts ante 160
+dadi1 posts ante 160
+Pokrym posts small blind 700
+Maximinimus posts big blind 1400
+Dealt to _SKR [8c Ac]
+*** PRE-FLOP *** 
+_SKR raises 2100 to 3500
+dadi1 folds
+Samlegros51 folds
+Pokrym folds
+Maximinimus calls 2100
+*** FLOP *** [Ad 7s Jh]
+Maximinimus checks
+_SKR bets 2975
+Maximinimus folds
+_SKR collected 11475 from pot
+*** SUMMARY ***
+Total pot 11475 | No rake
+Board: [Ad 7s Jh]
+Seat 5: _SKR won 11475
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678089078888464394-29-1676579282 - Holdem no limit (160/700/1400) - 2023/02/16 20:28:02 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #2 is the button
+Seat 1: Samlegros51 (82943)
+Seat 2: Pokrym (70913)
+Seat 3: Maximinimus (198575)
+Seat 5: _SKR (70400)
+Seat 6: dadi1 (114680)
+*** ANTE/BLINDS ***
+Maximinimus posts ante 160
+_SKR posts ante 160
+Samlegros51 posts ante 160
+Pokrym posts ante 160
+dadi1 posts ante 160
+Maximinimus posts small blind 700
+_SKR posts big blind 1400
+Dealt to _SKR [6c 8h]
+*** PRE-FLOP *** 
+dadi1 folds
+Samlegros51 folds
+Pokrym raises 1400 to 2800
+Maximinimus calls 2100
+_SKR folds
+*** FLOP *** [6s Td 3s]
+Maximinimus bets 5070
+Pokrym calls 5070
+*** TURN *** [6s Td 3s][Ts]
+Maximinimus bets 11661
+Pokrym folds
+Maximinimus collected 29601 from pot
+*** SUMMARY ***
+Total pot 29601 | No rake
+Board: [6s Td 3s Ts]
+Seat 3: Maximinimus (small blind) won 29601
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678089078888464394-30-1676579309 - Holdem no limit (160/700/1400) - 2023/02/16 20:28:29 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #3 is the button
+Seat 1: Samlegros51 (82783)
+Seat 2: Pokrym (62883)
+Seat 3: Maximinimus (208485)
+Seat 5: _SKR (68840)
+Seat 6: dadi1 (114520)
+*** ANTE/BLINDS ***
+_SKR posts ante 160
+dadi1 posts ante 160
+Samlegros51 posts ante 160
+Pokrym posts ante 160
+Maximinimus posts ante 160
+_SKR posts small blind 700
+dadi1 posts big blind 1400
+Dealt to _SKR [2c 3s]
+*** PRE-FLOP *** 
+Samlegros51 raises 2100 to 3500
+Pokrym folds
+Maximinimus calls 3500
+_SKR folds
+dadi1 calls 2100
+*** FLOP *** [5h Jd 3d]
+dadi1 bets 12000
+Samlegros51 calls 12000
+Maximinimus folds
+*** TURN *** [5h Jd 3d][Jh]
+dadi1 bets 98860 and is all-in
+Samlegros51 calls 67123 and is all-in
+*** RIVER *** [5h Jd 3d Jh][5s]
+*** SHOW DOWN ***
+Samlegros51 shows [Ad Jc] (Full of Jacks and 5)
+dadi1 shows [3h Kh] (Two pairs : Jacks and 5)
+dadi1 collected 31737 from side pot 1
+Samlegros51 collected 170246 from main pot
+*** SUMMARY ***
+Total pot 201983 | No rake
+Board: [5h Jd 3d Jh 5s]
+Seat 1: Samlegros51 showed [Ad Jc] and won 170246 with Full of Jacks and 5
+Seat 6: dadi1 (big blind) showed [3h Kh] and won 31737 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678089078888464394-31-1676579363 - Holdem no limit (160/700/1400) - 2023/02/16 20:29:23 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #5 is the button
+Seat 1: Samlegros51 (170246)
+Seat 2: Pokrym (62723)
+Seat 3: Maximinimus (204825)
+Seat 5: _SKR (67980)
+Seat 6: dadi1 (31737)
+*** ANTE/BLINDS ***
+dadi1 posts ante 160
+Samlegros51 posts ante 160
+Pokrym posts ante 160
+Maximinimus posts ante 160
+_SKR posts ante 160
+dadi1 posts small blind 700
+Samlegros51 posts big blind 1400
+Dealt to _SKR [5c 8s]
+*** PRE-FLOP *** 
+Pokrym folds
+Maximinimus calls 1400
+_SKR folds
+dadi1 raises 30177 to 31577 and is all-in
+Samlegros51 folds
+Maximinimus calls 30177
+*** FLOP *** [9h 5s Ad]
+*** TURN *** [9h 5s Ad][9d]
+*** RIVER *** [9h 5s Ad 9d][Jc]
+*** SHOW DOWN ***
+dadi1 shows [Kd 6d] (One pair : 9)
+Maximinimus shows [5h Qh] (Two pairs : 9 and 5)
+Maximinimus collected 65354 from pot
+*** SUMMARY ***
+Total pot 65354 | No rake
+Board: [9h 5s Ad 9d Jc]
+Seat 3: Maximinimus showed [5h Qh] and won 65354 with Two pairs : 9 and 5
+Seat 6: dadi1 (small blind) showed [Kd 6d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678089078888464394-32-1676579402 - Holdem no limit (160/700/1400) - 2023/02/16 20:30:02 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #6 is the button
+Seat 1: Samlegros51 (168686)
+Seat 2: Pokrym (62563)
+Seat 3: Maximinimus (238442)
+Seat 5: _SKR (67820)
+*** ANTE/BLINDS ***
+Samlegros51 posts ante 160
+Pokrym posts ante 160
+Maximinimus posts ante 160
+_SKR posts ante 160
+Samlegros51 posts small blind 700
+Pokrym posts big blind 1400
+Dealt to _SKR [2d 4h]
+*** PRE-FLOP *** 
+Maximinimus calls 1400
+_SKR folds
+Samlegros51 calls 700
+Pokrym checks
+*** FLOP *** [Jh 5s Kd]
+Samlegros51 checks
+Pokrym checks
+Maximinimus checks
+*** TURN *** [Jh 5s Kd][Qs]
+Samlegros51 checks
+Pokrym checks
+Maximinimus checks
+*** RIVER *** [Jh 5s Kd Qs][Jd]
+Samlegros51 checks
+Pokrym checks
+Maximinimus checks
+*** SHOW DOWN ***
+Samlegros51 shows [5d Td] (Two pairs : Jacks and 5)
+Maximinimus shows [Ah 6c] (One pair : Jacks)
+Pokrym shows [8c Qd] (Two pairs : Queens and Jacks)
+Pokrym collected 4840 from pot
+*** SUMMARY ***
+Total pot 4840 | No rake
+Board: [Jh 5s Kd Qs Jd]
+Seat 1: Samlegros51 (small blind) showed [5d Td] and lost with Two pairs : Jacks and 5
+Seat 2: Pokrym (big blind) showed [8c Qd] and won 4840 with Two pairs : Queens and Jacks
+Seat 3: Maximinimus showed [Ah 6c] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678089078888464394-33-1676579471 - Holdem no limit (160/700/1400) - 2023/02/16 20:31:11 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Samlegros51 (167126)
+Seat 2: Pokrym (65843)
+Seat 3: Maximinimus (236882)
+Seat 5: _SKR (67660)
+Seat 6: Baycrocs (87026)
+*** ANTE/BLINDS ***
+Pokrym posts ante 160
+Maximinimus posts ante 160
+Samlegros51 posts ante 160
+_SKR posts ante 160
+Baycrocs posts ante 160
+Pokrym posts small blind 700
+Maximinimus posts big blind 1400
+Dealt to _SKR [6s 6h]
+*** PRE-FLOP *** 
+_SKR raises 2100 to 3500
+Baycrocs folds
+Samlegros51 folds
+Pokrym folds
+Maximinimus folds
+_SKR collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | No rake
+Seat 5: _SKR won 6400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678089078888464394-34-1676579487 - Holdem no limit (160/700/1400) - 2023/02/16 20:31:27 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #2 is the button
+Seat 1: Samlegros51 (166966)
+Seat 2: Pokrym (64983)
+Seat 3: Maximinimus (235322)
+Seat 5: _SKR (70400)
+Seat 6: Baycrocs (86866)
+*** ANTE/BLINDS ***
+Maximinimus posts ante 160
+_SKR posts ante 160
+Samlegros51 posts ante 160
+Pokrym posts ante 160
+Baycrocs posts ante 160
+Maximinimus posts small blind 700
+_SKR posts big blind 1400
+Dealt to _SKR [4h 8c]
+*** PRE-FLOP *** 
+Baycrocs folds
+Samlegros51 folds
+Pokrym raises 1400 to 2800
+Maximinimus folds
+_SKR folds
+Pokrym collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | No rake
+Seat 2: Pokrym (button) won 5700
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678089078888464394-35-1676579518 - Holdem no limit (160/700/1400) - 2023/02/16 20:31:58 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #3 is the button
+Seat 1: Samlegros51 (166806)
+Seat 2: Pokrym (67723)
+Seat 3: Maximinimus (234462)
+Seat 4: MacacoAstro (100000)
+Seat 5: _SKR (68840)
+Seat 6: Baycrocs (86706)
+*** ANTE/BLINDS ***
+_SKR posts ante 160
+Baycrocs posts ante 160
+Samlegros51 posts ante 160
+Pokrym posts ante 160
+Maximinimus posts ante 160
+_SKR posts small blind 700
+Baycrocs posts big blind 1400
+Dealt to _SKR [5h Ts]
+*** PRE-FLOP *** 
+Samlegros51 raises 2800 to 4200
+Pokrym folds
+Maximinimus calls 4200
+_SKR folds
+Baycrocs folds
+*** FLOP *** [3h Ac Jc]
+Samlegros51 checks
+Maximinimus bets 7345
+Samlegros51 calls 7345
+*** TURN *** [3h Ac Jc][9h]
+Samlegros51 checks
+Maximinimus bets 9097
+Samlegros51 calls 9097
+*** RIVER *** [3h Ac Jc 9h][4d]
+Samlegros51 checks
+Maximinimus checks
+*** SHOW DOWN ***
+Samlegros51 shows [Qh Jd] (One pair : Jacks)
+Maximinimus shows [Kh Js] (One pair : Jacks)
+Maximinimus collected 44184 from pot
+*** SUMMARY ***
+Total pot 44184 | No rake
+Board: [3h Ac Jc 9h 4d]
+Seat 1: Samlegros51 showed [Qh Jd] and lost with One pair : Jacks
+Seat 3: Maximinimus (button) showed [Kh Js] and won 44184 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678089078888464394-36-1676579569 - Holdem no limit (160/700/1400) - 2023/02/16 20:32:49 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #5 is the button
+Seat 1: Samlegros51 (146004)
+Seat 2: Pokrym (67563)
+Seat 3: Maximinimus (257844)
+Seat 4: MacacoAstro (100000)
+Seat 5: _SKR (67980)
+Seat 6: Baycrocs (85146)
+*** ANTE/BLINDS ***
+Baycrocs posts ante 160
+Samlegros51 posts ante 160
+Pokrym posts ante 160
+Maximinimus posts ante 160
+MacacoAstro posts ante 160
+_SKR posts ante 160
+Baycrocs posts small blind 700
+Samlegros51 posts big blind 1400
+Dealt to _SKR [Qd Ac]
+*** PRE-FLOP *** 
+Pokrym folds
+Maximinimus raises 2800 to 4200
+MacacoAstro folds
+_SKR calls 4200
+Baycrocs folds
+Samlegros51 folds
+*** FLOP *** [7c 8d 3d]
+Maximinimus checks
+_SKR bets 4011
+Maximinimus calls 4011
+*** TURN *** [7c 8d 3d][5d]
+Maximinimus checks
+_SKR checks
+*** RIVER *** [7c 8d 3d 5d][Js]
+Maximinimus checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Qd Ac] (High card : Ace)
+Maximinimus shows [Ah Jc] (One pair : Jacks)
+Maximinimus collected 19482 from pot
+*** SUMMARY ***
+Total pot 19482 | No rake
+Board: [7c 8d 3d 5d Js]
+Seat 3: Maximinimus showed [Ah Jc] and won 19482 with One pair : Jacks
+Seat 5: _SKR (button) showed [Qd Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678089078888464394-37-1676579622 - Holdem no limit (200/800/1600) - 2023/02/16 20:33:42 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #6 is the button
+Seat 1: Samlegros51 (144444)
+Seat 2: Pokrym (67403)
+Seat 3: Maximinimus (268955)
+Seat 4: MacacoAstro (99840)
+Seat 5: _SKR (59609)
+Seat 6: Baycrocs (84286)
+*** ANTE/BLINDS ***
+Samlegros51 posts ante 200
+Pokrym posts ante 200
+Maximinimus posts ante 200
+MacacoAstro posts ante 200
+_SKR posts ante 200
+Baycrocs posts ante 200
+Samlegros51 posts small blind 800
+Pokrym posts big blind 1600
+Dealt to _SKR [Qs Td]
+*** PRE-FLOP *** 
+Maximinimus raises 1600 to 3200
+MacacoAstro calls 3200
+_SKR folds
+Baycrocs raises 8800 to 12000
+Samlegros51 folds
+Pokrym folds
+Maximinimus calls 8800
+MacacoAstro calls 8800
+*** FLOP *** [3s Qh 3h]
+Maximinimus checks
+MacacoAstro checks
+Baycrocs checks
+*** TURN *** [3s Qh 3h][Ks]
+Maximinimus checks
+MacacoAstro checks
+Baycrocs bets 72086 and is all-in
+Maximinimus folds
+MacacoAstro folds
+Baycrocs collected 111686 from pot
+*** SUMMARY ***
+Total pot 111686 | No rake
+Board: [3s Qh 3h Ks]
+Seat 6: Baycrocs (button) won 111686
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678089078888464394-38-1676579676 - Holdem no limit (200/800/1600) - 2023/02/16 20:34:36 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Samlegros51 (143444)
+Seat 2: Pokrym (65603)
+Seat 3: Maximinimus (256755)
+Seat 4: MacacoAstro (87640)
+Seat 5: _SKR (59409)
+Seat 6: Baycrocs (111686)
+*** ANTE/BLINDS ***
+Pokrym posts ante 200
+Maximinimus posts ante 200
+Samlegros51 posts ante 200
+MacacoAstro posts ante 200
+_SKR posts ante 200
+Baycrocs posts ante 200
+Pokrym posts small blind 800
+Maximinimus posts big blind 1600
+Dealt to _SKR [Ad Kd]
+*** PRE-FLOP *** 
+MacacoAstro folds
+_SKR raises 2000 to 3600
+Baycrocs folds
+Samlegros51 folds
+Pokrym folds
+Maximinimus calls 2000
+*** FLOP *** [3h 6c As]
+Maximinimus checks
+_SKR bets 3220
+Maximinimus calls 3220
+*** TURN *** [3h 6c As][Tc]
+Maximinimus checks
+_SKR bets 10166
+Maximinimus calls 10166
+*** RIVER *** [3h 6c As Tc][3d]
+Maximinimus checks
+_SKR bets 42223 and is all-in
+Maximinimus folds
+_SKR collected 78195 from pot
+*** SUMMARY ***
+Total pot 78195 | No rake
+Board: [3h 6c As Tc 3d]
+Seat 5: _SKR won 78195
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678089078888464394-39-1676579726 - Holdem no limit (200/800/1600) - 2023/02/16 20:35:26 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #2 is the button
+Seat 1: Samlegros51 (143244)
+Seat 2: Pokrym (64603)
+Seat 3: Maximinimus (239569)
+Seat 4: MacacoAstro (87440)
+Seat 5: _SKR (78195)
+Seat 6: Baycrocs (111486)
+*** ANTE/BLINDS ***
+Maximinimus posts ante 200
+MacacoAstro posts ante 200
+Samlegros51 posts ante 200
+Pokrym posts ante 200
+_SKR posts ante 200
+Baycrocs posts ante 200
+Maximinimus posts small blind 800
+MacacoAstro posts big blind 1600
+Dealt to _SKR [7s 8h]
+*** PRE-FLOP *** 
+_SKR folds
+Baycrocs folds
+Samlegros51 raises 2400 to 4000
+Pokrym raises 8800 to 12800
+Maximinimus folds
+MacacoAstro folds
+Samlegros51 folds
+Pokrym collected 20400 from pot
+*** SUMMARY ***
+Total pot 20400 | No rake
+Seat 2: Pokrym (button) won 20400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678089078888464394-40-1676579753 - Holdem no limit (200/800/1600) - 2023/02/16 20:35:53 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #3 is the button
+Seat 1: Samlegros51 (139044)
+Seat 2: Pokrym (72003)
+Seat 3: Maximinimus (238569)
+Seat 4: MacacoAstro (85640)
+Seat 5: _SKR (77995)
+Seat 6: Baycrocs (111286)
+*** ANTE/BLINDS ***
+MacacoAstro posts ante 200
+_SKR posts ante 200
+Samlegros51 posts ante 200
+Pokrym posts ante 200
+Maximinimus posts ante 200
+Baycrocs posts ante 200
+MacacoAstro posts small blind 800
+_SKR posts big blind 1600
+Dealt to _SKR [6d Kh]
+*** PRE-FLOP *** 
+Baycrocs folds
+Samlegros51 folds
+Pokrym folds
+Maximinimus raises 1600 to 3200
+MacacoAstro folds
+_SKR calls 1600
+*** FLOP *** [9s Ac 3c]
+_SKR checks
+Maximinimus bets 235169 and is all-in
+_SKR folds
+Maximinimus collected 243569 from pot
+*** SUMMARY ***
+Total pot 243569 | No rake
+Board: [9s Ac 3c]
+Seat 3: Maximinimus (button) won 243569
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678089078888464394-41-1676579791 - Holdem no limit (200/800/1600) - 2023/02/16 20:36:31 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #4 is the button
+Seat 1: Samlegros51 (138844)
+Seat 2: Pokrym (71803)
+Seat 3: Maximinimus (243569)
+Seat 4: MacacoAstro (84640)
+Seat 5: _SKR (74595)
+Seat 6: Baycrocs (111086)
+*** ANTE/BLINDS ***
+_SKR posts ante 200
+Baycrocs posts ante 200
+Samlegros51 posts ante 200
+Pokrym posts ante 200
+Maximinimus posts ante 200
+MacacoAstro posts ante 200
+_SKR posts small blind 800
+Baycrocs posts big blind 1600
+Dealt to _SKR [5h Ah]
+*** PRE-FLOP *** 
+Samlegros51 folds
+Pokrym folds
+Maximinimus calls 1600
+MacacoAstro folds
+_SKR raises 6000 to 7600
+Baycrocs folds
+Maximinimus folds
+_SKR collected 12000 from pot
+*** SUMMARY ***
+Total pot 12000 | No rake
+Seat 5: _SKR (small blind) won 12000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678089078888464394-42-1676579806 - Holdem no limit (200/800/1600) - 2023/02/16 20:36:46 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #5 is the button
+Seat 1: Samlegros51 (138644)
+Seat 2: Pokrym (71603)
+Seat 3: Maximinimus (241769)
+Seat 4: MacacoAstro (84440)
+Seat 5: _SKR (78795)
+Seat 6: Baycrocs (109286)
+*** ANTE/BLINDS ***
+Baycrocs posts ante 200
+Samlegros51 posts ante 200
+Pokrym posts ante 200
+Maximinimus posts ante 200
+MacacoAstro posts ante 200
+_SKR posts ante 200
+Baycrocs posts small blind 800
+Samlegros51 posts big blind 1600
+Dealt to _SKR [3d Jd]
+*** PRE-FLOP *** 
+Pokrym folds
+Maximinimus calls 1600
+MacacoAstro folds
+_SKR folds
+Baycrocs folds
+Samlegros51 checks
+*** FLOP *** [3c Tc As]
+Samlegros51 checks
+Maximinimus checks
+*** TURN *** [3c Tc As][Ks]
+Samlegros51 checks
+Maximinimus bets 5194
+Samlegros51 folds
+Maximinimus collected 10394 from pot
+*** SUMMARY ***
+Total pot 10394 | No rake
+Board: [3c Tc As Ks]
+Seat 3: Maximinimus won 10394
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678089078888464394-43-1676579855 - Holdem no limit (200/800/1600) - 2023/02/16 20:37:35 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #6 is the button
+Seat 1: Samlegros51 (136844)
+Seat 2: Pokrym (71403)
+Seat 3: Maximinimus (245169)
+Seat 4: MacacoAstro (84240)
+Seat 5: _SKR (78595)
+Seat 6: Baycrocs (108286)
+*** ANTE/BLINDS ***
+Samlegros51 posts ante 200
+Pokrym posts ante 200
+Maximinimus posts ante 200
+MacacoAstro posts ante 200
+_SKR posts ante 200
+Baycrocs posts ante 200
+Samlegros51 posts small blind 800
+Pokrym posts big blind 1600
+Dealt to _SKR [5c 9h]
+*** PRE-FLOP *** 
+Maximinimus raises 2400 to 4000
+MacacoAstro folds
+_SKR folds
+Baycrocs folds
+Samlegros51 calls 3200
+Pokrym folds
+*** FLOP *** [Ah 6c Qd]
+Samlegros51 checks
+Maximinimus checks
+*** TURN *** [Ah 6c Qd][2c]
+Samlegros51 checks
+Maximinimus bets 3780
+Samlegros51 calls 3780
+*** RIVER *** [Ah 6c Qd 2c][Kh]
+Samlegros51 checks
+Maximinimus bets 6426
+Samlegros51 folds
+Maximinimus collected 24786 from pot
+*** SUMMARY ***
+Total pot 24786 | No rake
+Board: [Ah 6c Qd 2c Kh]
+Seat 3: Maximinimus won 24786
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678089078888464394-44-1676579921 - Holdem no limit (200/800/1600) - 2023/02/16 20:38:41 UTC
+Table: 'Monster Stack(623541204)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Samlegros51 (128864)
+Seat 2: Pokrym (69603)
+Seat 3: Maximinimus (255549)
+Seat 4: MacacoAstro (84040)
+Seat 5: _SKR (78395)
+Seat 6: Baycrocs (108086)
+*** ANTE/BLINDS ***
+Pokrym posts ante 200
+Maximinimus posts ante 200
+Samlegros51 posts ante 200
+MacacoAstro posts ante 200
+_SKR posts ante 200
+Baycrocs posts ante 200
+Pokrym posts small blind 800
+Maximinimus posts big blind 1600
+Dealt to _SKR [Ac 4h]
+*** PRE-FLOP *** 
+MacacoAstro folds
+_SKR folds
+Baycrocs folds
+Samlegros51 raises 2400 to 4000
+Pokrym folds
+Maximinimus folds
+Samlegros51 collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Seat 1: Samlegros51 (button) won 7600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678089078888464397-1-1676579949 - Holdem no limit (250/1000/2000) - 2023/02/16 20:39:09 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 2: OUvR (100000)
+Seat 4: LeVietFourbe (99800)
+Seat 5: _Majin-J8C_ (84220)
+Seat 6: _SKR (78195)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 250
+_Majin-J8C_ posts ante 250
+OUvR posts ante 250
+_SKR posts ante 250
+LeVietFourbe posts small blind 1000
+_Majin-J8C_ posts big blind 2000
+Dealt to _SKR [Td 7h]
+*** PRE-FLOP *** 
+_SKR folds
+OUvR raises 2400 to 4400
+LeVietFourbe folds
+_Majin-J8C_ calls 2400
+*** FLOP *** [3s Ad 4s]
+_Majin-J8C_ checks
+OUvR bets 3564
+_Majin-J8C_ folds
+OUvR collected 14364 from pot
+*** SUMMARY ***
+Total pot 14364 | No rake
+Board: [3s Ad 4s]
+Seat 2: OUvR (button) won 14364
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678089078888464397-2-1676579969 - Holdem no limit (250/1000/2000) - 2023/02/16 20:39:29 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 2: OUvR (106150)
+Seat 3: AAbi_dum0ine (195696)
+Seat 4: LeVietFourbe (98550)
+Seat 5: _Majin-J8C_ (79570)
+Seat 6: _SKR (77945)
+*** ANTE/BLINDS ***
+_Majin-J8C_ posts ante 250
+_SKR posts ante 250
+OUvR posts ante 250
+AAbi_dum0ine posts ante 250
+LeVietFourbe posts ante 250
+_Majin-J8C_ posts small blind 1000
+_SKR posts big blind 2000
+Dealt to _SKR [7c 3c]
+*** PRE-FLOP *** 
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR collected 4250 from pot
+*** SUMMARY ***
+Total pot 4250 | No rake
+Seat 6: _SKR (big blind) won 4250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678089078888464397-3-1676579988 - Holdem no limit (250/1000/2000) - 2023/02/16 20:39:48 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #5 is the button
+Seat 2: OUvR (105900)
+Seat 3: AAbi_dum0ine (195446)
+Seat 4: LeVietFourbe (98300)
+Seat 5: _Majin-J8C_ (78320)
+Seat 6: _SKR (79945)
+*** ANTE/BLINDS ***
+_SKR posts ante 250
+OUvR posts ante 250
+AAbi_dum0ine posts ante 250
+LeVietFourbe posts ante 250
+_Majin-J8C_ posts ante 250
+_SKR posts small blind 1000
+OUvR posts big blind 2000
+Dealt to _SKR [9c As]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR raises 3000 to 5000
+OUvR calls 3000
+*** FLOP *** [6h 8d 3h]
+_SKR checks
+OUvR checks
+*** TURN *** [6h 8d 3h][Ks]
+_SKR checks
+OUvR checks
+*** RIVER *** [6h 8d 3h Ks][3s]
+_SKR checks
+OUvR bets 7313
+_SKR calls 7313
+*** SHOW DOWN ***
+_SKR shows [9c As] (One pair : 3)
+OUvR shows [Jc Kd] (Two pairs : Kings and 3)
+OUvR collected 25876 from pot
+*** SUMMARY ***
+Total pot 25876 | No rake
+Board: [6h 8d 3h Ks 3s]
+Seat 2: OUvR (big blind) showed [Jc Kd] and won 25876 with Two pairs : Kings and 3
+Seat 6: _SKR (small blind) showed [9c As] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678089078888464397-4-1676580056 - Holdem no limit (250/1000/2000) - 2023/02/16 20:40:56 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #6 is the button
+Seat 2: OUvR (119213)
+Seat 3: AAbi_dum0ine (195196)
+Seat 4: LeVietFourbe (98050)
+Seat 5: _Majin-J8C_ (78070)
+Seat 6: _SKR (67382)
+*** ANTE/BLINDS ***
+OUvR posts ante 250
+AAbi_dum0ine posts ante 250
+LeVietFourbe posts ante 250
+_Majin-J8C_ posts ante 250
+_SKR posts ante 250
+OUvR posts small blind 1000
+AAbi_dum0ine posts big blind 2000
+Dealt to _SKR [8c 7h]
+*** PRE-FLOP *** 
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR folds
+OUvR folds
+AAbi_dum0ine collected 4250 from pot
+*** SUMMARY ***
+Total pot 4250 | No rake
+Seat 3: AAbi_dum0ine (big blind) won 4250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678089078888464397-5-1676580068 - Holdem no limit (250/1000/2000) - 2023/02/16 20:41:08 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 2: OUvR (117963)
+Seat 3: AAbi_dum0ine (197196)
+Seat 4: LeVietFourbe (97800)
+Seat 5: _Majin-J8C_ (77820)
+Seat 6: _SKR (67132)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 250
+LeVietFourbe posts ante 250
+OUvR posts ante 250
+_Majin-J8C_ posts ante 250
+_SKR posts ante 250
+AAbi_dum0ine posts small blind 1000
+LeVietFourbe posts big blind 2000
+Dealt to _SKR [Qs 4h]
+*** PRE-FLOP *** 
+_Majin-J8C_ folds
+_SKR folds
+OUvR raises 2400 to 4400
+AAbi_dum0ine folds
+LeVietFourbe calls 2400
+*** FLOP *** [Jd 4c Ts]
+LeVietFourbe checks
+OUvR bets 2000
+LeVietFourbe folds
+OUvR collected 13050 from pot
+*** SUMMARY ***
+Total pot 13050 | No rake
+Board: [Jd 4c Ts]
+Seat 2: OUvR (button) won 13050
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678089078888464397-6-1676580110 - Holdem no limit (250/1000/2000) - 2023/02/16 20:41:50 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #3 is the button
+Seat 2: OUvR (124363)
+Seat 3: AAbi_dum0ine (195946)
+Seat 4: LeVietFourbe (93150)
+Seat 5: _Majin-J8C_ (77570)
+Seat 6: _SKR (66882)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 250
+_Majin-J8C_ posts ante 250
+OUvR posts ante 250
+AAbi_dum0ine posts ante 250
+_SKR posts ante 250
+LeVietFourbe posts small blind 1000
+_Majin-J8C_ posts big blind 2000
+Dealt to _SKR [2c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+OUvR raises 2400 to 4400
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ calls 2400
+*** FLOP *** [Ac 7c Th]
+_Majin-J8C_ checks
+OUvR bets 5525
+_Majin-J8C_ calls 5525
+*** TURN *** [Ac 7c Th][7s]
+_Majin-J8C_ checks
+OUvR bets 16575
+_Majin-J8C_ calls 16575
+*** RIVER *** [Ac 7c Th 7s][8s]
+_Majin-J8C_ checks
+OUvR bets 97613 and is all-in
+_Majin-J8C_ folds
+OUvR collected 152863 from pot
+*** SUMMARY ***
+Total pot 152863 | No rake
+Board: [Ac 7c Th 7s 8s]
+Seat 2: OUvR won 152863
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678089078888464397-7-1676580211 - Holdem no limit (250/1000/2000) - 2023/02/16 20:43:31 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 2: OUvR (152863)
+Seat 3: AAbi_dum0ine (195696)
+Seat 4: LeVietFourbe (91900)
+Seat 5: _Majin-J8C_ (50820)
+Seat 6: _SKR (66632)
+*** ANTE/BLINDS ***
+_Majin-J8C_ posts ante 250
+_SKR posts ante 250
+OUvR posts ante 250
+AAbi_dum0ine posts ante 250
+LeVietFourbe posts ante 250
+_Majin-J8C_ posts small blind 1000
+_SKR posts big blind 2000
+Dealt to _SKR [2h 2d]
+*** PRE-FLOP *** 
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ calls 1000
+_SKR checks
+*** FLOP *** [4s Jc 8s]
+_Majin-J8C_ bets 2993
+_SKR folds
+_Majin-J8C_ collected 8243 from pot
+*** SUMMARY ***
+Total pot 8243 | No rake
+Board: [4s Jc 8s]
+Seat 5: _Majin-J8C_ (small blind) won 8243
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678089078888464397-8-1676580251 - Holdem no limit (250/1000/2000) - 2023/02/16 20:44:11 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #5 is the button
+Seat 1: nade30 (100000)
+Seat 2: OUvR (152613)
+Seat 3: AAbi_dum0ine (195446)
+Seat 4: LeVietFourbe (91650)
+Seat 5: _Majin-J8C_ (53820)
+Seat 6: _SKR (64382)
+*** ANTE/BLINDS ***
+_SKR posts ante 250
+nade30 posts ante 250
+OUvR posts ante 250
+AAbi_dum0ine posts ante 250
+LeVietFourbe posts ante 250
+_Majin-J8C_ posts ante 250
+_SKR posts small blind 1000
+nade30 posts big blind 2000
+Dealt to _SKR [As 6d]
+*** PRE-FLOP *** 
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ raises 2500 to 4500
+_SKR folds
+nade30 folds
+_Majin-J8C_ collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 5: _Majin-J8C_ (button) won 9000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678089078888464397-9-1676580283 - Holdem no limit (250/1000/2000) - 2023/02/16 20:44:43 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #6 is the button
+Seat 1: nade30 (97750)
+Seat 2: OUvR (152363)
+Seat 3: AAbi_dum0ine (195196)
+Seat 4: LeVietFourbe (91400)
+Seat 5: _Majin-J8C_ (58070)
+Seat 6: _SKR (63132)
+*** ANTE/BLINDS ***
+nade30 posts ante 250
+OUvR posts ante 250
+AAbi_dum0ine posts ante 250
+LeVietFourbe posts ante 250
+_Majin-J8C_ posts ante 250
+_SKR posts ante 250
+nade30 posts small blind 1000
+OUvR posts big blind 2000
+Dealt to _SKR [3h Jh]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR folds
+nade30 raises 5500 to 7500
+OUvR folds
+nade30 collected 11000 from pot
+*** SUMMARY ***
+Total pot 11000 | No rake
+Seat 1: nade30 (small blind) won 11000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678089078888464397-10-1676580303 - Holdem no limit (300/1250/2500) - 2023/02/16 20:45:03 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #1 is the button
+Seat 1: nade30 (101000)
+Seat 2: OUvR (150113)
+Seat 3: AAbi_dum0ine (194946)
+Seat 4: LeVietFourbe (91150)
+Seat 5: _Majin-J8C_ (57820)
+Seat 6: _SKR (62882)
+*** ANTE/BLINDS ***
+OUvR posts ante 300
+AAbi_dum0ine posts ante 300
+nade30 posts ante 300
+LeVietFourbe posts ante 300
+_Majin-J8C_ posts ante 300
+_SKR posts ante 300
+OUvR posts small blind 1250
+AAbi_dum0ine posts big blind 2500
+Dealt to _SKR [Qs Kd]
+*** PRE-FLOP *** 
+LeVietFourbe folds
+_Majin-J8C_ raises 3125 to 5625
+_SKR folds
+nade30 folds
+OUvR raises 144188 to 149813 and is all-in
+AAbi_dum0ine folds
+_Majin-J8C_ folds
+OUvR collected 159738 from pot
+*** SUMMARY ***
+Total pot 159738 | No rake
+Seat 2: OUvR (small blind) won 159738
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678089078888464397-11-1676580357 - Holdem no limit (300/1250/2500) - 2023/02/16 20:45:57 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 1: nade30 (100700)
+Seat 2: OUvR (159738)
+Seat 3: AAbi_dum0ine (192146)
+Seat 4: LeVietFourbe (90850)
+Seat 5: _Majin-J8C_ (51895)
+Seat 6: _SKR (62582)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 300
+LeVietFourbe posts ante 300
+nade30 posts ante 300
+OUvR posts ante 300
+_Majin-J8C_ posts ante 300
+_SKR posts ante 300
+AAbi_dum0ine posts small blind 1250
+LeVietFourbe posts big blind 2500
+Dealt to _SKR [3c 9s]
+*** PRE-FLOP *** 
+_Majin-J8C_ folds
+_SKR folds
+nade30 calls 2500
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe checks
+*** FLOP *** [4h Qd Js]
+LeVietFourbe checks
+nade30 checks
+*** TURN *** [4h Qd Js][3h]
+LeVietFourbe checks
+nade30 checks
+*** RIVER *** [4h Qd Js 3h][2d]
+LeVietFourbe checks
+nade30 checks
+*** SHOW DOWN ***
+nade30 shows [2s Ks] (One pair : 2)
+LeVietFourbe shows [4c Ac] (One pair : 4)
+LeVietFourbe collected 8050 from pot
+*** SUMMARY ***
+Total pot 8050 | No rake
+Board: [4h Qd Js 3h 2d]
+Seat 1: nade30 showed [2s Ks] and lost with One pair : 2
+Seat 4: LeVietFourbe (big blind) showed [4c Ac] and won 8050 with One pair : 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678089078888464397-12-1676580470 - Holdem no limit (300/1250/2500) - 2023/02/16 20:47:50 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #3 is the button
+Seat 1: nade30 (97900)
+Seat 2: OUvR (159438)
+Seat 3: AAbi_dum0ine (190596)
+Seat 4: LeVietFourbe (96100)
+Seat 5: _Majin-J8C_ (51595)
+Seat 6: _SKR (62282)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 300
+_Majin-J8C_ posts ante 300
+nade30 posts ante 300
+OUvR posts ante 300
+AAbi_dum0ine posts ante 300
+_SKR posts ante 300
+LeVietFourbe posts small blind 1250
+_Majin-J8C_ posts big blind 2500
+Dealt to _SKR [3d Th]
+*** PRE-FLOP *** 
+_SKR folds
+nade30 raises 8050 to 10550
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ folds
+nade30 collected 16100 from pot
+*** SUMMARY ***
+Total pot 16100 | No rake
+Seat 1: nade30 won 16100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678089078888464397-13-1676580518 - Holdem no limit (300/1250/2500) - 2023/02/16 20:48:38 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 1: nade30 (103150)
+Seat 2: OUvR (159138)
+Seat 3: AAbi_dum0ine (190296)
+Seat 4: LeVietFourbe (94550)
+Seat 5: _Majin-J8C_ (48795)
+Seat 6: _SKR (61982)
+*** ANTE/BLINDS ***
+_Majin-J8C_ posts ante 300
+_SKR posts ante 300
+nade30 posts ante 300
+OUvR posts ante 300
+AAbi_dum0ine posts ante 300
+LeVietFourbe posts ante 300
+_Majin-J8C_ posts small blind 1250
+_SKR posts big blind 2500
+Dealt to _SKR [As Ts]
+*** PRE-FLOP *** 
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Seat 6: _SKR (big blind) won 5550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678089078888464397-14-1676580570 - Holdem no limit (300/1250/2500) - 2023/02/16 20:49:30 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #5 is the button
+Seat 1: nade30 (102850)
+Seat 2: OUvR (158838)
+Seat 3: AAbi_dum0ine (189996)
+Seat 4: LeVietFourbe (94250)
+Seat 5: _Majin-J8C_ (47245)
+Seat 6: _SKR (64732)
+*** ANTE/BLINDS ***
+_SKR posts ante 300
+nade30 posts ante 300
+OUvR posts ante 300
+AAbi_dum0ine posts ante 300
+LeVietFourbe posts ante 300
+_Majin-J8C_ posts ante 300
+_SKR posts small blind 1250
+nade30 posts big blind 2500
+Dealt to _SKR [2d Td]
+*** PRE-FLOP *** 
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR folds
+nade30 collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Seat 1: nade30 (big blind) won 5550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678089078888464397-15-1676580594 - Holdem no limit (300/1250/2500) - 2023/02/16 20:49:54 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #6 is the button
+Seat 1: nade30 (105600)
+Seat 2: OUvR (158538)
+Seat 3: AAbi_dum0ine (189696)
+Seat 4: LeVietFourbe (93950)
+Seat 5: _Majin-J8C_ (46945)
+Seat 6: _SKR (63182)
+*** ANTE/BLINDS ***
+nade30 posts ante 300
+OUvR posts ante 300
+AAbi_dum0ine posts ante 300
+LeVietFourbe posts ante 300
+_Majin-J8C_ posts ante 300
+_SKR posts ante 300
+nade30 posts small blind 1250
+OUvR posts big blind 2500
+Dealt to _SKR [5s Ks]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR folds
+nade30 folds
+OUvR collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Seat 2: OUvR (big blind) won 5550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678089078888464397-16-1676580630 - Holdem no limit (300/1250/2500) - 2023/02/16 20:50:30 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #1 is the button
+Seat 1: nade30 (104050)
+Seat 2: OUvR (161288)
+Seat 3: AAbi_dum0ine (189396)
+Seat 4: LeVietFourbe (93650)
+Seat 5: _Majin-J8C_ (46645)
+Seat 6: _SKR (62882)
+*** ANTE/BLINDS ***
+OUvR posts ante 300
+AAbi_dum0ine posts ante 300
+nade30 posts ante 300
+LeVietFourbe posts ante 300
+_Majin-J8C_ posts ante 300
+_SKR posts ante 300
+OUvR posts small blind 1250
+AAbi_dum0ine posts big blind 2500
+Dealt to _SKR [5s Qc]
+*** PRE-FLOP *** 
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR folds
+nade30 raises 8050 to 10550
+OUvR folds
+AAbi_dum0ine folds
+nade30 collected 16100 from pot
+*** SUMMARY ***
+Total pot 16100 | No rake
+Seat 1: nade30 (button) won 16100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678089078888464397-17-1676580657 - Holdem no limit (300/1250/2500) - 2023/02/16 20:50:57 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 1: nade30 (109300)
+Seat 2: OUvR (159738)
+Seat 3: AAbi_dum0ine (186596)
+Seat 4: LeVietFourbe (93350)
+Seat 5: _Majin-J8C_ (46345)
+Seat 6: _SKR (62582)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 300
+LeVietFourbe posts ante 300
+nade30 posts ante 300
+OUvR posts ante 300
+_Majin-J8C_ posts ante 300
+_SKR posts ante 300
+AAbi_dum0ine posts small blind 1250
+LeVietFourbe posts big blind 2500
+Dealt to _SKR [4c Qd]
+*** PRE-FLOP *** 
+_Majin-J8C_ folds
+_SKR folds
+nade30 folds
+OUvR raises 3000 to 5500
+AAbi_dum0ine calls 4250
+LeVietFourbe folds
+*** FLOP *** [4d 5h 3h]
+AAbi_dum0ine checks
+OUvR checks
+*** TURN *** [4d 5h 3h][7c]
+AAbi_dum0ine bets 6250
+OUvR folds
+AAbi_dum0ine collected 21550 from pot
+*** SUMMARY ***
+Total pot 21550 | No rake
+Board: [4d 5h 3h 7c]
+Seat 3: AAbi_dum0ine (small blind) won 21550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678089078888464397-18-1676580706 - Holdem no limit (350/1500/3000) - 2023/02/16 20:51:46 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #3 is the button
+Seat 1: nade30 (109000)
+Seat 2: OUvR (153938)
+Seat 3: AAbi_dum0ine (196096)
+Seat 4: LeVietFourbe (90550)
+Seat 5: _Majin-J8C_ (46045)
+Seat 6: _SKR (62282)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 350
+_Majin-J8C_ posts ante 350
+nade30 posts ante 350
+OUvR posts ante 350
+AAbi_dum0ine posts ante 350
+_SKR posts ante 350
+LeVietFourbe posts small blind 1500
+_Majin-J8C_ posts big blind 3000
+Dealt to _SKR [8h 6c]
+*** PRE-FLOP *** 
+_SKR folds
+nade30 folds
+OUvR raises 3600 to 6600
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ calls 3600
+*** FLOP *** [8d Tc Jc]
+_Majin-J8C_ checks
+OUvR bets 8400
+_Majin-J8C_ raises 30695 to 39095 and is all-in
+OUvR folds
+_Majin-J8C_ collected 64295 from pot
+*** SUMMARY ***
+Total pot 64295 | No rake
+Board: [8d Tc Jc]
+Seat 5: _Majin-J8C_ (big blind) won 64295
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678089078888464397-19-1676580751 - Holdem no limit (350/1500/3000) - 2023/02/16 20:52:31 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 1: nade30 (108650)
+Seat 2: OUvR (138588)
+Seat 3: AAbi_dum0ine (195746)
+Seat 4: LeVietFourbe (88700)
+Seat 5: _Majin-J8C_ (64295)
+Seat 6: _SKR (61932)
+*** ANTE/BLINDS ***
+_Majin-J8C_ posts ante 350
+_SKR posts ante 350
+nade30 posts ante 350
+OUvR posts ante 350
+AAbi_dum0ine posts ante 350
+LeVietFourbe posts ante 350
+_Majin-J8C_ posts small blind 1500
+_SKR posts big blind 3000
+Dealt to _SKR [7c Jh]
+*** PRE-FLOP *** 
+nade30 folds
+OUvR raises 3000 to 6000
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR folds
+OUvR collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Seat 2: OUvR won 12600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678089078888464397-20-1676580779 - Holdem no limit (350/1500/3000) - 2023/02/16 20:52:59 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #5 is the button
+Seat 1: nade30 (108300)
+Seat 2: OUvR (144838)
+Seat 3: AAbi_dum0ine (195396)
+Seat 4: LeVietFourbe (88350)
+Seat 5: _Majin-J8C_ (62445)
+Seat 6: _SKR (58582)
+*** ANTE/BLINDS ***
+_SKR posts ante 350
+nade30 posts ante 350
+OUvR posts ante 350
+AAbi_dum0ine posts ante 350
+LeVietFourbe posts ante 350
+_Majin-J8C_ posts ante 350
+_SKR posts small blind 1500
+nade30 posts big blind 3000
+Dealt to _SKR [7d 8h]
+*** PRE-FLOP *** 
+OUvR raises 3000 to 6000
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ raises 56095 to 62095 and is all-in
+_SKR folds
+nade30 folds
+OUvR folds
+_Majin-J8C_ collected 74695 from pot
+*** SUMMARY ***
+Total pot 74695 | No rake
+Seat 5: _Majin-J8C_ (button) won 74695
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678089078888464397-21-1676580802 - Holdem no limit (350/1500/3000) - 2023/02/16 20:53:22 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #6 is the button
+Seat 1: nade30 (104950)
+Seat 2: OUvR (138488)
+Seat 3: AAbi_dum0ine (195046)
+Seat 4: LeVietFourbe (88000)
+Seat 5: _Majin-J8C_ (74695)
+Seat 6: _SKR (56732)
+*** ANTE/BLINDS ***
+nade30 posts ante 350
+OUvR posts ante 350
+AAbi_dum0ine posts ante 350
+LeVietFourbe posts ante 350
+_Majin-J8C_ posts ante 350
+_SKR posts ante 350
+nade30 posts small blind 1500
+OUvR posts big blind 3000
+Dealt to _SKR [2h Td]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ raises 3450 to 6450
+_SKR folds
+nade30 folds
+OUvR folds
+_Majin-J8C_ collected 13050 from pot
+*** SUMMARY ***
+Total pot 13050 | No rake
+Seat 5: _Majin-J8C_ won 13050
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678089078888464397-22-1676580828 - Holdem no limit (350/1500/3000) - 2023/02/16 20:53:48 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #1 is the button
+Seat 1: nade30 (103100)
+Seat 2: OUvR (135138)
+Seat 3: AAbi_dum0ine (194696)
+Seat 4: LeVietFourbe (87650)
+Seat 5: _Majin-J8C_ (80945)
+Seat 6: _SKR (56382)
+*** ANTE/BLINDS ***
+OUvR posts ante 350
+AAbi_dum0ine posts ante 350
+nade30 posts ante 350
+LeVietFourbe posts ante 350
+_Majin-J8C_ posts ante 350
+_SKR posts ante 350
+OUvR posts small blind 1500
+AAbi_dum0ine posts big blind 3000
+Dealt to _SKR [8d 8s]
+*** PRE-FLOP *** 
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR raises 53032 to 56032 and is all-in
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+_SKR collected 62632 from pot
+*** SUMMARY ***
+Total pot 62632 | No rake
+Seat 6: _SKR won 62632
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678089078888464397-23-1676580868 - Holdem no limit (350/1500/3000) - 2023/02/16 20:54:28 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 1: nade30 (102750)
+Seat 2: OUvR (133288)
+Seat 3: AAbi_dum0ine (191346)
+Seat 4: LeVietFourbe (87300)
+Seat 5: _Majin-J8C_ (80595)
+Seat 6: _SKR (62632)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 350
+LeVietFourbe posts ante 350
+nade30 posts ante 350
+OUvR posts ante 350
+_Majin-J8C_ posts ante 350
+_SKR posts ante 350
+AAbi_dum0ine posts small blind 1500
+LeVietFourbe posts big blind 3000
+Dealt to _SKR [7d 2s]
+*** PRE-FLOP *** 
+_Majin-J8C_ folds
+_SKR folds
+nade30 folds
+OUvR raises 3600 to 6600
+AAbi_dum0ine folds
+LeVietFourbe calls 3600
+*** FLOP *** [Kd 3c 7s]
+LeVietFourbe checks
+OUvR bets 8400
+LeVietFourbe folds
+OUvR collected 25200 from pot
+*** SUMMARY ***
+Total pot 25200 | No rake
+Board: [Kd 3c 7s]
+Seat 2: OUvR (button) won 25200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678089078888464397-24-1676581262 - Holdem no limit (350/1500/3000) - 2023/02/16 21:01:02 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #3 is the button
+Seat 1: nade30 (102400)
+Seat 2: OUvR (143138)
+Seat 3: AAbi_dum0ine (189496)
+Seat 4: LeVietFourbe (80350)
+Seat 5: _Majin-J8C_ (80245)
+Seat 6: _SKR (62282)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 350
+_Majin-J8C_ posts ante 350
+nade30 posts ante 350
+OUvR posts ante 350
+AAbi_dum0ine posts ante 350
+_SKR posts ante 350
+LeVietFourbe posts small blind 1500
+_Majin-J8C_ posts big blind 3000
+Dealt to _SKR [6s Td]
+*** PRE-FLOP *** 
+_SKR folds
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe calls 1500
+_Majin-J8C_ checks
+*** FLOP *** [Jd Tc Ad]
+LeVietFourbe bets 3000
+_Majin-J8C_ folds
+LeVietFourbe collected 11100 from pot
+*** SUMMARY ***
+Total pot 11100 | No rake
+Board: [Jd Tc Ad]
+Seat 4: LeVietFourbe (small blind) won 11100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678089078888464397-25-1676581311 - Holdem no limit (350/1500/3000) - 2023/02/16 21:01:51 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 1: nade30 (102050)
+Seat 2: OUvR (142788)
+Seat 3: AAbi_dum0ine (189146)
+Seat 4: LeVietFourbe (85100)
+Seat 5: _Majin-J8C_ (76895)
+Seat 6: _SKR (61932)
+*** ANTE/BLINDS ***
+_Majin-J8C_ posts ante 350
+_SKR posts ante 350
+nade30 posts ante 350
+OUvR posts ante 350
+AAbi_dum0ine posts ante 350
+LeVietFourbe posts ante 350
+_Majin-J8C_ posts small blind 1500
+_SKR posts big blind 3000
+Dealt to _SKR [8c 2s]
+*** PRE-FLOP *** 
+nade30 folds
+OUvR folds
+AAbi_dum0ine raises 3660 to 6660
+LeVietFourbe folds
+_Majin-J8C_ raises 69885 to 76545 and is all-in
+_SKR folds
+AAbi_dum0ine folds
+_Majin-J8C_ collected 88305 from pot
+*** SUMMARY ***
+Total pot 88305 | No rake
+Seat 5: _Majin-J8C_ (small blind) won 88305
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678089078888464397-26-1676581350 - Holdem no limit (350/1500/3000) - 2023/02/16 21:02:30 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #5 is the button
+Seat 1: nade30 (101700)
+Seat 2: OUvR (142438)
+Seat 3: AAbi_dum0ine (182136)
+Seat 4: LeVietFourbe (84750)
+Seat 5: _Majin-J8C_ (88305)
+Seat 6: _SKR (58582)
+*** ANTE/BLINDS ***
+_SKR posts ante 350
+nade30 posts ante 350
+OUvR posts ante 350
+AAbi_dum0ine posts ante 350
+LeVietFourbe posts ante 350
+_Majin-J8C_ posts ante 350
+_SKR posts small blind 1500
+nade30 posts big blind 3000
+Dealt to _SKR [7c 9c]
+*** PRE-FLOP *** 
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ raises 3000 to 6000
+_SKR folds
+nade30 folds
+_Majin-J8C_ collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Seat 5: _Majin-J8C_ (button) won 12600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678089078888464397-27-1676581368 - Holdem no limit (350/1500/3000) - 2023/02/16 21:02:48 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #6 is the button
+Seat 1: nade30 (98350)
+Seat 2: OUvR (142088)
+Seat 3: AAbi_dum0ine (181786)
+Seat 4: LeVietFourbe (84400)
+Seat 5: _Majin-J8C_ (94555)
+Seat 6: _SKR (56732)
+*** ANTE/BLINDS ***
+nade30 posts ante 350
+OUvR posts ante 350
+AAbi_dum0ine posts ante 350
+LeVietFourbe posts ante 350
+_Majin-J8C_ posts ante 350
+_SKR posts ante 350
+nade30 posts small blind 1500
+OUvR posts big blind 3000
+Dealt to _SKR [Js 8s]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR raises 3000 to 6000
+nade30 folds
+OUvR calls 3000
+*** FLOP *** [4h 7c Ad]
+OUvR checks
+_SKR bets 5460
+OUvR calls 5460
+*** TURN *** [4h 7c Ad][5h]
+OUvR checks
+_SKR checks
+*** RIVER *** [4h 7c Ad 5h][8d]
+OUvR checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Js 8s] (One pair : 8)
+OUvR shows [3c Ah] (One pair : Aces)
+OUvR collected 26520 from pot
+*** SUMMARY ***
+Total pot 26520 | No rake
+Board: [4h 7c Ad 5h 8d]
+Seat 2: OUvR (big blind) showed [3c Ah] and won 26520 with One pair : Aces
+Seat 6: _SKR (button) showed [Js 8s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678089078888464397-28-1676581417 - Holdem no limit (400/1750/3500) - 2023/02/16 21:03:37 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #1 is the button
+Seat 1: nade30 (96500)
+Seat 2: OUvR (156798)
+Seat 3: AAbi_dum0ine (181436)
+Seat 4: LeVietFourbe (84050)
+Seat 5: _Majin-J8C_ (94205)
+Seat 6: _SKR (44922)
+*** ANTE/BLINDS ***
+OUvR posts ante 400
+AAbi_dum0ine posts ante 400
+nade30 posts ante 400
+LeVietFourbe posts ante 400
+_Majin-J8C_ posts ante 400
+_SKR posts ante 400
+OUvR posts small blind 1750
+AAbi_dum0ine posts big blind 3500
+Dealt to _SKR [8c 2h]
+*** PRE-FLOP *** 
+LeVietFourbe raises 3500 to 7000
+_Majin-J8C_ folds
+_SKR folds
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe collected 14650 from pot
+*** SUMMARY ***
+Total pot 14650 | No rake
+Seat 4: LeVietFourbe won 14650
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678089078888464397-29-1676581435 - Holdem no limit (400/1750/3500) - 2023/02/16 21:03:55 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 1: nade30 (96100)
+Seat 2: OUvR (154648)
+Seat 3: AAbi_dum0ine (177536)
+Seat 4: LeVietFourbe (91300)
+Seat 5: _Majin-J8C_ (93805)
+Seat 6: _SKR (44522)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 400
+LeVietFourbe posts ante 400
+nade30 posts ante 400
+OUvR posts ante 400
+_Majin-J8C_ posts ante 400
+_SKR posts ante 400
+AAbi_dum0ine posts small blind 1750
+LeVietFourbe posts big blind 3500
+Dealt to _SKR [Jc 9s]
+*** PRE-FLOP *** 
+_Majin-J8C_ folds
+_SKR folds
+nade30 folds
+OUvR folds
+AAbi_dum0ine raises 7000 to 10500
+LeVietFourbe calls 7000
+*** FLOP *** [2c Kh Jd]
+AAbi_dum0ine bets 7000
+LeVietFourbe folds
+AAbi_dum0ine collected 30400 from pot
+*** SUMMARY ***
+Total pot 30400 | No rake
+Board: [2c Kh Jd]
+Seat 3: AAbi_dum0ine (small blind) won 30400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678089078888464397-30-1676581484 - Holdem no limit (400/1750/3500) - 2023/02/16 21:04:44 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #3 is the button
+Seat 1: nade30 (95700)
+Seat 2: OUvR (154248)
+Seat 3: AAbi_dum0ine (190036)
+Seat 4: LeVietFourbe (80400)
+Seat 5: _Majin-J8C_ (93405)
+Seat 6: _SKR (44122)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 400
+_Majin-J8C_ posts ante 400
+nade30 posts ante 400
+OUvR posts ante 400
+AAbi_dum0ine posts ante 400
+_SKR posts ante 400
+LeVietFourbe posts small blind 1750
+_Majin-J8C_ posts big blind 3500
+Dealt to _SKR [2d Qc]
+*** PRE-FLOP *** 
+_SKR folds
+nade30 folds
+OUvR folds
+AAbi_dum0ine raises 4270 to 7770
+LeVietFourbe folds
+_Majin-J8C_ calls 4270
+*** FLOP *** [3s Tc 3h]
+_Majin-J8C_ checks
+AAbi_dum0ine checks
+*** TURN *** [3s Tc 3h][Th]
+_Majin-J8C_ bets 7285
+AAbi_dum0ine folds
+_Majin-J8C_ collected 26975 from pot
+*** SUMMARY ***
+Total pot 26975 | No rake
+Board: [3s Tc 3h Th]
+Seat 5: _Majin-J8C_ (big blind) won 26975
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678089078888464397-31-1676581522 - Holdem no limit (400/1750/3500) - 2023/02/16 21:05:22 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 1: nade30 (95300)
+Seat 2: OUvR (153848)
+Seat 3: AAbi_dum0ine (181866)
+Seat 4: LeVietFourbe (78250)
+Seat 5: _Majin-J8C_ (104925)
+Seat 6: _SKR (43722)
+*** ANTE/BLINDS ***
+_Majin-J8C_ posts ante 400
+_SKR posts ante 400
+nade30 posts ante 400
+OUvR posts ante 400
+AAbi_dum0ine posts ante 400
+LeVietFourbe posts ante 400
+_Majin-J8C_ posts small blind 1750
+_SKR posts big blind 3500
+Dealt to _SKR [Kh 5s]
+*** PRE-FLOP *** 
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ calls 1750
+_SKR raises 39822 to 43322 and is all-in
+_Majin-J8C_ raises 39822 to 83144
+*** FLOP *** [Ks 8d Jh]
+*** TURN *** [Ks 8d Jh][9s]
+*** RIVER *** [Ks 8d Jh 9s][7c]
+*** SHOW DOWN ***
+_Majin-J8C_ shows [9d Ad] (One pair : 9)
+_SKR shows [Kh 5s] (One pair : Kings)
+_SKR collected 89044 from main pot
+_Majin-J8C_ collected 39822 from side pot 1
+*** SUMMARY ***
+Total pot 128866 | No rake
+Board: [Ks 8d Jh 9s 7c]
+Seat 5: _Majin-J8C_ (small blind) showed [9d Ad] and won 39822 with One pair : 9
+Seat 6: _SKR (big blind) showed [Kh 5s] and won 89044 with One pair : Kings
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678089078888464397-32-1676581568 - Holdem no limit (400/1750/3500) - 2023/02/16 21:06:08 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #5 is the button
+Seat 1: nade30 (94900)
+Seat 2: OUvR (153448)
+Seat 3: AAbi_dum0ine (181466)
+Seat 4: LeVietFourbe (77850)
+Seat 5: _Majin-J8C_ (61203)
+Seat 6: _SKR (89044)
+*** ANTE/BLINDS ***
+_SKR posts ante 400
+nade30 posts ante 400
+OUvR posts ante 400
+AAbi_dum0ine posts ante 400
+LeVietFourbe posts ante 400
+_Majin-J8C_ posts ante 400
+_SKR posts small blind 1750
+nade30 posts big blind 3500
+Dealt to _SKR [8s 5c]
+*** PRE-FLOP *** 
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe raises 3850 to 7350
+_Majin-J8C_ folds
+_SKR folds
+nade30 folds
+LeVietFourbe collected 15000 from pot
+*** SUMMARY ***
+Total pot 15000 | No rake
+Seat 4: LeVietFourbe won 15000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678089078888464397-33-1676581597 - Holdem no limit (400/1750/3500) - 2023/02/16 21:06:37 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #6 is the button
+Seat 1: nade30 (91000)
+Seat 2: OUvR (153048)
+Seat 3: AAbi_dum0ine (181066)
+Seat 4: LeVietFourbe (85100)
+Seat 5: _Majin-J8C_ (60803)
+Seat 6: _SKR (86894)
+*** ANTE/BLINDS ***
+nade30 posts ante 400
+OUvR posts ante 400
+AAbi_dum0ine posts ante 400
+LeVietFourbe posts ante 400
+_Majin-J8C_ posts ante 400
+_SKR posts ante 400
+nade30 posts small blind 1750
+OUvR posts big blind 3500
+Dealt to _SKR [2h 5s]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+LeVietFourbe raises 3850 to 7350
+_Majin-J8C_ folds
+_SKR folds
+nade30 folds
+OUvR folds
+LeVietFourbe collected 15000 from pot
+*** SUMMARY ***
+Total pot 15000 | No rake
+Seat 4: LeVietFourbe won 15000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678089078888464397-34-1676581633 - Holdem no limit (400/1750/3500) - 2023/02/16 21:07:13 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #1 is the button
+Seat 1: nade30 (88850)
+Seat 2: OUvR (149148)
+Seat 3: AAbi_dum0ine (180666)
+Seat 4: LeVietFourbe (92350)
+Seat 5: _Majin-J8C_ (60403)
+Seat 6: _SKR (86494)
+*** ANTE/BLINDS ***
+OUvR posts ante 400
+AAbi_dum0ine posts ante 400
+nade30 posts ante 400
+LeVietFourbe posts ante 400
+_Majin-J8C_ posts ante 400
+_SKR posts ante 400
+OUvR posts small blind 1750
+AAbi_dum0ine posts big blind 3500
+Dealt to _SKR [8c Kh]
+*** PRE-FLOP *** 
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR folds
+nade30 raises 3500 to 7000
+OUvR folds
+AAbi_dum0ine calls 3500
+*** FLOP *** [Th 2h Ad]
+AAbi_dum0ine checks
+nade30 bets 3500
+AAbi_dum0ine folds
+nade30 collected 21650 from pot
+*** SUMMARY ***
+Total pot 21650 | No rake
+Board: [Th 2h Ad]
+Seat 1: nade30 (button) won 21650
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678089078888464397-35-1676581680 - Holdem no limit (400/1750/3500) - 2023/02/16 21:08:00 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 1: nade30 (99600)
+Seat 2: OUvR (146998)
+Seat 3: AAbi_dum0ine (173266)
+Seat 4: LeVietFourbe (91950)
+Seat 5: _Majin-J8C_ (60003)
+Seat 6: _SKR (86094)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 400
+LeVietFourbe posts ante 400
+nade30 posts ante 400
+OUvR posts ante 400
+_Majin-J8C_ posts ante 400
+_SKR posts ante 400
+AAbi_dum0ine posts small blind 1750
+LeVietFourbe posts big blind 3500
+Dealt to _SKR [Ks Td]
+*** PRE-FLOP *** 
+_Majin-J8C_ folds
+_SKR folds
+nade30 folds
+OUvR raises 4200 to 7700
+AAbi_dum0ine folds
+LeVietFourbe folds
+OUvR collected 15350 from pot
+*** SUMMARY ***
+Total pot 15350 | No rake
+Seat 2: OUvR (button) won 15350
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678089078888464397-36-1676581707 - Holdem no limit (400/1750/3500) - 2023/02/16 21:08:27 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #3 is the button
+Seat 1: nade30 (99200)
+Seat 2: OUvR (154248)
+Seat 3: AAbi_dum0ine (171116)
+Seat 4: LeVietFourbe (88050)
+Seat 5: _Majin-J8C_ (59603)
+Seat 6: _SKR (85694)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 400
+_Majin-J8C_ posts ante 400
+nade30 posts ante 400
+OUvR posts ante 400
+AAbi_dum0ine posts ante 400
+_SKR posts ante 400
+LeVietFourbe posts small blind 1750
+_Majin-J8C_ posts big blind 3500
+Dealt to _SKR [Ad 6d]
+*** PRE-FLOP *** 
+_SKR raises 3500 to 7000
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR collected 14650 from pot
+*** SUMMARY ***
+Total pot 14650 | No rake
+Seat 6: _SKR won 14650
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678089078888464397-37-1676581738 - Holdem no limit (400/1750/3500) - 2023/02/16 21:08:58 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 1: nade30 (98800)
+Seat 2: OUvR (153848)
+Seat 3: AAbi_dum0ine (170716)
+Seat 4: LeVietFourbe (85900)
+Seat 5: _Majin-J8C_ (55703)
+Seat 6: _SKR (92944)
+*** ANTE/BLINDS ***
+_Majin-J8C_ posts ante 400
+_SKR posts ante 400
+nade30 posts ante 400
+OUvR posts ante 400
+AAbi_dum0ine posts ante 400
+LeVietFourbe posts ante 400
+_Majin-J8C_ posts small blind 1750
+_SKR posts big blind 3500
+Dealt to _SKR [8h Qd]
+*** PRE-FLOP *** 
+nade30 folds
+OUvR folds
+AAbi_dum0ine raises 4270 to 7770
+LeVietFourbe calls 7770
+_Majin-J8C_ folds
+_SKR folds
+*** FLOP *** [Jd 6c Ac]
+AAbi_dum0ine bets 11595
+LeVietFourbe folds
+AAbi_dum0ine collected 34785 from pot
+*** SUMMARY ***
+Total pot 34785 | No rake
+Board: [Jd 6c Ac]
+Seat 3: AAbi_dum0ine won 34785
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678089078888464397-38-1676581799 - Holdem no limit (500/2000/4000) - 2023/02/16 21:09:59 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #5 is the button
+Seat 1: nade30 (98400)
+Seat 2: OUvR (153448)
+Seat 3: AAbi_dum0ine (185736)
+Seat 4: LeVietFourbe (77730)
+Seat 5: _Majin-J8C_ (53553)
+Seat 6: _SKR (89044)
+*** ANTE/BLINDS ***
+_SKR posts ante 500
+nade30 posts ante 500
+OUvR posts ante 500
+AAbi_dum0ine posts ante 500
+LeVietFourbe posts ante 500
+_Majin-J8C_ posts ante 500
+_SKR posts small blind 2000
+nade30 posts big blind 4000
+Dealt to _SKR [9s Ks]
+*** PRE-FLOP *** 
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe raises 4000 to 8000
+_Majin-J8C_ folds
+_SKR folds
+nade30 calls 4000
+*** FLOP *** [Td 5c 6d]
+nade30 checks
+LeVietFourbe checks
+*** TURN *** [Td 5c 6d][As]
+nade30 bets 7350
+LeVietFourbe calls 7350
+*** RIVER *** [Td 5c 6d As][2c]
+nade30 bets 12495
+LeVietFourbe folds
+nade30 collected 48195 from pot
+*** SUMMARY ***
+Total pot 48195 | No rake
+Board: [Td 5c 6d As 2c]
+Seat 1: nade30 (big blind) won 48195
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678089078888464397-39-1676581908 - Holdem no limit (500/2000/4000) - 2023/02/16 21:11:48 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #6 is the button
+Seat 1: nade30 (118250)
+Seat 2: OUvR (152948)
+Seat 3: AAbi_dum0ine (185236)
+Seat 4: LeVietFourbe (61880)
+Seat 5: _Majin-J8C_ (53053)
+Seat 6: _SKR (86544)
+*** ANTE/BLINDS ***
+nade30 posts ante 500
+OUvR posts ante 500
+AAbi_dum0ine posts ante 500
+LeVietFourbe posts ante 500
+_Majin-J8C_ posts ante 500
+_SKR posts ante 500
+nade30 posts small blind 2000
+OUvR posts big blind 4000
+Dealt to _SKR [Kh Qd]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ raises 48553 to 52553 and is all-in
+_SKR folds
+nade30 folds
+OUvR folds
+_Majin-J8C_ collected 61553 from pot
+*** SUMMARY ***
+Total pot 61553 | No rake
+Seat 5: _Majin-J8C_ won 61553
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678089078888464397-40-1676581953 - Holdem no limit (500/2000/4000) - 2023/02/16 21:12:33 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #1 is the button
+Seat 1: nade30 (115750)
+Seat 2: OUvR (148448)
+Seat 3: AAbi_dum0ine (184736)
+Seat 4: LeVietFourbe (61380)
+Seat 5: _Majin-J8C_ (61553)
+Seat 6: _SKR (86044)
+*** ANTE/BLINDS ***
+OUvR posts ante 500
+AAbi_dum0ine posts ante 500
+nade30 posts ante 500
+LeVietFourbe posts ante 500
+_Majin-J8C_ posts ante 500
+_SKR posts ante 500
+OUvR posts small blind 2000
+AAbi_dum0ine posts big blind 4000
+Dealt to _SKR [Jd Td]
+*** PRE-FLOP *** 
+LeVietFourbe folds
+_Majin-J8C_ folds
+_SKR folds
+nade30 folds
+OUvR folds
+AAbi_dum0ine collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 3: AAbi_dum0ine (big blind) won 9000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678089078888464397-41-1676581988 - Holdem no limit (500/2000/4000) - 2023/02/16 21:13:08 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 1: nade30 (115250)
+Seat 2: OUvR (145948)
+Seat 3: AAbi_dum0ine (189236)
+Seat 4: LeVietFourbe (60880)
+Seat 5: _Majin-J8C_ (61053)
+Seat 6: _SKR (85544)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 500
+LeVietFourbe posts ante 500
+nade30 posts ante 500
+OUvR posts ante 500
+_Majin-J8C_ posts ante 500
+_SKR posts ante 500
+AAbi_dum0ine posts small blind 2000
+LeVietFourbe posts big blind 4000
+Dealt to _SKR [Ah Qc]
+*** PRE-FLOP *** 
+_Majin-J8C_ raises 4000 to 8000
+_SKR raises 77044 to 85044 and is all-in
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_Majin-J8C_ calls 52553 and is all-in
+*** FLOP *** [Ad Th Kc]
+*** TURN *** [Ad Th Kc][Ts]
+*** RIVER *** [Ad Th Kc Ts][As]
+*** SHOW DOWN ***
+_Majin-J8C_ shows [Jh Jc] (Two pairs : Aces and Jacks)
+_SKR shows [Ah Qc] (Full of Aces and Tens)
+_SKR collected 154597 from pot
+*** SUMMARY ***
+Total pot 154597 | No rake
+Board: [Ad Th Kc Ts As]
+Seat 5: _Majin-J8C_ showed [Jh Jc] and lost with Two pairs : Aces and Jacks
+Seat 6: _SKR showed [Ah Qc] and won 154597 with Full of Aces and Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678089078888464397-42-1676582024 - Holdem no limit (500/2000/4000) - 2023/02/16 21:13:44 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #3 is the button
+Seat 1: nade30 (114750)
+Seat 2: OUvR (145448)
+Seat 3: AAbi_dum0ine (186736)
+Seat 4: LeVietFourbe (56380)
+Seat 6: _SKR (154597)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 500
+_SKR posts ante 500
+nade30 posts ante 500
+OUvR posts ante 500
+AAbi_dum0ine posts ante 500
+LeVietFourbe posts small blind 2000
+_SKR posts big blind 4000
+Dealt to _SKR [4s Ts]
+*** PRE-FLOP *** 
+nade30 calls 4000
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_SKR checks
+*** FLOP *** [7d 5h 4d]
+_SKR checks
+nade30 bets 4375
+_SKR folds
+nade30 collected 16875 from pot
+*** SUMMARY ***
+Total pot 16875 | No rake
+Board: [7d 5h 4d]
+Seat 1: nade30 won 16875
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678089078888464397-43-1676582058 - Holdem no limit (500/2000/4000) - 2023/02/16 21:14:18 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 1: nade30 (122750)
+Seat 2: OUvR (144948)
+Seat 3: AAbi_dum0ine (186236)
+Seat 4: LeVietFourbe (53880)
+Seat 6: _SKR (150097)
+*** ANTE/BLINDS ***
+_SKR posts ante 500
+nade30 posts ante 500
+OUvR posts ante 500
+AAbi_dum0ine posts ante 500
+LeVietFourbe posts ante 500
+_SKR posts small blind 2000
+nade30 posts big blind 4000
+Dealt to _SKR [4c Jd]
+*** PRE-FLOP *** 
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_SKR folds
+nade30 collected 8500 from pot
+*** SUMMARY ***
+Total pot 8500 | No rake
+Seat 1: nade30 (big blind) won 8500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678089078888464397-44-1676582070 - Holdem no limit (500/2000/4000) - 2023/02/16 21:14:30 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #6 is the button
+Seat 1: nade30 (126750)
+Seat 2: OUvR (144448)
+Seat 3: AAbi_dum0ine (185736)
+Seat 4: LeVietFourbe (53380)
+Seat 6: _SKR (147597)
+*** ANTE/BLINDS ***
+nade30 posts ante 500
+OUvR posts ante 500
+AAbi_dum0ine posts ante 500
+LeVietFourbe posts ante 500
+_SKR posts ante 500
+nade30 posts small blind 2000
+OUvR posts big blind 4000
+Dealt to _SKR [Qs Qd]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+LeVietFourbe folds
+_SKR raises 5000 to 9000
+nade30 folds
+OUvR calls 5000
+*** FLOP *** [7d 8c 5c]
+OUvR checks
+_SKR bets 7875
+OUvR folds
+_SKR collected 30375 from pot
+*** SUMMARY ***
+Total pot 30375 | No rake
+Board: [7d 8c 5c]
+Seat 6: _SKR (button) won 30375
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2678089078888464397-45-1676582110 - Holdem no limit (600/2500/5000) - 2023/02/16 21:15:10 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #1 is the button
+Seat 1: nade30 (124250)
+Seat 2: OUvR (134948)
+Seat 3: AAbi_dum0ine (185236)
+Seat 4: LeVietFourbe (52880)
+Seat 5: KKAAmelott (100000)
+Seat 6: _SKR (160597)
+*** ANTE/BLINDS ***
+OUvR posts ante 600
+AAbi_dum0ine posts ante 600
+nade30 posts ante 600
+LeVietFourbe posts ante 600
+KKAAmelott posts ante 600
+_SKR posts ante 600
+OUvR posts small blind 2500
+AAbi_dum0ine posts big blind 5000
+Dealt to _SKR [Ts 9c]
+*** PRE-FLOP *** 
+LeVietFourbe folds
+KKAAmelott folds
+_SKR folds
+nade30 folds
+OUvR calls 2500
+AAbi_dum0ine checks
+*** FLOP *** [Js Td Ac]
+OUvR checks
+AAbi_dum0ine checks
+*** TURN *** [Js Td Ac][7s]
+OUvR checks
+AAbi_dum0ine bets 6800
+OUvR folds
+AAbi_dum0ine collected 20400 from pot
+*** SUMMARY ***
+Total pot 20400 | No rake
+Board: [Js Td Ac 7s]
+Seat 3: AAbi_dum0ine (big blind) won 20400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2678089078888464397-46-1676582164 - Holdem no limit (600/2500/5000) - 2023/02/16 21:16:04 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 1: nade30 (123650)
+Seat 2: OUvR (129348)
+Seat 3: AAbi_dum0ine (193236)
+Seat 4: LeVietFourbe (52280)
+Seat 5: KKAAmelott (99400)
+Seat 6: _SKR (159997)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 600
+LeVietFourbe posts ante 600
+nade30 posts ante 600
+OUvR posts ante 600
+KKAAmelott posts ante 600
+_SKR posts ante 600
+AAbi_dum0ine posts small blind 2500
+LeVietFourbe posts big blind 5000
+Dealt to _SKR [Ks Qh]
+*** PRE-FLOP *** 
+KKAAmelott raises 5000 to 10000
+_SKR folds
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+KKAAmelott collected 21100 from pot
+*** SUMMARY ***
+Total pot 21100 | No rake
+Seat 5: KKAAmelott won 21100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2678089078888464397-47-1676582190 - Holdem no limit (600/2500/5000) - 2023/02/16 21:16:30 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #3 is the button
+Seat 1: nade30 (123050)
+Seat 2: OUvR (128748)
+Seat 3: AAbi_dum0ine (190136)
+Seat 4: LeVietFourbe (46680)
+Seat 5: KKAAmelott (109900)
+Seat 6: _SKR (159397)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 600
+KKAAmelott posts ante 600
+nade30 posts ante 600
+OUvR posts ante 600
+AAbi_dum0ine posts ante 600
+_SKR posts ante 600
+LeVietFourbe posts small blind 2500
+KKAAmelott posts big blind 5000
+Dealt to _SKR [9s 2c]
+*** PRE-FLOP *** 
+_SKR folds
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe raises 41080 to 46080 and is all-in
+KKAAmelott folds
+LeVietFourbe collected 54680 from pot
+*** SUMMARY ***
+Total pot 54680 | No rake
+Seat 4: LeVietFourbe (small blind) won 54680
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2678089078888464397-48-1676582227 - Holdem no limit (600/2500/5000) - 2023/02/16 21:17:07 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 1: nade30 (122450)
+Seat 2: OUvR (128148)
+Seat 3: AAbi_dum0ine (189536)
+Seat 4: LeVietFourbe (54680)
+Seat 5: KKAAmelott (104300)
+Seat 6: _SKR (158797)
+*** ANTE/BLINDS ***
+KKAAmelott posts ante 600
+_SKR posts ante 600
+nade30 posts ante 600
+OUvR posts ante 600
+AAbi_dum0ine posts ante 600
+LeVietFourbe posts ante 600
+KKAAmelott posts small blind 2500
+_SKR posts big blind 5000
+Dealt to _SKR [Ac 7d]
+*** PRE-FLOP *** 
+nade30 folds
+OUvR raises 6000 to 11000
+AAbi_dum0ine folds
+LeVietFourbe folds
+KKAAmelott folds
+_SKR folds
+OUvR collected 22100 from pot
+*** SUMMARY ***
+Total pot 22100 | No rake
+Seat 2: OUvR won 22100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2678089078888464397-49-1676582264 - Holdem no limit (600/2500/5000) - 2023/02/16 21:17:44 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #5 is the button
+Seat 1: nade30 (121850)
+Seat 2: OUvR (138648)
+Seat 3: AAbi_dum0ine (188936)
+Seat 4: LeVietFourbe (54080)
+Seat 5: KKAAmelott (101200)
+Seat 6: _SKR (153197)
+*** ANTE/BLINDS ***
+_SKR posts ante 600
+nade30 posts ante 600
+OUvR posts ante 600
+AAbi_dum0ine posts ante 600
+LeVietFourbe posts ante 600
+KKAAmelott posts ante 600
+_SKR posts small blind 2500
+nade30 posts big blind 5000
+Dealt to _SKR [7d Js]
+*** PRE-FLOP *** 
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe raises 48480 to 53480 and is all-in
+KKAAmelott folds
+_SKR folds
+nade30 folds
+LeVietFourbe collected 64580 from pot
+*** SUMMARY ***
+Total pot 64580 | No rake
+Seat 4: LeVietFourbe won 64580
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2678089078888464397-50-1676582306 - Holdem no limit (600/2500/5000) - 2023/02/16 21:18:26 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #6 is the button
+Seat 1: nade30 (116250)
+Seat 2: OUvR (138048)
+Seat 3: AAbi_dum0ine (188336)
+Seat 4: LeVietFourbe (64580)
+Seat 5: KKAAmelott (100600)
+Seat 6: _SKR (150097)
+*** ANTE/BLINDS ***
+nade30 posts ante 600
+OUvR posts ante 600
+AAbi_dum0ine posts ante 600
+LeVietFourbe posts ante 600
+KKAAmelott posts ante 600
+_SKR posts ante 600
+nade30 posts small blind 2500
+OUvR posts big blind 5000
+Dealt to _SKR [Ah 4s]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+LeVietFourbe folds
+KKAAmelott folds
+_SKR raises 6250 to 11250
+nade30 calls 8750
+OUvR calls 6250
+*** FLOP *** [Jc 5c 8c]
+nade30 checks
+OUvR checks
+_SKR checks
+*** TURN *** [Jc 5c 8c][Kc]
+nade30 checks
+OUvR checks
+_SKR checks
+*** RIVER *** [Jc 5c 8c Kc][9h]
+nade30 checks
+OUvR checks
+_SKR checks
+*** SHOW DOWN ***
+nade30 shows [6h 6s] (One pair : 6)
+_SKR shows [Ah 4s] (High card : Ace)
+OUvR shows [Ts 7s] (Straight Jack high)
+OUvR collected 37350 from pot
+*** SUMMARY ***
+Total pot 37350 | No rake
+Board: [Jc 5c 8c Kc 9h]
+Seat 1: nade30 (small blind) showed [6h 6s] and lost with One pair : 6
+Seat 2: OUvR (big blind) showed [Ts 7s] and won 37350 with Straight Jack high
+Seat 6: _SKR (button) showed [Ah 4s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2678089078888464397-51-1676582407 - Holdem no limit (600/2500/5000) - 2023/02/16 21:20:07 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #1 is the button
+Seat 1: nade30 (104400)
+Seat 2: OUvR (163548)
+Seat 3: AAbi_dum0ine (187736)
+Seat 4: LeVietFourbe (63980)
+Seat 5: KKAAmelott (100000)
+Seat 6: _SKR (138247)
+*** ANTE/BLINDS ***
+OUvR posts ante 600
+AAbi_dum0ine posts ante 600
+nade30 posts ante 600
+LeVietFourbe posts ante 600
+KKAAmelott posts ante 600
+_SKR posts ante 600
+OUvR posts small blind 2500
+AAbi_dum0ine posts big blind 5000
+Dealt to _SKR [Kd 2s]
+*** PRE-FLOP *** 
+LeVietFourbe raises 58380 to 63380 and is all-in
+KKAAmelott folds
+_SKR folds
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe collected 74480 from pot
+*** SUMMARY ***
+Total pot 74480 | No rake
+Seat 4: LeVietFourbe won 74480
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2678089078888464397-52-1676582442 - Holdem no limit (600/2500/5000) - 2023/02/16 21:20:42 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 1: nade30 (103800)
+Seat 2: OUvR (160448)
+Seat 3: AAbi_dum0ine (182136)
+Seat 4: LeVietFourbe (74480)
+Seat 5: KKAAmelott (99400)
+Seat 6: _SKR (137647)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 600
+LeVietFourbe posts ante 600
+nade30 posts ante 600
+OUvR posts ante 600
+KKAAmelott posts ante 600
+_SKR posts ante 600
+AAbi_dum0ine posts small blind 2500
+LeVietFourbe posts big blind 5000
+Dealt to _SKR [8c Ad]
+*** PRE-FLOP *** 
+KKAAmelott folds
+_SKR folds
+nade30 raises 5000 to 10000
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+nade30 collected 21100 from pot
+*** SUMMARY ***
+Total pot 21100 | No rake
+Seat 1: nade30 won 21100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678089078888464397-53-1676582471 - Holdem no limit (700/3000/6000) - 2023/02/16 21:21:11 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #3 is the button
+Seat 1: nade30 (114300)
+Seat 2: OUvR (159848)
+Seat 3: AAbi_dum0ine (179036)
+Seat 4: LeVietFourbe (68880)
+Seat 5: KKAAmelott (98800)
+Seat 6: _SKR (137047)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 700
+KKAAmelott posts ante 700
+nade30 posts ante 700
+OUvR posts ante 700
+AAbi_dum0ine posts ante 700
+_SKR posts ante 700
+LeVietFourbe posts small blind 3000
+KKAAmelott posts big blind 6000
+Dealt to _SKR [2s Kd]
+*** PRE-FLOP *** 
+_SKR folds
+nade30 raises 19200 to 25200
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+KKAAmelott folds
+nade30 collected 38400 from pot
+*** SUMMARY ***
+Total pot 38400 | No rake
+Seat 1: nade30 won 38400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678089078888464397-54-1676582490 - Holdem no limit (700/3000/6000) - 2023/02/16 21:21:30 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 1: nade30 (126800)
+Seat 2: OUvR (159148)
+Seat 3: AAbi_dum0ine (178336)
+Seat 4: LeVietFourbe (65180)
+Seat 5: KKAAmelott (92100)
+Seat 6: _SKR (136347)
+*** ANTE/BLINDS ***
+KKAAmelott posts ante 700
+_SKR posts ante 700
+nade30 posts ante 700
+OUvR posts ante 700
+AAbi_dum0ine posts ante 700
+LeVietFourbe posts ante 700
+KKAAmelott posts small blind 3000
+_SKR posts big blind 6000
+Dealt to _SKR [Tc 9h]
+*** PRE-FLOP *** 
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+KKAAmelott raises 85400 to 91400 and is all-in
+_SKR folds
+KKAAmelott collected 101600 from pot
+*** SUMMARY ***
+Total pot 101600 | No rake
+Seat 5: KKAAmelott (small blind) won 101600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678089078888464397-55-1676582512 - Holdem no limit (700/3000/6000) - 2023/02/16 21:21:52 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #5 is the button
+Seat 1: nade30 (126100)
+Seat 2: OUvR (158448)
+Seat 3: AAbi_dum0ine (177636)
+Seat 4: LeVietFourbe (64480)
+Seat 5: KKAAmelott (101600)
+Seat 6: _SKR (129647)
+*** ANTE/BLINDS ***
+_SKR posts ante 700
+nade30 posts ante 700
+OUvR posts ante 700
+AAbi_dum0ine posts ante 700
+LeVietFourbe posts ante 700
+KKAAmelott posts ante 700
+_SKR posts small blind 3000
+nade30 posts big blind 6000
+Dealt to _SKR [5c Td]
+*** PRE-FLOP *** 
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe raises 57780 to 63780 and is all-in
+KKAAmelott raises 37120 to 100900 and is all-in
+_SKR folds
+nade30 folds
+*** FLOP *** [5s Qh 3s]
+*** TURN *** [5s Qh 3s][4s]
+*** RIVER *** [5s Qh 3s 4s][Jc]
+*** SHOW DOWN ***
+LeVietFourbe shows [6s 6h] (One pair : 6)
+KKAAmelott shows [Ad Tc] (High card : Ace)
+KKAAmelott collected 37120 from side pot 1
+LeVietFourbe collected 140760 from main pot
+*** SUMMARY ***
+Total pot 177880 | No rake
+Board: [5s Qh 3s 4s Jc]
+Seat 4: LeVietFourbe showed [6s 6h] and won 140760 with One pair : 6
+Seat 5: KKAAmelott (button) showed [Ad Tc] and won 37120 with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678089078888464397-56-1676582536 - Holdem no limit (700/3000/6000) - 2023/02/16 21:22:16 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #6 is the button
+Seat 1: nade30 (119400)
+Seat 2: OUvR (157748)
+Seat 3: AAbi_dum0ine (176936)
+Seat 4: LeVietFourbe (140760)
+Seat 5: KKAAmelott (37120)
+Seat 6: _SKR (125947)
+*** ANTE/BLINDS ***
+nade30 posts ante 700
+OUvR posts ante 700
+AAbi_dum0ine posts ante 700
+LeVietFourbe posts ante 700
+KKAAmelott posts ante 700
+_SKR posts ante 700
+nade30 posts small blind 3000
+OUvR posts big blind 6000
+Dealt to _SKR [Ac 2s]
+*** PRE-FLOP *** 
+AAbi_dum0ine folds
+LeVietFourbe folds
+KKAAmelott folds
+_SKR raises 7500 to 13500
+nade30 folds
+OUvR folds
+_SKR collected 26700 from pot
+*** SUMMARY ***
+Total pot 26700 | No rake
+Seat 6: _SKR (button) won 26700
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678089078888464397-57-1676582554 - Holdem no limit (700/3000/6000) - 2023/02/16 21:22:34 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #1 is the button
+Seat 1: nade30 (115700)
+Seat 2: OUvR (151048)
+Seat 3: AAbi_dum0ine (176236)
+Seat 4: LeVietFourbe (140060)
+Seat 5: KKAAmelott (36420)
+Seat 6: _SKR (138447)
+*** ANTE/BLINDS ***
+OUvR posts ante 700
+AAbi_dum0ine posts ante 700
+nade30 posts ante 700
+LeVietFourbe posts ante 700
+KKAAmelott posts ante 700
+_SKR posts ante 700
+OUvR posts small blind 3000
+AAbi_dum0ine posts big blind 6000
+Dealt to _SKR [7d 4h]
+*** PRE-FLOP *** 
+LeVietFourbe folds
+KKAAmelott folds
+_SKR folds
+nade30 raises 19200 to 25200
+OUvR folds
+AAbi_dum0ine folds
+nade30 collected 38400 from pot
+*** SUMMARY ***
+Total pot 38400 | No rake
+Seat 1: nade30 (button) won 38400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678089078888464397-58-1676582579 - Holdem no limit (700/3000/6000) - 2023/02/16 21:22:59 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #2 is the button
+Seat 1: nade30 (128200)
+Seat 2: OUvR (147348)
+Seat 3: AAbi_dum0ine (169536)
+Seat 4: LeVietFourbe (139360)
+Seat 5: KKAAmelott (35720)
+Seat 6: _SKR (137747)
+*** ANTE/BLINDS ***
+AAbi_dum0ine posts ante 700
+LeVietFourbe posts ante 700
+nade30 posts ante 700
+OUvR posts ante 700
+KKAAmelott posts ante 700
+_SKR posts ante 700
+AAbi_dum0ine posts small blind 3000
+LeVietFourbe posts big blind 6000
+Dealt to _SKR [4s Jc]
+*** PRE-FLOP *** 
+KKAAmelott raises 29020 to 35020 and is all-in
+_SKR folds
+nade30 folds
+OUvR raises 111628 to 146648 and is all-in
+AAbi_dum0ine folds
+LeVietFourbe calls 132660 and is all-in
+*** FLOP *** [5s Qh Td]
+*** TURN *** [5s Qh Td][8h]
+*** RIVER *** [5s Qh Td 8h][Kc]
+*** SHOW DOWN ***
+KKAAmelott shows [As 2c] (High card : Ace)
+OUvR shows [4d 4c] (One pair : 4)
+LeVietFourbe shows [Qs Ac] (One pair : Queens)
+LeVietFourbe collected 319540 from main pot
+OUvR collected 7988 from side pot 1
+*** SUMMARY ***
+Total pot 327528 | No rake
+Board: [5s Qh Td 8h Kc]
+Seat 2: OUvR (button) showed [4d 4c] and won 7988 with One pair : 4
+Seat 4: LeVietFourbe (big blind) showed [Qs Ac] and won 319540 with One pair : Queens
+Seat 5: KKAAmelott showed [As 2c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678089078888464397-59-1676582624 - Holdem no limit (700/3000/6000) - 2023/02/16 21:23:44 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #3 is the button
+Seat 1: nade30 (127500)
+Seat 2: OUvR (7988)
+Seat 3: AAbi_dum0ine (165836)
+Seat 4: LeVietFourbe (319540)
+Seat 6: _SKR (137047)
+*** ANTE/BLINDS ***
+LeVietFourbe posts ante 700
+_SKR posts ante 700
+nade30 posts ante 700
+OUvR posts ante 700
+AAbi_dum0ine posts ante 700
+LeVietFourbe posts small blind 3000
+_SKR posts big blind 6000
+Dealt to _SKR [Ah Th]
+*** PRE-FLOP *** 
+nade30 folds
+OUvR folds
+AAbi_dum0ine folds
+LeVietFourbe folds
+_SKR collected 12500 from pot
+*** SUMMARY ***
+Total pot 12500 | No rake
+Seat 6: _SKR (big blind) won 12500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678089078888464397-60-1676582645 - Holdem no limit (700/3000/6000) - 2023/02/16 21:24:05 UTC
+Table: 'Monster Stack(623541204)#012' 6-max (real money) Seat #4 is the button
+Seat 1: nade30 (126800)
+Seat 2: OUvR (7288)
+Seat 3: AAbi_dum0ine (165136)
+Seat 4: LeVietFourbe (315840)
+Seat 6: _SKR (142847)
+*** ANTE/BLINDS ***
+_SKR posts ante 700
+nade30 posts ante 700
+OUvR posts ante 700
+AAbi_dum0ine posts ante 700
+LeVietFourbe posts ante 700
+_SKR posts small blind 3000
+nade30 posts big blind 6000
+Dealt to _SKR [8d Ks]
+*** PRE-FLOP *** 
+OUvR raises 588 to 6588 and is all-in
+AAbi_dum0ine folds
+LeVietFourbe folds
+_SKR raises 8235 to 14823
+nade30 folds
+*** FLOP *** [Qd Ac Kc]
+*** TURN *** [Qd Ac Kc][Jd]
+*** RIVER *** [Qd Ac Kc Jd][2d]
+*** SHOW DOWN ***
+OUvR shows [9c Qs] (One pair : Queens)
+_SKR shows [8d Ks] (One pair : Kings)
+_SKR collected 30911 from pot
+*** SUMMARY ***
+Total pot 30911 | No rake
+Board: [Qd Ac Kc Jd 2d]
+Seat 2: OUvR showed [9c Qs] and lost with One pair : Queens
+Seat 6: _SKR (small blind) showed [8d Ks] and won 30911 with One pair : Kings
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678089078888464385-106-1676582765 - Holdem no limit (700/3000/6000) - 2023/02/16 21:26:05 UTC
+Table: 'Monster Stack(623541204)#000' 6-max (real money) Seat #3 is the button
+Seat 1: OarisKiller2 (195679)
+Seat 2: _SKR (158235)
+Seat 3: Duynguyen (350837)
+Seat 4: Chuetteprono (129182)
+Seat 5: QuentinD007 (219200)
+Seat 6: 1234jofo1234 (511612)
+*** ANTE/BLINDS ***
+Chuetteprono posts ante 700
+QuentinD007 posts ante 700
+OarisKiller2 posts ante 700
+_SKR posts ante 700
+Duynguyen posts ante 700
+1234jofo1234 posts ante 700
+Chuetteprono posts small blind 3000
+QuentinD007 posts big blind 6000
+Dealt to _SKR [6h Kd]
+*** PRE-FLOP *** 
+1234jofo1234 folds
+OarisKiller2 folds
+_SKR folds
+Duynguyen raises 6000 to 12000
+Chuetteprono folds
+QuentinD007 folds
+Duynguyen collected 25200 from pot
+*** SUMMARY ***
+Total pot 25200 | No rake
+Seat 3: Duynguyen (button) won 25200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678089078888464385-107-1676582784 - Holdem no limit (700/3000/6000) - 2023/02/16 21:26:24 UTC
+Table: 'Monster Stack(623541204)#000' 6-max (real money) Seat #4 is the button
+Seat 1: OarisKiller2 (194979)
+Seat 2: _SKR (157535)
+Seat 3: Duynguyen (363337)
+Seat 4: Chuetteprono (125482)
+Seat 5: QuentinD007 (212500)
+Seat 6: 1234jofo1234 (510912)
+*** ANTE/BLINDS ***
+QuentinD007 posts ante 700
+1234jofo1234 posts ante 700
+OarisKiller2 posts ante 700
+_SKR posts ante 700
+Duynguyen posts ante 700
+Chuetteprono posts ante 700
+QuentinD007 posts small blind 3000
+1234jofo1234 posts big blind 6000
+Dealt to _SKR [8h 5d]
+*** PRE-FLOP *** 
+OarisKiller2 folds
+_SKR folds
+Duynguyen calls 6000
+Chuetteprono folds
+QuentinD007 folds
+1234jofo1234 checks
+*** FLOP *** [Qs Jd Kc]
+1234jofo1234 checks
+Duynguyen checks
+*** TURN *** [Qs Jd Kc][Kd]
+1234jofo1234 checks
+Duynguyen checks
+*** RIVER *** [Qs Jd Kc Kd][Qh]
+1234jofo1234 checks
+Duynguyen bets 9600
+1234jofo1234 folds
+Duynguyen collected 28800 from pot
+*** SUMMARY ***
+Total pot 28800 | No rake
+Board: [Qs Jd Kc Kd Qh]
+Seat 3: Duynguyen won 28800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2678089078888464385-108-1676582860 - Holdem no limit (800/3500/7000) - 2023/02/16 21:27:40 UTC
+Table: 'Monster Stack(623541204)#000' 6-max (real money) Seat #5 is the button
+Seat 1: OarisKiller2 (194279)
+Seat 2: _SKR (156835)
+Seat 3: Duynguyen (375837)
+Seat 4: Chuetteprono (124782)
+Seat 5: QuentinD007 (208800)
+Seat 6: 1234jofo1234 (504212)
+*** ANTE/BLINDS ***
+1234jofo1234 posts ante 800
+OarisKiller2 posts ante 800
+_SKR posts ante 800
+Duynguyen posts ante 800
+Chuetteprono posts ante 800
+QuentinD007 posts ante 800
+1234jofo1234 posts small blind 3500
+OarisKiller2 posts big blind 7000
+Dealt to _SKR [5h Ts]
+*** PRE-FLOP *** 
+_SKR folds
+Duynguyen folds
+Chuetteprono folds
+QuentinD007 folds
+1234jofo1234 folds
+OarisKiller2 collected 15300 from pot
+*** SUMMARY ***
+Total pot 15300 | No rake
+Seat 1: OarisKiller2 (big blind) won 15300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2678089078888464385-109-1676582870 - Holdem no limit (800/3500/7000) - 2023/02/16 21:27:50 UTC
+Table: 'Monster Stack(623541204)#000' 6-max (real money) Seat #6 is the button
+Seat 1: OarisKiller2 (201779)
+Seat 2: _SKR (156035)
+Seat 3: Duynguyen (375037)
+Seat 4: Chuetteprono (123982)
+Seat 5: QuentinD007 (208000)
+Seat 6: 1234jofo1234 (499912)
+*** ANTE/BLINDS ***
+OarisKiller2 posts ante 800
+_SKR posts ante 800
+Duynguyen posts ante 800
+Chuetteprono posts ante 800
+QuentinD007 posts ante 800
+1234jofo1234 posts ante 800
+OarisKiller2 posts small blind 3500
+_SKR posts big blind 7000
+Dealt to _SKR [Ac 3d]
+*** PRE-FLOP *** 
+Duynguyen calls 7000
+Chuetteprono folds
+QuentinD007 folds
+1234jofo1234 folds
+OarisKiller2 calls 3500
+_SKR checks
+*** FLOP *** [As 2d 6h]
+OarisKiller2 checks
+_SKR checks
+Duynguyen checks
+*** TURN *** [As 2d 6h][Jd]
+OarisKiller2 checks
+_SKR bets 12900
+Duynguyen raises 12900 to 25800
+OarisKiller2 folds
+_SKR calls 12900
+*** RIVER *** [As 2d 6h Jd][8c]
+_SKR checks
+Duynguyen bets 27090
+_SKR calls 27090
+*** SHOW DOWN ***
+Duynguyen shows [7s Qs] (High card : Ace)
+_SKR shows [Ac 3d] (One pair : Aces)
+_SKR collected 131580 from pot
+*** SUMMARY ***
+Total pot 131580 | No rake
+Board: [As 2d 6h Jd 8c]
+Seat 2: _SKR (big blind) showed [Ac 3d] and won 131580 with One pair : Aces
+Seat 3: Duynguyen showed [7s Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2678089078888464385-110-1676582929 - Holdem no limit (800/3500/7000) - 2023/02/16 21:28:49 UTC
+Table: 'Monster Stack(623541204)#000' 6-max (real money) Seat #1 is the button
+Seat 1: OarisKiller2 (193979)
+Seat 2: _SKR (226925)
+Seat 3: Duynguyen (314347)
+Seat 4: Chuetteprono (123182)
+Seat 5: QuentinD007 (207200)
+Seat 6: 1234jofo1234 (499112)
+*** ANTE/BLINDS ***
+_SKR posts ante 800
+Duynguyen posts ante 800
+OarisKiller2 posts ante 800
+Chuetteprono posts ante 800
+QuentinD007 posts ante 800
+1234jofo1234 posts ante 800
+_SKR posts small blind 3500
+Duynguyen posts big blind 7000
+Dealt to _SKR [7d 9c]
+*** PRE-FLOP *** 
+Chuetteprono folds
+QuentinD007 folds
+1234jofo1234 raises 7000 to 14000
+OarisKiller2 calls 14000
+_SKR folds
+Duynguyen calls 7000
+*** FLOP *** [2d 3c 3h]
+Duynguyen checks
+1234jofo1234 bets 12575
+OarisKiller2 calls 12575
+Duynguyen folds
+*** TURN *** [2d 3c 3h][4c]
+1234jofo1234 bets 26408
+OarisKiller2 calls 26408
+*** RIVER *** [2d 3c 3h 4c][2h]
+1234jofo1234 checks
+OarisKiller2 checks
+*** SHOW DOWN ***
+1234jofo1234 shows [Qc Kc] (Two pairs : 3 and 2)
+OarisKiller2 shows [Jh Ad] (Two pairs : 3 and 2)
+OarisKiller2 collected 128266 from pot
+*** SUMMARY ***
+Total pot 128266 | No rake
+Board: [2d 3c 3h 4c 2h]
+Seat 1: OarisKiller2 (button) showed [Jh Ad] and won 128266 with Two pairs : 3 and 2
+Seat 6: 1234jofo1234 showed [Qc Kc] and lost with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2678089078888464385-111-1676583003 - Holdem no limit (800/3500/7000) - 2023/02/16 21:30:03 UTC
+Table: 'Monster Stack(623541204)#000' 6-max (real money) Seat #2 is the button
+Seat 1: OarisKiller2 (268462)
+Seat 2: _SKR (222625)
+Seat 3: Duynguyen (299547)
+Seat 4: Chuetteprono (122382)
+Seat 5: QuentinD007 (206400)
+Seat 6: 1234jofo1234 (445329)
+*** ANTE/BLINDS ***
+Duynguyen posts ante 800
+Chuetteprono posts ante 800
+OarisKiller2 posts ante 800
+_SKR posts ante 800
+QuentinD007 posts ante 800
+1234jofo1234 posts ante 800
+Duynguyen posts small blind 3500
+Chuetteprono posts big blind 7000
+Dealt to _SKR [Jh 8s]
+*** PRE-FLOP *** 
+QuentinD007 folds
+1234jofo1234 folds
+OarisKiller2 folds
+_SKR folds
+Duynguyen raises 7000 to 14000
+Chuetteprono calls 7000
+*** FLOP *** [Kd Ah Qd]
+Duynguyen bets 11480
+Chuetteprono raises 96102 to 107582 and is all-in
+Duynguyen folds
+Chuetteprono collected 151862 from pot
+*** SUMMARY ***
+Total pot 151862 | No rake
+Board: [Kd Ah Qd]
+Seat 4: Chuetteprono (big blind) won 151862
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2678089078888464385-112-1676583028 - Holdem no limit (800/3500/7000) - 2023/02/16 21:30:28 UTC
+Table: 'Monster Stack(623541204)#000' 6-max (real money) Seat #3 is the button
+Seat 1: OarisKiller2 (267662)
+Seat 2: _SKR (221825)
+Seat 3: Duynguyen (273267)
+Seat 4: Chuetteprono (151862)
+Seat 5: QuentinD007 (205600)
+Seat 6: 1234jofo1234 (444529)
+*** ANTE/BLINDS ***
+Chuetteprono posts ante 800
+QuentinD007 posts ante 800
+OarisKiller2 posts ante 800
+_SKR posts ante 800
+Duynguyen posts ante 800
+1234jofo1234 posts ante 800
+Chuetteprono posts small blind 3500
+QuentinD007 posts big blind 7000
+Dealt to _SKR [3h 4c]
+*** PRE-FLOP *** 
+1234jofo1234 raises 14000 to 21000
+OarisKiller2 folds
+_SKR folds
+Duynguyen raises 14000 to 35000
+Chuetteprono folds
+QuentinD007 folds
+1234jofo1234 calls 14000
+*** FLOP *** [5c 6h Kd]
+1234jofo1234 checks
+Duynguyen checks
+*** TURN *** [5c 6h Kd][2c]
+1234jofo1234 bets 55445
+Duynguyen calls 55445
+*** RIVER *** [5c 6h Kd 2c][As]
+1234jofo1234 bets 68667
+Duynguyen calls 68667
+*** SHOW DOWN ***
+1234jofo1234 shows [Qd Td] (High card : Ace)
+Duynguyen shows [Th Ts] (One pair : Tens)
+Duynguyen collected 333524 from pot
+*** SUMMARY ***
+Total pot 333524 | No rake
+Board: [5c 6h Kd 2c As]
+Seat 3: Duynguyen (button) showed [Th Ts] and won 333524 with One pair : Tens
+Seat 6: 1234jofo1234 showed [Qd Td] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2678089078888464385-113-1676583101 - Holdem no limit (800/3500/7000) - 2023/02/16 21:31:41 UTC
+Table: 'Monster Stack(623541204)#000' 6-max (real money) Seat #4 is the button
+Seat 1: OarisKiller2 (266862)
+Seat 2: _SKR (221025)
+Seat 3: Duynguyen (446879)
+Seat 4: Chuetteprono (147562)
+Seat 5: QuentinD007 (197800)
+Seat 6: 1234jofo1234 (284617)
+*** ANTE/BLINDS ***
+QuentinD007 posts ante 800
+1234jofo1234 posts ante 800
+OarisKiller2 posts ante 800
+_SKR posts ante 800
+Duynguyen posts ante 800
+Chuetteprono posts ante 800
+QuentinD007 posts small blind 3500
+1234jofo1234 posts big blind 7000
+Dealt to _SKR [Tc Th]
+*** PRE-FLOP *** 
+OarisKiller2 folds
+_SKR raises 8750 to 15750
+Duynguyen folds
+Chuetteprono folds
+QuentinD007 folds
+1234jofo1234 raises 31500 to 47250
+_SKR raises 172975 to 220225 and is all-in
+1234jofo1234 calls 172975
+*** FLOP *** [4h 8c 5s]
+*** TURN *** [4h 8c 5s][Kd]
+*** RIVER *** [4h 8c 5s Kd][2d]
+*** SHOW DOWN ***
+_SKR shows [Tc Th] (One pair : Tens)
+1234jofo1234 shows [Ah Kh] (One pair : Kings)
+1234jofo1234 collected 448750 from pot
+*** SUMMARY ***
+Total pot 448750 | No rake
+Board: [4h 8c 5s Kd 2d]
+Seat 2: _SKR showed [Tc Th] and lost with One pair : Tens
+Seat 6: 1234jofo1234 (big blind) showed [Ah Kh] and won 448750 with One pair : Kings
+
+

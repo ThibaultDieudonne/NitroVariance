@@ -1,0 +1,68 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675097561152356353-1-1673744223 - Holdem no limit (10/20) - 2023/01/15 00:57:03 UTC
+Table: 'Expresso Nitro(622844687)#0' 3-max (real money) Seat #1 is the button
+Seat 1: gaettt13 (300)
+Seat 2: Hugolou1 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Hugolou1 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs 3d]
+*** PRE-FLOP *** 
+gaettt13 folds
+Hugolou1 calls 10
+_SKR checks
+*** FLOP *** [Jh 8c Kc]
+Hugolou1 bets 40
+_SKR folds
+Hugolou1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Jh 8c Kc]
+Seat 2: Hugolou1 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675097561152356353-2-1673744242 - Holdem no limit (10/20) - 2023/01/15 00:57:22 UTC
+Table: 'Expresso Nitro(622844687)#0' 3-max (real money) Seat #2 is the button
+Seat 1: gaettt13 (300)
+Seat 2: Hugolou1 (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+gaettt13 posts big blind 20
+Dealt to _SKR [2d 9h]
+*** PRE-FLOP *** 
+Hugolou1 folds
+_SKR folds
+gaettt13 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: gaettt13 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675097561152356353-3-1673744246 - Holdem no limit (10/20) - 2023/01/15 00:57:26 UTC
+Table: 'Expresso Nitro(622844687)#0' 3-max (real money) Seat #3 is the button
+Seat 1: gaettt13 (310)
+Seat 2: Hugolou1 (320)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+gaettt13 posts small blind 10
+Hugolou1 posts big blind 20
+Dealt to _SKR [Ac Qc]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+gaettt13 calls 260
+Hugolou1 folds
+*** FLOP *** [Tc Kh 2h]
+*** TURN *** [Tc Kh 2h][Th]
+*** RIVER *** [Tc Kh 2h Th][3h]
+*** SHOW DOWN ***
+_SKR shows [Ac Qc] (One pair : Tens)
+gaettt13 shows [Kc 4h] (Flush King high)
+gaettt13 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Tc Kh 2h Th 3h]
+Seat 1: gaettt13 (small blind) showed [Kc 4h] and won 560 with Flush King high
+Seat 3: _SKR (button) showed [Ac Qc] and lost with One pair : Tens
+
+

@@ -1,0 +1,150 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671032245757673473-1-1673527635 - Holdem no limit (10/20) - 2023/01/12 12:47:15 UTC
+Table: 'Expresso Nitro(621898157)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jeankoc (300)
+Seat 2: Minato_38 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Jeankoc posts small blind 10
+Minato_38 posts big blind 20
+Dealt to _SKR [2s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Jeankoc calls 10
+Minato_38 checks
+*** FLOP *** [Ad Ah 7d]
+Jeankoc checks
+Minato_38 checks
+*** TURN *** [Ad Ah 7d][3s]
+Jeankoc bets 26
+Minato_38 folds
+Jeankoc collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Ad Ah 7d 3s]
+Seat 1: Jeankoc (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671032245757673473-2-1673527653 - Holdem no limit (10/20) - 2023/01/12 12:47:33 UTC
+Table: 'Expresso Nitro(621898157)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jeankoc (320)
+Seat 2: Minato_38 (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Minato_38 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 7h]
+*** PRE-FLOP *** 
+Jeankoc folds
+Minato_38 calls 10
+_SKR checks
+*** FLOP *** [3c 2s 6d]
+Minato_38 checks
+_SKR checks
+*** TURN *** [3c 2s 6d][7c]
+Minato_38 bets 40
+_SKR calls 40
+*** RIVER *** [3c 2s 6d 7c][4c]
+Minato_38 bets 42
+_SKR calls 42
+*** SHOW DOWN ***
+Minato_38 shows [Qs 7s] (One pair : 7)
+_SKR shows [6s 7h] (Two pairs : 7 and 6)
+_SKR collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [3c 2s 6d 7c 4c]
+Seat 2: Minato_38 (small blind) showed [Qs 7s] and lost with One pair : 7
+Seat 3: _SKR (big blind) showed [6s 7h] and won 204 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671032245757673473-3-1673527683 - Holdem no limit (10/20) - 2023/01/12 12:48:03 UTC
+Table: 'Expresso Nitro(621898157)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jeankoc (320)
+Seat 2: Minato_38 (178)
+Seat 3: _SKR (402)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Jeankoc posts big blind 20
+Dealt to _SKR [9c Ks]
+*** PRE-FLOP *** 
+Minato_38 folds
+_SKR raises 382 to 402 and is all-in
+Jeankoc calls 300 and is all-in
+*** FLOP *** [Ac 3s 8h]
+*** TURN *** [Ac 3s 8h][Qc]
+*** RIVER *** [Ac 3s 8h Qc][9h]
+*** SHOW DOWN ***
+Jeankoc shows [As 3h] (Two pairs : Aces and 3)
+_SKR shows [9c Ks] (One pair : 9)
+_SKR collected 82 from side pot 1
+Jeankoc collected 640 from main pot
+*** SUMMARY ***
+Total pot 722 | No rake
+Board: [Ac 3s 8h Qc 9h]
+Seat 1: Jeankoc (big blind) showed [As 3h] and won 640 with Two pairs : Aces and 3
+Seat 3: _SKR (small blind) showed [9c Ks] and won 82 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671032245757673473-4-1673527700 - Holdem no limit (15/30) - 2023/01/12 12:48:20 UTC
+Table: 'Expresso Nitro(621898157)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jeankoc (640)
+Seat 2: Minato_38 (178)
+Seat 3: _SKR (82)
+*** ANTE/BLINDS ***
+Jeankoc posts small blind 15
+Minato_38 posts big blind 30
+Dealt to _SKR [2c 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Jeankoc folds
+Minato_38 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Minato_38 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671032245757673473-5-1673527707 - Holdem no limit (15/30) - 2023/01/12 12:48:27 UTC
+Table: 'Expresso Nitro(621898157)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jeankoc (625)
+Seat 2: Minato_38 (193)
+Seat 3: _SKR (82)
+*** ANTE/BLINDS ***
+Minato_38 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ks Jh]
+*** PRE-FLOP *** 
+Jeankoc folds
+Minato_38 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671032245757673473-6-1673527714 - Holdem no limit (15/30) - 2023/01/12 12:48:34 UTC
+Table: 'Expresso Nitro(621898157)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jeankoc (625)
+Seat 2: Minato_38 (178)
+Seat 3: _SKR (97)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Jeankoc posts big blind 30
+Dealt to _SKR [Ah Tc]
+*** PRE-FLOP *** 
+Minato_38 folds
+_SKR raises 67 to 97 and is all-in
+Jeankoc calls 67
+*** FLOP *** [3h Qh Ks]
+*** TURN *** [3h Qh Ks][6d]
+*** RIVER *** [3h Qh Ks 6d][4h]
+*** SHOW DOWN ***
+_SKR shows [Ah Tc] (High card : Ace)
+Jeankoc shows [5h Kh] (Flush King high)
+Jeankoc collected 194 from pot
+*** SUMMARY ***
+Total pot 194 | No rake
+Board: [3h Qh Ks 6d 4h]
+Seat 1: Jeankoc (big blind) showed [5h Kh] and won 194 with Flush King high
+Seat 3: _SKR (small blind) showed [Ah Tc] and lost with High card : Ace
+
+

@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671080869082431489-1-1673530158 - Holdem no limit (10/20) - 2023/01/12 13:29:18 UTC
+Table: 'Expresso Nitro(621909478)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Queladrogue (300)
+Seat 3: Split4tle4st (300)
+*** ANTE/BLINDS ***
+Split4tle4st posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h 2d]
+*** PRE-FLOP *** 
+Queladrogue folds
+Split4tle4st folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671080869082431489-2-1673530168 - Holdem no limit (10/20) - 2023/01/12 13:29:28 UTC
+Table: 'Expresso Nitro(621909478)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: Queladrogue (300)
+Seat 3: Split4tle4st (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Queladrogue posts big blind 20
+Dealt to _SKR [7h Jh]
+*** PRE-FLOP *** 
+Split4tle4st folds
+_SKR raises 20 to 40
+Queladrogue calls 20
+*** FLOP *** [5s 7d Kh]
+_SKR bets 40
+Queladrogue calls 40
+*** TURN *** [5s 7d Kh][3h]
+_SKR bets 80
+Queladrogue calls 80
+*** RIVER *** [5s 7d Kh 3h][Kc]
+_SKR bets 150 and is all-in
+Queladrogue calls 140 and is all-in
+*** SHOW DOWN ***
+_SKR shows [7h Jh] (Two pairs : Kings and 7)
+Queladrogue shows [2h Ks] (Trips of Kings)
+Queladrogue collected 600 from main pot
+_SKR collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [5s 7d Kh 3h Kc]
+Seat 1: _SKR (small blind) showed [7h Jh] and won 10 with Two pairs : Kings and 7
+Seat 2: Queladrogue (big blind) showed [2h Ks] and won 600 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671080869082431489-3-1673530219 - Holdem no limit (15/30) - 2023/01/12 13:30:19 UTC
+Table: 'Expresso Nitro(621909478)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (10)
+Seat 2: Queladrogue (600)
+Seat 3: Split4tle4st (290)
+*** ANTE/BLINDS ***
+Queladrogue posts small blind 15
+Split4tle4st posts big blind 30
+Dealt to _SKR [5h Kh]
+*** PRE-FLOP *** 
+_SKR calls 10 and is all-in
+Queladrogue raises 570 to 600 and is all-in
+Split4tle4st folds
+*** FLOP *** [3c 2d Qs]
+*** TURN *** [3c 2d Qs][Jd]
+*** RIVER *** [3c 2d Qs Jd][Js]
+*** SHOW DOWN ***
+_SKR shows [5h Kh] (One pair : Jacks)
+Queladrogue shows [9c Ks] (One pair : Jacks)
+Queladrogue collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [3c 2d Qs Jd Js]
+Seat 1: _SKR (button) showed [5h Kh] and lost with One pair : Jacks
+Seat 2: Queladrogue (small blind) showed [9c Ks] and won 640 with One pair : Jacks
+
+

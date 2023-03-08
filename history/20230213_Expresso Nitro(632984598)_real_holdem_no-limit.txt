@@ -1,0 +1,216 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718648147281707009-1-1676293380 - Holdem no limit (10/20) - 2023/02/13 13:03:00 UTC
+Table: 'Expresso Nitro(632984598)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Sacha 98 (300)
+Seat 3: Gui137 (300)
+*** ANTE/BLINDS ***
+Gui137 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc 6d]
+*** PRE-FLOP *** 
+Sacha 98 folds
+Gui137 calls 10
+_SKR checks
+*** FLOP *** [Ts 5s 6s]
+Gui137 checks
+_SKR checks
+*** TURN *** [Ts 5s 6s][5d]
+Gui137 checks
+_SKR checks
+*** RIVER *** [Ts 5s 6s 5d][Kh]
+Gui137 checks
+_SKR checks
+*** SHOW DOWN ***
+Gui137 shows [9c 4s] (One pair : 5)
+_SKR shows [Qc 6d] (Two pairs : 6 and 5)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ts 5s 6s 5d Kh]
+Seat 1: _SKR (big blind) showed [Qc 6d] and won 40 with Two pairs : 6 and 5
+Seat 3: Gui137 (small blind) showed [9c 4s] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718648147281707009-2-1676293404 - Holdem no limit (10/20) - 2023/02/13 13:03:24 UTC
+Table: 'Expresso Nitro(632984598)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: Sacha 98 (300)
+Seat 3: Gui137 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Sacha 98 posts big blind 20
+Dealt to _SKR [4h 6d]
+*** PRE-FLOP *** 
+Gui137 raises 30 to 50
+_SKR folds
+Sacha 98 calls 30
+*** FLOP *** [8h Kh 7c]
+Sacha 98 bets 110
+Gui137 folds
+Sacha 98 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [8h Kh 7c]
+Seat 2: Sacha 98 (big blind) won 220
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718648147281707009-3-1676293422 - Holdem no limit (10/20) - 2023/02/13 13:03:42 UTC
+Table: 'Expresso Nitro(632984598)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: Sacha 98 (360)
+Seat 3: Gui137 (230)
+*** ANTE/BLINDS ***
+Sacha 98 posts small blind 10
+Gui137 posts big blind 20
+Dealt to _SKR [9d 7d]
+*** PRE-FLOP *** 
+_SKR folds
+Sacha 98 raises 20 to 40
+Gui137 folds
+Sacha 98 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Sacha 98 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718648147281707009-4-1676293433 - Holdem no limit (10/20) - 2023/02/13 13:03:53 UTC
+Table: 'Expresso Nitro(632984598)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: Sacha 98 (380)
+Seat 3: Gui137 (210)
+*** ANTE/BLINDS ***
+Gui137 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9c 3d]
+*** PRE-FLOP *** 
+Sacha 98 calls 20
+Gui137 raises 30 to 50
+_SKR folds
+Sacha 98 calls 30
+*** FLOP *** [Ah Kc 5d]
+Gui137 checks
+Sacha 98 checks
+*** TURN *** [Ah Kc 5d][5s]
+Gui137 checks
+Sacha 98 checks
+*** RIVER *** [Ah Kc 5d 5s][7s]
+Gui137 bets 78
+Sacha 98 folds
+Gui137 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [Ah Kc 5d 5s 7s]
+Seat 3: Gui137 (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718648147281707009-5-1676293460 - Holdem no limit (15/30) - 2023/02/13 13:04:20 UTC
+Table: 'Expresso Nitro(632984598)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 2: Sacha 98 (330)
+Seat 3: Gui137 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Sacha 98 posts big blind 30
+Dealt to _SKR [8s Ad]
+*** PRE-FLOP *** 
+Gui137 raises 45 to 75
+_SKR folds
+Sacha 98 calls 45
+*** FLOP *** [9h 8h Js]
+Sacha 98 checks
+Gui137 checks
+*** TURN *** [9h 8h Js][6d]
+Sacha 98 checks
+Gui137 checks
+*** RIVER *** [9h 8h Js 6d][6c]
+Sacha 98 bets 165
+Gui137 folds
+Sacha 98 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [9h 8h Js 6d 6c]
+Seat 2: Sacha 98 (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718648147281707009-6-1676293490 - Holdem no limit (15/30) - 2023/02/13 13:04:50 UTC
+Table: 'Expresso Nitro(632984598)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (275)
+Seat 2: Sacha 98 (420)
+Seat 3: Gui137 (205)
+*** ANTE/BLINDS ***
+Sacha 98 posts small blind 15
+Gui137 posts big blind 30
+Dealt to _SKR [4d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Sacha 98 folds
+Gui137 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Gui137 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718648147281707009-7-1676293501 - Holdem no limit (20/40) - 2023/02/13 13:05:01 UTC
+Table: 'Expresso Nitro(632984598)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (275)
+Seat 2: Sacha 98 (405)
+Seat 3: Gui137 (220)
+*** ANTE/BLINDS ***
+Gui137 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6d 7c]
+*** PRE-FLOP *** 
+Sacha 98 raises 40 to 80
+Gui137 folds
+_SKR folds
+Sacha 98 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: Sacha 98 (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718648147281707009-8-1676293510 - Holdem no limit (20/40) - 2023/02/13 13:05:10 UTC
+Table: 'Expresso Nitro(632984598)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (235)
+Seat 2: Sacha 98 (465)
+Seat 3: Gui137 (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Sacha 98 posts big blind 40
+Dealt to _SKR [3h 9d]
+*** PRE-FLOP *** 
+Gui137 folds
+_SKR folds
+Sacha 98 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Sacha 98 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718648147281707009-9-1676293516 - Holdem no limit (20/40) - 2023/02/13 13:05:16 UTC
+Table: 'Expresso Nitro(632984598)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (215)
+Seat 2: Sacha 98 (485)
+Seat 3: Gui137 (200)
+*** ANTE/BLINDS ***
+Sacha 98 posts small blind 20
+Gui137 posts big blind 40
+Dealt to _SKR [9d Ac]
+*** PRE-FLOP *** 
+_SKR raises 175 to 215 and is all-in
+Sacha 98 calls 195
+Gui137 folds
+*** FLOP *** [Jh 2h 6c]
+*** TURN *** [Jh 2h 6c][7c]
+*** RIVER *** [Jh 2h 6c 7c][Jc]
+*** SHOW DOWN ***
+_SKR shows [9d Ac] (One pair : Jacks)
+Sacha 98 shows [Jd Qh] (Trips of Jacks)
+Sacha 98 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [Jh 2h 6c 7c Jc]
+Seat 1: _SKR (button) showed [9d Ac] and lost with One pair : Jacks
+Seat 2: Sacha 98 (small blind) showed [Jd Qh] and won 470 with Trips of Jacks
+
+

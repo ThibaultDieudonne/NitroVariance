@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690599635721912321-1-1674687393 - Holdem no limit (10/20) - 2023/01/25 22:56:33 UTC
+Table: 'Expresso Nitro(626454045)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Monillo214 (300)
+Seat 2: _SKR (300)
+Seat 3: GamessSpirit (300)
+*** ANTE/BLINDS ***
+Monillo214 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d Qs]
+*** PRE-FLOP *** 
+GamessSpirit folds
+Monillo214 raises 280 to 300 and is all-in
+_SKR folds
+Monillo214 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Monillo214 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690599635721912321-2-1674687399 - Holdem no limit (10/20) - 2023/01/25 22:56:39 UTC
+Table: 'Expresso Nitro(626454045)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Monillo214 (320)
+Seat 2: _SKR (280)
+Seat 3: GamessSpirit (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+GamessSpirit posts big blind 20
+Dealt to _SKR [9d Ad]
+*** PRE-FLOP *** 
+Monillo214 raises 300 to 320 and is all-in
+_SKR calls 270 and is all-in
+GamessSpirit folds
+*** FLOP *** [4h 7h Qs]
+*** TURN *** [4h 7h Qs][Td]
+*** RIVER *** [4h 7h Qs Td][6d]
+*** SHOW DOWN ***
+_SKR shows [9d Ad] (High card : Ace)
+Monillo214 shows [Kc Qd] (One pair : Queens)
+Monillo214 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4h 7h Qs Td 6d]
+Seat 1: Monillo214 (button) showed [Kc Qd] and won 620 with One pair : Queens
+Seat 2: _SKR (small blind) showed [9d Ad] and lost with High card : Ace
+
+

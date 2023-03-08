@@ -1,0 +1,378 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698074549559230465-1-1675179309 - Holdem no limit (10/20) - 2023/01/31 15:35:09 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (300)
+Seat 2: wmx-6iqmeff (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 10
+wmx-6iqmeff posts big blind 20
+Dealt to _SKR [Ks Qs]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Madrigones folds
+wmx-6iqmeff folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698074549559230465-2-1675179318 - Holdem no limit (10/20) - 2023/01/31 15:35:18 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (290)
+Seat 2: wmx-6iqmeff (280)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+wmx-6iqmeff posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d Jd]
+*** PRE-FLOP *** 
+Madrigones folds
+wmx-6iqmeff calls 10
+_SKR checks
+*** FLOP *** [Kh 7h Jc]
+wmx-6iqmeff checks
+_SKR bets 20
+wmx-6iqmeff calls 20
+*** TURN *** [Kh 7h Jc][9s]
+wmx-6iqmeff checks
+_SKR bets 40
+wmx-6iqmeff calls 40
+*** RIVER *** [Kh 7h Jc 9s][Tc]
+wmx-6iqmeff checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [7d Jd] (Two pairs : Jacks and 7)
+wmx-6iqmeff shows [Kd Ks] (Trips of Kings)
+wmx-6iqmeff collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Kh 7h Jc 9s Tc]
+Seat 2: wmx-6iqmeff (small blind) showed [Kd Ks] and won 160 with Trips of Kings
+Seat 3: _SKR (big blind) showed [7d Jd] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698074549559230465-3-1675179361 - Holdem no limit (10/20) - 2023/01/31 15:36:01 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Madrigones (290)
+Seat 2: wmx-6iqmeff (360)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Madrigones posts big blind 20
+Dealt to _SKR [Kh Ts]
+*** PRE-FLOP *** 
+wmx-6iqmeff calls 20
+_SKR raises 230 to 250 and is all-in
+Madrigones folds
+wmx-6iqmeff folds
+_SKR collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: _SKR (small blind) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698074549559230465-4-1675179379 - Holdem no limit (15/30) - 2023/01/31 15:36:19 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (270)
+Seat 2: wmx-6iqmeff (340)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 15
+wmx-6iqmeff posts big blind 30
+Dealt to _SKR [As Kc]
+*** PRE-FLOP *** 
+_SKR raises 260 to 290 and is all-in
+Madrigones folds
+wmx-6iqmeff folds
+_SKR collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | No rake
+Seat 3: _SKR (button) won 335
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698074549559230465-5-1675179390 - Holdem no limit (15/30) - 2023/01/31 15:36:30 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (255)
+Seat 2: wmx-6iqmeff (310)
+Seat 3: _SKR (335)
+*** ANTE/BLINDS ***
+wmx-6iqmeff posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad Kd]
+*** PRE-FLOP *** 
+Madrigones folds
+wmx-6iqmeff raises 30 to 60
+_SKR raises 275 to 335 and is all-in
+wmx-6iqmeff calls 250 and is all-in
+*** FLOP *** [2d 4d 3s]
+*** TURN *** [2d 4d 3s][8s]
+*** RIVER *** [2d 4d 3s 8s][Kc]
+*** SHOW DOWN ***
+wmx-6iqmeff shows [Ac 2c] (One pair : 2)
+_SKR shows [Ad Kd] (One pair : Kings)
+_SKR collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | No rake
+Board: [2d 4d 3s 8s Kc]
+Seat 2: wmx-6iqmeff (small blind) showed [Ac 2c] and lost with One pair : 2
+Seat 3: _SKR (big blind) showed [Ad Kd] and won 645 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698074549559230465-6-1675179426 - Holdem no limit (20/40) - 2023/01/31 15:37:06 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (255)
+Seat 3: _SKR (645)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Madrigones posts big blind 40
+Dealt to _SKR [6s 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Madrigones collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Madrigones (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698074549559230465-7-1675179434 - Holdem no limit (20/40) - 2023/01/31 15:37:14 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (275)
+Seat 3: _SKR (625)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [As 5s]
+*** PRE-FLOP *** 
+Madrigones folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698074549559230465-8-1675179437 - Holdem no limit (20/40) - 2023/01/31 15:37:17 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (255)
+Seat 3: _SKR (645)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Madrigones posts big blind 40
+Dealt to _SKR [2d Jd]
+*** PRE-FLOP *** 
+_SKR raises 605 to 645 and is all-in
+Madrigones folds
+_SKR collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Seat 3: _SKR (small blind) (button) won 685
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698074549559230465-9-1675179442 - Holdem no limit (20/40) - 2023/01/31 15:37:22 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (215)
+Seat 3: _SKR (685)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh 6d]
+*** PRE-FLOP *** 
+Madrigones folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698074549559230465-10-1675179446 - Holdem no limit (20/40) - 2023/01/31 15:37:26 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (195)
+Seat 3: _SKR (705)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Madrigones posts big blind 40
+Dealt to _SKR [8c 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Madrigones collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Madrigones (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698074549559230465-11-1675179450 - Holdem no limit (20/40) - 2023/01/31 15:37:30 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (215)
+Seat 3: _SKR (685)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2h 6h]
+*** PRE-FLOP *** 
+Madrigones raises 175 to 215 and is all-in
+_SKR folds
+Madrigones collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 1: Madrigones (small blind) (button) won 255
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698074549559230465-12-1675179459 - Holdem no limit (20/40) - 2023/01/31 15:37:39 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (255)
+Seat 3: _SKR (645)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Madrigones posts big blind 40
+Dealt to _SKR [7c Qh]
+*** PRE-FLOP *** 
+_SKR raises 605 to 645 and is all-in
+Madrigones folds
+_SKR collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Seat 3: _SKR (small blind) (button) won 685
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698074549559230465-13-1675179466 - Holdem no limit (20/40) - 2023/01/31 15:37:46 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (215)
+Seat 3: _SKR (685)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qh 8h]
+*** PRE-FLOP *** 
+Madrigones raises 175 to 215 and is all-in
+_SKR calls 175
+*** FLOP *** [5d 4c 2s]
+*** TURN *** [5d 4c 2s][Qc]
+*** RIVER *** [5d 4c 2s Qc][2c]
+*** SHOW DOWN ***
+_SKR shows [Qh 8h] (Two pairs : Queens and 2)
+Madrigones shows [2d Kd] (Trips of 2)
+Madrigones collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Board: [5d 4c 2s Qc 2c]
+Seat 1: Madrigones (small blind) (button) showed [2d Kd] and won 430 with Trips of 2
+Seat 3: _SKR (big blind) showed [Qh 8h] and lost with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698074549559230465-14-1675179488 - Holdem no limit (30/60) - 2023/01/31 15:38:08 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (430)
+Seat 3: _SKR (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Madrigones posts big blind 60
+Dealt to _SKR [8d 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Madrigones collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Madrigones (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698074549559230465-15-1675179493 - Holdem no limit (30/60) - 2023/01/31 15:38:13 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (460)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9c Ac]
+*** PRE-FLOP *** 
+Madrigones folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698074549559230465-16-1675179496 - Holdem no limit (30/60) - 2023/01/31 15:38:16 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (430)
+Seat 3: _SKR (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Madrigones posts big blind 60
+Dealt to _SKR [2h Ah]
+*** PRE-FLOP *** 
+_SKR raises 410 to 470 and is all-in
+Madrigones folds
+_SKR collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: _SKR (small blind) (button) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698074549559230465-17-1675179506 - Holdem no limit (30/60) - 2023/01/31 15:38:26 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (370)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kd Ts]
+*** PRE-FLOP *** 
+Madrigones raises 310 to 370 and is all-in
+_SKR calls 310
+*** FLOP *** [Jh Ah Jd]
+*** TURN *** [Jh Ah Jd][8c]
+*** RIVER *** [Jh Ah Jd 8c][8s]
+*** SHOW DOWN ***
+Madrigones shows [3c Tc] (Two pairs : Jacks and 8)
+_SKR shows [Kd Ts] (Two pairs : Jacks and 8)
+_SKR collected 370 from pot
+Madrigones collected 370 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [Jh Ah Jd 8c 8s]
+Seat 1: Madrigones (small blind) (button) showed [3c Tc] and won 370 with Two pairs : Jacks and 8
+Seat 3: _SKR (big blind) showed [Kd Ts] and won 370 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698074549559230465-18-1675179517 - Holdem no limit (30/60) - 2023/01/31 15:38:37 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (370)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Madrigones posts big blind 60
+Dealt to _SKR [Kh 6h]
+*** PRE-FLOP *** 
+_SKR raises 470 to 530 and is all-in
+Madrigones folds
+_SKR collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 3: _SKR (small blind) (button) won 590
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698074549559230465-19-1675179521 - Holdem no limit (30/60) - 2023/01/31 15:38:41 UTC
+Table: 'Expresso Nitro(628194434)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (310)
+Seat 3: _SKR (590)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kh 6s]
+*** PRE-FLOP *** 
+Madrigones raises 250 to 310 and is all-in
+_SKR calls 250
+*** FLOP *** [2d 2s 9s]
+*** TURN *** [2d 2s 9s][Kc]
+*** RIVER *** [2d 2s 9s Kc][3c]
+*** SHOW DOWN ***
+Madrigones shows [4h 7d] (One pair : 2)
+_SKR shows [Kh 6s] (Two pairs : Kings and 2)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [2d 2s 9s Kc 3c]
+Seat 1: Madrigones (small blind) (button) showed [4h 7d] and lost with One pair : 2
+Seat 3: _SKR (big blind) showed [Kh 6s] and won 620 with Two pairs : Kings and 2
+
+

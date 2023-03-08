@@ -1,0 +1,29 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696671263484542977-1-1675092682 - Holdem no limit (10/20) - 2023/01/30 15:31:22 UTC
+Table: 'Expresso Nitro(627867706)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: nawero (300)
+Seat 3: CastoDrama75 (300)
+*** ANTE/BLINDS ***
+nawero posts small blind 10
+CastoDrama75 posts big blind 20
+Dealt to _SKR [Ah 6c]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+nawero calls 290 and is all-in
+CastoDrama75 calls 280 and is all-in
+*** FLOP *** [7c Td Ks]
+*** TURN *** [7c Td Ks][Qh]
+*** RIVER *** [7c Td Ks Qh][5h]
+*** SHOW DOWN ***
+_SKR shows [Ah 6c] (High card : Ace)
+nawero shows [Ac 4d] (High card : Ace)
+CastoDrama75 shows [Kd Kh] (Trips of Kings)
+CastoDrama75 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c Td Ks Qh 5h]
+Seat 1: _SKR (button) showed [Ah 6c] and lost with High card : Ace
+Seat 2: nawero (small blind) showed [Ac 4d] and lost with High card : Ace
+Seat 3: CastoDrama75 (big blind) showed [Kd Kh] and won 900 with Trips of Kings
+
+

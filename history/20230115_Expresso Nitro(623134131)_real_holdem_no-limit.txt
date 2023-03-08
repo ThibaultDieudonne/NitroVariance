@@ -1,0 +1,155 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676340713666379777-1-1673820603 - Holdem no limit (10/20) - 2023/01/15 22:10:03 UTC
+Table: 'Expresso Nitro(623134131)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Vmarcel (300)
+Seat 3: LONGET42 (300)
+*** ANTE/BLINDS ***
+Vmarcel posts small blind 10
+LONGET42 posts big blind 20
+Dealt to _SKR [8c 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Vmarcel folds
+LONGET42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: LONGET42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676340713666379777-2-1673820607 - Holdem no limit (10/20) - 2023/01/15 22:10:07 UTC
+Table: 'Expresso Nitro(623134131)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Vmarcel (290)
+Seat 3: LONGET42 (310)
+*** ANTE/BLINDS ***
+LONGET42 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h Ac]
+*** PRE-FLOP *** 
+Vmarcel folds
+LONGET42 calls 10
+_SKR raises 280 to 300 and is all-in
+LONGET42 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676340713666379777-3-1673820623 - Holdem no limit (10/20) - 2023/01/15 22:10:23 UTC
+Table: 'Expresso Nitro(623134131)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: Vmarcel (290)
+Seat 3: LONGET42 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Vmarcel posts big blind 20
+Dealt to _SKR [6s 3d]
+*** PRE-FLOP *** 
+LONGET42 calls 20
+_SKR folds
+Vmarcel raises 270 to 290 and is all-in
+LONGET42 calls 270 and is all-in
+*** FLOP *** [7h 9c As]
+*** TURN *** [7h 9c As][5s]
+*** RIVER *** [7h 9c As 5s][7s]
+*** SHOW DOWN ***
+LONGET42 shows [3c Ad] (Two pairs : Aces and 7)
+Vmarcel shows [Ks Js] (Flush Ace high)
+Vmarcel collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [7h 9c As 5s 7s]
+Seat 2: Vmarcel (big blind) showed [Ks Js] and won 590 with Flush Ace high
+Seat 3: LONGET42 (button) showed [3c Ad] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676340713666379777-4-1673820643 - Holdem no limit (10/20) - 2023/01/15 22:10:43 UTC
+Table: 'Expresso Nitro(623134131)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: Vmarcel (590)
+*** ANTE/BLINDS ***
+Vmarcel posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s Ad]
+*** PRE-FLOP *** 
+Vmarcel folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676340713666379777-5-1673820647 - Holdem no limit (10/20) - 2023/01/15 22:10:47 UTC
+Table: 'Expresso Nitro(623134131)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 2: Vmarcel (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Vmarcel posts big blind 20
+Dealt to _SKR [8d 7d]
+*** PRE-FLOP *** 
+_SKR folds
+Vmarcel collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Vmarcel (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676340713666379777-6-1673820654 - Holdem no limit (10/20) - 2023/01/15 22:10:54 UTC
+Table: 'Expresso Nitro(623134131)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: Vmarcel (590)
+*** ANTE/BLINDS ***
+Vmarcel posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td Js]
+*** PRE-FLOP *** 
+Vmarcel raises 30 to 50
+_SKR calls 30
+*** FLOP *** [Qh Qc Kc]
+_SKR checks
+Vmarcel bets 35
+_SKR calls 35
+*** TURN *** [Qh Qc Kc][6c]
+_SKR checks
+Vmarcel checks
+*** RIVER *** [Qh Qc Kc 6c][Jc]
+_SKR bets 111
+Vmarcel calls 111
+*** SHOW DOWN ***
+_SKR shows [Td Js] (Two pairs : Queens and Jacks)
+Vmarcel shows [Tc Kh] (Flush King high)
+Vmarcel collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | No rake
+Board: [Qh Qc Kc 6c Jc]
+Seat 1: _SKR (big blind) showed [Td Js] and lost with Two pairs : Queens and Jacks
+Seat 2: Vmarcel (small blind) (button) showed [Tc Kh] and won 392 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676340713666379777-7-1673820675 - Holdem no limit (15/30) - 2023/01/15 22:11:15 UTC
+Table: 'Expresso Nitro(623134131)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (114)
+Seat 2: Vmarcel (786)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Vmarcel posts big blind 30
+Dealt to _SKR [6d Qs]
+*** PRE-FLOP *** 
+_SKR raises 84 to 114 and is all-in
+Vmarcel calls 84
+*** FLOP *** [Kh 3d 4h]
+*** TURN *** [Kh 3d 4h][7d]
+*** RIVER *** [Kh 3d 4h 7d][2d]
+*** SHOW DOWN ***
+_SKR shows [6d Qs] (High card : King)
+Vmarcel shows [Ks 9s] (One pair : Kings)
+Vmarcel collected 228 from pot
+*** SUMMARY ***
+Total pot 228 | No rake
+Board: [Kh 3d 4h 7d 2d]
+Seat 1: _SKR (small blind) (button) showed [6d Qs] and lost with High card : King
+Seat 2: Vmarcel (big blind) showed [Ks 9s] and won 228 with One pair : Kings
+
+

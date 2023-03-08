@@ -1,0 +1,68 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676382125741047809-1-1673822075 - Holdem no limit (10/20) - 2023/01/15 22:34:35 UTC
+Table: 'Expresso Nitro(623143773)#0' 3-max (real money) Seat #3 is the button
+Seat 1: absolut76 (300)
+Seat 2: _SKR (300)
+Seat 3: MAYRON15 (300)
+*** ANTE/BLINDS ***
+absolut76 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 6c]
+*** PRE-FLOP *** 
+MAYRON15 folds
+absolut76 calls 10
+_SKR raises 280 to 300 and is all-in
+absolut76 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676382125741047809-2-1673822084 - Holdem no limit (10/20) - 2023/01/15 22:34:44 UTC
+Table: 'Expresso Nitro(623143773)#0' 3-max (real money) Seat #1 is the button
+Seat 1: absolut76 (280)
+Seat 2: _SKR (320)
+Seat 3: MAYRON15 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MAYRON15 posts big blind 20
+Dealt to _SKR [6d 8h]
+*** PRE-FLOP *** 
+absolut76 calls 20
+_SKR folds
+MAYRON15 raises 280 to 300 and is all-in
+absolut76 folds
+MAYRON15 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: MAYRON15 (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676382125741047809-3-1673822100 - Holdem no limit (10/20) - 2023/01/15 22:35:00 UTC
+Table: 'Expresso Nitro(623143773)#0' 3-max (real money) Seat #2 is the button
+Seat 1: absolut76 (260)
+Seat 2: _SKR (310)
+Seat 3: MAYRON15 (330)
+*** ANTE/BLINDS ***
+MAYRON15 posts small blind 10
+absolut76 posts big blind 20
+Dealt to _SKR [Ac Qs]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+MAYRON15 raises 290 to 330 and is all-in
+absolut76 folds
+_SKR calls 270 and is all-in
+*** FLOP *** [2d Kh Qh]
+*** TURN *** [2d Kh Qh][9c]
+*** RIVER *** [2d Kh Qh 9c][4h]
+*** SHOW DOWN ***
+_SKR shows [Ac Qs] (One pair : Queens)
+MAYRON15 shows [Jc Kc] (One pair : Kings)
+MAYRON15 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [2d Kh Qh 9c 4h]
+Seat 2: _SKR (button) showed [Ac Qs] and lost with One pair : Queens
+Seat 3: MAYRON15 (small blind) showed [Jc Kc] and won 660 with One pair : Kings
+
+

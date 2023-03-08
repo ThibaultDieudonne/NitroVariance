@@ -1,0 +1,82 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695240322115436545-1-1675001787 - Holdem no limit (10/20) - 2023/01/29 14:16:27 UTC
+Table: 'Expresso Nitro(627534539)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Alexzzz (300)
+Seat 2: _SKR (300)
+Seat 3: arfedocit (300)
+*** ANTE/BLINDS ***
+arfedocit posts small blind 10
+Alexzzz posts big blind 20
+Dealt to _SKR [3s Kc]
+*** PRE-FLOP *** 
+_SKR folds
+arfedocit folds
+Alexzzz collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Alexzzz (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695240322115436545-2-1675001798 - Holdem no limit (10/20) - 2023/01/29 14:16:38 UTC
+Table: 'Expresso Nitro(627534539)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Alexzzz (310)
+Seat 2: _SKR (300)
+Seat 3: arfedocit (290)
+*** ANTE/BLINDS ***
+Alexzzz posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 5s]
+*** PRE-FLOP *** 
+arfedocit calls 20
+Alexzzz folds
+_SKR checks
+*** FLOP *** [2d Ad 5c]
+_SKR checks
+arfedocit bets 20
+_SKR calls 20
+*** TURN *** [2d Ad 5c][5h]
+_SKR checks
+arfedocit bets 31
+_SKR raises 33 to 64
+arfedocit calls 33
+*** RIVER *** [2d Ad 5c 5h][Kd]
+_SKR bets 76
+arfedocit raises 80 to 156
+_SKR calls 80
+*** SHOW DOWN ***
+_SKR shows [9d 5s] (Trips of 5)
+arfedocit shows [Qd 8d] (Flush Ace high)
+arfedocit collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [2d Ad 5c 5h Kd]
+Seat 2: _SKR (big blind) showed [9d 5s] and lost with Trips of 5
+Seat 3: arfedocit (button) showed [Qd 8d] and won 530 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695240322115436545-3-1675001871 - Holdem no limit (15/30) - 2023/01/29 14:17:51 UTC
+Table: 'Expresso Nitro(627534539)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Alexzzz (300)
+Seat 2: _SKR (40)
+Seat 3: arfedocit (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+arfedocit posts big blind 30
+Dealt to _SKR [Tc 8c]
+*** PRE-FLOP *** 
+Alexzzz folds
+_SKR raises 10 to 40 and is all-in
+arfedocit calls 10
+*** FLOP *** [Qh 3d As]
+*** TURN *** [Qh 3d As][2c]
+*** RIVER *** [Qh 3d As 2c][7h]
+*** SHOW DOWN ***
+_SKR shows [Tc 8c] (High card : Ace)
+arfedocit shows [4h 4d] (One pair : 4)
+arfedocit collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qh 3d As 2c 7h]
+Seat 2: _SKR (small blind) showed [Tc 8c] and lost with High card : Ace
+Seat 3: arfedocit (big blind) showed [4h 4d] and won 80 with One pair : 4
+
+

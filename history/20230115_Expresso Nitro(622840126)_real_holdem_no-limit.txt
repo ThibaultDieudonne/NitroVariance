@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675077971806519297-1-1673743110 - Holdem no limit (10/20) - 2023/01/15 00:38:30 UTC
+Table: 'Expresso Nitro(622840126)#0' 3-max (real money) Seat #3 is the button
+Seat 1: allizees (300)
+Seat 2: Vehicule33 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+allizees posts small blind 10
+Vehicule33 posts big blind 20
+Dealt to _SKR [3s 5c]
+*** PRE-FLOP *** 
+_SKR folds
+allizees raises 40 to 60
+Vehicule33 calls 40
+*** FLOP *** [3h As 6s]
+allizees bets 240 and is all-in
+Vehicule33 folds
+allizees collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [3h As 6s]
+Seat 1: allizees (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675077971806519297-2-1673743120 - Holdem no limit (10/20) - 2023/01/15 00:38:40 UTC
+Table: 'Expresso Nitro(622840126)#0' 3-max (real money) Seat #1 is the button
+Seat 1: allizees (360)
+Seat 2: Vehicule33 (240)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Vehicule33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd 3c]
+*** PRE-FLOP *** 
+allizees calls 20
+Vehicule33 raises 60 to 80
+_SKR folds
+allizees folds
+Vehicule33 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Vehicule33 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675077971806519297-3-1673743133 - Holdem no limit (10/20) - 2023/01/15 00:38:53 UTC
+Table: 'Expresso Nitro(622840126)#0' 3-max (real money) Seat #2 is the button
+Seat 1: allizees (340)
+Seat 2: Vehicule33 (280)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+allizees posts big blind 20
+Dealt to _SKR [Td 5h]
+*** PRE-FLOP *** 
+Vehicule33 calls 20
+_SKR folds
+allizees raises 320 to 340 and is all-in
+Vehicule33 calls 260 and is all-in
+*** FLOP *** [Ts 2c 8s]
+*** TURN *** [Ts 2c 8s][Ks]
+*** RIVER *** [Ts 2c 8s Ks][4c]
+*** SHOW DOWN ***
+Vehicule33 shows [9d Qh] (High card : King)
+allizees shows [8c Kd] (Two pairs : Kings and 8)
+allizees collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Ts 2c 8s Ks 4c]
+Seat 1: allizees (big blind) showed [8c Kd] and won 630 with Two pairs : Kings and 8
+Seat 2: Vehicule33 (button) showed [9d Qh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675077971806519297-4-1673743150 - Holdem no limit (10/20) - 2023/01/15 00:39:10 UTC
+Table: 'Expresso Nitro(622840126)#0' 3-max (real money) Seat #1 is the button
+Seat 1: allizees (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+allizees posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d As]
+*** PRE-FLOP *** 
+allizees raises 610 to 630 and is all-in
+_SKR calls 250 and is all-in
+*** FLOP *** [Tc 4c 3c]
+*** TURN *** [Tc 4c 3c][8c]
+*** RIVER *** [Tc 4c 3c 8c][Js]
+*** SHOW DOWN ***
+_SKR shows [8d As] (One pair : 8)
+allizees shows [Qs Qc] (Flush Queen high)
+allizees collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 4c 3c 8c Js]
+Seat 1: allizees (small blind) (button) showed [Qs Qc] and won 900 with Flush Queen high
+Seat 3: _SKR (big blind) showed [8d As] and lost with One pair : 8
+
+

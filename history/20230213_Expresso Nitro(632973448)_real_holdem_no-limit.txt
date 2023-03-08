@@ -1,0 +1,65 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718600258396356609-1-1676291703 - Holdem no limit (10/20) - 2023/02/13 12:35:03 UTC
+Table: 'Expresso Nitro(632973448)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pimousse19 (300)
+Seat 2: 1crevable (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+1crevable posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h Kd]
+*** PRE-FLOP *** 
+pimousse19 raises 280 to 300 and is all-in
+1crevable folds
+_SKR folds
+pimousse19 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: pimousse19 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718600258396356609-2-1676291715 - Holdem no limit (10/20) - 2023/02/13 12:35:15 UTC
+Table: 'Expresso Nitro(632973448)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pimousse19 (330)
+Seat 2: 1crevable (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+pimousse19 posts big blind 20
+Dealt to _SKR [9s Kc]
+*** PRE-FLOP *** 
+1crevable folds
+_SKR raises 260 to 280 and is all-in
+pimousse19 folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: _SKR (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718600258396356609-3-1676291737 - Holdem no limit (10/20) - 2023/02/13 12:35:37 UTC
+Table: 'Expresso Nitro(632973448)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pimousse19 (310)
+Seat 2: 1crevable (290)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+pimousse19 posts small blind 10
+1crevable posts big blind 20
+Dealt to _SKR [Ad 8d]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+pimousse19 calls 290
+1crevable folds
+*** FLOP *** [Qd 2h Th]
+*** TURN *** [Qd 2h Th][8c]
+*** RIVER *** [Qd 2h Th 8c][Ac]
+*** SHOW DOWN ***
+_SKR shows [Ad 8d] (Two pairs : Aces and 8)
+pimousse19 shows [Ts As] (Two pairs : Aces and Tens)
+pimousse19 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qd 2h Th 8c Ac]
+Seat 1: pimousse19 (small blind) showed [Ts As] and won 620 with Two pairs : Aces and Tens
+Seat 3: _SKR (button) showed [Ad 8d] and lost with Two pairs : Aces and 8
+
+

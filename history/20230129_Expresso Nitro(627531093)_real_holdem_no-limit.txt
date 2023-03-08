@@ -1,0 +1,63 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695225521658134529-1-1675000927 - Holdem no limit (10/20) - 2023/01/29 14:02:07 UTC
+Table: 'Expresso Nitro(627531093)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Epave2.0 (300)
+Seat 2: _SKR (300)
+Seat 3: Ninjakids84 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ninjakids84 posts big blind 20
+Dealt to _SKR [Jh 8h]
+*** PRE-FLOP *** 
+Epave2.0 folds
+_SKR raises 20 to 40
+Ninjakids84 calls 20
+*** FLOP *** [7c Jd 9h]
+_SKR checks
+Ninjakids84 bets 52
+_SKR calls 52
+*** TURN *** [7c Jd 9h][Qh]
+_SKR checks
+Ninjakids84 checks
+*** RIVER *** [7c Jd 9h Qh][2c]
+_SKR checks
+Ninjakids84 bets 64
+_SKR calls 64
+*** SHOW DOWN ***
+_SKR shows [Jh 8h] (One pair : Jacks)
+Ninjakids84 shows [Jc 8s] (One pair : Jacks)
+Ninjakids84 collected 156 from pot
+_SKR collected 156 from pot
+*** SUMMARY ***
+Total pot 312 | No rake
+Board: [7c Jd 9h Qh 2c]
+Seat 2: _SKR (small blind) showed [Jh 8h] and won 156 with One pair : Jacks
+Seat 3: Ninjakids84 (big blind) showed [Jc 8s] and won 156 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695225521658134529-2-1675000964 - Holdem no limit (10/20) - 2023/01/29 14:02:44 UTC
+Table: 'Expresso Nitro(627531093)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Epave2.0 (300)
+Seat 2: _SKR (300)
+Seat 3: Ninjakids84 (300)
+*** ANTE/BLINDS ***
+Ninjakids84 posts small blind 10
+Epave2.0 posts big blind 20
+Dealt to _SKR [As 2c]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Ninjakids84 folds
+Epave2.0 calls 280 and is all-in
+*** FLOP *** [5d 7c 4d]
+*** TURN *** [5d 7c 4d][9d]
+*** RIVER *** [5d 7c 4d 9d][8h]
+*** SHOW DOWN ***
+_SKR shows [As 2c] (High card : Ace)
+Epave2.0 shows [Kh 9h] (One pair : 9)
+Epave2.0 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [5d 7c 4d 9d 8h]
+Seat 1: Epave2.0 (big blind) showed [Kh 9h] and won 610 with One pair : 9
+Seat 2: _SKR (button) showed [As 2c] and lost with High card : Ace
+
+

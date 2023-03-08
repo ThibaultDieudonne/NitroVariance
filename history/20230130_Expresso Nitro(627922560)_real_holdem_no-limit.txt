@@ -1,0 +1,379 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696906859620597761-1-1675102871 - Holdem no limit (10/20) - 2023/01/30 18:21:11 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: tetu-Peche94 (300)
+Seat 3: Arbasoen (300)
+*** ANTE/BLINDS ***
+tetu-Peche94 posts small blind 10
+Arbasoen posts big blind 20
+Dealt to _SKR [Qs 9h]
+*** PRE-FLOP *** 
+_SKR folds
+tetu-Peche94 calls 10
+Arbasoen checks
+*** FLOP *** [3c 2s Jc]
+tetu-Peche94 checks
+Arbasoen checks
+*** TURN *** [3c 2s Jc][3d]
+tetu-Peche94 checks
+Arbasoen bets 20
+tetu-Peche94 folds
+Arbasoen collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3c 2s Jc 3d]
+Seat 3: Arbasoen (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696906859620597761-2-1675102889 - Holdem no limit (10/20) - 2023/01/30 18:21:29 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: tetu-Peche94 (280)
+Seat 3: Arbasoen (320)
+*** ANTE/BLINDS ***
+Arbasoen posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 7s]
+*** PRE-FLOP *** 
+tetu-Peche94 calls 20
+Arbasoen raises 300 to 320 and is all-in
+_SKR folds
+tetu-Peche94 calls 260 and is all-in
+*** FLOP *** [3c As 8c]
+*** TURN *** [3c As 8c][5c]
+*** RIVER *** [3c As 8c 5c][6s]
+*** SHOW DOWN ***
+tetu-Peche94 shows [Ad Ks] (One pair : Aces)
+Arbasoen shows [9h 9s] (One pair : 9)
+Arbasoen collected 40 from side pot 1
+tetu-Peche94 collected 580 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [3c As 8c 5c 6s]
+Seat 2: tetu-Peche94 (button) showed [Ad Ks] and won 580 with One pair : Aces
+Seat 3: Arbasoen (small blind) showed [9h 9s] and won 40 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696906859620597761-3-1675102903 - Holdem no limit (10/20) - 2023/01/30 18:21:43 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: tetu-Peche94 (580)
+Seat 3: Arbasoen (40)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tetu-Peche94 posts big blind 20
+Dealt to _SKR [3h 2h]
+*** PRE-FLOP *** 
+Arbasoen raises 20 to 40 and is all-in
+_SKR folds
+tetu-Peche94 calls 20
+*** FLOP *** [7h 5s 7s]
+*** TURN *** [7h 5s 7s][7c]
+*** RIVER *** [7h 5s 7s 7c][Qd]
+*** SHOW DOWN ***
+tetu-Peche94 shows [Kh 2s] (Trips of 7)
+Arbasoen shows [Kc 3d] (Trips of 7)
+Arbasoen collected 45 from pot
+tetu-Peche94 collected 45 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [7h 5s 7s 7c Qd]
+Seat 2: tetu-Peche94 (big blind) showed [Kh 2s] and won 45 with Trips of 7
+Seat 3: Arbasoen (button) showed [Kc 3d] and won 45 with Trips of 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696906859620597761-4-1675102916 - Holdem no limit (10/20) - 2023/01/30 18:21:56 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: tetu-Peche94 (585)
+Seat 3: Arbasoen (45)
+*** ANTE/BLINDS ***
+tetu-Peche94 posts small blind 10
+Arbasoen posts big blind 20
+Dealt to _SKR [Qd 9s]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+tetu-Peche94 calls 30
+Arbasoen raises 5 to 45 and is all-in
+_SKR calls 5
+tetu-Peche94 calls 5
+*** FLOP *** [7h 2s 6d]
+tetu-Peche94 checks
+_SKR checks
+*** TURN *** [7h 2s 6d][7s]
+tetu-Peche94 checks
+_SKR checks
+*** RIVER *** [7h 2s 6d 7s][9h]
+tetu-Peche94 checks
+_SKR bets 68
+tetu-Peche94 calls 68
+*** SHOW DOWN ***
+tetu-Peche94 shows [As 4s] (One pair : 7)
+Arbasoen shows [Kd 2d] (Two pairs : 7 and 2)
+_SKR shows [Qd 9s] (Two pairs : 9 and 7)
+_SKR collected 271 from pot
+*** SUMMARY ***
+Total pot 271 | No rake
+Board: [7h 2s 6d 7s 9h]
+Seat 1: _SKR (button) showed [Qd 9s] and won 271 with Two pairs : 9 and 7
+Seat 2: tetu-Peche94 (small blind) showed [As 4s] and lost with One pair : 7
+Seat 3: Arbasoen (big blind) showed [Kd 2d] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696906859620597761-5-1675102947 - Holdem no limit (15/30) - 2023/01/30 18:22:27 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (428)
+Seat 2: tetu-Peche94 (472)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+tetu-Peche94 posts big blind 30
+Dealt to _SKR [4s 9h]
+*** PRE-FLOP *** 
+_SKR folds
+tetu-Peche94 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: tetu-Peche94 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696906859620597761-6-1675102951 - Holdem no limit (15/30) - 2023/01/30 18:22:31 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (413)
+Seat 2: tetu-Peche94 (487)
+*** ANTE/BLINDS ***
+tetu-Peche94 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6d 2c]
+*** PRE-FLOP *** 
+tetu-Peche94 calls 15
+_SKR checks
+*** FLOP *** [3s 4s Jh]
+_SKR checks
+tetu-Peche94 checks
+*** TURN *** [3s 4s Jh][Tc]
+_SKR bets 39
+tetu-Peche94 calls 39
+*** RIVER *** [3s 4s Jh Tc][Ks]
+_SKR bets 69
+tetu-Peche94 folds
+_SKR collected 207 from pot
+*** SUMMARY ***
+Total pot 207 | No rake
+Board: [3s 4s Jh Tc Ks]
+Seat 1: _SKR (big blind) won 207
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696906859620597761-7-1675102967 - Holdem no limit (15/30) - 2023/01/30 18:22:47 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (482)
+Seat 2: tetu-Peche94 (418)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+tetu-Peche94 posts big blind 30
+Dealt to _SKR [As Jd]
+*** PRE-FLOP *** 
+_SKR raises 452 to 482 and is all-in
+tetu-Peche94 folds
+_SKR collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | No rake
+Seat 1: _SKR (small blind) (button) won 512
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696906859620597761-8-1675102973 - Holdem no limit (15/30) - 2023/01/30 18:22:53 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (512)
+Seat 2: tetu-Peche94 (388)
+*** ANTE/BLINDS ***
+tetu-Peche94 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6c 9c]
+*** PRE-FLOP *** 
+tetu-Peche94 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696906859620597761-9-1675102976 - Holdem no limit (15/30) - 2023/01/30 18:22:56 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (527)
+Seat 2: tetu-Peche94 (373)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+tetu-Peche94 posts big blind 30
+Dealt to _SKR [Jh 7h]
+*** PRE-FLOP *** 
+_SKR calls 15
+tetu-Peche94 checks
+*** FLOP *** [5h Ah 6s]
+tetu-Peche94 checks
+_SKR bets 30
+tetu-Peche94 calls 30
+*** TURN *** [5h Ah 6s][8d]
+tetu-Peche94 checks
+_SKR checks
+*** RIVER *** [5h Ah 6s 8d][3s]
+tetu-Peche94 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Jh 7h] (High card : Ace)
+tetu-Peche94 shows [3h 2d] (One pair : 3)
+tetu-Peche94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5h Ah 6s 8d 3s]
+Seat 1: _SKR (small blind) (button) showed [Jh 7h] and lost with High card : Ace
+Seat 2: tetu-Peche94 (big blind) showed [3h 2d] and won 120 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696906859620597761-10-1675102997 - Holdem no limit (20/40) - 2023/01/30 18:23:17 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (467)
+Seat 2: tetu-Peche94 (433)
+*** ANTE/BLINDS ***
+tetu-Peche94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Td 6h]
+*** PRE-FLOP *** 
+tetu-Peche94 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696906859620597761-11-1675103001 - Holdem no limit (20/40) - 2023/01/30 18:23:21 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (487)
+Seat 2: tetu-Peche94 (413)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+tetu-Peche94 posts big blind 40
+Dealt to _SKR [Td 2d]
+*** PRE-FLOP *** 
+_SKR folds
+tetu-Peche94 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: tetu-Peche94 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696906859620597761-12-1675103004 - Holdem no limit (20/40) - 2023/01/30 18:23:24 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (467)
+Seat 2: tetu-Peche94 (433)
+*** ANTE/BLINDS ***
+tetu-Peche94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4h 3d]
+*** PRE-FLOP *** 
+tetu-Peche94 calls 20
+_SKR checks
+*** FLOP *** [9c 7c Kh]
+_SKR checks
+tetu-Peche94 bets 40
+_SKR folds
+tetu-Peche94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9c 7c Kh]
+Seat 2: tetu-Peche94 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696906859620597761-13-1675103012 - Holdem no limit (20/40) - 2023/01/30 18:23:32 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (427)
+Seat 2: tetu-Peche94 (473)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+tetu-Peche94 posts big blind 40
+Dealt to _SKR [Tc Th]
+*** PRE-FLOP *** 
+_SKR raises 387 to 427 and is all-in
+tetu-Peche94 folds
+_SKR collected 467 from pot
+*** SUMMARY ***
+Total pot 467 | No rake
+Seat 1: _SKR (small blind) (button) won 467
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696906859620597761-14-1675103021 - Holdem no limit (20/40) - 2023/01/30 18:23:41 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (467)
+Seat 2: tetu-Peche94 (433)
+*** ANTE/BLINDS ***
+tetu-Peche94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd Kd]
+*** PRE-FLOP *** 
+tetu-Peche94 calls 20
+_SKR raises 427 to 467 and is all-in
+tetu-Peche94 calls 393 and is all-in
+*** FLOP *** [Td 8s 3c]
+*** TURN *** [Td 8s 3c][9s]
+*** RIVER *** [Td 8s 3c 9s][4d]
+*** SHOW DOWN ***
+_SKR shows [Jd Kd] (High card : King)
+tetu-Peche94 shows [Ad Kc] (High card : Ace)
+tetu-Peche94 collected 866 from main pot
+_SKR collected 34 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td 8s 3c 9s 4d]
+Seat 1: _SKR (big blind) showed [Jd Kd] and won 34 with High card : King
+Seat 2: tetu-Peche94 (small blind) (button) showed [Ad Kc] and won 866 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696906859620597761-15-1675103038 - Holdem no limit (20/40) - 2023/01/30 18:23:58 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (34)
+Seat 2: tetu-Peche94 (866)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+tetu-Peche94 posts big blind 40
+Dealt to _SKR [Tc Ks]
+*** PRE-FLOP *** 
+_SKR calls 14 and is all-in
+*** FLOP *** [Ts Ad 9h]
+*** TURN *** [Ts Ad 9h][5s]
+*** RIVER *** [Ts Ad 9h 5s][4h]
+*** SHOW DOWN ***
+_SKR shows [Tc Ks] (One pair : Tens)
+tetu-Peche94 shows [7s Td] (One pair : Tens)
+tetu-Peche94 collected 6 from side pot 1
+_SKR collected 68 from main pot
+*** SUMMARY ***
+Total pot 74 | No rake
+Board: [Ts Ad 9h 5s 4h]
+Seat 1: _SKR (small blind) (button) showed [Tc Ks] and won 68 with One pair : Tens
+Seat 2: tetu-Peche94 (big blind) showed [7s Td] and won 6 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696906859620597761-16-1675103047 - Holdem no limit (20/40) - 2023/01/30 18:24:07 UTC
+Table: 'Expresso Nitro(627922560)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (68)
+Seat 2: tetu-Peche94 (832)
+*** ANTE/BLINDS ***
+tetu-Peche94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ah 4c]
+*** PRE-FLOP *** 
+tetu-Peche94 calls 20
+_SKR raises 28 to 68 and is all-in
+tetu-Peche94 calls 28
+*** FLOP *** [7s 2s Jd]
+*** TURN *** [7s 2s Jd][Jc]
+*** RIVER *** [7s 2s Jd Jc][4d]
+*** SHOW DOWN ***
+_SKR shows [Ah 4c] (Two pairs : Jacks and 4)
+tetu-Peche94 shows [Kd 7c] (Two pairs : Jacks and 7)
+tetu-Peche94 collected 136 from pot
+*** SUMMARY ***
+Total pot 136 | No rake
+Board: [7s 2s Jd Jc 4d]
+Seat 1: _SKR (big blind) showed [Ah 4c] and lost with Two pairs : Jacks and 4
+Seat 2: tetu-Peche94 (small blind) (button) showed [Kd 7c] and won 136 with Two pairs : Jacks and 7
+
+

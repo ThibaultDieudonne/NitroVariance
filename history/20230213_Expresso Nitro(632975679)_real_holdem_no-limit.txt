@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718609840468393985-1-1676291466 - Holdem no limit (10/20) - 2023/02/13 12:31:06 UTC
+Table: 'Expresso Nitro(632975679)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Ass-J (300)
+Seat 3: -_Ney_- (300)
+*** ANTE/BLINDS ***
+-_Ney_- posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 9c]
+*** PRE-FLOP *** 
+Ass-J folds
+-_Ney_- calls 10
+_SKR checks
+*** FLOP *** [3c Kh 9d]
+-_Ney_- bets 20
+_SKR calls 20
+*** TURN *** [3c Kh 9d][7d]
+-_Ney_- bets 20
+_SKR calls 20
+*** RIVER *** [3c Kh 9d 7d][Ac]
+-_Ney_- checks
+_SKR checks
+*** SHOW DOWN ***
+-_Ney_- shows [Qc Jd] (High card : Ace)
+_SKR shows [Js 9c] (One pair : 9)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3c Kh 9d 7d Ac]
+Seat 1: _SKR (big blind) showed [Js 9c] and won 120 with One pair : 9
+Seat 3: -_Ney_- (small blind) showed [Qc Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718609840468393985-2-1676291519 - Holdem no limit (10/20) - 2023/02/13 12:31:59 UTC
+Table: 'Expresso Nitro(632975679)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (360)
+Seat 2: Ass-J (300)
+Seat 3: -_Ney_- (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ass-J posts big blind 20
+Dealt to _SKR [9d 9c]
+*** PRE-FLOP *** 
+-_Ney_- folds
+_SKR raises 340 to 360 and is all-in
+Ass-J folds
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 1: _SKR (small blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718609840468393985-3-1676291534 - Holdem no limit (15/30) - 2023/02/13 12:32:14 UTC
+Table: 'Expresso Nitro(632975679)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (380)
+Seat 2: Ass-J (280)
+Seat 3: -_Ney_- (240)
+*** ANTE/BLINDS ***
+Ass-J posts small blind 15
+-_Ney_- posts big blind 30
+Dealt to _SKR [Jh Ac]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+Ass-J folds
+-_Ney_- raises 180 to 240 and is all-in
+_SKR raises 140 to 380 and is all-in
+*** FLOP *** [Qd Qs 8d]
+*** TURN *** [Qd Qs 8d][3c]
+*** RIVER *** [Qd Qs 8d 3c][Kh]
+*** SHOW DOWN ***
+_SKR shows [Jh Ac] (One pair : Queens)
+-_Ney_- shows [Ad 8c] (Two pairs : Queens and 8)
+-_Ney_- collected 495 from main pot
+_SKR collected 140 from side pot 1
+*** SUMMARY ***
+Total pot 635 | No rake
+Board: [Qd Qs 8d 3c Kh]
+Seat 1: _SKR (button) showed [Jh Ac] and won 140 with One pair : Queens
+Seat 3: -_Ney_- (big blind) showed [Ad 8c] and won 495 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718609840468393985-4-1676291563 - Holdem no limit (15/30) - 2023/02/13 12:32:43 UTC
+Table: 'Expresso Nitro(632975679)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (140)
+Seat 2: Ass-J (265)
+Seat 3: -_Ney_- (495)
+*** ANTE/BLINDS ***
+-_Ney_- posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h 6h]
+*** PRE-FLOP *** 
+Ass-J raises 30 to 60
+-_Ney_- folds
+_SKR calls 30
+*** FLOP *** [Th 7h As]
+_SKR checks
+Ass-J bets 30
+_SKR raises 50 to 80 and is all-in
+Ass-J calls 50
+*** TURN *** [Th 7h As][Tc]
+*** RIVER *** [Th 7h As Tc][Ad]
+*** SHOW DOWN ***
+_SKR shows [9h 6h] (Two pairs : Aces and Tens)
+Ass-J shows [7s Ks] (Two pairs : Aces and Tens)
+Ass-J collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Board: [Th 7h As Tc Ad]
+Seat 1: _SKR (big blind) showed [9h 6h] and lost with Two pairs : Aces and Tens
+Seat 2: Ass-J (button) showed [7s Ks] and won 295 with Two pairs : Aces and Tens
+
+

@@ -1,0 +1,370 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717295747979542529-1-1676216223 - Holdem no limit (10/20) - 2023/02/12 15:37:03 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #1 is the button
+Seat 1: been42 (300)
+Seat 2: Paye-et-saut (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Paye-et-saut posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc 5s]
+*** PRE-FLOP *** 
+been42 calls 20
+Paye-et-saut calls 10
+_SKR checks
+*** FLOP *** [9h 6s 2d]
+Paye-et-saut bets 20
+_SKR folds
+been42 calls 20
+*** TURN *** [9h 6s 2d][Qh]
+Paye-et-saut checks
+been42 bets 20
+Paye-et-saut calls 20
+*** RIVER *** [9h 6s 2d Qh][5d]
+Paye-et-saut checks
+been42 bets 49
+Paye-et-saut folds
+been42 collected 189 from pot
+*** SUMMARY ***
+Total pot 189 | No rake
+Board: [9h 6s 2d Qh 5d]
+Seat 1: been42 (button) won 189
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717295747979542529-2-1676216253 - Holdem no limit (10/20) - 2023/02/12 15:37:33 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #2 is the button
+Seat 1: been42 (380)
+Seat 2: Paye-et-saut (240)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+been42 posts big blind 20
+Dealt to _SKR [Ac 6d]
+*** PRE-FLOP *** 
+Paye-et-saut folds
+_SKR raises 260 to 280 and is all-in
+been42 folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: _SKR (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717295747979542529-3-1676216264 - Holdem no limit (10/20) - 2023/02/12 15:37:44 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #3 is the button
+Seat 1: been42 (360)
+Seat 2: Paye-et-saut (240)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+been42 posts small blind 10
+Paye-et-saut posts big blind 20
+Dealt to _SKR [Qh 4h]
+*** PRE-FLOP *** 
+_SKR folds
+been42 calls 10
+Paye-et-saut checks
+*** FLOP *** [5d 4c 7d]
+been42 checks
+Paye-et-saut bets 220 and is all-in
+been42 folds
+Paye-et-saut collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [5d 4c 7d]
+Seat 2: Paye-et-saut (big blind) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717295747979542529-4-1676216278 - Holdem no limit (10/20) - 2023/02/12 15:37:58 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #1 is the button
+Seat 1: been42 (340)
+Seat 2: Paye-et-saut (260)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Paye-et-saut posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c Tc]
+*** PRE-FLOP *** 
+been42 folds
+Paye-et-saut calls 10
+_SKR checks
+*** FLOP *** [9c Ah 2d]
+Paye-et-saut checks
+_SKR checks
+*** TURN *** [9c Ah 2d][6d]
+Paye-et-saut checks
+_SKR checks
+*** RIVER *** [9c Ah 2d 6d][Qh]
+Paye-et-saut checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [4c Tc] (High card : Ace)
+Paye-et-saut shows [7s Js] (High card : Ace)
+Paye-et-saut collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [9c Ah 2d 6d Qh]
+Seat 2: Paye-et-saut (small blind) showed [7s Js] and won 40 with High card : Ace
+Seat 3: _SKR (big blind) showed [4c Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717295747979542529-5-1676216314 - Holdem no limit (15/30) - 2023/02/12 15:38:34 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #2 is the button
+Seat 1: been42 (340)
+Seat 2: Paye-et-saut (280)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+been42 posts big blind 30
+Dealt to _SKR [4d 5h]
+*** PRE-FLOP *** 
+Paye-et-saut calls 30
+_SKR folds
+been42 checks
+*** FLOP *** [8d 9c 6c]
+been42 checks
+Paye-et-saut checks
+*** TURN *** [8d 9c 6c][Jh]
+been42 checks
+Paye-et-saut checks
+*** RIVER *** [8d 9c 6c Jh][Kc]
+been42 checks
+Paye-et-saut checks
+*** SHOW DOWN ***
+been42 shows [2s 4s] (High card : King)
+Paye-et-saut shows [Qh 2h] (High card : King)
+Paye-et-saut collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [8d 9c 6c Jh Kc]
+Seat 1: been42 (big blind) showed [2s 4s] and lost with High card : King
+Seat 2: Paye-et-saut (button) showed [Qh 2h] and won 75 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717295747979542529-6-1676216337 - Holdem no limit (15/30) - 2023/02/12 15:38:57 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #3 is the button
+Seat 1: been42 (310)
+Seat 2: Paye-et-saut (325)
+Seat 3: _SKR (265)
+*** ANTE/BLINDS ***
+been42 posts small blind 15
+Paye-et-saut posts big blind 30
+Dealt to _SKR [6d Qs]
+*** PRE-FLOP *** 
+_SKR folds
+been42 raises 60 to 90
+Paye-et-saut calls 60
+*** FLOP *** [Tc Qd 2d]
+been42 bets 63
+Paye-et-saut folds
+been42 collected 243 from pot
+*** SUMMARY ***
+Total pot 243 | No rake
+Board: [Tc Qd 2d]
+Seat 1: been42 (small blind) won 243
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717295747979542529-7-1676216348 - Holdem no limit (20/40) - 2023/02/12 15:39:08 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #1 is the button
+Seat 1: been42 (400)
+Seat 2: Paye-et-saut (235)
+Seat 3: _SKR (265)
+*** ANTE/BLINDS ***
+Paye-et-saut posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s 2c]
+*** PRE-FLOP *** 
+been42 folds
+Paye-et-saut folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717295747979542529-8-1676216353 - Holdem no limit (20/40) - 2023/02/12 15:39:13 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #2 is the button
+Seat 1: been42 (400)
+Seat 2: Paye-et-saut (215)
+Seat 3: _SKR (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+been42 posts big blind 40
+Dealt to _SKR [3h Js]
+*** PRE-FLOP *** 
+Paye-et-saut raises 175 to 215 and is all-in
+_SKR folds
+been42 folds
+Paye-et-saut collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Seat 2: Paye-et-saut (button) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717295747979542529-9-1676216361 - Holdem no limit (20/40) - 2023/02/12 15:39:21 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #3 is the button
+Seat 1: been42 (360)
+Seat 2: Paye-et-saut (275)
+Seat 3: _SKR (265)
+*** ANTE/BLINDS ***
+been42 posts small blind 20
+Paye-et-saut posts big blind 40
+Dealt to _SKR [5c Kh]
+*** PRE-FLOP *** 
+_SKR folds
+been42 raises 80 to 120
+Paye-et-saut raises 155 to 275 and is all-in
+been42 calls 155
+*** FLOP *** [4c 7s Ts]
+*** TURN *** [4c 7s Ts][As]
+*** RIVER *** [4c 7s Ts As][Ad]
+*** SHOW DOWN ***
+been42 shows [Td Qs] (Two pairs : Aces and Tens)
+Paye-et-saut shows [Ks Kd] (Two pairs : Aces and Kings)
+Paye-et-saut collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [4c 7s Ts As Ad]
+Seat 1: been42 (small blind) showed [Td Qs] and lost with Two pairs : Aces and Tens
+Seat 2: Paye-et-saut (big blind) showed [Ks Kd] and won 550 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717295747979542529-10-1676216377 - Holdem no limit (20/40) - 2023/02/12 15:39:37 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #1 is the button
+Seat 1: been42 (85)
+Seat 2: Paye-et-saut (550)
+Seat 3: _SKR (265)
+*** ANTE/BLINDS ***
+Paye-et-saut posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2s Ah]
+*** PRE-FLOP *** 
+been42 raises 45 to 85 and is all-in
+Paye-et-saut folds
+_SKR calls 45
+*** FLOP *** [4s 7d 5c]
+*** TURN *** [4s 7d 5c][Ad]
+*** RIVER *** [4s 7d 5c Ad][8c]
+*** SHOW DOWN ***
+been42 shows [Th Kh] (High card : Ace)
+_SKR shows [2s Ah] (One pair : Aces)
+_SKR collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [4s 7d 5c Ad 8c]
+Seat 1: been42 (button) showed [Th Kh] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [2s Ah] and won 190 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717295747979542529-11-1676216392 - Holdem no limit (20/40) - 2023/02/12 15:39:52 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Paye-et-saut (530)
+Seat 3: _SKR (370)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Paye-et-saut posts big blind 40
+Dealt to _SKR [6d Ah]
+*** PRE-FLOP *** 
+_SKR raises 330 to 370 and is all-in
+Paye-et-saut folds
+_SKR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 3: _SKR (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717295747979542529-12-1676216398 - Holdem no limit (20/40) - 2023/02/12 15:39:58 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Paye-et-saut (490)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+Paye-et-saut posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 6d]
+*** PRE-FLOP *** 
+Paye-et-saut folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717295747979542529-13-1676216402 - Holdem no limit (30/60) - 2023/02/12 15:40:02 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Paye-et-saut (470)
+Seat 3: _SKR (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Paye-et-saut posts big blind 60
+Dealt to _SKR [6d 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Paye-et-saut collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Paye-et-saut (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717295747979542529-14-1676216406 - Holdem no limit (30/60) - 2023/02/12 15:40:06 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Paye-et-saut (500)
+Seat 3: _SKR (400)
+*** ANTE/BLINDS ***
+Paye-et-saut posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Th 6s]
+*** PRE-FLOP *** 
+Paye-et-saut folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717295747979542529-15-1676216410 - Holdem no limit (30/60) - 2023/02/12 15:40:10 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Paye-et-saut (470)
+Seat 3: _SKR (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Paye-et-saut posts big blind 60
+Dealt to _SKR [8h Jh]
+*** PRE-FLOP *** 
+_SKR raises 370 to 430 and is all-in
+Paye-et-saut calls 370
+*** FLOP *** [4s Ad 6c]
+*** TURN *** [4s Ad 6c][5h]
+*** RIVER *** [4s Ad 6c 5h][7s]
+*** SHOW DOWN ***
+Paye-et-saut shows [Kd 7h] (One pair : 7)
+_SKR shows [8h Jh] (Straight 8 high)
+_SKR collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [4s Ad 6c 5h 7s]
+Seat 2: Paye-et-saut (big blind) showed [Kd 7h] and lost with One pair : 7
+Seat 3: _SKR (small blind) (button) showed [8h Jh] and won 860 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717295747979542529-16-1676216425 - Holdem no limit (30/60) - 2023/02/12 15:40:25 UTC
+Table: 'Expresso Nitro(632669718)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Paye-et-saut (40)
+Seat 3: _SKR (860)
+*** ANTE/BLINDS ***
+Paye-et-saut posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [6s Th]
+*** PRE-FLOP *** 
+Paye-et-saut calls 10 and is all-in
+*** FLOP *** [4s 8c Td]
+*** TURN *** [4s 8c Td][Kc]
+*** RIVER *** [4s 8c Td Kc][5s]
+*** SHOW DOWN ***
+Paye-et-saut shows [Ah 6c] (High card : Ace)
+_SKR shows [6s Th] (One pair : Tens)
+_SKR collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4s 8c Td Kc 5s]
+Seat 2: Paye-et-saut (small blind) (button) showed [Ah 6c] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [6s Th] and won 100 with One pair : Tens
+
+

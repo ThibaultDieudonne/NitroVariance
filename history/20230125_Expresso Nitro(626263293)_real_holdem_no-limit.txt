@@ -1,0 +1,66 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689780362120265729-1-1674651419 - Holdem no limit (10/20) - 2023/01/25 12:56:59 UTC
+Table: 'Expresso Nitro(626263293)#0' 3-max (real money) Seat #3 is the button
+Seat 1: dent95 (300)
+Seat 2: _SKR (300)
+Seat 3: J.CAPO (300)
+*** ANTE/BLINDS ***
+dent95 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd 6d]
+*** PRE-FLOP *** 
+J.CAPO calls 20
+dent95 folds
+_SKR raises 280 to 300 and is all-in
+J.CAPO folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689780362120265729-2-1674651436 - Holdem no limit (10/20) - 2023/01/25 12:57:16 UTC
+Table: 'Expresso Nitro(626263293)#0' 3-max (real money) Seat #1 is the button
+Seat 1: dent95 (290)
+Seat 2: _SKR (330)
+Seat 3: J.CAPO (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+J.CAPO posts big blind 20
+Dealt to _SKR [Jh 4d]
+*** PRE-FLOP *** 
+dent95 raises 270 to 290 and is all-in
+_SKR folds
+J.CAPO folds
+dent95 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: dent95 (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689780362120265729-3-1674651446 - Holdem no limit (10/20) - 2023/01/25 12:57:26 UTC
+Table: 'Expresso Nitro(626263293)#0' 3-max (real money) Seat #2 is the button
+Seat 1: dent95 (320)
+Seat 2: _SKR (320)
+Seat 3: J.CAPO (260)
+*** ANTE/BLINDS ***
+J.CAPO posts small blind 10
+dent95 posts big blind 20
+Dealt to _SKR [5d Ad]
+*** PRE-FLOP *** 
+_SKR raises 300 to 320 and is all-in
+J.CAPO folds
+dent95 calls 300 and is all-in
+*** FLOP *** [9d Qh Jh]
+*** TURN *** [9d Qh Jh][Th]
+*** RIVER *** [9d Qh Jh Th][2d]
+*** SHOW DOWN ***
+_SKR shows [5d Ad] (High card : Ace)
+dent95 shows [Kd 3d] (Straight King high)
+dent95 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [9d Qh Jh Th 2d]
+Seat 1: dent95 (big blind) showed [Kd 3d] and won 650 with Straight King high
+Seat 2: _SKR (button) showed [5d Ad] and lost with High card : Ace
+
+

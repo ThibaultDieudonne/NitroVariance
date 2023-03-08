@@ -1,0 +1,283 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677101330899664897-1-1673877174 - Holdem no limit (10/20) - 2023/01/16 13:52:54 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vanessa Kade (300)
+Seat 2: _SKR (300)
+Seat 3: AV_Mage0 (300)
+*** ANTE/BLINDS ***
+Vanessa Kade posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d Jc]
+*** PRE-FLOP *** 
+AV_Mage0 folds
+Vanessa Kade calls 10
+_SKR checks
+*** FLOP *** [6c 9d 5s]
+Vanessa Kade bets 20
+_SKR calls 20
+*** TURN *** [6c 9d 5s][Ad]
+Vanessa Kade bets 50
+_SKR folds
+Vanessa Kade collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [6c 9d 5s Ad]
+Seat 1: Vanessa Kade (small blind) won 130
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677101330899664897-2-1673877200 - Holdem no limit (10/20) - 2023/01/16 13:53:20 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vanessa Kade (340)
+Seat 2: _SKR (260)
+Seat 3: AV_Mage0 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AV_Mage0 posts big blind 20
+Dealt to _SKR [2c 9h]
+*** PRE-FLOP *** 
+Vanessa Kade folds
+_SKR folds
+AV_Mage0 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: AV_Mage0 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677101330899664897-3-1673877209 - Holdem no limit (10/20) - 2023/01/16 13:53:29 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vanessa Kade (340)
+Seat 2: _SKR (250)
+Seat 3: AV_Mage0 (310)
+*** ANTE/BLINDS ***
+AV_Mage0 posts small blind 10
+Vanessa Kade posts big blind 20
+Dealt to _SKR [7d As]
+*** PRE-FLOP *** 
+_SKR raises 230 to 250 and is all-in
+AV_Mage0 folds
+Vanessa Kade raises 90 to 340 and is all-in
+*** FLOP *** [6s 2s 5c]
+*** TURN *** [6s 2s 5c][2h]
+*** RIVER *** [6s 2s 5c 2h][7h]
+*** SHOW DOWN ***
+Vanessa Kade shows [Jd Ah] (One pair : 2)
+_SKR shows [7d As] (Two pairs : 7 and 2)
+_SKR collected 510 from main pot
+Vanessa Kade collected 90 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6s 2s 5c 2h 7h]
+Seat 1: Vanessa Kade (big blind) showed [Jd Ah] and won 90 with One pair : 2
+Seat 2: _SKR (button) showed [7d As] and won 510 with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677101330899664897-4-1673877223 - Holdem no limit (10/20) - 2023/01/16 13:53:43 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vanessa Kade (90)
+Seat 2: _SKR (510)
+Seat 3: AV_Mage0 (300)
+*** ANTE/BLINDS ***
+Vanessa Kade posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td 9d]
+*** PRE-FLOP *** 
+AV_Mage0 calls 20
+Vanessa Kade raises 70 to 90 and is all-in
+_SKR folds
+AV_Mage0 calls 70
+*** FLOP *** [4s 9h Ah]
+*** TURN *** [4s 9h Ah][9c]
+*** RIVER *** [4s 9h Ah 9c][4h]
+*** SHOW DOWN ***
+Vanessa Kade shows [7s 5s] (Two pairs : 9 and 4)
+AV_Mage0 shows [6d Ac] (Two pairs : Aces and 9)
+AV_Mage0 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [4s 9h Ah 9c 4h]
+Seat 1: Vanessa Kade (small blind) showed [7s 5s] and lost with Two pairs : 9 and 4
+Seat 3: AV_Mage0 (button) showed [6d Ac] and won 200 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677101330899664897-5-1673877242 - Holdem no limit (15/30) - 2023/01/16 13:54:02 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (490)
+Seat 3: AV_Mage0 (410)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+AV_Mage0 posts big blind 30
+Dealt to _SKR [Qs 9c]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+AV_Mage0 raises 350 to 410 and is all-in
+_SKR folds
+AV_Mage0 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 3: AV_Mage0 (big blind) won 470
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677101330899664897-6-1673877249 - Holdem no limit (15/30) - 2023/01/16 13:54:09 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (430)
+Seat 3: AV_Mage0 (470)
+*** ANTE/BLINDS ***
+AV_Mage0 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c 7s]
+*** PRE-FLOP *** 
+AV_Mage0 calls 15
+_SKR checks
+*** FLOP *** [4d Ks Qd]
+_SKR checks
+AV_Mage0 checks
+*** TURN *** [4d Ks Qd][9c]
+_SKR checks
+AV_Mage0 checks
+*** RIVER *** [4d Ks Qd 9c][Kh]
+_SKR checks
+AV_Mage0 checks
+*** SHOW DOWN ***
+_SKR shows [4c 7s] (Two pairs : Kings and 4)
+AV_Mage0 shows [4h Jh] (Two pairs : Kings and 4)
+AV_Mage0 collected 30 from pot
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [4d Ks Qd 9c Kh]
+Seat 2: _SKR (big blind) showed [4c 7s] and won 30 with Two pairs : Kings and 4
+Seat 3: AV_Mage0 (small blind) (button) showed [4h Jh] and won 30 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677101330899664897-7-1673877282 - Holdem no limit (15/30) - 2023/01/16 13:54:42 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (430)
+Seat 3: AV_Mage0 (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+AV_Mage0 posts big blind 30
+Dealt to _SKR [Jc 9h]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+AV_Mage0 raises 410 to 470 and is all-in
+_SKR folds
+AV_Mage0 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: AV_Mage0 (big blind) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677101330899664897-8-1673877289 - Holdem no limit (15/30) - 2023/01/16 13:54:49 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (370)
+Seat 3: AV_Mage0 (530)
+*** ANTE/BLINDS ***
+AV_Mage0 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2d 4s]
+*** PRE-FLOP *** 
+AV_Mage0 calls 15
+_SKR checks
+*** FLOP *** [Qc 5c 8d]
+_SKR checks
+AV_Mage0 checks
+*** TURN *** [Qc 5c 8d][Td]
+_SKR checks
+AV_Mage0 checks
+*** RIVER *** [Qc 5c 8d Td][9s]
+_SKR checks
+AV_Mage0 bets 30
+_SKR folds
+AV_Mage0 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qc 5c 8d Td 9s]
+Seat 3: AV_Mage0 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677101330899664897-9-1673877314 - Holdem no limit (20/40) - 2023/01/16 13:55:14 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (340)
+Seat 3: AV_Mage0 (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+AV_Mage0 posts big blind 40
+Dealt to _SKR [Qs Qc]
+*** PRE-FLOP *** 
+_SKR calls 20
+AV_Mage0 checks
+*** FLOP *** [7h 4h 6d]
+AV_Mage0 bets 40
+_SKR raises 260 to 300 and is all-in
+AV_Mage0 folds
+_SKR collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [7h 4h 6d]
+Seat 2: _SKR (small blind) (button) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677101330899664897-10-1673877328 - Holdem no limit (20/40) - 2023/01/16 13:55:28 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (420)
+Seat 3: AV_Mage0 (480)
+*** ANTE/BLINDS ***
+AV_Mage0 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Th 7c]
+*** PRE-FLOP *** 
+AV_Mage0 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677101330899664897-11-1673877332 - Holdem no limit (20/40) - 2023/01/16 13:55:32 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (440)
+Seat 3: AV_Mage0 (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+AV_Mage0 posts big blind 40
+Dealt to _SKR [Tc Kd]
+*** PRE-FLOP *** 
+_SKR raises 400 to 440 and is all-in
+AV_Mage0 raises 20 to 460 and is all-in
+*** FLOP *** [4s 4c Ad]
+*** TURN *** [4s 4c Ad][8h]
+*** RIVER *** [4s 4c Ad 8h][Ks]
+*** SHOW DOWN ***
+_SKR shows [Tc Kd] (Two pairs : Kings and 4)
+AV_Mage0 shows [3s 3c] (Two pairs : 4 and 3)
+AV_Mage0 collected 20 from side pot 1
+_SKR collected 880 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 4c Ad 8h Ks]
+Seat 2: _SKR (small blind) (button) showed [Tc Kd] and won 880 with Two pairs : Kings and 4
+Seat 3: AV_Mage0 (big blind) showed [3s 3c] and won 20 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677101330899664897-12-1673877349 - Holdem no limit (20/40) - 2023/01/16 13:55:49 UTC
+Table: 'Expresso Nitro(623311226)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (880)
+Seat 3: AV_Mage0 (20)
+*** ANTE/BLINDS ***
+AV_Mage0 posts small blind 20 and is all-in
+_SKR posts big blind 40
+Dealt to _SKR [9s 2d]
+*** PRE-FLOP *** 
+*** FLOP *** [7c 5s 6s]
+*** TURN *** [7c 5s 6s][2s]
+*** RIVER *** [7c 5s 6s 2s][Ad]
+*** SHOW DOWN ***
+AV_Mage0 shows [4d Jc] (High card : Ace)
+_SKR shows [9s 2d] (One pair : 2)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7c 5s 6s 2s Ad]
+Seat 2: _SKR (big blind) showed [9s 2d] and won 60 with One pair : 2
+Seat 3: AV_Mage0 (small blind) (button) showed [4d Jc] and lost with High card : Ace
+
+

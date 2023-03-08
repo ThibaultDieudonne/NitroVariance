@@ -1,0 +1,268 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666613321410543617-1-1673284948 - Holdem no limit (10/20) - 2023/01/09 17:22:28 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kevendjolann (300)
+Seat 2: Hang_Man (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Kevendjolann posts big blind 20
+Dealt to _SKR [Ad 4s]
+*** PRE-FLOP *** 
+Hang_Man raises 280 to 300 and is all-in
+_SKR folds
+Kevendjolann folds
+Hang_Man collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Hang_Man (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666613321410543617-2-1673284956 - Holdem no limit (10/20) - 2023/01/09 17:22:36 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kevendjolann (280)
+Seat 2: Hang_Man (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Kevendjolann posts small blind 10
+Hang_Man posts big blind 20
+Dealt to _SKR [7c Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Kevendjolann folds
+Hang_Man collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Hang_Man (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666613321410543617-3-1673284962 - Holdem no limit (10/20) - 2023/01/09 17:22:42 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kevendjolann (270)
+Seat 2: Hang_Man (340)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Hang_Man posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 7h]
+*** PRE-FLOP *** 
+Kevendjolann calls 20
+Hang_Man raises 320 to 340 and is all-in
+_SKR folds
+Kevendjolann calls 250 and is all-in
+*** FLOP *** [3s Ad 2h]
+*** TURN *** [3s Ad 2h][5h]
+*** RIVER *** [3s Ad 2h 5h][Jd]
+*** SHOW DOWN ***
+Kevendjolann shows [Ah 6h] (One pair : Aces)
+Hang_Man shows [8d Jh] (One pair : Jacks)
+Hang_Man collected 70 from side pot 1
+Kevendjolann collected 560 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [3s Ad 2h 5h Jd]
+Seat 1: Kevendjolann (button) showed [Ah 6h] and won 560 with One pair : Aces
+Seat 2: Hang_Man (small blind) showed [8d Jh] and won 70 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666613321410543617-4-1673284976 - Holdem no limit (10/20) - 2023/01/09 17:22:56 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kevendjolann (560)
+Seat 2: Hang_Man (70)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Kevendjolann posts big blind 20
+Dealt to _SKR [7c Qd]
+*** PRE-FLOP *** 
+Hang_Man raises 50 to 70 and is all-in
+_SKR folds
+Kevendjolann raises 490 to 560 and is all-in
+*** FLOP *** [7d 5h Qs]
+*** TURN *** [7d 5h Qs][Qc]
+*** RIVER *** [7d 5h Qs Qc][3s]
+*** SHOW DOWN ***
+Hang_Man shows [Th Jc] (One pair : Queens)
+Kevendjolann shows [9h 9c] (Two pairs : Queens and 9)
+Kevendjolann collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [7d 5h Qs Qc 3s]
+Seat 1: Kevendjolann (big blind) showed [9h 9c] and won 640 with Two pairs : Queens and 9
+Seat 2: Hang_Man (button) showed [Th Jc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666613321410543617-5-1673284997 - Holdem no limit (10/20) - 2023/01/09 17:23:17 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kevendjolann (640)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Kevendjolann posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td Ac]
+*** PRE-FLOP *** 
+Kevendjolann calls 10
+_SKR raises 240 to 260 and is all-in
+Kevendjolann calls 240
+*** FLOP *** [Jc 5d Ah]
+*** TURN *** [Jc 5d Ah][8s]
+*** RIVER *** [Jc 5d Ah 8s][Js]
+*** SHOW DOWN ***
+Kevendjolann shows [6c Kh] (One pair : Jacks)
+_SKR shows [Td Ac] (Two pairs : Aces and Jacks)
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Jc 5d Ah 8s Js]
+Seat 1: Kevendjolann (small blind) (button) showed [6c Kh] and lost with One pair : Jacks
+Seat 3: _SKR (big blind) showed [Td Ac] and won 520 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666613321410543617-6-1673285012 - Holdem no limit (15/30) - 2023/01/09 17:23:32 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kevendjolann (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Kevendjolann posts big blind 30
+Dealt to _SKR [4s Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Kevendjolann collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Kevendjolann (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666613321410543617-7-1673285017 - Holdem no limit (15/30) - 2023/01/09 17:23:37 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kevendjolann (395)
+Seat 3: _SKR (505)
+*** ANTE/BLINDS ***
+Kevendjolann posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7h 3h]
+*** PRE-FLOP *** 
+Kevendjolann calls 15
+_SKR checks
+*** FLOP *** [Jh 8c Js]
+_SKR checks
+Kevendjolann bets 39
+_SKR folds
+Kevendjolann collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [Jh 8c Js]
+Seat 1: Kevendjolann (small blind) (button) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666613321410543617-8-1673285036 - Holdem no limit (15/30) - 2023/01/09 17:23:56 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kevendjolann (425)
+Seat 3: _SKR (475)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Kevendjolann posts big blind 30
+Dealt to _SKR [7h 4h]
+*** PRE-FLOP *** 
+_SKR calls 15
+Kevendjolann raises 395 to 425 and is all-in
+_SKR folds
+Kevendjolann collected 455 from pot
+*** SUMMARY ***
+Total pot 455 | No rake
+Seat 1: Kevendjolann (big blind) won 455
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666613321410543617-9-1673285052 - Holdem no limit (15/30) - 2023/01/09 17:24:12 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kevendjolann (455)
+Seat 3: _SKR (445)
+*** ANTE/BLINDS ***
+Kevendjolann posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qd 9d]
+*** PRE-FLOP *** 
+Kevendjolann calls 15
+_SKR raises 30 to 60
+Kevendjolann calls 30
+*** FLOP *** [8c Ks Tc]
+_SKR bets 60
+Kevendjolann calls 60
+*** TURN *** [8c Ks Tc][Jc]
+_SKR bets 325 and is all-in
+Kevendjolann folds
+_SKR collected 565 from pot
+*** SUMMARY ***
+Total pot 565 | No rake
+Board: [8c Ks Tc Jc]
+Seat 3: _SKR (big blind) won 565
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2666613321410543617-10-1673285075 - Holdem no limit (20/40) - 2023/01/09 17:24:35 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kevendjolann (335)
+Seat 3: _SKR (565)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Kevendjolann posts big blind 40
+Dealt to _SKR [7s Qh]
+*** PRE-FLOP *** 
+_SKR raises 525 to 565 and is all-in
+Kevendjolann calls 295 and is all-in
+*** FLOP *** [8d Kc 9s]
+*** TURN *** [8d Kc 9s][Tc]
+*** RIVER *** [8d Kc 9s Tc][4d]
+*** SHOW DOWN ***
+Kevendjolann shows [Js Ac] (High card : Ace)
+_SKR shows [7s Qh] (High card : King)
+_SKR collected 230 from side pot 1
+Kevendjolann collected 670 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d Kc 9s Tc 4d]
+Seat 1: Kevendjolann (big blind) showed [Js Ac] and won 670 with High card : Ace
+Seat 3: _SKR (small blind) (button) showed [7s Qh] and won 230 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2666613321410543617-11-1673285089 - Holdem no limit (20/40) - 2023/01/09 17:24:49 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kevendjolann (670)
+Seat 3: _SKR (230)
+*** ANTE/BLINDS ***
+Kevendjolann posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9s 6s]
+*** PRE-FLOP *** 
+Kevendjolann raises 630 to 670 and is all-in
+_SKR folds
+Kevendjolann collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Seat 1: Kevendjolann (small blind) (button) won 710
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2666613321410543617-12-1673285095 - Holdem no limit (20/40) - 2023/01/09 17:24:55 UTC
+Table: 'Expresso Nitro(620869296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kevendjolann (710)
+Seat 3: _SKR (190)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Kevendjolann posts big blind 40
+Dealt to _SKR [7s Qh]
+*** PRE-FLOP *** 
+_SKR raises 150 to 190 and is all-in
+Kevendjolann calls 150
+*** FLOP *** [Ah 4d Td]
+*** TURN *** [Ah 4d Td][Tc]
+*** RIVER *** [Ah 4d Td Tc][8h]
+*** SHOW DOWN ***
+_SKR shows [7s Qh] (One pair : Tens)
+Kevendjolann shows [Ks 8c] (Two pairs : Tens and 8)
+Kevendjolann collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Ah 4d Td Tc 8h]
+Seat 1: Kevendjolann (big blind) showed [Ks 8c] and won 380 with Two pairs : Tens and 8
+Seat 3: _SKR (small blind) (button) showed [7s Qh] and lost with One pair : Tens
+
+

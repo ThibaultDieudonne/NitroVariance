@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696911768768217089-1-1675103074 - Holdem no limit (10/20) - 2023/01/30 18:24:34 UTC
+Table: 'Expresso Nitro(627923703)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: MGM97 (300)
+Seat 3: Kingfish9100 (300)
+*** ANTE/BLINDS ***
+Kingfish9100 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h Kc]
+*** PRE-FLOP *** 
+MGM97 calls 20
+Kingfish9100 folds
+_SKR checks
+*** FLOP *** [2h Kd 6h]
+_SKR bets 25
+MGM97 folds
+_SKR collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [2h Kd 6h]
+Seat 1: _SKR (big blind) won 75
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696911768768217089-2-1675103090 - Holdem no limit (10/20) - 2023/01/30 18:24:50 UTC
+Table: 'Expresso Nitro(627923703)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 2: MGM97 (280)
+Seat 3: Kingfish9100 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MGM97 posts big blind 20
+Dealt to _SKR [4c 3c]
+*** PRE-FLOP *** 
+Kingfish9100 folds
+_SKR folds
+MGM97 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MGM97 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696911768768217089-3-1675103096 - Holdem no limit (10/20) - 2023/01/30 18:24:56 UTC
+Table: 'Expresso Nitro(627923703)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 2: MGM97 (290)
+Seat 3: Kingfish9100 (290)
+*** ANTE/BLINDS ***
+MGM97 posts small blind 10
+Kingfish9100 posts big blind 20
+Dealt to _SKR [Ks 5h]
+*** PRE-FLOP *** 
+_SKR folds
+MGM97 calls 10
+Kingfish9100 checks
+*** FLOP *** [9s Js 8c]
+MGM97 checks
+Kingfish9100 checks
+*** TURN *** [9s Js 8c][Ad]
+MGM97 checks
+Kingfish9100 checks
+*** RIVER *** [9s Js 8c Ad][Jc]
+MGM97 bets 20
+Kingfish9100 folds
+MGM97 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9s Js 8c Ad Jc]
+Seat 2: MGM97 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696911768768217089-4-1675103116 - Holdem no limit (10/20) - 2023/01/30 18:25:16 UTC
+Table: 'Expresso Nitro(627923703)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (320)
+Seat 2: MGM97 (310)
+Seat 3: Kingfish9100 (270)
+*** ANTE/BLINDS ***
+Kingfish9100 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h Th]
+*** PRE-FLOP *** 
+MGM97 calls 20
+Kingfish9100 calls 10
+_SKR checks
+*** FLOP *** [4c 2c Ks]
+Kingfish9100 checks
+_SKR checks
+MGM97 bets 21
+Kingfish9100 folds
+_SKR folds
+MGM97 collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [4c 2c Ks]
+Seat 2: MGM97 (button) won 81
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696911768768217089-5-1675103135 - Holdem no limit (15/30) - 2023/01/30 18:25:35 UTC
+Table: 'Expresso Nitro(627923703)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: MGM97 (350)
+Seat 3: Kingfish9100 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+MGM97 posts big blind 30
+Dealt to _SKR [Kd Js]
+*** PRE-FLOP *** 
+Kingfish9100 calls 30
+_SKR raises 270 to 300 and is all-in
+MGM97 calls 270
+Kingfish9100 folds
+*** FLOP *** [5c 3s 9s]
+*** TURN *** [5c 3s 9s][7d]
+*** RIVER *** [5c 3s 9s 7d][2d]
+*** SHOW DOWN ***
+_SKR shows [Kd Js] (High card : King)
+MGM97 shows [Ac 7c] (One pair : 7)
+MGM97 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [5c 3s 9s 7d 2d]
+Seat 1: _SKR (small blind) showed [Kd Js] and lost with High card : King
+Seat 2: MGM97 (big blind) showed [Ac 7c] and won 630 with One pair : 7
+
+

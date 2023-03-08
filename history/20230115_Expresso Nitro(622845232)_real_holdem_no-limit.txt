@@ -1,0 +1,121 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675099901909532673-1-1673744358 - Holdem no limit (10/20) - 2023/01/15 00:59:18 UTC
+Table: 'Expresso Nitro(622845232)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kengo_rms (300)
+Seat 2: -EnPLS- (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Kengo_rms posts small blind 10
+-EnPLS- posts big blind 20
+Dealt to _SKR [3c Ac]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Kengo_rms folds
+-EnPLS- folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675099901909532673-2-1673744379 - Holdem no limit (10/20) - 2023/01/15 00:59:39 UTC
+Table: 'Expresso Nitro(622845232)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kengo_rms (290)
+Seat 2: -EnPLS- (280)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+-EnPLS- posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td 5h]
+*** PRE-FLOP *** 
+Kengo_rms raises 20 to 40
+-EnPLS- folds
+_SKR folds
+Kengo_rms collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: Kengo_rms (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675099901909532673-3-1673744391 - Holdem no limit (10/20) - 2023/01/15 00:59:51 UTC
+Table: 'Expresso Nitro(622845232)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kengo_rms (320)
+Seat 2: -EnPLS- (270)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Kengo_rms posts big blind 20
+Dealt to _SKR [Ks 9s]
+*** PRE-FLOP *** 
+-EnPLS- folds
+_SKR raises 20 to 40
+Kengo_rms folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675099901909532673-4-1673744398 - Holdem no limit (10/20) - 2023/01/15 00:59:58 UTC
+Table: 'Expresso Nitro(622845232)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kengo_rms (300)
+Seat 2: -EnPLS- (270)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+Kengo_rms posts small blind 10
+-EnPLS- posts big blind 20
+Dealt to _SKR [Kd Ts]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Kengo_rms folds
+-EnPLS- calls 20
+*** FLOP *** [6c 9c 8s]
+-EnPLS- checks
+_SKR bets 32
+-EnPLS- calls 32
+*** TURN *** [6c 9c 8s][Ad]
+-EnPLS- checks
+_SKR bets 77
+-EnPLS- calls 77
+*** RIVER *** [6c 9c 8s Ad][8h]
+-EnPLS- checks
+_SKR bets 181 and is all-in
+-EnPLS- calls 121 and is all-in
+*** SHOW DOWN ***
+-EnPLS- shows [Ac 7s] (Two pairs : Aces and 8)
+_SKR shows [Kd Ts] (One pair : 8)
+_SKR collected 60 from side pot 1
+-EnPLS- collected 550 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [6c 9c 8s Ad 8h]
+Seat 2: -EnPLS- (big blind) showed [Ac 7s] and won 550 with Two pairs : Aces and 8
+Seat 3: _SKR (button) showed [Kd Ts] and won 60 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675099901909532673-5-1673744420 - Holdem no limit (15/30) - 2023/01/15 01:00:20 UTC
+Table: 'Expresso Nitro(622845232)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kengo_rms (290)
+Seat 2: -EnPLS- (550)
+Seat 3: _SKR (60)
+*** ANTE/BLINDS ***
+-EnPLS- posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4d 5s]
+*** PRE-FLOP *** 
+Kengo_rms raises 260 to 290 and is all-in
+-EnPLS- folds
+_SKR calls 30 and is all-in
+*** FLOP *** [Kc Js 7d]
+*** TURN *** [Kc Js 7d][3c]
+*** RIVER *** [Kc Js 7d 3c][8h]
+*** SHOW DOWN ***
+_SKR shows [4d 5s] (High card : King)
+Kengo_rms shows [8s 8d] (Trips of 8)
+Kengo_rms collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Board: [Kc Js 7d 3c 8h]
+Seat 1: Kengo_rms (button) showed [8s 8d] and won 365 with Trips of 8
+Seat 3: _SKR (big blind) showed [4d 5s] and lost with High card : King
+
+

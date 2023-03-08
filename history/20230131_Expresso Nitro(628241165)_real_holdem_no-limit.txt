@@ -1,0 +1,73 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698275257675939841-1-1675188454 - Holdem no limit (10/20) - 2023/01/31 18:07:34 UTC
+Table: 'Expresso Nitro(628241165)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jpiquetsous (300)
+Seat 2: Robertum (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+jpiquetsous posts big blind 20
+Dealt to _SKR [Qs Jh]
+*** PRE-FLOP *** 
+Robertum folds
+_SKR raises 280 to 300 and is all-in
+jpiquetsous folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: _SKR (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698275257675939841-2-1675188463 - Holdem no limit (10/20) - 2023/01/31 18:07:43 UTC
+Table: 'Expresso Nitro(628241165)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jpiquetsous (280)
+Seat 2: Robertum (300)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+jpiquetsous posts small blind 10
+Robertum posts big blind 20
+Dealt to _SKR [Ts As]
+*** PRE-FLOP *** 
+_SKR raises 300 to 320 and is all-in
+jpiquetsous folds
+Robertum calls 280 and is all-in
+*** FLOP *** [7s Qc Jh]
+*** TURN *** [7s Qc Jh][9s]
+*** RIVER *** [7s Qc Jh 9s][Tc]
+*** SHOW DOWN ***
+Robertum shows [Qs Ad] (One pair : Queens)
+_SKR shows [Ts As] (One pair : Tens)
+_SKR collected 20 from side pot 1
+Robertum collected 610 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [7s Qc Jh 9s Tc]
+Seat 2: Robertum (big blind) showed [Qs Ad] and won 610 with One pair : Queens
+Seat 3: _SKR (button) showed [Ts As] and won 20 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698275257675939841-3-1675188477 - Holdem no limit (10/20) - 2023/01/31 18:07:57 UTC
+Table: 'Expresso Nitro(628241165)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jpiquetsous (270)
+Seat 2: Robertum (610)
+Seat 3: _SKR (20)
+*** ANTE/BLINDS ***
+Robertum posts small blind 10
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [Qh 9d]
+*** PRE-FLOP *** 
+jpiquetsous folds
+Robertum calls 10
+*** FLOP *** [8c Jh 4c]
+*** TURN *** [8c Jh 4c][7s]
+*** RIVER *** [8c Jh 4c 7s][5c]
+*** SHOW DOWN ***
+_SKR shows [Qh 9d] (High card : Queen)
+Robertum shows [3c Jd] (One pair : Jacks)
+Robertum collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [8c Jh 4c 7s 5c]
+Seat 2: Robertum (small blind) showed [3c Jd] and won 40 with One pair : Jacks
+Seat 3: _SKR (big blind) showed [Qh 9d] and lost with High card : Queen
+
+

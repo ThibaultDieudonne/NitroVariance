@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729101960241217537-1-1676900715 - Holdem no limit (10/20) - 2023/02/20 13:45:15 UTC
+Table: 'Expresso Nitro(635418566)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Balou95130 (300)
+Seat 2: _SKR (300)
+Seat 3: Angers sco49 (300)
+*** ANTE/BLINDS ***
+Angers sco49 posts small blind 10
+Balou95130 posts big blind 20
+Dealt to _SKR [Jh 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Angers sco49 calls 10
+Balou95130 checks
+*** FLOP *** [3c 5c Td]
+Angers sco49 checks
+Balou95130 checks
+*** TURN *** [3c 5c Td][Ts]
+Angers sco49 checks
+Balou95130 checks
+*** RIVER *** [3c 5c Td Ts][Tc]
+Angers sco49 checks
+Balou95130 checks
+*** SHOW DOWN ***
+Balou95130 shows [8c 2s] (Trips of Tens)
+Angers sco49 shows [Qc 4d] (Trips of Tens)
+Angers sco49 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [3c 5c Td Ts Tc]
+Seat 1: Balou95130 (big blind) showed [8c 2s] and lost with Trips of Tens
+Seat 3: Angers sco49 (small blind) showed [Qc 4d] and won 40 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729101960241217537-2-1676900734 - Holdem no limit (10/20) - 2023/02/20 13:45:34 UTC
+Table: 'Expresso Nitro(635418566)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Balou95130 (280)
+Seat 2: _SKR (300)
+Seat 3: Angers sco49 (320)
+*** ANTE/BLINDS ***
+Balou95130 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h 7c]
+*** PRE-FLOP *** 
+Angers sco49 calls 20
+Balou95130 calls 10
+_SKR checks
+*** FLOP *** [Td 3d Jc]
+Balou95130 checks
+_SKR checks
+Angers sco49 checks
+*** TURN *** [Td 3d Jc][Jd]
+Balou95130 bets 20
+_SKR folds
+Angers sco49 calls 20
+*** RIVER *** [Td 3d Jc Jd][6s]
+Balou95130 bets 20
+Angers sco49 folds
+Balou95130 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Td 3d Jc Jd 6s]
+Seat 1: Balou95130 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729101960241217537-3-1676900769 - Holdem no limit (10/20) - 2023/02/20 13:46:09 UTC
+Table: 'Expresso Nitro(635418566)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Balou95130 (340)
+Seat 2: _SKR (280)
+Seat 3: Angers sco49 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Angers sco49 posts big blind 20
+Dealt to _SKR [4c 8d]
+*** PRE-FLOP *** 
+Balou95130 calls 20
+_SKR folds
+Angers sco49 checks
+*** FLOP *** [4s Kh 4h]
+Angers sco49 checks
+Balou95130 checks
+*** TURN *** [4s Kh 4h][Ac]
+Angers sco49 checks
+Balou95130 checks
+*** RIVER *** [4s Kh 4h Ac][2c]
+Angers sco49 checks
+Balou95130 checks
+*** SHOW DOWN ***
+Balou95130 shows [8s 6d] (One pair : 4)
+Angers sco49 shows [5s 5d] (Two pairs : 5 and 4)
+Angers sco49 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [4s Kh 4h Ac 2c]
+Seat 1: Balou95130 (button) showed [8s 6d] and lost with One pair : 4
+Seat 3: Angers sco49 (big blind) showed [5s 5d] and won 50 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729101960241217537-4-1676900824 - Holdem no limit (15/30) - 2023/02/20 13:47:04 UTC
+Table: 'Expresso Nitro(635418566)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Balou95130 (320)
+Seat 2: _SKR (270)
+Seat 3: Angers sco49 (310)
+*** ANTE/BLINDS ***
+Angers sco49 posts small blind 15
+Balou95130 posts big blind 30
+Dealt to _SKR [6c 6h]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+Angers sco49 folds
+Balou95130 calls 240
+*** FLOP *** [Js Ts 4s]
+*** TURN *** [Js Ts 4s][Ad]
+*** RIVER *** [Js Ts 4s Ad][5d]
+*** SHOW DOWN ***
+_SKR shows [6c 6h] (One pair : 6)
+Balou95130 shows [Jh Kd] (One pair : Jacks)
+Balou95130 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [Js Ts 4s Ad 5d]
+Seat 1: Balou95130 (big blind) showed [Jh Kd] and won 555 with One pair : Jacks
+Seat 2: _SKR (button) showed [6c 6h] and lost with One pair : 6
+
+

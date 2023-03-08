@@ -1,0 +1,201 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674139448437899265-1-1673703005 - Holdem no limit (10/20) - 2023/01/14 13:30:05 UTC
+Table: 'Expresso Nitro(622621609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vslide (300)
+Seat 2: _SKR (300)
+Seat 3: CrazyHateKQ6 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+CrazyHateKQ6 posts big blind 20
+Dealt to _SKR [Ah 7d]
+*** PRE-FLOP *** 
+Vslide folds
+_SKR raises 280 to 300 and is all-in
+CrazyHateKQ6 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674139448437899265-2-1673703014 - Holdem no limit (10/20) - 2023/01/14 13:30:14 UTC
+Table: 'Expresso Nitro(622621609)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vslide (300)
+Seat 2: _SKR (320)
+Seat 3: CrazyHateKQ6 (280)
+*** ANTE/BLINDS ***
+CrazyHateKQ6 posts small blind 10
+Vslide posts big blind 20
+Dealt to _SKR [Qh 8c]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+CrazyHateKQ6 calls 30
+Vslide calls 20
+*** FLOP *** [6h 7d 6s]
+CrazyHateKQ6 bets 60
+Vslide calls 60
+_SKR folds
+*** TURN *** [6h 7d 6s][9c]
+CrazyHateKQ6 bets 79
+Vslide calls 79
+*** RIVER *** [6h 7d 6s 9c][3s]
+CrazyHateKQ6 bets 20
+Vslide calls 20
+*** SHOW DOWN ***
+CrazyHateKQ6 shows [7h Td] (Two pairs : 7 and 6)
+Vslide shows [9h 8d] (Two pairs : 9 and 6)
+Vslide collected 438 from pot
+*** SUMMARY ***
+Total pot 438 | No rake
+Board: [6h 7d 6s 9c 3s]
+Seat 1: Vslide (big blind) showed [9h 8d] and won 438 with Two pairs : 9 and 6
+Seat 3: CrazyHateKQ6 (small blind) showed [7h Td] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674139448437899265-3-1673703075 - Holdem no limit (15/30) - 2023/01/14 13:31:15 UTC
+Table: 'Expresso Nitro(622621609)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vslide (539)
+Seat 2: _SKR (280)
+Seat 3: CrazyHateKQ6 (81)
+*** ANTE/BLINDS ***
+Vslide posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c As]
+*** PRE-FLOP *** 
+CrazyHateKQ6 calls 30
+Vslide folds
+_SKR raises 250 to 280 and is all-in
+CrazyHateKQ6 calls 51 and is all-in
+*** FLOP *** [7h 8s 3d]
+*** TURN *** [7h 8s 3d][Kc]
+*** RIVER *** [7h 8s 3d Kc][9c]
+*** SHOW DOWN ***
+_SKR shows [4c As] (High card : Ace)
+CrazyHateKQ6 shows [4h Ks] (One pair : Kings)
+CrazyHateKQ6 collected 177 from main pot
+_SKR collected 199 from side pot 1
+*** SUMMARY ***
+Total pot 376 | No rake
+Board: [7h 8s 3d Kc 9c]
+Seat 2: _SKR (big blind) showed [4c As] and won 199 with High card : Ace
+Seat 3: CrazyHateKQ6 (button) showed [4h Ks] and won 177 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674139448437899265-4-1673703109 - Holdem no limit (15/30) - 2023/01/14 13:31:49 UTC
+Table: 'Expresso Nitro(622621609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vslide (524)
+Seat 2: _SKR (199)
+Seat 3: CrazyHateKQ6 (177)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+CrazyHateKQ6 posts big blind 30
+Dealt to _SKR [9h 7s]
+*** PRE-FLOP *** 
+Vslide calls 30
+_SKR folds
+CrazyHateKQ6 raises 147 to 177 and is all-in
+Vslide calls 147
+*** FLOP *** [3d 8s 4s]
+*** TURN *** [3d 8s 4s][6h]
+*** RIVER *** [3d 8s 4s 6h][3c]
+*** SHOW DOWN ***
+CrazyHateKQ6 shows [Jc Td] (One pair : 3)
+Vslide shows [Ac 8h] (Two pairs : 8 and 3)
+Vslide collected 369 from pot
+*** SUMMARY ***
+Total pot 369 | No rake
+Board: [3d 8s 4s 6h 3c]
+Seat 1: Vslide (button) showed [Ac 8h] and won 369 with Two pairs : 8 and 3
+Seat 3: CrazyHateKQ6 (big blind) showed [Jc Td] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674139448437899265-5-1673703134 - Holdem no limit (20/40) - 2023/01/14 13:32:14 UTC
+Table: 'Expresso Nitro(622621609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vslide (716)
+Seat 2: _SKR (184)
+*** ANTE/BLINDS ***
+Vslide posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6h 9c]
+*** PRE-FLOP *** 
+Vslide folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674139448437899265-6-1673703138 - Holdem no limit (20/40) - 2023/01/14 13:32:18 UTC
+Table: 'Expresso Nitro(622621609)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vslide (696)
+Seat 2: _SKR (204)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Vslide posts big blind 40
+Dealt to _SKR [5h 7h]
+*** PRE-FLOP *** 
+_SKR raises 164 to 204 and is all-in
+Vslide folds
+_SKR collected 244 from pot
+*** SUMMARY ***
+Total pot 244 | No rake
+Seat 2: _SKR (small blind) (button) won 244
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674139448437899265-7-1673703144 - Holdem no limit (20/40) - 2023/01/14 13:32:24 UTC
+Table: 'Expresso Nitro(622621609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vslide (656)
+Seat 2: _SKR (244)
+*** ANTE/BLINDS ***
+Vslide posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2s 9h]
+*** PRE-FLOP *** 
+Vslide folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674139448437899265-8-1673703149 - Holdem no limit (20/40) - 2023/01/14 13:32:29 UTC
+Table: 'Expresso Nitro(622621609)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vslide (636)
+Seat 2: _SKR (264)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Vslide posts big blind 40
+Dealt to _SKR [Th 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Vslide collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Vslide (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674139448437899265-9-1673703152 - Holdem no limit (20/40) - 2023/01/14 13:32:32 UTC
+Table: 'Expresso Nitro(622621609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vslide (656)
+Seat 2: _SKR (244)
+*** ANTE/BLINDS ***
+Vslide posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac Qc]
+*** PRE-FLOP *** 
+Vslide calls 20
+_SKR raises 204 to 244 and is all-in
+Vslide calls 204
+*** FLOP *** [9d 9c Td]
+*** TURN *** [9d 9c Td][7d]
+*** RIVER *** [9d 9c Td 7d][6s]
+*** SHOW DOWN ***
+_SKR shows [Ac Qc] (One pair : 9)
+Vslide shows [Kh 8h] (Straight Ten high)
+Vslide collected 488 from pot
+*** SUMMARY ***
+Total pot 488 | No rake
+Board: [9d 9c Td 7d 6s]
+Seat 1: Vslide (small blind) (button) showed [Kh 8h] and won 488 with Straight Ten high
+Seat 2: _SKR (big blind) showed [Ac Qc] and lost with One pair : 9
+
+

@@ -1,0 +1,84 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696562240034701313-1-1675087157 - Holdem no limit (10/20) - 2023/01/30 13:59:17 UTC
+Table: 'Expresso Nitro(627842322)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Qbi1973 (300)
+Seat 3: wmx-zodcje (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Qbi1973 posts big blind 20
+Dealt to _SKR [3s Ad]
+*** PRE-FLOP *** 
+wmx-zodcje raises 40 to 60
+_SKR folds
+Qbi1973 calls 40
+*** FLOP *** [Kc 9s 3c]
+Qbi1973 checks
+wmx-zodcje bets 85
+Qbi1973 folds
+wmx-zodcje collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Board: [Kc 9s 3c]
+Seat 3: wmx-zodcje (button) won 215
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696562240034701313-2-1675087171 - Holdem no limit (10/20) - 2023/01/30 13:59:31 UTC
+Table: 'Expresso Nitro(627842322)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Qbi1973 (240)
+Seat 3: wmx-zodcje (370)
+*** ANTE/BLINDS ***
+Qbi1973 posts small blind 10
+wmx-zodcje posts big blind 20
+Dealt to _SKR [2d Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Qbi1973 calls 10
+wmx-zodcje checks
+*** FLOP *** [2c 5h 9d]
+Qbi1973 checks
+wmx-zodcje bets 26
+Qbi1973 calls 26
+*** TURN *** [2c 5h 9d][9s]
+Qbi1973 checks
+wmx-zodcje bets 60
+Qbi1973 raises 134 to 194 and is all-in
+wmx-zodcje calls 134
+*** RIVER *** [2c 5h 9d 9s][7s]
+*** SHOW DOWN ***
+Qbi1973 shows [Ac 4d] (One pair : 9)
+wmx-zodcje shows [5c 4s] (Two pairs : 9 and 5)
+wmx-zodcje collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [2c 5h 9d 9s 7s]
+Seat 2: Qbi1973 (small blind) showed [Ac 4d] and lost with One pair : 9
+Seat 3: wmx-zodcje (big blind) showed [5c 4s] and won 480 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696562240034701313-3-1675087216 - Holdem no limit (15/30) - 2023/01/30 14:00:16 UTC
+Table: 'Expresso Nitro(627842322)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 3: wmx-zodcje (610)
+*** ANTE/BLINDS ***
+wmx-zodcje posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd 8h]
+*** PRE-FLOP *** 
+wmx-zodcje raises 60 to 90
+_SKR raises 200 to 290 and is all-in
+wmx-zodcje calls 200
+*** FLOP *** [2s 5d 8s]
+*** TURN *** [2s 5d 8s][Ah]
+*** RIVER *** [2s 5d 8s Ah][3d]
+*** SHOW DOWN ***
+_SKR shows [Kd 8h] (One pair : 8)
+wmx-zodcje shows [Ac 7s] (One pair : Aces)
+wmx-zodcje collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [2s 5d 8s Ah 3d]
+Seat 1: _SKR (big blind) showed [Kd 8h] and lost with One pair : 8
+Seat 3: wmx-zodcje (small blind) (button) showed [Ac 7s] and won 580 with One pair : Aces
+
+

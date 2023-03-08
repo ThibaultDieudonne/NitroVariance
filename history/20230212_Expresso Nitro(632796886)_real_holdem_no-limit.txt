@@ -1,0 +1,174 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717841930380640257-1-1676237300 - Holdem no limit (10/20) - 2023/02/12 21:28:20 UTC
+Table: 'Expresso Nitro(632796886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fonckr (300)
+Seat 2: _SKR (300)
+Seat 3: Gyptian fyah (300)
+*** ANTE/BLINDS ***
+Gyptian fyah posts small blind 10
+fonckr posts big blind 20
+Dealt to _SKR [Td 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Gyptian fyah calls 10
+fonckr checks
+*** FLOP *** [8c 6c 3h]
+Gyptian fyah checks
+fonckr checks
+*** TURN *** [8c 6c 3h][Ts]
+Gyptian fyah checks
+fonckr checks
+*** RIVER *** [8c 6c 3h Ts][4h]
+Gyptian fyah bets 26
+fonckr calls 26
+*** SHOW DOWN ***
+fonckr shows [2s Ks] (High card : King)
+Gyptian fyah shows [6h 4d] (Two pairs : 6 and 4)
+Gyptian fyah collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [8c 6c 3h Ts 4h]
+Seat 1: fonckr (big blind) showed [2s Ks] and lost with High card : King
+Seat 3: Gyptian fyah (small blind) showed [6h 4d] and won 92 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717841930380640257-2-1676237327 - Holdem no limit (10/20) - 2023/02/12 21:28:47 UTC
+Table: 'Expresso Nitro(632796886)#0' 3-max (real money) Seat #3 is the button
+Seat 1: fonckr (254)
+Seat 2: _SKR (300)
+Seat 3: Gyptian fyah (346)
+*** ANTE/BLINDS ***
+fonckr posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h 6h]
+*** PRE-FLOP *** 
+Gyptian fyah raises 50 to 70
+fonckr folds
+_SKR folds
+Gyptian fyah collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: Gyptian fyah (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717841930380640257-3-1676237336 - Holdem no limit (10/20) - 2023/02/12 21:28:56 UTC
+Table: 'Expresso Nitro(632796886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fonckr (244)
+Seat 2: _SKR (280)
+Seat 3: Gyptian fyah (376)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Gyptian fyah posts big blind 20
+Dealt to _SKR [Ah 8c]
+*** PRE-FLOP *** 
+fonckr calls 20
+_SKR raises 260 to 280 and is all-in
+Gyptian fyah folds
+fonckr calls 224 and is all-in
+*** FLOP *** [2s 5h 6h]
+*** TURN *** [2s 5h 6h][3c]
+*** RIVER *** [2s 5h 6h 3c][Tc]
+*** SHOW DOWN ***
+fonckr shows [Ad 4d] (Straight 6 high)
+_SKR shows [Ah 8c] (High card : Ace)
+_SKR collected 36 from side pot 1
+fonckr collected 508 from main pot
+*** SUMMARY ***
+Total pot 544 | No rake
+Board: [2s 5h 6h 3c Tc]
+Seat 1: fonckr (button) showed [Ad 4d] and won 508 with Straight 6 high
+Seat 2: _SKR (small blind) showed [Ah 8c] and won 36 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717841930380640257-4-1676237355 - Holdem no limit (10/20) - 2023/02/12 21:29:15 UTC
+Table: 'Expresso Nitro(632796886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fonckr (508)
+Seat 2: _SKR (36)
+Seat 3: Gyptian fyah (356)
+*** ANTE/BLINDS ***
+Gyptian fyah posts small blind 10
+fonckr posts big blind 20
+Dealt to _SKR [Ac 8s]
+*** PRE-FLOP *** 
+_SKR raises 16 to 36 and is all-in
+Gyptian fyah calls 26
+fonckr calls 16
+*** FLOP *** [Jc Js 3h]
+Gyptian fyah checks
+fonckr checks
+*** TURN *** [Jc Js 3h][Qc]
+Gyptian fyah checks
+fonckr checks
+*** RIVER *** [Jc Js 3h Qc][8h]
+Gyptian fyah checks
+fonckr checks
+*** SHOW DOWN ***
+fonckr shows [5h 7c] (One pair : Jacks)
+Gyptian fyah shows [7d Tc] (One pair : Jacks)
+_SKR shows [Ac 8s] (Two pairs : Jacks and 8)
+_SKR collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [Jc Js 3h Qc 8h]
+Seat 1: fonckr (big blind) showed [5h 7c] and lost with One pair : Jacks
+Seat 2: _SKR (button) showed [Ac 8s] and won 108 with Two pairs : Jacks and 8
+Seat 3: Gyptian fyah (small blind) showed [7d Tc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717841930380640257-5-1676237375 - Holdem no limit (15/30) - 2023/02/12 21:29:35 UTC
+Table: 'Expresso Nitro(632796886)#0' 3-max (real money) Seat #3 is the button
+Seat 1: fonckr (472)
+Seat 2: _SKR (108)
+Seat 3: Gyptian fyah (320)
+*** ANTE/BLINDS ***
+fonckr posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6c 7c]
+*** PRE-FLOP *** 
+Gyptian fyah raises 75 to 105
+fonckr raises 367 to 472 and is all-in
+_SKR folds
+Gyptian fyah calls 215 and is all-in
+*** FLOP *** [8s Qh 5s]
+*** TURN *** [8s Qh 5s][Qd]
+*** RIVER *** [8s Qh 5s Qd][3s]
+*** SHOW DOWN ***
+fonckr shows [Kh 6h] (One pair : Queens)
+Gyptian fyah shows [Kd Js] (One pair : Queens)
+Gyptian fyah collected 670 from main pot
+fonckr collected 152 from side pot 1
+*** SUMMARY ***
+Total pot 822 | No rake
+Board: [8s Qh 5s Qd 3s]
+Seat 1: fonckr (small blind) showed [Kh 6h] and won 152 with One pair : Queens
+Seat 3: Gyptian fyah (button) showed [Kd Js] and won 670 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717841930380640257-6-1676237389 - Holdem no limit (15/30) - 2023/02/12 21:29:49 UTC
+Table: 'Expresso Nitro(632796886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fonckr (152)
+Seat 2: _SKR (78)
+Seat 3: Gyptian fyah (670)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Gyptian fyah posts big blind 30
+Dealt to _SKR [3c Kd]
+*** PRE-FLOP *** 
+fonckr raises 122 to 152 and is all-in
+_SKR calls 63 and is all-in
+Gyptian fyah calls 122
+*** FLOP *** [9s Qs 3h]
+*** TURN *** [9s Qs 3h][Tc]
+*** RIVER *** [9s Qs 3h Tc][2d]
+*** SHOW DOWN ***
+fonckr shows [4d 4c] (One pair : 4)
+_SKR shows [3c Kd] (One pair : 3)
+Gyptian fyah shows [Jh Qd] (One pair : Queens)
+Gyptian fyah collected 382 from pot
+*** SUMMARY ***
+Total pot 382 | No rake
+Board: [9s Qs 3h Tc 2d]
+Seat 1: fonckr (button) showed [4d 4c] and lost with One pair : 4
+Seat 2: _SKR (small blind) showed [3c Kd] and lost with One pair : 3
+Seat 3: Gyptian fyah (big blind) showed [Jh Qd] and won 382 with One pair : Queens
+
+

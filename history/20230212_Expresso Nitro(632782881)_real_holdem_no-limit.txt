@@ -1,0 +1,123 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717781779363659777-1-1676235264 - Holdem no limit (10/20) - 2023/02/12 20:54:24 UTC
+Table: 'Expresso Nitro(632782881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: erwidow (300)
+Seat 2: _SKR (300)
+Seat 3: didi97.13 (300)
+*** ANTE/BLINDS ***
+didi97.13 posts small blind 10
+erwidow posts big blind 20
+Dealt to _SKR [4s 6h]
+*** PRE-FLOP *** 
+_SKR folds
+didi97.13 calls 10
+erwidow checks
+*** FLOP *** [3c 4c Qc]
+didi97.13 bets 20
+erwidow calls 20
+*** TURN *** [3c 4c Qc][3s]
+didi97.13 bets 20
+erwidow folds
+didi97.13 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [3c 4c Qc 3s]
+Seat 3: didi97.13 (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717781779363659777-2-1676235277 - Holdem no limit (10/20) - 2023/02/12 20:54:37 UTC
+Table: 'Expresso Nitro(632782881)#0' 3-max (real money) Seat #3 is the button
+Seat 1: erwidow (260)
+Seat 2: _SKR (300)
+Seat 3: didi97.13 (340)
+*** ANTE/BLINDS ***
+erwidow posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c 8s]
+*** PRE-FLOP *** 
+didi97.13 calls 20
+erwidow raises 60 to 80
+_SKR raises 220 to 300 and is all-in
+didi97.13 calls 280
+erwidow calls 180 and is all-in
+*** FLOP *** [Kc 9h Qs]
+*** TURN *** [Kc 9h Qs][Kd]
+*** RIVER *** [Kc 9h Qs Kd][5c]
+*** SHOW DOWN ***
+erwidow shows [2c 2d] (Two pairs : Kings and 2)
+didi97.13 shows [Th Ac] (One pair : Kings)
+_SKR shows [8c 8s] (Two pairs : Kings and 8)
+_SKR collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [Kc 9h Qs Kd 5c]
+Seat 1: erwidow (small blind) showed [2c 2d] and lost with Two pairs : Kings and 2
+Seat 2: _SKR (big blind) showed [8c 8s] and won 860 with Two pairs : Kings and 8
+Seat 3: didi97.13 (button) showed [Th Ac] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717781779363659777-3-1676235295 - Holdem no limit (10/20) - 2023/02/12 20:54:55 UTC
+Table: 'Expresso Nitro(632782881)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (860)
+Seat 3: didi97.13 (40)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+didi97.13 posts big blind 20
+Dealt to _SKR [8c 3d]
+*** PRE-FLOP *** 
+_SKR folds
+didi97.13 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: didi97.13 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717781779363659777-4-1676235298 - Holdem no limit (10/20) - 2023/02/12 20:54:58 UTC
+Table: 'Expresso Nitro(632782881)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (850)
+Seat 3: didi97.13 (50)
+*** ANTE/BLINDS ***
+didi97.13 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 2c]
+*** PRE-FLOP *** 
+didi97.13 raises 30 to 50 and is all-in
+_SKR calls 30
+*** FLOP *** [8h 4c Js]
+*** TURN *** [8h 4c Js][Td]
+*** RIVER *** [8h 4c Js Td][4s]
+*** SHOW DOWN ***
+_SKR shows [Qh 2c] (One pair : 4)
+didi97.13 shows [Kc 6h] (One pair : 4)
+didi97.13 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [8h 4c Js Td 4s]
+Seat 2: _SKR (big blind) showed [Qh 2c] and lost with One pair : 4
+Seat 3: didi97.13 (small blind) (button) showed [Kc 6h] and won 100 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717781779363659777-5-1676235311 - Holdem no limit (10/20) - 2023/02/12 20:55:11 UTC
+Table: 'Expresso Nitro(632782881)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (800)
+Seat 3: didi97.13 (100)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+didi97.13 posts big blind 20
+Dealt to _SKR [Ad 9d]
+*** PRE-FLOP *** 
+_SKR raises 780 to 800 and is all-in
+didi97.13 calls 80 and is all-in
+*** FLOP *** [Ah 7s Qs]
+*** TURN *** [Ah 7s Qs][4d]
+*** RIVER *** [Ah 7s Qs 4d][Jh]
+*** SHOW DOWN ***
+didi97.13 shows [3c 3h] (One pair : 3)
+_SKR shows [Ad 9d] (One pair : Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ah 7s Qs 4d Jh]
+Seat 2: _SKR (small blind) (button) showed [Ad 9d] and won 900 with One pair : Aces
+Seat 3: didi97.13 (big blind) showed [3c 3h] and lost with One pair : 3
+
+

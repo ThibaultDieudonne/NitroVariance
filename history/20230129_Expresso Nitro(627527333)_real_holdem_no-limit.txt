@@ -1,0 +1,100 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695209372581101569-1-1675000051 - Holdem no limit (10/20) - 2023/01/29 13:47:31 UTC
+Table: 'Expresso Nitro(627527333)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: mjesus27 (300)
+Seat 3: Albpok (300)
+*** ANTE/BLINDS ***
+Albpok posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d Ad]
+*** PRE-FLOP *** 
+mjesus27 calls 20
+Albpok folds
+_SKR raises 280 to 300 and is all-in
+mjesus27 calls 280 and is all-in
+*** FLOP *** [6d 2c Td]
+*** TURN *** [6d 2c Td][7d]
+*** RIVER *** [6d 2c Td 7d][4h]
+*** SHOW DOWN ***
+mjesus27 shows [Js Kc] (High card : King)
+_SKR shows [3d Ad] (Flush Ace high)
+_SKR collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [6d 2c Td 7d 4h]
+Seat 1: _SKR (big blind) showed [3d Ad] and won 610 with Flush Ace high
+Seat 2: mjesus27 (button) showed [Js Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695209372581101569-2-1675000081 - Holdem no limit (10/20) - 2023/01/29 13:48:01 UTC
+Table: 'Expresso Nitro(627527333)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (610)
+Seat 3: Albpok (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Albpok posts big blind 20
+Dealt to _SKR [8c 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Albpok collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Albpok (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695209372581101569-3-1675000088 - Holdem no limit (10/20) - 2023/01/29 13:48:08 UTC
+Table: 'Expresso Nitro(627527333)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (600)
+Seat 3: Albpok (300)
+*** ANTE/BLINDS ***
+Albpok posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c Qc]
+*** PRE-FLOP *** 
+Albpok calls 10
+_SKR checks
+*** FLOP *** [Jh 3d 9h]
+_SKR checks
+Albpok checks
+*** TURN *** [Jh 3d 9h][Kc]
+_SKR checks
+Albpok checks
+*** RIVER *** [Jh 3d 9h Kc][Ts]
+_SKR bets 26
+Albpok calls 26
+*** SHOW DOWN ***
+Albpok shows [8c 7d] (Straight Jack high)
+_SKR shows [6c Qc] (Straight King high)
+_SKR collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [Jh 3d 9h Kc Ts]
+Seat 1: _SKR (big blind) showed [6c Qc] and won 92 with Straight King high
+Seat 3: Albpok (small blind) (button) showed [8c 7d] and lost with Straight Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695209372581101569-4-1675000124 - Holdem no limit (15/30) - 2023/01/29 13:48:44 UTC
+Table: 'Expresso Nitro(627527333)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (646)
+Seat 3: Albpok (254)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Albpok posts big blind 30
+Dealt to _SKR [9d Ac]
+*** PRE-FLOP *** 
+_SKR raises 616 to 646 and is all-in
+Albpok calls 224 and is all-in
+*** FLOP *** [6c 2c 9c]
+*** TURN *** [6c 2c 9c][Kc]
+*** RIVER *** [6c 2c 9c Kc][6s]
+*** SHOW DOWN ***
+Albpok shows [7d Qc] (Flush King high)
+_SKR shows [9d Ac] (Flush Ace high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c 2c 9c Kc 6s]
+Seat 1: _SKR (small blind) (button) showed [9d Ac] and won 900 with Flush Ace high
+Seat 3: Albpok (big blind) showed [7d Qc] and lost with Flush King high
+
+

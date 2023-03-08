@@ -1,0 +1,138 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661423927175151617-1-1673012550 - Holdem no limit (10/20) - 2023/01/06 13:42:30 UTC
+Table: 'Expresso Nitro(619661046)#0' 3-max (real money) Seat #1 is the button
+Seat 1: gazmax52 (300)
+Seat 2: triste 52121 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+triste 52121 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 3d]
+*** PRE-FLOP *** 
+gazmax52 calls 20
+triste 52121 folds
+_SKR raises 280 to 300 and is all-in
+gazmax52 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661423927175151617-2-1673012565 - Holdem no limit (10/20) - 2023/01/06 13:42:45 UTC
+Table: 'Expresso Nitro(619661046)#0' 3-max (real money) Seat #2 is the button
+Seat 1: gazmax52 (280)
+Seat 2: triste 52121 (290)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+gazmax52 posts big blind 20
+Dealt to _SKR [4s As]
+*** PRE-FLOP *** 
+triste 52121 raises 30 to 50
+_SKR folds
+gazmax52 calls 30
+*** FLOP *** [9s 3s 5s]
+gazmax52 bets 20
+triste 52121 raises 20 to 40
+gazmax52 calls 20
+*** TURN *** [9s 3s 5s][8d]
+gazmax52 checks
+triste 52121 checks
+*** RIVER *** [9s 3s 5s 8d][Ad]
+gazmax52 checks
+triste 52121 checks
+*** SHOW DOWN ***
+gazmax52 shows [Tc Js] (High card : Ace)
+triste 52121 shows [Qd Jh] (High card : Ace)
+triste 52121 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [9s 3s 5s 8d Ad]
+Seat 1: gazmax52 (big blind) showed [Tc Js] and lost with High card : Ace
+Seat 2: triste 52121 (button) showed [Qd Jh] and won 190 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661423927175151617-3-1673012595 - Holdem no limit (10/20) - 2023/01/06 13:43:15 UTC
+Table: 'Expresso Nitro(619661046)#0' 3-max (real money) Seat #3 is the button
+Seat 1: gazmax52 (190)
+Seat 2: triste 52121 (390)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+gazmax52 posts small blind 10
+triste 52121 posts big blind 20
+Dealt to _SKR [Kc Td]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+gazmax52 calls 30
+triste 52121 raises 20 to 60
+_SKR calls 20
+gazmax52 calls 20
+*** FLOP *** [Kd Ac 5c]
+gazmax52 checks
+triste 52121 checks
+_SKR checks
+*** TURN *** [Kd Ac 5c][8d]
+gazmax52 checks
+triste 52121 bets 63
+_SKR calls 63
+gazmax52 calls 63
+*** RIVER *** [Kd Ac 5c 8d][Th]
+gazmax52 checks
+triste 52121 bets 267 and is all-in
+_SKR calls 197 and is all-in
+gazmax52 calls 67 and is all-in
+*** SHOW DOWN ***
+gazmax52 shows [6h 4c] (High card : Ace)
+triste 52121 shows [As 2d] (One pair : Aces)
+_SKR shows [Kc Td] (Two pairs : Kings and Tens)
+_SKR collected 830 from main pot
+triste 52121 collected 70 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd Ac 5c 8d Th]
+Seat 1: gazmax52 (small blind) showed [6h 4c] and lost with High card : Ace
+Seat 2: triste 52121 (big blind) showed [As 2d] and won 70 with One pair : Aces
+Seat 3: _SKR (button) showed [Kc Td] and won 830 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661423927175151617-4-1673012629 - Holdem no limit (15/30) - 2023/01/06 13:43:49 UTC
+Table: 'Expresso Nitro(619661046)#0' 3-max (real money) Seat #2 is the button
+Seat 2: triste 52121 (70)
+Seat 3: _SKR (830)
+*** ANTE/BLINDS ***
+triste 52121 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd Ac]
+*** PRE-FLOP *** 
+triste 52121 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661423927175151617-5-1673012637 - Holdem no limit (15/30) - 2023/01/06 13:43:57 UTC
+Table: 'Expresso Nitro(619661046)#0' 3-max (real money) Seat #3 is the button
+Seat 2: triste 52121 (55)
+Seat 3: _SKR (845)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+triste 52121 posts big blind 30
+Dealt to _SKR [2s Ac]
+*** PRE-FLOP *** 
+_SKR raises 815 to 845 and is all-in
+triste 52121 calls 25 and is all-in
+*** FLOP *** [Qh Jh As]
+*** TURN *** [Qh Jh As][7s]
+*** RIVER *** [Qh Jh As 7s][8s]
+*** SHOW DOWN ***
+triste 52121 shows [4s 7c] (One pair : 7)
+_SKR shows [2s Ac] (One pair : Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qh Jh As 7s 8s]
+Seat 2: triste 52121 (big blind) showed [4s 7c] and lost with One pair : 7
+Seat 3: _SKR (small blind) (button) showed [2s Ac] and won 900 with One pair : Aces
+
+

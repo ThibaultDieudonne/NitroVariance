@@ -1,0 +1,70 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676360195638034433-1-1673821291 - Holdem no limit (10/20) - 2023/01/15 22:21:31 UTC
+Table: 'Expresso Nitro(623138667)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Volkanix (300)
+Seat 3: crazyboymac (300)
+*** ANTE/BLINDS ***
+crazyboymac posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 6s]
+*** PRE-FLOP *** 
+Volkanix folds
+crazyboymac calls 10
+_SKR raises 280 to 300 and is all-in
+crazyboymac calls 280 and is all-in
+*** FLOP *** [3s Kd Qs]
+*** TURN *** [3s Kd Qs][7s]
+*** RIVER *** [3s Kd Qs 7s][Kh]
+*** SHOW DOWN ***
+crazyboymac shows [Ac Jd] (One pair : Kings)
+_SKR shows [6h 6s] (Two pairs : Kings and 6)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3s Kd Qs 7s Kh]
+Seat 1: _SKR (big blind) showed [6h 6s] and won 600 with Two pairs : Kings and 6
+Seat 3: crazyboymac (small blind) showed [Ac Jd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676360195638034433-2-1673821309 - Holdem no limit (10/20) - 2023/01/15 22:21:49 UTC
+Table: 'Expresso Nitro(623138667)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 2: Volkanix (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Volkanix posts big blind 20
+Dealt to _SKR [4h 8d]
+*** PRE-FLOP *** 
+_SKR folds
+Volkanix collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Volkanix (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676360195638034433-3-1673821314 - Holdem no limit (10/20) - 2023/01/15 22:21:54 UTC
+Table: 'Expresso Nitro(623138667)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (590)
+Seat 2: Volkanix (310)
+*** ANTE/BLINDS ***
+Volkanix posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th As]
+*** PRE-FLOP *** 
+Volkanix raises 40 to 60
+_SKR raises 530 to 590 and is all-in
+Volkanix calls 250 and is all-in
+*** FLOP *** [5h Ks Qd]
+*** TURN *** [5h Ks Qd][7s]
+*** RIVER *** [5h Ks Qd 7s][7c]
+*** SHOW DOWN ***
+Volkanix shows [Jd 3d] (One pair : 7)
+_SKR shows [Th As] (One pair : 7)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h Ks Qd 7s 7c]
+Seat 1: _SKR (big blind) showed [Th As] and won 900 with One pair : 7
+Seat 2: Volkanix (small blind) (button) showed [Jd 3d] and lost with One pair : 7
+
+

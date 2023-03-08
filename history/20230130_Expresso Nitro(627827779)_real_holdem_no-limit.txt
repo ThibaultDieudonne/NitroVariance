@@ -1,0 +1,30 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696499778325315585-1-1675083537 - Holdem no limit (10/20) - 2023/01/30 12:58:57 UTC
+Table: 'Expresso Nitro(627827779)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bambysso95 (300)
+Seat 2: Manon. 42 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Bambysso95 posts small blind 10
+Manon. 42 posts big blind 20
+Dealt to _SKR [Td Ac]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Bambysso95 raises 260 to 300 and is all-in
+Manon. 42 calls 280 and is all-in
+_SKR calls 260 and is all-in
+*** FLOP *** [6d 2h Kd]
+*** TURN *** [6d 2h Kd][2d]
+*** RIVER *** [6d 2h Kd 2d][8d]
+*** SHOW DOWN ***
+Manon. 42 shows [8c Ks] (Two pairs : Kings and 8)
+_SKR shows [Td Ac] (Flush King high)
+Bambysso95 shows [Ad 2c] (Flush Ace high)
+Bambysso95 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 2h Kd 2d 8d]
+Seat 1: Bambysso95 (small blind) showed [Ad 2c] and won 900 with Flush Ace high
+Seat 2: Manon. 42 (big blind) showed [8c Ks] and lost with Two pairs : Kings and 8
+Seat 3: _SKR (button) showed [Td Ac] and lost with Flush King high
+
+

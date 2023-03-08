@@ -1,0 +1,129 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694469792097632257-1-1674941606 - Holdem no limit (10/20) - 2023/01/28 21:33:26 UTC
+Table: 'Expresso Nitro(627355136)#0' 3-max (real money) Seat #2 is the button
+Seat 1: xBigPoppaX (300)
+Seat 2: _SKR (300)
+Seat 3: papillons62 (300)
+*** ANTE/BLINDS ***
+papillons62 posts small blind 10
+xBigPoppaX posts big blind 20
+Dealt to _SKR [5d 4s]
+*** PRE-FLOP *** 
+_SKR folds
+papillons62 calls 10
+xBigPoppaX checks
+*** FLOP *** [Tc 9d 6s]
+papillons62 checks
+xBigPoppaX checks
+*** TURN *** [Tc 9d 6s][8c]
+papillons62 checks
+xBigPoppaX checks
+*** RIVER *** [Tc 9d 6s 8c][Ks]
+papillons62 checks
+xBigPoppaX checks
+*** SHOW DOWN ***
+papillons62 shows [4h Js] (High card : King)
+xBigPoppaX shows [8h 2c] (One pair : 8)
+xBigPoppaX collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Tc 9d 6s 8c Ks]
+Seat 1: xBigPoppaX (big blind) showed [8h 2c] and won 40 with One pair : 8
+Seat 3: papillons62 (small blind) showed [4h Js] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694469792097632257-2-1674941640 - Holdem no limit (10/20) - 2023/01/28 21:34:00 UTC
+Table: 'Expresso Nitro(627355136)#0' 3-max (real money) Seat #3 is the button
+Seat 1: xBigPoppaX (320)
+Seat 2: _SKR (300)
+Seat 3: papillons62 (280)
+*** ANTE/BLINDS ***
+xBigPoppaX posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks Qs]
+*** PRE-FLOP *** 
+papillons62 raises 20 to 40
+xBigPoppaX folds
+_SKR raises 260 to 300 and is all-in
+papillons62 calls 240 and is all-in
+*** FLOP *** [Jc Js 2s]
+*** TURN *** [Jc Js 2s][3s]
+*** RIVER *** [Jc Js 2s 3s][3c]
+*** SHOW DOWN ***
+papillons62 shows [Ad As] (Two pairs : Aces and Jacks)
+_SKR shows [Ks Qs] (Flush King high)
+_SKR collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Jc Js 2s 3s 3c]
+Seat 2: _SKR (big blind) showed [Ks Qs] and won 590 with Flush King high
+Seat 3: papillons62 (button) showed [Ad As] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694469792097632257-3-1674941662 - Holdem no limit (15/30) - 2023/01/28 21:34:22 UTC
+Table: 'Expresso Nitro(627355136)#0' 3-max (real money) Seat #2 is the button
+Seat 1: xBigPoppaX (310)
+Seat 2: _SKR (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+xBigPoppaX posts big blind 30
+Dealt to _SKR [6c Kc]
+*** PRE-FLOP *** 
+_SKR raises 560 to 590 and is all-in
+xBigPoppaX calls 280 and is all-in
+*** FLOP *** [8h Qh 4c]
+*** TURN *** [8h Qh 4c][Js]
+*** RIVER *** [8h Qh 4c Js][9d]
+*** SHOW DOWN ***
+xBigPoppaX shows [Kh Ts] (Straight King high)
+_SKR shows [6c Kc] (High card : King)
+_SKR collected 280 from side pot 1
+xBigPoppaX collected 620 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h Qh 4c Js 9d]
+Seat 1: xBigPoppaX (big blind) showed [Kh Ts] and won 620 with Straight King high
+Seat 2: _SKR (small blind) (button) showed [6c Kc] and won 280 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694469792097632257-4-1674941682 - Holdem no limit (15/30) - 2023/01/28 21:34:42 UTC
+Table: 'Expresso Nitro(627355136)#0' 3-max (real money) Seat #1 is the button
+Seat 1: xBigPoppaX (620)
+Seat 2: _SKR (280)
+*** ANTE/BLINDS ***
+xBigPoppaX posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h 5h]
+*** PRE-FLOP *** 
+xBigPoppaX raises 30 to 60
+_SKR folds
+xBigPoppaX collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: xBigPoppaX (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694469792097632257-5-1674941695 - Holdem no limit (15/30) - 2023/01/28 21:34:55 UTC
+Table: 'Expresso Nitro(627355136)#0' 3-max (real money) Seat #2 is the button
+Seat 1: xBigPoppaX (650)
+Seat 2: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+xBigPoppaX posts big blind 30
+Dealt to _SKR [9c Qs]
+*** PRE-FLOP *** 
+_SKR raises 220 to 250 and is all-in
+xBigPoppaX calls 220
+*** FLOP *** [Jd 6d Jc]
+*** TURN *** [Jd 6d Jc][As]
+*** RIVER *** [Jd 6d Jc As][Kh]
+*** SHOW DOWN ***
+_SKR shows [9c Qs] (One pair : Jacks)
+xBigPoppaX shows [Qd Td] (Straight Ace high)
+xBigPoppaX collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Jd 6d Jc As Kh]
+Seat 1: xBigPoppaX (big blind) showed [Qd Td] and won 500 with Straight Ace high
+Seat 2: _SKR (small blind) (button) showed [9c Qs] and lost with One pair : Jacks
+
+

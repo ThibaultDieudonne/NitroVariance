@@ -1,0 +1,352 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692545784187977729-1-1674829928 - Holdem no limit (10/20) - 2023/01/27 14:32:08 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Scrooty (300)
+Seat 2: _SKR (300)
+Seat 3: Shereen.M-L (300)
+*** ANTE/BLINDS ***
+Scrooty posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 2c]
+*** PRE-FLOP *** 
+Shereen.M-L folds
+Scrooty calls 10
+_SKR checks
+*** FLOP *** [7d 5d Th]
+Scrooty bets 40
+_SKR folds
+Scrooty collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7d 5d Th]
+Seat 1: Scrooty (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692545784187977729-2-1674829945 - Holdem no limit (10/20) - 2023/01/27 14:32:25 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scrooty (320)
+Seat 2: _SKR (280)
+Seat 3: Shereen.M-L (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Shereen.M-L posts big blind 20
+Dealt to _SKR [Jh 7d]
+*** PRE-FLOP *** 
+Scrooty calls 20
+_SKR folds
+Shereen.M-L checks
+*** FLOP *** [Jc Ah Qs]
+Shereen.M-L bets 280 and is all-in
+Scrooty folds
+Shereen.M-L collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Jc Ah Qs]
+Seat 3: Shereen.M-L (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692545784187977729-3-1674829957 - Holdem no limit (10/20) - 2023/01/27 14:32:37 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Scrooty (300)
+Seat 2: _SKR (270)
+Seat 3: Shereen.M-L (330)
+*** ANTE/BLINDS ***
+Shereen.M-L posts small blind 10
+Scrooty posts big blind 20
+Dealt to _SKR [3d 3c]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Shereen.M-L calls 260
+Scrooty folds
+*** FLOP *** [Ah Tc 9d]
+*** TURN *** [Ah Tc 9d][3s]
+*** RIVER *** [Ah Tc 9d 3s][5d]
+*** SHOW DOWN ***
+Shereen.M-L shows [8s As] (One pair : Aces)
+_SKR shows [3d 3c] (Trips of 3)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Ah Tc 9d 3s 5d]
+Seat 2: _SKR (button) showed [3d 3c] and won 560 with Trips of 3
+Seat 3: Shereen.M-L (small blind) showed [8s As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692545784187977729-4-1674829982 - Holdem no limit (10/20) - 2023/01/27 14:33:02 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Scrooty (280)
+Seat 2: _SKR (560)
+Seat 3: Shereen.M-L (60)
+*** ANTE/BLINDS ***
+Scrooty posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Tc]
+*** PRE-FLOP *** 
+Shereen.M-L calls 20
+Scrooty raises 260 to 280 and is all-in
+_SKR folds
+Shereen.M-L calls 40 and is all-in
+*** FLOP *** [5s 2d Js]
+*** TURN *** [5s 2d Js][2s]
+*** RIVER *** [5s 2d Js 2s][4s]
+*** SHOW DOWN ***
+Scrooty shows [Kh Qh] (One pair : 2)
+Shereen.M-L shows [9c As] (Flush Ace high)
+Shereen.M-L collected 140 from main pot
+Scrooty collected 220 from side pot 1
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [5s 2d Js 2s 4s]
+Seat 1: Scrooty (small blind) showed [Kh Qh] and won 220 with One pair : 2
+Seat 3: Shereen.M-L (button) showed [9c As] and won 140 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692545784187977729-5-1674829999 - Holdem no limit (15/30) - 2023/01/27 14:33:19 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scrooty (220)
+Seat 2: _SKR (540)
+Seat 3: Shereen.M-L (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Shereen.M-L posts big blind 30
+Dealt to _SKR [6h As]
+*** PRE-FLOP *** 
+Scrooty calls 30
+_SKR raises 510 to 540 and is all-in
+Shereen.M-L calls 110 and is all-in
+Scrooty folds
+*** FLOP *** [5d 5s Td]
+*** TURN *** [5d 5s Td][Ad]
+*** RIVER *** [5d 5s Td Ad][Qd]
+*** SHOW DOWN ***
+_SKR shows [6h As] (Two pairs : Aces and 5)
+Shereen.M-L shows [7c Ac] (Two pairs : Aces and 5)
+Shereen.M-L collected 155 from main pot
+_SKR collected 555 from side pot 1
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [5d 5s Td Ad Qd]
+Seat 2: _SKR (small blind) showed [6h As] and won 555 with Two pairs : Aces and 5
+Seat 3: Shereen.M-L (big blind) showed [7c Ac] and won 155 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692545784187977729-6-1674830020 - Holdem no limit (15/30) - 2023/01/27 14:33:40 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Scrooty (190)
+Seat 2: _SKR (555)
+Seat 3: Shereen.M-L (155)
+*** ANTE/BLINDS ***
+Shereen.M-L posts small blind 15
+Scrooty posts big blind 30
+Dealt to _SKR [7c Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Shereen.M-L raises 125 to 155 and is all-in
+Scrooty calls 125
+*** FLOP *** [Tc 3s Qs]
+*** TURN *** [Tc 3s Qs][Ac]
+*** RIVER *** [Tc 3s Qs Ac][Td]
+*** SHOW DOWN ***
+Shereen.M-L shows [6c 6s] (Two pairs : Tens and 6)
+Scrooty shows [Ad Jc] (Two pairs : Aces and Tens)
+Scrooty collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [Tc 3s Qs Ac Td]
+Seat 1: Scrooty (big blind) showed [Ad Jc] and won 310 with Two pairs : Aces and Tens
+Seat 3: Shereen.M-L (small blind) showed [6c 6s] and lost with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692545784187977729-7-1674830044 - Holdem no limit (20/40) - 2023/01/27 14:34:04 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scrooty (345)
+Seat 2: _SKR (555)
+*** ANTE/BLINDS ***
+Scrooty posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc Jh]
+*** PRE-FLOP *** 
+Scrooty raises 80 to 120
+_SKR calls 80
+*** FLOP *** [3d 2s 9d]
+_SKR checks
+Scrooty bets 225 and is all-in
+_SKR folds
+Scrooty collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Board: [3d 2s 9d]
+Seat 1: Scrooty (small blind) (button) won 465
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692545784187977729-8-1674830058 - Holdem no limit (20/40) - 2023/01/27 14:34:18 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Scrooty (465)
+Seat 2: _SKR (435)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Scrooty posts big blind 40
+Dealt to _SKR [9c 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Scrooty collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Scrooty (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692545784187977729-9-1674830065 - Holdem no limit (20/40) - 2023/01/27 14:34:25 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scrooty (485)
+Seat 2: _SKR (415)
+*** ANTE/BLINDS ***
+Scrooty posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9h 6c]
+*** PRE-FLOP *** 
+Scrooty calls 20
+_SKR checks
+*** FLOP *** [7d 4c 8h]
+_SKR checks
+Scrooty checks
+*** TURN *** [7d 4c 8h][3c]
+_SKR bets 52
+Scrooty raises 184 to 236
+_SKR folds
+Scrooty collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | No rake
+Board: [7d 4c 8h 3c]
+Seat 1: Scrooty (small blind) (button) won 368
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692545784187977729-10-1674830094 - Holdem no limit (20/40) - 2023/01/27 14:34:54 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Scrooty (577)
+Seat 2: _SKR (323)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Scrooty posts big blind 40
+Dealt to _SKR [Jh Qc]
+*** PRE-FLOP *** 
+_SKR raises 283 to 323 and is all-in
+Scrooty calls 283
+*** FLOP *** [Qs 6s 8c]
+*** TURN *** [Qs 6s 8c][3h]
+*** RIVER *** [Qs 6s 8c 3h][6h]
+*** SHOW DOWN ***
+Scrooty shows [9d Js] (One pair : 6)
+_SKR shows [Jh Qc] (Two pairs : Queens and 6)
+_SKR collected 646 from pot
+*** SUMMARY ***
+Total pot 646 | No rake
+Board: [Qs 6s 8c 3h 6h]
+Seat 1: Scrooty (big blind) showed [9d Js] and lost with One pair : 6
+Seat 2: _SKR (small blind) (button) showed [Jh Qc] and won 646 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692545784187977729-11-1674830112 - Holdem no limit (30/60) - 2023/01/27 14:35:12 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scrooty (254)
+Seat 2: _SKR (646)
+*** ANTE/BLINDS ***
+Scrooty posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kd 6d]
+*** PRE-FLOP *** 
+Scrooty calls 30
+_SKR raises 586 to 646 and is all-in
+Scrooty folds
+_SKR collected 706 from pot
+*** SUMMARY ***
+Total pot 706 | No rake
+Seat 2: _SKR (big blind) won 706
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692545784187977729-12-1674830122 - Holdem no limit (30/60) - 2023/01/27 14:35:22 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Scrooty (194)
+Seat 2: _SKR (706)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Scrooty posts big blind 60
+Dealt to _SKR [2h 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Scrooty collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Scrooty (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692545784187977729-13-1674830128 - Holdem no limit (30/60) - 2023/01/27 14:35:28 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scrooty (224)
+Seat 2: _SKR (676)
+*** ANTE/BLINDS ***
+Scrooty posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2c 5s]
+*** PRE-FLOP *** 
+Scrooty calls 30
+_SKR checks
+*** FLOP *** [9d 2s Jh]
+_SKR checks
+Scrooty checks
+*** TURN *** [9d 2s Jh][4d]
+_SKR checks
+Scrooty checks
+*** RIVER *** [9d 2s Jh 4d][6d]
+_SKR checks
+Scrooty checks
+*** SHOW DOWN ***
+Scrooty shows [Qc 7s] (High card : Queen)
+_SKR shows [2c 5s] (One pair : 2)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9d 2s Jh 4d 6d]
+Seat 1: Scrooty (small blind) (button) showed [Qc 7s] and lost with High card : Queen
+Seat 2: _SKR (big blind) showed [2c 5s] and won 120 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692545784187977729-14-1674830157 - Holdem no limit (30/60) - 2023/01/27 14:35:57 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Scrooty (164)
+Seat 2: _SKR (736)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Scrooty posts big blind 60
+Dealt to _SKR [5s 9s]
+*** PRE-FLOP *** 
+_SKR folds
+Scrooty collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Scrooty (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692545784187977729-15-1674830163 - Holdem no limit (30/60) - 2023/01/27 14:36:03 UTC
+Table: 'Expresso Nitro(626907168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scrooty (194)
+Seat 2: _SKR (706)
+*** ANTE/BLINDS ***
+Scrooty posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jh 7c]
+*** PRE-FLOP *** 
+Scrooty raises 134 to 194 and is all-in
+_SKR calls 134
+*** FLOP *** [7d 7s 6d]
+*** TURN *** [7d 7s 6d][5h]
+*** RIVER *** [7d 7s 6d 5h][Js]
+*** SHOW DOWN ***
+Scrooty shows [Ks Qh] (One pair : 7)
+_SKR shows [Jh 7c] (Full of 7 and Jacks)
+_SKR collected 388 from pot
+*** SUMMARY ***
+Total pot 388 | No rake
+Board: [7d 7s 6d 5h Js]
+Seat 1: Scrooty (small blind) (button) showed [Ks Qh] and lost with One pair : 7
+Seat 2: _SKR (big blind) showed [Jh 7c] and won 388 with Full of 7 and Jacks
+
+

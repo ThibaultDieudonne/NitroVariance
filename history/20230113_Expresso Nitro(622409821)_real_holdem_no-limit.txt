@@ -1,0 +1,82 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673229825904214017-1-1673643505 - Holdem no limit (10/20) - 2023/01/13 20:58:25 UTC
+Table: 'Expresso Nitro(622409821)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: EL__ CApOt (300)
+Seat 3: 59Majiin (300)
+*** ANTE/BLINDS ***
+59Majiin posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc 7c]
+*** PRE-FLOP *** 
+EL__ CApOt calls 20
+59Majiin folds
+_SKR checks
+*** FLOP *** [9h 5c Kc]
+_SKR checks
+EL__ CApOt checks
+*** TURN *** [9h 5c Kc][Jh]
+_SKR bets 33
+EL__ CApOt calls 33
+*** RIVER *** [9h 5c Kc Jh][8d]
+_SKR bets 58
+EL__ CApOt calls 58
+*** SHOW DOWN ***
+_SKR shows [Qc 7c] (High card : King)
+EL__ CApOt shows [Js 7s] (One pair : Jacks)
+EL__ CApOt collected 232 from pot
+*** SUMMARY ***
+Total pot 232 | No rake
+Board: [9h 5c Kc Jh 8d]
+Seat 1: _SKR (big blind) showed [Qc 7c] and lost with High card : King
+Seat 2: EL__ CApOt (button) showed [Js 7s] and won 232 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673229825904214017-2-1673643555 - Holdem no limit (10/20) - 2023/01/13 20:59:15 UTC
+Table: 'Expresso Nitro(622409821)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (189)
+Seat 2: EL__ CApOt (421)
+Seat 3: 59Majiin (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+EL__ CApOt posts big blind 20
+Dealt to _SKR [Ad Th]
+*** PRE-FLOP *** 
+59Majiin folds
+_SKR raises 169 to 189 and is all-in
+EL__ CApOt folds
+_SKR collected 209 from pot
+*** SUMMARY ***
+Total pot 209 | No rake
+Seat 1: _SKR (small blind) won 209
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673229825904214017-3-1673643562 - Holdem no limit (15/30) - 2023/01/13 20:59:22 UTC
+Table: 'Expresso Nitro(622409821)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (209)
+Seat 2: EL__ CApOt (401)
+Seat 3: 59Majiin (290)
+*** ANTE/BLINDS ***
+EL__ CApOt posts small blind 15
+59Majiin posts big blind 30
+Dealt to _SKR [As Ts]
+*** PRE-FLOP *** 
+_SKR raises 179 to 209 and is all-in
+EL__ CApOt raises 192 to 401 and is all-in
+59Majiin calls 260 and is all-in
+*** FLOP *** [7d 6c Qd]
+*** TURN *** [7d 6c Qd][7c]
+*** RIVER *** [7d 6c Qd 7c][3s]
+*** SHOW DOWN ***
+_SKR shows [As Ts] (One pair : 7)
+EL__ CApOt shows [Ad Qc] (Two pairs : Queens and 7)
+59Majiin shows [Kd Kh] (Two pairs : Kings and 7)
+59Majiin collected 789 from main pot
+EL__ CApOt collected 111 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 6c Qd 7c 3s]
+Seat 1: _SKR (button) showed [As Ts] and lost with One pair : 7
+Seat 2: EL__ CApOt (small blind) showed [Ad Qc] and won 111 with Two pairs : Queens and 7
+Seat 3: 59Majiin (big blind) showed [Kd Kh] and won 789 with Two pairs : Kings and 7
+
+

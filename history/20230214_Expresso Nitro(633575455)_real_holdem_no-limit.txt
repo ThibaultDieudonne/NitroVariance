@@ -1,0 +1,309 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721185858773319681-1-1676418711 - Holdem no limit (10/20) - 2023/02/14 23:51:51 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Veneraz15 (300)
+Seat 3: Le DefuntzAs (300)
+*** ANTE/BLINDS ***
+Le DefuntzAs posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts 9d]
+*** PRE-FLOP *** 
+Veneraz15 folds
+Le DefuntzAs calls 10
+_SKR checks
+*** FLOP *** [5d 4c 2d]
+Le DefuntzAs checks
+_SKR checks
+*** TURN *** [5d 4c 2d][6s]
+Le DefuntzAs checks
+_SKR checks
+*** RIVER *** [5d 4c 2d 6s][5s]
+Le DefuntzAs checks
+_SKR checks
+*** SHOW DOWN ***
+Le DefuntzAs shows [9s 7h] (One pair : 5)
+_SKR shows [Ts 9d] (One pair : 5)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [5d 4c 2d 6s 5s]
+Seat 1: _SKR (big blind) showed [Ts 9d] and won 40 with One pair : 5
+Seat 3: Le DefuntzAs (small blind) showed [9s 7h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721185858773319681-2-1676418757 - Holdem no limit (10/20) - 2023/02/14 23:52:37 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: Veneraz15 (300)
+Seat 3: Le DefuntzAs (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Veneraz15 posts big blind 20
+Dealt to _SKR [9d 3c]
+*** PRE-FLOP *** 
+Le DefuntzAs raises 40 to 60
+_SKR folds
+Veneraz15 folds
+Le DefuntzAs collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Le DefuntzAs (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721185858773319681-3-1676418767 - Holdem no limit (15/30) - 2023/02/14 23:52:47 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: Veneraz15 (280)
+Seat 3: Le DefuntzAs (310)
+*** ANTE/BLINDS ***
+Veneraz15 posts small blind 15
+Le DefuntzAs posts big blind 30
+Dealt to _SKR [9c Qs]
+*** PRE-FLOP *** 
+_SKR folds
+Veneraz15 calls 15
+Le DefuntzAs checks
+*** FLOP *** [2s Jh Js]
+Veneraz15 checks
+Le DefuntzAs checks
+*** TURN *** [2s Jh Js][Jc]
+Veneraz15 bets 39
+Le DefuntzAs calls 39
+*** RIVER *** [2s Jh Js Jc][9h]
+Veneraz15 checks
+Le DefuntzAs checks
+*** SHOW DOWN ***
+Veneraz15 shows [Td 8c] (Trips of Jacks)
+Le DefuntzAs shows [8h Th] (Trips of Jacks)
+Le DefuntzAs collected 69 from pot
+Veneraz15 collected 69 from pot
+*** SUMMARY ***
+Total pot 138 | No rake
+Board: [2s Jh Js Jc 9h]
+Seat 2: Veneraz15 (small blind) showed [Td 8c] and won 69 with Trips of Jacks
+Seat 3: Le DefuntzAs (big blind) showed [8h Th] and won 69 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721185858773319681-4-1676418783 - Holdem no limit (15/30) - 2023/02/14 23:53:03 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: Veneraz15 (280)
+Seat 3: Le DefuntzAs (310)
+*** ANTE/BLINDS ***
+Le DefuntzAs posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc 7d]
+*** PRE-FLOP *** 
+Veneraz15 calls 30
+Le DefuntzAs calls 15
+_SKR checks
+*** FLOP *** [5s 2d 7s]
+Le DefuntzAs bets 280 and is all-in
+_SKR calls 280 and is all-in
+Veneraz15 folds
+*** TURN *** [5s 2d 7s][9h]
+*** RIVER *** [5s 2d 7s 9h][3c]
+*** SHOW DOWN ***
+Le DefuntzAs shows [6s 5h] (One pair : 5)
+_SKR shows [Jc 7d] (One pair : 7)
+_SKR collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [5s 2d 7s 9h 3c]
+Seat 1: _SKR (big blind) showed [Jc 7d] and won 650 with One pair : 7
+Seat 3: Le DefuntzAs (small blind) showed [6s 5h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721185858773319681-5-1676418806 - Holdem no limit (15/30) - 2023/02/14 23:53:26 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (650)
+Seat 2: Veneraz15 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Veneraz15 posts big blind 30
+Dealt to _SKR [6d 9s]
+*** PRE-FLOP *** 
+_SKR folds
+Veneraz15 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Veneraz15 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721185858773319681-6-1676418809 - Holdem no limit (15/30) - 2023/02/14 23:53:29 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (635)
+Seat 2: Veneraz15 (265)
+*** ANTE/BLINDS ***
+Veneraz15 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ac 3d]
+*** PRE-FLOP *** 
+Veneraz15 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721185858773319681-7-1676418813 - Holdem no limit (15/30) - 2023/02/14 23:53:33 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (650)
+Seat 2: Veneraz15 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Veneraz15 posts big blind 30
+Dealt to _SKR [9c 7d]
+*** PRE-FLOP *** 
+_SKR folds
+Veneraz15 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Veneraz15 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721185858773319681-8-1676418818 - Holdem no limit (15/30) - 2023/02/14 23:53:38 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (635)
+Seat 2: Veneraz15 (265)
+*** ANTE/BLINDS ***
+Veneraz15 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9s Js]
+*** PRE-FLOP *** 
+Veneraz15 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721185858773319681-9-1676418822 - Holdem no limit (15/30) - 2023/02/14 23:53:42 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (650)
+Seat 2: Veneraz15 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Veneraz15 posts big blind 30
+Dealt to _SKR [6d 6c]
+*** PRE-FLOP *** 
+_SKR raises 620 to 650 and is all-in
+Veneraz15 folds
+_SKR collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 1: _SKR (small blind) (button) won 680
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2721185858773319681-10-1676418829 - Holdem no limit (20/40) - 2023/02/14 23:53:49 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (680)
+Seat 2: Veneraz15 (220)
+*** ANTE/BLINDS ***
+Veneraz15 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5c Kd]
+*** PRE-FLOP *** 
+Veneraz15 calls 20
+_SKR checks
+*** FLOP *** [Ts 2c 6s]
+_SKR checks
+Veneraz15 bets 80
+_SKR folds
+Veneraz15 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ts 2c 6s]
+Seat 2: Veneraz15 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2721185858773319681-11-1676418853 - Holdem no limit (20/40) - 2023/02/14 23:54:13 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (640)
+Seat 2: Veneraz15 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Veneraz15 posts big blind 40
+Dealt to _SKR [6d Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Veneraz15 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Veneraz15 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2721185858773319681-12-1676418857 - Holdem no limit (20/40) - 2023/02/14 23:54:17 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (620)
+Seat 2: Veneraz15 (280)
+*** ANTE/BLINDS ***
+Veneraz15 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8c 6s]
+*** PRE-FLOP *** 
+Veneraz15 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2721185858773319681-13-1676418860 - Holdem no limit (20/40) - 2023/02/14 23:54:20 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (640)
+Seat 2: Veneraz15 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Veneraz15 posts big blind 40
+Dealt to _SKR [Jd Ah]
+*** PRE-FLOP *** 
+_SKR raises 600 to 640 and is all-in
+Veneraz15 folds
+_SKR collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 1: _SKR (small blind) (button) won 680
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2721185858773319681-14-1676418866 - Holdem no limit (20/40) - 2023/02/14 23:54:26 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (680)
+Seat 2: Veneraz15 (220)
+*** ANTE/BLINDS ***
+Veneraz15 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5c 3d]
+*** PRE-FLOP *** 
+Veneraz15 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2721185858773319681-15-1676418869 - Holdem no limit (20/40) - 2023/02/14 23:54:29 UTC
+Table: 'Expresso Nitro(633575455)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (700)
+Seat 2: Veneraz15 (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Veneraz15 posts big blind 40
+Dealt to _SKR [8s Ad]
+*** PRE-FLOP *** 
+_SKR raises 660 to 700 and is all-in
+Veneraz15 calls 160 and is all-in
+*** FLOP *** [2d 6c 8c]
+*** TURN *** [2d 6c 8c][9s]
+*** RIVER *** [2d 6c 8c 9s][8d]
+*** SHOW DOWN ***
+Veneraz15 shows [Kd Jh] (One pair : 8)
+_SKR shows [8s Ad] (Trips of 8)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d 6c 8c 9s 8d]
+Seat 1: _SKR (small blind) (button) showed [8s Ad] and won 900 with Trips of 8
+Seat 2: Veneraz15 (big blind) showed [Kd Jh] and lost with One pair : 8
+
+

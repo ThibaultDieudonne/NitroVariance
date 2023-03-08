@@ -1,0 +1,380 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717576475631943681-1-1676227561 - Holdem no limit (10/20) - 2023/02/12 18:46:01 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pipodelpiero (300)
+Seat 2: _SKR (300)
+Seat 3: Bicus 14 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Bicus 14 posts big blind 20
+Dealt to _SKR [As 3c]
+*** PRE-FLOP *** 
+Pipodelpiero calls 20
+_SKR raises 280 to 300 and is all-in
+Bicus 14 calls 280 and is all-in
+Pipodelpiero folds
+*** FLOP *** [6h 7c Qd]
+*** TURN *** [6h 7c Qd][Ac]
+*** RIVER *** [6h 7c Qd Ac][5c]
+*** SHOW DOWN ***
+Bicus 14 shows [9h Ks] (High card : Ace)
+_SKR shows [As 3c] (One pair : Aces)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [6h 7c Qd Ac 5c]
+Seat 2: _SKR (small blind) showed [As 3c] and won 620 with One pair : Aces
+Seat 3: Bicus 14 (big blind) showed [9h Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717576475631943681-2-1676227592 - Holdem no limit (10/20) - 2023/02/12 18:46:32 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pipodelpiero (280)
+Seat 2: _SKR (620)
+*** ANTE/BLINDS ***
+Pipodelpiero posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh 3h]
+*** PRE-FLOP *** 
+Pipodelpiero calls 10
+_SKR checks
+*** FLOP *** [As Js Kd]
+_SKR checks
+Pipodelpiero bets 26
+_SKR calls 26
+*** TURN *** [As Js Kd][Ts]
+_SKR checks
+Pipodelpiero checks
+*** RIVER *** [As Js Kd Ts][5d]
+_SKR checks
+Pipodelpiero checks
+*** SHOW DOWN ***
+Pipodelpiero shows [8c 5c] (One pair : 5)
+_SKR shows [Kh 3h] (One pair : Kings)
+_SKR collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [As Js Kd Ts 5d]
+Seat 1: Pipodelpiero (small blind) (button) showed [8c 5c] and lost with One pair : 5
+Seat 2: _SKR (big blind) showed [Kh 3h] and won 92 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717576475631943681-3-1676227627 - Holdem no limit (15/30) - 2023/02/12 18:47:07 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pipodelpiero (234)
+Seat 2: _SKR (666)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Pipodelpiero posts big blind 30
+Dealt to _SKR [9c Ts]
+*** PRE-FLOP *** 
+_SKR raises 636 to 666 and is all-in
+Pipodelpiero folds
+_SKR collected 696 from pot
+*** SUMMARY ***
+Total pot 696 | No rake
+Seat 2: _SKR (small blind) (button) won 696
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717576475631943681-4-1676227632 - Holdem no limit (15/30) - 2023/02/12 18:47:12 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pipodelpiero (204)
+Seat 2: _SKR (696)
+*** ANTE/BLINDS ***
+Pipodelpiero posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3s Qh]
+*** PRE-FLOP *** 
+Pipodelpiero calls 15
+_SKR checks
+*** FLOP *** [As Jh Qs]
+_SKR checks
+Pipodelpiero checks
+*** TURN *** [As Jh Qs][9c]
+_SKR checks
+Pipodelpiero checks
+*** RIVER *** [As Jh Qs 9c][6h]
+_SKR checks
+Pipodelpiero bets 60
+_SKR calls 60
+*** SHOW DOWN ***
+_SKR shows [3s Qh] (One pair : Queens)
+Pipodelpiero shows [Ac Ad] (Trips of Aces)
+Pipodelpiero collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [As Jh Qs 9c 6h]
+Seat 1: Pipodelpiero (small blind) (button) showed [Ac Ad] and won 180 with Trips of Aces
+Seat 2: _SKR (big blind) showed [3s Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717576475631943681-5-1676227672 - Holdem no limit (15/30) - 2023/02/12 18:47:52 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pipodelpiero (294)
+Seat 2: _SKR (606)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Pipodelpiero posts big blind 30
+Dealt to _SKR [9s Td]
+*** PRE-FLOP *** 
+_SKR raises 576 to 606 and is all-in
+Pipodelpiero folds
+_SKR collected 636 from pot
+*** SUMMARY ***
+Total pot 636 | No rake
+Seat 2: _SKR (small blind) (button) won 636
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717576475631943681-6-1676227685 - Holdem no limit (20/40) - 2023/02/12 18:48:05 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pipodelpiero (264)
+Seat 2: _SKR (636)
+*** ANTE/BLINDS ***
+Pipodelpiero posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6c 4s]
+*** PRE-FLOP *** 
+Pipodelpiero raises 224 to 264 and is all-in
+_SKR folds
+Pipodelpiero shows [Th 8d] (High card : Ten)
+Pipodelpiero collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Seat 1: Pipodelpiero (small blind) (button) showed [Th 8d] and won 304 with High card : Ten
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717576475631943681-7-1676227692 - Holdem no limit (20/40) - 2023/02/12 18:48:12 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pipodelpiero (304)
+Seat 2: _SKR (596)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Pipodelpiero posts big blind 40
+Dealt to _SKR [Tc 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Pipodelpiero collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Pipodelpiero (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717576475631943681-8-1676227697 - Holdem no limit (20/40) - 2023/02/12 18:48:17 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pipodelpiero (324)
+Seat 2: _SKR (576)
+*** ANTE/BLINDS ***
+Pipodelpiero posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8d Qh]
+*** PRE-FLOP *** 
+Pipodelpiero calls 20
+_SKR raises 536 to 576 and is all-in
+Pipodelpiero folds
+_SKR collected 616 from pot
+*** SUMMARY ***
+Total pot 616 | No rake
+Seat 2: _SKR (big blind) won 616
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717576475631943681-9-1676227705 - Holdem no limit (20/40) - 2023/02/12 18:48:25 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pipodelpiero (284)
+Seat 2: _SKR (616)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Pipodelpiero posts big blind 40
+Dealt to _SKR [6d 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Pipodelpiero collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Pipodelpiero (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717576475631943681-10-1676227711 - Holdem no limit (20/40) - 2023/02/12 18:48:31 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pipodelpiero (304)
+Seat 2: _SKR (596)
+*** ANTE/BLINDS ***
+Pipodelpiero posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ts 6s]
+*** PRE-FLOP *** 
+Pipodelpiero folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717576475631943681-11-1676227715 - Holdem no limit (20/40) - 2023/02/12 18:48:35 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pipodelpiero (284)
+Seat 2: _SKR (616)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Pipodelpiero posts big blind 40
+Dealt to _SKR [6c Ad]
+*** PRE-FLOP *** 
+_SKR raises 576 to 616 and is all-in
+Pipodelpiero calls 244 and is all-in
+*** FLOP *** [4h Jd 5d]
+*** TURN *** [4h Jd 5d][Qs]
+*** RIVER *** [4h Jd 5d Qs][2d]
+*** SHOW DOWN ***
+Pipodelpiero shows [8h Qc] (One pair : Queens)
+_SKR shows [6c Ad] (High card : Ace)
+_SKR collected 332 from side pot 1
+Pipodelpiero collected 568 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h Jd 5d Qs 2d]
+Seat 1: Pipodelpiero (big blind) showed [8h Qc] and won 568 with One pair : Queens
+Seat 2: _SKR (small blind) (button) showed [6c Ad] and won 332 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717576475631943681-12-1676227729 - Holdem no limit (20/40) - 2023/02/12 18:48:49 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pipodelpiero (568)
+Seat 2: _SKR (332)
+*** ANTE/BLINDS ***
+Pipodelpiero posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4h 6s]
+*** PRE-FLOP *** 
+Pipodelpiero folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717576475631943681-13-1676227734 - Holdem no limit (20/40) - 2023/02/12 18:48:54 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pipodelpiero (548)
+Seat 2: _SKR (352)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Pipodelpiero posts big blind 40
+Dealt to _SKR [8s 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Pipodelpiero collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Pipodelpiero (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717576475631943681-14-1676227739 - Holdem no limit (30/60) - 2023/02/12 18:48:59 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pipodelpiero (568)
+Seat 2: _SKR (332)
+*** ANTE/BLINDS ***
+Pipodelpiero posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c 7s]
+*** PRE-FLOP *** 
+Pipodelpiero folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717576475631943681-15-1676227742 - Holdem no limit (30/60) - 2023/02/12 18:49:02 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pipodelpiero (538)
+Seat 2: _SKR (362)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Pipodelpiero posts big blind 60
+Dealt to _SKR [As Kc]
+*** PRE-FLOP *** 
+_SKR raises 302 to 362 and is all-in
+Pipodelpiero folds
+_SKR collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Seat 2: _SKR (small blind) (button) won 422
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717576475631943681-16-1676227747 - Holdem no limit (30/60) - 2023/02/12 18:49:07 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pipodelpiero (478)
+Seat 2: _SKR (422)
+*** ANTE/BLINDS ***
+Pipodelpiero posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c 2d]
+*** PRE-FLOP *** 
+Pipodelpiero calls 30
+_SKR checks
+*** FLOP *** [Qd Qs 6c]
+_SKR checks
+Pipodelpiero checks
+*** TURN *** [Qd Qs 6c][8d]
+_SKR checks
+Pipodelpiero checks
+*** RIVER *** [Qd Qs 6c 8d][Qc]
+_SKR checks
+Pipodelpiero checks
+*** SHOW DOWN ***
+_SKR shows [4c 2d] (Trips of Queens)
+Pipodelpiero shows [9h Js] (Trips of Queens)
+Pipodelpiero collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qd Qs 6c 8d Qc]
+Seat 1: Pipodelpiero (small blind) (button) showed [9h Js] and won 120 with Trips of Queens
+Seat 2: _SKR (big blind) showed [4c 2d] and lost with Trips of Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717576475631943681-17-1676227768 - Holdem no limit (30/60) - 2023/02/12 18:49:28 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pipodelpiero (538)
+Seat 2: _SKR (362)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Pipodelpiero posts big blind 60
+Dealt to _SKR [Ah Th]
+*** PRE-FLOP *** 
+_SKR raises 302 to 362 and is all-in
+Pipodelpiero folds
+_SKR collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Seat 2: _SKR (small blind) (button) won 422
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717576475631943681-18-1676227774 - Holdem no limit (30/60) - 2023/02/12 18:49:34 UTC
+Table: 'Expresso Nitro(632735080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pipodelpiero (478)
+Seat 2: _SKR (422)
+*** ANTE/BLINDS ***
+Pipodelpiero posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5c Jh]
+*** PRE-FLOP *** 
+Pipodelpiero calls 30
+_SKR checks
+*** FLOP *** [2c 5d Ac]
+_SKR checks
+Pipodelpiero checks
+*** TURN *** [2c 5d Ac][5s]
+_SKR bets 78
+Pipodelpiero calls 78
+*** RIVER *** [2c 5d Ac 5s][Tc]
+_SKR bets 284 and is all-in
+Pipodelpiero calls 284
+*** SHOW DOWN ***
+_SKR shows [5c Jh] (Trips of 5)
+Pipodelpiero shows [7c 9c] (Flush Ace high)
+Pipodelpiero collected 844 from pot
+*** SUMMARY ***
+Total pot 844 | No rake
+Board: [2c 5d Ac 5s Tc]
+Seat 1: Pipodelpiero (small blind) (button) showed [7c 9c] and won 844 with Flush Ace high
+Seat 2: _SKR (big blind) showed [5c Jh] and lost with Trips of 5
+
+

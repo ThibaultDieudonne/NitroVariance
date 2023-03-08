@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717608610577252353-1-1676228732 - Holdem no limit (10/20) - 2023/02/12 19:05:32 UTC
+Table: 'Expresso Nitro(632742562)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kws-python (300)
+Seat 2: _SKR (300)
+Seat 3: _LuisG98_ (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+_LuisG98_ posts big blind 20
+Dealt to _SKR [3s Td]
+*** PRE-FLOP *** 
+Kws-python raises 280 to 300 and is all-in
+_SKR folds
+_LuisG98_ folds
+Kws-python collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Kws-python (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717608610577252353-2-1676228739 - Holdem no limit (10/20) - 2023/02/12 19:05:39 UTC
+Table: 'Expresso Nitro(632742562)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kws-python (330)
+Seat 2: _SKR (290)
+Seat 3: _LuisG98_ (280)
+*** ANTE/BLINDS ***
+_LuisG98_ posts small blind 10
+Kws-python posts big blind 20
+Dealt to _SKR [Ac 4s]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+_LuisG98_ folds
+Kws-python calls 270
+*** FLOP *** [2c Ad Kh]
+*** TURN *** [2c Ad Kh][6s]
+*** RIVER *** [2c Ad Kh 6s][Th]
+*** SHOW DOWN ***
+_SKR shows [Ac 4s] (One pair : Aces)
+Kws-python shows [Jd Qh] (Straight Ace high)
+Kws-python collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [2c Ad Kh 6s Th]
+Seat 1: Kws-python (big blind) showed [Jd Qh] and won 590 with Straight Ace high
+Seat 2: _SKR (button) showed [Ac 4s] and lost with One pair : Aces
+
+

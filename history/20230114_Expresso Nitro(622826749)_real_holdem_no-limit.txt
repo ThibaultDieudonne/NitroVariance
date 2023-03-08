@@ -1,0 +1,68 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675020518029000705-1-1673740433 - Holdem no limit (10/20) - 2023/01/14 23:53:53 UTC
+Table: 'Expresso Nitro(622826749)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Piplette91 (300)
+Seat 3: -Razorback- (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Piplette91 posts big blind 20
+Dealt to _SKR [8h 7s]
+*** PRE-FLOP *** 
+-Razorback- folds
+_SKR calls 10
+Piplette91 raises 280 to 300 and is all-in
+_SKR folds
+Piplette91 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Piplette91 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675020518029000705-2-1673740442 - Holdem no limit (10/20) - 2023/01/14 23:54:02 UTC
+Table: 'Expresso Nitro(622826749)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 2: Piplette91 (320)
+Seat 3: -Razorback- (300)
+*** ANTE/BLINDS ***
+Piplette91 posts small blind 10
+-Razorback- posts big blind 20
+Dealt to _SKR [Ac 3c]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+Piplette91 folds
+-Razorback- folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 1: _SKR (button) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675020518029000705-3-1673740452 - Holdem no limit (10/20) - 2023/01/14 23:54:12 UTC
+Table: 'Expresso Nitro(622826749)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: Piplette91 (310)
+Seat 3: -Razorback- (280)
+*** ANTE/BLINDS ***
+-Razorback- posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd Jh]
+*** PRE-FLOP *** 
+Piplette91 raises 290 to 310 and is all-in
+-Razorback- calls 270 and is all-in
+_SKR calls 290 and is all-in
+*** FLOP *** [Js 6d 3d]
+*** TURN *** [Js 6d 3d][4h]
+*** RIVER *** [Js 6d 3d 4h][2c]
+*** SHOW DOWN ***
+Piplette91 shows [9h 9d] (One pair : 9)
+-Razorback- shows [9c Ah] (High card : Ace)
+_SKR shows [Jd Jh] (Trips of Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js 6d 3d 4h 2c]
+Seat 1: _SKR (big blind) showed [Jd Jh] and won 900 with Trips of Jacks
+Seat 2: Piplette91 (button) showed [9h 9d] and lost with One pair : 9
+Seat 3: -Razorback- (small blind) showed [9c Ah] and lost with High card : Ace
+
+

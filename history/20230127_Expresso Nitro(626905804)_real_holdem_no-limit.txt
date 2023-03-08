@@ -1,0 +1,125 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692539925852585985-1-1674829611 - Holdem no limit (10/20) - 2023/01/27 14:26:51 UTC
+Table: 'Expresso Nitro(626905804)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Izane81 (300)
+Seat 2: _SKR (300)
+Seat 3: joke5522 (300)
+*** ANTE/BLINDS ***
+Izane81 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7s As]
+*** PRE-FLOP *** 
+joke5522 folds
+Izane81 raises 30 to 50
+_SKR raises 250 to 300 and is all-in
+Izane81 calls 250 and is all-in
+*** FLOP *** [4s 7d 5c]
+*** TURN *** [4s 7d 5c][Ah]
+*** RIVER *** [4s 7d 5c Ah][Ts]
+*** SHOW DOWN ***
+Izane81 shows [Kc Qh] (High card : Ace)
+_SKR shows [7s As] (Two pairs : Aces and 7)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4s 7d 5c Ah Ts]
+Seat 1: Izane81 (small blind) showed [Kc Qh] and lost with High card : Ace
+Seat 2: _SKR (big blind) showed [7s As] and won 600 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692539925852585985-2-1674829652 - Holdem no limit (10/20) - 2023/01/27 14:27:32 UTC
+Table: 'Expresso Nitro(626905804)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (600)
+Seat 3: joke5522 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+joke5522 posts big blind 20
+Dealt to _SKR [8d Kd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+joke5522 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692539925852585985-3-1674829666 - Holdem no limit (10/20) - 2023/01/27 14:27:46 UTC
+Table: 'Expresso Nitro(626905804)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: joke5522 (280)
+*** ANTE/BLINDS ***
+joke5522 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d 4d]
+*** PRE-FLOP *** 
+joke5522 calls 10
+_SKR checks
+*** FLOP *** [2h Qh 8c]
+_SKR checks
+joke5522 bets 20
+_SKR folds
+joke5522 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2h Qh 8c]
+Seat 3: joke5522 (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692539925852585985-4-1674829687 - Holdem no limit (15/30) - 2023/01/27 14:28:07 UTC
+Table: 'Expresso Nitro(626905804)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (600)
+Seat 3: joke5522 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+joke5522 posts big blind 30
+Dealt to _SKR [Qc 7d]
+*** PRE-FLOP *** 
+_SKR calls 15
+joke5522 checks
+*** FLOP *** [9s 6c 2h]
+joke5522 checks
+_SKR checks
+*** TURN *** [9s 6c 2h][Js]
+joke5522 checks
+_SKR checks
+*** RIVER *** [9s 6c 2h Js][6s]
+joke5522 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Qc 7d] (One pair : 6)
+joke5522 shows [4c Qh] (One pair : 6)
+joke5522 collected 30 from pot
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9s 6c 2h Js 6s]
+Seat 2: _SKR (small blind) (button) showed [Qc 7d] and won 30 with One pair : 6
+Seat 3: joke5522 (big blind) showed [4c Qh] and won 30 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692539925852585985-5-1674829731 - Holdem no limit (20/40) - 2023/01/27 14:28:51 UTC
+Table: 'Expresso Nitro(626905804)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (600)
+Seat 3: joke5522 (300)
+*** ANTE/BLINDS ***
+joke5522 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [As 9d]
+*** PRE-FLOP *** 
+joke5522 calls 20
+_SKR raises 560 to 600 and is all-in
+joke5522 calls 260 and is all-in
+*** FLOP *** [2d 5s Kc]
+*** TURN *** [2d 5s Kc][3d]
+*** RIVER *** [2d 5s Kc 3d][4s]
+*** SHOW DOWN ***
+joke5522 shows [Th Ts] (One pair : Tens)
+_SKR shows [As 9d] (Straight 5 high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d 5s Kc 3d 4s]
+Seat 2: _SKR (big blind) showed [As 9d] and won 900 with Straight 5 high
+Seat 3: joke5522 (small blind) (button) showed [Th Ts] and lost with One pair : Tens
+
+

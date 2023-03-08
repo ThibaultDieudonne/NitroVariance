@@ -1,0 +1,185 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717919888332029953-1-1676239933 - Holdem no limit (10/20) - 2023/02/12 22:12:13 UTC
+Table: 'Expresso Nitro(632815037)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Naass33 (300)
+Seat 2: Raph1231 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Naass33 posts big blind 20
+Dealt to _SKR [Ad Js]
+*** PRE-FLOP *** 
+Raph1231 calls 20
+_SKR raises 280 to 300 and is all-in
+Naass33 folds
+Raph1231 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717919888332029953-2-1676239954 - Holdem no limit (10/20) - 2023/02/12 22:12:34 UTC
+Table: 'Expresso Nitro(632815037)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Naass33 (280)
+Seat 2: Raph1231 (280)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+Naass33 posts small blind 10
+Raph1231 posts big blind 20
+Dealt to _SKR [8s Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Naass33 calls 10
+Raph1231 checks
+*** FLOP *** [Tc 3h 3c]
+Naass33 checks
+Raph1231 checks
+*** TURN *** [Tc 3h 3c][Js]
+Naass33 checks
+Raph1231 checks
+*** RIVER *** [Tc 3h 3c Js][Ts]
+Naass33 checks
+Raph1231 checks
+*** SHOW DOWN ***
+Raph1231 shows [2h 6s] (Two pairs : Tens and 3)
+Naass33 shows [4d Qh] (Two pairs : Tens and 3)
+Naass33 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Tc 3h 3c Js Ts]
+Seat 1: Naass33 (small blind) showed [4d Qh] and won 40 with Two pairs : Tens and 3
+Seat 2: Raph1231 (big blind) showed [2h 6s] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717919888332029953-3-1676239972 - Holdem no limit (10/20) - 2023/02/12 22:12:52 UTC
+Table: 'Expresso Nitro(632815037)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Naass33 (300)
+Seat 2: Raph1231 (260)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+Raph1231 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 7c]
+*** PRE-FLOP *** 
+Naass33 raises 20 to 40
+Raph1231 raises 220 to 260 and is all-in
+_SKR folds
+Naass33 calls 220
+*** FLOP *** [3h Kh 6c]
+*** TURN *** [3h Kh 6c][8d]
+*** RIVER *** [3h Kh 6c 8d][Ks]
+*** SHOW DOWN ***
+Naass33 shows [Ad 6h] (Two pairs : Kings and 6)
+Raph1231 shows [Jc Kc] (Trips of Kings)
+Raph1231 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [3h Kh 6c 8d Ks]
+Seat 1: Naass33 (button) showed [Ad 6h] and lost with Two pairs : Kings and 6
+Seat 2: Raph1231 (small blind) showed [Jc Kc] and won 540 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717919888332029953-4-1676239988 - Holdem no limit (10/20) - 2023/02/12 22:13:08 UTC
+Table: 'Expresso Nitro(632815037)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Naass33 (40)
+Seat 2: Raph1231 (540)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Naass33 posts big blind 20
+Dealt to _SKR [6c Kh]
+*** PRE-FLOP *** 
+Raph1231 folds
+_SKR raises 20 to 40
+Naass33 calls 20 and is all-in
+*** FLOP *** [6h 7s 7c]
+*** TURN *** [6h 7s 7c][7h]
+*** RIVER *** [6h 7s 7c 7h][Kc]
+*** SHOW DOWN ***
+Naass33 shows [2s Ac] (Trips of 7)
+_SKR shows [6c Kh] (Full of 7 and Kings)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [6h 7s 7c 7h Kc]
+Seat 1: Naass33 (big blind) showed [2s Ac] and lost with Trips of 7
+Seat 3: _SKR (small blind) showed [6c Kh] and won 80 with Full of 7 and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717919888332029953-5-1676240007 - Holdem no limit (15/30) - 2023/02/12 22:13:27 UTC
+Table: 'Expresso Nitro(632815037)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Raph1231 (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+Raph1231 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7c 5h]
+*** PRE-FLOP *** 
+Raph1231 calls 15
+_SKR checks
+*** FLOP *** [Kc 9s Jd]
+_SKR checks
+Raph1231 checks
+*** TURN *** [Kc 9s Jd][8s]
+_SKR checks
+Raph1231 checks
+*** RIVER *** [Kc 9s Jd 8s][8h]
+_SKR bets 54
+Raph1231 calls 54
+*** SHOW DOWN ***
+_SKR shows [7c 5h] (One pair : 8)
+Raph1231 shows [6s Ks] (Two pairs : Kings and 8)
+Raph1231 collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | No rake
+Board: [Kc 9s Jd 8s 8h]
+Seat 2: Raph1231 (small blind) (button) showed [6s Ks] and won 168 with Two pairs : Kings and 8
+Seat 3: _SKR (big blind) showed [7c 5h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717919888332029953-6-1676240031 - Holdem no limit (15/30) - 2023/02/12 22:13:51 UTC
+Table: 'Expresso Nitro(632815037)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Raph1231 (624)
+Seat 3: _SKR (276)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Raph1231 posts big blind 30
+Dealt to _SKR [9d 9s]
+*** PRE-FLOP *** 
+_SKR raises 246 to 276 and is all-in
+Raph1231 folds
+_SKR collected 306 from pot
+*** SUMMARY ***
+Total pot 306 | No rake
+Seat 3: _SKR (small blind) (button) won 306
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717919888332029953-7-1676240038 - Holdem no limit (15/30) - 2023/02/12 22:13:58 UTC
+Table: 'Expresso Nitro(632815037)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Raph1231 (594)
+Seat 3: _SKR (306)
+*** ANTE/BLINDS ***
+Raph1231 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8s Td]
+*** PRE-FLOP *** 
+Raph1231 calls 15
+_SKR checks
+*** FLOP *** [Qd 4c 8d]
+_SKR checks
+Raph1231 bets 30
+_SKR raises 246 to 276 and is all-in
+Raph1231 raises 288 to 564 and is all-in
+*** TURN *** [Qd 4c 8d][Qc]
+*** RIVER *** [Qd 4c 8d Qc][6c]
+*** SHOW DOWN ***
+_SKR shows [8s Td] (Two pairs : Queens and 8)
+Raph1231 shows [5h Qh] (Trips of Queens)
+Raph1231 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd 4c 8d Qc 6c]
+Seat 2: Raph1231 (small blind) (button) showed [5h Qh] and won 900 with Trips of Queens
+Seat 3: _SKR (big blind) showed [8s Td] and lost with Two pairs : Queens and 8
+
+

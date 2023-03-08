@@ -1,0 +1,228 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698206405055217665-1-1675185509 - Holdem no limit (10/20) - 2023/01/31 17:18:29 UTC
+Table: 'Expresso Nitro(628225134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fish2022 (300)
+Seat 2: _SKR (300)
+Seat 3: W4AzZ (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+W4AzZ posts big blind 20
+Dealt to _SKR [Ad 6s]
+*** PRE-FLOP *** 
+fish2022 raises 20 to 40
+_SKR folds
+W4AzZ calls 20
+*** FLOP *** [3s 4s 4d]
+W4AzZ checks
+fish2022 bets 20
+W4AzZ calls 20
+*** TURN *** [3s 4s 4d][Qc]
+W4AzZ checks
+fish2022 checks
+*** RIVER *** [3s 4s 4d Qc][Ac]
+W4AzZ bets 20
+fish2022 folds
+W4AzZ collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [3s 4s 4d Qc Ac]
+Seat 3: W4AzZ (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698206405055217665-2-1675185538 - Holdem no limit (10/20) - 2023/01/31 17:18:58 UTC
+Table: 'Expresso Nitro(628225134)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fish2022 (240)
+Seat 2: _SKR (290)
+Seat 3: W4AzZ (370)
+*** ANTE/BLINDS ***
+W4AzZ posts small blind 10
+fish2022 posts big blind 20
+Dealt to _SKR [3d Qd]
+*** PRE-FLOP *** 
+_SKR folds
+W4AzZ raises 20 to 40
+fish2022 folds
+W4AzZ collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: W4AzZ (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698206405055217665-3-1675185546 - Holdem no limit (10/20) - 2023/01/31 17:19:06 UTC
+Table: 'Expresso Nitro(628225134)#0' 3-max (real money) Seat #3 is the button
+Seat 1: fish2022 (220)
+Seat 2: _SKR (290)
+Seat 3: W4AzZ (390)
+*** ANTE/BLINDS ***
+fish2022 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h Kc]
+*** PRE-FLOP *** 
+W4AzZ folds
+fish2022 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698206405055217665-4-1675185552 - Holdem no limit (10/20) - 2023/01/31 17:19:12 UTC
+Table: 'Expresso Nitro(628225134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fish2022 (210)
+Seat 2: _SKR (300)
+Seat 3: W4AzZ (390)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+W4AzZ posts big blind 20
+Dealt to _SKR [Jh Jc]
+*** PRE-FLOP *** 
+fish2022 raises 190 to 210 and is all-in
+_SKR raises 90 to 300 and is all-in
+W4AzZ folds
+*** FLOP *** [2d 8s Qh]
+*** TURN *** [2d 8s Qh][7h]
+*** RIVER *** [2d 8s Qh 7h][Ah]
+*** SHOW DOWN ***
+fish2022 shows [Kh 8h] (Flush Ace high)
+_SKR shows [Jh Jc] (One pair : Jacks)
+_SKR collected 90 from side pot 1
+fish2022 collected 440 from main pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [2d 8s Qh 7h Ah]
+Seat 1: fish2022 (button) showed [Kh 8h] and won 440 with Flush Ace high
+Seat 2: _SKR (small blind) showed [Jh Jc] and won 90 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698206405055217665-5-1675185570 - Holdem no limit (15/30) - 2023/01/31 17:19:30 UTC
+Table: 'Expresso Nitro(628225134)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fish2022 (440)
+Seat 2: _SKR (90)
+Seat 3: W4AzZ (370)
+*** ANTE/BLINDS ***
+W4AzZ posts small blind 15
+fish2022 posts big blind 30
+Dealt to _SKR [Qs Ts]
+*** PRE-FLOP *** 
+_SKR raises 60 to 90 and is all-in
+W4AzZ folds
+fish2022 calls 60
+*** FLOP *** [9s Ad 2h]
+*** TURN *** [9s Ad 2h][6d]
+*** RIVER *** [9s Ad 2h 6d][Kc]
+*** SHOW DOWN ***
+fish2022 shows [Tc Jh] (High card : Ace)
+_SKR shows [Qs Ts] (High card : Ace)
+_SKR collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [9s Ad 2h 6d Kc]
+Seat 1: fish2022 (big blind) showed [Tc Jh] and lost with High card : Ace
+Seat 2: _SKR (button) showed [Qs Ts] and won 195 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698206405055217665-6-1675185586 - Holdem no limit (15/30) - 2023/01/31 17:19:46 UTC
+Table: 'Expresso Nitro(628225134)#0' 3-max (real money) Seat #3 is the button
+Seat 1: fish2022 (350)
+Seat 2: _SKR (195)
+Seat 3: W4AzZ (355)
+*** ANTE/BLINDS ***
+fish2022 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah 8s]
+*** PRE-FLOP *** 
+W4AzZ raises 30 to 60
+fish2022 folds
+_SKR raises 135 to 195 and is all-in
+W4AzZ calls 135
+*** FLOP *** [3h 4h 4c]
+*** TURN *** [3h 4h 4c][9c]
+*** RIVER *** [3h 4h 4c 9c][Ac]
+*** SHOW DOWN ***
+W4AzZ shows [Qd Jc] (One pair : 4)
+_SKR shows [Ah 8s] (Two pairs : Aces and 4)
+_SKR collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [3h 4h 4c 9c Ac]
+Seat 2: _SKR (big blind) showed [Ah 8s] and won 405 with Two pairs : Aces and 4
+Seat 3: W4AzZ (button) showed [Qd Jc] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698206405055217665-7-1675185604 - Holdem no limit (15/30) - 2023/01/31 17:20:04 UTC
+Table: 'Expresso Nitro(628225134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fish2022 (335)
+Seat 2: _SKR (405)
+Seat 3: W4AzZ (160)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+W4AzZ posts big blind 30
+Dealt to _SKR [Td Jd]
+*** PRE-FLOP *** 
+fish2022 folds
+_SKR raises 375 to 405 and is all-in
+W4AzZ calls 130 and is all-in
+*** FLOP *** [Ts 8d Js]
+*** TURN *** [Ts 8d Js][8c]
+*** RIVER *** [Ts 8d Js 8c][Jc]
+*** SHOW DOWN ***
+W4AzZ shows [Kc 4d] (Two pairs : Jacks and 8)
+_SKR shows [Td Jd] (Full of Jacks and Tens)
+_SKR collected 565 from pot
+*** SUMMARY ***
+Total pot 565 | No rake
+Board: [Ts 8d Js 8c Jc]
+Seat 2: _SKR (small blind) showed [Td Jd] and won 565 with Full of Jacks and Tens
+Seat 3: W4AzZ (big blind) showed [Kc 4d] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698206405055217665-8-1675185621 - Holdem no limit (15/30) - 2023/01/31 17:20:21 UTC
+Table: 'Expresso Nitro(628225134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fish2022 (335)
+Seat 2: _SKR (565)
+*** ANTE/BLINDS ***
+fish2022 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7s 7c]
+*** PRE-FLOP *** 
+fish2022 raises 305 to 335 and is all-in
+_SKR raises 230 to 565 and is all-in
+*** FLOP *** [Td 4s 2c]
+*** TURN *** [Td 4s 2c][9c]
+*** RIVER *** [Td 4s 2c 9c][Qh]
+*** SHOW DOWN ***
+fish2022 shows [Qd Js] (One pair : Queens)
+_SKR shows [7s 7c] (One pair : 7)
+_SKR collected 230 from side pot 1
+fish2022 collected 670 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td 4s 2c 9c Qh]
+Seat 1: fish2022 (small blind) (button) showed [Qd Js] and won 670 with One pair : Queens
+Seat 2: _SKR (big blind) showed [7s 7c] and won 230 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698206405055217665-9-1675185638 - Holdem no limit (20/40) - 2023/01/31 17:20:38 UTC
+Table: 'Expresso Nitro(628225134)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fish2022 (670)
+Seat 2: _SKR (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+fish2022 posts big blind 40
+Dealt to _SKR [8d 7d]
+*** PRE-FLOP *** 
+_SKR raises 190 to 230 and is all-in
+fish2022 calls 190
+*** FLOP *** [8h 7s Kh]
+*** TURN *** [8h 7s Kh][Qc]
+*** RIVER *** [8h 7s Kh Qc][2c]
+*** SHOW DOWN ***
+_SKR shows [8d 7d] (Two pairs : 8 and 7)
+fish2022 shows [7h Kd] (Two pairs : Kings and 7)
+fish2022 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [8h 7s Kh Qc 2c]
+Seat 1: fish2022 (big blind) showed [7h Kd] and won 460 with Two pairs : Kings and 7
+Seat 2: _SKR (small blind) (button) showed [8d 7d] and lost with Two pairs : 8 and 7
+
+

@@ -1,0 +1,73 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717818127671885825-1-1676236427 - Holdem no limit (10/20) - 2023/02/12 21:13:47 UTC
+Table: 'Expresso Nitro(632791344)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sebcrnl (300)
+Seat 2: _SKR (300)
+Seat 3: -Swampy06- (300)
+*** ANTE/BLINDS ***
+Sebcrnl posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h Qc]
+*** PRE-FLOP *** 
+-Swampy06- folds
+Sebcrnl folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717818127671885825-2-1676236435 - Holdem no limit (10/20) - 2023/02/12 21:13:55 UTC
+Table: 'Expresso Nitro(632791344)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sebcrnl (290)
+Seat 2: _SKR (310)
+Seat 3: -Swampy06- (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+-Swampy06- posts big blind 20
+Dealt to _SKR [Qc Ad]
+*** PRE-FLOP *** 
+Sebcrnl raises 50 to 70
+_SKR raises 240 to 310 and is all-in
+-Swampy06- folds
+Sebcrnl calls 220 and is all-in
+*** FLOP *** [Tc 2d 8s]
+*** TURN *** [Tc 2d 8s][5d]
+*** RIVER *** [Tc 2d 8s 5d][Kc]
+*** SHOW DOWN ***
+Sebcrnl shows [Kd 9s] (One pair : Kings)
+_SKR shows [Qc Ad] (High card : Ace)
+_SKR collected 20 from side pot 1
+Sebcrnl collected 600 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Tc 2d 8s 5d Kc]
+Seat 1: Sebcrnl (button) showed [Kd 9s] and won 600 with One pair : Kings
+Seat 2: _SKR (small blind) showed [Qc Ad] and won 20 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717818127671885825-3-1676236449 - Holdem no limit (10/20) - 2023/02/12 21:14:09 UTC
+Table: 'Expresso Nitro(632791344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sebcrnl (600)
+Seat 2: _SKR (20)
+Seat 3: -Swampy06- (280)
+*** ANTE/BLINDS ***
+-Swampy06- posts small blind 10
+Sebcrnl posts big blind 20
+Dealt to _SKR [5h Js]
+*** PRE-FLOP *** 
+_SKR calls 20 and is all-in
+-Swampy06- folds
+*** FLOP *** [4c 8s Qd]
+*** TURN *** [4c 8s Qd][2d]
+*** RIVER *** [4c 8s Qd 2d][7c]
+*** SHOW DOWN ***
+_SKR shows [5h Js] (High card : Queen)
+Sebcrnl shows [4s 5s] (One pair : 4)
+Sebcrnl collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [4c 8s Qd 2d 7c]
+Seat 1: Sebcrnl (big blind) showed [4s 5s] and won 50 with One pair : 4
+Seat 2: _SKR (button) showed [5h Js] and lost with High card : Queen
+
+

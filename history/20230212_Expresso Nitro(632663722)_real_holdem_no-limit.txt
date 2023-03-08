@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717269995355635713-1-1676214974 - Holdem no limit (10/20) - 2023/02/12 15:16:14 UTC
+Table: 'Expresso Nitro(632663722)#0' 3-max (real money) Seat #3 is the button
+Seat 1: GERVYA (300)
+Seat 2: _SKR (300)
+Seat 3: fibusisback (300)
+*** ANTE/BLINDS ***
+GERVYA posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s 5h]
+*** PRE-FLOP *** 
+fibusisback folds
+GERVYA calls 10
+_SKR checks
+*** FLOP *** [Jd 3c Ts]
+GERVYA bets 40
+_SKR folds
+GERVYA collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Jd 3c Ts]
+Seat 1: GERVYA (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717269995355635713-2-1676214987 - Holdem no limit (10/20) - 2023/02/12 15:16:27 UTC
+Table: 'Expresso Nitro(632663722)#0' 3-max (real money) Seat #1 is the button
+Seat 1: GERVYA (320)
+Seat 2: _SKR (280)
+Seat 3: fibusisback (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+fibusisback posts big blind 20
+Dealt to _SKR [Kh 9s]
+*** PRE-FLOP *** 
+GERVYA calls 20
+_SKR raises 260 to 280 and is all-in
+fibusisback folds
+GERVYA raises 40 to 320 and is all-in
+*** FLOP *** [Jd Td 7d]
+*** TURN *** [Jd Td 7d][5s]
+*** RIVER *** [Jd Td 7d 5s][9h]
+*** SHOW DOWN ***
+_SKR shows [Kh 9s] (One pair : 9)
+GERVYA shows [8s Ad] (Straight Jack high)
+GERVYA collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Jd Td 7d 5s 9h]
+Seat 1: GERVYA (button) showed [8s Ad] and won 620 with Straight Jack high
+Seat 2: _SKR (small blind) showed [Kh 9s] and lost with One pair : 9
+
+

@@ -1,0 +1,69 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718700013306773505-1-1676296128 - Holdem no limit (10/20) - 2023/02/13 13:48:48 UTC
+Table: 'Expresso Nitro(632996674)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: EthanAF04 (300)
+Seat 3: HugoMage696 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+EthanAF04 posts big blind 20
+Dealt to _SKR [As 5s]
+*** PRE-FLOP *** 
+HugoMage696 calls 20
+_SKR raises 280 to 300 and is all-in
+EthanAF04 calls 280 and is all-in
+HugoMage696 folds
+*** FLOP *** [4h 8d 5h]
+*** TURN *** [4h 8d 5h][Th]
+*** RIVER *** [4h 8d 5h Th][3d]
+*** SHOW DOWN ***
+EthanAF04 shows [Kh Jd] (High card : King)
+_SKR shows [As 5s] (One pair : 5)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4h 8d 5h Th 3d]
+Seat 1: _SKR (small blind) showed [As 5s] and won 620 with One pair : 5
+Seat 2: EthanAF04 (big blind) showed [Kh Jd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718700013306773505-2-1676296153 - Holdem no limit (10/20) - 2023/02/13 13:49:13 UTC
+Table: 'Expresso Nitro(632996674)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (620)
+Seat 3: HugoMage696 (280)
+*** ANTE/BLINDS ***
+HugoMage696 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh Kd]
+*** PRE-FLOP *** 
+HugoMage696 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718700013306773505-3-1676296157 - Holdem no limit (10/20) - 2023/02/13 13:49:17 UTC
+Table: 'Expresso Nitro(632996674)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (630)
+Seat 3: HugoMage696 (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+HugoMage696 posts big blind 20
+Dealt to _SKR [Kd Qh]
+*** PRE-FLOP *** 
+_SKR raises 610 to 630 and is all-in
+HugoMage696 calls 250 and is all-in
+*** FLOP *** [4s Kh Qc]
+*** TURN *** [4s Kh Qc][7c]
+*** RIVER *** [4s Kh Qc 7c][2c]
+*** SHOW DOWN ***
+HugoMage696 shows [6s 2s] (One pair : 2)
+_SKR shows [Kd Qh] (Two pairs : Kings and Queens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s Kh Qc 7c 2c]
+Seat 1: _SKR (small blind) (button) showed [Kd Qh] and won 900 with Two pairs : Kings and Queens
+Seat 3: HugoMage696 (big blind) showed [6s 2s] and lost with One pair : 2
+
+

@@ -1,0 +1,137 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728435054899363841-1-1676847091 - Holdem no limit (10/20) - 2023/02/19 22:51:31 UTC
+Table: 'Expresso Nitro(635263290)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pocaluma (300)
+Seat 2: Vincegood80 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Vincegood80 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Td]
+*** PRE-FLOP *** 
+Pocaluma calls 20
+Vincegood80 folds
+_SKR checks
+*** FLOP *** [9d Kc 7h]
+_SKR checks
+Pocaluma bets 20
+_SKR calls 20
+*** TURN *** [9d Kc 7h][5h]
+_SKR checks
+Pocaluma checks
+*** RIVER *** [9d Kc 7h 5h][5c]
+_SKR bets 45
+Pocaluma folds
+_SKR collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [9d Kc 7h 5h 5c]
+Seat 3: _SKR (big blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728435054899363841-2-1676847107 - Holdem no limit (10/20) - 2023/02/19 22:51:47 UTC
+Table: 'Expresso Nitro(635263290)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pocaluma (260)
+Seat 2: Vincegood80 (290)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Pocaluma posts big blind 20
+Dealt to _SKR [9s Jc]
+*** PRE-FLOP *** 
+Vincegood80 folds
+_SKR calls 10
+Pocaluma checks
+*** FLOP *** [6h 5c 9c]
+_SKR bets 20
+Pocaluma calls 20
+*** TURN *** [6h 5c 9c][2h]
+_SKR bets 52
+Pocaluma calls 52
+*** RIVER *** [6h 5c 9c 2h][4c]
+_SKR bets 184
+Pocaluma calls 168 and is all-in
+*** SHOW DOWN ***
+Pocaluma shows [8c 2c] (Flush 9 high)
+_SKR shows [9s Jc] (One pair : 9)
+_SKR collected 16 from side pot 1
+Pocaluma collected 520 from main pot
+*** SUMMARY ***
+Total pot 536 | No rake
+Board: [6h 5c 9c 2h 4c]
+Seat 1: Pocaluma (big blind) showed [8c 2c] and won 520 with Flush 9 high
+Seat 3: _SKR (small blind) showed [9s Jc] and won 16 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728435054899363841-3-1676847148 - Holdem no limit (15/30) - 2023/02/19 22:52:28 UTC
+Table: 'Expresso Nitro(635263290)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pocaluma (520)
+Seat 2: Vincegood80 (290)
+Seat 3: _SKR (90)
+*** ANTE/BLINDS ***
+Pocaluma posts small blind 15
+Vincegood80 posts big blind 30
+Dealt to _SKR [5c 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Pocaluma folds
+Vincegood80 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Vincegood80 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728435054899363841-4-1676847153 - Holdem no limit (15/30) - 2023/02/19 22:52:33 UTC
+Table: 'Expresso Nitro(635263290)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pocaluma (505)
+Seat 2: Vincegood80 (305)
+Seat 3: _SKR (90)
+*** ANTE/BLINDS ***
+Vincegood80 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd Jc]
+*** PRE-FLOP *** 
+Pocaluma raises 475 to 505 and is all-in
+Vincegood80 folds
+_SKR calls 60 and is all-in
+*** FLOP *** [4c 8s 6c]
+*** TURN *** [4c 8s 6c][Ah]
+*** RIVER *** [4c 8s 6c Ah][4h]
+*** SHOW DOWN ***
+Pocaluma shows [Td Kc] (One pair : 4)
+_SKR shows [Kd Jc] (One pair : 4)
+_SKR collected 195 from main pot
+Pocaluma collected 415 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [4c 8s 6c Ah 4h]
+Seat 1: Pocaluma (button) showed [Td Kc] and won 415 with One pair : 4
+Seat 3: _SKR (big blind) showed [Kd Jc] and won 195 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728435054899363841-5-1676847165 - Holdem no limit (15/30) - 2023/02/19 22:52:45 UTC
+Table: 'Expresso Nitro(635263290)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pocaluma (415)
+Seat 2: Vincegood80 (290)
+Seat 3: _SKR (195)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Pocaluma posts big blind 30
+Dealt to _SKR [Ad 9s]
+*** PRE-FLOP *** 
+Vincegood80 folds
+_SKR raises 165 to 195 and is all-in
+Pocaluma calls 165
+*** FLOP *** [5s 9h 5c]
+*** TURN *** [5s 9h 5c][3c]
+*** RIVER *** [5s 9h 5c 3c][4s]
+*** SHOW DOWN ***
+_SKR shows [Ad 9s] (Two pairs : 9 and 5)
+Pocaluma shows [Ah 2c] (Straight 5 high)
+Pocaluma collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [5s 9h 5c 3c 4s]
+Seat 1: Pocaluma (big blind) showed [Ah 2c] and won 390 with Straight 5 high
+Seat 3: _SKR (small blind) showed [Ad 9s] and lost with Two pairs : 9 and 5
+
+

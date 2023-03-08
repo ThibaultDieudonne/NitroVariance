@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661416733104930817-1-1673012185 - Holdem no limit (10/20) - 2023/01/06 13:36:25 UTC
+Table: 'Expresso Nitro(619659371)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: marco26 (300)
+Seat 3: Benouse21 (300)
+*** ANTE/BLINDS ***
+marco26 posts small blind 10
+Benouse21 posts big blind 20
+Dealt to _SKR [5s Kh]
+*** PRE-FLOP *** 
+_SKR folds
+marco26 calls 10
+Benouse21 raises 280 to 300 and is all-in
+marco26 calls 280 and is all-in
+*** FLOP *** [3c 7s 4d]
+*** TURN *** [3c 7s 4d][Ah]
+*** RIVER *** [3c 7s 4d Ah][Jd]
+*** SHOW DOWN ***
+Benouse21 shows [2d 2c] (One pair : 2)
+marco26 shows [8d 3d] (One pair : 3)
+marco26 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3c 7s 4d Ah Jd]
+Seat 2: marco26 (small blind) showed [8d 3d] and won 600 with One pair : 3
+Seat 3: Benouse21 (big blind) showed [2d 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661416733104930817-2-1673012207 - Holdem no limit (10/20) - 2023/01/06 13:36:47 UTC
+Table: 'Expresso Nitro(619659371)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: marco26 (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+marco26 posts big blind 20
+Dealt to _SKR [4d Ah]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+marco26 calls 280
+*** FLOP *** [Ts Kh 2c]
+*** TURN *** [Ts Kh 2c][5h]
+*** RIVER *** [Ts Kh 2c 5h][Js]
+*** SHOW DOWN ***
+_SKR shows [4d Ah] (High card : Ace)
+marco26 shows [4h Jd] (One pair : Jacks)
+marco26 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ts Kh 2c 5h Js]
+Seat 1: _SKR (small blind) (button) showed [4d Ah] and lost with High card : Ace
+Seat 2: marco26 (big blind) showed [4h Jd] and won 600 with One pair : Jacks
+
+

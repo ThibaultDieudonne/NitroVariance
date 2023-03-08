@@ -1,0 +1,95 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698265778683117569-1-1675188044 - Holdem no limit (10/20) - 2023/01/31 18:00:44 UTC
+Table: 'Expresso Nitro(628238958)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: sosolesalaud (300)
+Seat 3: Cal1m3ro (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+sosolesalaud posts big blind 20
+Dealt to _SKR [Jh 6s]
+*** PRE-FLOP *** 
+Cal1m3ro folds
+_SKR folds
+sosolesalaud collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: sosolesalaud (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698265778683117569-2-1675188062 - Holdem no limit (10/20) - 2023/01/31 18:01:02 UTC
+Table: 'Expresso Nitro(628238958)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: sosolesalaud (310)
+Seat 3: Cal1m3ro (300)
+*** ANTE/BLINDS ***
+sosolesalaud posts small blind 10
+Cal1m3ro posts big blind 20
+Dealt to _SKR [4c Qc]
+*** PRE-FLOP *** 
+_SKR folds
+sosolesalaud calls 10
+Cal1m3ro raises 30 to 50
+sosolesalaud calls 30
+*** FLOP *** [Jc 7d 6h]
+sosolesalaud checks
+Cal1m3ro bets 35
+sosolesalaud folds
+Cal1m3ro collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Jc 7d 6h]
+Seat 3: Cal1m3ro (big blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698265778683117569-3-1675188091 - Holdem no limit (10/20) - 2023/01/31 18:01:31 UTC
+Table: 'Expresso Nitro(628238958)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: sosolesalaud (260)
+Seat 3: Cal1m3ro (350)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc Ts]
+*** PRE-FLOP *** 
+sosolesalaud raises 240 to 260 and is all-in
+Cal1m3ro raises 90 to 350 and is all-in
+_SKR folds
+*** FLOP *** [Js 8s 6c]
+*** TURN *** [Js 8s 6c][8d]
+*** RIVER *** [Js 8s 6c 8d][Ks]
+*** SHOW DOWN ***
+sosolesalaud shows [2d As] (One pair : 8)
+Cal1m3ro shows [4h 4d] (Two pairs : 8 and 4)
+Cal1m3ro collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Js 8s 6c 8d Ks]
+Seat 2: sosolesalaud (button) showed [2d As] and lost with One pair : 8
+Seat 3: Cal1m3ro (small blind) showed [4h 4d] and won 630 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698265778683117569-4-1675188117 - Holdem no limit (15/30) - 2023/01/31 18:01:57 UTC
+Table: 'Expresso Nitro(628238958)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 3: Cal1m3ro (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Cal1m3ro posts big blind 30
+Dealt to _SKR [Kh 4s]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+Cal1m3ro calls 240
+*** FLOP *** [6d 2h 3c]
+*** TURN *** [6d 2h 3c][Qs]
+*** RIVER *** [6d 2h 3c Qs][As]
+*** SHOW DOWN ***
+_SKR shows [Kh 4s] (High card : Ace)
+Cal1m3ro shows [5h Ad] (One pair : Aces)
+Cal1m3ro collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [6d 2h 3c Qs As]
+Seat 1: _SKR (small blind) (button) showed [Kh 4s] and lost with High card : Ace
+Seat 3: Cal1m3ro (big blind) showed [5h Ad] and won 540 with One pair : Aces
+
+

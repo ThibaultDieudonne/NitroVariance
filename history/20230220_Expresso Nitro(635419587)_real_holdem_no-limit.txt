@@ -1,0 +1,318 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729106345402826753-1-1676900926 - Holdem no limit (10/20) - 2023/02/20 13:48:46 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: 5019.P (300)
+Seat 3: JEANFE (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+5019.P posts big blind 20
+Dealt to _SKR [7c Qs]
+*** PRE-FLOP *** 
+JEANFE raises 50 to 70
+_SKR folds
+5019.P calls 50
+*** FLOP *** [2d 5d 8s]
+5019.P checks
+JEANFE bets 53
+5019.P folds
+JEANFE collected 203 from pot
+*** SUMMARY ***
+Total pot 203 | No rake
+Board: [2d 5d 8s]
+Seat 3: JEANFE (button) won 203
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729106345402826753-2-1676900946 - Holdem no limit (10/20) - 2023/02/20 13:49:06 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: 5019.P (230)
+Seat 3: JEANFE (380)
+*** ANTE/BLINDS ***
+5019.P posts small blind 10
+JEANFE posts big blind 20
+Dealt to _SKR [9d Qc]
+*** PRE-FLOP *** 
+_SKR folds
+5019.P raises 20 to 40
+JEANFE calls 20
+*** FLOP *** [As 6c 3d]
+5019.P checks
+JEANFE checks
+*** TURN *** [As 6c 3d][8s]
+5019.P bets 20
+JEANFE folds
+5019.P collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [As 6c 3d 8s]
+Seat 2: 5019.P (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729106345402826753-3-1676900977 - Holdem no limit (10/20) - 2023/02/20 13:49:37 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: 5019.P (270)
+Seat 3: JEANFE (340)
+*** ANTE/BLINDS ***
+JEANFE posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 2s]
+*** PRE-FLOP *** 
+5019.P folds
+JEANFE calls 10
+_SKR raises 270 to 290 and is all-in
+JEANFE calls 270
+*** FLOP *** [Jd 3d 5s]
+*** TURN *** [Jd 3d 5s][8s]
+*** RIVER *** [Jd 3d 5s 8s][Ac]
+*** SHOW DOWN ***
+JEANFE shows [Kd Td] (High card : Ace)
+_SKR shows [Ah 2s] (One pair : Aces)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Jd 3d 5s 8s Ac]
+Seat 1: _SKR (big blind) showed [Ah 2s] and won 580 with One pair : Aces
+Seat 3: JEANFE (small blind) showed [Kd Td] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729106345402826753-4-1676901007 - Holdem no limit (15/30) - 2023/02/20 13:50:07 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (580)
+Seat 2: 5019.P (270)
+Seat 3: JEANFE (50)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+5019.P posts big blind 30
+Dealt to _SKR [Kh Jh]
+*** PRE-FLOP *** 
+JEANFE folds
+_SKR raises 550 to 580 and is all-in
+5019.P calls 240 and is all-in
+*** FLOP *** [Tc 2s 9s]
+*** TURN *** [Tc 2s 9s][5c]
+*** RIVER *** [Tc 2s 9s 5c][9c]
+*** SHOW DOWN ***
+_SKR shows [Kh Jh] (One pair : 9)
+5019.P shows [Kd Ac] (One pair : 9)
+5019.P collected 540 from main pot
+_SKR collected 310 from side pot 1
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [Tc 2s 9s 5c 9c]
+Seat 1: _SKR (small blind) showed [Kh Jh] and won 310 with One pair : 9
+Seat 2: 5019.P (big blind) showed [Kd Ac] and won 540 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729106345402826753-5-1676901026 - Holdem no limit (15/30) - 2023/02/20 13:50:26 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: 5019.P (540)
+Seat 3: JEANFE (50)
+*** ANTE/BLINDS ***
+5019.P posts small blind 15
+JEANFE posts big blind 30
+Dealt to _SKR [2d 6d]
+*** PRE-FLOP *** 
+_SKR folds
+5019.P folds
+JEANFE collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: JEANFE (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729106345402826753-6-1676901033 - Holdem no limit (15/30) - 2023/02/20 13:50:33 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: 5019.P (525)
+Seat 3: JEANFE (65)
+*** ANTE/BLINDS ***
+JEANFE posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh Js]
+*** PRE-FLOP *** 
+5019.P folds
+JEANFE raises 35 to 65 and is all-in
+_SKR calls 35
+*** FLOP *** [3s 7d 3h]
+*** TURN *** [3s 7d 3h][Kd]
+*** RIVER *** [3s 7d 3h Kd][4c]
+*** SHOW DOWN ***
+JEANFE shows [8s 8d] (Two pairs : 8 and 3)
+_SKR shows [Kh Js] (Two pairs : Kings and 3)
+_SKR collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [3s 7d 3h Kd 4c]
+Seat 1: _SKR (big blind) showed [Kh Js] and won 130 with Two pairs : Kings and 3
+Seat 3: JEANFE (small blind) showed [8s 8d] and lost with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729106345402826753-7-1676901058 - Holdem no limit (20/40) - 2023/02/20 13:50:58 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (375)
+Seat 2: 5019.P (525)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+5019.P posts big blind 40
+Dealt to _SKR [2c Ac]
+*** PRE-FLOP *** 
+_SKR raises 335 to 375 and is all-in
+5019.P calls 335
+*** FLOP *** [Kd 3c 3h]
+*** TURN *** [Kd 3c 3h][As]
+*** RIVER *** [Kd 3c 3h As][5s]
+*** SHOW DOWN ***
+5019.P shows [Ts Kh] (Two pairs : Kings and 3)
+_SKR shows [2c Ac] (Two pairs : Aces and 3)
+_SKR collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [Kd 3c 3h As 5s]
+Seat 1: _SKR (small blind) (button) showed [2c Ac] and won 750 with Two pairs : Aces and 3
+Seat 2: 5019.P (big blind) showed [Ts Kh] and lost with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729106345402826753-8-1676901073 - Holdem no limit (20/40) - 2023/02/20 13:51:13 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (750)
+Seat 2: 5019.P (150)
+*** ANTE/BLINDS ***
+5019.P posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8h 7h]
+*** PRE-FLOP *** 
+5019.P folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729106345402826753-9-1676901079 - Holdem no limit (20/40) - 2023/02/20 13:51:19 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (770)
+Seat 2: 5019.P (130)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+5019.P posts big blind 40
+Dealt to _SKR [8d 7h]
+*** PRE-FLOP *** 
+_SKR raises 730 to 770 and is all-in
+5019.P folds
+_SKR collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Seat 1: _SKR (small blind) (button) won 810
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729106345402826753-10-1676901095 - Holdem no limit (20/40) - 2023/02/20 13:51:35 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (810)
+Seat 2: 5019.P (90)
+*** ANTE/BLINDS ***
+5019.P posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qc Td]
+*** PRE-FLOP *** 
+5019.P raises 50 to 90 and is all-in
+_SKR calls 50
+*** FLOP *** [Ad 7s 4h]
+*** TURN *** [Ad 7s 4h][Qs]
+*** RIVER *** [Ad 7s 4h Qs][Kd]
+*** SHOW DOWN ***
+_SKR shows [Qc Td] (One pair : Queens)
+5019.P shows [2c Ks] (One pair : Kings)
+5019.P collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ad 7s 4h Qs Kd]
+Seat 1: _SKR (big blind) showed [Qc Td] and lost with One pair : Queens
+Seat 2: 5019.P (small blind) (button) showed [2c Ks] and won 180 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729106345402826753-11-1676901110 - Holdem no limit (30/60) - 2023/02/20 13:51:50 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (720)
+Seat 2: 5019.P (180)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+5019.P posts big blind 60
+Dealt to _SKR [Qc 8h]
+*** PRE-FLOP *** 
+_SKR raises 660 to 720 and is all-in
+5019.P folds
+_SKR collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 1: _SKR (small blind) (button) won 780
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729106345402826753-12-1676901120 - Holdem no limit (30/60) - 2023/02/20 13:52:00 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (780)
+Seat 2: 5019.P (120)
+*** ANTE/BLINDS ***
+5019.P posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3s Ac]
+*** PRE-FLOP *** 
+5019.P folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729106345402826753-13-1676901127 - Holdem no limit (30/60) - 2023/02/20 13:52:07 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (810)
+Seat 2: 5019.P (90)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+5019.P posts big blind 60
+Dealt to _SKR [5d 4d]
+*** PRE-FLOP *** 
+_SKR raises 60 to 120
+5019.P calls 30 and is all-in
+*** FLOP *** [Qd 9s Jd]
+*** TURN *** [Qd 9s Jd][6s]
+*** RIVER *** [Qd 9s Jd 6s][9c]
+*** SHOW DOWN ***
+_SKR shows [5d 4d] (One pair : 9)
+5019.P shows [3h 5c] (One pair : 9)
+5019.P collected 90 from main pot
+_SKR collected 120 from side pot 1
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Qd 9s Jd 6s 9c]
+Seat 1: _SKR (small blind) (button) showed [5d 4d] and won 120 with One pair : 9
+Seat 2: 5019.P (big blind) showed [3h 5c] and won 90 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729106345402826753-14-1676901142 - Holdem no limit (30/60) - 2023/02/20 13:52:22 UTC
+Table: 'Expresso Nitro(635419587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (810)
+Seat 2: 5019.P (90)
+*** ANTE/BLINDS ***
+5019.P posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ah Kc]
+*** PRE-FLOP *** 
+5019.P raises 30 to 90 and is all-in
+_SKR raises 60 to 150
+*** FLOP *** [2c 3d 9d]
+*** TURN *** [2c 3d 9d][Jd]
+*** RIVER *** [2c 3d 9d Jd][8d]
+*** SHOW DOWN ***
+5019.P shows [6s 4h] (High card : Jack)
+_SKR shows [Ah Kc] (High card : Ace)
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [2c 3d 9d Jd 8d]
+Seat 1: _SKR (big blind) showed [Ah Kc] and won 240 with High card : Ace
+Seat 2: 5019.P (small blind) (button) showed [6s 4h] and lost with High card : Jack
+
+

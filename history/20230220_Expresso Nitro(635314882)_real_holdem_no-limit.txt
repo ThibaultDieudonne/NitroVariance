@@ -1,0 +1,55 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728656640852099073-1-1676860112 - Holdem no limit (10/20) - 2023/02/20 02:28:32 UTC
+Table: 'Expresso Nitro(635314882)#0' 3-max (real money) Seat #2 is the button
+Seat 1: RggdsiTpaBRM (300)
+Seat 2: _SKR (300)
+Seat 3: johnaaron (300)
+*** ANTE/BLINDS ***
+johnaaron posts small blind 10
+RggdsiTpaBRM posts big blind 20
+Dealt to _SKR [8c 2d]
+*** PRE-FLOP *** 
+_SKR folds
+johnaaron calls 10
+RggdsiTpaBRM checks
+*** FLOP *** [6s 7s 3s]
+johnaaron bets 40
+RggdsiTpaBRM raises 240 to 280 and is all-in
+johnaaron calls 240 and is all-in
+*** TURN *** [6s 7s 3s][Jc]
+*** RIVER *** [6s 7s 3s Jc][8d]
+*** SHOW DOWN ***
+johnaaron shows [Qs 2c] (High card : Queen)
+RggdsiTpaBRM shows [7h 8h] (Two pairs : 8 and 7)
+RggdsiTpaBRM collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6s 7s 3s Jc 8d]
+Seat 1: RggdsiTpaBRM (big blind) showed [7h 8h] and won 600 with Two pairs : 8 and 7
+Seat 3: johnaaron (small blind) showed [Qs 2c] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728656640852099073-2-1676860132 - Holdem no limit (10/20) - 2023/02/20 02:28:52 UTC
+Table: 'Expresso Nitro(635314882)#0' 3-max (real money) Seat #1 is the button
+Seat 1: RggdsiTpaBRM (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+RggdsiTpaBRM posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad 9s]
+*** PRE-FLOP *** 
+RggdsiTpaBRM raises 580 to 600 and is all-in
+_SKR calls 280 and is all-in
+*** FLOP *** [Jh 2c Qh]
+*** TURN *** [Jh 2c Qh][8h]
+*** RIVER *** [Jh 2c Qh 8h][Qc]
+*** SHOW DOWN ***
+_SKR shows [Ad 9s] (One pair : Queens)
+RggdsiTpaBRM shows [9d 9h] (Two pairs : Queens and 9)
+RggdsiTpaBRM collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh 2c Qh 8h Qc]
+Seat 1: RggdsiTpaBRM (small blind) (button) showed [9d 9h] and won 900 with Two pairs : Queens and 9
+Seat 2: _SKR (big blind) showed [Ad 9s] and lost with One pair : Queens
+
+

@@ -1,0 +1,70 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698214904795496449-1-1675185880 - Holdem no limit (10/20) - 2023/01/31 17:24:40 UTC
+Table: 'Expresso Nitro(628227113)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cherfioui1 (300)
+Seat 2: Ceute (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Ceute posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s 5d]
+*** PRE-FLOP *** 
+Cherfioui1 folds
+Ceute raises 20 to 40
+_SKR raises 260 to 300 and is all-in
+Ceute calls 260 and is all-in
+*** FLOP *** [7h 2s 7d]
+*** TURN *** [7h 2s 7d][6d]
+*** RIVER *** [7h 2s 7d 6d][Ac]
+*** SHOW DOWN ***
+Ceute shows [4d 5h] (One pair : 7)
+_SKR shows [5s 5d] (Two pairs : 7 and 5)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7h 2s 7d 6d Ac]
+Seat 2: Ceute (small blind) showed [4d 5h] and lost with One pair : 7
+Seat 3: _SKR (big blind) showed [5s 5d] and won 600 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698214904795496449-2-1675185917 - Holdem no limit (10/20) - 2023/01/31 17:25:17 UTC
+Table: 'Expresso Nitro(628227113)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cherfioui1 (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cherfioui1 posts big blind 20
+Dealt to _SKR [4d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Cherfioui1 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Cherfioui1 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698214904795496449-3-1675185921 - Holdem no limit (10/20) - 2023/01/31 17:25:21 UTC
+Table: 'Expresso Nitro(628227113)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cherfioui1 (310)
+Seat 3: _SKR (590)
+*** ANTE/BLINDS ***
+Cherfioui1 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 8d]
+*** PRE-FLOP *** 
+Cherfioui1 calls 10
+_SKR raises 570 to 590 and is all-in
+Cherfioui1 calls 290 and is all-in
+*** FLOP *** [3c Jd 7c]
+*** TURN *** [3c Jd 7c][2s]
+*** RIVER *** [3c Jd 7c 2s][4h]
+*** SHOW DOWN ***
+Cherfioui1 shows [6s Ad] (High card : Ace)
+_SKR shows [Ah 8d] (High card : Ace)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3c Jd 7c 2s 4h]
+Seat 1: Cherfioui1 (small blind) (button) showed [6s Ad] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [Ah 8d] and won 900 with High card : Ace
+
+

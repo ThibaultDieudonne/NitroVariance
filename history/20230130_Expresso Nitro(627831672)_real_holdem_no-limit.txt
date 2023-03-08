@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696516498632998913-1-1675084543 - Holdem no limit (10/20) - 2023/01/30 13:15:43 UTC
+Table: 'Expresso Nitro(627831672)#0' 3-max (real money) Seat #3 is the button
+Seat 1: VD_Crack9 (300)
+Seat 2: _SKR (300)
+Seat 3: rienaperdre2 (300)
+*** ANTE/BLINDS ***
+VD_Crack9 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 9s]
+*** PRE-FLOP *** 
+rienaperdre2 raises 280 to 300 and is all-in
+VD_Crack9 folds
+_SKR folds
+rienaperdre2 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: rienaperdre2 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696516498632998913-2-1675084551 - Holdem no limit (10/20) - 2023/01/30 13:15:51 UTC
+Table: 'Expresso Nitro(627831672)#0' 3-max (real money) Seat #1 is the button
+Seat 1: VD_Crack9 (290)
+Seat 2: _SKR (280)
+Seat 3: rienaperdre2 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+rienaperdre2 posts big blind 20
+Dealt to _SKR [Kd 9h]
+*** PRE-FLOP *** 
+VD_Crack9 calls 20
+_SKR raises 260 to 280 and is all-in
+rienaperdre2 calls 260
+VD_Crack9 calls 260
+*** FLOP *** [8c 9s 3h]
+rienaperdre2 bets 50 and is all-in
+VD_Crack9 calls 10 and is all-in
+*** TURN *** [8c 9s 3h][Qs]
+*** RIVER *** [8c 9s 3h Qs][6s]
+*** SHOW DOWN ***
+VD_Crack9 shows [3d Ah] (One pair : 3)
+_SKR shows [Kd 9h] (One pair : 9)
+rienaperdre2 shows [Ac 2d] (High card : Ace)
+rienaperdre2 collected 40 from side pot 2
+_SKR collected 840 from main pot
+VD_Crack9 collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8c 9s 3h Qs 6s]
+Seat 1: VD_Crack9 (button) showed [3d Ah] and won 20 with One pair : 3
+Seat 2: _SKR (small blind) showed [Kd 9h] and won 840 with One pair : 9
+Seat 3: rienaperdre2 (big blind) showed [Ac 2d] and won 40 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696516498632998913-3-1675084569 - Holdem no limit (10/20) - 2023/01/30 13:16:09 UTC
+Table: 'Expresso Nitro(627831672)#0' 3-max (real money) Seat #2 is the button
+Seat 1: VD_Crack9 (20)
+Seat 2: _SKR (840)
+Seat 3: rienaperdre2 (40)
+*** ANTE/BLINDS ***
+rienaperdre2 posts small blind 10
+VD_Crack9 posts big blind 20 and is all-in
+Dealt to _SKR [8c 3h]
+*** PRE-FLOP *** 
+_SKR folds
+rienaperdre2 raises 20 to 40 and is all-in
+*** FLOP *** [Qs 2d Qh]
+*** TURN *** [Qs 2d Qh][Jc]
+*** RIVER *** [Qs 2d Qh Jc][8s]
+*** SHOW DOWN ***
+VD_Crack9 shows [5s Th] (One pair : Queens)
+rienaperdre2 shows [7h Kc] (One pair : Queens)
+rienaperdre2 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qs 2d Qh Jc 8s]
+Seat 1: VD_Crack9 (big blind) showed [5s Th] and lost with One pair : Queens
+Seat 3: rienaperdre2 (small blind) showed [7h Kc] and won 60 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696516498632998913-4-1675084582 - Holdem no limit (10/20) - 2023/01/30 13:16:22 UTC
+Table: 'Expresso Nitro(627831672)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (840)
+Seat 3: rienaperdre2 (60)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+rienaperdre2 posts big blind 20
+Dealt to _SKR [Ts Td]
+*** PRE-FLOP *** 
+_SKR raises 820 to 840 and is all-in
+rienaperdre2 calls 40 and is all-in
+*** FLOP *** [Js Tc 7c]
+*** TURN *** [Js Tc 7c][Ac]
+*** RIVER *** [Js Tc 7c Ac][4s]
+*** SHOW DOWN ***
+rienaperdre2 shows [2d 9h] (High card : Ace)
+_SKR shows [Ts Td] (Trips of Tens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js Tc 7c Ac 4s]
+Seat 2: _SKR (small blind) (button) showed [Ts Td] and won 900 with Trips of Tens
+Seat 3: rienaperdre2 (big blind) showed [2d 9h] and lost with High card : Ace
+
+

@@ -1,0 +1,63 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696602372209115137-1-1675089330 - Holdem no limit (10/20) - 2023/01/30 14:35:30 UTC
+Table: 'Expresso Nitro(627851666)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: chenicoooo (300)
+Seat 3: tuyoo07 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+chenicoooo posts big blind 20
+Dealt to _SKR [8h 6c]
+*** PRE-FLOP *** 
+tuyoo07 calls 20
+_SKR folds
+chenicoooo checks
+*** FLOP *** [Jd Qc Ks]
+chenicoooo checks
+tuyoo07 checks
+*** TURN *** [Jd Qc Ks][Qs]
+chenicoooo checks
+tuyoo07 bets 20
+chenicoooo folds
+tuyoo07 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Jd Qc Ks Qs]
+Seat 3: tuyoo07 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696602372209115137-2-1675089345 - Holdem no limit (10/20) - 2023/01/30 14:35:45 UTC
+Table: 'Expresso Nitro(627851666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: chenicoooo (280)
+Seat 3: tuyoo07 (330)
+*** ANTE/BLINDS ***
+chenicoooo posts small blind 10
+tuyoo07 posts big blind 20
+Dealt to _SKR [Ks Ts]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+chenicoooo calls 30
+tuyoo07 calls 20
+*** FLOP *** [Kc 6s 3c]
+chenicoooo checks
+tuyoo07 checks
+_SKR bets 42
+chenicoooo calls 42
+tuyoo07 calls 42
+*** TURN *** [Kc 6s 3c][6c]
+chenicoooo checks
+tuyoo07 bets 248 and is all-in
+_SKR calls 208 and is all-in
+chenicoooo folds
+*** RIVER *** [Kc 6s 3c 6c][7h]
+*** SHOW DOWN ***
+_SKR shows [Ks Ts] (Two pairs : Kings and 6)
+tuyoo07 shows [Jc Tc] (Flush King high)
+tuyoo07 collected 702 from pot
+*** SUMMARY ***
+Total pot 702 | No rake
+Board: [Kc 6s 3c 6c 7h]
+Seat 1: _SKR (button) showed [Ks Ts] and lost with Two pairs : Kings and 6
+Seat 3: tuyoo07 (big blind) showed [Jc Tc] and won 702 with Flush King high
+
+

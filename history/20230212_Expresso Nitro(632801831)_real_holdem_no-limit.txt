@@ -1,0 +1,650 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717863168993918977-1-1676238067 - Holdem no limit (10/20) - 2023/02/12 21:41:07 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Loyner77 (300)
+Seat 2: _SKR (300)
+Seat 3: Litaka34 (300)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc Qh]
+*** PRE-FLOP *** 
+Litaka34 raises 50 to 70
+Loyner77 folds
+_SKR raises 230 to 300 and is all-in
+Litaka34 folds
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 2: _SKR (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717863168993918977-2-1676238092 - Holdem no limit (10/20) - 2023/02/12 21:41:32 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (290)
+Seat 2: _SKR (380)
+Seat 3: Litaka34 (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Litaka34 posts big blind 20
+Dealt to _SKR [7h 9s]
+*** PRE-FLOP *** 
+Loyner77 raises 270 to 290 and is all-in
+_SKR folds
+Litaka34 calls 210 and is all-in
+*** FLOP *** [3d Kc 3h]
+*** TURN *** [3d Kc 3h][2s]
+*** RIVER *** [3d Kc 3h 2s][8h]
+*** SHOW DOWN ***
+Loyner77 shows [6c 5d] (One pair : 3)
+Litaka34 shows [7d 7c] (Two pairs : 7 and 3)
+Litaka34 collected 470 from main pot
+Loyner77 collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [3d Kc 3h 2s 8h]
+Seat 1: Loyner77 (button) showed [6c 5d] and won 60 with One pair : 3
+Seat 3: Litaka34 (big blind) showed [7d 7c] and won 470 with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717863168993918977-3-1676238107 - Holdem no limit (10/20) - 2023/02/12 21:41:47 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (60)
+Seat 2: _SKR (370)
+Seat 3: Litaka34 (470)
+*** ANTE/BLINDS ***
+Litaka34 posts small blind 10
+Loyner77 posts big blind 20
+Dealt to _SKR [5c Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Litaka34 calls 10
+Loyner77 checks
+*** FLOP *** [9c 3d 4c]
+Litaka34 bets 40
+Loyner77 calls 40 and is all-in
+*** TURN *** [9c 3d 4c][7d]
+*** RIVER *** [9c 3d 4c 7d][Qc]
+*** SHOW DOWN ***
+Litaka34 shows [Td 5h] (High card : Queen)
+Loyner77 shows [Ac Kd] (High card : Ace)
+Loyner77 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9c 3d 4c 7d Qc]
+Seat 1: Loyner77 (big blind) showed [Ac Kd] and won 120 with High card : Ace
+Seat 3: Litaka34 (small blind) showed [Td 5h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717863168993918977-4-1676238131 - Holdem no limit (15/30) - 2023/02/12 21:42:11 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Loyner77 (120)
+Seat 2: _SKR (370)
+Seat 3: Litaka34 (410)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6c 5d]
+*** PRE-FLOP *** 
+Litaka34 raises 75 to 105
+Loyner77 raises 15 to 120 and is all-in
+_SKR folds
+Litaka34 calls 15
+*** FLOP *** [9d Kc 8h]
+*** TURN *** [9d Kc 8h][5h]
+*** RIVER *** [9d Kc 8h 5h][3h]
+*** SHOW DOWN ***
+Litaka34 shows [Ac 2c] (High card : Ace)
+Loyner77 shows [7c 9h] (One pair : 9)
+Loyner77 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [9d Kc 8h 5h 3h]
+Seat 1: Loyner77 (small blind) showed [7c 9h] and won 270 with One pair : 9
+Seat 3: Litaka34 (button) showed [Ac 2c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717863168993918977-5-1676238159 - Holdem no limit (15/30) - 2023/02/12 21:42:39 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (270)
+Seat 2: _SKR (340)
+Seat 3: Litaka34 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Litaka34 posts big blind 30
+Dealt to _SKR [As 7d]
+*** PRE-FLOP *** 
+Loyner77 folds
+_SKR raises 310 to 340 and is all-in
+Litaka34 calls 260 and is all-in
+*** FLOP *** [9s 3s Jd]
+*** TURN *** [9s 3s Jd][8d]
+*** RIVER *** [9s 3s Jd 8d][Tc]
+*** SHOW DOWN ***
+Litaka34 shows [Kh 2d] (High card : King)
+_SKR shows [As 7d] (Straight Jack high)
+_SKR collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [9s 3s Jd 8d Tc]
+Seat 2: _SKR (small blind) showed [As 7d] and won 630 with Straight Jack high
+Seat 3: Litaka34 (big blind) showed [Kh 2d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717863168993918977-6-1676238174 - Holdem no limit (15/30) - 2023/02/12 21:42:54 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (270)
+Seat 2: _SKR (630)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7d 5h]
+*** PRE-FLOP *** 
+Loyner77 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717863168993918977-7-1676238178 - Holdem no limit (15/30) - 2023/02/12 21:42:58 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (255)
+Seat 2: _SKR (645)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Loyner77 posts big blind 30
+Dealt to _SKR [9c Td]
+*** PRE-FLOP *** 
+_SKR calls 15
+Loyner77 checks
+*** FLOP *** [Kh 5h 2s]
+Loyner77 checks
+_SKR checks
+*** TURN *** [Kh 5h 2s][Kc]
+Loyner77 checks
+_SKR checks
+*** RIVER *** [Kh 5h 2s Kc][3d]
+Loyner77 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [9c Td] (One pair : Kings)
+Loyner77 shows [2c 9s] (Two pairs : Kings and 2)
+Loyner77 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kh 5h 2s Kc 3d]
+Seat 1: Loyner77 (big blind) showed [2c 9s] and won 60 with Two pairs : Kings and 2
+Seat 2: _SKR (small blind) (button) showed [9c Td] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717863168993918977-8-1676238208 - Holdem no limit (20/40) - 2023/02/12 21:43:28 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (285)
+Seat 2: _SKR (615)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6c 6d]
+*** PRE-FLOP *** 
+Loyner77 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717863168993918977-9-1676238216 - Holdem no limit (20/40) - 2023/02/12 21:43:36 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (265)
+Seat 2: _SKR (635)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Loyner77 posts big blind 40
+Dealt to _SKR [Td 9d]
+*** PRE-FLOP *** 
+_SKR raises 595 to 635 and is all-in
+Loyner77 folds
+_SKR collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | No rake
+Seat 2: _SKR (small blind) (button) won 675
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717863168993918977-10-1676238224 - Holdem no limit (20/40) - 2023/02/12 21:43:44 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (225)
+Seat 2: _SKR (675)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s Qc]
+*** PRE-FLOP *** 
+Loyner77 raises 185 to 225 and is all-in
+_SKR folds
+Loyner77 collected 265 from pot
+*** SUMMARY ***
+Total pot 265 | No rake
+Seat 1: Loyner77 (small blind) (button) won 265
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717863168993918977-11-1676238231 - Holdem no limit (20/40) - 2023/02/12 21:43:51 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (265)
+Seat 2: _SKR (635)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Loyner77 posts big blind 40
+Dealt to _SKR [8h 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Loyner77 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Loyner77 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717863168993918977-12-1676238235 - Holdem no limit (20/40) - 2023/02/12 21:43:55 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (285)
+Seat 2: _SKR (615)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9s Tc]
+*** PRE-FLOP *** 
+Loyner77 raises 40 to 80
+_SKR folds
+Loyner77 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Loyner77 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717863168993918977-13-1676238240 - Holdem no limit (20/40) - 2023/02/12 21:44:00 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (325)
+Seat 2: _SKR (575)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Loyner77 posts big blind 40
+Dealt to _SKR [6d Th]
+*** PRE-FLOP *** 
+_SKR folds
+Loyner77 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Loyner77 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717863168993918977-14-1676238246 - Holdem no limit (30/60) - 2023/02/12 21:44:06 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (345)
+Seat 2: _SKR (555)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2s Js]
+*** PRE-FLOP *** 
+Loyner77 raises 285 to 345 and is all-in
+_SKR folds
+Loyner77 collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Seat 1: Loyner77 (small blind) (button) won 405
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717863168993918977-15-1676238256 - Holdem no limit (30/60) - 2023/02/12 21:44:16 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (405)
+Seat 2: _SKR (495)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Loyner77 posts big blind 60
+Dealt to _SKR [4c 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Loyner77 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Loyner77 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717863168993918977-16-1676238261 - Holdem no limit (30/60) - 2023/02/12 21:44:21 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (435)
+Seat 2: _SKR (465)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [6c Jh]
+*** PRE-FLOP *** 
+Loyner77 raises 375 to 435 and is all-in
+_SKR folds
+Loyner77 collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Seat 1: Loyner77 (small blind) (button) won 495
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717863168993918977-17-1676238270 - Holdem no limit (30/60) - 2023/02/12 21:44:30 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (495)
+Seat 2: _SKR (405)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Loyner77 posts big blind 60
+Dealt to _SKR [5c 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Loyner77 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Loyner77 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717863168993918977-18-1676238275 - Holdem no limit (30/60) - 2023/02/12 21:44:35 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (525)
+Seat 2: _SKR (375)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kc Ks]
+*** PRE-FLOP *** 
+Loyner77 raises 60 to 120
+_SKR raises 255 to 375 and is all-in
+Loyner77 calls 255
+*** FLOP *** [3h 5d 7c]
+*** TURN *** [3h 5d 7c][4d]
+*** RIVER *** [3h 5d 7c 4d][Kh]
+*** SHOW DOWN ***
+Loyner77 shows [7s 4s] (Two pairs : 7 and 4)
+_SKR shows [Kc Ks] (Trips of Kings)
+_SKR collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [3h 5d 7c 4d Kh]
+Seat 1: Loyner77 (small blind) (button) showed [7s 4s] and lost with Two pairs : 7 and 4
+Seat 2: _SKR (big blind) showed [Kc Ks] and won 750 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717863168993918977-19-1676238291 - Holdem no limit (30/60) - 2023/02/12 21:44:51 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (150)
+Seat 2: _SKR (750)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Loyner77 posts big blind 60
+Dealt to _SKR [Ks 3h]
+*** PRE-FLOP *** 
+_SKR raises 690 to 750 and is all-in
+Loyner77 calls 90 and is all-in
+*** FLOP *** [Qc Ts 3c]
+*** TURN *** [Qc Ts 3c][Th]
+*** RIVER *** [Qc Ts 3c Th][8h]
+*** SHOW DOWN ***
+Loyner77 shows [3d Tc] (Full of Tens and 3)
+_SKR shows [Ks 3h] (Two pairs : Tens and 3)
+_SKR collected 600 from side pot 1
+Loyner77 collected 300 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc Ts 3c Th 8h]
+Seat 1: Loyner77 (big blind) showed [3d Tc] and won 300 with Full of Tens and 3
+Seat 2: _SKR (small blind) (button) showed [Ks 3h] and won 600 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717863168993918977-20-1676238303 - Holdem no limit (40/80) - 2023/02/12 21:45:03 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (300)
+Seat 2: _SKR (600)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [6d 7c]
+*** PRE-FLOP *** 
+Loyner77 raises 220 to 300 and is all-in
+_SKR folds
+Loyner77 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 1: Loyner77 (small blind) (button) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717863168993918977-21-1676238312 - Holdem no limit (40/80) - 2023/02/12 21:45:12 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (380)
+Seat 2: _SKR (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Loyner77 posts big blind 80
+Dealt to _SKR [9d 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Loyner77 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Loyner77 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717863168993918977-22-1676238324 - Holdem no limit (40/80) - 2023/02/12 21:45:24 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (420)
+Seat 2: _SKR (480)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [6c Jc]
+*** PRE-FLOP *** 
+Loyner77 raises 340 to 420 and is all-in
+_SKR folds
+Loyner77 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 1: Loyner77 (small blind) (button) won 500
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717863168993918977-23-1676238339 - Holdem no limit (40/80) - 2023/02/12 21:45:39 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (500)
+Seat 2: _SKR (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Loyner77 posts big blind 80
+Dealt to _SKR [4h 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Loyner77 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Loyner77 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717863168993918977-24-1676238355 - Holdem no limit (40/80) - 2023/02/12 21:45:55 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (540)
+Seat 2: _SKR (360)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [9c 7s]
+*** PRE-FLOP *** 
+Loyner77 calls 40
+_SKR checks
+*** FLOP *** [8h 9d Jd]
+_SKR checks
+Loyner77 checks
+*** TURN *** [8h 9d Jd][5c]
+_SKR bets 280 and is all-in
+Loyner77 raises 180 to 460 and is all-in
+*** RIVER *** [8h 9d Jd 5c][7d]
+*** SHOW DOWN ***
+Loyner77 shows [9s 3s] (One pair : 9)
+_SKR shows [9c 7s] (Two pairs : 9 and 7)
+_SKR collected 720 from main pot
+Loyner77 collected 180 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h 9d Jd 5c 7d]
+Seat 1: Loyner77 (small blind) (button) showed [9s 3s] and won 180 with One pair : 9
+Seat 2: _SKR (big blind) showed [9c 7s] and won 720 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717863168993918977-25-1676238383 - Holdem no limit (50/100) - 2023/02/12 21:46:23 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (180)
+Seat 2: _SKR (720)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Loyner77 posts big blind 100
+Dealt to _SKR [9s Jc]
+*** PRE-FLOP *** 
+_SKR raises 100 to 200
+Loyner77 calls 80 and is all-in
+*** FLOP *** [8s Qd 2d]
+*** TURN *** [8s Qd 2d][Qs]
+*** RIVER *** [8s Qd 2d Qs][Ks]
+*** SHOW DOWN ***
+Loyner77 shows [2s 2h] (Full of 2 and Queens)
+_SKR shows [9s Jc] (One pair : Queens)
+_SKR collected 20 from side pot 1
+Loyner77 collected 360 from main pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [8s Qd 2d Qs Ks]
+Seat 1: Loyner77 (big blind) showed [2s 2h] and won 360 with Full of 2 and Queens
+Seat 2: _SKR (small blind) (button) showed [9s Jc] and won 20 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717863168993918977-26-1676238395 - Holdem no limit (50/100) - 2023/02/12 21:46:35 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (360)
+Seat 2: _SKR (540)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [Ac 2h]
+*** PRE-FLOP *** 
+Loyner77 folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717863168993918977-27-1676238402 - Holdem no limit (50/100) - 2023/02/12 21:46:42 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (310)
+Seat 2: _SKR (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Loyner77 posts big blind 100
+Dealt to _SKR [4s Td]
+*** PRE-FLOP *** 
+_SKR folds
+Loyner77 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Loyner77 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717863168993918977-28-1676238406 - Holdem no limit (50/100) - 2023/02/12 21:46:46 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (360)
+Seat 2: _SKR (540)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [2h Qs]
+*** PRE-FLOP *** 
+Loyner77 raises 260 to 360 and is all-in
+_SKR folds
+Loyner77 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 1: Loyner77 (small blind) (button) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717863168993918977-29-1676238414 - Holdem no limit (50/100) - 2023/02/12 21:46:54 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (460)
+Seat 2: _SKR (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Loyner77 posts big blind 100
+Dealt to _SKR [4d 8h]
+*** PRE-FLOP *** 
+_SKR folds
+Loyner77 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Loyner77 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717863168993918977-30-1676238421 - Holdem no limit (50/100) - 2023/02/12 21:47:01 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (510)
+Seat 2: _SKR (390)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [6s Td]
+*** PRE-FLOP *** 
+Loyner77 raises 100 to 200
+_SKR folds
+Loyner77 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: Loyner77 (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2717863168993918977-31-1676238427 - Holdem no limit (60/120) - 2023/02/12 21:47:07 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loyner77 (610)
+Seat 2: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 60
+Loyner77 posts big blind 120
+Dealt to _SKR [5s Ah]
+*** PRE-FLOP *** 
+_SKR raises 170 to 290 and is all-in
+Loyner77 calls 170
+*** FLOP *** [Kd 5h Qs]
+*** TURN *** [Kd 5h Qs][Kc]
+*** RIVER *** [Kd 5h Qs Kc][5d]
+*** SHOW DOWN ***
+Loyner77 shows [6c As] (Two pairs : Kings and 5)
+_SKR shows [5s Ah] (Full of 5 and Kings)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Kd 5h Qs Kc 5d]
+Seat 1: Loyner77 (big blind) showed [6c As] and lost with Two pairs : Kings and 5
+Seat 2: _SKR (small blind) (button) showed [5s Ah] and won 580 with Full of 5 and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2717863168993918977-32-1676238443 - Holdem no limit (60/120) - 2023/02/12 21:47:23 UTC
+Table: 'Expresso Nitro(632801831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loyner77 (320)
+Seat 2: _SKR (580)
+*** ANTE/BLINDS ***
+Loyner77 posts small blind 60
+_SKR posts big blind 120
+Dealt to _SKR [6s Ah]
+*** PRE-FLOP *** 
+Loyner77 raises 200 to 320 and is all-in
+_SKR calls 200
+*** FLOP *** [As 6h 3d]
+*** TURN *** [As 6h 3d][Js]
+*** RIVER *** [As 6h 3d Js][5s]
+*** SHOW DOWN ***
+Loyner77 shows [3h 8s] (One pair : 3)
+_SKR shows [6s Ah] (Two pairs : Aces and 6)
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [As 6h 3d Js 5s]
+Seat 1: Loyner77 (small blind) (button) showed [3h 8s] and lost with One pair : 3
+Seat 2: _SKR (big blind) showed [6s Ah] and won 640 with Two pairs : Aces and 6
+
+

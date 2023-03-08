@@ -1,0 +1,191 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689860046648508417-1-1674656199 - Holdem no limit (10/20) - 2023/01/25 14:16:39 UTC
+Table: 'Expresso Nitro(626281846)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AgarKnox (300)
+Seat 2: Archimil (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+AgarKnox posts small blind 10
+Archimil posts big blind 20
+Dealt to _SKR [Qc 4c]
+*** PRE-FLOP *** 
+_SKR folds
+AgarKnox calls 10
+Archimil checks
+*** FLOP *** [Ah 6h Ac]
+AgarKnox checks
+Archimil checks
+*** TURN *** [Ah 6h Ac][8s]
+AgarKnox checks
+Archimil checks
+*** RIVER *** [Ah 6h Ac 8s][Kd]
+AgarKnox checks
+Archimil checks
+*** SHOW DOWN ***
+Archimil shows [5d 9s] (One pair : Aces)
+AgarKnox shows [5h Th] (One pair : Aces)
+AgarKnox collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ah 6h Ac 8s Kd]
+Seat 1: AgarKnox (small blind) showed [5h Th] and won 40 with One pair : Aces
+Seat 2: Archimil (big blind) showed [5d 9s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689860046648508417-2-1674656229 - Holdem no limit (10/20) - 2023/01/25 14:17:09 UTC
+Table: 'Expresso Nitro(626281846)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AgarKnox (320)
+Seat 2: Archimil (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Archimil posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 6d]
+*** PRE-FLOP *** 
+AgarKnox calls 20
+Archimil folds
+_SKR raises 280 to 300 and is all-in
+AgarKnox folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689860046648508417-3-1674656246 - Holdem no limit (10/20) - 2023/01/25 14:17:26 UTC
+Table: 'Expresso Nitro(626281846)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AgarKnox (300)
+Seat 2: Archimil (270)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AgarKnox posts big blind 20
+Dealt to _SKR [Jc 5c]
+*** PRE-FLOP *** 
+Archimil raises 250 to 270 and is all-in
+_SKR folds
+AgarKnox calls 250
+*** FLOP *** [8s Ts Qh]
+*** TURN *** [8s Ts Qh][5d]
+*** RIVER *** [8s Ts Qh 5d][Kc]
+*** SHOW DOWN ***
+AgarKnox shows [Ad 8c] (One pair : 8)
+Archimil shows [Tc Kh] (Two pairs : Kings and Tens)
+Archimil collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [8s Ts Qh 5d Kc]
+Seat 1: AgarKnox (big blind) showed [Ad 8c] and lost with One pair : 8
+Seat 2: Archimil (button) showed [Tc Kh] and won 550 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689860046648508417-4-1674656275 - Holdem no limit (15/30) - 2023/01/25 14:17:55 UTC
+Table: 'Expresso Nitro(626281846)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AgarKnox (30)
+Seat 2: Archimil (550)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+AgarKnox posts small blind 15
+Archimil posts big blind 30
+Dealt to _SKR [4s Ah]
+*** PRE-FLOP *** 
+_SKR raises 290 to 320 and is all-in
+AgarKnox calls 15 and is all-in
+Archimil folds
+*** FLOP *** [As 2c Ks]
+*** TURN *** [As 2c Ks][Kc]
+*** RIVER *** [As 2c Ks Kc][Td]
+*** SHOW DOWN ***
+AgarKnox shows [7h 9d] (One pair : Kings)
+_SKR shows [4s Ah] (Two pairs : Aces and Kings)
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [As 2c Ks Kc Td]
+Seat 1: AgarKnox (small blind) showed [7h 9d] and lost with One pair : Kings
+Seat 3: _SKR (button) showed [4s Ah] and won 380 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689860046648508417-5-1674656290 - Holdem no limit (15/30) - 2023/01/25 14:18:10 UTC
+Table: 'Expresso Nitro(626281846)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Archimil (520)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+Archimil posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Js 7s]
+*** PRE-FLOP *** 
+Archimil calls 15
+_SKR raises 350 to 380 and is all-in
+Archimil folds
+_SKR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 3: _SKR (big blind) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689860046648508417-6-1674656306 - Holdem no limit (15/30) - 2023/01/25 14:18:26 UTC
+Table: 'Expresso Nitro(626281846)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Archimil (490)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Archimil posts big blind 30
+Dealt to _SKR [3c Ah]
+*** PRE-FLOP *** 
+_SKR raises 380 to 410 and is all-in
+Archimil folds
+_SKR collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 3: _SKR (small blind) (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689860046648508417-7-1674656320 - Holdem no limit (20/40) - 2023/01/25 14:18:40 UTC
+Table: 'Expresso Nitro(626281846)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Archimil (460)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+Archimil posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6h 9s]
+*** PRE-FLOP *** 
+Archimil calls 20
+_SKR checks
+*** FLOP *** [6c Ks 9h]
+_SKR checks
+Archimil checks
+*** TURN *** [6c Ks 9h][5d]
+_SKR bets 52
+Archimil folds
+_SKR collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [6c Ks 9h 5d]
+Seat 3: _SKR (big blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689860046648508417-8-1674656338 - Holdem no limit (20/40) - 2023/01/25 14:18:58 UTC
+Table: 'Expresso Nitro(626281846)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Archimil (420)
+Seat 3: _SKR (480)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Archimil posts big blind 40
+Dealt to _SKR [Js Kd]
+*** PRE-FLOP *** 
+_SKR raises 440 to 480 and is all-in
+Archimil calls 380 and is all-in
+*** FLOP *** [5c 2c 9d]
+*** TURN *** [5c 2c 9d][Kc]
+*** RIVER *** [5c 2c 9d Kc][8s]
+*** SHOW DOWN ***
+Archimil shows [Jh Jd] (One pair : Jacks)
+_SKR shows [Js Kd] (One pair : Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c 2c 9d Kc 8s]
+Seat 2: Archimil (big blind) showed [Jh Jd] and lost with One pair : Jacks
+Seat 3: _SKR (small blind) (button) showed [Js Kd] and won 900 with One pair : Kings
+
+

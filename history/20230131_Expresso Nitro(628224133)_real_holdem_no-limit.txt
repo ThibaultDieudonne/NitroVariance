@@ -1,0 +1,52 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698202105792954369-1-1675185322 - Holdem no limit (10/20) - 2023/01/31 17:15:22 UTC
+Table: 'Expresso Nitro(628224133)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Ass-J (300)
+Seat 3: ELISE&CASSIE (300)
+*** ANTE/BLINDS ***
+Ass-J posts small blind 10
+ELISE&CASSIE posts big blind 20
+Dealt to _SKR [Qh 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Ass-J raises 280 to 300 and is all-in
+ELISE&CASSIE calls 280 and is all-in
+*** FLOP *** [3h Th 7d]
+*** TURN *** [3h Th 7d][6c]
+*** RIVER *** [3h Th 7d 6c][2h]
+*** SHOW DOWN ***
+ELISE&CASSIE shows [2s Kh] (One pair : 2)
+Ass-J shows [Ah 7h] (Flush Ace high)
+Ass-J collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3h Th 7d 6c 2h]
+Seat 2: Ass-J (small blind) showed [Ah 7h] and won 600 with Flush Ace high
+Seat 3: ELISE&CASSIE (big blind) showed [2s Kh] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698202105792954369-2-1675185341 - Holdem no limit (10/20) - 2023/01/31 17:15:41 UTC
+Table: 'Expresso Nitro(628224133)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Ass-J (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ass-J posts big blind 20
+Dealt to _SKR [3c Ah]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Ass-J calls 280
+*** FLOP *** [7h 2d 6c]
+*** TURN *** [7h 2d 6c][8h]
+*** RIVER *** [7h 2d 6c 8h][6h]
+*** SHOW DOWN ***
+_SKR shows [3c Ah] (One pair : 6)
+Ass-J shows [7d As] (Two pairs : 7 and 6)
+Ass-J collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7h 2d 6c 8h 6h]
+Seat 1: _SKR (small blind) (button) showed [3c Ah] and lost with One pair : 6
+Seat 2: Ass-J (big blind) showed [7d As] and won 600 with Two pairs : 7 and 6
+
+

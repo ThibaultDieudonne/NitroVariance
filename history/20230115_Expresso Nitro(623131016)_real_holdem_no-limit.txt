@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676327334843252737-1-1673820151 - Holdem no limit (10/20) - 2023/01/15 22:02:31 UTC
+Table: 'Expresso Nitro(623131016)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Myk01 (300)
+Seat 2: _SKR (300)
+Seat 3: ISAB57070 (300)
+*** ANTE/BLINDS ***
+Myk01 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 8h]
+*** PRE-FLOP *** 
+ISAB57070 calls 20
+Myk01 folds
+_SKR checks
+*** FLOP *** [4s Kc Qd]
+_SKR checks
+ISAB57070 bets 20
+_SKR folds
+ISAB57070 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [4s Kc Qd]
+Seat 3: ISAB57070 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676327334843252737-2-1673820168 - Holdem no limit (10/20) - 2023/01/15 22:02:48 UTC
+Table: 'Expresso Nitro(623131016)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Myk01 (290)
+Seat 2: _SKR (280)
+Seat 3: ISAB57070 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ISAB57070 posts big blind 20
+Dealt to _SKR [5c 7s]
+*** PRE-FLOP *** 
+Myk01 raises 20 to 40
+_SKR folds
+ISAB57070 calls 20
+*** FLOP *** [3s 7h Qc]
+ISAB57070 checks
+Myk01 checks
+*** TURN *** [3s 7h Qc][Th]
+ISAB57070 checks
+Myk01 bets 20
+ISAB57070 folds
+Myk01 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [3s 7h Qc Th]
+Seat 1: Myk01 (button) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676327334843252737-3-1673820190 - Holdem no limit (10/20) - 2023/01/15 22:03:10 UTC
+Table: 'Expresso Nitro(623131016)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Myk01 (340)
+Seat 2: _SKR (270)
+Seat 3: ISAB57070 (290)
+*** ANTE/BLINDS ***
+ISAB57070 posts small blind 10
+Myk01 posts big blind 20
+Dealt to _SKR [2c Tc]
+*** PRE-FLOP *** 
+_SKR folds
+ISAB57070 calls 10
+Myk01 checks
+*** FLOP *** [9d 7d Qh]
+ISAB57070 bets 20
+Myk01 raises 20 to 40
+ISAB57070 folds
+Myk01 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9d 7d Qh]
+Seat 1: Myk01 (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676327334843252737-4-1673820206 - Holdem no limit (10/20) - 2023/01/15 22:03:26 UTC
+Table: 'Expresso Nitro(623131016)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Myk01 (380)
+Seat 2: _SKR (270)
+Seat 3: ISAB57070 (250)
+*** ANTE/BLINDS ***
+Myk01 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Ks]
+*** PRE-FLOP *** 
+ISAB57070 calls 20
+Myk01 calls 10
+_SKR raises 250 to 270 and is all-in
+ISAB57070 folds
+Myk01 calls 250
+*** FLOP *** [8c Jh 3h]
+*** TURN *** [8c Jh 3h][5h]
+*** RIVER *** [8c Jh 3h 5h][Qh]
+*** SHOW DOWN ***
+_SKR shows [8s Ks] (One pair : 8)
+Myk01 shows [Kh 8d] (Flush King high)
+Myk01 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [8c Jh 3h 5h Qh]
+Seat 1: Myk01 (small blind) showed [Kh 8d] and won 560 with Flush King high
+Seat 2: _SKR (big blind) showed [8s Ks] and lost with One pair : 8
+
+

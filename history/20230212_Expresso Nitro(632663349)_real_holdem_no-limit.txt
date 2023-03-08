@@ -1,0 +1,372 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717268393332834305-1-1676214893 - Holdem no limit (10/20) - 2023/02/12 15:14:53 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Polo IV (300)
+Seat 2: _SKR (300)
+Seat 3: sjejxjdjn (300)
+*** ANTE/BLINDS ***
+sjejxjdjn posts small blind 10
+Polo IV posts big blind 20
+Dealt to _SKR [Qc Qs]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+sjejxjdjn calls 30
+Polo IV calls 20
+*** FLOP *** [Jc 4c 9h]
+sjejxjdjn checks
+Polo IV checks
+_SKR bets 60
+sjejxjdjn calls 60
+Polo IV folds
+*** TURN *** [Jc 4c 9h][4s]
+sjejxjdjn checks
+_SKR bets 200 and is all-in
+sjejxjdjn folds
+_SKR collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [Jc 4c 9h 4s]
+Seat 2: _SKR (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717268393332834305-2-1676214939 - Holdem no limit (10/20) - 2023/02/12 15:15:39 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Polo IV (260)
+Seat 2: _SKR (440)
+Seat 3: sjejxjdjn (200)
+*** ANTE/BLINDS ***
+Polo IV posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s 4d]
+*** PRE-FLOP *** 
+sjejxjdjn calls 20
+Polo IV folds
+_SKR checks
+*** FLOP *** [5c 5d 8h]
+_SKR checks
+sjejxjdjn checks
+*** TURN *** [5c 5d 8h][7d]
+_SKR bets 33
+sjejxjdjn raises 33 to 66
+_SKR calls 33
+*** RIVER *** [5c 5d 8h 7d][7h]
+_SKR checks
+sjejxjdjn bets 114 and is all-in
+_SKR calls 114
+*** SHOW DOWN ***
+_SKR shows [5s 4d] (Full of 5 and 7)
+sjejxjdjn shows [Kh 5h] (Full of 5 and 7)
+sjejxjdjn collected 205 from pot
+_SKR collected 205 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Board: [5c 5d 8h 7d 7h]
+Seat 2: _SKR (big blind) showed [5s 4d] and won 205 with Full of 5 and 7
+Seat 3: sjejxjdjn (button) showed [Kh 5h] and won 205 with Full of 5 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717268393332834305-3-1676214986 - Holdem no limit (15/30) - 2023/02/12 15:16:26 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Polo IV (250)
+Seat 2: _SKR (445)
+Seat 3: sjejxjdjn (205)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+sjejxjdjn posts big blind 30
+Dealt to _SKR [9d 4h]
+*** PRE-FLOP *** 
+Polo IV folds
+_SKR folds
+sjejxjdjn collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: sjejxjdjn (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717268393332834305-4-1676214996 - Holdem no limit (15/30) - 2023/02/12 15:16:36 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Polo IV (250)
+Seat 2: _SKR (430)
+Seat 3: sjejxjdjn (220)
+*** ANTE/BLINDS ***
+sjejxjdjn posts small blind 15
+Polo IV posts big blind 30
+Dealt to _SKR [3c 6h]
+*** PRE-FLOP *** 
+_SKR folds
+sjejxjdjn folds
+Polo IV collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Polo IV (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717268393332834305-5-1676215002 - Holdem no limit (15/30) - 2023/02/12 15:16:42 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Polo IV (265)
+Seat 2: _SKR (430)
+Seat 3: sjejxjdjn (205)
+*** ANTE/BLINDS ***
+Polo IV posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd 3d]
+*** PRE-FLOP *** 
+sjejxjdjn calls 30
+Polo IV folds
+_SKR checks
+*** FLOP *** [Kh 3c 7h]
+_SKR checks
+sjejxjdjn bets 75
+_SKR raises 325 to 400 and is all-in
+sjejxjdjn calls 100 and is all-in
+*** TURN *** [Kh 3c 7h][Qc]
+*** RIVER *** [Kh 3c 7h Qc][Qd]
+*** SHOW DOWN ***
+sjejxjdjn shows [4s Ac] (One pair : Queens)
+_SKR shows [Kd 3d] (Two pairs : Kings and Queens)
+_SKR collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Kh 3c 7h Qc Qd]
+Seat 2: _SKR (big blind) showed [Kd 3d] and won 650 with Two pairs : Kings and Queens
+Seat 3: sjejxjdjn (button) showed [4s Ac] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717268393332834305-6-1676215044 - Holdem no limit (20/40) - 2023/02/12 15:17:24 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Polo IV (250)
+Seat 2: _SKR (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Polo IV posts big blind 40
+Dealt to _SKR [5c 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Polo IV collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Polo IV (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717268393332834305-7-1676215050 - Holdem no limit (20/40) - 2023/02/12 15:17:30 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Polo IV (270)
+Seat 2: _SKR (630)
+*** ANTE/BLINDS ***
+Polo IV posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5h 9h]
+*** PRE-FLOP *** 
+Polo IV raises 60 to 100
+_SKR folds
+Polo IV collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: Polo IV (small blind) (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717268393332834305-8-1676215059 - Holdem no limit (20/40) - 2023/02/12 15:17:39 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Polo IV (310)
+Seat 2: _SKR (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Polo IV posts big blind 40
+Dealt to _SKR [7s 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Polo IV collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Polo IV (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717268393332834305-9-1676215068 - Holdem no limit (20/40) - 2023/02/12 15:17:48 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Polo IV (330)
+Seat 2: _SKR (570)
+*** ANTE/BLINDS ***
+Polo IV posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9h 5d]
+*** PRE-FLOP *** 
+Polo IV folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717268393332834305-10-1676215076 - Holdem no limit (30/60) - 2023/02/12 15:17:56 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Polo IV (310)
+Seat 2: _SKR (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Polo IV posts big blind 60
+Dealt to _SKR [7d 9h]
+*** PRE-FLOP *** 
+_SKR folds
+Polo IV collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Polo IV (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717268393332834305-11-1676215081 - Holdem no limit (30/60) - 2023/02/12 15:18:01 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Polo IV (340)
+Seat 2: _SKR (560)
+*** ANTE/BLINDS ***
+Polo IV posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5s 9c]
+*** PRE-FLOP *** 
+Polo IV folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717268393332834305-12-1676215086 - Holdem no limit (30/60) - 2023/02/12 15:18:06 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Polo IV (310)
+Seat 2: _SKR (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Polo IV posts big blind 60
+Dealt to _SKR [9h Ah]
+*** PRE-FLOP *** 
+_SKR raises 530 to 590 and is all-in
+Polo IV calls 250 and is all-in
+*** FLOP *** [Ts 5h 8c]
+*** TURN *** [Ts 5h 8c][Kd]
+*** RIVER *** [Ts 5h 8c Kd][Jc]
+*** SHOW DOWN ***
+Polo IV shows [9d Ac] (High card : Ace)
+_SKR shows [9h Ah] (High card : Ace)
+_SKR collected 590 from side pot 1
+Polo IV collected 310 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts 5h 8c Kd Jc]
+Seat 1: Polo IV (big blind) showed [9d Ac] and won 310 with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [9h Ah] and won 590 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717268393332834305-13-1676215098 - Holdem no limit (30/60) - 2023/02/12 15:18:18 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Polo IV (310)
+Seat 2: _SKR (590)
+*** ANTE/BLINDS ***
+Polo IV posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jh 5s]
+*** PRE-FLOP *** 
+Polo IV folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717268393332834305-14-1676215103 - Holdem no limit (30/60) - 2023/02/12 15:18:23 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Polo IV (280)
+Seat 2: _SKR (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Polo IV posts big blind 60
+Dealt to _SKR [Ac 4s]
+*** PRE-FLOP *** 
+_SKR raises 560 to 620 and is all-in
+Polo IV calls 220 and is all-in
+*** FLOP *** [Ad 2s 9d]
+*** TURN *** [Ad 2s 9d][7c]
+*** RIVER *** [Ad 2s 9d 7c][Qc]
+*** SHOW DOWN ***
+Polo IV shows [9s Qs] (Two pairs : Queens and 9)
+_SKR shows [Ac 4s] (One pair : Aces)
+_SKR collected 340 from side pot 1
+Polo IV collected 560 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ad 2s 9d 7c Qc]
+Seat 1: Polo IV (big blind) showed [9s Qs] and won 560 with Two pairs : Queens and 9
+Seat 2: _SKR (small blind) (button) showed [Ac 4s] and won 340 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717268393332834305-15-1676215123 - Holdem no limit (30/60) - 2023/02/12 15:18:43 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Polo IV (560)
+Seat 2: _SKR (340)
+*** ANTE/BLINDS ***
+Polo IV posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3h 9h]
+*** PRE-FLOP *** 
+Polo IV folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717268393332834305-16-1676215131 - Holdem no limit (40/80) - 2023/02/12 15:18:51 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Polo IV (530)
+Seat 2: _SKR (370)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Polo IV posts big blind 80
+Dealt to _SKR [Qs 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Polo IV collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Polo IV (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717268393332834305-17-1676215135 - Holdem no limit (40/80) - 2023/02/12 15:18:55 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Polo IV (570)
+Seat 2: _SKR (330)
+*** ANTE/BLINDS ***
+Polo IV posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Qh 6c]
+*** PRE-FLOP *** 
+Polo IV raises 490 to 570 and is all-in
+_SKR folds
+Polo IV collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 1: Polo IV (small blind) (button) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717268393332834305-18-1676215145 - Holdem no limit (40/80) - 2023/02/12 15:19:05 UTC
+Table: 'Expresso Nitro(632663349)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Polo IV (650)
+Seat 2: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Polo IV posts big blind 80
+Dealt to _SKR [Ad Jd]
+*** PRE-FLOP *** 
+_SKR raises 170 to 250 and is all-in
+Polo IV calls 170
+*** FLOP *** [3s 4c 6c]
+*** TURN *** [3s 4c 6c][7c]
+*** RIVER *** [3s 4c 6c 7c][2d]
+*** SHOW DOWN ***
+_SKR shows [Ad Jd] (High card : Ace)
+Polo IV shows [As 6s] (One pair : 6)
+Polo IV collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [3s 4c 6c 7c 2d]
+Seat 1: Polo IV (big blind) showed [As 6s] and won 500 with One pair : 6
+Seat 2: _SKR (small blind) (button) showed [Ad Jd] and lost with High card : Ace
+
+

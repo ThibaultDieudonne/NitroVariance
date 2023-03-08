@@ -1,0 +1,99 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694618419440910337-1-1674947548 - Holdem no limit (10/20) - 2023/01/28 23:12:28 UTC
+Table: 'Expresso Nitro(627389741)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: cpourmimi (300)
+Seat 3: Manu-Ordiera (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+cpourmimi posts big blind 20
+Dealt to _SKR [Kh 8d]
+*** PRE-FLOP *** 
+Manu-Ordiera raises 280 to 300 and is all-in
+_SKR folds
+cpourmimi folds
+Manu-Ordiera collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Manu-Ordiera (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694618419440910337-2-1674947567 - Holdem no limit (10/20) - 2023/01/28 23:12:47 UTC
+Table: 'Expresso Nitro(627389741)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: cpourmimi (280)
+Seat 3: Manu-Ordiera (330)
+*** ANTE/BLINDS ***
+cpourmimi posts small blind 10
+Manu-Ordiera posts big blind 20
+Dealt to _SKR [Kh 6c]
+*** PRE-FLOP *** 
+_SKR folds
+cpourmimi folds
+Manu-Ordiera collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Manu-Ordiera (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694618419440910337-3-1674947580 - Holdem no limit (10/20) - 2023/01/28 23:13:00 UTC
+Table: 'Expresso Nitro(627389741)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: cpourmimi (270)
+Seat 3: Manu-Ordiera (340)
+*** ANTE/BLINDS ***
+Manu-Ordiera posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c Ac]
+*** PRE-FLOP *** 
+cpourmimi raises 20 to 40
+Manu-Ordiera calls 30
+_SKR raises 250 to 290 and is all-in
+cpourmimi calls 230 and is all-in
+Manu-Ordiera raises 50 to 340 and is all-in
+*** FLOP *** [Ah 8h 9d]
+*** TURN *** [Ah 8h 9d][Tc]
+*** RIVER *** [Ah 8h 9d Tc][2s]
+*** SHOW DOWN ***
+_SKR shows [7c Ac] (One pair : Aces)
+cpourmimi shows [8s 8d] (Trips of 8)
+Manu-Ordiera shows [Ks Js] (High card : Ace)
+Manu-Ordiera collected 50 from side pot 2
+cpourmimi collected 810 from main pot
+_SKR collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ah 8h 9d Tc 2s]
+Seat 1: _SKR (big blind) showed [7c Ac] and won 40 with One pair : Aces
+Seat 2: cpourmimi (button) showed [8s 8d] and won 810 with Trips of 8
+Seat 3: Manu-Ordiera (small blind) showed [Ks Js] and won 50 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694618419440910337-4-1674947602 - Holdem no limit (10/20) - 2023/01/28 23:13:22 UTC
+Table: 'Expresso Nitro(627389741)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (40)
+Seat 2: cpourmimi (810)
+Seat 3: Manu-Ordiera (50)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+cpourmimi posts big blind 20
+Dealt to _SKR [Ah 5d]
+*** PRE-FLOP *** 
+Manu-Ordiera raises 30 to 50 and is all-in
+_SKR calls 30 and is all-in
+cpourmimi calls 30
+*** FLOP *** [Jh 5s 7s]
+*** TURN *** [Jh 5s 7s][8d]
+*** RIVER *** [Jh 5s 7s 8d][Th]
+*** SHOW DOWN ***
+_SKR shows [Ah 5d] (One pair : 5)
+Manu-Ordiera shows [6d Ad] (High card : Ace)
+cpourmimi shows [As 9d] (Straight Jack high)
+cpourmimi collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Jh 5s 7s 8d Th]
+Seat 1: _SKR (small blind) showed [Ah 5d] and lost with One pair : 5
+Seat 2: cpourmimi (big blind) showed [As 9d] and won 140 with Straight Jack high
+Seat 3: Manu-Ordiera (button) showed [6d Ad] and lost with High card : Ace
+
+

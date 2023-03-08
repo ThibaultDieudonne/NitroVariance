@@ -1,0 +1,182 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689755653173411841-1-1674649941 - Holdem no limit (10/20) - 2023/01/25 12:32:21 UTC
+Table: 'Expresso Nitro(626257540)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ZuCeviche (300)
+Seat 2: _SKR (300)
+Seat 3: Tango_Lopez (300)
+*** ANTE/BLINDS ***
+ZuCeviche posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc 5s]
+*** PRE-FLOP *** 
+Tango_Lopez calls 20
+ZuCeviche calls 10
+_SKR checks
+*** FLOP *** [2s 7s 3c]
+ZuCeviche checks
+_SKR checks
+Tango_Lopez bets 20
+ZuCeviche folds
+_SKR folds
+Tango_Lopez collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2s 7s 3c]
+Seat 3: Tango_Lopez (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689755653173411841-2-1674649966 - Holdem no limit (10/20) - 2023/01/25 12:32:46 UTC
+Table: 'Expresso Nitro(626257540)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ZuCeviche (280)
+Seat 2: _SKR (280)
+Seat 3: Tango_Lopez (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Tango_Lopez posts big blind 20
+Dealt to _SKR [8c 6h]
+*** PRE-FLOP *** 
+ZuCeviche raises 50 to 70
+_SKR folds
+Tango_Lopez calls 50
+*** FLOP *** [9d Jd 3h]
+Tango_Lopez bets 30
+ZuCeviche raises 54 to 84
+Tango_Lopez folds
+ZuCeviche collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Board: [9d Jd 3h]
+Seat 1: ZuCeviche (button) won 264
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689755653173411841-3-1674649996 - Holdem no limit (10/20) - 2023/01/25 12:33:16 UTC
+Table: 'Expresso Nitro(626257540)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ZuCeviche (390)
+Seat 2: _SKR (270)
+Seat 3: Tango_Lopez (240)
+*** ANTE/BLINDS ***
+Tango_Lopez posts small blind 10
+ZuCeviche posts big blind 20
+Dealt to _SKR [5c 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Tango_Lopez calls 10
+ZuCeviche checks
+*** FLOP *** [5d 4c 8d]
+Tango_Lopez checks
+ZuCeviche checks
+*** TURN *** [5d 4c 8d][6c]
+Tango_Lopez checks
+ZuCeviche bets 20
+Tango_Lopez calls 20
+*** RIVER *** [5d 4c 8d 6c][3d]
+Tango_Lopez checks
+ZuCeviche checks
+*** SHOW DOWN ***
+Tango_Lopez shows [3s Qd] (One pair : 3)
+ZuCeviche shows [7h 6h] (Straight 8 high)
+ZuCeviche collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5d 4c 8d 6c 3d]
+Seat 1: ZuCeviche (big blind) showed [7h 6h] and won 80 with Straight 8 high
+Seat 3: Tango_Lopez (small blind) showed [3s Qd] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689755653173411841-4-1674650038 - Holdem no limit (15/30) - 2023/01/25 12:33:58 UTC
+Table: 'Expresso Nitro(626257540)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ZuCeviche (430)
+Seat 2: _SKR (270)
+Seat 3: Tango_Lopez (200)
+*** ANTE/BLINDS ***
+ZuCeviche posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6d 4c]
+*** PRE-FLOP *** 
+Tango_Lopez folds
+ZuCeviche folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689755653173411841-5-1674650044 - Holdem no limit (15/30) - 2023/01/25 12:34:04 UTC
+Table: 'Expresso Nitro(626257540)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ZuCeviche (415)
+Seat 2: _SKR (285)
+Seat 3: Tango_Lopez (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Tango_Lopez posts big blind 30
+Dealt to _SKR [Qh Tc]
+*** PRE-FLOP *** 
+ZuCeviche raises 30 to 60
+_SKR folds
+Tango_Lopez raises 140 to 200 and is all-in
+ZuCeviche calls 140
+*** FLOP *** [4d Td 4h]
+*** TURN *** [4d Td 4h][Th]
+*** RIVER *** [4d Td 4h Th][6d]
+*** SHOW DOWN ***
+ZuCeviche shows [9h Kd] (Two pairs : Tens and 4)
+Tango_Lopez shows [8d 8h] (Two pairs : Tens and 8)
+Tango_Lopez collected 415 from pot
+*** SUMMARY ***
+Total pot 415 | No rake
+Board: [4d Td 4h Th 6d]
+Seat 1: ZuCeviche (button) showed [9h Kd] and lost with Two pairs : Tens and 4
+Seat 3: Tango_Lopez (big blind) showed [8d 8h] and won 415 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689755653173411841-6-1674650061 - Holdem no limit (20/40) - 2023/01/25 12:34:21 UTC
+Table: 'Expresso Nitro(626257540)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ZuCeviche (215)
+Seat 2: _SKR (270)
+Seat 3: Tango_Lopez (415)
+*** ANTE/BLINDS ***
+Tango_Lopez posts small blind 20
+ZuCeviche posts big blind 40
+Dealt to _SKR [Ah Kh]
+*** PRE-FLOP *** 
+_SKR raises 230 to 270 and is all-in
+Tango_Lopez folds
+ZuCeviche calls 175 and is all-in
+*** FLOP *** [3h Js Qs]
+*** TURN *** [3h Js Qs][Ts]
+*** RIVER *** [3h Js Qs Ts][6c]
+*** SHOW DOWN ***
+ZuCeviche shows [9c Ks] (Straight King high)
+_SKR shows [Ah Kh] (Straight Ace high)
+_SKR collected 505 from pot
+*** SUMMARY ***
+Total pot 505 | No rake
+Board: [3h Js Qs Ts 6c]
+Seat 1: ZuCeviche (big blind) showed [9c Ks] and lost with Straight King high
+Seat 2: _SKR (button) showed [Ah Kh] and won 505 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689755653173411841-7-1674650080 - Holdem no limit (20/40) - 2023/01/25 12:34:40 UTC
+Table: 'Expresso Nitro(626257540)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (505)
+Seat 3: Tango_Lopez (395)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Tango_Lopez posts big blind 40
+Dealt to _SKR [2s Ah]
+*** PRE-FLOP *** 
+_SKR raises 465 to 505 and is all-in
+Tango_Lopez calls 355 and is all-in
+*** FLOP *** [Jh 2h 5d]
+*** TURN *** [Jh 2h 5d][Jc]
+*** RIVER *** [Jh 2h 5d Jc][8d]
+*** SHOW DOWN ***
+Tango_Lopez shows [Kh As] (One pair : Jacks)
+_SKR shows [2s Ah] (Two pairs : Jacks and 2)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh 2h 5d Jc 8d]
+Seat 2: _SKR (small blind) (button) showed [2s Ah] and won 900 with Two pairs : Jacks and 2
+Seat 3: Tango_Lopez (big blind) showed [Kh As] and lost with One pair : Jacks
+
+

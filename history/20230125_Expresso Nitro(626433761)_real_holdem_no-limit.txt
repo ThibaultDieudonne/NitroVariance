@@ -1,0 +1,122 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690512516605280257-1-1674684315 - Holdem no limit (10/20) - 2023/01/25 22:05:15 UTC
+Table: 'Expresso Nitro(626433761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: theolgn4 (300)
+Seat 3: malakgour (300)
+*** ANTE/BLINDS ***
+theolgn4 posts small blind 10
+malakgour posts big blind 20
+Dealt to _SKR [3c Th]
+*** PRE-FLOP *** 
+_SKR folds
+theolgn4 folds
+malakgour collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: malakgour (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690512516605280257-2-1674684319 - Holdem no limit (10/20) - 2023/01/25 22:05:19 UTC
+Table: 'Expresso Nitro(626433761)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: theolgn4 (290)
+Seat 3: malakgour (310)
+*** ANTE/BLINDS ***
+malakgour posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh Kd]
+*** PRE-FLOP *** 
+theolgn4 folds
+malakgour calls 10
+_SKR raises 30 to 50
+malakgour calls 30
+*** FLOP *** [Td Jh 8c]
+malakgour checks
+_SKR bets 50
+malakgour calls 50
+*** TURN *** [Td Jh 8c][2s]
+malakgour checks
+_SKR bets 70
+malakgour calls 70
+*** RIVER *** [Td Jh 8c 2s][8s]
+malakgour checks
+_SKR bets 130 and is all-in
+malakgour calls 130
+*** SHOW DOWN ***
+malakgour shows [7c 2c] (Two pairs : 8 and 2)
+_SKR shows [Kh Kd] (Two pairs : Kings and 8)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Td Jh 8c 2s 8s]
+Seat 1: _SKR (big blind) showed [Kh Kd] and won 600 with Two pairs : Kings and 8
+Seat 3: malakgour (small blind) showed [7c 2c] and lost with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690512516605280257-3-1674684372 - Holdem no limit (15/30) - 2023/01/25 22:06:12 UTC
+Table: 'Expresso Nitro(626433761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (600)
+Seat 2: theolgn4 (290)
+Seat 3: malakgour (10)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+theolgn4 posts big blind 30
+Dealt to _SKR [5c 2h]
+*** PRE-FLOP *** 
+malakgour calls 10 and is all-in
+_SKR folds
+*** FLOP *** [7c Kc 3s]
+*** TURN *** [7c Kc 3s][5h]
+*** RIVER *** [7c Kc 3s 5h][9s]
+*** SHOW DOWN ***
+malakgour shows [2c 6c] (High card : King)
+theolgn4 shows [Qd Ah] (High card : Ace)
+theolgn4 collected 55 from pot
+*** SUMMARY ***
+Total pot 55 | No rake
+Board: [7c Kc 3s 5h 9s]
+Seat 2: theolgn4 (big blind) showed [Qd Ah] and won 55 with High card : Ace
+Seat 3: malakgour (button) showed [2c 6c] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690512516605280257-4-1674684391 - Holdem no limit (15/30) - 2023/01/25 22:06:31 UTC
+Table: 'Expresso Nitro(626433761)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (585)
+Seat 2: theolgn4 (315)
+*** ANTE/BLINDS ***
+theolgn4 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc 5s]
+*** PRE-FLOP *** 
+theolgn4 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690512516605280257-5-1674684395 - Holdem no limit (15/30) - 2023/01/25 22:06:35 UTC
+Table: 'Expresso Nitro(626433761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 2: theolgn4 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+theolgn4 posts big blind 30
+Dealt to _SKR [7s As]
+*** PRE-FLOP *** 
+_SKR raises 570 to 600 and is all-in
+theolgn4 calls 270 and is all-in
+*** FLOP *** [9c 5c Qs]
+*** TURN *** [9c 5c Qs][7h]
+*** RIVER *** [9c 5c Qs 7h][Kd]
+*** SHOW DOWN ***
+theolgn4 shows [3c Jc] (High card : King)
+_SKR shows [7s As] (One pair : 7)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9c 5c Qs 7h Kd]
+Seat 1: _SKR (small blind) (button) showed [7s As] and won 900 with One pair : 7
+Seat 2: theolgn4 (big blind) showed [3c Jc] and lost with High card : King
+
+

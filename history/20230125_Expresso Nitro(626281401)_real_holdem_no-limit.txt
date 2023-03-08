@@ -1,0 +1,191 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689858135388061697-1-1674656082 - Holdem no limit (10/20) - 2023/01/25 14:14:42 UTC
+Table: 'Expresso Nitro(626281401)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Barry44510 (300)
+Seat 3: Mazzy Birdy (300)
+*** ANTE/BLINDS ***
+Mazzy Birdy posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 4s]
+*** PRE-FLOP *** 
+Barry44510 folds
+Mazzy Birdy folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689858135388061697-2-1674656087 - Holdem no limit (10/20) - 2023/01/25 14:14:47 UTC
+Table: 'Expresso Nitro(626281401)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: Barry44510 (300)
+Seat 3: Mazzy Birdy (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Barry44510 posts big blind 20
+Dealt to _SKR [2c Kc]
+*** PRE-FLOP *** 
+Mazzy Birdy calls 20
+_SKR folds
+Barry44510 checks
+*** FLOP *** [8s Td Kd]
+Barry44510 checks
+Mazzy Birdy checks
+*** TURN *** [8s Td Kd][Qd]
+Barry44510 checks
+Mazzy Birdy bets 270 and is all-in
+Barry44510 folds
+Mazzy Birdy collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [8s Td Kd Qd]
+Seat 3: Mazzy Birdy (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689858135388061697-3-1674656107 - Holdem no limit (10/20) - 2023/01/25 14:15:07 UTC
+Table: 'Expresso Nitro(626281401)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Barry44510 (280)
+Seat 3: Mazzy Birdy (320)
+*** ANTE/BLINDS ***
+Barry44510 posts small blind 10
+Mazzy Birdy posts big blind 20
+Dealt to _SKR [As 6d]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Barry44510 folds
+Mazzy Birdy folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689858135388061697-4-1674656114 - Holdem no limit (10/20) - 2023/01/25 14:15:14 UTC
+Table: 'Expresso Nitro(626281401)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (330)
+Seat 2: Barry44510 (270)
+Seat 3: Mazzy Birdy (300)
+*** ANTE/BLINDS ***
+Mazzy Birdy posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h 4d]
+*** PRE-FLOP *** 
+Barry44510 calls 20
+Mazzy Birdy raises 30 to 50
+_SKR raises 280 to 330 and is all-in
+Barry44510 calls 250 and is all-in
+Mazzy Birdy calls 250 and is all-in
+*** FLOP *** [8d Qs 3s]
+*** TURN *** [8d Qs 3s][2c]
+*** RIVER *** [8d Qs 3s 2c][7c]
+*** SHOW DOWN ***
+_SKR shows [4h 4d] (One pair : 4)
+Barry44510 shows [Kd Qd] (One pair : Queens)
+Mazzy Birdy shows [7d Ad] (One pair : 7)
+Mazzy Birdy collected 60 from side pot 1
+Barry44510 collected 810 from main pot
+_SKR collected 30 from side pot 2
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d Qs 3s 2c 7c]
+Seat 1: _SKR (big blind) showed [4h 4d] and won 30 with One pair : 4
+Seat 2: Barry44510 (button) showed [Kd Qd] and won 810 with One pair : Queens
+Seat 3: Mazzy Birdy (small blind) showed [7d Ad] and won 60 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689858135388061697-5-1674656132 - Holdem no limit (10/20) - 2023/01/25 14:15:32 UTC
+Table: 'Expresso Nitro(626281401)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (30)
+Seat 2: Barry44510 (810)
+Seat 3: Mazzy Birdy (60)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Barry44510 posts big blind 20
+Dealt to _SKR [8s 7d]
+*** PRE-FLOP *** 
+Mazzy Birdy raises 40 to 60 and is all-in
+_SKR folds
+Barry44510 calls 40
+*** FLOP *** [Jh 8h 6c]
+*** TURN *** [Jh 8h 6c][Jc]
+*** RIVER *** [Jh 8h 6c Jc][6h]
+*** SHOW DOWN ***
+Mazzy Birdy shows [5d 4d] (Two pairs : Jacks and 6)
+Barry44510 shows [2c Ah] (Two pairs : Jacks and 6)
+Barry44510 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [Jh 8h 6c Jc 6h]
+Seat 2: Barry44510 (big blind) showed [2c Ah] and won 130 with Two pairs : Jacks and 6
+Seat 3: Mazzy Birdy (button) showed [5d 4d] and lost with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689858135388061697-6-1674656149 - Holdem no limit (15/30) - 2023/01/25 14:15:49 UTC
+Table: 'Expresso Nitro(626281401)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (20)
+Seat 2: Barry44510 (880)
+*** ANTE/BLINDS ***
+Barry44510 posts small blind 15
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [Kc As]
+*** PRE-FLOP *** 
+Barry44510 folds
+_SKR collected 35 from pot
+*** SUMMARY ***
+Total pot 35 | No rake
+Seat 1: _SKR (big blind) won 35
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689858135388061697-7-1674656154 - Holdem no limit (15/30) - 2023/01/25 14:15:54 UTC
+Table: 'Expresso Nitro(626281401)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (35)
+Seat 2: Barry44510 (865)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Barry44510 posts big blind 30
+Dealt to _SKR [9s As]
+*** PRE-FLOP *** 
+_SKR raises 5 to 35 and is all-in
+Barry44510 calls 5
+*** FLOP *** [2c Ad Qc]
+*** TURN *** [2c Ad Qc][3d]
+*** RIVER *** [2c Ad Qc 3d][Ks]
+*** SHOW DOWN ***
+Barry44510 shows [7s 9h] (High card : Ace)
+_SKR shows [9s As] (One pair : Aces)
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [2c Ad Qc 3d Ks]
+Seat 1: _SKR (small blind) (button) showed [9s As] and won 70 with One pair : Aces
+Seat 2: Barry44510 (big blind) showed [7s 9h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689858135388061697-8-1674656166 - Holdem no limit (15/30) - 2023/01/25 14:16:06 UTC
+Table: 'Expresso Nitro(626281401)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (70)
+Seat 2: Barry44510 (830)
+*** ANTE/BLINDS ***
+Barry44510 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7d Ah]
+*** PRE-FLOP *** 
+Barry44510 calls 15
+_SKR raises 40 to 70 and is all-in
+Barry44510 calls 40
+*** FLOP *** [Jh 3s 6d]
+*** TURN *** [Jh 3s 6d][4h]
+*** RIVER *** [Jh 3s 6d 4h][3c]
+*** SHOW DOWN ***
+_SKR shows [7d Ah] (One pair : 3)
+Barry44510 shows [Ac 9c] (One pair : 3)
+Barry44510 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Jh 3s 6d 4h 3c]
+Seat 1: _SKR (big blind) showed [7d Ah] and lost with One pair : 3
+Seat 2: Barry44510 (small blind) (button) showed [Ac 9c] and won 140 with One pair : 3
+
+

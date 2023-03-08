@@ -1,0 +1,66 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718671073817133057-1-1676294623 - Holdem no limit (10/20) - 2023/02/13 13:23:43 UTC
+Table: 'Expresso Nitro(632989936)#0' 3-max (real money) Seat #2 is the button
+Seat 1: De Marbre (300)
+Seat 2: _SKR (300)
+Seat 3: ArthurThrs (300)
+*** ANTE/BLINDS ***
+ArthurThrs posts small blind 10
+De Marbre posts big blind 20
+Dealt to _SKR [Jd 2h]
+*** PRE-FLOP *** 
+_SKR folds
+ArthurThrs folds
+De Marbre collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: De Marbre (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718671073817133057-2-1676294634 - Holdem no limit (10/20) - 2023/02/13 13:23:54 UTC
+Table: 'Expresso Nitro(632989936)#0' 3-max (real money) Seat #3 is the button
+Seat 1: De Marbre (310)
+Seat 2: _SKR (300)
+Seat 3: ArthurThrs (290)
+*** ANTE/BLINDS ***
+De Marbre posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 7d]
+*** PRE-FLOP *** 
+ArthurThrs raises 270 to 290 and is all-in
+De Marbre folds
+_SKR folds
+ArthurThrs collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: ArthurThrs (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718671073817133057-3-1676294649 - Holdem no limit (10/20) - 2023/02/13 13:24:09 UTC
+Table: 'Expresso Nitro(632989936)#0' 3-max (real money) Seat #1 is the button
+Seat 1: De Marbre (300)
+Seat 2: _SKR (280)
+Seat 3: ArthurThrs (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ArthurThrs posts big blind 20
+Dealt to _SKR [9c 9d]
+*** PRE-FLOP *** 
+De Marbre raises 280 to 300 and is all-in
+_SKR calls 270 and is all-in
+ArthurThrs calls 280
+*** FLOP *** [As Qd 3c]
+*** TURN *** [As Qd 3c][3d]
+*** RIVER *** [As Qd 3c 3d][Kd]
+*** SHOW DOWN ***
+_SKR shows [9c 9d] (Two pairs : 9 and 3)
+ArthurThrs shows [Jc 9h] (One pair : 3)
+De Marbre shows [Ac Kh] (Two pairs : Aces and Kings)
+De Marbre collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [As Qd 3c 3d Kd]
+Seat 1: De Marbre (button) showed [Ac Kh] and won 880 with Two pairs : Aces and Kings
+Seat 2: _SKR (small blind) showed [9c 9d] and lost with Two pairs : 9 and 3
+Seat 3: ArthurThrs (big blind) showed [Jc 9h] and lost with One pair : 3
+
+

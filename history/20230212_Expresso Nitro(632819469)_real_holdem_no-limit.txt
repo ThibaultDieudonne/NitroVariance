@@ -1,0 +1,58 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717938923627085825-1-1676240542 - Holdem no limit (10/20) - 2023/02/12 22:22:22 UTC
+Table: 'Expresso Nitro(632819469)#0' 3-max (real money) Seat #2 is the button
+Seat 1: The truth (300)
+Seat 2: martiniflush (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+The truth posts big blind 20
+Dealt to _SKR [As 3h]
+*** PRE-FLOP *** 
+martiniflush folds
+_SKR raises 280 to 300 and is all-in
+The truth calls 280 and is all-in
+*** FLOP *** [Ks 4c 7s]
+*** TURN *** [Ks 4c 7s][8c]
+*** RIVER *** [Ks 4c 7s 8c][8d]
+*** SHOW DOWN ***
+The truth shows [2h Ad] (One pair : 8)
+_SKR shows [As 3h] (One pair : 8)
+_SKR collected 300 from pot
+The truth collected 300 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ks 4c 7s 8c 8d]
+Seat 1: The truth (big blind) showed [2h Ad] and won 300 with One pair : 8
+Seat 3: _SKR (small blind) showed [As 3h] and won 300 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717938923627085825-2-1676240555 - Holdem no limit (10/20) - 2023/02/12 22:22:35 UTC
+Table: 'Expresso Nitro(632819469)#0' 3-max (real money) Seat #3 is the button
+Seat 1: The truth (300)
+Seat 2: martiniflush (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+The truth posts small blind 10
+martiniflush posts big blind 20
+Dealt to _SKR [Qc As]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+The truth raises 260 to 300 and is all-in
+martiniflush calls 280 and is all-in
+_SKR calls 260 and is all-in
+*** FLOP *** [8s Th 7h]
+*** TURN *** [8s Th 7h][Jh]
+*** RIVER *** [8s Th 7h Jh][7s]
+*** SHOW DOWN ***
+martiniflush shows [Kh Qd] (One pair : 7)
+_SKR shows [Qc As] (One pair : 7)
+The truth shows [8h 8c] (Full of 8 and 7)
+The truth collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s Th 7h Jh 7s]
+Seat 1: The truth (small blind) showed [8h 8c] and won 900 with Full of 8 and 7
+Seat 2: martiniflush (big blind) showed [Kh Qd] and lost with One pair : 7
+Seat 3: _SKR (button) showed [Qc As] and lost with One pair : 7
+
+

@@ -1,0 +1,421 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717709323265376257-1-1676232406 - Holdem no limit (10/20) - 2023/02/12 20:06:46 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: pinoccio (300)
+Seat 3: Djabo (300)
+*** ANTE/BLINDS ***
+pinoccio posts small blind 10
+Djabo posts big blind 20
+Dealt to _SKR [3s Jh]
+*** PRE-FLOP *** 
+_SKR folds
+pinoccio folds
+Djabo collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Djabo (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717709323265376257-2-1676232414 - Holdem no limit (10/20) - 2023/02/12 20:06:54 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: pinoccio (290)
+Seat 3: Djabo (310)
+*** ANTE/BLINDS ***
+Djabo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Tc]
+*** PRE-FLOP *** 
+pinoccio calls 20
+Djabo raises 20 to 40
+_SKR folds
+pinoccio raises 250 to 290 and is all-in
+Djabo folds
+pinoccio collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: pinoccio (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717709323265376257-3-1676232436 - Holdem no limit (10/20) - 2023/02/12 20:07:16 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: pinoccio (350)
+Seat 3: Djabo (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+pinoccio posts big blind 20
+Dealt to _SKR [6h Js]
+*** PRE-FLOP *** 
+Djabo calls 20
+_SKR folds
+pinoccio raises 50 to 70
+Djabo calls 50
+*** FLOP *** [5s Td 9s]
+pinoccio bets 150
+Djabo raises 50 to 200 and is all-in
+pinoccio calls 50
+*** TURN *** [5s Td 9s][2c]
+*** RIVER *** [5s Td 9s 2c][Ts]
+*** SHOW DOWN ***
+pinoccio shows [Kh As] (One pair : Tens)
+Djabo shows [9d 8h] (Two pairs : Tens and 9)
+Djabo collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [5s Td 9s 2c Ts]
+Seat 2: pinoccio (big blind) showed [Kh As] and lost with One pair : Tens
+Seat 3: Djabo (button) showed [9d 8h] and won 550 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717709323265376257-4-1676232462 - Holdem no limit (15/30) - 2023/02/12 20:07:42 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: pinoccio (80)
+Seat 3: Djabo (550)
+*** ANTE/BLINDS ***
+pinoccio posts small blind 15
+Djabo posts big blind 30
+Dealt to _SKR [4d Th]
+*** PRE-FLOP *** 
+_SKR folds
+pinoccio folds
+Djabo collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Djabo (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717709323265376257-5-1676232468 - Holdem no limit (15/30) - 2023/02/12 20:07:48 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: pinoccio (65)
+Seat 3: Djabo (565)
+*** ANTE/BLINDS ***
+Djabo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5s 4d]
+*** PRE-FLOP *** 
+pinoccio raises 35 to 65 and is all-in
+Djabo folds
+_SKR folds
+pinoccio collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Seat 2: pinoccio (button) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717709323265376257-6-1676232479 - Holdem no limit (15/30) - 2023/02/12 20:07:59 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (240)
+Seat 2: pinoccio (110)
+Seat 3: Djabo (550)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+pinoccio posts big blind 30
+Dealt to _SKR [Qh 7d]
+*** PRE-FLOP *** 
+Djabo folds
+_SKR raises 210 to 240 and is all-in
+pinoccio calls 80 and is all-in
+*** FLOP *** [Qs 7h 8c]
+*** TURN *** [Qs 7h 8c][9h]
+*** RIVER *** [Qs 7h 8c 9h][4s]
+*** SHOW DOWN ***
+pinoccio shows [2c 2h] (One pair : 2)
+_SKR shows [Qh 7d] (Two pairs : Queens and 7)
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [Qs 7h 8c 9h 4s]
+Seat 1: _SKR (small blind) showed [Qh 7d] and won 350 with Two pairs : Queens and 7
+Seat 2: pinoccio (big blind) showed [2c 2h] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717709323265376257-7-1676232499 - Holdem no limit (15/30) - 2023/02/12 20:08:19 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (350)
+Seat 3: Djabo (550)
+*** ANTE/BLINDS ***
+Djabo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad 4h]
+*** PRE-FLOP *** 
+Djabo folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717709323265376257-8-1676232509 - Holdem no limit (15/30) - 2023/02/12 20:08:29 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (365)
+Seat 3: Djabo (535)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Djabo posts big blind 30
+Dealt to _SKR [Qd 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Djabo collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Djabo (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717709323265376257-9-1676232514 - Holdem no limit (15/30) - 2023/02/12 20:08:34 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (350)
+Seat 3: Djabo (550)
+*** ANTE/BLINDS ***
+Djabo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6d 5d]
+*** PRE-FLOP *** 
+Djabo calls 15
+_SKR checks
+*** FLOP *** [Js 7d 6h]
+_SKR checks
+Djabo checks
+*** TURN *** [Js 7d 6h][Tc]
+_SKR checks
+Djabo bets 30
+_SKR calls 30
+*** RIVER *** [Js 7d 6h Tc][5s]
+_SKR checks
+Djabo bets 42
+_SKR calls 42
+*** SHOW DOWN ***
+_SKR shows [6d 5d] (Two pairs : 6 and 5)
+Djabo shows [6s Jc] (Two pairs : Jacks and 6)
+Djabo collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [Js 7d 6h Tc 5s]
+Seat 1: _SKR (big blind) showed [6d 5d] and lost with Two pairs : 6 and 5
+Seat 3: Djabo (small blind) (button) showed [6s Jc] and won 204 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717709323265376257-10-1676232550 - Holdem no limit (20/40) - 2023/02/12 20:09:10 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (248)
+Seat 3: Djabo (652)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Djabo posts big blind 40
+Dealt to _SKR [7h Jc]
+*** PRE-FLOP *** 
+_SKR raises 208 to 248 and is all-in
+Djabo folds
+_SKR collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | No rake
+Seat 1: _SKR (small blind) (button) won 288
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717709323265376257-11-1676232562 - Holdem no limit (20/40) - 2023/02/12 20:09:22 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (288)
+Seat 3: Djabo (612)
+*** ANTE/BLINDS ***
+Djabo posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8c 3s]
+*** PRE-FLOP *** 
+Djabo folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717709323265376257-12-1676232566 - Holdem no limit (20/40) - 2023/02/12 20:09:26 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (308)
+Seat 3: Djabo (592)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Djabo posts big blind 40
+Dealt to _SKR [6d Kh]
+*** PRE-FLOP *** 
+_SKR raises 268 to 308 and is all-in
+Djabo folds
+_SKR collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | No rake
+Seat 1: _SKR (small blind) (button) won 348
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717709323265376257-13-1676232572 - Holdem no limit (20/40) - 2023/02/12 20:09:32 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (348)
+Seat 3: Djabo (552)
+*** ANTE/BLINDS ***
+Djabo posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Th 6s]
+*** PRE-FLOP *** 
+Djabo calls 20
+_SKR checks
+*** FLOP *** [Js 6d Kc]
+_SKR checks
+Djabo bets 40
+_SKR folds
+Djabo collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Js 6d Kc]
+Seat 3: Djabo (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717709323265376257-14-1676232584 - Holdem no limit (30/60) - 2023/02/12 20:09:44 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (308)
+Seat 3: Djabo (592)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Djabo posts big blind 60
+Dealt to _SKR [Qc Jd]
+*** PRE-FLOP *** 
+_SKR raises 248 to 308 and is all-in
+Djabo folds
+_SKR collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | No rake
+Seat 1: _SKR (small blind) (button) won 368
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717709323265376257-15-1676232596 - Holdem no limit (30/60) - 2023/02/12 20:09:56 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (368)
+Seat 3: Djabo (532)
+*** ANTE/BLINDS ***
+Djabo posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9d 3c]
+*** PRE-FLOP *** 
+Djabo calls 30
+_SKR checks
+*** FLOP *** [8c 7c 5h]
+_SKR checks
+Djabo checks
+*** TURN *** [8c 7c 5h][2s]
+_SKR checks
+Djabo checks
+*** RIVER *** [8c 7c 5h 2s][Ac]
+_SKR checks
+Djabo bets 60
+_SKR folds
+Djabo collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [8c 7c 5h 2s Ac]
+Seat 3: Djabo (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717709323265376257-16-1676232618 - Holdem no limit (30/60) - 2023/02/12 20:10:18 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (308)
+Seat 3: Djabo (592)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Djabo posts big blind 60
+Dealt to _SKR [3d Ah]
+*** PRE-FLOP *** 
+_SKR raises 248 to 308 and is all-in
+Djabo calls 248
+*** FLOP *** [Td 8h As]
+*** TURN *** [Td 8h As][5s]
+*** RIVER *** [Td 8h As 5s][8d]
+*** SHOW DOWN ***
+Djabo shows [Qh Jc] (One pair : 8)
+_SKR shows [3d Ah] (Two pairs : Aces and 8)
+_SKR collected 616 from pot
+*** SUMMARY ***
+Total pot 616 | No rake
+Board: [Td 8h As 5s 8d]
+Seat 1: _SKR (small blind) (button) showed [3d Ah] and won 616 with Two pairs : Aces and 8
+Seat 3: Djabo (big blind) showed [Qh Jc] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717709323265376257-17-1676232633 - Holdem no limit (30/60) - 2023/02/12 20:10:33 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (616)
+Seat 3: Djabo (284)
+*** ANTE/BLINDS ***
+Djabo posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2h Tc]
+*** PRE-FLOP *** 
+Djabo raises 224 to 284 and is all-in
+_SKR folds
+Djabo collected 344 from pot
+*** SUMMARY ***
+Total pot 344 | No rake
+Seat 3: Djabo (small blind) (button) won 344
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717709323265376257-18-1676232639 - Holdem no limit (30/60) - 2023/02/12 20:10:39 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (556)
+Seat 3: Djabo (344)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Djabo posts big blind 60
+Dealt to _SKR [Td 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Djabo collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Djabo (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717709323265376257-19-1676232646 - Holdem no limit (40/80) - 2023/02/12 20:10:46 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (526)
+Seat 3: Djabo (374)
+*** ANTE/BLINDS ***
+Djabo posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3d Jc]
+*** PRE-FLOP *** 
+Djabo calls 40
+_SKR checks
+*** FLOP *** [4s 7c Ad]
+_SKR checks
+Djabo bets 294 and is all-in
+_SKR folds
+Djabo collected 454 from pot
+*** SUMMARY ***
+Total pot 454 | No rake
+Board: [4s 7c Ad]
+Seat 3: Djabo (small blind) (button) won 454
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717709323265376257-20-1676232662 - Holdem no limit (40/80) - 2023/02/12 20:11:02 UTC
+Table: 'Expresso Nitro(632766011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (446)
+Seat 3: Djabo (454)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Djabo posts big blind 80
+Dealt to _SKR [Th Qs]
+*** PRE-FLOP *** 
+_SKR raises 366 to 446 and is all-in
+Djabo calls 366
+*** FLOP *** [4s Js 8d]
+*** TURN *** [4s Js 8d][Kc]
+*** RIVER *** [4s Js 8d Kc][Qd]
+*** SHOW DOWN ***
+_SKR shows [Th Qs] (One pair : Queens)
+Djabo shows [Ks 8s] (Two pairs : Kings and 8)
+Djabo collected 892 from pot
+*** SUMMARY ***
+Total pot 892 | No rake
+Board: [4s Js 8d Kc Qd]
+Seat 1: _SKR (small blind) (button) showed [Th Qs] and lost with One pair : Queens
+Seat 3: Djabo (big blind) showed [Ks 8s] and won 892 with Two pairs : Kings and 8
+
+

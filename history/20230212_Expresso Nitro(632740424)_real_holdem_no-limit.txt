@@ -1,0 +1,68 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717599427937173505-1-1676228390 - Holdem no limit (10/20) - 2023/02/12 18:59:50 UTC
+Table: 'Expresso Nitro(632740424)#0' 3-max (real money) Seat #1 is the button
+Seat 1: joow28 (300)
+Seat 2: _SKR (300)
+Seat 3: Clem-mentina (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Clem-mentina posts big blind 20
+Dealt to _SKR [2s 4c]
+*** PRE-FLOP *** 
+joow28 folds
+_SKR folds
+Clem-mentina collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Clem-mentina (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717599427937173505-2-1676228397 - Holdem no limit (10/20) - 2023/02/12 18:59:57 UTC
+Table: 'Expresso Nitro(632740424)#0' 3-max (real money) Seat #2 is the button
+Seat 1: joow28 (300)
+Seat 2: _SKR (290)
+Seat 3: Clem-mentina (310)
+*** ANTE/BLINDS ***
+Clem-mentina posts small blind 10
+joow28 posts big blind 20
+Dealt to _SKR [Js Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Clem-mentina raises 270 to 310 and is all-in
+joow28 folds
+_SKR folds
+Clem-mentina collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 3: Clem-mentina (small blind) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717599427937173505-3-1676228410 - Holdem no limit (10/20) - 2023/02/12 19:00:10 UTC
+Table: 'Expresso Nitro(632740424)#0' 3-max (real money) Seat #3 is the button
+Seat 1: joow28 (280)
+Seat 2: _SKR (250)
+Seat 3: Clem-mentina (370)
+*** ANTE/BLINDS ***
+joow28 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks Ah]
+*** PRE-FLOP *** 
+Clem-mentina folds
+joow28 calls 10
+_SKR raises 30 to 50
+joow28 calls 30
+*** FLOP *** [5s 2d Qd]
+joow28 bets 230 and is all-in
+_SKR calls 200 and is all-in
+*** TURN *** [5s 2d Qd][9c]
+*** RIVER *** [5s 2d Qd 9c][Th]
+*** SHOW DOWN ***
+_SKR shows [Ks Ah] (High card : Ace)
+joow28 shows [5h Jh] (One pair : 5)
+joow28 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [5s 2d Qd 9c Th]
+Seat 1: joow28 (small blind) showed [5h Jh] and won 530 with One pair : 5
+Seat 2: _SKR (big blind) showed [Ks Ah] and lost with High card : Ace
+
+

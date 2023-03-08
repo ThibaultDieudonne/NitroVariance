@@ -1,0 +1,155 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689847805991714817-1-1674655541 - Holdem no limit (10/20) - 2023/01/25 14:05:41 UTC
+Table: 'Expresso Nitro(626278996)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PB Boss11607 (300)
+Seat 2: LuckForMe (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+LuckForMe posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s 3h]
+*** PRE-FLOP *** 
+PB Boss11607 calls 20
+LuckForMe calls 10
+_SKR checks
+*** FLOP *** [As 5c Ac]
+LuckForMe checks
+_SKR checks
+PB Boss11607 checks
+*** TURN *** [As 5c Ac][Td]
+LuckForMe checks
+_SKR checks
+PB Boss11607 bets 60
+LuckForMe folds
+_SKR folds
+PB Boss11607 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [As 5c Ac Td]
+Seat 1: PB Boss11607 (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689847805991714817-2-1674655569 - Holdem no limit (10/20) - 2023/01/25 14:06:09 UTC
+Table: 'Expresso Nitro(626278996)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PB Boss11607 (340)
+Seat 2: LuckForMe (280)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+PB Boss11607 posts big blind 20
+Dealt to _SKR [Js 6s]
+*** PRE-FLOP *** 
+LuckForMe folds
+_SKR calls 10
+PB Boss11607 checks
+*** FLOP *** [5h As Qd]
+_SKR checks
+PB Boss11607 bets 40
+_SKR folds
+PB Boss11607 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5h As Qd]
+Seat 1: PB Boss11607 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689847805991714817-3-1674655582 - Holdem no limit (10/20) - 2023/01/25 14:06:22 UTC
+Table: 'Expresso Nitro(626278996)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PB Boss11607 (360)
+Seat 2: LuckForMe (280)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+PB Boss11607 posts small blind 10
+LuckForMe posts big blind 20
+Dealt to _SKR [5d 8h]
+*** PRE-FLOP *** 
+_SKR folds
+PB Boss11607 raises 340 to 360 and is all-in
+LuckForMe calls 260 and is all-in
+*** FLOP *** [Kc Qh Ac]
+*** TURN *** [Kc Qh Ac][2s]
+*** RIVER *** [Kc Qh Ac 2s][Tc]
+*** SHOW DOWN ***
+PB Boss11607 shows [6s 6d] (One pair : 6)
+LuckForMe shows [8c 8d] (One pair : 8)
+LuckForMe collected 560 from main pot
+PB Boss11607 collected 80 from side pot 1
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Kc Qh Ac 2s Tc]
+Seat 1: PB Boss11607 (small blind) showed [6s 6d] and won 80 with One pair : 6
+Seat 2: LuckForMe (big blind) showed [8c 8d] and won 560 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689847805991714817-4-1674655596 - Holdem no limit (10/20) - 2023/01/25 14:06:36 UTC
+Table: 'Expresso Nitro(626278996)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PB Boss11607 (80)
+Seat 2: LuckForMe (560)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+LuckForMe posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc 7c]
+*** PRE-FLOP *** 
+PB Boss11607 raises 60 to 80 and is all-in
+LuckForMe folds
+_SKR calls 60
+*** FLOP *** [4h 7s Th]
+*** TURN *** [4h 7s Th][9s]
+*** RIVER *** [4h 7s Th 9s][2h]
+*** SHOW DOWN ***
+PB Boss11607 shows [Jd 6d] (High card : Jack)
+_SKR shows [Jc 7c] (One pair : 7)
+_SKR collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [4h 7s Th 9s 2h]
+Seat 1: PB Boss11607 (button) showed [Jd 6d] and lost with High card : Jack
+Seat 3: _SKR (big blind) showed [Jc 7c] and won 170 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689847805991714817-5-1674655611 - Holdem no limit (15/30) - 2023/01/25 14:06:51 UTC
+Table: 'Expresso Nitro(626278996)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LuckForMe (550)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LuckForMe posts big blind 30
+Dealt to _SKR [Ts Qc]
+*** PRE-FLOP *** 
+_SKR calls 15
+LuckForMe checks
+*** FLOP *** [Jh 5h 2s]
+LuckForMe bets 60
+_SKR folds
+LuckForMe collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jh 5h 2s]
+Seat 2: LuckForMe (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689847805991714817-6-1674655622 - Holdem no limit (15/30) - 2023/01/25 14:07:02 UTC
+Table: 'Expresso Nitro(626278996)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LuckForMe (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+LuckForMe posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ac 7d]
+*** PRE-FLOP *** 
+LuckForMe raises 550 to 580 and is all-in
+_SKR calls 290 and is all-in
+*** FLOP *** [8h 2c 4h]
+*** TURN *** [8h 2c 4h][Jd]
+*** RIVER *** [8h 2c 4h Jd][Kd]
+*** SHOW DOWN ***
+_SKR shows [Ac 7d] (High card : Ace)
+LuckForMe shows [4d 4s] (Trips of 4)
+LuckForMe collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h 2c 4h Jd Kd]
+Seat 2: LuckForMe (small blind) (button) showed [4d 4s] and won 900 with Trips of 4
+Seat 3: _SKR (big blind) showed [Ac 7d] and lost with High card : Ace
+
+

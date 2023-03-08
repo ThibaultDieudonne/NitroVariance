@@ -1,0 +1,86 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694583183529213953-1-1674946082 - Holdem no limit (10/20) - 2023/01/28 22:48:02 UTC
+Table: 'Expresso Nitro(627381537)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Rorak (300)
+Seat 3: NaiPasPeurr (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Rorak posts big blind 20
+Dealt to _SKR [2h 5c]
+*** PRE-FLOP *** 
+NaiPasPeurr calls 20
+_SKR folds
+Rorak checks
+*** FLOP *** [Qs Jc Ad]
+Rorak checks
+NaiPasPeurr bets 20
+Rorak folds
+NaiPasPeurr collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Qs Jc Ad]
+Seat 3: NaiPasPeurr (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694583183529213953-2-1674946100 - Holdem no limit (10/20) - 2023/01/28 22:48:20 UTC
+Table: 'Expresso Nitro(627381537)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Rorak (280)
+Seat 3: NaiPasPeurr (330)
+*** ANTE/BLINDS ***
+Rorak posts small blind 10
+NaiPasPeurr posts big blind 20
+Dealt to _SKR [Ks Kd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Rorak calls 30
+NaiPasPeurr folds
+*** FLOP *** [6d 2s 9d]
+Rorak checks
+_SKR bets 35
+Rorak raises 98 to 133
+_SKR raises 98 to 231
+Rorak calls 98
+*** TURN *** [6d 2s 9d][6c]
+Rorak bets 9 and is all-in
+_SKR calls 9
+*** RIVER *** [6d 2s 9d 6c][8s]
+*** SHOW DOWN ***
+_SKR shows [Ks Kd] (Two pairs : Kings and 6)
+Rorak shows [6s Ah] (Trips of 6)
+Rorak collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6d 2s 9d 6c 8s]
+Seat 1: _SKR (button) showed [Ks Kd] and lost with Two pairs : Kings and 6
+Seat 2: Rorak (small blind) showed [6s Ah] and won 580 with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694583183529213953-3-1674946130 - Holdem no limit (10/20) - 2023/01/28 22:48:50 UTC
+Table: 'Expresso Nitro(627381537)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (10)
+Seat 2: Rorak (580)
+Seat 3: NaiPasPeurr (310)
+*** ANTE/BLINDS ***
+NaiPasPeurr posts small blind 10
+_SKR posts big blind 10 and is all-in
+Dealt to _SKR [Ks 4h]
+*** PRE-FLOP *** 
+Rorak raises 570 to 580 and is all-in
+NaiPasPeurr calls 300 and is all-in
+*** FLOP *** [4d 4c 6s]
+*** TURN *** [4d 4c 6s][5h]
+*** RIVER *** [4d 4c 6s 5h][5d]
+*** SHOW DOWN ***
+_SKR shows [Ks 4h] (Full of 4 and 5)
+NaiPasPeurr shows [9c Kc] (Two pairs : 5 and 4)
+Rorak shows [Ad 5c] (Full of 5 and 4)
+Rorak collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 4c 6s 5h 5d]
+Seat 1: _SKR (big blind) showed [Ks 4h] and lost with Full of 4 and 5
+Seat 2: Rorak (button) showed [Ad 5c] and won 900 with Full of 5 and 4
+Seat 3: NaiPasPeurr (small blind) showed [9c Kc] and lost with Two pairs : 5 and 4
+
+

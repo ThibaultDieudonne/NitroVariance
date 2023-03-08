@@ -1,0 +1,582 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696825182227529729-1-1675099550 - Holdem no limit (10/20) - 2023/01/30 17:25:50 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Yacine2304 (300)
+Seat 2: _SKR (300)
+Seat 3: superlov (300)
+*** ANTE/BLINDS ***
+Yacine2304 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 6s]
+*** PRE-FLOP *** 
+superlov calls 20
+Yacine2304 calls 10
+_SKR raises 280 to 300 and is all-in
+superlov folds
+Yacine2304 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696825182227529729-2-1675099561 - Holdem no limit (10/20) - 2023/01/30 17:26:01 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yacine2304 (280)
+Seat 2: _SKR (340)
+Seat 3: superlov (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+superlov posts big blind 20
+Dealt to _SKR [4s Ah]
+*** PRE-FLOP *** 
+Yacine2304 raises 50 to 70
+_SKR folds
+superlov raises 210 to 280 and is all-in
+Yacine2304 calls 210 and is all-in
+*** FLOP *** [Ad Ts 2h]
+*** TURN *** [Ad Ts 2h][8h]
+*** RIVER *** [Ad Ts 2h 8h][3c]
+*** SHOW DOWN ***
+Yacine2304 shows [Kc Qd] (High card : Ace)
+superlov shows [Jh As] (One pair : Aces)
+superlov collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Ad Ts 2h 8h 3c]
+Seat 1: Yacine2304 (button) showed [Kc Qd] and lost with High card : Ace
+Seat 3: superlov (big blind) showed [Jh As] and won 570 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696825182227529729-3-1675099582 - Holdem no limit (10/20) - 2023/01/30 17:26:22 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (330)
+Seat 3: superlov (570)
+*** ANTE/BLINDS ***
+superlov posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad 2h]
+*** PRE-FLOP *** 
+superlov calls 10
+_SKR raises 310 to 330 and is all-in
+superlov calls 310
+*** FLOP *** [As Kd 7c]
+*** TURN *** [As Kd 7c][4s]
+*** RIVER *** [As Kd 7c 4s][5d]
+*** SHOW DOWN ***
+superlov shows [Js 8h] (High card : Ace)
+_SKR shows [Ad 2h] (One pair : Aces)
+_SKR collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [As Kd 7c 4s 5d]
+Seat 2: _SKR (big blind) showed [Ad 2h] and won 660 with One pair : Aces
+Seat 3: superlov (small blind) (button) showed [Js 8h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696825182227529729-4-1675099597 - Holdem no limit (10/20) - 2023/01/30 17:26:37 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (660)
+Seat 3: superlov (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+superlov posts big blind 20
+Dealt to _SKR [2s 5s]
+*** PRE-FLOP *** 
+_SKR folds
+superlov collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: superlov (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696825182227529729-5-1675099601 - Holdem no limit (10/20) - 2023/01/30 17:26:41 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (650)
+Seat 3: superlov (250)
+*** ANTE/BLINDS ***
+superlov posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac 2c]
+*** PRE-FLOP *** 
+superlov raises 230 to 250 and is all-in
+_SKR calls 230
+*** FLOP *** [Qd 7s 4h]
+*** TURN *** [Qd 7s 4h][9c]
+*** RIVER *** [Qd 7s 4h 9c][Td]
+*** SHOW DOWN ***
+_SKR shows [Ac 2c] (High card : Ace)
+superlov shows [9h Jd] (One pair : 9)
+superlov collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Qd 7s 4h 9c Td]
+Seat 2: _SKR (big blind) showed [Ac 2c] and lost with High card : Ace
+Seat 3: superlov (small blind) (button) showed [9h Jd] and won 500 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696825182227529729-6-1675099614 - Holdem no limit (15/30) - 2023/01/30 17:26:54 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (400)
+Seat 3: superlov (500)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+superlov posts big blind 30
+Dealt to _SKR [6s Tc]
+*** PRE-FLOP *** 
+_SKR folds
+superlov collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: superlov (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696825182227529729-7-1675099617 - Holdem no limit (15/30) - 2023/01/30 17:26:57 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (385)
+Seat 3: superlov (515)
+*** ANTE/BLINDS ***
+superlov posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7c 5s]
+*** PRE-FLOP *** 
+superlov raises 485 to 515 and is all-in
+_SKR folds
+superlov collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Seat 3: superlov (small blind) (button) won 545
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696825182227529729-8-1675099622 - Holdem no limit (15/30) - 2023/01/30 17:27:02 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (355)
+Seat 3: superlov (545)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+superlov posts big blind 30
+Dealt to _SKR [Tc Js]
+*** PRE-FLOP *** 
+_SKR calls 15
+superlov checks
+*** FLOP *** [Ah 6d 3h]
+superlov checks
+_SKR checks
+*** TURN *** [Ah 6d 3h][Th]
+superlov checks
+_SKR bets 30
+superlov folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ah 6d 3h Th]
+Seat 2: _SKR (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696825182227529729-9-1675099645 - Holdem no limit (15/30) - 2023/01/30 17:27:25 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (385)
+Seat 3: superlov (515)
+*** ANTE/BLINDS ***
+superlov posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5d Jc]
+*** PRE-FLOP *** 
+superlov calls 15
+_SKR checks
+*** FLOP *** [Kh Qc Jh]
+_SKR checks
+superlov checks
+*** TURN *** [Kh Qc Jh][6d]
+_SKR checks
+superlov checks
+*** RIVER *** [Kh Qc Jh 6d][Qh]
+_SKR bets 30
+superlov folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Kh Qc Jh 6d Qh]
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825182227529729-10-1675099668 - Holdem no limit (20/40) - 2023/01/30 17:27:48 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (415)
+Seat 3: superlov (485)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+superlov posts big blind 40
+Dealt to _SKR [9h 7s]
+*** PRE-FLOP *** 
+_SKR folds
+superlov collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: superlov (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825182227529729-11-1675099672 - Holdem no limit (20/40) - 2023/01/30 17:27:52 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (395)
+Seat 3: superlov (505)
+*** ANTE/BLINDS ***
+superlov posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c Js]
+*** PRE-FLOP *** 
+superlov raises 40 to 80
+_SKR folds
+superlov collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: superlov (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825182227529729-12-1675099677 - Holdem no limit (20/40) - 2023/01/30 17:27:57 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (355)
+Seat 3: superlov (545)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+superlov posts big blind 40
+Dealt to _SKR [5h 2d]
+*** PRE-FLOP *** 
+_SKR folds
+superlov collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: superlov (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825182227529729-13-1675099680 - Holdem no limit (20/40) - 2023/01/30 17:28:00 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (335)
+Seat 3: superlov (565)
+*** ANTE/BLINDS ***
+superlov posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js 3d]
+*** PRE-FLOP *** 
+superlov folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825182227529729-14-1675099684 - Holdem no limit (20/40) - 2023/01/30 17:28:04 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (355)
+Seat 3: superlov (545)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+superlov posts big blind 40
+Dealt to _SKR [Tc Ac]
+*** PRE-FLOP *** 
+_SKR raises 315 to 355 and is all-in
+superlov folds
+_SKR collected 395 from pot
+*** SUMMARY ***
+Total pot 395 | No rake
+Seat 2: _SKR (small blind) (button) won 395
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825182227529729-15-1675099689 - Holdem no limit (20/40) - 2023/01/30 17:28:09 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (395)
+Seat 3: superlov (505)
+*** ANTE/BLINDS ***
+superlov posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qc 3c]
+*** PRE-FLOP *** 
+superlov folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825182227529729-16-1675099693 - Holdem no limit (20/40) - 2023/01/30 17:28:13 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (415)
+Seat 3: superlov (485)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+superlov posts big blind 40
+Dealt to _SKR [9s 8s]
+*** PRE-FLOP *** 
+_SKR raises 375 to 415 and is all-in
+superlov folds
+_SKR collected 455 from pot
+*** SUMMARY ***
+Total pot 455 | No rake
+Seat 2: _SKR (small blind) (button) won 455
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825182227529729-17-1675099701 - Holdem no limit (20/40) - 2023/01/30 17:28:21 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (455)
+Seat 3: superlov (445)
+*** ANTE/BLINDS ***
+superlov posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qd 3c]
+*** PRE-FLOP *** 
+superlov raises 405 to 445 and is all-in
+_SKR folds
+superlov collected 485 from pot
+*** SUMMARY ***
+Total pot 485 | No rake
+Seat 3: superlov (small blind) (button) won 485
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825182227529729-18-1675099707 - Holdem no limit (20/40) - 2023/01/30 17:28:27 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (415)
+Seat 3: superlov (485)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+superlov posts big blind 40
+Dealt to _SKR [Ad 3d]
+*** PRE-FLOP *** 
+_SKR raises 375 to 415 and is all-in
+superlov calls 375
+*** FLOP *** [4s 8s 2s]
+*** TURN *** [4s 8s 2s][3s]
+*** RIVER *** [4s 8s 2s 3s][7d]
+*** SHOW DOWN ***
+superlov shows [2d Kh] (One pair : 2)
+_SKR shows [Ad 3d] (One pair : 3)
+_SKR collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Board: [4s 8s 2s 3s 7d]
+Seat 2: _SKR (small blind) (button) showed [Ad 3d] and won 830 with One pair : 3
+Seat 3: superlov (big blind) showed [2d Kh] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825182227529729-19-1675099720 - Holdem no limit (20/40) - 2023/01/30 17:28:40 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (830)
+Seat 3: superlov (70)
+*** ANTE/BLINDS ***
+superlov posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3h 4c]
+*** PRE-FLOP *** 
+superlov raises 30 to 70 and is all-in
+_SKR calls 30
+*** FLOP *** [6d 7d 4d]
+*** TURN *** [6d 7d 4d][Tc]
+*** RIVER *** [6d 7d 4d Tc][8d]
+*** SHOW DOWN ***
+_SKR shows [3h 4c] (One pair : 4)
+superlov shows [As 7c] (One pair : 7)
+superlov collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6d 7d 4d Tc 8d]
+Seat 2: _SKR (big blind) showed [3h 4c] and lost with One pair : 4
+Seat 3: superlov (small blind) (button) showed [As 7c] and won 140 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696825182227529729-20-1675099734 - Holdem no limit (30/60) - 2023/01/30 17:28:54 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (760)
+Seat 3: superlov (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+superlov posts big blind 60
+Dealt to _SKR [8d 9s]
+*** PRE-FLOP *** 
+_SKR folds
+superlov collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: superlov (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696825182227529729-21-1675099738 - Holdem no limit (30/60) - 2023/01/30 17:28:58 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (730)
+Seat 3: superlov (170)
+*** ANTE/BLINDS ***
+superlov posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ac Td]
+*** PRE-FLOP *** 
+superlov folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696825182227529729-22-1675099742 - Holdem no limit (30/60) - 2023/01/30 17:29:02 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (760)
+Seat 3: superlov (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+superlov posts big blind 60
+Dealt to _SKR [8h 8c]
+*** PRE-FLOP *** 
+_SKR raises 700 to 760 and is all-in
+superlov calls 80 and is all-in
+*** FLOP *** [4s 4d 6s]
+*** TURN *** [4s 4d 6s][Kc]
+*** RIVER *** [4s 4d 6s Kc][Tc]
+*** SHOW DOWN ***
+_SKR shows [8h 8c] (Two pairs : 8 and 4)
+superlov shows [7h Ts] (Two pairs : Tens and 4)
+superlov collected 280 from main pot
+_SKR collected 620 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 4d 6s Kc Tc]
+Seat 2: _SKR (small blind) (button) showed [8h 8c] and won 620 with Two pairs : 8 and 4
+Seat 3: superlov (big blind) showed [7h Ts] and won 280 with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696825182227529729-23-1675099753 - Holdem no limit (30/60) - 2023/01/30 17:29:13 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: superlov (280)
+*** ANTE/BLINDS ***
+superlov posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jd 6s]
+*** PRE-FLOP *** 
+superlov raises 220 to 280 and is all-in
+_SKR folds
+superlov collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: superlov (small blind) (button) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696825182227529729-24-1675099758 - Holdem no limit (30/60) - 2023/01/30 17:29:18 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (560)
+Seat 3: superlov (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+superlov posts big blind 60
+Dealt to _SKR [9c Ah]
+*** PRE-FLOP *** 
+_SKR raises 500 to 560 and is all-in
+superlov calls 280 and is all-in
+*** FLOP *** [7h 4s Jh]
+*** TURN *** [7h 4s Jh][6c]
+*** RIVER *** [7h 4s Jh 6c][5s]
+*** SHOW DOWN ***
+_SKR shows [9c Ah] (High card : Ace)
+superlov shows [2s 8s] (Straight 8 high)
+superlov collected 680 from main pot
+_SKR collected 220 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h 4s Jh 6c 5s]
+Seat 2: _SKR (small blind) (button) showed [9c Ah] and won 220 with High card : Ace
+Seat 3: superlov (big blind) showed [2s 8s] and won 680 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696825182227529729-25-1675099769 - Holdem no limit (30/60) - 2023/01/30 17:29:29 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (220)
+Seat 3: superlov (680)
+*** ANTE/BLINDS ***
+superlov posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4s 8h]
+*** PRE-FLOP *** 
+superlov raises 620 to 680 and is all-in
+_SKR calls 160 and is all-in
+*** FLOP *** [8d Qh 6d]
+*** TURN *** [8d Qh 6d][Jd]
+*** RIVER *** [8d Qh 6d Jd][7c]
+*** SHOW DOWN ***
+_SKR shows [4s 8h] (One pair : 8)
+superlov shows [Kc 3h] (High card : King)
+superlov collected 460 from side pot 1
+_SKR collected 440 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d Qh 6d Jd 7c]
+Seat 2: _SKR (big blind) showed [4s 8h] and won 440 with One pair : 8
+Seat 3: superlov (small blind) (button) showed [Kc 3h] and won 460 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696825182227529729-26-1675099789 - Holdem no limit (40/80) - 2023/01/30 17:29:49 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (440)
+Seat 3: superlov (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+superlov posts big blind 80
+Dealt to _SKR [Kc 9d]
+*** PRE-FLOP *** 
+_SKR raises 360 to 440 and is all-in
+superlov calls 360
+*** FLOP *** [4d Kh Jd]
+*** TURN *** [4d Kh Jd][2h]
+*** RIVER *** [4d Kh Jd 2h][9s]
+*** SHOW DOWN ***
+superlov shows [3s 6s] (High card : King)
+_SKR shows [Kc 9d] (Two pairs : Kings and 9)
+_SKR collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [4d Kh Jd 2h 9s]
+Seat 2: _SKR (small blind) (button) showed [Kc 9d] and won 880 with Two pairs : Kings and 9
+Seat 3: superlov (big blind) showed [3s 6s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696825182227529729-27-1675099803 - Holdem no limit (40/80) - 2023/01/30 17:30:03 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (880)
+Seat 3: superlov (20)
+*** ANTE/BLINDS ***
+superlov posts small blind 20 and is all-in
+_SKR posts big blind 80
+Dealt to _SKR [Kh Kd]
+*** PRE-FLOP *** 
+*** FLOP *** [2h 9c Qh]
+*** TURN *** [2h 9c Qh][4d]
+*** RIVER *** [2h 9c Qh 4d][Ah]
+*** SHOW DOWN ***
+_SKR shows [Kh Kd] (One pair : Kings)
+superlov shows [9d Ac] (Two pairs : Aces and 9)
+superlov collected 40 from main pot
+_SKR collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [2h 9c Qh 4d Ah]
+Seat 2: _SKR (big blind) showed [Kh Kd] and won 60 with One pair : Kings
+Seat 3: superlov (small blind) (button) showed [9d Ac] and won 40 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696825182227529729-28-1675099812 - Holdem no limit (40/80) - 2023/01/30 17:30:12 UTC
+Table: 'Expresso Nitro(627903543)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (860)
+Seat 3: superlov (40)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+superlov posts big blind 40 and is all-in
+Dealt to _SKR [6h Qd]
+*** PRE-FLOP *** 
+*** FLOP *** [5c 5d 4c]
+*** TURN *** [5c 5d 4c][9h]
+*** RIVER *** [5c 5d 4c 9h][Jd]
+*** SHOW DOWN ***
+superlov shows [3c 6d] (One pair : 5)
+_SKR shows [6h Qd] (One pair : 5)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5c 5d 4c 9h Jd]
+Seat 2: _SKR (small blind) (button) showed [6h Qd] and won 80 with One pair : 5
+Seat 3: superlov (big blind) showed [3c 6d] and lost with One pair : 5
+
+

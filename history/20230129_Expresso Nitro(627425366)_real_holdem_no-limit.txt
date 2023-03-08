@@ -1,0 +1,199 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694771427650830337-1-1674955904 - Holdem no limit (10/20) - 2023/01/29 01:31:44 UTC
+Table: 'Expresso Nitro(627425366)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CocsPronos (300)
+Seat 2: pipo inzaghi (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+CocsPronos posts small blind 10
+pipo inzaghi posts big blind 20
+Dealt to _SKR [8d Kd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+CocsPronos folds
+pipo inzaghi folds
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: _SKR (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694771427650830337-2-1674955912 - Holdem no limit (10/20) - 2023/01/29 01:31:52 UTC
+Table: 'Expresso Nitro(627425366)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CocsPronos (290)
+Seat 2: pipo inzaghi (280)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+pipo inzaghi posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s Jd]
+*** PRE-FLOP *** 
+CocsPronos calls 20
+pipo inzaghi folds
+_SKR checks
+*** FLOP *** [Kh Qc 9c]
+_SKR checks
+CocsPronos checks
+*** TURN *** [Kh Qc 9c][5h]
+_SKR checks
+CocsPronos bets 20
+_SKR folds
+CocsPronos collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Kh Qc 9c 5h]
+Seat 1: CocsPronos (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694771427650830337-3-1674955934 - Holdem no limit (10/20) - 2023/01/29 01:32:14 UTC
+Table: 'Expresso Nitro(627425366)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CocsPronos (320)
+Seat 2: pipo inzaghi (270)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+CocsPronos posts big blind 20
+Dealt to _SKR [2h Jd]
+*** PRE-FLOP *** 
+pipo inzaghi calls 20
+_SKR folds
+CocsPronos checks
+*** FLOP *** [As Tc 2s]
+CocsPronos bets 20
+pipo inzaghi folds
+CocsPronos collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [As Tc 2s]
+Seat 1: CocsPronos (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694771427650830337-4-1674955954 - Holdem no limit (10/20) - 2023/01/29 01:32:34 UTC
+Table: 'Expresso Nitro(627425366)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CocsPronos (350)
+Seat 2: pipo inzaghi (250)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+CocsPronos posts small blind 10
+pipo inzaghi posts big blind 20
+Dealt to _SKR [6c 8c]
+*** PRE-FLOP *** 
+_SKR folds
+CocsPronos calls 10
+pipo inzaghi raises 40 to 60
+CocsPronos calls 40
+*** FLOP *** [4s 5h 4d]
+CocsPronos bets 290 and is all-in
+pipo inzaghi calls 190 and is all-in
+*** TURN *** [4s 5h 4d][Js]
+*** RIVER *** [4s 5h 4d Js][5s]
+*** SHOW DOWN ***
+pipo inzaghi shows [9d 9h] (Two pairs : 9 and 5)
+CocsPronos shows [Ks 5c] (Full of 5 and 4)
+CocsPronos collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4s 5h 4d Js 5s]
+Seat 1: CocsPronos (small blind) showed [Ks 5c] and won 600 with Full of 5 and 4
+Seat 2: pipo inzaghi (big blind) showed [9d 9h] and lost with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694771427650830337-5-1674955993 - Holdem no limit (15/30) - 2023/01/29 01:33:13 UTC
+Table: 'Expresso Nitro(627425366)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CocsPronos (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+CocsPronos posts big blind 30
+Dealt to _SKR [4s Ah]
+*** PRE-FLOP *** 
+_SKR raises 270 to 300 and is all-in
+CocsPronos raises 300 to 600 and is all-in
+*** FLOP *** [7d 5s 6c]
+*** TURN *** [7d 5s 6c][3h]
+*** RIVER *** [7d 5s 6c 3h][2s]
+*** SHOW DOWN ***
+CocsPronos shows [6d Kd] (One pair : 6)
+_SKR shows [4s Ah] (Straight 7 high)
+_SKR collected 600 from main pot
+CocsPronos collected 300 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 5s 6c 3h 2s]
+Seat 1: CocsPronos (big blind) showed [6d Kd] and won 300 with One pair : 6
+Seat 3: _SKR (small blind) (button) showed [4s Ah] and won 600 with Straight 7 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694771427650830337-6-1674956007 - Holdem no limit (15/30) - 2023/01/29 01:33:27 UTC
+Table: 'Expresso Nitro(627425366)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CocsPronos (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+CocsPronos posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad 7s]
+*** PRE-FLOP *** 
+CocsPronos folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694771427650830337-7-1674956010 - Holdem no limit (15/30) - 2023/01/29 01:33:30 UTC
+Table: 'Expresso Nitro(627425366)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CocsPronos (285)
+Seat 3: _SKR (615)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+CocsPronos posts big blind 30
+Dealt to _SKR [7d 5s]
+*** PRE-FLOP *** 
+_SKR folds
+CocsPronos collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: CocsPronos (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694771427650830337-8-1674956015 - Holdem no limit (15/30) - 2023/01/29 01:33:35 UTC
+Table: 'Expresso Nitro(627425366)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CocsPronos (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+CocsPronos posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3c 5c]
+*** PRE-FLOP *** 
+CocsPronos raises 270 to 300 and is all-in
+_SKR folds
+CocsPronos collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: CocsPronos (small blind) (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2694771427650830337-9-1674956021 - Holdem no limit (20/40) - 2023/01/29 01:33:41 UTC
+Table: 'Expresso Nitro(627425366)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CocsPronos (330)
+Seat 3: _SKR (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+CocsPronos posts big blind 40
+Dealt to _SKR [Ad Qs]
+*** PRE-FLOP *** 
+_SKR raises 530 to 570 and is all-in
+CocsPronos calls 290 and is all-in
+*** FLOP *** [3d Ac 7s]
+*** TURN *** [3d Ac 7s][Qd]
+*** RIVER *** [3d Ac 7s Qd][Qc]
+*** SHOW DOWN ***
+CocsPronos shows [9h Jd] (One pair : Queens)
+_SKR shows [Ad Qs] (Full of Queens and Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d Ac 7s Qd Qc]
+Seat 1: CocsPronos (big blind) showed [9h Jd] and lost with One pair : Queens
+Seat 3: _SKR (small blind) (button) showed [Ad Qs] and won 900 with Full of Queens and Aces
+
+

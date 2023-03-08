@@ -1,0 +1,132 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674134908657467393-1-1673703096 - Holdem no limit (10/20) - 2023/01/14 13:31:36 UTC
+Table: 'Expresso Nitro(622620552)#0' 3-max (real money) Seat #1 is the button
+Seat 1: UnaiMitraill (300)
+Seat 2: Bet Alpha (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Bet Alpha posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Kc]
+*** PRE-FLOP *** 
+UnaiMitraill folds
+Bet Alpha raises 20 to 40
+_SKR raises 260 to 300 and is all-in
+Bet Alpha folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674134908657467393-2-1673703125 - Holdem no limit (10/20) - 2023/01/14 13:32:05 UTC
+Table: 'Expresso Nitro(622620552)#0' 3-max (real money) Seat #2 is the button
+Seat 1: UnaiMitraill (300)
+Seat 2: Bet Alpha (260)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+UnaiMitraill posts big blind 20
+Dealt to _SKR [Kd 7h]
+*** PRE-FLOP *** 
+Bet Alpha calls 20
+_SKR folds
+UnaiMitraill checks
+*** FLOP *** [4h 6c 2c]
+UnaiMitraill checks
+Bet Alpha checks
+*** TURN *** [4h 6c 2c][Tc]
+UnaiMitraill checks
+Bet Alpha checks
+*** RIVER *** [4h 6c 2c Tc][8d]
+UnaiMitraill bets 20
+Bet Alpha folds
+UnaiMitraill collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [4h 6c 2c Tc 8d]
+Seat 1: UnaiMitraill (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674134908657467393-3-1673703152 - Holdem no limit (15/30) - 2023/01/14 13:32:32 UTC
+Table: 'Expresso Nitro(622620552)#0' 3-max (real money) Seat #3 is the button
+Seat 1: UnaiMitraill (330)
+Seat 2: Bet Alpha (240)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+UnaiMitraill posts small blind 15
+Bet Alpha posts big blind 30
+Dealt to _SKR [Qh 8d]
+*** PRE-FLOP *** 
+_SKR folds
+UnaiMitraill raises 300 to 330 and is all-in
+Bet Alpha folds
+UnaiMitraill collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: UnaiMitraill (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674134908657467393-4-1673703162 - Holdem no limit (15/30) - 2023/01/14 13:32:42 UTC
+Table: 'Expresso Nitro(622620552)#0' 3-max (real money) Seat #1 is the button
+Seat 1: UnaiMitraill (360)
+Seat 2: Bet Alpha (210)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+Bet Alpha posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7h 4c]
+*** PRE-FLOP *** 
+UnaiMitraill raises 330 to 360 and is all-in
+Bet Alpha folds
+_SKR folds
+UnaiMitraill collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Seat 1: UnaiMitraill (button) won 405
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674134908657467393-5-1673703177 - Holdem no limit (15/30) - 2023/01/14 13:32:57 UTC
+Table: 'Expresso Nitro(622620552)#0' 3-max (real money) Seat #2 is the button
+Seat 1: UnaiMitraill (405)
+Seat 2: Bet Alpha (195)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+UnaiMitraill posts big blind 30
+Dealt to _SKR [7d 4s]
+*** PRE-FLOP *** 
+Bet Alpha folds
+_SKR folds
+UnaiMitraill collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: UnaiMitraill (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674134908657467393-6-1673703201 - Holdem no limit (15/30) - 2023/01/14 13:33:21 UTC
+Table: 'Expresso Nitro(622620552)#0' 3-max (real money) Seat #3 is the button
+Seat 1: UnaiMitraill (420)
+Seat 2: Bet Alpha (195)
+Seat 3: _SKR (285)
+*** ANTE/BLINDS ***
+UnaiMitraill posts small blind 15
+Bet Alpha posts big blind 30
+Dealt to _SKR [Ad Kc]
+*** PRE-FLOP *** 
+_SKR raises 255 to 285 and is all-in
+UnaiMitraill raises 135 to 420 and is all-in
+Bet Alpha folds
+*** FLOP *** [5d Td 2h]
+*** TURN *** [5d Td 2h][Th]
+*** RIVER *** [5d Td 2h Th][5s]
+*** SHOW DOWN ***
+_SKR shows [Ad Kc] (Two pairs : Tens and 5)
+UnaiMitraill shows [Qd Qh] (Two pairs : Queens and Tens)
+UnaiMitraill collected 735 from pot
+*** SUMMARY ***
+Total pot 735 | No rake
+Board: [5d Td 2h Th 5s]
+Seat 1: UnaiMitraill (small blind) showed [Qd Qh] and won 735 with Two pairs : Queens and Tens
+Seat 3: _SKR (button) showed [Ad Kc] and lost with Two pairs : Tens and 5
+
+

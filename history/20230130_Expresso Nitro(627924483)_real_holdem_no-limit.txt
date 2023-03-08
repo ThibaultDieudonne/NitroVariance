@@ -1,0 +1,226 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696915118842707969-1-1675103211 - Holdem no limit (10/20) - 2023/01/30 18:26:51 UTC
+Table: 'Expresso Nitro(627924483)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Corentin2aj (300)
+Seat 2: _SKR (300)
+Seat 3: Shuffffle (300)
+*** ANTE/BLINDS ***
+Corentin2aj posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td Kh]
+*** PRE-FLOP *** 
+Shuffffle raises 30 to 50
+Corentin2aj folds
+_SKR calls 30
+*** FLOP *** [8h As 2d]
+_SKR checks
+Shuffffle checks
+*** TURN *** [8h As 2d][6d]
+_SKR checks
+Shuffffle bets 39
+_SKR folds
+Shuffffle collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [8h As 2d 6d]
+Seat 3: Shuffffle (button) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696915118842707969-2-1675103251 - Holdem no limit (10/20) - 2023/01/30 18:27:31 UTC
+Table: 'Expresso Nitro(627924483)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Corentin2aj (290)
+Seat 2: _SKR (250)
+Seat 3: Shuffffle (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Shuffffle posts big blind 20
+Dealt to _SKR [5h As]
+*** PRE-FLOP *** 
+Corentin2aj raises 40 to 60
+_SKR folds
+Shuffffle raises 40 to 100
+Corentin2aj calls 40
+*** FLOP *** [6d 4d Qc]
+Shuffffle bets 20
+Corentin2aj calls 20
+*** TURN *** [6d 4d Qc][6c]
+Shuffffle bets 240 and is all-in
+Corentin2aj calls 170 and is all-in
+*** RIVER *** [6d 4d Qc 6c][7s]
+*** SHOW DOWN ***
+Corentin2aj shows [Th Ts] (Two pairs : Tens and 6)
+Shuffffle shows [8c Ad] (One pair : 6)
+Shuffffle collected 70 from side pot 1
+Corentin2aj collected 590 from main pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [6d 4d Qc 6c 7s]
+Seat 1: Corentin2aj (button) showed [Th Ts] and won 590 with Two pairs : Tens and 6
+Seat 3: Shuffffle (big blind) showed [8c Ad] and won 70 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696915118842707969-3-1675103279 - Holdem no limit (15/30) - 2023/01/30 18:27:59 UTC
+Table: 'Expresso Nitro(627924483)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Corentin2aj (590)
+Seat 2: _SKR (240)
+Seat 3: Shuffffle (70)
+*** ANTE/BLINDS ***
+Shuffffle posts small blind 15
+Corentin2aj posts big blind 30
+Dealt to _SKR [9h 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Shuffffle raises 30 to 60
+Corentin2aj calls 30
+*** FLOP *** [Ad 2c 4d]
+Shuffffle bets 10 and is all-in
+Corentin2aj calls 10
+*** TURN *** [Ad 2c 4d][Ts]
+*** RIVER *** [Ad 2c 4d Ts][8h]
+*** SHOW DOWN ***
+Corentin2aj shows [Td 9d] (One pair : Tens)
+Shuffffle shows [As Kc] (One pair : Aces)
+Shuffffle collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Ad 2c 4d Ts 8h]
+Seat 1: Corentin2aj (big blind) showed [Td 9d] and lost with One pair : Tens
+Seat 3: Shuffffle (small blind) showed [As Kc] and won 140 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696915118842707969-4-1675103293 - Holdem no limit (15/30) - 2023/01/30 18:28:13 UTC
+Table: 'Expresso Nitro(627924483)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Corentin2aj (520)
+Seat 2: _SKR (240)
+Seat 3: Shuffffle (140)
+*** ANTE/BLINDS ***
+Corentin2aj posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad Qd]
+*** PRE-FLOP *** 
+Shuffffle raises 110 to 140 and is all-in
+Corentin2aj calls 125
+_SKR raises 100 to 240 and is all-in
+Corentin2aj calls 100
+*** FLOP *** [Qh Ks Js]
+*** TURN *** [Qh Ks Js][Qs]
+*** RIVER *** [Qh Ks Js Qs][9h]
+*** SHOW DOWN ***
+Corentin2aj shows [2s Ac] (One pair : Queens)
+Shuffffle shows [8s Jc] (Two pairs : Queens and Jacks)
+_SKR shows [Ad Qd] (Trips of Queens)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qh Ks Js Qs 9h]
+Seat 1: Corentin2aj (small blind) showed [2s Ac] and lost with One pair : Queens
+Seat 2: _SKR (big blind) showed [Ad Qd] and won 620 with Trips of Queens
+Seat 3: Shuffffle (button) showed [8s Jc] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696915118842707969-5-1675103327 - Holdem no limit (20/40) - 2023/01/30 18:28:47 UTC
+Table: 'Expresso Nitro(627924483)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Corentin2aj (280)
+Seat 2: _SKR (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Corentin2aj posts big blind 40
+Dealt to _SKR [5d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Corentin2aj collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Corentin2aj (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696915118842707969-6-1675103331 - Holdem no limit (20/40) - 2023/01/30 18:28:51 UTC
+Table: 'Expresso Nitro(627924483)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Corentin2aj (300)
+Seat 2: _SKR (600)
+*** ANTE/BLINDS ***
+Corentin2aj posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9d 3d]
+*** PRE-FLOP *** 
+Corentin2aj raises 40 to 80
+_SKR folds
+Corentin2aj collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Corentin2aj (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696915118842707969-7-1675103337 - Holdem no limit (20/40) - 2023/01/30 18:28:57 UTC
+Table: 'Expresso Nitro(627924483)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Corentin2aj (340)
+Seat 2: _SKR (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Corentin2aj posts big blind 40
+Dealt to _SKR [Qs 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Corentin2aj collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Corentin2aj (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696915118842707969-8-1675103341 - Holdem no limit (20/40) - 2023/01/30 18:29:01 UTC
+Table: 'Expresso Nitro(627924483)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Corentin2aj (360)
+Seat 2: _SKR (540)
+*** ANTE/BLINDS ***
+Corentin2aj posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3s Qd]
+*** PRE-FLOP *** 
+Corentin2aj folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696915118842707969-9-1675103349 - Holdem no limit (20/40) - 2023/01/30 18:29:09 UTC
+Table: 'Expresso Nitro(627924483)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Corentin2aj (340)
+Seat 2: _SKR (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Corentin2aj posts big blind 40
+Dealt to _SKR [5s 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Corentin2aj collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Corentin2aj (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696915118842707969-10-1675103354 - Holdem no limit (20/40) - 2023/01/30 18:29:14 UTC
+Table: 'Expresso Nitro(627924483)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Corentin2aj (360)
+Seat 2: _SKR (540)
+*** ANTE/BLINDS ***
+Corentin2aj posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5s Ah]
+*** PRE-FLOP *** 
+Corentin2aj calls 20
+_SKR raises 500 to 540 and is all-in
+Corentin2aj calls 320 and is all-in
+*** FLOP *** [2h 9h Qh]
+*** TURN *** [2h 9h Qh][3d]
+*** RIVER *** [2h 9h Qh 3d][5h]
+*** SHOW DOWN ***
+Corentin2aj shows [7d As] (High card : Ace)
+_SKR shows [5s Ah] (Flush Ace high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2h 9h Qh 3d 5h]
+Seat 1: Corentin2aj (small blind) (button) showed [7d As] and lost with High card : Ace
+Seat 2: _SKR (big blind) showed [5s Ah] and won 900 with Flush Ace high
+
+

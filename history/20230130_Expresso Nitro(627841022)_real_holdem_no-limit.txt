@@ -1,0 +1,547 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696556656577216513-1-1675086864 - Holdem no limit (10/20) - 2023/01/30 13:54:24 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jutsukais (300)
+Seat 2: _SKR (300)
+Seat 3: stAArK_win (300)
+*** ANTE/BLINDS ***
+stAArK_win posts small blind 10
+jutsukais posts big blind 20
+Dealt to _SKR [6d 7h]
+*** PRE-FLOP *** 
+_SKR folds
+stAArK_win raises 20 to 40
+jutsukais calls 20
+*** FLOP *** [Ac 4c 5s]
+stAArK_win bets 20
+jutsukais calls 20
+*** TURN *** [Ac 4c 5s][4s]
+stAArK_win checks
+jutsukais bets 60
+stAArK_win folds
+jutsukais collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ac 4c 5s 4s]
+Seat 1: jutsukais (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696556656577216513-2-1675086898 - Holdem no limit (10/20) - 2023/01/30 13:54:58 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jutsukais (360)
+Seat 2: _SKR (300)
+Seat 3: stAArK_win (240)
+*** ANTE/BLINDS ***
+jutsukais posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s 3h]
+*** PRE-FLOP *** 
+stAArK_win folds
+jutsukais calls 10
+_SKR raises 280 to 300 and is all-in
+jutsukais calls 280
+*** FLOP *** [6h 6s 2s]
+*** TURN *** [6h 6s 2s][3d]
+*** RIVER *** [6h 6s 2s 3d][As]
+*** SHOW DOWN ***
+jutsukais shows [Qh Kc] (One pair : 6)
+_SKR shows [3s 3h] (Full of 3 and 6)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6h 6s 2s 3d As]
+Seat 1: jutsukais (small blind) showed [Qh Kc] and lost with One pair : 6
+Seat 2: _SKR (big blind) showed [3s 3h] and won 600 with Full of 3 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696556656577216513-3-1675086925 - Holdem no limit (15/30) - 2023/01/30 13:55:25 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jutsukais (60)
+Seat 2: _SKR (600)
+Seat 3: stAArK_win (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+stAArK_win posts big blind 30
+Dealt to _SKR [Jd 7s]
+*** PRE-FLOP *** 
+jutsukais raises 30 to 60 and is all-in
+_SKR folds
+stAArK_win calls 30
+*** FLOP *** [6c Ac 5h]
+*** TURN *** [6c Ac 5h][5c]
+*** RIVER *** [6c Ac 5h 5c][2d]
+*** SHOW DOWN ***
+stAArK_win shows [2s Tc] (Two pairs : 5 and 2)
+jutsukais shows [Qc 9c] (Flush Ace high)
+jutsukais collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [6c Ac 5h 5c 2d]
+Seat 1: jutsukais (button) showed [Qc 9c] and won 135 with Flush Ace high
+Seat 3: stAArK_win (big blind) showed [2s Tc] and lost with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696556656577216513-4-1675086946 - Holdem no limit (15/30) - 2023/01/30 13:55:46 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jutsukais (135)
+Seat 2: _SKR (585)
+Seat 3: stAArK_win (180)
+*** ANTE/BLINDS ***
+stAArK_win posts small blind 15
+jutsukais posts big blind 30
+Dealt to _SKR [7s 7d]
+*** PRE-FLOP *** 
+_SKR raises 555 to 585 and is all-in
+stAArK_win folds
+jutsukais calls 105 and is all-in
+*** FLOP *** [4d Ts Qh]
+*** TURN *** [4d Ts Qh][Jh]
+*** RIVER *** [4d Ts Qh Jh][9s]
+*** SHOW DOWN ***
+jutsukais shows [Qd Td] (Two pairs : Queens and Tens)
+_SKR shows [7s 7d] (One pair : 7)
+_SKR collected 450 from side pot 1
+jutsukais collected 285 from main pot
+*** SUMMARY ***
+Total pot 735 | No rake
+Board: [4d Ts Qh Jh 9s]
+Seat 1: jutsukais (big blind) showed [Qd Td] and won 285 with Two pairs : Queens and Tens
+Seat 2: _SKR (button) showed [7s 7d] and won 450 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696556656577216513-5-1675086962 - Holdem no limit (15/30) - 2023/01/30 13:56:02 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jutsukais (285)
+Seat 2: _SKR (450)
+Seat 3: stAArK_win (165)
+*** ANTE/BLINDS ***
+jutsukais posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th 8h]
+*** PRE-FLOP *** 
+stAArK_win folds
+jutsukais calls 15
+_SKR raises 420 to 450 and is all-in
+jutsukais folds
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 2: _SKR (big blind) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696556656577216513-6-1675086975 - Holdem no limit (15/30) - 2023/01/30 13:56:15 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jutsukais (255)
+Seat 2: _SKR (480)
+Seat 3: stAArK_win (165)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+stAArK_win posts big blind 30
+Dealt to _SKR [6d 4d]
+*** PRE-FLOP *** 
+jutsukais folds
+_SKR folds
+stAArK_win collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: stAArK_win (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696556656577216513-7-1675086992 - Holdem no limit (20/40) - 2023/01/30 13:56:32 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jutsukais (255)
+Seat 2: _SKR (465)
+Seat 3: stAArK_win (180)
+*** ANTE/BLINDS ***
+stAArK_win posts small blind 20
+jutsukais posts big blind 40
+Dealt to _SKR [8c Kh]
+*** PRE-FLOP *** 
+_SKR raises 425 to 465 and is all-in
+stAArK_win calls 160 and is all-in
+jutsukais folds
+*** FLOP *** [5s 7h 5d]
+*** TURN *** [5s 7h 5d][2s]
+*** RIVER *** [5s 7h 5d 2s][4d]
+*** SHOW DOWN ***
+_SKR shows [8c Kh] (One pair : 5)
+stAArK_win shows [Ah 3s] (Straight 5 high)
+stAArK_win collected 400 from main pot
+_SKR collected 285 from side pot 1
+*** SUMMARY ***
+Total pot 685 | No rake
+Board: [5s 7h 5d 2s 4d]
+Seat 2: _SKR (button) showed [8c Kh] and won 285 with One pair : 5
+Seat 3: stAArK_win (small blind) showed [Ah 3s] and won 400 with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696556656577216513-8-1675087010 - Holdem no limit (20/40) - 2023/01/30 13:56:50 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jutsukais (215)
+Seat 2: _SKR (285)
+Seat 3: stAArK_win (400)
+*** ANTE/BLINDS ***
+jutsukais posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qh Qc]
+*** PRE-FLOP *** 
+stAArK_win folds
+jutsukais folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696556656577216513-9-1675087019 - Holdem no limit (20/40) - 2023/01/30 13:56:59 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jutsukais (195)
+Seat 2: _SKR (305)
+Seat 3: stAArK_win (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+stAArK_win posts big blind 40
+Dealt to _SKR [Qs 2d]
+*** PRE-FLOP *** 
+jutsukais folds
+_SKR folds
+stAArK_win collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: stAArK_win (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696556656577216513-10-1675087025 - Holdem no limit (20/40) - 2023/01/30 13:57:05 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jutsukais (195)
+Seat 2: _SKR (285)
+Seat 3: stAArK_win (420)
+*** ANTE/BLINDS ***
+stAArK_win posts small blind 20
+jutsukais posts big blind 40
+Dealt to _SKR [Ks 4c]
+*** PRE-FLOP *** 
+_SKR raises 245 to 285 and is all-in
+stAArK_win folds
+jutsukais folds
+_SKR collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 2: _SKR (button) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696556656577216513-11-1675087034 - Holdem no limit (20/40) - 2023/01/30 13:57:14 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jutsukais (155)
+Seat 2: _SKR (345)
+Seat 3: stAArK_win (400)
+*** ANTE/BLINDS ***
+jutsukais posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ks Qd]
+*** PRE-FLOP *** 
+stAArK_win folds
+jutsukais folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696556656577216513-12-1675087040 - Holdem no limit (30/60) - 2023/01/30 13:57:20 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jutsukais (135)
+Seat 2: _SKR (365)
+Seat 3: stAArK_win (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+stAArK_win posts big blind 60
+Dealt to _SKR [Ks Jc]
+*** PRE-FLOP *** 
+jutsukais raises 60 to 120
+_SKR raises 245 to 365 and is all-in
+stAArK_win folds
+jutsukais calls 15 and is all-in
+*** FLOP *** [6h Qh 8d]
+*** TURN *** [6h Qh 8d][Td]
+*** RIVER *** [6h Qh 8d Td][Tc]
+*** SHOW DOWN ***
+jutsukais shows [6d Kh] (Two pairs : Tens and 6)
+_SKR shows [Ks Jc] (One pair : Tens)
+_SKR collected 230 from side pot 1
+jutsukais collected 330 from main pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6h Qh 8d Td Tc]
+Seat 1: jutsukais (button) showed [6d Kh] and won 330 with Two pairs : Tens and 6
+Seat 2: _SKR (small blind) showed [Ks Jc] and won 230 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696556656577216513-13-1675087060 - Holdem no limit (30/60) - 2023/01/30 13:57:40 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jutsukais (330)
+Seat 2: _SKR (230)
+Seat 3: stAArK_win (340)
+*** ANTE/BLINDS ***
+stAArK_win posts small blind 30
+jutsukais posts big blind 60
+Dealt to _SKR [6h Tc]
+*** PRE-FLOP *** 
+_SKR folds
+stAArK_win folds
+jutsukais collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: jutsukais (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696556656577216513-14-1675087071 - Holdem no limit (30/60) - 2023/01/30 13:57:51 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jutsukais (360)
+Seat 2: _SKR (230)
+Seat 3: stAArK_win (310)
+*** ANTE/BLINDS ***
+jutsukais posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7c 2c]
+*** PRE-FLOP *** 
+stAArK_win raises 250 to 310 and is all-in
+jutsukais folds
+_SKR folds
+stAArK_win collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 3: stAArK_win (button) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696556656577216513-15-1675087084 - Holdem no limit (30/60) - 2023/01/30 13:58:04 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jutsukais (330)
+Seat 2: _SKR (170)
+Seat 3: stAArK_win (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+stAArK_win posts big blind 60
+Dealt to _SKR [Jd 9h]
+*** PRE-FLOP *** 
+jutsukais calls 60
+_SKR raises 110 to 170 and is all-in
+stAArK_win raises 230 to 400 and is all-in
+jutsukais folds
+*** FLOP *** [8h 5s Js]
+*** TURN *** [8h 5s Js][7s]
+*** RIVER *** [8h 5s Js 7s][Qc]
+*** SHOW DOWN ***
+_SKR shows [Jd 9h] (One pair : Jacks)
+stAArK_win shows [4d 4s] (One pair : 4)
+stAArK_win collected 230 from side pot 1
+_SKR collected 400 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [8h 5s Js 7s Qc]
+Seat 2: _SKR (small blind) showed [Jd 9h] and won 400 with One pair : Jacks
+Seat 3: stAArK_win (big blind) showed [4d 4s] and won 230 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696556656577216513-16-1675087103 - Holdem no limit (40/80) - 2023/01/30 13:58:23 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jutsukais (270)
+Seat 2: _SKR (400)
+Seat 3: stAArK_win (230)
+*** ANTE/BLINDS ***
+stAArK_win posts small blind 40
+jutsukais posts big blind 80
+Dealt to _SKR [Js Ks]
+*** PRE-FLOP *** 
+_SKR raises 320 to 400 and is all-in
+stAArK_win calls 190 and is all-in
+jutsukais folds
+*** FLOP *** [9h Jc 3c]
+*** TURN *** [9h Jc 3c][8s]
+*** RIVER *** [9h Jc 3c 8s][4s]
+*** SHOW DOWN ***
+stAArK_win shows [Ts Jd] (One pair : Jacks)
+_SKR shows [Js Ks] (One pair : Jacks)
+_SKR collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [9h Jc 3c 8s 4s]
+Seat 2: _SKR (button) showed [Js Ks] and won 710 with One pair : Jacks
+Seat 3: stAArK_win (small blind) showed [Ts Jd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696556656577216513-17-1675087121 - Holdem no limit (40/80) - 2023/01/30 13:58:41 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jutsukais (190)
+Seat 2: _SKR (710)
+*** ANTE/BLINDS ***
+jutsukais posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3h Kh]
+*** PRE-FLOP *** 
+jutsukais folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696556656577216513-18-1675087126 - Holdem no limit (40/80) - 2023/01/30 13:58:46 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jutsukais (150)
+Seat 2: _SKR (750)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+jutsukais posts big blind 80
+Dealt to _SKR [Kc Js]
+*** PRE-FLOP *** 
+_SKR raises 80 to 160
+jutsukais calls 70 and is all-in
+*** FLOP *** [Th Qd 3h]
+*** TURN *** [Th Qd 3h][3c]
+*** RIVER *** [Th Qd 3h 3c][8d]
+*** SHOW DOWN ***
+jutsukais shows [Jd 9c] (Straight Queen high)
+_SKR shows [Kc Js] (One pair : 3)
+_SKR collected 10 from side pot 1
+jutsukais collected 300 from main pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [Th Qd 3h 3c 8d]
+Seat 1: jutsukais (big blind) showed [Jd 9c] and won 300 with Straight Queen high
+Seat 2: _SKR (small blind) (button) showed [Kc Js] and won 10 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696556656577216513-19-1675087137 - Holdem no limit (40/80) - 2023/01/30 13:58:57 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jutsukais (300)
+Seat 2: _SKR (600)
+*** ANTE/BLINDS ***
+jutsukais posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [9s 6c]
+*** PRE-FLOP *** 
+jutsukais folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696556656577216513-20-1675087156 - Holdem no limit (40/80) - 2023/01/30 13:59:16 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jutsukais (260)
+Seat 2: _SKR (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+jutsukais posts big blind 80
+Dealt to _SKR [8c 8d]
+*** PRE-FLOP *** 
+_SKR raises 560 to 640 and is all-in
+jutsukais folds
+_SKR collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 2: _SKR (small blind) (button) won 720
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2696556656577216513-21-1675087165 - Holdem no limit (50/100) - 2023/01/30 13:59:25 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jutsukais (180)
+Seat 2: _SKR (720)
+*** ANTE/BLINDS ***
+jutsukais posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [3s 7h]
+*** PRE-FLOP *** 
+jutsukais folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2696556656577216513-22-1675087170 - Holdem no limit (50/100) - 2023/01/30 13:59:30 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jutsukais (130)
+Seat 2: _SKR (770)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+jutsukais posts big blind 100
+Dealt to _SKR [2d Tc]
+*** PRE-FLOP *** 
+_SKR folds
+jutsukais collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: jutsukais (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2696556656577216513-23-1675087177 - Holdem no limit (50/100) - 2023/01/30 13:59:37 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jutsukais (180)
+Seat 2: _SKR (720)
+*** ANTE/BLINDS ***
+jutsukais posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [7c Qd]
+*** PRE-FLOP *** 
+jutsukais calls 50
+_SKR raises 100 to 200
+jutsukais calls 80 and is all-in
+*** FLOP *** [Kd 2d Ks]
+*** TURN *** [Kd 2d Ks][Ac]
+*** RIVER *** [Kd 2d Ks Ac][4h]
+*** SHOW DOWN ***
+jutsukais shows [Qc 8s] (One pair : Kings)
+_SKR shows [7c Qd] (One pair : Kings)
+_SKR collected 20 from side pot 1
+jutsukais collected 360 from main pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Kd 2d Ks Ac 4h]
+Seat 1: jutsukais (small blind) (button) showed [Qc 8s] and won 360 with One pair : Kings
+Seat 2: _SKR (big blind) showed [7c Qd] and won 20 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2696556656577216513-24-1675087199 - Holdem no limit (50/100) - 2023/01/30 13:59:59 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jutsukais (360)
+Seat 2: _SKR (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+jutsukais posts big blind 100
+Dealt to _SKR [Tc 4s]
+*** PRE-FLOP *** 
+_SKR folds
+jutsukais collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: jutsukais (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2696556656577216513-25-1675087205 - Holdem no limit (50/100) - 2023/01/30 14:00:05 UTC
+Table: 'Expresso Nitro(627841022)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jutsukais (410)
+Seat 2: _SKR (490)
+*** ANTE/BLINDS ***
+jutsukais posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [Jh 9d]
+*** PRE-FLOP *** 
+jutsukais calls 50
+_SKR raises 390 to 490 and is all-in
+jutsukais calls 310 and is all-in
+*** FLOP *** [Jd 5d Jc]
+*** TURN *** [Jd 5d Jc][8d]
+*** RIVER *** [Jd 5d Jc 8d][4c]
+*** SHOW DOWN ***
+jutsukais shows [8c Qd] (Two pairs : Jacks and 8)
+_SKR shows [Jh 9d] (Trips of Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jd 5d Jc 8d 4c]
+Seat 1: jutsukais (small blind) (button) showed [8c Qd] and lost with Two pairs : Jacks and 8
+Seat 2: _SKR (big blind) showed [Jh 9d] and won 900 with Trips of Jacks
+
+

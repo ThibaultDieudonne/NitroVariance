@@ -1,0 +1,362 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718691565106102273-1-1676295705 - Holdem no limit (10/20) - 2023/02/13 13:41:45 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Compaore13 (300)
+Seat 2: _SKR (300)
+Seat 3: Daltvilla (300)
+*** ANTE/BLINDS ***
+Daltvilla posts small blind 10
+Compaore13 posts big blind 20
+Dealt to _SKR [4d 5d]
+*** PRE-FLOP *** 
+_SKR folds
+Daltvilla calls 10
+Compaore13 checks
+*** FLOP *** [8d Tc Js]
+Daltvilla bets 40
+Compaore13 calls 40
+*** TURN *** [8d Tc Js][2c]
+Daltvilla bets 120
+Compaore13 calls 120
+*** RIVER *** [8d Tc Js 2c][Ac]
+Daltvilla bets 120 and is all-in
+Compaore13 folds
+Daltvilla collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8d Tc Js 2c Ac]
+Seat 3: Daltvilla (small blind) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718691565106102273-2-1676295731 - Holdem no limit (10/20) - 2023/02/13 13:42:11 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Compaore13 (120)
+Seat 2: _SKR (300)
+Seat 3: Daltvilla (480)
+*** ANTE/BLINDS ***
+Compaore13 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td Kd]
+*** PRE-FLOP *** 
+Daltvilla folds
+Compaore13 calls 10
+_SKR raises 30 to 50
+Compaore13 calls 30
+*** FLOP *** [Kh Qc 6h]
+Compaore13 checks
+_SKR bets 35
+Compaore13 calls 35
+*** TURN *** [Kh Qc 6h][7h]
+Compaore13 checks
+_SKR checks
+*** RIVER *** [Kh Qc 6h 7h][Ad]
+Compaore13 checks
+_SKR checks
+*** SHOW DOWN ***
+Compaore13 shows [9d Jd] (High card : Ace)
+_SKR shows [Td Kd] (One pair : Kings)
+_SKR collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [Kh Qc 6h 7h Ad]
+Seat 1: Compaore13 (small blind) showed [9d Jd] and lost with High card : Ace
+Seat 2: _SKR (big blind) showed [Td Kd] and won 170 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718691565106102273-3-1676295783 - Holdem no limit (15/30) - 2023/02/13 13:43:03 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Compaore13 (35)
+Seat 2: _SKR (385)
+Seat 3: Daltvilla (480)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Daltvilla posts big blind 30
+Dealt to _SKR [Kc Th]
+*** PRE-FLOP *** 
+Compaore13 folds
+_SKR calls 15
+Daltvilla checks
+*** FLOP *** [Qh 3h Qd]
+_SKR bets 30
+Daltvilla folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qh 3h Qd]
+Seat 2: _SKR (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718691565106102273-4-1676295798 - Holdem no limit (15/30) - 2023/02/13 13:43:18 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Compaore13 (35)
+Seat 2: _SKR (415)
+Seat 3: Daltvilla (450)
+*** ANTE/BLINDS ***
+Daltvilla posts small blind 15
+Compaore13 posts big blind 30
+Dealt to _SKR [9h Js]
+*** PRE-FLOP *** 
+_SKR folds
+Daltvilla folds
+Compaore13 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Compaore13 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718691565106102273-5-1676295807 - Holdem no limit (15/30) - 2023/02/13 13:43:27 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Compaore13 (50)
+Seat 2: _SKR (415)
+Seat 3: Daltvilla (435)
+*** ANTE/BLINDS ***
+Compaore13 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2s 6h]
+*** PRE-FLOP *** 
+Daltvilla raises 75 to 105
+Compaore13 calls 35 and is all-in
+_SKR folds
+*** FLOP *** [Qc Ts 3h]
+*** TURN *** [Qc Ts 3h][4h]
+*** RIVER *** [Qc Ts 3h 4h][2h]
+*** SHOW DOWN ***
+Compaore13 shows [4c 6d] (One pair : 4)
+Daltvilla shows [As Qd] (One pair : Queens)
+Daltvilla collected 185 from pot
+*** SUMMARY ***
+Total pot 185 | No rake
+Board: [Qc Ts 3h 4h 2h]
+Seat 1: Compaore13 (small blind) showed [4c 6d] and lost with One pair : 4
+Seat 3: Daltvilla (button) showed [As Qd] and won 185 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718691565106102273-6-1676295828 - Holdem no limit (20/40) - 2023/02/13 13:43:48 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (385)
+Seat 3: Daltvilla (515)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Daltvilla posts big blind 40
+Dealt to _SKR [Th 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Daltvilla collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Daltvilla (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718691565106102273-7-1676295832 - Holdem no limit (20/40) - 2023/02/13 13:43:52 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (365)
+Seat 3: Daltvilla (535)
+*** ANTE/BLINDS ***
+Daltvilla posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5s 8c]
+*** PRE-FLOP *** 
+Daltvilla calls 20
+_SKR checks
+*** FLOP *** [Tc 3h 3s]
+_SKR checks
+Daltvilla bets 495 and is all-in
+_SKR folds
+Daltvilla collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Board: [Tc 3h 3s]
+Seat 3: Daltvilla (small blind) (button) won 575
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718691565106102273-8-1676295855 - Holdem no limit (20/40) - 2023/02/13 13:44:15 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (325)
+Seat 3: Daltvilla (575)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Daltvilla posts big blind 40
+Dealt to _SKR [As Ks]
+*** PRE-FLOP *** 
+_SKR raises 285 to 325 and is all-in
+Daltvilla folds
+_SKR collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Seat 2: _SKR (small blind) (button) won 365
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718691565106102273-9-1676295888 - Holdem no limit (30/60) - 2023/02/13 13:44:48 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (365)
+Seat 3: Daltvilla (535)
+*** ANTE/BLINDS ***
+Daltvilla posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7h 6c]
+*** PRE-FLOP *** 
+Daltvilla raises 475 to 535 and is all-in
+_SKR folds
+Daltvilla collected 595 from pot
+*** SUMMARY ***
+Total pot 595 | No rake
+Seat 3: Daltvilla (small blind) (button) won 595
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718691565106102273-10-1676295895 - Holdem no limit (30/60) - 2023/02/13 13:44:55 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (305)
+Seat 3: Daltvilla (595)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Daltvilla posts big blind 60
+Dealt to _SKR [5h 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Daltvilla collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Daltvilla (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718691565106102273-11-1676295899 - Holdem no limit (30/60) - 2023/02/13 13:44:59 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (275)
+Seat 3: Daltvilla (625)
+*** ANTE/BLINDS ***
+Daltvilla posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3h Kh]
+*** PRE-FLOP *** 
+Daltvilla calls 30
+_SKR raises 215 to 275 and is all-in
+Daltvilla folds
+_SKR collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | No rake
+Seat 2: _SKR (big blind) won 335
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718691565106102273-12-1676295912 - Holdem no limit (30/60) - 2023/02/13 13:45:12 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (335)
+Seat 3: Daltvilla (565)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Daltvilla posts big blind 60
+Dealt to _SKR [2c Ks]
+*** PRE-FLOP *** 
+_SKR calls 30
+Daltvilla checks
+*** FLOP *** [4c 8h 2s]
+Daltvilla checks
+_SKR checks
+*** TURN *** [4c 8h 2s][Jc]
+Daltvilla bets 120
+_SKR folds
+Daltvilla collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [4c 8h 2s Jc]
+Seat 3: Daltvilla (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2718691565106102273-13-1676295945 - Holdem no limit (40/80) - 2023/02/13 13:45:45 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (275)
+Seat 3: Daltvilla (625)
+*** ANTE/BLINDS ***
+Daltvilla posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3s 2d]
+*** PRE-FLOP *** 
+Daltvilla folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2718691565106102273-14-1676295950 - Holdem no limit (40/80) - 2023/02/13 13:45:50 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (315)
+Seat 3: Daltvilla (585)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Daltvilla posts big blind 80
+Dealt to _SKR [9c Qc]
+*** PRE-FLOP *** 
+_SKR raises 235 to 315 and is all-in
+Daltvilla folds
+_SKR collected 395 from pot
+*** SUMMARY ***
+Total pot 395 | No rake
+Seat 2: _SKR (small blind) (button) won 395
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2718691565106102273-15-1676295957 - Holdem no limit (40/80) - 2023/02/13 13:45:57 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (395)
+Seat 3: Daltvilla (505)
+*** ANTE/BLINDS ***
+Daltvilla posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Ts 6s]
+*** PRE-FLOP *** 
+Daltvilla calls 40
+_SKR checks
+*** FLOP *** [8s 4s 7h]
+_SKR checks
+Daltvilla checks
+*** TURN *** [8s 4s 7h][3s]
+_SKR bets 104
+Daltvilla folds
+_SKR collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Board: [8s 4s 7h 3s]
+Seat 2: _SKR (big blind) won 264
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2718691565106102273-16-1676296014 - Holdem no limit (50/100) - 2023/02/13 13:46:54 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (475)
+Seat 3: Daltvilla (425)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Daltvilla posts big blind 100
+Dealt to _SKR [Ad 2h]
+*** PRE-FLOP *** 
+_SKR raises 375 to 475 and is all-in
+Daltvilla folds
+_SKR collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Seat 2: _SKR (small blind) (button) won 575
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2718691565106102273-17-1676296038 - Holdem no limit (50/100) - 2023/02/13 13:47:18 UTC
+Table: 'Expresso Nitro(632994707)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (575)
+Seat 3: Daltvilla (325)
+*** ANTE/BLINDS ***
+Daltvilla posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [2c Ah]
+*** PRE-FLOP *** 
+Daltvilla calls 50
+_SKR raises 475 to 575 and is all-in
+Daltvilla calls 225 and is all-in
+*** FLOP *** [8s Kd 7h]
+*** TURN *** [8s Kd 7h][2d]
+*** RIVER *** [8s Kd 7h 2d][6c]
+*** SHOW DOWN ***
+Daltvilla shows [4s Qs] (High card : King)
+_SKR shows [2c Ah] (One pair : 2)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s Kd 7h 2d 6c]
+Seat 2: _SKR (big blind) showed [2c Ah] and won 900 with One pair : 2
+Seat 3: Daltvilla (small blind) (button) showed [4s Qs] and lost with High card : King
+
+

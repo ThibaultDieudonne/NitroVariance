@@ -1,0 +1,115 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677069324803375105-1-1673875681 - Holdem no limit (10/20) - 2023/01/16 13:28:01 UTC
+Table: 'Expresso Nitro(623303774)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Drogbery (300)
+Seat 2: Crypto_3.0 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Drogbery posts small blind 10
+Crypto_3.0 posts big blind 20
+Dealt to _SKR [4s 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Drogbery calls 10
+Crypto_3.0 checks
+*** FLOP *** [Kd Ts 2s]
+Drogbery bets 20
+Crypto_3.0 folds
+Drogbery collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kd Ts 2s]
+Seat 1: Drogbery (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677069324803375105-2-1673875700 - Holdem no limit (10/20) - 2023/01/16 13:28:20 UTC
+Table: 'Expresso Nitro(623303774)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Drogbery (320)
+Seat 2: Crypto_3.0 (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Crypto_3.0 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc 4h]
+*** PRE-FLOP *** 
+Drogbery calls 20
+Crypto_3.0 calls 10
+_SKR checks
+*** FLOP *** [3c 3s 7h]
+Crypto_3.0 checks
+_SKR checks
+Drogbery bets 30
+Crypto_3.0 raises 30 to 60
+_SKR folds
+Drogbery folds
+Crypto_3.0 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [3c 3s 7h]
+Seat 2: Crypto_3.0 (small blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677069324803375105-3-1673875762 - Holdem no limit (15/30) - 2023/01/16 13:29:22 UTC
+Table: 'Expresso Nitro(623303774)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Drogbery (270)
+Seat 2: Crypto_3.0 (350)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Drogbery posts big blind 30
+Dealt to _SKR [7s 2d]
+*** PRE-FLOP *** 
+Crypto_3.0 folds
+_SKR folds
+Drogbery collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Drogbery (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677069324803375105-4-1673875777 - Holdem no limit (15/30) - 2023/01/16 13:29:37 UTC
+Table: 'Expresso Nitro(623303774)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Drogbery (285)
+Seat 2: Crypto_3.0 (350)
+Seat 3: _SKR (265)
+*** ANTE/BLINDS ***
+Drogbery posts small blind 15
+Crypto_3.0 posts big blind 30
+Dealt to _SKR [Ts 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Drogbery calls 15
+Crypto_3.0 raises 320 to 350 and is all-in
+Drogbery folds
+Crypto_3.0 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 2: Crypto_3.0 (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677069324803375105-5-1673875788 - Holdem no limit (15/30) - 2023/01/16 13:29:48 UTC
+Table: 'Expresso Nitro(623303774)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Drogbery (255)
+Seat 2: Crypto_3.0 (380)
+Seat 3: _SKR (265)
+*** ANTE/BLINDS ***
+Crypto_3.0 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh 5h]
+*** PRE-FLOP *** 
+Drogbery folds
+Crypto_3.0 raises 350 to 380 and is all-in
+_SKR calls 235 and is all-in
+*** FLOP *** [Js 9h 4d]
+*** TURN *** [Js 9h 4d][8d]
+*** RIVER *** [Js 9h 4d 8d][2d]
+*** SHOW DOWN ***
+_SKR shows [Kh 5h] (High card : King)
+Crypto_3.0 shows [Td 7d] (Flush Ten high)
+Crypto_3.0 collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | No rake
+Board: [Js 9h 4d 8d 2d]
+Seat 2: Crypto_3.0 (small blind) showed [Td 7d] and won 645 with Flush Ten high
+Seat 3: _SKR (big blind) showed [Kh 5h] and lost with High card : King
+
+

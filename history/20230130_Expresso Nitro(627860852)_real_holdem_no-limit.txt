@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696641825778696193-1-1675091247 - Holdem no limit (10/20) - 2023/01/30 15:07:27 UTC
+Table: 'Expresso Nitro(627860852)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bcharax07 (300)
+Seat 2: _SKR (300)
+Seat 3: Liberta13 (300)
+*** ANTE/BLINDS ***
+Bcharax07 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 5c]
+*** PRE-FLOP *** 
+Liberta13 folds
+Bcharax07 raises 40 to 60
+_SKR folds
+Bcharax07 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: Bcharax07 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696641825778696193-2-1675091257 - Holdem no limit (10/20) - 2023/01/30 15:07:37 UTC
+Table: 'Expresso Nitro(627860852)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bcharax07 (320)
+Seat 2: _SKR (280)
+Seat 3: Liberta13 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Liberta13 posts big blind 20
+Dealt to _SKR [Ah Qd]
+*** PRE-FLOP *** 
+Bcharax07 raises 40 to 60
+_SKR raises 220 to 280 and is all-in
+Liberta13 folds
+Bcharax07 calls 220
+*** FLOP *** [2h 9c 7s]
+*** TURN *** [2h 9c 7s][5c]
+*** RIVER *** [2h 9c 7s 5c][As]
+*** SHOW DOWN ***
+_SKR shows [Ah Qd] (One pair : Aces)
+Bcharax07 shows [6c 8c] (Straight 9 high)
+Bcharax07 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [2h 9c 7s 5c As]
+Seat 1: Bcharax07 (button) showed [6c 8c] and won 580 with Straight 9 high
+Seat 2: _SKR (small blind) showed [Ah Qd] and lost with One pair : Aces
+
+

@@ -1,0 +1,431 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729153336640012289-1-1676903308 - Holdem no limit (10/20) - 2023/02/20 14:28:28 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Bondu78_ (300)
+Seat 3: KarimBumpy (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Bondu78_ posts big blind 20
+Dealt to _SKR [Tc Qh]
+*** PRE-FLOP *** 
+KarimBumpy folds
+_SKR raises 20 to 40
+Bondu78_ folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729153336640012289-2-1676903317 - Holdem no limit (10/20) - 2023/02/20 14:28:37 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 2: Bondu78_ (280)
+Seat 3: KarimBumpy (300)
+*** ANTE/BLINDS ***
+Bondu78_ posts small blind 10
+KarimBumpy posts big blind 20
+Dealt to _SKR [4h Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Bondu78_ raises 20 to 40
+KarimBumpy raises 260 to 300 and is all-in
+Bondu78_ calls 240 and is all-in
+*** FLOP *** [Qd 4s 2h]
+*** TURN *** [Qd 4s 2h][Jd]
+*** RIVER *** [Qd 4s 2h Jd][5s]
+*** SHOW DOWN ***
+Bondu78_ shows [Ah 6h] (High card : Ace)
+KarimBumpy shows [Ks Jc] (One pair : Jacks)
+KarimBumpy collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Qd 4s 2h Jd 5s]
+Seat 2: Bondu78_ (small blind) showed [Ah 6h] and lost with High card : Ace
+Seat 3: KarimBumpy (big blind) showed [Ks Jc] and won 580 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729153336640012289-3-1676903340 - Holdem no limit (10/20) - 2023/02/20 14:29:00 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 3: KarimBumpy (580)
+*** ANTE/BLINDS ***
+KarimBumpy posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc Tc]
+*** PRE-FLOP *** 
+KarimBumpy calls 10
+_SKR raises 30 to 50
+KarimBumpy calls 30
+*** FLOP *** [9c 4c 6h]
+_SKR bets 50
+KarimBumpy calls 50
+*** TURN *** [9c 4c 6h][2s]
+_SKR checks
+KarimBumpy bets 480 and is all-in
+_SKR folds
+KarimBumpy collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [9c 4c 6h 2s]
+Seat 3: KarimBumpy (small blind) (button) won 680
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729153336640012289-4-1676903361 - Holdem no limit (10/20) - 2023/02/20 14:29:21 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (220)
+Seat 3: KarimBumpy (680)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+KarimBumpy posts big blind 20
+Dealt to _SKR [6c 6d]
+*** PRE-FLOP *** 
+_SKR raises 200 to 220 and is all-in
+KarimBumpy calls 200
+*** FLOP *** [Tc Qs 9h]
+*** TURN *** [Tc Qs 9h][4d]
+*** RIVER *** [Tc Qs 9h 4d][Ts]
+*** SHOW DOWN ***
+KarimBumpy shows [6s 5d] (One pair : Tens)
+_SKR shows [6c 6d] (Two pairs : Tens and 6)
+_SKR collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [Tc Qs 9h 4d Ts]
+Seat 1: _SKR (small blind) (button) showed [6c 6d] and won 440 with Two pairs : Tens and 6
+Seat 3: KarimBumpy (big blind) showed [6s 5d] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729153336640012289-5-1676903375 - Holdem no limit (15/30) - 2023/02/20 14:29:35 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (440)
+Seat 3: KarimBumpy (460)
+*** ANTE/BLINDS ***
+KarimBumpy posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8c 2h]
+*** PRE-FLOP *** 
+KarimBumpy folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729153336640012289-6-1676903379 - Holdem no limit (15/30) - 2023/02/20 14:29:39 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (455)
+Seat 3: KarimBumpy (445)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+KarimBumpy posts big blind 30
+Dealt to _SKR [2s 5h]
+*** PRE-FLOP *** 
+_SKR folds
+KarimBumpy collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: KarimBumpy (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729153336640012289-7-1676903383 - Holdem no limit (15/30) - 2023/02/20 14:29:43 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (440)
+Seat 3: KarimBumpy (460)
+*** ANTE/BLINDS ***
+KarimBumpy posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7h 2c]
+*** PRE-FLOP *** 
+KarimBumpy folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729153336640012289-8-1676903387 - Holdem no limit (15/30) - 2023/02/20 14:29:47 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (455)
+Seat 3: KarimBumpy (445)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+KarimBumpy posts big blind 30
+Dealt to _SKR [5d 3d]
+*** PRE-FLOP *** 
+_SKR folds
+KarimBumpy collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: KarimBumpy (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729153336640012289-9-1676903390 - Holdem no limit (15/30) - 2023/02/20 14:29:50 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (440)
+Seat 3: KarimBumpy (460)
+*** ANTE/BLINDS ***
+KarimBumpy posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8s Tc]
+*** PRE-FLOP *** 
+KarimBumpy calls 15
+_SKR checks
+*** FLOP *** [5s As Td]
+_SKR checks
+KarimBumpy checks
+*** TURN *** [5s As Td][Jc]
+_SKR bets 30
+KarimBumpy calls 30
+*** RIVER *** [5s As Td Jc][7d]
+_SKR checks
+KarimBumpy bets 120
+_SKR folds
+KarimBumpy collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5s As Td Jc 7d]
+Seat 3: KarimBumpy (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729153336640012289-10-1676903417 - Holdem no limit (15/30) - 2023/02/20 14:30:17 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (380)
+Seat 3: KarimBumpy (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+KarimBumpy posts big blind 30
+Dealt to _SKR [Ah 7s]
+*** PRE-FLOP *** 
+_SKR raises 350 to 380 and is all-in
+KarimBumpy folds
+_SKR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 1: _SKR (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729153336640012289-11-1676903424 - Holdem no limit (20/40) - 2023/02/20 14:30:24 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (410)
+Seat 3: KarimBumpy (490)
+*** ANTE/BLINDS ***
+KarimBumpy posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Td 5d]
+*** PRE-FLOP *** 
+KarimBumpy calls 20
+_SKR checks
+*** FLOP *** [8c 9h 9c]
+_SKR checks
+KarimBumpy bets 80
+_SKR folds
+KarimBumpy collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [8c 9h 9c]
+Seat 3: KarimBumpy (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729153336640012289-12-1676903436 - Holdem no limit (20/40) - 2023/02/20 14:30:36 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (370)
+Seat 3: KarimBumpy (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+KarimBumpy posts big blind 40
+Dealt to _SKR [6d Qc]
+*** PRE-FLOP *** 
+_SKR folds
+KarimBumpy collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: KarimBumpy (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729153336640012289-13-1676903440 - Holdem no limit (20/40) - 2023/02/20 14:30:40 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (350)
+Seat 3: KarimBumpy (550)
+*** ANTE/BLINDS ***
+KarimBumpy posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5s 4h]
+*** PRE-FLOP *** 
+KarimBumpy folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729153336640012289-14-1676903444 - Holdem no limit (20/40) - 2023/02/20 14:30:44 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (370)
+Seat 3: KarimBumpy (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+KarimBumpy posts big blind 40
+Dealt to _SKR [5c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+KarimBumpy collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: KarimBumpy (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729153336640012289-15-1676903448 - Holdem no limit (20/40) - 2023/02/20 14:30:48 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (350)
+Seat 3: KarimBumpy (550)
+*** ANTE/BLINDS ***
+KarimBumpy posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3c 7d]
+*** PRE-FLOP *** 
+KarimBumpy calls 20
+_SKR checks
+*** FLOP *** [7h 9d 4h]
+_SKR checks
+KarimBumpy bets 510 and is all-in
+_SKR folds
+KarimBumpy collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [7h 9d 4h]
+Seat 3: KarimBumpy (small blind) (button) won 590
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729153336640012289-16-1676903461 - Holdem no limit (20/40) - 2023/02/20 14:31:01 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 3: KarimBumpy (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+KarimBumpy posts big blind 40
+Dealt to _SKR [6c 3c]
+*** PRE-FLOP *** 
+_SKR folds
+KarimBumpy collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: KarimBumpy (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729153336640012289-17-1676903467 - Holdem no limit (20/40) - 2023/02/20 14:31:07 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 3: KarimBumpy (610)
+*** ANTE/BLINDS ***
+KarimBumpy posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8h Kc]
+*** PRE-FLOP *** 
+KarimBumpy folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729153336640012289-18-1676903470 - Holdem no limit (20/40) - 2023/02/20 14:31:10 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 3: KarimBumpy (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+KarimBumpy posts big blind 40
+Dealt to _SKR [7d 2s]
+*** PRE-FLOP *** 
+_SKR folds
+KarimBumpy collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: KarimBumpy (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729153336640012289-19-1676903475 - Holdem no limit (20/40) - 2023/02/20 14:31:15 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 3: KarimBumpy (610)
+*** ANTE/BLINDS ***
+KarimBumpy posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Tc 5c]
+*** PRE-FLOP *** 
+KarimBumpy folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729153336640012289-20-1676903479 - Holdem no limit (20/40) - 2023/02/20 14:31:19 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 3: KarimBumpy (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+KarimBumpy posts big blind 40
+Dealt to _SKR [3s Ac]
+*** PRE-FLOP *** 
+_SKR raises 270 to 310 and is all-in
+KarimBumpy folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: _SKR (small blind) (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729153336640012289-21-1676903485 - Holdem no limit (30/60) - 2023/02/20 14:31:25 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (350)
+Seat 3: KarimBumpy (550)
+*** ANTE/BLINDS ***
+KarimBumpy posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ac As]
+*** PRE-FLOP *** 
+KarimBumpy raises 490 to 550 and is all-in
+_SKR calls 290 and is all-in
+*** FLOP *** [8h Td Th]
+*** TURN *** [8h Td Th][9d]
+*** RIVER *** [8h Td Th 9d][2d]
+*** SHOW DOWN ***
+_SKR shows [Ac As] (Two pairs : Aces and Tens)
+KarimBumpy shows [Ad 9c] (Two pairs : Tens and 9)
+KarimBumpy collected 200 from side pot 1
+_SKR collected 700 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h Td Th 9d 2d]
+Seat 1: _SKR (big blind) showed [Ac As] and won 700 with Two pairs : Aces and Tens
+Seat 3: KarimBumpy (small blind) (button) showed [Ad 9c] and won 200 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729153336640012289-22-1676903496 - Holdem no limit (30/60) - 2023/02/20 14:31:36 UTC
+Table: 'Expresso Nitro(635430528)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (700)
+Seat 3: KarimBumpy (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+KarimBumpy posts big blind 60
+Dealt to _SKR [6d As]
+*** PRE-FLOP *** 
+_SKR raises 640 to 700 and is all-in
+KarimBumpy calls 140 and is all-in
+*** FLOP *** [Ac 7h 8h]
+*** TURN *** [Ac 7h 8h][Jh]
+*** RIVER *** [Ac 7h 8h Jh][Jd]
+*** SHOW DOWN ***
+KarimBumpy shows [6h 7c] (Two pairs : Jacks and 7)
+_SKR shows [6d As] (Two pairs : Aces and Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 7h 8h Jh Jd]
+Seat 1: _SKR (small blind) (button) showed [6d As] and won 900 with Two pairs : Aces and Jacks
+Seat 3: KarimBumpy (big blind) showed [6h 7c] and lost with Two pairs : Jacks and 7
+
+

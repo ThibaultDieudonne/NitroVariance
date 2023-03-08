@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694779764182351873-1-1674956580 - Holdem no limit (10/20) - 2023/01/29 01:43:00 UTC
+Table: 'Expresso Nitro(627427307)#0' 3-max (real money) Seat #2 is the button
+Seat 1: gege51430 (300)
+Seat 2: QUINQUIN71 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+gege51430 posts big blind 20
+Dealt to _SKR [Tc Td]
+*** PRE-FLOP *** 
+QUINQUIN71 folds
+_SKR raises 280 to 300 and is all-in
+gege51430 calls 280 and is all-in
+*** FLOP *** [Jc Ks 5d]
+*** TURN *** [Jc Ks 5d][Jd]
+*** RIVER *** [Jc Ks 5d Jd][9d]
+*** SHOW DOWN ***
+gege51430 shows [8s Ac] (One pair : Jacks)
+_SKR shows [Tc Td] (Two pairs : Jacks and Tens)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jc Ks 5d Jd 9d]
+Seat 1: gege51430 (big blind) showed [8s Ac] and lost with One pair : Jacks
+Seat 3: _SKR (small blind) showed [Tc Td] and won 600 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694779764182351873-2-1674956596 - Holdem no limit (10/20) - 2023/01/29 01:43:16 UTC
+Table: 'Expresso Nitro(627427307)#0' 3-max (real money) Seat #2 is the button
+Seat 2: QUINQUIN71 (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+QUINQUIN71 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 9c]
+*** PRE-FLOP *** 
+QUINQUIN71 raises 280 to 300 and is all-in
+_SKR folds
+QUINQUIN71 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: QUINQUIN71 (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694779764182351873-3-1674956603 - Holdem no limit (10/20) - 2023/01/29 01:43:23 UTC
+Table: 'Expresso Nitro(627427307)#0' 3-max (real money) Seat #3 is the button
+Seat 2: QUINQUIN71 (320)
+Seat 3: _SKR (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+QUINQUIN71 posts big blind 20
+Dealt to _SKR [3c Qh]
+*** PRE-FLOP *** 
+_SKR folds
+QUINQUIN71 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: QUINQUIN71 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694779764182351873-4-1674956609 - Holdem no limit (10/20) - 2023/01/29 01:43:29 UTC
+Table: 'Expresso Nitro(627427307)#0' 3-max (real money) Seat #2 is the button
+Seat 2: QUINQUIN71 (330)
+Seat 3: _SKR (570)
+*** ANTE/BLINDS ***
+QUINQUIN71 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh 8d]
+*** PRE-FLOP *** 
+QUINQUIN71 calls 10
+_SKR checks
+*** FLOP *** [Ah 3d 8s]
+_SKR checks
+QUINQUIN71 checks
+*** TURN *** [Ah 3d 8s][Ks]
+_SKR bets 26
+QUINQUIN71 calls 26
+*** RIVER *** [Ah 3d 8s Ks][9h]
+_SKR bets 74
+QUINQUIN71 folds
+_SKR collected 166 from pot
+*** SUMMARY ***
+Total pot 166 | No rake
+Board: [Ah 3d 8s Ks 9h]
+Seat 3: _SKR (big blind) won 166
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694779764182351873-5-1674956645 - Holdem no limit (15/30) - 2023/01/29 01:44:05 UTC
+Table: 'Expresso Nitro(627427307)#0' 3-max (real money) Seat #3 is the button
+Seat 2: QUINQUIN71 (284)
+Seat 3: _SKR (616)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+QUINQUIN71 posts big blind 30
+Dealt to _SKR [Kd 5d]
+*** PRE-FLOP *** 
+_SKR raises 586 to 616 and is all-in
+QUINQUIN71 calls 254 and is all-in
+*** FLOP *** [3c 2h 9d]
+*** TURN *** [3c 2h 9d][3h]
+*** RIVER *** [3c 2h 9d 3h][3d]
+*** SHOW DOWN ***
+QUINQUIN71 shows [Js 7h] (Trips of 3)
+_SKR shows [Kd 5d] (Trips of 3)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3c 2h 9d 3h 3d]
+Seat 2: QUINQUIN71 (big blind) showed [Js 7h] and lost with Trips of 3
+Seat 3: _SKR (small blind) (button) showed [Kd 5d] and won 900 with Trips of 3
+
+

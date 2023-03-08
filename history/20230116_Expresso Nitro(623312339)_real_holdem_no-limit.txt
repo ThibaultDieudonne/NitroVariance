@@ -1,0 +1,105 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677106111198265345-1-1673877393 - Holdem no limit (10/20) - 2023/01/16 13:56:33 UTC
+Table: 'Expresso Nitro(623312339)#0' 3-max (real money) Seat #2 is the button
+Seat 1: T-14 (300)
+Seat 2: _SKR (300)
+Seat 3: lolodejob (300)
+*** ANTE/BLINDS ***
+lolodejob posts small blind 10
+T-14 posts big blind 20
+Dealt to _SKR [Qs Js]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+lolodejob calls 30
+T-14 folds
+*** FLOP *** [5h 6s 6d]
+lolodejob checks
+_SKR checks
+*** TURN *** [5h 6s 6d][Jd]
+lolodejob checks
+_SKR bets 50
+lolodejob folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [5h 6s 6d Jd]
+Seat 2: _SKR (button) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677106111198265345-2-1673877428 - Holdem no limit (10/20) - 2023/01/16 13:57:08 UTC
+Table: 'Expresso Nitro(623312339)#0' 3-max (real money) Seat #3 is the button
+Seat 1: T-14 (280)
+Seat 2: _SKR (360)
+Seat 3: lolodejob (260)
+*** ANTE/BLINDS ***
+T-14 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 2s]
+*** PRE-FLOP *** 
+lolodejob folds
+T-14 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677106111198265345-3-1673877434 - Holdem no limit (10/20) - 2023/01/16 13:57:14 UTC
+Table: 'Expresso Nitro(623312339)#0' 3-max (real money) Seat #1 is the button
+Seat 1: T-14 (270)
+Seat 2: _SKR (370)
+Seat 3: lolodejob (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+lolodejob posts big blind 20
+Dealt to _SKR [Kd Ah]
+*** PRE-FLOP *** 
+T-14 raises 50 to 70
+_SKR raises 300 to 370 and is all-in
+lolodejob folds
+T-14 calls 200 and is all-in
+*** FLOP *** [9s 3h 3c]
+*** TURN *** [9s 3h 3c][6c]
+*** RIVER *** [9s 3h 3c 6c][5h]
+*** SHOW DOWN ***
+T-14 shows [7h 7s] (Two pairs : 7 and 3)
+_SKR shows [Kd Ah] (One pair : 3)
+_SKR collected 100 from side pot 1
+T-14 collected 560 from main pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [9s 3h 3c 6c 5h]
+Seat 1: T-14 (button) showed [7h 7s] and won 560 with Two pairs : 7 and 3
+Seat 2: _SKR (small blind) showed [Kd Ah] and won 100 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677106111198265345-4-1673877452 - Holdem no limit (15/30) - 2023/01/16 13:57:32 UTC
+Table: 'Expresso Nitro(623312339)#0' 3-max (real money) Seat #2 is the button
+Seat 1: T-14 (560)
+Seat 2: _SKR (100)
+Seat 3: lolodejob (240)
+*** ANTE/BLINDS ***
+lolodejob posts small blind 15
+T-14 posts big blind 30
+Dealt to _SKR [9d 8d]
+*** PRE-FLOP *** 
+_SKR raises 70 to 100 and is all-in
+lolodejob calls 85
+T-14 calls 70
+*** FLOP *** [6d 8h 7c]
+lolodejob bets 140 and is all-in
+T-14 calls 140
+*** TURN *** [6d 8h 7c][6s]
+*** RIVER *** [6d 8h 7c 6s][Qh]
+*** SHOW DOWN ***
+_SKR shows [9d 8d] (Two pairs : 8 and 6)
+lolodejob shows [8c 7s] (Two pairs : 8 and 7)
+T-14 shows [Qs 8s] (Two pairs : Queens and 8)
+T-14 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6d 8h 7c 6s Qh]
+Seat 1: T-14 (big blind) showed [Qs 8s] and won 580 with Two pairs : Queens and 8
+Seat 2: _SKR (button) showed [9d 8d] and lost with Two pairs : 8 and 6
+Seat 3: lolodejob (small blind) showed [8c 7s] and lost with Two pairs : 8 and 7
+
+

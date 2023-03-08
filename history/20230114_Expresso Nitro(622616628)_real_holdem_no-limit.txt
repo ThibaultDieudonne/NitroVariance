@@ -1,0 +1,211 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674118055205797889-1-1673701852 - Holdem no limit (10/20) - 2023/01/14 13:10:52 UTC
+Table: 'Expresso Nitro(622616628)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Meddad18 (300)
+Seat 3: DocteurBidou (300)
+*** ANTE/BLINDS ***
+Meddad18 posts small blind 10
+DocteurBidou posts big blind 20
+Dealt to _SKR [Qh 8d]
+*** PRE-FLOP *** 
+_SKR folds
+Meddad18 calls 10
+DocteurBidou checks
+*** FLOP *** [6h 7s 4h]
+Meddad18 bets 280 and is all-in
+DocteurBidou folds
+Meddad18 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [6h 7s 4h]
+Seat 2: Meddad18 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674118055205797889-2-1673701876 - Holdem no limit (10/20) - 2023/01/14 13:11:16 UTC
+Table: 'Expresso Nitro(622616628)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Meddad18 (320)
+Seat 3: DocteurBidou (280)
+*** ANTE/BLINDS ***
+DocteurBidou posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3c 6d]
+*** PRE-FLOP *** 
+Meddad18 calls 20
+DocteurBidou folds
+_SKR checks
+*** FLOP *** [9s 7s Th]
+_SKR checks
+Meddad18 checks
+*** TURN *** [9s 7s Th][Qh]
+_SKR bets 33
+Meddad18 raises 267 to 300 and is all-in
+_SKR folds
+Meddad18 collected 383 from pot
+*** SUMMARY ***
+Total pot 383 | No rake
+Board: [9s 7s Th Qh]
+Seat 2: Meddad18 (button) won 383
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674118055205797889-3-1673701904 - Holdem no limit (10/20) - 2023/01/14 13:11:44 UTC
+Table: 'Expresso Nitro(622616628)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (247)
+Seat 2: Meddad18 (383)
+Seat 3: DocteurBidou (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Meddad18 posts big blind 20
+Dealt to _SKR [3h 9c]
+*** PRE-FLOP *** 
+DocteurBidou folds
+_SKR folds
+Meddad18 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Meddad18 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674118055205797889-4-1673701911 - Holdem no limit (15/30) - 2023/01/14 13:11:51 UTC
+Table: 'Expresso Nitro(622616628)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (237)
+Seat 2: Meddad18 (393)
+Seat 3: DocteurBidou (270)
+*** ANTE/BLINDS ***
+Meddad18 posts small blind 15
+DocteurBidou posts big blind 30
+Dealt to _SKR [Jc 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Meddad18 calls 15
+DocteurBidou raises 240 to 270 and is all-in
+Meddad18 calls 240
+*** FLOP *** [4s 7c Kc]
+*** TURN *** [4s 7c Kc][4d]
+*** RIVER *** [4s 7c Kc 4d][Tc]
+*** SHOW DOWN ***
+Meddad18 shows [Qs 9c] (One pair : 4)
+DocteurBidou shows [Qc 2c] (Flush King high)
+DocteurBidou collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [4s 7c Kc 4d Tc]
+Seat 2: Meddad18 (small blind) showed [Qs 9c] and lost with One pair : 4
+Seat 3: DocteurBidou (big blind) showed [Qc 2c] and won 540 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674118055205797889-5-1673701930 - Holdem no limit (15/30) - 2023/01/14 13:12:10 UTC
+Table: 'Expresso Nitro(622616628)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (237)
+Seat 2: Meddad18 (123)
+Seat 3: DocteurBidou (540)
+*** ANTE/BLINDS ***
+DocteurBidou posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qd 6s]
+*** PRE-FLOP *** 
+Meddad18 calls 30
+DocteurBidou folds
+_SKR checks
+*** FLOP *** [4s Tc 8d]
+_SKR checks
+Meddad18 checks
+*** TURN *** [4s Tc 8d][Kh]
+_SKR checks
+Meddad18 checks
+*** RIVER *** [4s Tc 8d Kh][3d]
+_SKR checks
+Meddad18 checks
+*** SHOW DOWN ***
+Meddad18 shows [7d 2d] (High card : King)
+_SKR shows [Qd 6s] (High card : King)
+_SKR collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [4s Tc 8d Kh 3d]
+Seat 1: _SKR (big blind) showed [Qd 6s] and won 75 with High card : King
+Seat 2: Meddad18 (button) showed [7d 2d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674118055205797889-6-1673701978 - Holdem no limit (20/40) - 2023/01/14 13:12:58 UTC
+Table: 'Expresso Nitro(622616628)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (282)
+Seat 2: Meddad18 (93)
+Seat 3: DocteurBidou (525)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Meddad18 posts big blind 40
+Dealt to _SKR [Kd 7h]
+*** PRE-FLOP *** 
+DocteurBidou folds
+_SKR raises 242 to 282 and is all-in
+Meddad18 calls 53 and is all-in
+*** FLOP *** [Ks Ah 9h]
+*** TURN *** [Ks Ah 9h][Td]
+*** RIVER *** [Ks Ah 9h Td][Qh]
+*** SHOW DOWN ***
+_SKR shows [Kd 7h] (One pair : Kings)
+Meddad18 shows [Js 5d] (Straight Ace high)
+Meddad18 collected 186 from main pot
+_SKR collected 189 from side pot 1
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [Ks Ah 9h Td Qh]
+Seat 1: _SKR (small blind) showed [Kd 7h] and won 189 with One pair : Kings
+Seat 2: Meddad18 (big blind) showed [Js 5d] and won 186 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674118055205797889-7-1673702008 - Holdem no limit (20/40) - 2023/01/14 13:13:28 UTC
+Table: 'Expresso Nitro(622616628)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (189)
+Seat 2: Meddad18 (186)
+Seat 3: DocteurBidou (525)
+*** ANTE/BLINDS ***
+Meddad18 posts small blind 20
+DocteurBidou posts big blind 40
+Dealt to _SKR [Ad 2s]
+*** PRE-FLOP *** 
+_SKR raises 149 to 189 and is all-in
+Meddad18 calls 166 and is all-in
+DocteurBidou folds
+*** FLOP *** [Ks 6s 3c]
+*** TURN *** [Ks 6s 3c][Ac]
+*** RIVER *** [Ks 6s 3c Ac][7s]
+*** SHOW DOWN ***
+_SKR shows [Ad 2s] (One pair : Aces)
+Meddad18 shows [As 7d] (Two pairs : Aces and 7)
+Meddad18 collected 412 from main pot
+_SKR collected 3 from side pot 1
+*** SUMMARY ***
+Total pot 415 | No rake
+Board: [Ks 6s 3c Ac 7s]
+Seat 1: _SKR (button) showed [Ad 2s] and won 3 with One pair : Aces
+Seat 2: Meddad18 (small blind) showed [As 7d] and won 412 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674118055205797889-8-1673702021 - Holdem no limit (20/40) - 2023/01/14 13:13:41 UTC
+Table: 'Expresso Nitro(622616628)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (3)
+Seat 2: Meddad18 (412)
+Seat 3: DocteurBidou (485)
+*** ANTE/BLINDS ***
+DocteurBidou posts small blind 20
+_SKR posts big blind 3 and is all-in
+Dealt to _SKR [Kd 7d]
+*** PRE-FLOP *** 
+Meddad18 raises 392 to 412 and is all-in
+DocteurBidou folds
+*** FLOP *** [7c 5h Qs]
+*** TURN *** [7c 5h Qs][9h]
+*** RIVER *** [7c 5h Qs 9h][Qd]
+*** SHOW DOWN ***
+_SKR shows [Kd 7d] (Two pairs : Queens and 7)
+Meddad18 shows [Th 9c] (Two pairs : Queens and 9)
+Meddad18 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Board: [7c 5h Qs 9h Qd]
+Seat 1: _SKR (big blind) showed [Kd 7d] and lost with Two pairs : Queens and 7
+Seat 2: Meddad18 (button) showed [Th 9c] and won 435 with Two pairs : Queens and 9
+
+

@@ -1,0 +1,169 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696875497769402369-1-1675101581 - Holdem no limit (10/20) - 2023/01/30 17:59:41 UTC
+Table: 'Expresso Nitro(627915258)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Atarasico (300)
+Seat 2: zit1313 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+zit1313 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 7s]
+*** PRE-FLOP *** 
+Atarasico raises 280 to 300 and is all-in
+zit1313 calls 290 and is all-in
+_SKR folds
+*** FLOP *** [5s Tc 6s]
+*** TURN *** [5s Tc 6s][Js]
+*** RIVER *** [5s Tc 6s Js][Ah]
+*** SHOW DOWN ***
+Atarasico shows [Qh Th] (One pair : Tens)
+zit1313 shows [5d 5h] (Trips of 5)
+zit1313 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5s Tc 6s Js Ah]
+Seat 1: Atarasico (button) showed [Qh Th] and lost with One pair : Tens
+Seat 2: zit1313 (small blind) showed [5d 5h] and won 620 with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696875497769402369-2-1675101607 - Holdem no limit (10/20) - 2023/01/30 18:00:07 UTC
+Table: 'Expresso Nitro(627915258)#0' 3-max (real money) Seat #3 is the button
+Seat 2: zit1313 (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+zit1313 posts big blind 20
+Dealt to _SKR [Ad 7d]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+zit1313 calls 260
+*** FLOP *** [9s 9h 5c]
+*** TURN *** [9s 9h 5c][7s]
+*** RIVER *** [9s 9h 5c 7s][6d]
+*** SHOW DOWN ***
+zit1313 shows [4d Js] (One pair : 9)
+_SKR shows [Ad 7d] (Two pairs : 9 and 7)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9s 9h 5c 7s 6d]
+Seat 2: zit1313 (big blind) showed [4d Js] and lost with One pair : 9
+Seat 3: _SKR (small blind) (button) showed [Ad 7d] and won 560 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696875497769402369-3-1675101626 - Holdem no limit (10/20) - 2023/01/30 18:00:26 UTC
+Table: 'Expresso Nitro(627915258)#0' 3-max (real money) Seat #2 is the button
+Seat 2: zit1313 (340)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+zit1313 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7h Jc]
+*** PRE-FLOP *** 
+zit1313 raises 320 to 340 and is all-in
+_SKR folds
+zit1313 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: zit1313 (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696875497769402369-4-1675101636 - Holdem no limit (10/20) - 2023/01/30 18:00:36 UTC
+Table: 'Expresso Nitro(627915258)#0' 3-max (real money) Seat #3 is the button
+Seat 2: zit1313 (360)
+Seat 3: _SKR (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+zit1313 posts big blind 20
+Dealt to _SKR [9d 3c]
+*** PRE-FLOP *** 
+_SKR folds
+zit1313 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: zit1313 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696875497769402369-5-1675101640 - Holdem no limit (15/30) - 2023/01/30 18:00:40 UTC
+Table: 'Expresso Nitro(627915258)#0' 3-max (real money) Seat #2 is the button
+Seat 2: zit1313 (370)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+zit1313 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8c As]
+*** PRE-FLOP *** 
+zit1313 raises 60 to 90
+_SKR raises 440 to 530 and is all-in
+zit1313 calls 280 and is all-in
+*** FLOP *** [5h 9c 5s]
+*** TURN *** [5h 9c 5s][4d]
+*** RIVER *** [5h 9c 5s 4d][7h]
+*** SHOW DOWN ***
+zit1313 shows [Kh 9d] (Two pairs : 9 and 5)
+_SKR shows [8c As] (One pair : 5)
+_SKR collected 160 from side pot 1
+zit1313 collected 740 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h 9c 5s 4d 7h]
+Seat 2: zit1313 (small blind) (button) showed [Kh 9d] and won 740 with Two pairs : 9 and 5
+Seat 3: _SKR (big blind) showed [8c As] and won 160 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696875497769402369-6-1675101660 - Holdem no limit (15/30) - 2023/01/30 18:01:00 UTC
+Table: 'Expresso Nitro(627915258)#0' 3-max (real money) Seat #3 is the button
+Seat 2: zit1313 (740)
+Seat 3: _SKR (160)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+zit1313 posts big blind 30
+Dealt to _SKR [3c 8d]
+*** PRE-FLOP *** 
+_SKR folds
+zit1313 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: zit1313 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696875497769402369-7-1675101666 - Holdem no limit (15/30) - 2023/01/30 18:01:06 UTC
+Table: 'Expresso Nitro(627915258)#0' 3-max (real money) Seat #2 is the button
+Seat 2: zit1313 (755)
+Seat 3: _SKR (145)
+*** ANTE/BLINDS ***
+zit1313 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7s 6s]
+*** PRE-FLOP *** 
+zit1313 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696875497769402369-8-1675101670 - Holdem no limit (15/30) - 2023/01/30 18:01:10 UTC
+Table: 'Expresso Nitro(627915258)#0' 3-max (real money) Seat #3 is the button
+Seat 2: zit1313 (740)
+Seat 3: _SKR (160)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+zit1313 posts big blind 30
+Dealt to _SKR [5c Ah]
+*** PRE-FLOP *** 
+_SKR raises 130 to 160 and is all-in
+zit1313 calls 130
+*** FLOP *** [7d 9c 8s]
+*** TURN *** [7d 9c 8s][Jh]
+*** RIVER *** [7d 9c 8s Jh][7s]
+*** SHOW DOWN ***
+_SKR shows [5c Ah] (One pair : 7)
+zit1313 shows [2c Td] (Straight Jack high)
+zit1313 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [7d 9c 8s Jh 7s]
+Seat 2: zit1313 (big blind) showed [2c Td] and won 320 with Straight Jack high
+Seat 3: _SKR (small blind) (button) showed [5c Ah] and lost with One pair : 7
+
+

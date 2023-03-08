@@ -1,0 +1,480 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676951144483258369-1-1673869943 - Holdem no limit (10/20) - 2023/01/16 11:52:23 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HeyMiaw (300)
+Seat 2: Barakacards (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+HeyMiaw posts small blind 10
+Barakacards posts big blind 20
+Dealt to _SKR [9d 2s]
+*** PRE-FLOP *** 
+_SKR folds
+HeyMiaw calls 10
+Barakacards checks
+*** FLOP *** [4h Qc 2h]
+HeyMiaw checks
+Barakacards checks
+*** TURN *** [4h Qc 2h][Ts]
+HeyMiaw checks
+Barakacards checks
+*** RIVER *** [4h Qc 2h Ts][7d]
+HeyMiaw checks
+Barakacards checks
+*** SHOW DOWN ***
+Barakacards shows [6h 9c] (High card : Queen)
+HeyMiaw shows [3h 2d] (One pair : 2)
+HeyMiaw collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [4h Qc 2h Ts 7d]
+Seat 1: HeyMiaw (small blind) showed [3h 2d] and won 40 with One pair : 2
+Seat 2: Barakacards (big blind) showed [6h 9c] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676951144483258369-2-1673869980 - Holdem no limit (10/20) - 2023/01/16 11:53:00 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HeyMiaw (320)
+Seat 2: Barakacards (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Barakacards posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd 8d]
+*** PRE-FLOP *** 
+HeyMiaw folds
+Barakacards raises 20 to 40
+_SKR calls 20
+*** FLOP *** [4c Qh Jc]
+Barakacards bets 30
+_SKR calls 30
+*** TURN *** [4c Qh Jc][Ac]
+Barakacards bets 112
+_SKR folds
+Barakacards collected 252 from pot
+*** SUMMARY ***
+Total pot 252 | No rake
+Board: [4c Qh Jc Ac]
+Seat 2: Barakacards (small blind) won 252
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676951144483258369-3-1673870019 - Holdem no limit (15/30) - 2023/01/16 11:53:39 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HeyMiaw (320)
+Seat 2: Barakacards (350)
+Seat 3: _SKR (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+HeyMiaw posts big blind 30
+Dealt to _SKR [Jd Kd]
+*** PRE-FLOP *** 
+Barakacards calls 30
+_SKR raises 200 to 230 and is all-in
+HeyMiaw folds
+Barakacards folds
+_SKR collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: _SKR (small blind) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676951144483258369-4-1673870039 - Holdem no limit (15/30) - 2023/01/16 11:53:59 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HeyMiaw (290)
+Seat 2: Barakacards (320)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+HeyMiaw posts small blind 15
+Barakacards posts big blind 30
+Dealt to _SKR [2d 4d]
+*** PRE-FLOP *** 
+_SKR folds
+HeyMiaw calls 15
+Barakacards checks
+*** FLOP *** [Th Kh 8h]
+HeyMiaw checks
+Barakacards checks
+*** TURN *** [Th Kh 8h][9h]
+HeyMiaw checks
+Barakacards checks
+*** RIVER *** [Th Kh 8h 9h][6s]
+HeyMiaw bets 60
+Barakacards calls 60
+*** SHOW DOWN ***
+Barakacards shows [7h 8s] (Flush King high)
+HeyMiaw shows [4h Qh] (Flush King high)
+HeyMiaw collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Th Kh 8h 9h 6s]
+Seat 1: HeyMiaw (small blind) showed [4h Qh] and won 180 with Flush King high
+Seat 2: Barakacards (big blind) showed [7h 8s] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676951144483258369-5-1673870099 - Holdem no limit (20/40) - 2023/01/16 11:54:59 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HeyMiaw (380)
+Seat 2: Barakacards (230)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Barakacards posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd 6c]
+*** PRE-FLOP *** 
+HeyMiaw calls 40
+Barakacards raises 190 to 230 and is all-in
+_SKR folds
+HeyMiaw folds
+Barakacards collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: Barakacards (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676951144483258369-6-1673870115 - Holdem no limit (20/40) - 2023/01/16 11:55:15 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HeyMiaw (340)
+Seat 2: Barakacards (310)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+HeyMiaw posts big blind 40
+Dealt to _SKR [Th Qs]
+*** PRE-FLOP *** 
+Barakacards raises 270 to 310 and is all-in
+_SKR folds
+HeyMiaw folds
+Barakacards collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 2: Barakacards (button) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676951144483258369-7-1673870127 - Holdem no limit (30/60) - 2023/01/16 11:55:27 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HeyMiaw (300)
+Seat 2: Barakacards (370)
+Seat 3: _SKR (230)
+*** ANTE/BLINDS ***
+HeyMiaw posts small blind 30
+Barakacards posts big blind 60
+Dealt to _SKR [Qs As]
+*** PRE-FLOP *** 
+_SKR raises 170 to 230 and is all-in
+HeyMiaw folds
+Barakacards folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: _SKR (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676951144483258369-8-1673870138 - Holdem no limit (30/60) - 2023/01/16 11:55:38 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HeyMiaw (270)
+Seat 2: Barakacards (310)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+Barakacards posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c 7d]
+*** PRE-FLOP *** 
+HeyMiaw folds
+Barakacards folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676951144483258369-9-1673870148 - Holdem no limit (30/60) - 2023/01/16 11:55:48 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HeyMiaw (270)
+Seat 2: Barakacards (280)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+HeyMiaw posts big blind 60
+Dealt to _SKR [Qs 6c]
+*** PRE-FLOP *** 
+Barakacards folds
+_SKR raises 290 to 350 and is all-in
+HeyMiaw folds
+_SKR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 3: _SKR (small blind) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676951144483258369-10-1673870167 - Holdem no limit (30/60) - 2023/01/16 11:56:07 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HeyMiaw (210)
+Seat 2: Barakacards (280)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+HeyMiaw posts small blind 30
+Barakacards posts big blind 60
+Dealt to _SKR [Kc 8h]
+*** PRE-FLOP *** 
+_SKR raises 350 to 410 and is all-in
+HeyMiaw calls 180 and is all-in
+Barakacards folds
+*** FLOP *** [Qd 7s 7h]
+*** TURN *** [Qd 7s 7h][Js]
+*** RIVER *** [Qd 7s 7h Js][9d]
+*** SHOW DOWN ***
+HeyMiaw shows [8s As] (One pair : 7)
+_SKR shows [Kc 8h] (One pair : 7)
+_SKR collected 200 from side pot 1
+HeyMiaw collected 480 from main pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Qd 7s 7h Js 9d]
+Seat 1: HeyMiaw (small blind) showed [8s As] and won 480 with One pair : 7
+Seat 3: _SKR (button) showed [Kc 8h] and won 200 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676951144483258369-11-1673870179 - Holdem no limit (30/60) - 2023/01/16 11:56:19 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HeyMiaw (480)
+Seat 2: Barakacards (220)
+Seat 3: _SKR (200)
+*** ANTE/BLINDS ***
+Barakacards posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3h 8h]
+*** PRE-FLOP *** 
+HeyMiaw folds
+Barakacards folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676951144483258369-12-1673870196 - Holdem no limit (40/80) - 2023/01/16 11:56:36 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HeyMiaw (480)
+Seat 2: Barakacards (190)
+Seat 3: _SKR (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+HeyMiaw posts big blind 80
+Dealt to _SKR [6s 3c]
+*** PRE-FLOP *** 
+Barakacards raises 110 to 190 and is all-in
+_SKR folds
+HeyMiaw calls 110
+*** FLOP *** [7s Jd 3s]
+*** TURN *** [7s Jd 3s][4h]
+*** RIVER *** [7s Jd 3s 4h][2d]
+*** SHOW DOWN ***
+Barakacards shows [6c Qc] (High card : Queen)
+HeyMiaw shows [2s Ts] (One pair : 2)
+HeyMiaw collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [7s Jd 3s 4h 2d]
+Seat 1: HeyMiaw (big blind) showed [2s Ts] and won 420 with One pair : 2
+Seat 2: Barakacards (button) showed [6c Qc] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676951144483258369-13-1673870219 - Holdem no limit (40/80) - 2023/01/16 11:56:59 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HeyMiaw (710)
+Seat 3: _SKR (190)
+*** ANTE/BLINDS ***
+HeyMiaw posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [As 9s]
+*** PRE-FLOP *** 
+HeyMiaw folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676951144483258369-14-1673870227 - Holdem no limit (40/80) - 2023/01/16 11:57:07 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HeyMiaw (670)
+Seat 3: _SKR (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+HeyMiaw posts big blind 80
+Dealt to _SKR [Kh Th]
+*** PRE-FLOP *** 
+_SKR raises 150 to 230 and is all-in
+HeyMiaw calls 150
+*** FLOP *** [9s 9c 5d]
+*** TURN *** [9s 9c 5d][3c]
+*** RIVER *** [9s 9c 5d 3c][Kd]
+*** SHOW DOWN ***
+HeyMiaw shows [8s Qc] (One pair : 9)
+_SKR shows [Kh Th] (Two pairs : Kings and 9)
+_SKR collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [9s 9c 5d 3c Kd]
+Seat 1: HeyMiaw (big blind) showed [8s Qc] and lost with One pair : 9
+Seat 3: _SKR (small blind) (button) showed [Kh Th] and won 460 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676951144483258369-15-1673870243 - Holdem no limit (50/100) - 2023/01/16 11:57:23 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HeyMiaw (440)
+Seat 3: _SKR (460)
+*** ANTE/BLINDS ***
+HeyMiaw posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [4c 2s]
+*** PRE-FLOP *** 
+HeyMiaw raises 340 to 440 and is all-in
+_SKR folds
+HeyMiaw collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 1: HeyMiaw (small blind) (button) won 540
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676951144483258369-16-1673870248 - Holdem no limit (50/100) - 2023/01/16 11:57:28 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HeyMiaw (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+HeyMiaw posts big blind 100
+Dealt to _SKR [7s 7d]
+*** PRE-FLOP *** 
+_SKR raises 260 to 360 and is all-in
+HeyMiaw calls 260
+*** FLOP *** [5h 8c Qd]
+*** TURN *** [5h 8c Qd][Kh]
+*** RIVER *** [5h 8c Qd Kh][Kc]
+*** SHOW DOWN ***
+HeyMiaw shows [6s 6c] (Two pairs : Kings and 6)
+_SKR shows [7s 7d] (Two pairs : Kings and 7)
+_SKR collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [5h 8c Qd Kh Kc]
+Seat 1: HeyMiaw (big blind) showed [6s 6c] and lost with Two pairs : Kings and 6
+Seat 3: _SKR (small blind) (button) showed [7s 7d] and won 720 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676951144483258369-17-1673870262 - Holdem no limit (50/100) - 2023/01/16 11:57:42 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HeyMiaw (180)
+Seat 3: _SKR (720)
+*** ANTE/BLINDS ***
+HeyMiaw posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [Tc Jc]
+*** PRE-FLOP *** 
+HeyMiaw raises 80 to 180 and is all-in
+_SKR calls 80
+*** FLOP *** [Qd 8d 2c]
+*** TURN *** [Qd 8d 2c][8s]
+*** RIVER *** [Qd 8d 2c 8s][2d]
+*** SHOW DOWN ***
+HeyMiaw shows [4c 9d] (Two pairs : 8 and 2)
+_SKR shows [Tc Jc] (Two pairs : 8 and 2)
+_SKR collected 180 from pot
+HeyMiaw collected 180 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qd 8d 2c 8s 2d]
+Seat 1: HeyMiaw (small blind) (button) showed [4c 9d] and won 180 with Two pairs : 8 and 2
+Seat 3: _SKR (big blind) showed [Tc Jc] and won 180 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676951144483258369-18-1673870273 - Holdem no limit (50/100) - 2023/01/16 11:57:53 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HeyMiaw (180)
+Seat 3: _SKR (720)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+HeyMiaw posts big blind 100
+Dealt to _SKR [8h 4c]
+*** PRE-FLOP *** 
+_SKR raises 100 to 200
+HeyMiaw calls 80 and is all-in
+*** FLOP *** [Js 9d 7h]
+*** TURN *** [Js 9d 7h][7s]
+*** RIVER *** [Js 9d 7h 7s][Kh]
+*** SHOW DOWN ***
+HeyMiaw shows [9s Jd] (Two pairs : Jacks and 9)
+_SKR shows [8h 4c] (One pair : 7)
+_SKR collected 20 from side pot 1
+HeyMiaw collected 360 from main pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Js 9d 7h 7s Kh]
+Seat 1: HeyMiaw (big blind) showed [9s Jd] and won 360 with Two pairs : Jacks and 9
+Seat 3: _SKR (small blind) (button) showed [8h 4c] and won 20 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676951144483258369-19-1673870285 - Holdem no limit (50/100) - 2023/01/16 11:58:05 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HeyMiaw (360)
+Seat 3: _SKR (540)
+*** ANTE/BLINDS ***
+HeyMiaw posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [3s 6h]
+*** PRE-FLOP *** 
+HeyMiaw raises 260 to 360 and is all-in
+_SKR folds
+HeyMiaw collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 1: HeyMiaw (small blind) (button) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676951144483258369-20-1673870297 - Holdem no limit (50/100) - 2023/01/16 11:58:17 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HeyMiaw (460)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+HeyMiaw posts big blind 100
+Dealt to _SKR [Td Ac]
+*** PRE-FLOP *** 
+_SKR raises 340 to 440 and is all-in
+HeyMiaw calls 340
+*** FLOP *** [7d 2c 2s]
+*** TURN *** [7d 2c 2s][2h]
+*** RIVER *** [7d 2c 2s 2h][6s]
+*** SHOW DOWN ***
+HeyMiaw shows [3c 8h] (Trips of 2)
+_SKR shows [Td Ac] (Trips of 2)
+_SKR collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [7d 2c 2s 2h 6s]
+Seat 1: HeyMiaw (big blind) showed [3c 8h] and lost with Trips of 2
+Seat 3: _SKR (small blind) (button) showed [Td Ac] and won 880 with Trips of 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2676951144483258369-21-1673870310 - Holdem no limit (60/120) - 2023/01/16 11:58:30 UTC
+Table: 'Expresso Nitro(623276258)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HeyMiaw (20)
+Seat 3: _SKR (880)
+*** ANTE/BLINDS ***
+HeyMiaw posts small blind 20 and is all-in
+_SKR posts big blind 120
+Dealt to _SKR [Js 4d]
+*** PRE-FLOP *** 
+*** FLOP *** [Ts As 7s]
+*** TURN *** [Ts As 7s][Kd]
+*** RIVER *** [Ts As 7s Kd][3s]
+*** SHOW DOWN ***
+HeyMiaw shows [Ah 4h] (One pair : Aces)
+_SKR shows [Js 4d] (Flush Ace high)
+_SKR collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Ts As 7s Kd 3s]
+Seat 1: HeyMiaw (small blind) (button) showed [Ah 4h] and lost with One pair : Aces
+Seat 3: _SKR (big blind) showed [Js 4d] and won 140 with Flush Ace high
+
+

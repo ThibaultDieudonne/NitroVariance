@@ -1,0 +1,428 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675056398185791489-1-1673741977 - Holdem no limit (10/20) - 2023/01/15 00:19:37 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BillyPablo (300)
+Seat 2: AceCola (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+BillyPablo posts small blind 10
+AceCola posts big blind 20
+Dealt to _SKR [Kh Jd]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+BillyPablo folds
+AceCola folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675056398185791489-2-1673741987 - Holdem no limit (10/20) - 2023/01/15 00:19:47 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BillyPablo (290)
+Seat 2: AceCola (280)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+AceCola posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d Qc]
+*** PRE-FLOP *** 
+BillyPablo folds
+AceCola folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675056398185791489-3-1673741996 - Holdem no limit (10/20) - 2023/01/15 00:19:56 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BillyPablo (290)
+Seat 2: AceCola (270)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+BillyPablo posts big blind 20
+Dealt to _SKR [2h Jd]
+*** PRE-FLOP *** 
+AceCola raises 20 to 40
+_SKR folds
+BillyPablo calls 20
+*** FLOP *** [6h 8h Kh]
+BillyPablo checks
+AceCola checks
+*** TURN *** [6h 8h Kh][Td]
+BillyPablo checks
+AceCola checks
+*** RIVER *** [6h 8h Kh Td][9c]
+BillyPablo bets 59
+AceCola raises 59 to 118
+BillyPablo calls 59
+*** SHOW DOWN ***
+BillyPablo shows [7h 7s] (Straight Ten high)
+AceCola shows [7c 8s] (Straight Ten high)
+AceCola collected 163 from pot
+BillyPablo collected 163 from pot
+*** SUMMARY ***
+Total pot 326 | No rake
+Board: [6h 8h Kh Td 9c]
+Seat 1: BillyPablo (big blind) showed [7h 7s] and won 163 with Straight Ten high
+Seat 2: AceCola (button) showed [7c 8s] and won 163 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675056398185791489-4-1673742036 - Holdem no limit (15/30) - 2023/01/15 00:20:36 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BillyPablo (295)
+Seat 2: AceCola (275)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+BillyPablo posts small blind 15
+AceCola posts big blind 30
+Dealt to _SKR [9c Jh]
+*** PRE-FLOP *** 
+_SKR folds
+BillyPablo folds
+AceCola collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: AceCola (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675056398185791489-5-1673742048 - Holdem no limit (15/30) - 2023/01/15 00:20:48 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BillyPablo (280)
+Seat 2: AceCola (290)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+AceCola posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9s 7d]
+*** PRE-FLOP *** 
+BillyPablo raises 45 to 75
+AceCola calls 60
+_SKR folds
+*** FLOP *** [7s Kd Ts]
+AceCola checks
+BillyPablo checks
+*** TURN *** [7s Kd Ts][Js]
+AceCola checks
+BillyPablo bets 63
+AceCola calls 63
+*** RIVER *** [7s Kd Ts Js][8h]
+AceCola checks
+BillyPablo checks
+*** SHOW DOWN ***
+AceCola shows [As 5c] (High card : Ace)
+BillyPablo shows [Jh Th] (Two pairs : Jacks and Tens)
+BillyPablo collected 306 from pot
+*** SUMMARY ***
+Total pot 306 | No rake
+Board: [7s Kd Ts Js 8h]
+Seat 1: BillyPablo (button) showed [Jh Th] and won 306 with Two pairs : Jacks and Tens
+Seat 2: AceCola (small blind) showed [As 5c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675056398185791489-6-1673742085 - Holdem no limit (15/30) - 2023/01/15 00:21:25 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BillyPablo (448)
+Seat 2: AceCola (152)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+BillyPablo posts big blind 30
+Dealt to _SKR [Kd 8s]
+*** PRE-FLOP *** 
+AceCola raises 30 to 60
+_SKR folds
+BillyPablo calls 30
+*** FLOP *** [Js 4s 6s]
+BillyPablo checks
+AceCola checks
+*** TURN *** [Js 4s 6s][5s]
+BillyPablo bets 47
+AceCola folds
+BillyPablo collected 182 from pot
+*** SUMMARY ***
+Total pot 182 | No rake
+Board: [Js 4s 6s 5s]
+Seat 1: BillyPablo (big blind) won 182
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675056398185791489-7-1673742109 - Holdem no limit (20/40) - 2023/01/15 00:21:49 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BillyPablo (523)
+Seat 2: AceCola (92)
+Seat 3: _SKR (285)
+*** ANTE/BLINDS ***
+BillyPablo posts small blind 20
+AceCola posts big blind 40
+Dealt to _SKR [2s Ts]
+*** PRE-FLOP *** 
+_SKR folds
+BillyPablo folds
+AceCola collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: AceCola (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675056398185791489-8-1673742116 - Holdem no limit (20/40) - 2023/01/15 00:21:56 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BillyPablo (503)
+Seat 2: AceCola (112)
+Seat 3: _SKR (285)
+*** ANTE/BLINDS ***
+AceCola posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd Kc]
+*** PRE-FLOP *** 
+BillyPablo folds
+AceCola raises 40 to 80
+_SKR raises 205 to 285 and is all-in
+AceCola calls 32 and is all-in
+*** FLOP *** [8c Ah 4c]
+*** TURN *** [8c Ah 4c][8d]
+*** RIVER *** [8c Ah 4c 8d][6d]
+*** SHOW DOWN ***
+AceCola shows [Kd 3s] (One pair : 8)
+_SKR shows [Jd Kc] (One pair : 8)
+_SKR collected 397 from pot
+*** SUMMARY ***
+Total pot 397 | No rake
+Board: [8c Ah 4c 8d 6d]
+Seat 2: AceCola (small blind) showed [Kd 3s] and lost with One pair : 8
+Seat 3: _SKR (big blind) showed [Jd Kc] and won 397 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675056398185791489-9-1673742137 - Holdem no limit (20/40) - 2023/01/15 00:22:17 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BillyPablo (503)
+Seat 3: _SKR (397)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+BillyPablo posts big blind 40
+Dealt to _SKR [Tc 4c]
+*** PRE-FLOP *** 
+_SKR folds
+BillyPablo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: BillyPablo (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675056398185791489-10-1673742142 - Holdem no limit (20/40) - 2023/01/15 00:22:22 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BillyPablo (523)
+Seat 3: _SKR (377)
+*** ANTE/BLINDS ***
+BillyPablo posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s Jh]
+*** PRE-FLOP *** 
+BillyPablo folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675056398185791489-11-1673742146 - Holdem no limit (20/40) - 2023/01/15 00:22:26 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BillyPablo (503)
+Seat 3: _SKR (397)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+BillyPablo posts big blind 40
+Dealt to _SKR [7c Qh]
+*** PRE-FLOP *** 
+_SKR raises 357 to 397 and is all-in
+BillyPablo folds
+_SKR collected 437 from pot
+*** SUMMARY ***
+Total pot 437 | No rake
+Seat 3: _SKR (small blind) (button) won 437
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675056398185791489-12-1673742151 - Holdem no limit (20/40) - 2023/01/15 00:22:31 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BillyPablo (463)
+Seat 3: _SKR (437)
+*** ANTE/BLINDS ***
+BillyPablo posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd Ah]
+*** PRE-FLOP *** 
+BillyPablo folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675056398185791489-13-1673742155 - Holdem no limit (30/60) - 2023/01/15 00:22:35 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BillyPablo (443)
+Seat 3: _SKR (457)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+BillyPablo posts big blind 60
+Dealt to _SKR [Th Jh]
+*** PRE-FLOP *** 
+_SKR raises 397 to 457 and is all-in
+BillyPablo folds
+_SKR collected 517 from pot
+*** SUMMARY ***
+Total pot 517 | No rake
+Seat 3: _SKR (small blind) (button) won 517
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675056398185791489-14-1673742165 - Holdem no limit (30/60) - 2023/01/15 00:22:45 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BillyPablo (383)
+Seat 3: _SKR (517)
+*** ANTE/BLINDS ***
+BillyPablo posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ts 2h]
+*** PRE-FLOP *** 
+BillyPablo folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675056398185791489-15-1673742174 - Holdem no limit (30/60) - 2023/01/15 00:22:54 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BillyPablo (353)
+Seat 3: _SKR (547)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+BillyPablo posts big blind 60
+Dealt to _SKR [Jc 8d]
+*** PRE-FLOP *** 
+_SKR raises 487 to 547 and is all-in
+BillyPablo folds
+_SKR collected 607 from pot
+*** SUMMARY ***
+Total pot 607 | No rake
+Seat 3: _SKR (small blind) (button) won 607
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675056398185791489-16-1673742179 - Holdem no limit (30/60) - 2023/01/15 00:22:59 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BillyPablo (293)
+Seat 3: _SKR (607)
+*** ANTE/BLINDS ***
+BillyPablo posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ac Th]
+*** PRE-FLOP *** 
+BillyPablo folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675056398185791489-17-1673742192 - Holdem no limit (30/60) - 2023/01/15 00:23:12 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BillyPablo (263)
+Seat 3: _SKR (637)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+BillyPablo posts big blind 60
+Dealt to _SKR [Js 2h]
+*** PRE-FLOP *** 
+_SKR raises 577 to 637 and is all-in
+BillyPablo calls 203 and is all-in
+*** FLOP *** [Ac 5d Td]
+*** TURN *** [Ac 5d Td][Tc]
+*** RIVER *** [Ac 5d Td Tc][2c]
+*** SHOW DOWN ***
+BillyPablo shows [Ad Kc] (Two pairs : Aces and Tens)
+_SKR shows [Js 2h] (Two pairs : Tens and 2)
+_SKR collected 374 from side pot 1
+BillyPablo collected 526 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 5d Td Tc 2c]
+Seat 1: BillyPablo (big blind) showed [Ad Kc] and won 526 with Two pairs : Aces and Tens
+Seat 3: _SKR (small blind) (button) showed [Js 2h] and won 374 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675056398185791489-18-1673742204 - Holdem no limit (30/60) - 2023/01/15 00:23:24 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BillyPablo (526)
+Seat 3: _SKR (374)
+*** ANTE/BLINDS ***
+BillyPablo posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qh 3h]
+*** PRE-FLOP *** 
+BillyPablo raises 90 to 150
+_SKR folds
+BillyPablo collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 1: BillyPablo (small blind) (button) won 210
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675056398185791489-19-1673742212 - Holdem no limit (30/60) - 2023/01/15 00:23:32 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BillyPablo (586)
+Seat 3: _SKR (314)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+BillyPablo posts big blind 60
+Dealt to _SKR [7s 7c]
+*** PRE-FLOP *** 
+_SKR raises 254 to 314 and is all-in
+BillyPablo folds
+_SKR collected 374 from pot
+*** SUMMARY ***
+Total pot 374 | No rake
+Seat 3: _SKR (small blind) (button) won 374
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2675056398185791489-20-1673742218 - Holdem no limit (40/80) - 2023/01/15 00:23:38 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BillyPablo (526)
+Seat 3: _SKR (374)
+*** ANTE/BLINDS ***
+BillyPablo posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [2c 8s]
+*** PRE-FLOP *** 
+BillyPablo folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2675056398185791489-21-1673742222 - Holdem no limit (40/80) - 2023/01/15 00:23:42 UTC
+Table: 'Expresso Nitro(622835103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BillyPablo (486)
+Seat 3: _SKR (414)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+BillyPablo posts big blind 80
+Dealt to _SKR [Th Jh]
+*** PRE-FLOP *** 
+_SKR raises 334 to 414 and is all-in
+BillyPablo raises 72 to 486 and is all-in
+*** FLOP *** [6s 9d 2d]
+*** TURN *** [6s 9d 2d][8s]
+*** RIVER *** [6s 9d 2d 8s][4h]
+*** SHOW DOWN ***
+_SKR shows [Th Jh] (High card : Jack)
+BillyPablo shows [As 5h] (High card : Ace)
+BillyPablo collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s 9d 2d 8s 4h]
+Seat 1: BillyPablo (big blind) showed [As 5h] and won 900 with High card : Ace
+Seat 3: _SKR (small blind) (button) showed [Th Jh] and lost with High card : Jack
+
+

@@ -1,0 +1,57 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717917813862825985-1-1676239873 - Holdem no limit (10/20) - 2023/02/12 22:11:13 UTC
+Table: 'Expresso Nitro(632814554)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Zantite89200 (300)
+Seat 2: Naass33 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Zantite89200 posts small blind 10
+Naass33 posts big blind 20
+Dealt to _SKR [8d Qd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Zantite89200 calls 30
+Naass33 calls 20
+*** FLOP *** [7d 6h Ad]
+Zantite89200 bets 120
+Naass33 folds
+_SKR raises 140 to 260 and is all-in
+Zantite89200 calls 140 and is all-in
+*** TURN *** [7d 6h Ad][2d]
+*** RIVER *** [7d 6h Ad 2d][Kc]
+*** SHOW DOWN ***
+Zantite89200 shows [3d 6d] (Flush Ace high)
+_SKR shows [8d Qd] (Flush Ace high)
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [7d 6h Ad 2d Kc]
+Seat 1: Zantite89200 (small blind) showed [3d 6d] and lost with Flush Ace high
+Seat 3: _SKR (button) showed [8d Qd] and won 640 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717917813862825985-2-1676239905 - Holdem no limit (10/20) - 2023/02/12 22:11:45 UTC
+Table: 'Expresso Nitro(632814554)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Naass33 (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+Naass33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As 7d]
+*** PRE-FLOP *** 
+Naass33 raises 20 to 40
+_SKR raises 600 to 640 and is all-in
+Naass33 calls 220 and is all-in
+*** FLOP *** [3s 6s 9d]
+*** TURN *** [3s 6s 9d][9c]
+*** RIVER *** [3s 6s 9d 9c][Js]
+*** SHOW DOWN ***
+Naass33 shows [8c Kh] (One pair : 9)
+_SKR shows [As 7d] (One pair : 9)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3s 6s 9d 9c Js]
+Seat 2: Naass33 (small blind) (button) showed [8c Kh] and lost with One pair : 9
+Seat 3: _SKR (big blind) showed [As 7d] and won 900 with One pair : 9
+
+

@@ -1,0 +1,68 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698154865447665665-1-1675183233 - Holdem no limit (10/20) - 2023/01/31 16:40:33 UTC
+Table: 'Expresso Nitro(628213134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: pKKoiTTeKKon (300)
+Seat 3: lovenanou (300)
+*** ANTE/BLINDS ***
+pKKoiTTeKKon posts small blind 10
+lovenanou posts big blind 20
+Dealt to _SKR [5c 8c]
+*** PRE-FLOP *** 
+_SKR folds
+pKKoiTTeKKon raises 280 to 300 and is all-in
+lovenanou calls 280 and is all-in
+*** FLOP *** [4d 5h 3h]
+*** TURN *** [4d 5h 3h][Ks]
+*** RIVER *** [4d 5h 3h Ks][Qs]
+*** SHOW DOWN ***
+pKKoiTTeKKon shows [Th Ad] (High card : Ace)
+lovenanou shows [3d 8d] (One pair : 3)
+lovenanou collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4d 5h 3h Ks Qs]
+Seat 2: pKKoiTTeKKon (small blind) showed [Th Ad] and lost with High card : Ace
+Seat 3: lovenanou (big blind) showed [3d 8d] and won 600 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698154865447665665-2-1675183249 - Holdem no limit (10/20) - 2023/01/31 16:40:49 UTC
+Table: 'Expresso Nitro(628213134)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 3: lovenanou (600)
+*** ANTE/BLINDS ***
+lovenanou posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 4c]
+*** PRE-FLOP *** 
+lovenanou folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698154865447665665-3-1675183252 - Holdem no limit (10/20) - 2023/01/31 16:40:52 UTC
+Table: 'Expresso Nitro(628213134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 3: lovenanou (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+lovenanou posts big blind 20
+Dealt to _SKR [Ah 6d]
+*** PRE-FLOP *** 
+_SKR raises 290 to 310 and is all-in
+lovenanou calls 290
+*** FLOP *** [Jh 9h 3s]
+*** TURN *** [Jh 9h 3s][4s]
+*** RIVER *** [Jh 9h 3s 4s][5d]
+*** SHOW DOWN ***
+_SKR shows [Ah 6d] (High card : Ace)
+lovenanou shows [9s Ts] (One pair : 9)
+lovenanou collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Jh 9h 3s 4s 5d]
+Seat 1: _SKR (small blind) (button) showed [Ah 6d] and lost with High card : Ace
+Seat 3: lovenanou (big blind) showed [9s Ts] and won 620 with One pair : 9
+
+

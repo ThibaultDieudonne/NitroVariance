@@ -1,0 +1,356 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696480549756731393-1-1675082578 - Holdem no limit (10/20) - 2023/01/30 12:42:58 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Wmxcan4u3w (300)
+Seat 3: tchukbill (300)
+*** ANTE/BLINDS ***
+Wmxcan4u3w posts small blind 10
+tchukbill posts big blind 20
+Dealt to _SKR [8d 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Wmxcan4u3w calls 10
+tchukbill checks
+*** FLOP *** [3d Qs 5d]
+Wmxcan4u3w bets 40
+tchukbill folds
+Wmxcan4u3w collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3d Qs 5d]
+Seat 2: Wmxcan4u3w (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696480549756731393-2-1675082604 - Holdem no limit (10/20) - 2023/01/30 12:43:24 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Wmxcan4u3w (320)
+Seat 3: tchukbill (280)
+*** ANTE/BLINDS ***
+tchukbill posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3c Qh]
+*** PRE-FLOP *** 
+Wmxcan4u3w calls 20
+tchukbill calls 10
+_SKR checks
+*** FLOP *** [7c 7d Tc]
+tchukbill checks
+_SKR checks
+Wmxcan4u3w checks
+*** TURN *** [7c 7d Tc][Kh]
+tchukbill checks
+_SKR checks
+Wmxcan4u3w bets 20
+tchukbill folds
+_SKR folds
+Wmxcan4u3w collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7c 7d Tc Kh]
+Seat 2: Wmxcan4u3w (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696480549756731393-3-1675082645 - Holdem no limit (15/30) - 2023/01/30 12:44:05 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Wmxcan4u3w (360)
+Seat 3: tchukbill (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Wmxcan4u3w posts big blind 30
+Dealt to _SKR [Ac 4d]
+*** PRE-FLOP *** 
+tchukbill raises 30 to 60
+_SKR folds
+Wmxcan4u3w calls 30
+*** FLOP *** [8c 5c 7s]
+Wmxcan4u3w bets 135
+tchukbill raises 65 to 200 and is all-in
+Wmxcan4u3w calls 65
+*** TURN *** [8c 5c 7s][2h]
+*** RIVER *** [8c 5c 7s 2h][3h]
+*** SHOW DOWN ***
+Wmxcan4u3w shows [Qd 6s] (High card : Queen)
+tchukbill shows [9d 7h] (One pair : 7)
+tchukbill collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Board: [8c 5c 7s 2h 3h]
+Seat 2: Wmxcan4u3w (big blind) showed [Qd 6s] and lost with High card : Queen
+Seat 3: tchukbill (button) showed [9d 7h] and won 535 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696480549756731393-4-1675082690 - Holdem no limit (15/30) - 2023/01/30 12:44:50 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (265)
+Seat 2: Wmxcan4u3w (100)
+Seat 3: tchukbill (535)
+*** ANTE/BLINDS ***
+Wmxcan4u3w posts small blind 15
+tchukbill posts big blind 30
+Dealt to _SKR [Ah Td]
+*** PRE-FLOP *** 
+_SKR raises 235 to 265 and is all-in
+Wmxcan4u3w folds
+tchukbill folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 1: _SKR (button) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696480549756731393-5-1675082700 - Holdem no limit (20/40) - 2023/01/30 12:45:00 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: Wmxcan4u3w (85)
+Seat 3: tchukbill (505)
+*** ANTE/BLINDS ***
+tchukbill posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac 9h]
+*** PRE-FLOP *** 
+Wmxcan4u3w raises 45 to 85 and is all-in
+tchukbill calls 65
+_SKR raises 225 to 310 and is all-in
+tchukbill folds
+*** FLOP *** [Ks Jd 5c]
+*** TURN *** [Ks Jd 5c][Qh]
+*** RIVER *** [Ks Jd 5c Qh][9d]
+*** SHOW DOWN ***
+_SKR shows [Ac 9h] (One pair : 9)
+Wmxcan4u3w shows [Qs Qd] (Trips of Queens)
+Wmxcan4u3w collected 255 from main pot
+_SKR collected 225 from side pot 1
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ks Jd 5c Qh 9d]
+Seat 1: _SKR (big blind) showed [Ac 9h] and won 225 with One pair : 9
+Seat 2: Wmxcan4u3w (button) showed [Qs Qd] and won 255 with Trips of Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696480549756731393-6-1675082732 - Holdem no limit (20/40) - 2023/01/30 12:45:32 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (225)
+Seat 2: Wmxcan4u3w (255)
+Seat 3: tchukbill (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Wmxcan4u3w posts big blind 40
+Dealt to _SKR [Jc 9d]
+*** PRE-FLOP *** 
+tchukbill folds
+_SKR raises 185 to 225 and is all-in
+Wmxcan4u3w folds
+_SKR collected 265 from pot
+*** SUMMARY ***
+Total pot 265 | No rake
+Seat 1: _SKR (small blind) won 265
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696480549756731393-7-1675082741 - Holdem no limit (20/40) - 2023/01/30 12:45:41 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (265)
+Seat 2: Wmxcan4u3w (215)
+Seat 3: tchukbill (420)
+*** ANTE/BLINDS ***
+Wmxcan4u3w posts small blind 20
+tchukbill posts big blind 40
+Dealt to _SKR [Qs 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Wmxcan4u3w raises 175 to 215 and is all-in
+tchukbill folds
+Wmxcan4u3w collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 2: Wmxcan4u3w (small blind) won 255
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696480549756731393-8-1675082758 - Holdem no limit (30/60) - 2023/01/30 12:45:58 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (265)
+Seat 2: Wmxcan4u3w (255)
+Seat 3: tchukbill (380)
+*** ANTE/BLINDS ***
+tchukbill posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7c 3d]
+*** PRE-FLOP *** 
+Wmxcan4u3w calls 60
+tchukbill folds
+_SKR checks
+*** FLOP *** [3c 7h 6c]
+_SKR checks
+Wmxcan4u3w bets 195 and is all-in
+_SKR calls 195
+*** TURN *** [3c 7h 6c][8h]
+*** RIVER *** [3c 7h 6c 8h][2s]
+*** SHOW DOWN ***
+Wmxcan4u3w shows [6s 5c] (One pair : 6)
+_SKR shows [7c 3d] (Two pairs : 7 and 3)
+_SKR collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [3c 7h 6c 8h 2s]
+Seat 1: _SKR (big blind) showed [7c 3d] and won 540 with Two pairs : 7 and 3
+Seat 2: Wmxcan4u3w (button) showed [6s 5c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696480549756731393-9-1675082785 - Holdem no limit (30/60) - 2023/01/30 12:46:25 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (550)
+Seat 3: tchukbill (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+tchukbill posts big blind 60
+Dealt to _SKR [3s Jh]
+*** PRE-FLOP *** 
+_SKR folds
+tchukbill collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: tchukbill (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696480549756731393-10-1675082790 - Holdem no limit (30/60) - 2023/01/30 12:46:30 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (520)
+Seat 3: tchukbill (380)
+*** ANTE/BLINDS ***
+tchukbill posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jd Jc]
+*** PRE-FLOP *** 
+tchukbill folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696480549756731393-11-1675082794 - Holdem no limit (30/60) - 2023/01/30 12:46:34 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (550)
+Seat 3: tchukbill (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+tchukbill posts big blind 60
+Dealt to _SKR [3h 8h]
+*** PRE-FLOP *** 
+_SKR folds
+tchukbill collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: tchukbill (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696480549756731393-12-1675082800 - Holdem no limit (30/60) - 2023/01/30 12:46:40 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (520)
+Seat 3: tchukbill (380)
+*** ANTE/BLINDS ***
+tchukbill posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c 9c]
+*** PRE-FLOP *** 
+tchukbill calls 30
+_SKR checks
+*** FLOP *** [Jc 9s Qd]
+_SKR checks
+tchukbill bets 78
+_SKR folds
+tchukbill collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [Jc 9s Qd]
+Seat 3: tchukbill (small blind) (button) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696480549756731393-13-1675082822 - Holdem no limit (40/80) - 2023/01/30 12:47:02 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (460)
+Seat 3: tchukbill (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+tchukbill posts big blind 80
+Dealt to _SKR [Jd 9c]
+*** PRE-FLOP *** 
+_SKR raises 380 to 460 and is all-in
+tchukbill folds
+_SKR collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 1: _SKR (small blind) (button) won 540
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696480549756731393-14-1675082829 - Holdem no limit (40/80) - 2023/01/30 12:47:09 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (540)
+Seat 3: tchukbill (360)
+*** ANTE/BLINDS ***
+tchukbill posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [5h Ad]
+*** PRE-FLOP *** 
+tchukbill calls 40
+_SKR raises 460 to 540 and is all-in
+tchukbill folds
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 1: _SKR (big blind) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696480549756731393-15-1675082841 - Holdem no limit (40/80) - 2023/01/30 12:47:21 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (620)
+Seat 3: tchukbill (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+tchukbill posts big blind 80
+Dealt to _SKR [Ad 6c]
+*** PRE-FLOP *** 
+_SKR raises 540 to 620 and is all-in
+tchukbill calls 200 and is all-in
+*** FLOP *** [4c 9d Td]
+*** TURN *** [4c 9d Td][Jh]
+*** RIVER *** [4c 9d Td Jh][Th]
+*** SHOW DOWN ***
+_SKR shows [Ad 6c] (One pair : Tens)
+tchukbill shows [Jc 9h] (Two pairs : Jacks and Tens)
+tchukbill collected 560 from main pot
+_SKR collected 340 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c 9d Td Jh Th]
+Seat 1: _SKR (small blind) (button) showed [Ad 6c] and won 340 with One pair : Tens
+Seat 3: tchukbill (big blind) showed [Jc 9h] and won 560 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696480549756731393-16-1675082858 - Holdem no limit (40/80) - 2023/01/30 12:47:38 UTC
+Table: 'Expresso Nitro(627823302)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (340)
+Seat 3: tchukbill (560)
+*** ANTE/BLINDS ***
+tchukbill posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3c 3d]
+*** PRE-FLOP *** 
+tchukbill calls 40
+_SKR raises 260 to 340 and is all-in
+tchukbill raises 220 to 560 and is all-in
+*** FLOP *** [6h 4s As]
+*** TURN *** [6h 4s As][7s]
+*** RIVER *** [6h 4s As 7s][Td]
+*** SHOW DOWN ***
+_SKR shows [3c 3d] (One pair : 3)
+tchukbill shows [Kh Ad] (One pair : Aces)
+tchukbill collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6h 4s As 7s Td]
+Seat 1: _SKR (big blind) showed [3c 3d] and lost with One pair : 3
+Seat 3: tchukbill (small blind) (button) showed [Kh Ad] and won 900 with One pair : Aces
+
+

@@ -1,0 +1,126 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698213895478181889-1-1675185832 - Holdem no limit (10/20) - 2023/01/31 17:23:52 UTC
+Table: 'Expresso Nitro(628226878)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Lenaaab (300)
+Seat 3: kiklastar68 (300)
+*** ANTE/BLINDS ***
+kiklastar68 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h Ah]
+*** PRE-FLOP *** 
+Lenaaab folds
+kiklastar68 calls 10
+_SKR raises 280 to 300 and is all-in
+kiklastar68 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698213895478181889-2-1675185847 - Holdem no limit (10/20) - 2023/01/31 17:24:07 UTC
+Table: 'Expresso Nitro(628226878)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: Lenaaab (300)
+Seat 3: kiklastar68 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Lenaaab posts big blind 20
+Dealt to _SKR [Ac Kc]
+*** PRE-FLOP *** 
+kiklastar68 calls 20
+_SKR raises 300 to 320 and is all-in
+Lenaaab calls 280 and is all-in
+kiklastar68 folds
+*** FLOP *** [8c Jh 3d]
+*** TURN *** [8c Jh 3d][2d]
+*** RIVER *** [8c Jh 3d 2d][5h]
+*** SHOW DOWN ***
+_SKR shows [Ac Kc] (High card : Ace)
+Lenaaab shows [Ah Js] (One pair : Jacks)
+Lenaaab collected 620 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [8c Jh 3d 2d 5h]
+Seat 1: _SKR (small blind) showed [Ac Kc] and won 20 with High card : Ace
+Seat 2: Lenaaab (big blind) showed [Ah Js] and won 620 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698213895478181889-3-1675185870 - Holdem no limit (10/20) - 2023/01/31 17:24:30 UTC
+Table: 'Expresso Nitro(628226878)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (20)
+Seat 2: Lenaaab (620)
+Seat 3: kiklastar68 (260)
+*** ANTE/BLINDS ***
+Lenaaab posts small blind 10
+kiklastar68 posts big blind 20
+Dealt to _SKR [7c 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Lenaaab raises 600 to 620 and is all-in
+kiklastar68 calls 240 and is all-in
+*** FLOP *** [Td 9s 3d]
+*** TURN *** [Td 9s 3d][Kh]
+*** RIVER *** [Td 9s 3d Kh][7d]
+*** SHOW DOWN ***
+kiklastar68 shows [2c Kc] (One pair : Kings)
+Lenaaab shows [Jh Kd] (One pair : Kings)
+Lenaaab collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Td 9s 3d Kh 7d]
+Seat 2: Lenaaab (small blind) showed [Jh Kd] and won 880 with One pair : Kings
+Seat 3: kiklastar68 (big blind) showed [2c Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698213895478181889-4-1675185894 - Holdem no limit (15/30) - 2023/01/31 17:24:54 UTC
+Table: 'Expresso Nitro(628226878)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (20)
+Seat 2: Lenaaab (880)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Lenaaab posts big blind 30
+Dealt to _SKR [Js 4h]
+*** PRE-FLOP *** 
+_SKR calls 5 and is all-in
+*** FLOP *** [8h Qs Ts]
+*** TURN *** [8h Qs Ts][Ac]
+*** RIVER *** [8h Qs Ts Ac][9h]
+*** SHOW DOWN ***
+_SKR shows [Js 4h] (Straight Queen high)
+Lenaaab shows [6s 4c] (High card : Ace)
+Lenaaab collected 10 from side pot 1
+_SKR collected 40 from main pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [8h Qs Ts Ac 9h]
+Seat 1: _SKR (small blind) (button) showed [Js 4h] and won 40 with Straight Queen high
+Seat 2: Lenaaab (big blind) showed [6s 4c] and won 10 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698213895478181889-5-1675185915 - Holdem no limit (15/30) - 2023/01/31 17:25:15 UTC
+Table: 'Expresso Nitro(628226878)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (40)
+Seat 2: Lenaaab (860)
+*** ANTE/BLINDS ***
+Lenaaab posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ac As]
+*** PRE-FLOP *** 
+Lenaaab raises 830 to 860 and is all-in
+_SKR calls 10 and is all-in
+*** FLOP *** [Td Ad 2d]
+*** TURN *** [Td Ad 2d][4s]
+*** RIVER *** [Td Ad 2d 4s][Jc]
+*** SHOW DOWN ***
+_SKR shows [Ac As] (Trips of Aces)
+Lenaaab shows [Kh Qd] (Straight Ace high)
+Lenaaab collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td Ad 2d 4s Jc]
+Seat 1: _SKR (big blind) showed [Ac As] and lost with Trips of Aces
+Seat 2: Lenaaab (small blind) (button) showed [Kh Qd] and won 900 with Straight Ace high
+
+

@@ -1,0 +1,29 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674082020430184449-1-1673701408 - Holdem no limit (10/20) - 2023/01/14 13:03:28 UTC
+Table: 'Expresso Nitro(622608238)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: bladda99 (300)
+Seat 3: lio666_2 (300)
+*** ANTE/BLINDS ***
+bladda99 posts small blind 10
+lio666_2 posts big blind 20
+Dealt to _SKR [As Qc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+bladda99 raises 100 to 140
+lio666_2 folds
+_SKR raises 160 to 300 and is all-in
+bladda99 calls 160 and is all-in
+*** FLOP *** [5h 9d 7s]
+*** TURN *** [5h 9d 7s][Tc]
+*** RIVER *** [5h 9d 7s Tc][Kh]
+*** SHOW DOWN ***
+_SKR shows [As Qc] (High card : Ace)
+bladda99 shows [6h 6s] (One pair : 6)
+bladda99 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5h 9d 7s Tc Kh]
+Seat 1: _SKR (button) showed [As Qc] and lost with High card : Ace
+Seat 2: bladda99 (small blind) showed [6h 6s] and won 620 with One pair : 6
+
+

@@ -1,0 +1,116 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674116771010576385-1-1673701778 - Holdem no limit (10/20) - 2023/01/14 13:09:38 UTC
+Table: 'Expresso Nitro(622616329)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: fortnite 68 (300)
+Seat 3: XY 123 (300)
+*** ANTE/BLINDS ***
+fortnite 68 posts small blind 10
+XY 123 posts big blind 20
+Dealt to _SKR [2h 5h]
+*** PRE-FLOP *** 
+_SKR folds
+fortnite 68 folds
+XY 123 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: XY 123 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674116771010576385-2-1673701786 - Holdem no limit (10/20) - 2023/01/14 13:09:46 UTC
+Table: 'Expresso Nitro(622616329)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: fortnite 68 (290)
+Seat 3: XY 123 (310)
+*** ANTE/BLINDS ***
+XY 123 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As Tc]
+*** PRE-FLOP *** 
+fortnite 68 folds
+XY 123 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674116771010576385-3-1673701794 - Holdem no limit (10/20) - 2023/01/14 13:09:54 UTC
+Table: 'Expresso Nitro(622616329)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: fortnite 68 (290)
+Seat 3: XY 123 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+fortnite 68 posts big blind 20
+Dealt to _SKR [Qh Qs]
+*** PRE-FLOP *** 
+XY 123 raises 280 to 300 and is all-in
+_SKR raises 10 to 310 and is all-in
+fortnite 68 calls 270 and is all-in
+*** FLOP *** [Ah 2h Jc]
+*** TURN *** [Ah 2h Jc][3c]
+*** RIVER *** [Ah 2h Jc 3c][Kc]
+*** SHOW DOWN ***
+_SKR shows [Qh Qs] (One pair : Queens)
+fortnite 68 shows [Ac 4c] (Flush Ace high)
+XY 123 shows [As 5c] (One pair : Aces)
+XY 123 collected 20 from side pot 1
+fortnite 68 collected 870 from main pot
+_SKR collected 10 from side pot 2
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ah 2h Jc 3c Kc]
+Seat 1: _SKR (small blind) showed [Qh Qs] and won 10 with One pair : Queens
+Seat 2: fortnite 68 (big blind) showed [Ac 4c] and won 870 with Flush Ace high
+Seat 3: XY 123 (button) showed [As 5c] and won 20 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674116771010576385-4-1673701813 - Holdem no limit (10/20) - 2023/01/14 13:10:13 UTC
+Table: 'Expresso Nitro(622616329)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (10)
+Seat 2: fortnite 68 (870)
+Seat 3: XY 123 (20)
+*** ANTE/BLINDS ***
+fortnite 68 posts small blind 10
+XY 123 posts big blind 20 and is all-in
+Dealt to _SKR [3h 9d]
+*** PRE-FLOP *** 
+_SKR folds
+fortnite 68 calls 10
+*** FLOP *** [Js Qh Kd]
+*** TURN *** [Js Qh Kd][4c]
+*** RIVER *** [Js Qh Kd 4c][6d]
+*** SHOW DOWN ***
+XY 123 shows [2d Ah] (High card : Ace)
+fortnite 68 shows [As 7h] (High card : Ace)
+fortnite 68 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Js Qh Kd 4c 6d]
+Seat 2: fortnite 68 (small blind) showed [As 7h] and won 40 with High card : Ace
+Seat 3: XY 123 (big blind) showed [2d Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674116771010576385-5-1673701829 - Holdem no limit (10/20) - 2023/01/14 13:10:29 UTC
+Table: 'Expresso Nitro(622616329)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (10)
+Seat 2: fortnite 68 (890)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10 and is all-in
+fortnite 68 posts big blind 20
+Dealt to _SKR [2s Jd]
+*** PRE-FLOP *** 
+*** FLOP *** [Td Ks 8c]
+*** TURN *** [Td Ks 8c][7h]
+*** RIVER *** [Td Ks 8c 7h][8s]
+*** SHOW DOWN ***
+_SKR shows [2s Jd] (One pair : 8)
+fortnite 68 shows [Th 7c] (Two pairs : Tens and 8)
+fortnite 68 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [Td Ks 8c 7h 8s]
+Seat 1: _SKR (small blind) (button) showed [2s Jd] and lost with One pair : 8
+Seat 2: fortnite 68 (big blind) showed [Th 7c] and won 30 with Two pairs : Tens and 8
+
+

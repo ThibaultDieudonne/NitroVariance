@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717863091684507649-1-1676238068 - Holdem no limit (10/20) - 2023/02/12 21:41:08 UTC
+Table: 'Expresso Nitro(632801813)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: RAG96 (300)
+Seat 3: Asmattikk (300)
+*** ANTE/BLINDS ***
+RAG96 posts small blind 10
+Asmattikk posts big blind 20
+Dealt to _SKR [4h 2c]
+*** PRE-FLOP *** 
+_SKR folds
+RAG96 folds
+Asmattikk collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Asmattikk (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717863091684507649-2-1676238077 - Holdem no limit (10/20) - 2023/02/12 21:41:17 UTC
+Table: 'Expresso Nitro(632801813)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: RAG96 (290)
+Seat 3: Asmattikk (310)
+*** ANTE/BLINDS ***
+Asmattikk posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 2d]
+*** PRE-FLOP *** 
+RAG96 raises 30 to 50
+Asmattikk raises 260 to 310 and is all-in
+_SKR folds
+RAG96 calls 240 and is all-in
+*** FLOP *** [7h Td 3h]
+*** TURN *** [7h Td 3h][6d]
+*** RIVER *** [7h Td 3h 6d][6s]
+*** SHOW DOWN ***
+RAG96 shows [Jc Qc] (One pair : 6)
+Asmattikk shows [Js Ac] (One pair : 6)
+Asmattikk collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [7h Td 3h 6d 6s]
+Seat 2: RAG96 (button) showed [Jc Qc] and lost with One pair : 6
+Seat 3: Asmattikk (small blind) showed [Js Ac] and won 620 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717863091684507649-3-1676238101 - Holdem no limit (10/20) - 2023/02/12 21:41:41 UTC
+Table: 'Expresso Nitro(632801813)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 3: Asmattikk (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Asmattikk posts big blind 20
+Dealt to _SKR [7c Qh]
+*** PRE-FLOP *** 
+_SKR calls 10
+Asmattikk checks
+*** FLOP *** [3c 2h 8c]
+Asmattikk checks
+_SKR checks
+*** TURN *** [3c 2h 8c][3d]
+Asmattikk bets 20
+_SKR folds
+Asmattikk collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3c 2h 8c 3d]
+Seat 3: Asmattikk (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717863091684507649-4-1676238125 - Holdem no limit (15/30) - 2023/02/12 21:42:05 UTC
+Table: 'Expresso Nitro(632801813)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (260)
+Seat 3: Asmattikk (640)
+*** ANTE/BLINDS ***
+Asmattikk posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8h Kc]
+*** PRE-FLOP *** 
+Asmattikk calls 15
+_SKR raises 230 to 260 and is all-in
+Asmattikk calls 230
+*** FLOP *** [7h 5c 6h]
+*** TURN *** [7h 5c 6h][7c]
+*** RIVER *** [7h 5c 6h 7c][As]
+*** SHOW DOWN ***
+_SKR shows [8h Kc] (One pair : 7)
+Asmattikk shows [Ks Ts] (One pair : 7)
+Asmattikk collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [7h 5c 6h 7c As]
+Seat 1: _SKR (big blind) showed [8h Kc] and lost with One pair : 7
+Seat 3: Asmattikk (small blind) (button) showed [Ks Ts] and won 520 with One pair : 7
+
+

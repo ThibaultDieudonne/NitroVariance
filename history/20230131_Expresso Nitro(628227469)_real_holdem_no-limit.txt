@@ -1,0 +1,74 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698216433803853825-1-1675185942 - Holdem no limit (10/20) - 2023/01/31 17:25:42 UTC
+Table: 'Expresso Nitro(628227469)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Nini5959 (300)
+Seat 2: _SKR (300)
+Seat 3: Yerling (300)
+*** ANTE/BLINDS ***
+Nini5959 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 2s]
+*** PRE-FLOP *** 
+Yerling raises 280 to 300 and is all-in
+Nini5959 folds
+_SKR folds
+Yerling collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Yerling (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698216433803853825-2-1675185974 - Holdem no limit (10/20) - 2023/01/31 17:26:14 UTC
+Table: 'Expresso Nitro(628227469)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nini5959 (290)
+Seat 2: _SKR (280)
+Seat 3: Yerling (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Yerling posts big blind 20
+Dealt to _SKR [7h Ah]
+*** PRE-FLOP *** 
+Nini5959 raises 270 to 290 and is all-in
+_SKR calls 270 and is all-in
+Yerling raises 40 to 330 and is all-in
+*** FLOP *** [8c Ad 7d]
+*** TURN *** [8c Ad 7d][Kh]
+*** RIVER *** [8c Ad 7d Kh][4c]
+*** SHOW DOWN ***
+Nini5959 shows [Qs Tc] (High card : Ace)
+_SKR shows [7h Ah] (Two pairs : Aces and 7)
+Yerling shows [9s 9h] (One pair : 9)
+Yerling collected 60 from side pot 1
+_SKR collected 840 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8c Ad 7d Kh 4c]
+Seat 1: Nini5959 (button) showed [Qs Tc] and lost with High card : Ace
+Seat 2: _SKR (small blind) showed [7h Ah] and won 840 with Two pairs : Aces and 7
+Seat 3: Yerling (big blind) showed [9s 9h] and won 60 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698216433803853825-3-1675185998 - Holdem no limit (15/30) - 2023/01/31 17:26:38 UTC
+Table: 'Expresso Nitro(628227469)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (840)
+Seat 3: Yerling (60)
+*** ANTE/BLINDS ***
+Yerling posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5h 5d]
+*** PRE-FLOP *** 
+Yerling raises 30 to 60 and is all-in
+_SKR raises 780 to 840 and is all-in
+*** FLOP *** [6s 2h 7c]
+*** TURN *** [6s 2h 7c][Th]
+*** RIVER *** [6s 2h 7c Th][Qh]
+*** SHOW DOWN ***
+Yerling shows [Ac Jh] (High card : Ace)
+_SKR shows [5h 5d] (One pair : 5)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s 2h 7c Th Qh]
+Seat 2: _SKR (big blind) showed [5h 5d] and won 900 with One pair : 5
+Seat 3: Yerling (small blind) (button) showed [Ac Jh] and lost with High card : Ace
+
+

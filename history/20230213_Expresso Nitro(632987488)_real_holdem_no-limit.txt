@@ -1,0 +1,448 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718660559737192449-1-1676294041 - Holdem no limit (10/20) - 2023/02/13 13:14:01 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PatateFou (300)
+Seat 2: _SKR (300)
+Seat 3: RimK 80 (300)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s Jh]
+*** PRE-FLOP *** 
+RimK 80 raises 20 to 40
+PatateFou folds
+_SKR folds
+RimK 80 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: RimK 80 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718660559737192449-2-1676294050 - Holdem no limit (10/20) - 2023/02/13 13:14:10 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PatateFou (290)
+Seat 2: _SKR (280)
+Seat 3: RimK 80 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+RimK 80 posts big blind 20
+Dealt to _SKR [5s 6s]
+*** PRE-FLOP *** 
+PatateFou folds
+_SKR calls 10
+RimK 80 checks
+*** FLOP *** [6d 8d Jh]
+_SKR checks
+RimK 80 bets 20
+_SKR folds
+RimK 80 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6d 8d Jh]
+Seat 3: RimK 80 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718660559737192449-3-1676294065 - Holdem no limit (10/20) - 2023/02/13 13:14:25 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PatateFou (290)
+Seat 2: _SKR (260)
+Seat 3: RimK 80 (350)
+*** ANTE/BLINDS ***
+RimK 80 posts small blind 10
+PatateFou posts big blind 20
+Dealt to _SKR [6h 5d]
+*** PRE-FLOP *** 
+_SKR folds
+RimK 80 raises 20 to 40
+PatateFou folds
+RimK 80 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: RimK 80 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718660559737192449-4-1676294072 - Holdem no limit (10/20) - 2023/02/13 13:14:32 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PatateFou (270)
+Seat 2: _SKR (260)
+Seat 3: RimK 80 (370)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd Kc]
+*** PRE-FLOP *** 
+RimK 80 raises 30 to 50
+PatateFou folds
+_SKR raises 210 to 260 and is all-in
+RimK 80 calls 210
+*** FLOP *** [5d 5c Qc]
+*** TURN *** [5d 5c Qc][4d]
+*** RIVER *** [5d 5c Qc 4d][6d]
+*** SHOW DOWN ***
+RimK 80 shows [9c 9h] (Two pairs : 9 and 5)
+_SKR shows [Kd Kc] (Two pairs : Kings and 5)
+_SKR collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [5d 5c Qc 4d 6d]
+Seat 2: _SKR (big blind) showed [Kd Kc] and won 530 with Two pairs : Kings and 5
+Seat 3: RimK 80 (button) showed [9c 9h] and lost with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718660559737192449-5-1676294090 - Holdem no limit (10/20) - 2023/02/13 13:14:50 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PatateFou (260)
+Seat 2: _SKR (530)
+Seat 3: RimK 80 (110)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+RimK 80 posts big blind 20
+Dealt to _SKR [Qs Ks]
+*** PRE-FLOP *** 
+PatateFou raises 20 to 40
+_SKR raises 490 to 530 and is all-in
+RimK 80 folds
+PatateFou calls 220 and is all-in
+*** FLOP *** [9s 6c Ad]
+*** TURN *** [9s 6c Ad][Ts]
+*** RIVER *** [9s 6c Ad Ts][3d]
+*** SHOW DOWN ***
+PatateFou shows [Ah As] (Trips of Aces)
+_SKR shows [Qs Ks] (High card : Ace)
+_SKR collected 270 from side pot 1
+PatateFou collected 540 from main pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [9s 6c Ad Ts 3d]
+Seat 1: PatateFou (button) showed [Ah As] and won 540 with Trips of Aces
+Seat 2: _SKR (small blind) showed [Qs Ks] and won 270 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718660559737192449-6-1676294113 - Holdem no limit (15/30) - 2023/02/13 13:15:13 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PatateFou (540)
+Seat 2: _SKR (270)
+Seat 3: RimK 80 (90)
+*** ANTE/BLINDS ***
+RimK 80 posts small blind 15
+PatateFou posts big blind 30
+Dealt to _SKR [Th 7c]
+*** PRE-FLOP *** 
+_SKR folds
+RimK 80 raises 60 to 90 and is all-in
+PatateFou calls 60
+*** FLOP *** [Qs 7s 4s]
+*** TURN *** [Qs 7s 4s][6c]
+*** RIVER *** [Qs 7s 4s 6c][2s]
+*** SHOW DOWN ***
+RimK 80 shows [8d Ad] (High card : Ace)
+PatateFou shows [9c Qh] (One pair : Queens)
+PatateFou collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Qs 7s 4s 6c 2s]
+Seat 1: PatateFou (big blind) showed [9c Qh] and won 180 with One pair : Queens
+Seat 3: RimK 80 (small blind) showed [8d Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718660559737192449-7-1676294134 - Holdem no limit (15/30) - 2023/02/13 13:15:34 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PatateFou (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th 5s]
+*** PRE-FLOP *** 
+PatateFou raises 45 to 75
+_SKR folds
+PatateFou collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 1: PatateFou (small blind) (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718660559737192449-8-1676294141 - Holdem no limit (15/30) - 2023/02/13 13:15:41 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PatateFou (660)
+Seat 2: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+PatateFou posts big blind 30
+Dealt to _SKR [Ah Th]
+*** PRE-FLOP *** 
+_SKR raises 210 to 240 and is all-in
+PatateFou folds
+_SKR collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: _SKR (small blind) (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718660559737192449-9-1676294147 - Holdem no limit (15/30) - 2023/02/13 13:15:47 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PatateFou (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5d 4h]
+*** PRE-FLOP *** 
+PatateFou calls 15
+_SKR checks
+*** FLOP *** [2h 5c 8c]
+_SKR checks
+PatateFou checks
+*** TURN *** [2h 5c 8c][4d]
+_SKR checks
+PatateFou checks
+*** RIVER *** [2h 5c 8c 4d][Jc]
+_SKR checks
+PatateFou checks
+*** SHOW DOWN ***
+PatateFou shows [6c Qs] (High card : Queen)
+_SKR shows [5d 4h] (Two pairs : 5 and 4)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2h 5c 8c 4d Jc]
+Seat 1: PatateFou (small blind) (button) showed [6c Qs] and lost with High card : Queen
+Seat 2: _SKR (big blind) showed [5d 4h] and won 60 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718660559737192449-10-1676294198 - Holdem no limit (20/40) - 2023/02/13 13:16:38 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PatateFou (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+PatateFou posts big blind 40
+Dealt to _SKR [3c 7c]
+*** PRE-FLOP *** 
+_SKR folds
+PatateFou collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: PatateFou (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718660559737192449-11-1676294202 - Holdem no limit (20/40) - 2023/02/13 13:16:42 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PatateFou (620)
+Seat 2: _SKR (280)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3h 9s]
+*** PRE-FLOP *** 
+PatateFou folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718660559737192449-12-1676294205 - Holdem no limit (20/40) - 2023/02/13 13:16:45 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PatateFou (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+PatateFou posts big blind 40
+Dealt to _SKR [7c Ks]
+*** PRE-FLOP *** 
+_SKR folds
+PatateFou collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: PatateFou (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718660559737192449-13-1676294216 - Holdem no limit (20/40) - 2023/02/13 13:16:56 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PatateFou (620)
+Seat 2: _SKR (280)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8h 5h]
+*** PRE-FLOP *** 
+PatateFou folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718660559737192449-14-1676294220 - Holdem no limit (30/60) - 2023/02/13 13:17:00 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PatateFou (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+PatateFou posts big blind 60
+Dealt to _SKR [Tc Ac]
+*** PRE-FLOP *** 
+_SKR raises 240 to 300 and is all-in
+PatateFou folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718660559737192449-15-1676294231 - Holdem no limit (30/60) - 2023/02/13 13:17:11 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PatateFou (540)
+Seat 2: _SKR (360)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4d 9d]
+*** PRE-FLOP *** 
+PatateFou folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718660559737192449-16-1676294235 - Holdem no limit (30/60) - 2023/02/13 13:17:15 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PatateFou (510)
+Seat 2: _SKR (390)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+PatateFou posts big blind 60
+Dealt to _SKR [Tc 9s]
+*** PRE-FLOP *** 
+_SKR folds
+PatateFou collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: PatateFou (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718660559737192449-17-1676294241 - Holdem no limit (30/60) - 2023/02/13 13:17:21 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PatateFou (540)
+Seat 2: _SKR (360)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5d 9h]
+*** PRE-FLOP *** 
+PatateFou folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718660559737192449-18-1676294244 - Holdem no limit (30/60) - 2023/02/13 13:17:24 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PatateFou (510)
+Seat 2: _SKR (390)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+PatateFou posts big blind 60
+Dealt to _SKR [Ac Qs]
+*** PRE-FLOP *** 
+_SKR raises 330 to 390 and is all-in
+PatateFou folds
+_SKR collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 2: _SKR (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718660559737192449-19-1676294251 - Holdem no limit (30/60) - 2023/02/13 13:17:31 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PatateFou (450)
+Seat 2: _SKR (450)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c 5s]
+*** PRE-FLOP *** 
+PatateFou folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718660559737192449-20-1676294256 - Holdem no limit (30/60) - 2023/02/13 13:17:36 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PatateFou (420)
+Seat 2: _SKR (480)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+PatateFou posts big blind 60
+Dealt to _SKR [Qh 7c]
+*** PRE-FLOP *** 
+_SKR raises 420 to 480 and is all-in
+PatateFou calls 360 and is all-in
+*** FLOP *** [Js 3d 4d]
+*** TURN *** [Js 3d 4d][5s]
+*** RIVER *** [Js 3d 4d 5s][Kc]
+*** SHOW DOWN ***
+PatateFou shows [Jd Jh] (Trips of Jacks)
+_SKR shows [Qh 7c] (High card : King)
+_SKR collected 60 from side pot 1
+PatateFou collected 840 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js 3d 4d 5s Kc]
+Seat 1: PatateFou (big blind) showed [Jd Jh] and won 840 with Trips of Jacks
+Seat 2: _SKR (small blind) (button) showed [Qh 7c] and won 60 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718660559737192449-21-1676294271 - Holdem no limit (30/60) - 2023/02/13 13:17:51 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PatateFou (840)
+Seat 2: _SKR (60)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 30
+_SKR posts big blind 60 and is all-in
+Dealt to _SKR [4d Tc]
+*** PRE-FLOP *** 
+PatateFou calls 30
+*** FLOP *** [Ah 7h 8d]
+*** TURN *** [Ah 7h 8d][6d]
+*** RIVER *** [Ah 7h 8d 6d][9c]
+*** SHOW DOWN ***
+PatateFou shows [8s 6s] (Two pairs : 8 and 6)
+_SKR shows [4d Tc] (Straight Ten high)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ah 7h 8d 6d 9c]
+Seat 1: PatateFou (small blind) (button) showed [8s 6s] and lost with Two pairs : 8 and 6
+Seat 2: _SKR (big blind) showed [4d Tc] and won 120 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2718660559737192449-22-1676294283 - Holdem no limit (40/80) - 2023/02/13 13:18:03 UTC
+Table: 'Expresso Nitro(632987488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PatateFou (780)
+Seat 2: _SKR (120)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+PatateFou posts big blind 80
+Dealt to _SKR [Qh 6h]
+*** PRE-FLOP *** 
+_SKR raises 40 to 120 and is all-in
+PatateFou calls 40
+*** FLOP *** [7s Js 8s]
+*** TURN *** [7s Js 8s][4h]
+*** RIVER *** [7s Js 8s 4h][Ac]
+*** SHOW DOWN ***
+_SKR shows [Qh 6h] (High card : Ace)
+PatateFou shows [8h 5h] (One pair : 8)
+PatateFou collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7s Js 8s 4h Ac]
+Seat 1: PatateFou (big blind) showed [8h 5h] and won 240 with One pair : 8
+Seat 2: _SKR (small blind) (button) showed [Qh 6h] and lost with High card : Ace
+
+

@@ -1,0 +1,187 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717235837480730625-1-1676213296 - Holdem no limit (10/20) - 2023/02/12 14:48:16 UTC
+Table: 'Expresso Nitro(632655769)#0' 3-max (real money) Seat #2 is the button
+Seat 1: IlyaNeymarJR (300)
+Seat 2: _SKR (300)
+Seat 3: Rilla03 (300)
+*** ANTE/BLINDS ***
+Rilla03 posts small blind 10
+IlyaNeymarJR posts big blind 20
+Dealt to _SKR [Jh 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Rilla03 calls 10
+IlyaNeymarJR checks
+*** FLOP *** [Tc Qh Ac]
+Rilla03 checks
+IlyaNeymarJR checks
+*** TURN *** [Tc Qh Ac][4h]
+Rilla03 checks
+IlyaNeymarJR checks
+*** RIVER *** [Tc Qh Ac 4h][7s]
+Rilla03 checks
+IlyaNeymarJR bets 20
+Rilla03 calls 20
+*** SHOW DOWN ***
+Rilla03 shows [2s 2c] (One pair : 2)
+IlyaNeymarJR shows [7c Ks] (One pair : 7)
+IlyaNeymarJR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Tc Qh Ac 4h 7s]
+Seat 1: IlyaNeymarJR (big blind) showed [7c Ks] and won 80 with One pair : 7
+Seat 3: Rilla03 (small blind) showed [2s 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717235837480730625-2-1676213318 - Holdem no limit (10/20) - 2023/02/12 14:48:38 UTC
+Table: 'Expresso Nitro(632655769)#0' 3-max (real money) Seat #3 is the button
+Seat 1: IlyaNeymarJR (340)
+Seat 2: _SKR (300)
+Seat 3: Rilla03 (260)
+*** ANTE/BLINDS ***
+IlyaNeymarJR posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s 6s]
+*** PRE-FLOP *** 
+Rilla03 calls 20
+IlyaNeymarJR raises 40 to 60
+_SKR folds
+Rilla03 calls 40
+*** FLOP *** [Jc 8s Qs]
+IlyaNeymarJR bets 280 and is all-in
+Rilla03 folds
+IlyaNeymarJR collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jc 8s Qs]
+Seat 1: IlyaNeymarJR (small blind) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717235837480730625-3-1676213341 - Holdem no limit (10/20) - 2023/02/12 14:49:01 UTC
+Table: 'Expresso Nitro(632655769)#0' 3-max (real money) Seat #1 is the button
+Seat 1: IlyaNeymarJR (420)
+Seat 2: _SKR (280)
+Seat 3: Rilla03 (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Rilla03 posts big blind 20
+Dealt to _SKR [2s 9h]
+*** PRE-FLOP *** 
+IlyaNeymarJR folds
+_SKR folds
+Rilla03 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Rilla03 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717235837480730625-4-1676213360 - Holdem no limit (15/30) - 2023/02/12 14:49:20 UTC
+Table: 'Expresso Nitro(632655769)#0' 3-max (real money) Seat #2 is the button
+Seat 1: IlyaNeymarJR (420)
+Seat 2: _SKR (270)
+Seat 3: Rilla03 (210)
+*** ANTE/BLINDS ***
+Rilla03 posts small blind 15
+IlyaNeymarJR posts big blind 30
+Dealt to _SKR [6h Qh]
+*** PRE-FLOP *** 
+_SKR folds
+Rilla03 raises 30 to 60
+IlyaNeymarJR calls 30
+*** FLOP *** [Th 5h Jd]
+Rilla03 bets 150 and is all-in
+IlyaNeymarJR calls 150
+*** TURN *** [Th 5h Jd][Td]
+*** RIVER *** [Th 5h Jd Td][Tc]
+*** SHOW DOWN ***
+Rilla03 shows [3s 9c] (Trips of Tens)
+IlyaNeymarJR shows [5d Ac] (Full of Tens and 5)
+IlyaNeymarJR collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Th 5h Jd Td Tc]
+Seat 1: IlyaNeymarJR (big blind) showed [5d Ac] and won 420 with Full of Tens and 5
+Seat 3: Rilla03 (small blind) showed [3s 9c] and lost with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717235837480730625-5-1676213388 - Holdem no limit (15/30) - 2023/02/12 14:49:48 UTC
+Table: 'Expresso Nitro(632655769)#0' 3-max (real money) Seat #1 is the button
+Seat 1: IlyaNeymarJR (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+IlyaNeymarJR posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 8s]
+*** PRE-FLOP *** 
+IlyaNeymarJR calls 15
+_SKR checks
+*** FLOP *** [5s 6d 8h]
+_SKR bets 30
+IlyaNeymarJR calls 30
+*** TURN *** [5s 6d 8h][7c]
+_SKR bets 30
+IlyaNeymarJR calls 30
+*** RIVER *** [5s 6d 8h 7c][6h]
+_SKR bets 90
+IlyaNeymarJR calls 90
+*** SHOW DOWN ***
+_SKR shows [2c 8s] (Two pairs : 8 and 6)
+IlyaNeymarJR shows [3c 4c] (Straight 8 high)
+IlyaNeymarJR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [5s 6d 8h 7c 6h]
+Seat 1: IlyaNeymarJR (small blind) (button) showed [3c 4c] and won 360 with Straight 8 high
+Seat 2: _SKR (big blind) showed [2c 8s] and lost with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717235837480730625-6-1676213429 - Holdem no limit (20/40) - 2023/02/12 14:50:29 UTC
+Table: 'Expresso Nitro(632655769)#0' 3-max (real money) Seat #2 is the button
+Seat 1: IlyaNeymarJR (810)
+Seat 2: _SKR (90)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+IlyaNeymarJR posts big blind 40
+Dealt to _SKR [Ac 9h]
+*** PRE-FLOP *** 
+_SKR raises 50 to 90 and is all-in
+IlyaNeymarJR calls 50
+*** FLOP *** [3c 4h Kc]
+*** TURN *** [3c 4h Kc][Js]
+*** RIVER *** [3c 4h Kc Js][7s]
+*** SHOW DOWN ***
+IlyaNeymarJR shows [8h Tc] (High card : King)
+_SKR shows [Ac 9h] (High card : Ace)
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3c 4h Kc Js 7s]
+Seat 1: IlyaNeymarJR (big blind) showed [8h Tc] and lost with High card : King
+Seat 2: _SKR (small blind) (button) showed [Ac 9h] and won 180 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717235837480730625-7-1676213441 - Holdem no limit (20/40) - 2023/02/12 14:50:41 UTC
+Table: 'Expresso Nitro(632655769)#0' 3-max (real money) Seat #1 is the button
+Seat 1: IlyaNeymarJR (720)
+Seat 2: _SKR (180)
+*** ANTE/BLINDS ***
+IlyaNeymarJR posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Tc Jd]
+*** PRE-FLOP *** 
+IlyaNeymarJR calls 20
+_SKR raises 140 to 180 and is all-in
+IlyaNeymarJR calls 140
+*** FLOP *** [Jc 6s 9h]
+*** TURN *** [Jc 6s 9h][3c]
+*** RIVER *** [Jc 6s 9h 3c][2c]
+*** SHOW DOWN ***
+_SKR shows [Tc Jd] (One pair : Jacks)
+IlyaNeymarJR shows [Jh 9d] (Two pairs : Jacks and 9)
+IlyaNeymarJR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Jc 6s 9h 3c 2c]
+Seat 1: IlyaNeymarJR (small blind) (button) showed [Jh 9d] and won 360 with Two pairs : Jacks and 9
+Seat 2: _SKR (big blind) showed [Tc Jd] and lost with One pair : Jacks
+
+

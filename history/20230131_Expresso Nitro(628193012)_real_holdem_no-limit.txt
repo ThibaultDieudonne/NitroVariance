@@ -1,0 +1,119 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698068442115735553-1-1675179009 - Holdem no limit (10/20) - 2023/01/31 15:30:09 UTC
+Table: 'Expresso Nitro(628193012)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jenndo (300)
+Seat 2: _SKR (300)
+Seat 3: avrillas91 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+avrillas91 posts big blind 20
+Dealt to _SKR [4s 2c]
+*** PRE-FLOP *** 
+Jenndo calls 20
+_SKR folds
+avrillas91 checks
+*** FLOP *** [Tc 5d Kh]
+avrillas91 checks
+Jenndo checks
+*** TURN *** [Tc 5d Kh][Kd]
+avrillas91 checks
+Jenndo checks
+*** RIVER *** [Tc 5d Kh Kd][9d]
+avrillas91 checks
+Jenndo bets 280 and is all-in
+avrillas91 folds
+Jenndo collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Tc 5d Kh Kd 9d]
+Seat 1: Jenndo (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698068442115735553-2-1675179025 - Holdem no limit (10/20) - 2023/01/31 15:30:25 UTC
+Table: 'Expresso Nitro(628193012)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jenndo (330)
+Seat 2: _SKR (290)
+Seat 3: avrillas91 (280)
+*** ANTE/BLINDS ***
+avrillas91 posts small blind 10
+Jenndo posts big blind 20
+Dealt to _SKR [Kd 6d]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+avrillas91 calls 30
+Jenndo calls 20
+*** FLOP *** [Td Kh 9h]
+avrillas91 checks
+Jenndo checks
+_SKR bets 60
+avrillas91 calls 60
+Jenndo calls 60
+*** TURN *** [Td Kh 9h][7s]
+avrillas91 checks
+Jenndo checks
+_SKR bets 190 and is all-in
+avrillas91 folds
+Jenndo calls 190
+*** RIVER *** [Td Kh 9h 7s][As]
+*** SHOW DOWN ***
+Jenndo shows [Js Jd] (One pair : Jacks)
+_SKR shows [Kd 6d] (One pair : Kings)
+_SKR collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Td Kh 9h 7s As]
+Seat 1: Jenndo (big blind) showed [Js Jd] and lost with One pair : Jacks
+Seat 2: _SKR (button) showed [Kd 6d] and won 680 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698068442115735553-3-1675179069 - Holdem no limit (15/30) - 2023/01/31 15:31:09 UTC
+Table: 'Expresso Nitro(628193012)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jenndo (40)
+Seat 2: _SKR (680)
+Seat 3: avrillas91 (180)
+*** ANTE/BLINDS ***
+Jenndo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c Jh]
+*** PRE-FLOP *** 
+avrillas91 raises 150 to 180 and is all-in
+Jenndo calls 25 and is all-in
+_SKR folds
+*** FLOP *** [2d 3h Ks]
+*** TURN *** [2d 3h Ks][Js]
+*** RIVER *** [2d 3h Ks Js][7h]
+*** SHOW DOWN ***
+Jenndo shows [6c Jd] (One pair : Jacks)
+avrillas91 shows [Kd Qd] (One pair : Kings)
+avrillas91 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [2d 3h Ks Js 7h]
+Seat 1: Jenndo (small blind) showed [6c Jd] and lost with One pair : Jacks
+Seat 3: avrillas91 (button) showed [Kd Qd] and won 250 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698068442115735553-4-1675179085 - Holdem no limit (15/30) - 2023/01/31 15:31:25 UTC
+Table: 'Expresso Nitro(628193012)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (650)
+Seat 3: avrillas91 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+avrillas91 posts big blind 30
+Dealt to _SKR [9s Ah]
+*** PRE-FLOP *** 
+_SKR raises 620 to 650 and is all-in
+avrillas91 calls 220 and is all-in
+*** FLOP *** [2c Ac 9c]
+*** TURN *** [2c Ac 9c][5c]
+*** RIVER *** [2c Ac 9c 5c][3s]
+*** SHOW DOWN ***
+avrillas91 shows [Qd 5d] (One pair : 5)
+_SKR shows [9s Ah] (Two pairs : Aces and 9)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2c Ac 9c 5c 3s]
+Seat 2: _SKR (small blind) (button) showed [9s Ah] and won 900 with Two pairs : Aces and 9
+Seat 3: avrillas91 (big blind) showed [Qd 5d] and lost with One pair : 5
+
+

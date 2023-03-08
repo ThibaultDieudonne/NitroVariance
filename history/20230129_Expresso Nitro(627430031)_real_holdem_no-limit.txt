@@ -1,0 +1,100 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694791463673266177-1-1674957653 - Holdem no limit (10/20) - 2023/01/29 02:00:53 UTC
+Table: 'Expresso Nitro(627430031)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jeebskiii (300)
+Seat 2: LaurentGdu33 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Jeebskiii posts small blind 10
+LaurentGdu33 posts big blind 20
+Dealt to _SKR [Kc 9s]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Jeebskiii folds
+LaurentGdu33 raises 260 to 300 and is all-in
+_SKR folds
+LaurentGdu33 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: LaurentGdu33 (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694791463673266177-2-1674957664 - Holdem no limit (10/20) - 2023/01/29 02:01:04 UTC
+Table: 'Expresso Nitro(627430031)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jeebskiii (290)
+Seat 2: LaurentGdu33 (350)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+LaurentGdu33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s As]
+*** PRE-FLOP *** 
+Jeebskiii calls 20
+LaurentGdu33 folds
+_SKR raises 240 to 260 and is all-in
+Jeebskiii folds
+_SKR collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: _SKR (big blind) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694791463673266177-3-1674957680 - Holdem no limit (10/20) - 2023/01/29 02:01:20 UTC
+Table: 'Expresso Nitro(627430031)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jeebskiii (270)
+Seat 2: LaurentGdu33 (340)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Jeebskiii posts big blind 20
+Dealt to _SKR [8s Qh]
+*** PRE-FLOP *** 
+LaurentGdu33 raises 20 to 40
+_SKR folds
+Jeebskiii calls 20
+*** FLOP *** [6d 3h 6h]
+Jeebskiii checks
+LaurentGdu33 checks
+*** TURN *** [6d 3h 6h][Js]
+Jeebskiii checks
+LaurentGdu33 checks
+*** RIVER *** [6d 3h 6h Js][2c]
+Jeebskiii checks
+LaurentGdu33 checks
+*** SHOW DOWN ***
+LaurentGdu33 shows [Th Qs] (One pair : 6)
+Jeebskiii shows [3c 4h] (Two pairs : 6 and 3)
+Jeebskiii collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6d 3h 6h Js 2c]
+Seat 1: Jeebskiii (big blind) showed [3c 4h] and won 90 with Two pairs : 6 and 3
+Seat 2: LaurentGdu33 (button) showed [Th Qs] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694791463673266177-4-1674957709 - Holdem no limit (15/30) - 2023/01/29 02:01:49 UTC
+Table: 'Expresso Nitro(627430031)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jeebskiii (320)
+Seat 2: LaurentGdu33 (300)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+Jeebskiii posts small blind 15
+LaurentGdu33 posts big blind 30
+Dealt to _SKR [6h 6d]
+*** PRE-FLOP *** 
+_SKR raises 250 to 280 and is all-in
+Jeebskiii raises 40 to 320 and is all-in
+LaurentGdu33 folds
+*** FLOP *** [Kh 5c 8s]
+*** TURN *** [Kh 5c 8s][3d]
+*** RIVER *** [Kh 5c 8s 3d][7c]
+*** SHOW DOWN ***
+_SKR shows [6h 6d] (One pair : 6)
+Jeebskiii shows [7s 8h] (Two pairs : 8 and 7)
+Jeebskiii collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Kh 5c 8s 3d 7c]
+Seat 1: Jeebskiii (small blind) showed [7s 8h] and won 630 with Two pairs : 8 and 7
+Seat 3: _SKR (button) showed [6h 6d] and lost with One pair : 6
+
+

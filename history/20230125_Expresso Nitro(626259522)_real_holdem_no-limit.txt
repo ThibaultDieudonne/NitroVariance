@@ -1,0 +1,61 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689764165798592513-1-1674650437 - Holdem no limit (10/20) - 2023/01/25 12:40:37 UTC
+Table: 'Expresso Nitro(626259522)#0' 3-max (real money) Seat #2 is the button
+Seat 1: r42275 (300)
+Seat 2: _SKR (300)
+Seat 3: follete68 (300)
+*** ANTE/BLINDS ***
+follete68 posts small blind 10
+r42275 posts big blind 20
+Dealt to _SKR [Qc Kd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+follete68 calls 30
+r42275 calls 20
+*** FLOP *** [7s Th Td]
+follete68 checks
+r42275 checks
+_SKR checks
+*** TURN *** [7s Th Td][5d]
+follete68 checks
+r42275 checks
+_SKR checks
+*** RIVER *** [7s Th Td 5d][2c]
+follete68 checks
+r42275 bets 78
+_SKR folds
+follete68 folds
+r42275 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [7s Th Td 5d 2c]
+Seat 1: r42275 (big blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689764165798592513-2-1674650481 - Holdem no limit (10/20) - 2023/01/25 12:41:21 UTC
+Table: 'Expresso Nitro(626259522)#0' 3-max (real money) Seat #3 is the button
+Seat 1: r42275 (380)
+Seat 2: _SKR (260)
+Seat 3: follete68 (260)
+*** ANTE/BLINDS ***
+r42275 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd Jc]
+*** PRE-FLOP *** 
+follete68 folds
+r42275 raises 20 to 40
+_SKR raises 220 to 260 and is all-in
+r42275 calls 220
+*** FLOP *** [2d 7s 9c]
+*** TURN *** [2d 7s 9c][Th]
+*** RIVER *** [2d 7s 9c Th][5c]
+*** SHOW DOWN ***
+_SKR shows [Kd Jc] (High card : King)
+r42275 shows [6d 6h] (One pair : 6)
+r42275 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [2d 7s 9c Th 5c]
+Seat 1: r42275 (small blind) showed [6d 6h] and won 520 with One pair : 6
+Seat 2: _SKR (big blind) showed [Kd Jc] and lost with High card : King
+
+

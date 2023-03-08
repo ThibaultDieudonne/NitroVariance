@@ -1,0 +1,125 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698203231074385921-1-1675185375 - Holdem no limit (10/20) - 2023/01/31 17:16:15 UTC
+Table: 'Expresso Nitro(628224395)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Mat21Meg14 (300)
+Seat 2: _SKR (300)
+Seat 3: RaqBibi (300)
+*** ANTE/BLINDS ***
+RaqBibi posts small blind 10
+Mat21Meg14 posts big blind 20
+Dealt to _SKR [2s 6s]
+*** PRE-FLOP *** 
+_SKR folds
+RaqBibi folds
+Mat21Meg14 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Mat21Meg14 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698203231074385921-2-1675185381 - Holdem no limit (10/20) - 2023/01/31 17:16:21 UTC
+Table: 'Expresso Nitro(628224395)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mat21Meg14 (310)
+Seat 2: _SKR (300)
+Seat 3: RaqBibi (290)
+*** ANTE/BLINDS ***
+Mat21Meg14 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h Jc]
+*** PRE-FLOP *** 
+RaqBibi raises 50 to 70
+Mat21Meg14 folds
+_SKR folds
+RaqBibi collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: RaqBibi (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698203231074385921-3-1675185393 - Holdem no limit (10/20) - 2023/01/31 17:16:33 UTC
+Table: 'Expresso Nitro(628224395)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mat21Meg14 (300)
+Seat 2: _SKR (280)
+Seat 3: RaqBibi (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+RaqBibi posts big blind 20
+Dealt to _SKR [4d Ks]
+*** PRE-FLOP *** 
+Mat21Meg14 folds
+_SKR calls 10
+RaqBibi checks
+*** FLOP *** [6h 8h 9c]
+_SKR checks
+RaqBibi checks
+*** TURN *** [6h 8h 9c][Ah]
+_SKR checks
+RaqBibi checks
+*** RIVER *** [6h 8h 9c Ah][9d]
+_SKR checks
+RaqBibi bets 80
+_SKR folds
+RaqBibi collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6h 8h 9c Ah 9d]
+Seat 3: RaqBibi (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698203231074385921-4-1675185431 - Holdem no limit (10/20) - 2023/01/31 17:17:11 UTC
+Table: 'Expresso Nitro(628224395)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Mat21Meg14 (300)
+Seat 2: _SKR (260)
+Seat 3: RaqBibi (340)
+*** ANTE/BLINDS ***
+RaqBibi posts small blind 10
+Mat21Meg14 posts big blind 20
+Dealt to _SKR [Qc 9d]
+*** PRE-FLOP *** 
+_SKR folds
+RaqBibi calls 10
+Mat21Meg14 checks
+*** FLOP *** [3c 3s 6h]
+RaqBibi checks
+Mat21Meg14 checks
+*** TURN *** [3c 3s 6h][4s]
+RaqBibi checks
+Mat21Meg14 checks
+*** RIVER *** [3c 3s 6h 4s][Kc]
+RaqBibi checks
+Mat21Meg14 bets 40
+RaqBibi folds
+Mat21Meg14 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3c 3s 6h 4s Kc]
+Seat 1: Mat21Meg14 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698203231074385921-5-1675185461 - Holdem no limit (15/30) - 2023/01/31 17:17:41 UTC
+Table: 'Expresso Nitro(628224395)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mat21Meg14 (320)
+Seat 2: _SKR (260)
+Seat 3: RaqBibi (320)
+*** ANTE/BLINDS ***
+Mat21Meg14 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ks 4h]
+*** PRE-FLOP *** 
+RaqBibi folds
+Mat21Meg14 calls 15
+_SKR raises 230 to 260 and is all-in
+Mat21Meg14 calls 230
+*** FLOP *** [4c 6d Qc]
+*** TURN *** [4c 6d Qc][2c]
+*** RIVER *** [4c 6d Qc 2c][6c]
+*** SHOW DOWN ***
+_SKR shows [Ks 4h] (Two pairs : 6 and 4)
+Mat21Meg14 shows [3d Kc] (Flush King high)
+Mat21Meg14 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [4c 6d Qc 2c 6c]
+Seat 1: Mat21Meg14 (small blind) showed [3d Kc] and won 520 with Flush King high
+Seat 2: _SKR (big blind) showed [Ks 4h] and lost with Two pairs : 6 and 4
+
+

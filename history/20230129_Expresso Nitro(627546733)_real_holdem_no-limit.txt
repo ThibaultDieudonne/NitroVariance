@@ -1,0 +1,163 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695292694946643969-1-1675004610 - Holdem no limit (10/20) - 2023/01/29 15:03:30 UTC
+Table: 'Expresso Nitro(627546733)#0' 3-max (real money) Seat #1 is the button
+Seat 1: karine_80 (300)
+Seat 2: _SKR (300)
+Seat 3: Milla08 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Milla08 posts big blind 20
+Dealt to _SKR [9s 4h]
+*** PRE-FLOP *** 
+karine_80 folds
+_SKR folds
+Milla08 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Milla08 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695292694946643969-2-1675004615 - Holdem no limit (10/20) - 2023/01/29 15:03:35 UTC
+Table: 'Expresso Nitro(627546733)#0' 3-max (real money) Seat #2 is the button
+Seat 1: karine_80 (300)
+Seat 2: _SKR (290)
+Seat 3: Milla08 (310)
+*** ANTE/BLINDS ***
+Milla08 posts small blind 10
+karine_80 posts big blind 20
+Dealt to _SKR [Qd 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Milla08 calls 10
+karine_80 checks
+*** FLOP *** [6s 4c Ac]
+Milla08 bets 20
+karine_80 calls 20
+*** TURN *** [6s 4c Ac][Qc]
+Milla08 bets 52
+karine_80 calls 52
+*** RIVER *** [6s 4c Ac Qc][6d]
+Milla08 bets 120
+karine_80 raises 88 to 208 and is all-in
+Milla08 folds
+karine_80 collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | No rake
+Board: [6s 4c Ac Qc 6d]
+Seat 1: karine_80 (big blind) won 512
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695292694946643969-3-1675004639 - Holdem no limit (10/20) - 2023/01/29 15:03:59 UTC
+Table: 'Expresso Nitro(627546733)#0' 3-max (real money) Seat #3 is the button
+Seat 1: karine_80 (512)
+Seat 2: _SKR (290)
+Seat 3: Milla08 (98)
+*** ANTE/BLINDS ***
+karine_80 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d 4s]
+*** PRE-FLOP *** 
+Milla08 raises 78 to 98 and is all-in
+karine_80 calls 88
+_SKR folds
+*** FLOP *** [4d 6c 8c]
+*** TURN *** [4d 6c 8c][3s]
+*** RIVER *** [4d 6c 8c 3s][5h]
+*** SHOW DOWN ***
+Milla08 shows [9s Kc] (High card : King)
+karine_80 shows [6h 4h] (Two pairs : 6 and 4)
+karine_80 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [4d 6c 8c 3s 5h]
+Seat 1: karine_80 (small blind) showed [6h 4h] and won 216 with Two pairs : 6 and 4
+Seat 3: Milla08 (button) showed [9s Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695292694946643969-4-1675004659 - Holdem no limit (10/20) - 2023/01/29 15:04:19 UTC
+Table: 'Expresso Nitro(627546733)#0' 3-max (real money) Seat #2 is the button
+Seat 1: karine_80 (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+karine_80 posts big blind 20
+Dealt to _SKR [Td As]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+karine_80 calls 250
+*** FLOP *** [Ts 8d Ad]
+*** TURN *** [Ts 8d Ad][2c]
+*** RIVER *** [Ts 8d Ad 2c][6d]
+*** SHOW DOWN ***
+karine_80 shows [3s 3d] (One pair : 3)
+_SKR shows [Td As] (Two pairs : Aces and Tens)
+_SKR collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Ts 8d Ad 2c 6d]
+Seat 1: karine_80 (big blind) showed [3s 3d] and lost with One pair : 3
+Seat 2: _SKR (small blind) (button) showed [Td As] and won 540 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695292694946643969-5-1675004674 - Holdem no limit (15/30) - 2023/01/29 15:04:34 UTC
+Table: 'Expresso Nitro(627546733)#0' 3-max (real money) Seat #1 is the button
+Seat 1: karine_80 (360)
+Seat 2: _SKR (540)
+*** ANTE/BLINDS ***
+karine_80 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7s Js]
+*** PRE-FLOP *** 
+karine_80 calls 15
+_SKR checks
+*** FLOP *** [Ah 9d 8d]
+_SKR checks
+karine_80 bets 30
+_SKR folds
+karine_80 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ah 9d 8d]
+Seat 1: karine_80 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695292694946643969-6-1675004693 - Holdem no limit (15/30) - 2023/01/29 15:04:53 UTC
+Table: 'Expresso Nitro(627546733)#0' 3-max (real money) Seat #2 is the button
+Seat 1: karine_80 (390)
+Seat 2: _SKR (510)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+karine_80 posts big blind 30
+Dealt to _SKR [7s 4s]
+*** PRE-FLOP *** 
+_SKR folds
+karine_80 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: karine_80 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695292694946643969-7-1675004705 - Holdem no limit (15/30) - 2023/01/29 15:05:05 UTC
+Table: 'Expresso Nitro(627546733)#0' 3-max (real money) Seat #1 is the button
+Seat 1: karine_80 (405)
+Seat 2: _SKR (495)
+*** ANTE/BLINDS ***
+karine_80 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ac Ks]
+*** PRE-FLOP *** 
+karine_80 raises 375 to 405 and is all-in
+_SKR calls 375
+*** FLOP *** [5d 9h 3d]
+*** TURN *** [5d 9h 3d][7s]
+*** RIVER *** [5d 9h 3d 7s][Kd]
+*** SHOW DOWN ***
+karine_80 shows [Kc Th] (One pair : Kings)
+_SKR shows [Ac Ks] (One pair : Kings)
+_SKR collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [5d 9h 3d 7s Kd]
+Seat 1: karine_80 (small blind) (button) showed [Kc Th] and lost with One pair : Kings
+Seat 2: _SKR (big blind) showed [Ac Ks] and won 810 with One pair : Kings
+
+

@@ -1,0 +1,83 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689756250173865985-1-1674649981 - Holdem no limit (10/20) - 2023/01/25 12:33:01 UTC
+Table: 'Expresso Nitro(626257679)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gouston (300)
+Seat 2: _SKR (300)
+Seat 3: Naika31 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Naika31 posts big blind 20
+Dealt to _SKR [5c 2d]
+*** PRE-FLOP *** 
+Gouston raises 280 to 300 and is all-in
+_SKR folds
+Naika31 calls 280 and is all-in
+*** FLOP *** [5d 6c Ad]
+*** TURN *** [5d 6c Ad][Ac]
+*** RIVER *** [5d 6c Ad Ac][4d]
+*** SHOW DOWN ***
+Gouston shows [9d Kc] (One pair : Aces)
+Naika31 shows [7c 6s] (Two pairs : Aces and 6)
+Naika31 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [5d 6c Ad Ac 4d]
+Seat 1: Gouston (button) showed [9d Kc] and lost with One pair : Aces
+Seat 3: Naika31 (big blind) showed [7c 6s] and won 610 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689756250173865985-2-1674649995 - Holdem no limit (10/20) - 2023/01/25 12:33:15 UTC
+Table: 'Expresso Nitro(626257679)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (290)
+Seat 3: Naika31 (610)
+*** ANTE/BLINDS ***
+Naika31 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts 8c]
+*** PRE-FLOP *** 
+Naika31 calls 10
+_SKR checks
+*** FLOP *** [Qs 6d 6c]
+_SKR checks
+Naika31 checks
+*** TURN *** [Qs 6d 6c][Qh]
+_SKR checks
+Naika31 checks
+*** RIVER *** [Qs 6d 6c Qh][Kh]
+_SKR checks
+Naika31 checks
+*** SHOW DOWN ***
+_SKR shows [Ts 8c] (Two pairs : Queens and 6)
+Naika31 shows [As 2h] (Two pairs : Queens and 6)
+Naika31 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qs 6d 6c Qh Kh]
+Seat 2: _SKR (big blind) showed [Ts 8c] and lost with Two pairs : Queens and 6
+Seat 3: Naika31 (small blind) (button) showed [As 2h] and won 40 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689756250173865985-3-1674650017 - Holdem no limit (10/20) - 2023/01/25 12:33:37 UTC
+Table: 'Expresso Nitro(626257679)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (270)
+Seat 3: Naika31 (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Naika31 posts big blind 20
+Dealt to _SKR [Ad 6d]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Naika31 calls 250
+*** FLOP *** [Qc Td 9c]
+*** TURN *** [Qc Td 9c][9d]
+*** RIVER *** [Qc Td 9c 9d][Tc]
+*** SHOW DOWN ***
+_SKR shows [Ad 6d] (Two pairs : Tens and 9)
+Naika31 shows [6c 8c] (Flush Queen high)
+Naika31 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Qc Td 9c 9d Tc]
+Seat 2: _SKR (small blind) (button) showed [Ad 6d] and lost with Two pairs : Tens and 9
+Seat 3: Naika31 (big blind) showed [6c 8c] and won 540 with Flush Queen high
+
+

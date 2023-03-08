@@ -1,0 +1,117 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729111443529007105-1-1676901172 - Holdem no limit (10/20) - 2023/02/20 13:52:52 UTC
+Table: 'Expresso Nitro(635420774)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Weakfish33 (300)
+Seat 3: 5019.P (300)
+*** ANTE/BLINDS ***
+5019.P posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 5s]
+*** PRE-FLOP *** 
+Weakfish33 raises 280 to 300 and is all-in
+5019.P folds
+_SKR folds
+Weakfish33 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Weakfish33 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729111443529007105-2-1676901182 - Holdem no limit (10/20) - 2023/02/20 13:53:02 UTC
+Table: 'Expresso Nitro(635420774)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Weakfish33 (330)
+Seat 3: 5019.P (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Weakfish33 posts big blind 20
+Dealt to _SKR [8d 3c]
+*** PRE-FLOP *** 
+5019.P folds
+_SKR folds
+Weakfish33 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Weakfish33 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729111443529007105-3-1676901186 - Holdem no limit (10/20) - 2023/02/20 13:53:06 UTC
+Table: 'Expresso Nitro(635420774)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Weakfish33 (340)
+Seat 3: 5019.P (290)
+*** ANTE/BLINDS ***
+Weakfish33 posts small blind 10
+5019.P posts big blind 20
+Dealt to _SKR [Js 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Weakfish33 raises 20 to 40
+5019.P folds
+Weakfish33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Weakfish33 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729111443529007105-4-1676901199 - Holdem no limit (10/20) - 2023/02/20 13:53:19 UTC
+Table: 'Expresso Nitro(635420774)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Weakfish33 (360)
+Seat 3: 5019.P (270)
+*** ANTE/BLINDS ***
+5019.P posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c Qc]
+*** PRE-FLOP *** 
+Weakfish33 folds
+5019.P raises 20 to 40
+_SKR calls 20
+*** FLOP *** [9c As 5d]
+5019.P checks
+_SKR checks
+*** TURN *** [9c As 5d][5c]
+5019.P checks
+_SKR bets 52
+5019.P calls 52
+*** RIVER *** [9c As 5d 5c][Qs]
+5019.P checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [7c Qc] (Two pairs : Queens and 5)
+5019.P shows [Ad 5s] (Full of 5 and Aces)
+5019.P collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [9c As 5d 5c Qs]
+Seat 1: _SKR (big blind) showed [7c Qc] and lost with Two pairs : Queens and 5
+Seat 3: 5019.P (small blind) showed [Ad 5s] and won 184 with Full of 5 and Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729111443529007105-5-1676901239 - Holdem no limit (15/30) - 2023/02/20 13:53:59 UTC
+Table: 'Expresso Nitro(635420774)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (178)
+Seat 2: Weakfish33 (360)
+Seat 3: 5019.P (362)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Weakfish33 posts big blind 30
+Dealt to _SKR [Ad Qc]
+*** PRE-FLOP *** 
+5019.P folds
+_SKR raises 148 to 178 and is all-in
+Weakfish33 calls 148
+*** FLOP *** [4c 2s 9h]
+*** TURN *** [4c 2s 9h][Th]
+*** RIVER *** [4c 2s 9h Th][Td]
+*** SHOW DOWN ***
+_SKR shows [Ad Qc] (One pair : Tens)
+Weakfish33 shows [9c Ac] (Two pairs : Tens and 9)
+Weakfish33 collected 356 from pot
+*** SUMMARY ***
+Total pot 356 | No rake
+Board: [4c 2s 9h Th Td]
+Seat 1: _SKR (small blind) showed [Ad Qc] and lost with One pair : Tens
+Seat 2: Weakfish33 (big blind) showed [9c Ac] and won 356 with Two pairs : Tens and 9
+
+

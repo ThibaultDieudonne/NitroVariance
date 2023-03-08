@@ -1,0 +1,163 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690590873988628481-1-1674687087 - Holdem no limit (10/20) - 2023/01/25 22:51:27 UTC
+Table: 'Expresso Nitro(626452005)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Le Flan (300)
+Seat 2: _SKR (300)
+Seat 3: Maruecco-212 (300)
+*** ANTE/BLINDS ***
+Le Flan posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d Th]
+*** PRE-FLOP *** 
+Maruecco-212 calls 20
+Le Flan calls 10
+_SKR checks
+*** FLOP *** [4d Kc 3h]
+Le Flan checks
+_SKR checks
+Maruecco-212 checks
+*** TURN *** [4d Kc 3h][Tc]
+Le Flan checks
+_SKR checks
+Maruecco-212 bets 21
+Le Flan folds
+_SKR calls 21
+*** RIVER *** [4d Kc 3h Tc][Ah]
+_SKR checks
+Maruecco-212 bets 36
+_SKR calls 36
+*** SHOW DOWN ***
+Maruecco-212 shows [5s 3s] (One pair : 3)
+_SKR shows [5d Th] (One pair : Tens)
+_SKR collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | No rake
+Board: [4d Kc 3h Tc Ah]
+Seat 2: _SKR (big blind) showed [5d Th] and won 174 with One pair : Tens
+Seat 3: Maruecco-212 (button) showed [5s 3s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690590873988628481-2-1674687152 - Holdem no limit (15/30) - 2023/01/25 22:52:32 UTC
+Table: 'Expresso Nitro(626452005)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Le Flan (280)
+Seat 2: _SKR (397)
+Seat 3: Maruecco-212 (223)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Maruecco-212 posts big blind 30
+Dealt to _SKR [2h 5s]
+*** PRE-FLOP *** 
+Le Flan folds
+_SKR folds
+Maruecco-212 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Maruecco-212 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690590873988628481-3-1674687157 - Holdem no limit (15/30) - 2023/01/25 22:52:37 UTC
+Table: 'Expresso Nitro(626452005)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Le Flan (280)
+Seat 2: _SKR (382)
+Seat 3: Maruecco-212 (238)
+*** ANTE/BLINDS ***
+Maruecco-212 posts small blind 15
+Le Flan posts big blind 30
+Dealt to _SKR [Ah 7d]
+*** PRE-FLOP *** 
+_SKR raises 352 to 382 and is all-in
+Maruecco-212 folds
+Le Flan folds
+_SKR collected 427 from pot
+*** SUMMARY ***
+Total pot 427 | No rake
+Seat 2: _SKR (button) won 427
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690590873988628481-4-1674687165 - Holdem no limit (15/30) - 2023/01/25 22:52:45 UTC
+Table: 'Expresso Nitro(626452005)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Le Flan (250)
+Seat 2: _SKR (427)
+Seat 3: Maruecco-212 (223)
+*** ANTE/BLINDS ***
+Le Flan posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6d 7d]
+*** PRE-FLOP *** 
+Maruecco-212 folds
+Le Flan calls 15
+_SKR checks
+*** FLOP *** [Kh 2d 7s]
+Le Flan checks
+_SKR bets 30
+Le Flan calls 30
+*** TURN *** [Kh 2d 7s][Ad]
+Le Flan checks
+_SKR bets 60
+Le Flan calls 60
+*** RIVER *** [Kh 2d 7s Ad][Qh]
+Le Flan checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [6d 7d] (One pair : 7)
+Le Flan shows [Kd 4h] (One pair : Kings)
+Le Flan collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Kh 2d 7s Ad Qh]
+Seat 1: Le Flan (small blind) showed [Kd 4h] and won 240 with One pair : Kings
+Seat 2: _SKR (big blind) showed [6d 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690590873988628481-5-1674687214 - Holdem no limit (20/40) - 2023/01/25 22:53:34 UTC
+Table: 'Expresso Nitro(626452005)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Le Flan (370)
+Seat 2: _SKR (307)
+Seat 3: Maruecco-212 (223)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Maruecco-212 posts big blind 40
+Dealt to _SKR [3c 9s]
+*** PRE-FLOP *** 
+Le Flan calls 40
+_SKR folds
+Maruecco-212 checks
+*** FLOP *** [Kc 5h Td]
+Maruecco-212 checks
+Le Flan bets 40
+Maruecco-212 folds
+Le Flan collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Kc 5h Td]
+Seat 1: Le Flan (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690590873988628481-6-1674687231 - Holdem no limit (20/40) - 2023/01/25 22:53:51 UTC
+Table: 'Expresso Nitro(626452005)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Le Flan (430)
+Seat 2: _SKR (287)
+Seat 3: Maruecco-212 (183)
+*** ANTE/BLINDS ***
+Maruecco-212 posts small blind 20
+Le Flan posts big blind 40
+Dealt to _SKR [Ts Kh]
+*** PRE-FLOP *** 
+_SKR raises 247 to 287 and is all-in
+Maruecco-212 calls 163 and is all-in
+Le Flan calls 247
+*** FLOP *** [As 6h 3s]
+*** TURN *** [As 6h 3s][6c]
+*** RIVER *** [As 6h 3s 6c][Qs]
+*** SHOW DOWN ***
+_SKR shows [Ts Kh] (One pair : 6)
+Maruecco-212 shows [7d Tc] (One pair : 6)
+Le Flan shows [5h 5d] (Two pairs : 6 and 5)
+Le Flan collected 757 from pot
+*** SUMMARY ***
+Total pot 757 | No rake
+Board: [As 6h 3s 6c Qs]
+Seat 1: Le Flan (big blind) showed [5h 5d] and won 757 with Two pairs : 6 and 5
+Seat 2: _SKR (button) showed [Ts Kh] and lost with One pair : 6
+Seat 3: Maruecco-212 (small blind) showed [7d Tc] and lost with One pair : 6
+
+

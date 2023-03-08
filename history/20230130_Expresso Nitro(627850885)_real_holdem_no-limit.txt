@@ -1,0 +1,272 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696599017839656961-1-1675089156 - Holdem no limit (10/20) - 2023/01/30 14:32:36 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #1 is the button
+Seat 1: As_tro_nome (300)
+Seat 2: _SKR (300)
+Seat 3: Mazzi (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mazzi posts big blind 20
+Dealt to _SKR [Kd 8d]
+*** PRE-FLOP *** 
+As_tro_nome raises 20 to 40
+_SKR calls 30
+Mazzi calls 20
+*** FLOP *** [9s Jd 8h]
+_SKR checks
+Mazzi checks
+As_tro_nome bets 40
+_SKR calls 40
+Mazzi calls 40
+*** TURN *** [9s Jd 8h][5c]
+_SKR checks
+Mazzi checks
+As_tro_nome checks
+*** RIVER *** [9s Jd 8h 5c][4s]
+_SKR checks
+Mazzi checks
+As_tro_nome checks
+*** SHOW DOWN ***
+As_tro_nome shows [Qs Ad] (High card : Ace)
+Mazzi shows [Td 8s] (One pair : 8)
+_SKR shows [Kd 8d] (One pair : 8)
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9s Jd 8h 5c 4s]
+Seat 1: As_tro_nome (button) showed [Qs Ad] and lost with High card : Ace
+Seat 2: _SKR (small blind) showed [Kd 8d] and won 240 with One pair : 8
+Seat 3: Mazzi (big blind) showed [Td 8s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696599017839656961-2-1675089205 - Holdem no limit (10/20) - 2023/01/30 14:33:25 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #2 is the button
+Seat 1: As_tro_nome (220)
+Seat 2: _SKR (460)
+Seat 3: Mazzi (220)
+*** ANTE/BLINDS ***
+Mazzi posts small blind 10
+As_tro_nome posts big blind 20
+Dealt to _SKR [4c 9s]
+*** PRE-FLOP *** 
+_SKR folds
+Mazzi calls 10
+As_tro_nome checks
+*** FLOP *** [3s Ah Ac]
+Mazzi checks
+As_tro_nome bets 20
+Mazzi folds
+As_tro_nome collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3s Ah Ac]
+Seat 1: As_tro_nome (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696599017839656961-3-1675089231 - Holdem no limit (15/30) - 2023/01/30 14:33:51 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #3 is the button
+Seat 1: As_tro_nome (240)
+Seat 2: _SKR (460)
+Seat 3: Mazzi (200)
+*** ANTE/BLINDS ***
+As_tro_nome posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5d Jh]
+*** PRE-FLOP *** 
+Mazzi folds
+As_tro_nome raises 210 to 240 and is all-in
+_SKR folds
+As_tro_nome collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: As_tro_nome (small blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696599017839656961-4-1675089241 - Holdem no limit (15/30) - 2023/01/30 14:34:01 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #1 is the button
+Seat 1: As_tro_nome (270)
+Seat 2: _SKR (430)
+Seat 3: Mazzi (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mazzi posts big blind 30
+Dealt to _SKR [5c Ad]
+*** PRE-FLOP *** 
+As_tro_nome folds
+_SKR raises 400 to 430 and is all-in
+Mazzi folds
+_SKR collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 2: _SKR (small blind) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696599017839656961-5-1675089249 - Holdem no limit (15/30) - 2023/01/30 14:34:09 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #2 is the button
+Seat 1: As_tro_nome (270)
+Seat 2: _SKR (460)
+Seat 3: Mazzi (170)
+*** ANTE/BLINDS ***
+Mazzi posts small blind 15
+As_tro_nome posts big blind 30
+Dealt to _SKR [7c 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Mazzi raises 140 to 170 and is all-in
+As_tro_nome calls 140
+*** FLOP *** [Ac Qd 3h]
+*** TURN *** [Ac Qd 3h][5s]
+*** RIVER *** [Ac Qd 3h 5s][4d]
+*** SHOW DOWN ***
+As_tro_nome shows [8s Kd] (High card : Ace)
+Mazzi shows [Kc 8c] (High card : Ace)
+Mazzi collected 170 from pot
+As_tro_nome collected 170 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Ac Qd 3h 5s 4d]
+Seat 1: As_tro_nome (big blind) showed [8s Kd] and won 170 with High card : Ace
+Seat 3: Mazzi (small blind) showed [Kc 8c] and won 170 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696599017839656961-6-1675089270 - Holdem no limit (15/30) - 2023/01/30 14:34:30 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #3 is the button
+Seat 1: As_tro_nome (270)
+Seat 2: _SKR (460)
+Seat 3: Mazzi (170)
+*** ANTE/BLINDS ***
+As_tro_nome posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4h 5h]
+*** PRE-FLOP *** 
+Mazzi raises 140 to 170 and is all-in
+As_tro_nome folds
+_SKR folds
+Mazzi collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Seat 3: Mazzi (button) won 215
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696599017839656961-7-1675089282 - Holdem no limit (20/40) - 2023/01/30 14:34:42 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #1 is the button
+Seat 1: As_tro_nome (255)
+Seat 2: _SKR (430)
+Seat 3: Mazzi (215)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mazzi posts big blind 40
+Dealt to _SKR [7c 6s]
+*** PRE-FLOP *** 
+As_tro_nome folds
+_SKR folds
+Mazzi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Mazzi (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696599017839656961-8-1675089293 - Holdem no limit (20/40) - 2023/01/30 14:34:53 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #2 is the button
+Seat 1: As_tro_nome (255)
+Seat 2: _SKR (410)
+Seat 3: Mazzi (235)
+*** ANTE/BLINDS ***
+Mazzi posts small blind 20
+As_tro_nome posts big blind 40
+Dealt to _SKR [8h 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Mazzi calls 20
+As_tro_nome raises 215 to 255 and is all-in
+Mazzi folds
+As_tro_nome collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Seat 1: As_tro_nome (big blind) won 295
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696599017839656961-9-1675089307 - Holdem no limit (20/40) - 2023/01/30 14:35:07 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #3 is the button
+Seat 1: As_tro_nome (295)
+Seat 2: _SKR (410)
+Seat 3: Mazzi (195)
+*** ANTE/BLINDS ***
+As_tro_nome posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ts 4s]
+*** PRE-FLOP *** 
+Mazzi calls 40
+As_tro_nome folds
+_SKR checks
+*** FLOP *** [Ac 2h Jh]
+_SKR checks
+Mazzi checks
+*** TURN *** [Ac 2h Jh][Kd]
+_SKR checks
+Mazzi checks
+*** RIVER *** [Ac 2h Jh Kd][Ad]
+_SKR checks
+Mazzi checks
+*** SHOW DOWN ***
+_SKR shows [Ts 4s] (One pair : Aces)
+Mazzi shows [6c Jc] (Two pairs : Aces and Jacks)
+Mazzi collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ac 2h Jh Kd Ad]
+Seat 2: _SKR (big blind) showed [Ts 4s] and lost with One pair : Aces
+Seat 3: Mazzi (button) showed [6c Jc] and won 100 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696599017839656961-10-1675089348 - Holdem no limit (30/60) - 2023/01/30 14:35:48 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #1 is the button
+Seat 1: As_tro_nome (275)
+Seat 2: _SKR (370)
+Seat 3: Mazzi (255)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Mazzi posts big blind 60
+Dealt to _SKR [Td Qh]
+*** PRE-FLOP *** 
+As_tro_nome folds
+_SKR raises 310 to 370 and is all-in
+Mazzi calls 195 and is all-in
+*** FLOP *** [2h Kh 2c]
+*** TURN *** [2h Kh 2c][Js]
+*** RIVER *** [2h Kh 2c Js][9d]
+*** SHOW DOWN ***
+Mazzi shows [9h Ad] (Two pairs : 9 and 2)
+_SKR shows [Td Qh] (Straight King high)
+_SKR collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [2h Kh 2c Js 9d]
+Seat 2: _SKR (small blind) showed [Td Qh] and won 625 with Straight King high
+Seat 3: Mazzi (big blind) showed [9h Ad] and lost with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696599017839656961-11-1675089368 - Holdem no limit (30/60) - 2023/01/30 14:36:08 UTC
+Table: 'Expresso Nitro(627850885)#0' 3-max (real money) Seat #1 is the button
+Seat 1: As_tro_nome (275)
+Seat 2: _SKR (625)
+*** ANTE/BLINDS ***
+As_tro_nome posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ad 3h]
+*** PRE-FLOP *** 
+As_tro_nome raises 215 to 275 and is all-in
+_SKR raises 215 to 490
+*** FLOP *** [5d 5s 5h]
+*** TURN *** [5d 5s 5h][2c]
+*** RIVER *** [5d 5s 5h 2c][9d]
+*** SHOW DOWN ***
+As_tro_nome shows [Qh 4c] (Trips of 5)
+_SKR shows [Ad 3h] (Trips of 5)
+_SKR collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Board: [5d 5s 5h 2c 9d]
+Seat 1: As_tro_nome (small blind) (button) showed [Qh 4c] and lost with Trips of 5
+Seat 2: _SKR (big blind) showed [Ad 3h] and won 765 with Trips of 5
+
+

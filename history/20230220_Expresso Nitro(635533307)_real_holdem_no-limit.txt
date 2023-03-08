@@ -1,0 +1,117 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729594769083727873-1-1676921322 - Holdem no limit (10/20) - 2023/02/20 19:28:42 UTC
+Table: 'Expresso Nitro(635533307)#0' 3-max (real money) Seat #1 is the button
+Seat 1: titicapsou (300)
+Seat 2: _SKR (300)
+Seat 3: Zakariazak97 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Zakariazak97 posts big blind 20
+Dealt to _SKR [9d 7c]
+*** PRE-FLOP *** 
+titicapsou calls 20
+_SKR folds
+Zakariazak97 checks
+*** FLOP *** [3s 8s 8h]
+Zakariazak97 bets 20
+titicapsou calls 20
+*** TURN *** [3s 8s 8h][4s]
+Zakariazak97 bets 20
+titicapsou calls 20
+*** RIVER *** [3s 8s 8h 4s][5h]
+Zakariazak97 bets 20
+titicapsou calls 20
+*** SHOW DOWN ***
+titicapsou shows [Jd 7s] (One pair : 8)
+Zakariazak97 shows [3h Js] (Two pairs : 8 and 3)
+Zakariazak97 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [3s 8s 8h 4s 5h]
+Seat 1: titicapsou (button) showed [Jd 7s] and lost with One pair : 8
+Seat 3: Zakariazak97 (big blind) showed [3h Js] and won 170 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729594769083727873-2-1676921366 - Holdem no limit (10/20) - 2023/02/20 19:29:26 UTC
+Table: 'Expresso Nitro(635533307)#0' 3-max (real money) Seat #2 is the button
+Seat 1: titicapsou (220)
+Seat 2: _SKR (290)
+Seat 3: Zakariazak97 (390)
+*** ANTE/BLINDS ***
+Zakariazak97 posts small blind 10
+titicapsou posts big blind 20
+Dealt to _SKR [6c 6d]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Zakariazak97 folds
+titicapsou calls 200 and is all-in
+*** FLOP *** [Qd 4c Kc]
+*** TURN *** [Qd 4c Kc][As]
+*** RIVER *** [Qd 4c Kc As][Th]
+*** SHOW DOWN ***
+titicapsou shows [8s Ts] (One pair : Tens)
+_SKR shows [6c 6d] (One pair : 6)
+_SKR collected 70 from side pot 1
+titicapsou collected 450 from main pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Qd 4c Kc As Th]
+Seat 1: titicapsou (big blind) showed [8s Ts] and won 450 with One pair : Tens
+Seat 2: _SKR (button) showed [6c 6d] and won 70 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729594769083727873-3-1676921384 - Holdem no limit (15/30) - 2023/02/20 19:29:44 UTC
+Table: 'Expresso Nitro(635533307)#0' 3-max (real money) Seat #3 is the button
+Seat 1: titicapsou (450)
+Seat 2: _SKR (70)
+Seat 3: Zakariazak97 (380)
+*** ANTE/BLINDS ***
+titicapsou posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7h Qc]
+*** PRE-FLOP *** 
+Zakariazak97 raises 350 to 380 and is all-in
+titicapsou folds
+_SKR calls 40 and is all-in
+*** FLOP *** [5c 9d 9h]
+*** TURN *** [5c 9d 9h][7c]
+*** RIVER *** [5c 9d 9h 7c][Jd]
+*** SHOW DOWN ***
+_SKR shows [7h Qc] (Two pairs : 9 and 7)
+Zakariazak97 shows [Ah Kd] (One pair : 9)
+Zakariazak97 collected 310 from side pot 1
+_SKR collected 155 from main pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Board: [5c 9d 9h 7c Jd]
+Seat 2: _SKR (big blind) showed [7h Qc] and won 155 with Two pairs : 9 and 7
+Seat 3: Zakariazak97 (button) showed [Ah Kd] and won 310 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729594769083727873-4-1676921399 - Holdem no limit (15/30) - 2023/02/20 19:29:59 UTC
+Table: 'Expresso Nitro(635533307)#0' 3-max (real money) Seat #1 is the button
+Seat 1: titicapsou (435)
+Seat 2: _SKR (155)
+Seat 3: Zakariazak97 (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Zakariazak97 posts big blind 30
+Dealt to _SKR [Qh 8c]
+*** PRE-FLOP *** 
+titicapsou calls 30
+_SKR raises 125 to 155 and is all-in
+Zakariazak97 folds
+titicapsou raises 125 to 280
+*** FLOP *** [Ac 5h 7c]
+*** TURN *** [Ac 5h 7c][9c]
+*** RIVER *** [Ac 5h 7c 9c][9d]
+*** SHOW DOWN ***
+_SKR shows [Qh 8c] (One pair : 9)
+titicapsou shows [4d 4h] (Two pairs : 9 and 4)
+titicapsou collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Board: [Ac 5h 7c 9c 9d]
+Seat 1: titicapsou (button) showed [4d 4h] and won 465 with Two pairs : 9 and 4
+Seat 2: _SKR (small blind) showed [Qh 8c] and lost with One pair : 9
+
+

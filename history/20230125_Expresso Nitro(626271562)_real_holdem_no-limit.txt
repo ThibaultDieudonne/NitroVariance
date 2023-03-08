@@ -1,0 +1,30 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689815877204836353-1-1674653623 - Holdem no limit (10/20) - 2023/01/25 13:33:43 UTC
+Table: 'Expresso Nitro(626271562)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benjito83 (300)
+Seat 2: _SKR (300)
+Seat 3: MalagaBam (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MalagaBam posts big blind 20
+Dealt to _SKR [Ts As]
+*** PRE-FLOP *** 
+benjito83 calls 20
+_SKR raises 280 to 300 and is all-in
+MalagaBam calls 280 and is all-in
+benjito83 calls 280 and is all-in
+*** FLOP *** [3c 9s Qc]
+*** TURN *** [3c 9s Qc][Qs]
+*** RIVER *** [3c 9s Qc Qs][9h]
+*** SHOW DOWN ***
+benjito83 shows [Jh 6h] (Two pairs : Queens and 9)
+_SKR shows [Ts As] (Two pairs : Queens and 9)
+MalagaBam shows [9d Td] (Full of 9 and Queens)
+MalagaBam collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3c 9s Qc Qs 9h]
+Seat 1: benjito83 (button) showed [Jh 6h] and lost with Two pairs : Queens and 9
+Seat 2: _SKR (small blind) showed [Ts As] and lost with Two pairs : Queens and 9
+Seat 3: MalagaBam (big blind) showed [9d Td] and won 900 with Full of 9 and Queens
+
+

@@ -1,0 +1,86 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729141504005111809-1-1676902713 - Holdem no limit (10/20) - 2023/02/20 14:18:33 UTC
+Table: 'Expresso Nitro(635427773)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MattMurdock (300)
+Seat 2: cobra7300 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MattMurdock posts big blind 20
+Dealt to _SKR [Ts 9d]
+*** PRE-FLOP *** 
+cobra7300 calls 20
+_SKR folds
+MattMurdock checks
+*** FLOP *** [Ks 3d Tc]
+MattMurdock checks
+cobra7300 bets 20
+MattMurdock calls 20
+*** TURN *** [Ks 3d Tc][7s]
+MattMurdock checks
+cobra7300 checks
+*** RIVER *** [Ks 3d Tc 7s][4s]
+MattMurdock checks
+cobra7300 bets 31
+MattMurdock raises 229 to 260 and is all-in
+cobra7300 calls 229 and is all-in
+*** SHOW DOWN ***
+MattMurdock shows [4c Th] (Two pairs : Tens and 4)
+cobra7300 shows [9s 3s] (Flush King high)
+cobra7300 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Ks 3d Tc 7s 4s]
+Seat 1: MattMurdock (big blind) showed [4c Th] and lost with Two pairs : Tens and 4
+Seat 2: cobra7300 (button) showed [9s 3s] and won 610 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729141504005111809-2-1676902752 - Holdem no limit (10/20) - 2023/02/20 14:19:12 UTC
+Table: 'Expresso Nitro(635427773)#0' 3-max (real money) Seat #2 is the button
+Seat 2: cobra7300 (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+cobra7300 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 2s]
+*** PRE-FLOP *** 
+cobra7300 calls 10
+_SKR checks
+*** FLOP *** [Ts Kc 8h]
+_SKR checks
+cobra7300 bets 26
+_SKR folds
+cobra7300 collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Ts Kc 8h]
+Seat 2: cobra7300 (small blind) (button) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729141504005111809-3-1676902767 - Holdem no limit (10/20) - 2023/02/20 14:19:27 UTC
+Table: 'Expresso Nitro(635427773)#0' 3-max (real money) Seat #3 is the button
+Seat 2: cobra7300 (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+cobra7300 posts big blind 20
+Dealt to _SKR [Kd Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+cobra7300 calls 20
+*** FLOP *** [Jd Tc 4c]
+cobra7300 bets 80
+_SKR raises 150 to 230 and is all-in
+cobra7300 calls 150
+*** TURN *** [Jd Tc 4c][Jc]
+*** RIVER *** [Jd Tc 4c Jc][9c]
+*** SHOW DOWN ***
+_SKR shows [Kd Kh] (Two pairs : Kings and Jacks)
+cobra7300 shows [8c Ts] (Flush Jack high)
+cobra7300 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Jd Tc 4c Jc 9c]
+Seat 2: cobra7300 (big blind) showed [8c Ts] and won 540 with Flush Jack high
+Seat 3: _SKR (small blind) (button) showed [Kd Kh] and lost with Two pairs : Kings and Jacks
+
+

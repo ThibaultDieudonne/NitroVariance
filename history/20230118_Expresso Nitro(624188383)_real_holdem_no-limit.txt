@@ -1,0 +1,121 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680868691528122369-1-1674082652 - Holdem no limit (10/20) - 2023/01/18 22:57:32 UTC
+Table: 'Expresso Nitro(624188383)#0' 3-max (real money) Seat #2 is the button
+Seat 1: UnLucky..... (300)
+Seat 2: Nikotenuel (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+UnLucky..... posts big blind 20
+Dealt to _SKR [Ad Qh]
+*** PRE-FLOP *** 
+Nikotenuel calls 20
+_SKR raises 280 to 300 and is all-in
+UnLucky..... folds
+Nikotenuel folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680868691528122369-2-1674082666 - Holdem no limit (10/20) - 2023/01/18 22:57:46 UTC
+Table: 'Expresso Nitro(624188383)#0' 3-max (real money) Seat #3 is the button
+Seat 1: UnLucky..... (280)
+Seat 2: Nikotenuel (280)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+UnLucky..... posts small blind 10
+Nikotenuel posts big blind 20
+Dealt to _SKR [7s 7c]
+*** PRE-FLOP *** 
+_SKR raises 320 to 340 and is all-in
+UnLucky..... calls 270 and is all-in
+Nikotenuel folds
+*** FLOP *** [8h As 6s]
+*** TURN *** [8h As 6s][7d]
+*** RIVER *** [8h As 6s 7d][4c]
+*** SHOW DOWN ***
+UnLucky..... shows [Kd Qh] (High card : Ace)
+_SKR shows [7s 7c] (Trips of 7)
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [8h As 6s 7d 4c]
+Seat 1: UnLucky..... (small blind) showed [Kd Qh] and lost with High card : Ace
+Seat 3: _SKR (button) showed [7s 7c] and won 640 with Trips of 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680868691528122369-3-1674082686 - Holdem no limit (10/20) - 2023/01/18 22:58:06 UTC
+Table: 'Expresso Nitro(624188383)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Nikotenuel (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+Nikotenuel posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h Tc]
+*** PRE-FLOP *** 
+Nikotenuel folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680868691528122369-4-1674082690 - Holdem no limit (10/20) - 2023/01/18 22:58:10 UTC
+Table: 'Expresso Nitro(624188383)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Nikotenuel (250)
+Seat 3: _SKR (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Nikotenuel posts big blind 20
+Dealt to _SKR [7d 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Nikotenuel collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Nikotenuel (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680868691528122369-5-1674082699 - Holdem no limit (10/20) - 2023/01/18 22:58:19 UTC
+Table: 'Expresso Nitro(624188383)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Nikotenuel (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+Nikotenuel posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc 5d]
+*** PRE-FLOP *** 
+Nikotenuel raises 240 to 260 and is all-in
+_SKR folds
+Nikotenuel collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: Nikotenuel (small blind) (button) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680868691528122369-6-1674082707 - Holdem no limit (10/20) - 2023/01/18 22:58:27 UTC
+Table: 'Expresso Nitro(624188383)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Nikotenuel (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Nikotenuel posts big blind 20
+Dealt to _SKR [Kd Jc]
+*** PRE-FLOP *** 
+_SKR raises 600 to 620 and is all-in
+Nikotenuel calls 260 and is all-in
+*** FLOP *** [2h 9c Kh]
+*** TURN *** [2h 9c Kh][7d]
+*** RIVER *** [2h 9c Kh 7d][3d]
+*** SHOW DOWN ***
+Nikotenuel shows [5s Ks] (One pair : Kings)
+_SKR shows [Kd Jc] (One pair : Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2h 9c Kh 7d 3d]
+Seat 2: Nikotenuel (big blind) showed [5s Ks] and lost with One pair : Kings
+Seat 3: _SKR (small blind) (button) showed [Kd Jc] and won 900 with One pair : Kings
+
+

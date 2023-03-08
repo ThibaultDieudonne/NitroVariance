@@ -1,0 +1,183 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698105262870364161-1-1675180875 - Holdem no limit (10/20) - 2023/01/31 16:01:15 UTC
+Table: 'Expresso Nitro(628201585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LeDepaneur67 (300)
+Seat 2: ruben250617 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+ruben250617 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th Js]
+*** PRE-FLOP *** 
+LeDepaneur67 calls 20
+ruben250617 calls 10
+_SKR checks
+*** FLOP *** [9h Qs Jd]
+ruben250617 bets 20
+_SKR calls 20
+LeDepaneur67 folds
+*** TURN *** [9h Qs Jd][9c]
+ruben250617 checks
+_SKR checks
+*** RIVER *** [9h Qs Jd 9c][9s]
+ruben250617 checks
+_SKR bets 50
+ruben250617 folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [9h Qs Jd 9c 9s]
+Seat 3: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698105262870364161-2-1675180904 - Holdem no limit (10/20) - 2023/01/31 16:01:44 UTC
+Table: 'Expresso Nitro(628201585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LeDepaneur67 (280)
+Seat 2: ruben250617 (260)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LeDepaneur67 posts big blind 20
+Dealt to _SKR [Js 5h]
+*** PRE-FLOP *** 
+ruben250617 calls 20
+_SKR folds
+LeDepaneur67 checks
+*** FLOP *** [Jd 2d 7s]
+LeDepaneur67 bets 260 and is all-in
+ruben250617 calls 240 and is all-in
+*** TURN *** [Jd 2d 7s][Qs]
+*** RIVER *** [Jd 2d 7s Qs][9h]
+*** SHOW DOWN ***
+ruben250617 shows [8d 5d] (High card : Queen)
+LeDepaneur67 shows [4h Jh] (One pair : Jacks)
+LeDepaneur67 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Jd 2d 7s Qs 9h]
+Seat 1: LeDepaneur67 (big blind) showed [4h Jh] and won 550 with One pair : Jacks
+Seat 2: ruben250617 (button) showed [8d 5d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698105262870364161-3-1675180924 - Holdem no limit (10/20) - 2023/01/31 16:02:04 UTC
+Table: 'Expresso Nitro(628201585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LeDepaneur67 (550)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+LeDepaneur67 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c Jh]
+*** PRE-FLOP *** 
+LeDepaneur67 raises 40 to 60
+_SKR folds
+LeDepaneur67 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: LeDepaneur67 (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698105262870364161-4-1675180929 - Holdem no limit (10/20) - 2023/01/31 16:02:09 UTC
+Table: 'Expresso Nitro(628201585)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LeDepaneur67 (570)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LeDepaneur67 posts big blind 20
+Dealt to _SKR [9c 5d]
+*** PRE-FLOP *** 
+_SKR folds
+LeDepaneur67 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: LeDepaneur67 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698105262870364161-5-1675180937 - Holdem no limit (15/30) - 2023/01/31 16:02:17 UTC
+Table: 'Expresso Nitro(628201585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LeDepaneur67 (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+LeDepaneur67 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [As Ad]
+*** PRE-FLOP *** 
+LeDepaneur67 raises 550 to 580 and is all-in
+_SKR calls 290 and is all-in
+*** FLOP *** [Qc 8d Jh]
+*** TURN *** [Qc 8d Jh][2c]
+*** RIVER *** [Qc 8d Jh 2c][Kc]
+*** SHOW DOWN ***
+LeDepaneur67 shows [Ac 8h] (One pair : 8)
+_SKR shows [As Ad] (One pair : Aces)
+_SKR collected 640 from main pot
+LeDepaneur67 collected 260 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc 8d Jh 2c Kc]
+Seat 1: LeDepaneur67 (small blind) (button) showed [Ac 8h] and won 260 with One pair : 8
+Seat 3: _SKR (big blind) showed [As Ad] and won 640 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698105262870364161-6-1675180951 - Holdem no limit (15/30) - 2023/01/31 16:02:31 UTC
+Table: 'Expresso Nitro(628201585)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LeDepaneur67 (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LeDepaneur67 posts big blind 30
+Dealt to _SKR [7h Kc]
+*** PRE-FLOP *** 
+_SKR raises 610 to 640 and is all-in
+LeDepaneur67 folds
+_SKR collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 3: _SKR (small blind) (button) won 670
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698105262870364161-7-1675180961 - Holdem no limit (15/30) - 2023/01/31 16:02:41 UTC
+Table: 'Expresso Nitro(628201585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LeDepaneur67 (230)
+Seat 3: _SKR (670)
+*** ANTE/BLINDS ***
+LeDepaneur67 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9c 8s]
+*** PRE-FLOP *** 
+LeDepaneur67 calls 15
+_SKR checks
+*** FLOP *** [Kd 5h Jh]
+_SKR checks
+LeDepaneur67 bets 39
+_SKR folds
+LeDepaneur67 collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [Kd 5h Jh]
+Seat 1: LeDepaneur67 (small blind) (button) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698105262870364161-8-1675180975 - Holdem no limit (15/30) - 2023/01/31 16:02:55 UTC
+Table: 'Expresso Nitro(628201585)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LeDepaneur67 (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LeDepaneur67 posts big blind 30
+Dealt to _SKR [8s 8h]
+*** PRE-FLOP *** 
+_SKR raises 610 to 640 and is all-in
+LeDepaneur67 calls 230 and is all-in
+*** FLOP *** [6d Kh 9c]
+*** TURN *** [6d Kh 9c][4s]
+*** RIVER *** [6d Kh 9c 4s][7h]
+*** SHOW DOWN ***
+LeDepaneur67 shows [Qc 2c] (High card : King)
+_SKR shows [8s 8h] (One pair : 8)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d Kh 9c 4s 7h]
+Seat 1: LeDepaneur67 (big blind) showed [Qc 2c] and lost with High card : King
+Seat 3: _SKR (small blind) (button) showed [8s 8h] and won 900 with One pair : 8
+
+

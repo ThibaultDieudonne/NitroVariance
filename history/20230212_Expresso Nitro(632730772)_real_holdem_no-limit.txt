@@ -1,0 +1,84 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717557972912832513-1-1676226886 - Holdem no limit (10/20) - 2023/02/12 18:34:46 UTC
+Table: 'Expresso Nitro(632730772)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: mATeJAcKtic0 (300)
+Seat 3: Akatsuki_ (300)
+*** ANTE/BLINDS ***
+mATeJAcKtic0 posts small blind 10
+Akatsuki_ posts big blind 20
+Dealt to _SKR [9s 6c]
+*** PRE-FLOP *** 
+_SKR folds
+mATeJAcKtic0 calls 10
+Akatsuki_ raises 280 to 300 and is all-in
+mATeJAcKtic0 folds
+Akatsuki_ collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Akatsuki_ (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717557972912832513-2-1676226895 - Holdem no limit (10/20) - 2023/02/12 18:34:55 UTC
+Table: 'Expresso Nitro(632730772)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: mATeJAcKtic0 (280)
+Seat 3: Akatsuki_ (320)
+*** ANTE/BLINDS ***
+Akatsuki_ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d 2c]
+*** PRE-FLOP *** 
+mATeJAcKtic0 raises 260 to 280 and is all-in
+Akatsuki_ folds
+_SKR folds
+mATeJAcKtic0 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: mATeJAcKtic0 (button) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717557972912832513-3-1676226902 - Holdem no limit (10/20) - 2023/02/12 18:35:02 UTC
+Table: 'Expresso Nitro(632730772)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: mATeJAcKtic0 (310)
+Seat 3: Akatsuki_ (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+mATeJAcKtic0 posts big blind 20
+Dealt to _SKR [6d 7c]
+*** PRE-FLOP *** 
+Akatsuki_ folds
+_SKR folds
+mATeJAcKtic0 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: mATeJAcKtic0 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717557972912832513-4-1676226910 - Holdem no limit (10/20) - 2023/02/12 18:35:10 UTC
+Table: 'Expresso Nitro(632730772)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: mATeJAcKtic0 (320)
+Seat 3: Akatsuki_ (310)
+*** ANTE/BLINDS ***
+mATeJAcKtic0 posts small blind 10
+Akatsuki_ posts big blind 20
+Dealt to _SKR [Ac 6c]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+mATeJAcKtic0 raises 50 to 320 and is all-in
+Akatsuki_ folds
+*** FLOP *** [8d 5s 3h]
+*** TURN *** [8d 5s 3h][8h]
+*** RIVER *** [8d 5s 3h 8h][Jd]
+*** SHOW DOWN ***
+_SKR shows [Ac 6c] (One pair : 8)
+mATeJAcKtic0 shows [Kc Kd] (Two pairs : Kings and 8)
+mATeJAcKtic0 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [8d 5s 3h 8h Jd]
+Seat 1: _SKR (button) showed [Ac 6c] and lost with One pair : 8
+Seat 2: mATeJAcKtic0 (small blind) showed [Kc Kd] and won 610 with Two pairs : Kings and 8
+
+

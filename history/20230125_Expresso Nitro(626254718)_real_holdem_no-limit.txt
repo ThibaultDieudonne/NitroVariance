@@ -1,0 +1,114 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689743532775702529-1-1674649235 - Holdem no limit (10/20) - 2023/01/25 12:20:35 UTC
+Table: 'Expresso Nitro(626254718)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CcMss (300)
+Seat 2: _SKR (300)
+Seat 3: Arno___44 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Arno___44 posts big blind 20
+Dealt to _SKR [Jc Td]
+*** PRE-FLOP *** 
+CcMss folds
+_SKR raises 20 to 40
+Arno___44 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689743532775702529-2-1674649250 - Holdem no limit (10/20) - 2023/01/25 12:20:50 UTC
+Table: 'Expresso Nitro(626254718)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CcMss (300)
+Seat 2: _SKR (320)
+Seat 3: Arno___44 (280)
+*** ANTE/BLINDS ***
+Arno___44 posts small blind 10
+CcMss posts big blind 20
+Dealt to _SKR [Ah 5h]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Arno___44 calls 30
+CcMss calls 20
+*** FLOP *** [2d Kc Ks]
+Arno___44 checks
+CcMss checks
+_SKR checks
+*** TURN *** [2d Kc Ks][4h]
+Arno___44 checks
+CcMss checks
+_SKR checks
+*** RIVER *** [2d Kc Ks 4h][4c]
+Arno___44 checks
+CcMss checks
+_SKR checks
+*** SHOW DOWN ***
+CcMss shows [Qd 3d] (Two pairs : Kings and 4)
+Arno___44 shows [9c Qc] (Two pairs : Kings and 4)
+_SKR shows [Ah 5h] (Two pairs : Kings and 4)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2d Kc Ks 4h 4c]
+Seat 1: CcMss (big blind) showed [Qd 3d] and lost with Two pairs : Kings and 4
+Seat 2: _SKR (button) showed [Ah 5h] and won 120 with Two pairs : Kings and 4
+Seat 3: Arno___44 (small blind) showed [9c Qc] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689743532775702529-3-1674649286 - Holdem no limit (10/20) - 2023/01/25 12:21:26 UTC
+Table: 'Expresso Nitro(626254718)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CcMss (260)
+Seat 2: _SKR (400)
+Seat 3: Arno___44 (240)
+*** ANTE/BLINDS ***
+CcMss posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks As]
+*** PRE-FLOP *** 
+Arno___44 folds
+CcMss calls 10
+_SKR raises 30 to 50
+CcMss calls 30
+*** FLOP *** [9c Td Ac]
+CcMss checks
+_SKR bets 50
+CcMss raises 50 to 100
+_SKR raises 250 to 350 and is all-in
+CcMss folds
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [9c Td Ac]
+Seat 2: _SKR (big blind) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689743532775702529-4-1674649310 - Holdem no limit (15/30) - 2023/01/25 12:21:50 UTC
+Table: 'Expresso Nitro(626254718)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CcMss (110)
+Seat 2: _SKR (550)
+Seat 3: Arno___44 (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Arno___44 posts big blind 30
+Dealt to _SKR [Js Ac]
+*** PRE-FLOP *** 
+CcMss calls 30
+_SKR raises 520 to 550 and is all-in
+Arno___44 calls 210 and is all-in
+CcMss calls 80 and is all-in
+*** FLOP *** [9h 2h Tc]
+*** TURN *** [9h 2h Tc][8d]
+*** RIVER *** [9h 2h Tc 8d][Qc]
+*** SHOW DOWN ***
+CcMss shows [Ah Ad] (One pair : Aces)
+Arno___44 shows [4d 4c] (One pair : 4)
+_SKR shows [Js Ac] (Straight Queen high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9h 2h Tc 8d Qc]
+Seat 1: CcMss (button) showed [Ah Ad] and lost with One pair : Aces
+Seat 2: _SKR (small blind) showed [Js Ac] and won 900 with Straight Queen high
+Seat 3: Arno___44 (big blind) showed [4d 4c] and lost with One pair : 4
+
+

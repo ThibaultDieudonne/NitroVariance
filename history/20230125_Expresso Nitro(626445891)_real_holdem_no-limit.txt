@@ -1,0 +1,327 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690564614558580737-1-1674686087 - Holdem no limit (10/20) - 2023/01/25 22:34:47 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #3 is the button
+Seat 1: yoan1202 (300)
+Seat 2: _SKR (300)
+Seat 3: benze69 (300)
+*** ANTE/BLINDS ***
+yoan1202 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5h 6h]
+*** PRE-FLOP *** 
+benze69 raises 280 to 300 and is all-in
+yoan1202 folds
+_SKR folds
+benze69 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: benze69 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690564614558580737-2-1674686097 - Holdem no limit (10/20) - 2023/01/25 22:34:57 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #1 is the button
+Seat 1: yoan1202 (290)
+Seat 2: _SKR (280)
+Seat 3: benze69 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+benze69 posts big blind 20
+Dealt to _SKR [Th 4d]
+*** PRE-FLOP *** 
+yoan1202 calls 20
+_SKR folds
+benze69 checks
+*** FLOP *** [9h Tc 9d]
+benze69 checks
+yoan1202 checks
+*** TURN *** [9h Tc 9d][2h]
+benze69 checks
+yoan1202 checks
+*** RIVER *** [9h Tc 9d 2h][5h]
+benze69 bets 33
+yoan1202 folds
+benze69 collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [9h Tc 9d 2h 5h]
+Seat 3: benze69 (big blind) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690564614558580737-3-1674686116 - Holdem no limit (10/20) - 2023/01/25 22:35:16 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #2 is the button
+Seat 1: yoan1202 (270)
+Seat 2: _SKR (270)
+Seat 3: benze69 (360)
+*** ANTE/BLINDS ***
+benze69 posts small blind 10
+yoan1202 posts big blind 20
+Dealt to _SKR [Jc Qs]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+benze69 calls 30
+yoan1202 calls 20
+*** FLOP *** [8d 5c 2s]
+benze69 checks
+yoan1202 checks
+_SKR checks
+*** TURN *** [8d 5c 2s][3h]
+benze69 checks
+yoan1202 checks
+_SKR checks
+*** RIVER *** [8d 5c 2s 3h][9s]
+benze69 bets 42
+yoan1202 folds
+_SKR folds
+benze69 collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [8d 5c 2s 3h 9s]
+Seat 3: benze69 (small blind) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690564614558580737-4-1674686157 - Holdem no limit (15/30) - 2023/01/25 22:35:57 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #3 is the button
+Seat 1: yoan1202 (230)
+Seat 2: _SKR (230)
+Seat 3: benze69 (440)
+*** ANTE/BLINDS ***
+yoan1202 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qd Jh]
+*** PRE-FLOP *** 
+benze69 folds
+yoan1202 raises 60 to 90
+_SKR calls 60
+*** FLOP *** [2d Kh Tc]
+yoan1202 bets 140 and is all-in
+_SKR calls 140 and is all-in
+*** TURN *** [2d Kh Tc][7c]
+*** RIVER *** [2d Kh Tc 7c][Ah]
+*** SHOW DOWN ***
+yoan1202 shows [Jd Ad] (One pair : Aces)
+_SKR shows [Qd Jh] (Straight Ace high)
+_SKR collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [2d Kh Tc 7c Ah]
+Seat 1: yoan1202 (small blind) showed [Jd Ad] and lost with One pair : Aces
+Seat 2: _SKR (big blind) showed [Qd Jh] and won 460 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690564614558580737-5-1674686186 - Holdem no limit (15/30) - 2023/01/25 22:36:26 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (460)
+Seat 3: benze69 (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+benze69 posts big blind 30
+Dealt to _SKR [8s Th]
+*** PRE-FLOP *** 
+_SKR calls 15
+benze69 checks
+*** FLOP *** [2c Jc Jd]
+benze69 checks
+_SKR checks
+*** TURN *** [2c Jc Jd][8d]
+benze69 checks
+_SKR bets 30
+benze69 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [2c Jc Jd 8d]
+Seat 2: _SKR (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690564614558580737-6-1674686213 - Holdem no limit (20/40) - 2023/01/25 22:36:53 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (490)
+Seat 3: benze69 (410)
+*** ANTE/BLINDS ***
+benze69 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2s Jc]
+*** PRE-FLOP *** 
+benze69 raises 40 to 80
+_SKR folds
+benze69 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: benze69 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690564614558580737-7-1674686224 - Holdem no limit (20/40) - 2023/01/25 22:37:04 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (450)
+Seat 3: benze69 (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+benze69 posts big blind 40
+Dealt to _SKR [3d 9d]
+*** PRE-FLOP *** 
+_SKR folds
+benze69 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: benze69 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690564614558580737-8-1674686228 - Holdem no limit (20/40) - 2023/01/25 22:37:08 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (430)
+Seat 3: benze69 (470)
+*** ANTE/BLINDS ***
+benze69 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7d 2d]
+*** PRE-FLOP *** 
+benze69 calls 20
+_SKR checks
+*** FLOP *** [7s 5d 5s]
+_SKR checks
+benze69 checks
+*** TURN *** [7s 5d 5s][Qh]
+_SKR bets 40
+benze69 calls 40
+*** RIVER *** [7s 5d 5s Qh][3h]
+_SKR checks
+benze69 bets 104
+_SKR folds
+benze69 collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Board: [7s 5d 5s Qh 3h]
+Seat 3: benze69 (small blind) (button) won 264
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690564614558580737-9-1674686262 - Holdem no limit (30/60) - 2023/01/25 22:37:42 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (350)
+Seat 3: benze69 (550)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+benze69 posts big blind 60
+Dealt to _SKR [6c 5h]
+*** PRE-FLOP *** 
+_SKR folds
+benze69 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: benze69 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690564614558580737-10-1674686272 - Holdem no limit (30/60) - 2023/01/25 22:37:52 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (320)
+Seat 3: benze69 (580)
+*** ANTE/BLINDS ***
+benze69 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Js 8h]
+*** PRE-FLOP *** 
+benze69 calls 30
+_SKR raises 260 to 320 and is all-in
+benze69 folds
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 2: _SKR (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690564614558580737-11-1674686283 - Holdem no limit (30/60) - 2023/01/25 22:38:03 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (380)
+Seat 3: benze69 (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+benze69 posts big blind 60
+Dealt to _SKR [5c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+benze69 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: benze69 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690564614558580737-12-1674686291 - Holdem no limit (30/60) - 2023/01/25 22:38:11 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (350)
+Seat 3: benze69 (550)
+*** ANTE/BLINDS ***
+benze69 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7h 5s]
+*** PRE-FLOP *** 
+benze69 calls 30
+_SKR checks
+*** FLOP *** [4h Qs 3h]
+_SKR checks
+benze69 bets 120
+_SKR folds
+benze69 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [4h Qs 3h]
+Seat 3: benze69 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2690564614558580737-13-1674686324 - Holdem no limit (40/80) - 2023/01/25 22:38:44 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (290)
+Seat 3: benze69 (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+benze69 posts big blind 80
+Dealt to _SKR [6d Kd]
+*** PRE-FLOP *** 
+_SKR raises 210 to 290 and is all-in
+benze69 folds
+_SKR collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 2: _SKR (small blind) (button) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2690564614558580737-14-1674686341 - Holdem no limit (40/80) - 2023/01/25 22:39:01 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (370)
+Seat 3: benze69 (530)
+*** ANTE/BLINDS ***
+benze69 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Kh Td]
+*** PRE-FLOP *** 
+benze69 calls 40
+_SKR raises 290 to 370 and is all-in
+benze69 folds
+_SKR collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 2: _SKR (big blind) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2690564614558580737-15-1674686352 - Holdem no limit (40/80) - 2023/01/25 22:39:12 UTC
+Table: 'Expresso Nitro(626445891)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (450)
+Seat 3: benze69 (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+benze69 posts big blind 80
+Dealt to _SKR [Td Th]
+*** PRE-FLOP *** 
+_SKR raises 370 to 450 and is all-in
+benze69 calls 370 and is all-in
+*** FLOP *** [Tc 2s Ts]
+*** TURN *** [Tc 2s Ts][3s]
+*** RIVER *** [Tc 2s Ts 3s][3c]
+*** SHOW DOWN ***
+benze69 shows [8s Ks] (Flush King high)
+_SKR shows [Td Th] (Quads of Tens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 2s Ts 3s 3c]
+Seat 2: _SKR (small blind) (button) showed [Td Th] and won 900 with Quads of Tens
+Seat 3: benze69 (big blind) showed [8s Ks] and lost with Flush King high
+
+

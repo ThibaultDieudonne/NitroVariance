@@ -1,0 +1,319 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675033304146640897-1-1673740993 - Holdem no limit (10/20) - 2023/01/15 00:03:13 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 1NTU1T1ON (300)
+Seat 2: AKwet31 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+1NTU1T1ON posts big blind 20
+Dealt to _SKR [Kc As]
+*** PRE-FLOP *** 
+AKwet31 calls 20
+_SKR raises 280 to 300 and is all-in
+1NTU1T1ON folds
+AKwet31 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675033304146640897-2-1673741007 - Holdem no limit (10/20) - 2023/01/15 00:03:27 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 1NTU1T1ON (280)
+Seat 2: AKwet31 (280)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+1NTU1T1ON posts small blind 10
+AKwet31 posts big blind 20
+Dealt to _SKR [9d 3h]
+*** PRE-FLOP *** 
+_SKR folds
+1NTU1T1ON calls 10
+AKwet31 checks
+*** FLOP *** [Ah Js Ts]
+1NTU1T1ON bets 20
+AKwet31 calls 20
+*** TURN *** [Ah Js Ts][5s]
+1NTU1T1ON checks
+AKwet31 checks
+*** RIVER *** [Ah Js Ts 5s][Jc]
+1NTU1T1ON checks
+AKwet31 bets 80
+1NTU1T1ON folds
+AKwet31 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ah Js Ts 5s Jc]
+Seat 2: AKwet31 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675033304146640897-3-1673741046 - Holdem no limit (10/20) - 2023/01/15 00:04:06 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 1NTU1T1ON (240)
+Seat 2: AKwet31 (320)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+AKwet31 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 2h]
+*** PRE-FLOP *** 
+1NTU1T1ON folds
+AKwet31 calls 10
+_SKR checks
+*** FLOP *** [2d 7s 9c]
+AKwet31 checks
+_SKR checks
+*** TURN *** [2d 7s 9c][8c]
+AKwet31 bets 20
+_SKR calls 20
+*** RIVER *** [2d 7s 9c 8c][Qc]
+AKwet31 bets 28
+_SKR calls 28
+*** SHOW DOWN ***
+AKwet31 shows [Ad Qh] (One pair : Queens)
+_SKR shows [9d 2h] (Two pairs : 9 and 2)
+_SKR collected 136 from pot
+*** SUMMARY ***
+Total pot 136 | No rake
+Board: [2d 7s 9c 8c Qc]
+Seat 2: AKwet31 (small blind) showed [Ad Qh] and lost with One pair : Queens
+Seat 3: _SKR (big blind) showed [9d 2h] and won 136 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675033304146640897-4-1673741102 - Holdem no limit (15/30) - 2023/01/15 00:05:02 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 1NTU1T1ON (240)
+Seat 2: AKwet31 (252)
+Seat 3: _SKR (408)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+1NTU1T1ON posts big blind 30
+Dealt to _SKR [Js 2s]
+*** PRE-FLOP *** 
+AKwet31 calls 30
+_SKR folds
+1NTU1T1ON checks
+*** FLOP *** [Ad Qs 6s]
+1NTU1T1ON checks
+AKwet31 bets 49
+1NTU1T1ON raises 161 to 210 and is all-in
+AKwet31 calls 161
+*** TURN *** [Ad Qs 6s][7h]
+*** RIVER *** [Ad Qs 6s 7h][Jh]
+*** SHOW DOWN ***
+1NTU1T1ON shows [8d Qh] (One pair : Queens)
+AKwet31 shows [Qd 8h] (One pair : Queens)
+AKwet31 collected 248 from pot
+1NTU1T1ON collected 247 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [Ad Qs 6s 7h Jh]
+Seat 1: 1NTU1T1ON (big blind) showed [8d Qh] and won 247 with One pair : Queens
+Seat 2: AKwet31 (button) showed [Qd 8h] and won 248 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675033304146640897-5-1673741131 - Holdem no limit (20/40) - 2023/01/15 00:05:31 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 1NTU1T1ON (247)
+Seat 2: AKwet31 (260)
+Seat 3: _SKR (393)
+*** ANTE/BLINDS ***
+1NTU1T1ON posts small blind 20
+AKwet31 posts big blind 40
+Dealt to _SKR [3s 6c]
+*** PRE-FLOP *** 
+_SKR folds
+1NTU1T1ON raises 207 to 247 and is all-in
+AKwet31 folds
+1NTU1T1ON collected 287 from pot
+*** SUMMARY ***
+Total pot 287 | No rake
+Seat 1: 1NTU1T1ON (small blind) won 287
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675033304146640897-6-1673741145 - Holdem no limit (20/40) - 2023/01/15 00:05:45 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 1NTU1T1ON (287)
+Seat 2: AKwet31 (220)
+Seat 3: _SKR (393)
+*** ANTE/BLINDS ***
+AKwet31 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8d As]
+*** PRE-FLOP *** 
+1NTU1T1ON folds
+AKwet31 calls 20
+_SKR raises 353 to 393 and is all-in
+AKwet31 folds
+_SKR collected 433 from pot
+*** SUMMARY ***
+Total pot 433 | No rake
+Seat 3: _SKR (big blind) won 433
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675033304146640897-7-1673741162 - Holdem no limit (20/40) - 2023/01/15 00:06:02 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 1NTU1T1ON (287)
+Seat 2: AKwet31 (180)
+Seat 3: _SKR (433)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+1NTU1T1ON posts big blind 40
+Dealt to _SKR [3s Qh]
+*** PRE-FLOP *** 
+AKwet31 folds
+_SKR folds
+1NTU1T1ON collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: 1NTU1T1ON (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675033304146640897-8-1673741169 - Holdem no limit (20/40) - 2023/01/15 00:06:09 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 1NTU1T1ON (307)
+Seat 2: AKwet31 (180)
+Seat 3: _SKR (413)
+*** ANTE/BLINDS ***
+1NTU1T1ON posts small blind 20
+AKwet31 posts big blind 40
+Dealt to _SKR [Jc Jh]
+*** PRE-FLOP *** 
+_SKR raises 373 to 413 and is all-in
+1NTU1T1ON folds
+AKwet31 folds
+_SKR collected 473 from pot
+*** SUMMARY ***
+Total pot 473 | No rake
+Seat 3: _SKR (button) won 473
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675033304146640897-9-1673741177 - Holdem no limit (30/60) - 2023/01/15 00:06:17 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 1NTU1T1ON (287)
+Seat 2: AKwet31 (140)
+Seat 3: _SKR (473)
+*** ANTE/BLINDS ***
+AKwet31 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jh 3d]
+*** PRE-FLOP *** 
+1NTU1T1ON folds
+AKwet31 raises 80 to 140 and is all-in
+_SKR calls 80
+*** FLOP *** [Ac 9h Qd]
+*** TURN *** [Ac 9h Qd][4c]
+*** RIVER *** [Ac 9h Qd 4c][8s]
+*** SHOW DOWN ***
+_SKR shows [Jh 3d] (High card : Ace)
+AKwet31 shows [Kd 7h] (High card : Ace)
+AKwet31 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Ac 9h Qd 4c 8s]
+Seat 2: AKwet31 (small blind) showed [Kd 7h] and won 280 with High card : Ace
+Seat 3: _SKR (big blind) showed [Jh 3d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675033304146640897-10-1673741202 - Holdem no limit (30/60) - 2023/01/15 00:06:42 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 1NTU1T1ON (287)
+Seat 2: AKwet31 (280)
+Seat 3: _SKR (333)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+1NTU1T1ON posts big blind 60
+Dealt to _SKR [Js 8h]
+*** PRE-FLOP *** 
+AKwet31 folds
+_SKR raises 273 to 333 and is all-in
+1NTU1T1ON calls 227 and is all-in
+*** FLOP *** [Jc 3s 6s]
+*** TURN *** [Jc 3s 6s][3d]
+*** RIVER *** [Jc 3s 6s 3d][7h]
+*** SHOW DOWN ***
+1NTU1T1ON shows [Kh Ts] (One pair : 3)
+_SKR shows [Js 8h] (Two pairs : Jacks and 3)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Jc 3s 6s 3d 7h]
+Seat 1: 1NTU1T1ON (big blind) showed [Kh Ts] and lost with One pair : 3
+Seat 3: _SKR (small blind) showed [Js 8h] and won 620 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675033304146640897-11-1673741218 - Holdem no limit (30/60) - 2023/01/15 00:06:58 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #2 is the button
+Seat 2: AKwet31 (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+AKwet31 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kh 8s]
+*** PRE-FLOP *** 
+AKwet31 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675033304146640897-12-1673741222 - Holdem no limit (30/60) - 2023/01/15 00:07:02 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #3 is the button
+Seat 2: AKwet31 (250)
+Seat 3: _SKR (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+AKwet31 posts big blind 60
+Dealt to _SKR [8h Ad]
+*** PRE-FLOP *** 
+_SKR raises 590 to 650 and is all-in
+AKwet31 folds
+_SKR collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Seat 3: _SKR (small blind) (button) won 710
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2675033304146640897-13-1673741229 - Holdem no limit (40/80) - 2023/01/15 00:07:09 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #2 is the button
+Seat 2: AKwet31 (190)
+Seat 3: _SKR (710)
+*** ANTE/BLINDS ***
+AKwet31 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Ks 2d]
+*** PRE-FLOP *** 
+AKwet31 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2675033304146640897-14-1673741232 - Holdem no limit (40/80) - 2023/01/15 00:07:12 UTC
+Table: 'Expresso Nitro(622829726)#0' 3-max (real money) Seat #3 is the button
+Seat 2: AKwet31 (150)
+Seat 3: _SKR (750)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+AKwet31 posts big blind 80
+Dealt to _SKR [Jd As]
+*** PRE-FLOP *** 
+_SKR raises 670 to 750 and is all-in
+AKwet31 calls 70 and is all-in
+*** FLOP *** [Qh 4c 9c]
+*** TURN *** [Qh 4c 9c][Qd]
+*** RIVER *** [Qh 4c 9c Qd][Kh]
+*** SHOW DOWN ***
+AKwet31 shows [Jc 2h] (One pair : Queens)
+_SKR shows [Jd As] (One pair : Queens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qh 4c 9c Qd Kh]
+Seat 2: AKwet31 (big blind) showed [Jc 2h] and lost with One pair : Queens
+Seat 3: _SKR (small blind) (button) showed [Jd As] and won 900 with One pair : Queens
+
+

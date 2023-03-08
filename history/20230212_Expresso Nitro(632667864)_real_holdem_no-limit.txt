@@ -1,0 +1,304 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717287785110175745-1-1676215833 - Holdem no limit (10/20) - 2023/02/12 15:30:33 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Osauveur (300)
+Seat 2: _SKR (300)
+Seat 3: efsane63 (300)
+*** ANTE/BLINDS ***
+Osauveur posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d Qh]
+*** PRE-FLOP *** 
+efsane63 calls 20
+Osauveur calls 10
+_SKR checks
+*** FLOP *** [Ah 8s 8c]
+Osauveur checks
+_SKR checks
+efsane63 checks
+*** TURN *** [Ah 8s 8c][Kd]
+Osauveur bets 39
+_SKR folds
+efsane63 folds
+Osauveur collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [Ah 8s 8c Kd]
+Seat 1: Osauveur (small blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717287785110175745-2-1676215886 - Holdem no limit (10/20) - 2023/02/12 15:31:26 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Osauveur (340)
+Seat 2: _SKR (280)
+Seat 3: efsane63 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+efsane63 posts big blind 20
+Dealt to _SKR [2h 6h]
+*** PRE-FLOP *** 
+Osauveur folds
+_SKR folds
+efsane63 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: efsane63 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717287785110175745-3-1676215892 - Holdem no limit (15/30) - 2023/02/12 15:31:32 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Osauveur (340)
+Seat 2: _SKR (270)
+Seat 3: efsane63 (290)
+*** ANTE/BLINDS ***
+efsane63 posts small blind 15
+Osauveur posts big blind 30
+Dealt to _SKR [4c 9d]
+*** PRE-FLOP *** 
+_SKR folds
+efsane63 folds
+Osauveur collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Osauveur (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717287785110175745-4-1676215898 - Holdem no limit (15/30) - 2023/02/12 15:31:38 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Osauveur (355)
+Seat 2: _SKR (270)
+Seat 3: efsane63 (275)
+*** ANTE/BLINDS ***
+Osauveur posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2d 6s]
+*** PRE-FLOP *** 
+efsane63 raises 30 to 60
+Osauveur raises 150 to 210
+_SKR folds
+efsane63 calls 150
+*** FLOP *** [7c Th 5s]
+Osauveur bets 30
+efsane63 calls 30
+*** TURN *** [7c Th 5s][2s]
+Osauveur bets 30
+efsane63 calls 30
+*** RIVER *** [7c Th 5s 2s][4c]
+Osauveur bets 30
+efsane63 calls 5 and is all-in
+*** SHOW DOWN ***
+Osauveur shows [8s 9d] (High card : Ten)
+efsane63 shows [Jh 4h] (One pair : 4)
+efsane63 collected 580 from main pot
+Osauveur collected 25 from side pot 1
+*** SUMMARY ***
+Total pot 605 | No rake
+Board: [7c Th 5s 2s 4c]
+Seat 1: Osauveur (small blind) showed [8s 9d] and won 25 with High card : Ten
+Seat 3: efsane63 (button) showed [Jh 4h] and won 580 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717287785110175745-5-1676215926 - Holdem no limit (15/30) - 2023/02/12 15:32:06 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Osauveur (80)
+Seat 2: _SKR (240)
+Seat 3: efsane63 (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+efsane63 posts big blind 30
+Dealt to _SKR [Ac 7s]
+*** PRE-FLOP *** 
+Osauveur raises 50 to 80 and is all-in
+_SKR raises 160 to 240 and is all-in
+efsane63 folds
+*** FLOP *** [9d Jc Qc]
+*** TURN *** [9d Jc Qc][9c]
+*** RIVER *** [9d Jc Qc 9c][Kh]
+*** SHOW DOWN ***
+Osauveur shows [Kd 7h] (Two pairs : Kings and 9)
+_SKR shows [Ac 7s] (One pair : 9)
+_SKR collected 160 from side pot 1
+Osauveur collected 190 from main pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [9d Jc Qc 9c Kh]
+Seat 1: Osauveur (button) showed [Kd 7h] and won 190 with Two pairs : Kings and 9
+Seat 2: _SKR (small blind) showed [Ac 7s] and won 160 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717287785110175745-6-1676215942 - Holdem no limit (15/30) - 2023/02/12 15:32:22 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Osauveur (190)
+Seat 2: _SKR (160)
+Seat 3: efsane63 (550)
+*** ANTE/BLINDS ***
+efsane63 posts small blind 15
+Osauveur posts big blind 30
+Dealt to _SKR [Jc 4s]
+*** PRE-FLOP *** 
+_SKR folds
+efsane63 raises 520 to 550 and is all-in
+Osauveur calls 160 and is all-in
+*** FLOP *** [8c 3h 3c]
+*** TURN *** [8c 3h 3c][3s]
+*** RIVER *** [8c 3h 3c 3s][Th]
+*** SHOW DOWN ***
+Osauveur shows [3d 6d] (Quads of 3)
+efsane63 shows [8s Qh] (Full of 3 and 8)
+efsane63 collected 360 from side pot 1
+Osauveur collected 380 from main pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [8c 3h 3c 3s Th]
+Seat 1: Osauveur (big blind) showed [3d 6d] and won 380 with Quads of 3
+Seat 3: efsane63 (small blind) showed [8s Qh] and won 360 with Full of 3 and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717287785110175745-7-1676215957 - Holdem no limit (20/40) - 2023/02/12 15:32:37 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Osauveur (380)
+Seat 2: _SKR (160)
+Seat 3: efsane63 (360)
+*** ANTE/BLINDS ***
+Osauveur posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Td Qc]
+*** PRE-FLOP *** 
+efsane63 folds
+Osauveur folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717287785110175745-8-1676215961 - Holdem no limit (20/40) - 2023/02/12 15:32:41 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Osauveur (360)
+Seat 2: _SKR (180)
+Seat 3: efsane63 (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+efsane63 posts big blind 40
+Dealt to _SKR [4h 5c]
+*** PRE-FLOP *** 
+Osauveur folds
+_SKR folds
+efsane63 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: efsane63 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717287785110175745-9-1676215967 - Holdem no limit (20/40) - 2023/02/12 15:32:47 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Osauveur (360)
+Seat 2: _SKR (160)
+Seat 3: efsane63 (380)
+*** ANTE/BLINDS ***
+efsane63 posts small blind 20
+Osauveur posts big blind 40
+Dealt to _SKR [6c 9h]
+*** PRE-FLOP *** 
+_SKR folds
+efsane63 folds
+Osauveur collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Osauveur (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717287785110175745-10-1676215974 - Holdem no limit (20/40) - 2023/02/12 15:32:54 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Osauveur (380)
+Seat 2: _SKR (160)
+Seat 3: efsane63 (360)
+*** ANTE/BLINDS ***
+Osauveur posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9s 5s]
+*** PRE-FLOP *** 
+efsane63 folds
+Osauveur raises 340 to 380 and is all-in
+_SKR folds
+Osauveur collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 1: Osauveur (small blind) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717287785110175745-11-1676215982 - Holdem no limit (20/40) - 2023/02/12 15:33:02 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Osauveur (420)
+Seat 2: _SKR (120)
+Seat 3: efsane63 (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+efsane63 posts big blind 40
+Dealt to _SKR [4s 8c]
+*** PRE-FLOP *** 
+Osauveur raises 380 to 420 and is all-in
+_SKR folds
+efsane63 folds
+Osauveur collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 1: Osauveur (button) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717287785110175745-12-1676215993 - Holdem no limit (20/40) - 2023/02/12 15:33:13 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Osauveur (480)
+Seat 2: _SKR (100)
+Seat 3: efsane63 (320)
+*** ANTE/BLINDS ***
+efsane63 posts small blind 20
+Osauveur posts big blind 40
+Dealt to _SKR [Qd 5h]
+*** PRE-FLOP *** 
+_SKR folds
+efsane63 raises 280 to 320 and is all-in
+Osauveur calls 280
+*** FLOP *** [2d 6h 4s]
+*** TURN *** [2d 6h 4s][Jc]
+*** RIVER *** [2d 6h 4s Jc][Jd]
+*** SHOW DOWN ***
+Osauveur shows [3h Ah] (One pair : Jacks)
+efsane63 shows [As 8c] (One pair : Jacks)
+efsane63 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [2d 6h 4s Jc Jd]
+Seat 1: Osauveur (big blind) showed [3h Ah] and lost with One pair : Jacks
+Seat 3: efsane63 (small blind) showed [As 8c] and won 640 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717287785110175745-13-1676216022 - Holdem no limit (30/60) - 2023/02/12 15:33:42 UTC
+Table: 'Expresso Nitro(632667864)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Osauveur (160)
+Seat 2: _SKR (100)
+Seat 3: efsane63 (640)
+*** ANTE/BLINDS ***
+Osauveur posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5c Qd]
+*** PRE-FLOP *** 
+efsane63 raises 580 to 640 and is all-in
+Osauveur calls 130 and is all-in
+_SKR calls 40 and is all-in
+*** FLOP *** [8h Tc Ts]
+*** TURN *** [8h Tc Ts][7d]
+*** RIVER *** [8h Tc Ts 7d][2d]
+*** SHOW DOWN ***
+_SKR shows [5c Qd] (One pair : Tens)
+Osauveur shows [Th Jd] (Trips of Tens)
+efsane63 shows [Qs 9h] (One pair : Tens)
+efsane63 collected 480 from side pot 1
+Osauveur collected 420 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h Tc Ts 7d 2d]
+Seat 1: Osauveur (small blind) showed [Th Jd] and won 420 with Trips of Tens
+Seat 2: _SKR (big blind) showed [5c Qd] and lost with One pair : Tens
+Seat 3: efsane63 (button) showed [Qs 9h] and won 480 with One pair : Tens
+
+

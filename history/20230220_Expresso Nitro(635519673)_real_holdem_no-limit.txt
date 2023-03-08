@@ -1,0 +1,292 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729536211499614209-1-1676919545 - Holdem no limit (10/20) - 2023/02/20 18:59:05 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bennnnzbenz (300)
+Seat 2: _SKR (300)
+Seat 3: SO EBE (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+SO EBE posts big blind 20
+Dealt to _SKR [7h 3s]
+*** PRE-FLOP *** 
+Bennnnzbenz folds
+_SKR folds
+SO EBE collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: SO EBE (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729536211499614209-2-1676919556 - Holdem no limit (10/20) - 2023/02/20 18:59:16 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bennnnzbenz (300)
+Seat 2: _SKR (290)
+Seat 3: SO EBE (310)
+*** ANTE/BLINDS ***
+SO EBE posts small blind 10
+Bennnnzbenz posts big blind 20
+Dealt to _SKR [7c 9c]
+*** PRE-FLOP *** 
+_SKR folds
+SO EBE raises 290 to 310 and is all-in
+Bennnnzbenz calls 280 and is all-in
+*** FLOP *** [Jc Ad 9d]
+*** TURN *** [Jc Ad 9d][2s]
+*** RIVER *** [Jc Ad 9d 2s][5c]
+*** SHOW DOWN ***
+Bennnnzbenz shows [4h As] (One pair : Aces)
+SO EBE shows [8s 8c] (One pair : 8)
+SO EBE collected 10 from side pot 1
+Bennnnzbenz collected 600 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Jc Ad 9d 2s 5c]
+Seat 1: Bennnnzbenz (big blind) showed [4h As] and won 600 with One pair : Aces
+Seat 3: SO EBE (small blind) showed [8s 8c] and won 10 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729536211499614209-3-1676919572 - Holdem no limit (10/20) - 2023/02/20 18:59:32 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bennnnzbenz (600)
+Seat 2: _SKR (290)
+Seat 3: SO EBE (10)
+*** ANTE/BLINDS ***
+Bennnnzbenz posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc Jh]
+*** PRE-FLOP *** 
+SO EBE calls 10 and is all-in
+Bennnnzbenz calls 10
+_SKR raises 40 to 60
+Bennnnzbenz calls 40
+*** FLOP *** [6s 9d 8c]
+Bennnnzbenz checks
+_SKR bets 46
+Bennnnzbenz calls 46
+*** TURN *** [6s 9d 8c][Jd]
+Bennnnzbenz checks
+_SKR bets 56
+Bennnnzbenz folds
+*** RIVER *** [6s 9d 8c Jd][4h]
+*** SHOW DOWN ***
+SO EBE shows [9h 7c] (One pair : 9)
+_SKR shows [Jc Jh] (Trips of Jacks)
+_SKR collected 278 from pot
+*** SUMMARY ***
+Total pot 278 | No rake
+Board: [6s 9d 8c Jd 4h]
+Seat 2: _SKR (big blind) showed [Jc Jh] and won 278 with Trips of Jacks
+Seat 3: SO EBE (button) showed [9h 7c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729536211499614209-4-1676919603 - Holdem no limit (15/30) - 2023/02/20 19:00:03 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bennnnzbenz (494)
+Seat 2: _SKR (406)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Bennnnzbenz posts big blind 30
+Dealt to _SKR [2c 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Bennnnzbenz collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Bennnnzbenz (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729536211499614209-5-1676919608 - Holdem no limit (15/30) - 2023/02/20 19:00:08 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bennnnzbenz (509)
+Seat 2: _SKR (391)
+*** ANTE/BLINDS ***
+Bennnnzbenz posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8d 3d]
+*** PRE-FLOP *** 
+Bennnnzbenz calls 15
+_SKR checks
+*** FLOP *** [Kd Jd Jh]
+_SKR checks
+Bennnnzbenz checks
+*** TURN *** [Kd Jd Jh][8h]
+_SKR bets 30
+Bennnnzbenz calls 30
+*** RIVER *** [Kd Jd Jh 8h][2d]
+_SKR bets 78
+Bennnnzbenz calls 78
+*** SHOW DOWN ***
+Bennnnzbenz shows [8s 5d] (Two pairs : Jacks and 8)
+_SKR shows [8d 3d] (Flush King high)
+_SKR collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | No rake
+Board: [Kd Jd Jh 8h 2d]
+Seat 1: Bennnnzbenz (small blind) (button) showed [8s 5d] and lost with Two pairs : Jacks and 8
+Seat 2: _SKR (big blind) showed [8d 3d] and won 276 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729536211499614209-6-1676919641 - Holdem no limit (15/30) - 2023/02/20 19:00:41 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bennnnzbenz (371)
+Seat 2: _SKR (529)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Bennnnzbenz posts big blind 30
+Dealt to _SKR [2h 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Bennnnzbenz collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Bennnnzbenz (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729536211499614209-7-1676919645 - Holdem no limit (15/30) - 2023/02/20 19:00:45 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bennnnzbenz (386)
+Seat 2: _SKR (514)
+*** ANTE/BLINDS ***
+Bennnnzbenz posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah Qs]
+*** PRE-FLOP *** 
+Bennnnzbenz calls 15
+_SKR raises 484 to 514 and is all-in
+Bennnnzbenz folds
+_SKR collected 544 from pot
+*** SUMMARY ***
+Total pot 544 | No rake
+Seat 2: _SKR (big blind) won 544
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729536211499614209-8-1676919653 - Holdem no limit (15/30) - 2023/02/20 19:00:53 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bennnnzbenz (356)
+Seat 2: _SKR (544)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Bennnnzbenz posts big blind 30
+Dealt to _SKR [Jh Ts]
+*** PRE-FLOP *** 
+_SKR calls 15
+Bennnnzbenz checks
+*** FLOP *** [Ah 3c Td]
+Bennnnzbenz checks
+_SKR bets 30
+Bennnnzbenz folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ah 3c Td]
+Seat 2: _SKR (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729536211499614209-9-1676919663 - Holdem no limit (20/40) - 2023/02/20 19:01:03 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bennnnzbenz (326)
+Seat 2: _SKR (574)
+*** ANTE/BLINDS ***
+Bennnnzbenz posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jc 5h]
+*** PRE-FLOP *** 
+Bennnnzbenz calls 20
+_SKR checks
+*** FLOP *** [Kh Qs 8d]
+_SKR checks
+Bennnnzbenz checks
+*** TURN *** [Kh Qs 8d][Tc]
+_SKR checks
+Bennnnzbenz checks
+*** RIVER *** [Kh Qs 8d Tc][3h]
+_SKR checks
+Bennnnzbenz checks
+*** SHOW DOWN ***
+Bennnnzbenz shows [Jh 6c] (High card : King)
+_SKR shows [Jc 5h] (High card : King)
+_SKR collected 40 from pot
+Bennnnzbenz collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kh Qs 8d Tc 3h]
+Seat 1: Bennnnzbenz (small blind) (button) showed [Jh 6c] and won 40 with High card : King
+Seat 2: _SKR (big blind) showed [Jc 5h] and won 40 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729536211499614209-10-1676919682 - Holdem no limit (20/40) - 2023/02/20 19:01:22 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bennnnzbenz (326)
+Seat 2: _SKR (574)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Bennnnzbenz posts big blind 40
+Dealt to _SKR [2h 6h]
+*** PRE-FLOP *** 
+_SKR calls 20
+Bennnnzbenz raises 286 to 326 and is all-in
+_SKR folds
+Bennnnzbenz collected 366 from pot
+*** SUMMARY ***
+Total pot 366 | No rake
+Seat 1: Bennnnzbenz (big blind) won 366
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729536211499614209-11-1676919692 - Holdem no limit (20/40) - 2023/02/20 19:01:32 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bennnnzbenz (366)
+Seat 2: _SKR (534)
+*** ANTE/BLINDS ***
+Bennnnzbenz posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9d Qs]
+*** PRE-FLOP *** 
+Bennnnzbenz raises 326 to 366 and is all-in
+_SKR folds
+Bennnnzbenz collected 406 from pot
+*** SUMMARY ***
+Total pot 406 | No rake
+Seat 1: Bennnnzbenz (small blind) (button) won 406
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729536211499614209-12-1676919697 - Holdem no limit (20/40) - 2023/02/20 19:01:37 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bennnnzbenz (406)
+Seat 2: _SKR (494)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Bennnnzbenz posts big blind 40
+Dealt to _SKR [2c As]
+*** PRE-FLOP *** 
+_SKR raises 454 to 494 and is all-in
+Bennnnzbenz folds
+_SKR collected 534 from pot
+*** SUMMARY ***
+Total pot 534 | No rake
+Seat 2: _SKR (small blind) (button) won 534
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729536211499614209-13-1676919702 - Holdem no limit (20/40) - 2023/02/20 19:01:42 UTC
+Table: 'Expresso Nitro(635519673)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bennnnzbenz (366)
+Seat 2: _SKR (534)
+*** ANTE/BLINDS ***
+Bennnnzbenz posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac 6h]
+*** PRE-FLOP *** 
+Bennnnzbenz raises 326 to 366 and is all-in
+_SKR calls 326
+*** FLOP *** [5s 8s 6d]
+*** TURN *** [5s 8s 6d][8d]
+*** RIVER *** [5s 8s 6d 8d][Kc]
+*** SHOW DOWN ***
+Bennnnzbenz shows [Td Qh] (One pair : 8)
+_SKR shows [Ac 6h] (Two pairs : 8 and 6)
+_SKR collected 732 from pot
+*** SUMMARY ***
+Total pot 732 | No rake
+Board: [5s 8s 6d 8d Kc]
+Seat 1: Bennnnzbenz (small blind) (button) showed [Td Qh] and lost with One pair : 8
+Seat 2: _SKR (big blind) showed [Ac 6h] and won 732 with Two pairs : 8 and 6
+
+

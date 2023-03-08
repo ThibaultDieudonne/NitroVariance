@@ -1,0 +1,34 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698201607576748033-1-1675185298 - Holdem no limit (10/20) - 2023/01/31 17:14:58 UTC
+Table: 'Expresso Nitro(628224017)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scam4win (300)
+Seat 2: sepileouf (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+sepileouf posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac 3s]
+*** PRE-FLOP *** 
+Scam4win raises 20 to 40
+sepileouf calls 30
+_SKR calls 20
+*** FLOP *** [Ah Tc 7h]
+sepileouf checks
+_SKR checks
+Scam4win bets 40
+sepileouf calls 40
+_SKR raises 220 to 260 and is all-in
+Scam4win calls 220 and is all-in
+sepileouf folds
+*** TURN *** [Ah Tc 7h][4c]
+*** RIVER *** [Ah Tc 7h 4c][Qd]
+*** SHOW DOWN ***
+_SKR shows [Ac 3s] (One pair : Aces)
+Scam4win shows [Ks As] (One pair : Aces)
+Scam4win collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Ah Tc 7h 4c Qd]
+Seat 1: Scam4win (button) showed [Ks As] and won 680 with One pair : Aces
+Seat 3: _SKR (big blind) showed [Ac 3s] and lost with One pair : Aces
+
+

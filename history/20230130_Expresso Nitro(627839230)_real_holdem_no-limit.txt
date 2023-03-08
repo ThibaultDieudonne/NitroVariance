@@ -1,0 +1,50 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696548959995822081-1-1675086416 - Holdem no limit (10/20) - 2023/01/30 13:46:56 UTC
+Table: 'Expresso Nitro(627839230)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: DREAMSTARS (300)
+Seat 3: jl0864 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+DREAMSTARS posts big blind 20
+Dealt to _SKR [Qs 5h]
+*** PRE-FLOP *** 
+jl0864 folds
+_SKR folds
+DREAMSTARS collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: DREAMSTARS (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696548959995822081-2-1675086423 - Holdem no limit (10/20) - 2023/01/30 13:47:03 UTC
+Table: 'Expresso Nitro(627839230)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: DREAMSTARS (310)
+Seat 3: jl0864 (300)
+*** ANTE/BLINDS ***
+DREAMSTARS posts small blind 10
+jl0864 posts big blind 20
+Dealt to _SKR [Qd Ks]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+DREAMSTARS calls 280
+jl0864 calls 270
+*** FLOP *** [5s 9d Ac]
+DREAMSTARS bets 20 and is all-in
+jl0864 calls 10 and is all-in
+*** TURN *** [5s 9d Ac][Kh]
+*** RIVER *** [5s 9d Ac Kh][7h]
+*** SHOW DOWN ***
+_SKR shows [Qd Ks] (One pair : Kings)
+DREAMSTARS shows [Ah 7s] (Two pairs : Aces and 7)
+jl0864 shows [7d Ad] (Two pairs : Aces and 7)
+jl0864 collected 445 from main pot
+DREAMSTARS collected 455 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s 9d Ac Kh 7h]
+Seat 1: _SKR (button) showed [Qd Ks] and lost with One pair : Kings
+Seat 2: DREAMSTARS (small blind) showed [Ah 7s] and won 455 with Two pairs : Aces and 7
+Seat 3: jl0864 (big blind) showed [7d Ad] and won 445 with Two pairs : Aces and 7
+
+

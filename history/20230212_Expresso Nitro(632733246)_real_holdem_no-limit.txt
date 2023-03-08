@@ -1,0 +1,119 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717568598661922817-1-1676227273 - Holdem no limit (10/20) - 2023/02/12 18:41:13 UTC
+Table: 'Expresso Nitro(632733246)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Bibou386 (300)
+Seat 3: bigman23 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Bibou386 posts big blind 20
+Dealt to _SKR [6s 8c]
+*** PRE-FLOP *** 
+bigman23 raises 280 to 300 and is all-in
+_SKR folds
+Bibou386 calls 280 and is all-in
+*** FLOP *** [5h Qd 9h]
+*** TURN *** [5h Qd 9h][2s]
+*** RIVER *** [5h Qd 9h 2s][4c]
+*** SHOW DOWN ***
+bigman23 shows [Kc 7s] (High card : King)
+Bibou386 shows [Qc Tc] (One pair : Queens)
+Bibou386 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [5h Qd 9h 2s 4c]
+Seat 2: Bibou386 (big blind) showed [Qc Tc] and won 610 with One pair : Queens
+Seat 3: bigman23 (button) showed [Kc 7s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717568598661922817-2-1676227295 - Holdem no limit (10/20) - 2023/02/12 18:41:35 UTC
+Table: 'Expresso Nitro(632733246)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Bibou386 (610)
+*** ANTE/BLINDS ***
+Bibou386 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c 9h]
+*** PRE-FLOP *** 
+Bibou386 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717568598661922817-3-1676227299 - Holdem no limit (10/20) - 2023/02/12 18:41:39 UTC
+Table: 'Expresso Nitro(632733246)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Bibou386 (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Bibou386 posts big blind 20
+Dealt to _SKR [Ad Jd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Bibou386 calls 20
+*** FLOP *** [4c Kh 9d]
+Bibou386 checks
+_SKR bets 28
+Bibou386 folds
+_SKR collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [4c Kh 9d]
+Seat 1: _SKR (small blind) (button) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717568598661922817-4-1676227313 - Holdem no limit (10/20) - 2023/02/12 18:41:53 UTC
+Table: 'Expresso Nitro(632733246)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (340)
+Seat 2: Bibou386 (560)
+*** ANTE/BLINDS ***
+Bibou386 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh Qh]
+*** PRE-FLOP *** 
+Bibou386 calls 10
+_SKR raises 30 to 50
+Bibou386 calls 30
+*** FLOP *** [7s 4d 9d]
+_SKR checks
+Bibou386 checks
+*** TURN *** [7s 4d 9d][Js]
+_SKR bets 50
+Bibou386 calls 50
+*** RIVER *** [7s 4d 9d Js][7c]
+_SKR checks
+Bibou386 bets 70
+_SKR folds
+Bibou386 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [7s 4d 9d Js 7c]
+Seat 2: Bibou386 (small blind) (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717568598661922817-5-1676227388 - Holdem no limit (15/30) - 2023/02/12 18:43:08 UTC
+Table: 'Expresso Nitro(632733246)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (240)
+Seat 2: Bibou386 (660)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Bibou386 posts big blind 30
+Dealt to _SKR [3d As]
+*** PRE-FLOP *** 
+_SKR raises 210 to 240 and is all-in
+Bibou386 calls 210
+*** FLOP *** [9s Th 5s]
+*** TURN *** [9s Th 5s][5h]
+*** RIVER *** [9s Th 5s 5h][8c]
+*** SHOW DOWN ***
+_SKR shows [3d As] (One pair : 5)
+Bibou386 shows [Ac 8h] (Two pairs : 8 and 5)
+Bibou386 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [9s Th 5s 5h 8c]
+Seat 1: _SKR (small blind) (button) showed [3d As] and lost with One pair : 5
+Seat 2: Bibou386 (big blind) showed [Ac 8h] and won 480 with Two pairs : 8 and 5
+
+

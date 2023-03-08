@@ -1,0 +1,140 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717867184788340737-1-1676238212 - Holdem no limit (10/20) - 2023/02/12 21:43:32 UTC
+Table: 'Expresso Nitro(632802766)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: martiniflush (300)
+Seat 3: bourcagnote (300)
+*** ANTE/BLINDS ***
+bourcagnote posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 7c]
+*** PRE-FLOP *** 
+martiniflush raises 20 to 40
+bourcagnote calls 30
+_SKR folds
+*** FLOP *** [9c Ad 6c]
+bourcagnote checks
+martiniflush bets 35
+bourcagnote folds
+martiniflush collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [9c Ad 6c]
+Seat 2: martiniflush (button) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717867184788340737-2-1676238240 - Holdem no limit (10/20) - 2023/02/12 21:44:00 UTC
+Table: 'Expresso Nitro(632802766)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: martiniflush (360)
+Seat 3: bourcagnote (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+martiniflush posts big blind 20
+Dealt to _SKR [Ac Td]
+*** PRE-FLOP *** 
+bourcagnote calls 20
+_SKR raises 260 to 280 and is all-in
+martiniflush folds
+bourcagnote calls 240 and is all-in
+*** FLOP *** [6h 7s 4s]
+*** TURN *** [6h 7s 4s][Jc]
+*** RIVER *** [6h 7s 4s Jc][5s]
+*** SHOW DOWN ***
+_SKR shows [Ac Td] (High card : Ace)
+bourcagnote shows [9s Ks] (Flush King high)
+bourcagnote collected 540 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6h 7s 4s Jc 5s]
+Seat 1: _SKR (small blind) showed [Ac Td] and won 20 with High card : Ace
+Seat 3: bourcagnote (button) showed [9s Ks] and won 540 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717867184788340737-3-1676238256 - Holdem no limit (10/20) - 2023/02/12 21:44:16 UTC
+Table: 'Expresso Nitro(632802766)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (20)
+Seat 2: martiniflush (340)
+Seat 3: bourcagnote (540)
+*** ANTE/BLINDS ***
+martiniflush posts small blind 10
+bourcagnote posts big blind 20
+Dealt to _SKR [3c Qc]
+*** PRE-FLOP *** 
+_SKR folds
+martiniflush calls 10
+bourcagnote checks
+*** FLOP *** [9s Th 4d]
+martiniflush checks
+bourcagnote bets 20
+martiniflush folds
+bourcagnote collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9s Th 4d]
+Seat 3: bourcagnote (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717867184788340737-4-1676238272 - Holdem no limit (15/30) - 2023/02/12 21:44:32 UTC
+Table: 'Expresso Nitro(632802766)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (20)
+Seat 2: martiniflush (320)
+Seat 3: bourcagnote (560)
+*** ANTE/BLINDS ***
+bourcagnote posts small blind 15
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [As Ts]
+*** PRE-FLOP *** 
+martiniflush raises 300 to 320 and is all-in
+bourcagnote folds
+*** FLOP *** [Jd 3d 3h]
+*** TURN *** [Jd 3d 3h][4s]
+*** RIVER *** [Jd 3d 3h 4s][6s]
+*** SHOW DOWN ***
+_SKR shows [As Ts] (One pair : 3)
+martiniflush shows [Ah 2h] (One pair : 3)
+martiniflush collected 300 from side pot 1
+_SKR collected 55 from main pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Board: [Jd 3d 3h 4s 6s]
+Seat 1: _SKR (big blind) showed [As Ts] and won 55 with One pair : 3
+Seat 2: martiniflush (button) showed [Ah 2h] and won 300 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717867184788340737-5-1676238285 - Holdem no limit (15/30) - 2023/02/12 21:44:45 UTC
+Table: 'Expresso Nitro(632802766)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (55)
+Seat 2: martiniflush (300)
+Seat 3: bourcagnote (545)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+martiniflush posts big blind 30
+Dealt to _SKR [Qs Ks]
+*** PRE-FLOP *** 
+bourcagnote calls 30
+_SKR raises 25 to 55 and is all-in
+martiniflush calls 25
+bourcagnote calls 25
+*** FLOP *** [2d 5d Qh]
+martiniflush checks
+bourcagnote checks
+*** TURN *** [2d 5d Qh][4h]
+martiniflush checks
+bourcagnote checks
+*** RIVER *** [2d 5d Qh 4h][3c]
+martiniflush checks
+bourcagnote checks
+*** SHOW DOWN ***
+_SKR shows [Qs Ks] (One pair : Queens)
+martiniflush shows [Kh 3h] (One pair : 3)
+bourcagnote shows [Ac Td] (Straight 5 high)
+bourcagnote collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [2d 5d Qh 4h 3c]
+Seat 1: _SKR (small blind) showed [Qs Ks] and lost with One pair : Queens
+Seat 2: martiniflush (big blind) showed [Kh 3h] and lost with One pair : 3
+Seat 3: bourcagnote (button) showed [Ac Td] and won 165 with Straight 5 high
+
+

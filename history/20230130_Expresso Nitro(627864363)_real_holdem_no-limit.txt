@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696656905408872449-1-1675091985 - Holdem no limit (10/20) - 2023/01/30 15:19:45 UTC
+Table: 'Expresso Nitro(627864363)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Madrigones (300)
+Seat 2: _SKR (300)
+Seat 3: davidquintal (300)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c 3c]
+*** PRE-FLOP *** 
+davidquintal calls 20
+Madrigones raises 280 to 300 and is all-in
+_SKR folds
+davidquintal folds
+Madrigones collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: Madrigones (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696656905408872449-2-1675091997 - Holdem no limit (10/20) - 2023/01/30 15:19:57 UTC
+Table: 'Expresso Nitro(627864363)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Madrigones (340)
+Seat 2: _SKR (280)
+Seat 3: davidquintal (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+davidquintal posts big blind 20
+Dealt to _SKR [Ac 5c]
+*** PRE-FLOP *** 
+Madrigones raises 320 to 340 and is all-in
+_SKR calls 270 and is all-in
+davidquintal folds
+*** FLOP *** [7h Qs 3c]
+*** TURN *** [7h Qs 3c][Qc]
+*** RIVER *** [7h Qs 3c Qc][Qd]
+*** SHOW DOWN ***
+_SKR shows [Ac 5c] (Trips of Queens)
+Madrigones shows [Kc Ah] (Trips of Queens)
+Madrigones collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [7h Qs 3c Qc Qd]
+Seat 1: Madrigones (button) showed [Kc Ah] and won 640 with Trips of Queens
+Seat 2: _SKR (small blind) showed [Ac 5c] and lost with Trips of Queens
+
+

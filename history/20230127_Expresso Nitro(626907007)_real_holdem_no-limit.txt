@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692545092698243073-1-1674829903 - Holdem no limit (10/20) - 2023/01/27 14:31:43 UTC
+Table: 'Expresso Nitro(626907007)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Saykod (300)
+Seat 2: _SKR (300)
+Seat 3: Izy_River (300)
+*** ANTE/BLINDS ***
+Saykod posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s Ah]
+*** PRE-FLOP *** 
+Izy_River calls 20
+Saykod raises 280 to 300 and is all-in
+_SKR folds
+Izy_River folds
+Saykod collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: Saykod (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692545092698243073-2-1674829916 - Holdem no limit (10/20) - 2023/01/27 14:31:56 UTC
+Table: 'Expresso Nitro(626907007)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Saykod (340)
+Seat 2: _SKR (280)
+Seat 3: Izy_River (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Izy_River posts big blind 20
+Dealt to _SKR [Tc 4s]
+*** PRE-FLOP *** 
+Saykod raises 320 to 340 and is all-in
+_SKR folds
+Izy_River folds
+Saykod collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 1: Saykod (button) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692545092698243073-3-1674829935 - Holdem no limit (10/20) - 2023/01/27 14:32:15 UTC
+Table: 'Expresso Nitro(626907007)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Saykod (370)
+Seat 2: _SKR (270)
+Seat 3: Izy_River (260)
+*** ANTE/BLINDS ***
+Izy_River posts small blind 10
+Saykod posts big blind 20
+Dealt to _SKR [As 3s]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Izy_River calls 250 and is all-in
+Saykod folds
+*** FLOP *** [Jc Th 9c]
+*** TURN *** [Jc Th 9c][7h]
+*** RIVER *** [Jc Th 9c 7h][5d]
+*** SHOW DOWN ***
+_SKR shows [As 3s] (High card : Ace)
+Izy_River shows [Kc Qc] (Straight King high)
+Izy_River collected 540 from main pot
+_SKR collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Jc Th 9c 7h 5d]
+Seat 2: _SKR (button) showed [As 3s] and won 10 with High card : Ace
+Seat 3: Izy_River (small blind) showed [Kc Qc] and won 540 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692545092698243073-4-1674829951 - Holdem no limit (10/20) - 2023/01/27 14:32:31 UTC
+Table: 'Expresso Nitro(626907007)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Saykod (350)
+Seat 2: _SKR (10)
+Seat 3: Izy_River (540)
+*** ANTE/BLINDS ***
+Saykod posts small blind 10
+_SKR posts big blind 10 and is all-in
+Dealt to _SKR [Ts Kh]
+*** PRE-FLOP *** 
+Izy_River calls 20
+Saykod raises 40 to 60
+Izy_River calls 40
+*** FLOP *** [Jd As 4d]
+Saykod bets 290 and is all-in
+Izy_River folds
+*** TURN *** [Jd As 4d][7c]
+*** RIVER *** [Jd As 4d 7c][6s]
+*** SHOW DOWN ***
+_SKR shows [Ts Kh] (High card : Ace)
+Saykod shows [Qh Qs] (One pair : Queens)
+Saykod collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jd As 4d 7c 6s]
+Seat 1: Saykod (small blind) showed [Qh Qs] and won 420 with One pair : Queens
+Seat 2: _SKR (big blind) showed [Ts Kh] and lost with High card : Ace
+
+

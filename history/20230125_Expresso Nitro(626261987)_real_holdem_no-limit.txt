@@ -1,0 +1,127 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689774752892977153-1-1674651076 - Holdem no limit (10/20) - 2023/01/25 12:51:16 UTC
+Table: 'Expresso Nitro(626261987)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Khalilfatiga (300)
+Seat 2: _SKR (300)
+Seat 3: Jay_Jay92 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Jay_Jay92 posts big blind 20
+Dealt to _SKR [8c Kh]
+*** PRE-FLOP *** 
+Khalilfatiga raises 280 to 300 and is all-in
+_SKR folds
+Jay_Jay92 folds
+Khalilfatiga collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Khalilfatiga (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689774752892977153-2-1674651084 - Holdem no limit (10/20) - 2023/01/25 12:51:24 UTC
+Table: 'Expresso Nitro(626261987)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Khalilfatiga (330)
+Seat 2: _SKR (290)
+Seat 3: Jay_Jay92 (280)
+*** ANTE/BLINDS ***
+Jay_Jay92 posts small blind 10
+Khalilfatiga posts big blind 20
+Dealt to _SKR [7h 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Jay_Jay92 calls 10
+Khalilfatiga checks
+*** FLOP *** [2h 6d 8h]
+Jay_Jay92 checks
+Khalilfatiga bets 20
+Jay_Jay92 calls 20
+*** TURN *** [2h 6d 8h][Ks]
+Jay_Jay92 checks
+Khalilfatiga checks
+*** RIVER *** [2h 6d 8h Ks][2d]
+Jay_Jay92 bets 52
+Khalilfatiga raises 238 to 290 and is all-in
+Jay_Jay92 folds
+Khalilfatiga collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Board: [2h 6d 8h Ks 2d]
+Seat 1: Khalilfatiga (big blind) won 422
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689774752892977153-3-1674651117 - Holdem no limit (10/20) - 2023/01/25 12:51:57 UTC
+Table: 'Expresso Nitro(626261987)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Khalilfatiga (422)
+Seat 2: _SKR (290)
+Seat 3: Jay_Jay92 (188)
+*** ANTE/BLINDS ***
+Khalilfatiga posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Ac]
+*** PRE-FLOP *** 
+Jay_Jay92 raises 168 to 188 and is all-in
+Khalilfatiga calls 178
+_SKR folds
+*** FLOP *** [6h Jh 4s]
+*** TURN *** [6h Jh 4s][3h]
+*** RIVER *** [6h Jh 4s 3h][4h]
+*** SHOW DOWN ***
+Khalilfatiga shows [Qc Kd] (One pair : 4)
+Jay_Jay92 shows [Ts Ah] (Flush Ace high)
+Jay_Jay92 collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [6h Jh 4s 3h 4h]
+Seat 1: Khalilfatiga (small blind) showed [Qc Kd] and lost with One pair : 4
+Seat 3: Jay_Jay92 (button) showed [Ts Ah] and won 396 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689774752892977153-4-1674651144 - Holdem no limit (15/30) - 2023/01/25 12:52:24 UTC
+Table: 'Expresso Nitro(626261987)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Khalilfatiga (234)
+Seat 2: _SKR (270)
+Seat 3: Jay_Jay92 (396)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Jay_Jay92 posts big blind 30
+Dealt to _SKR [Ah 3c]
+*** PRE-FLOP *** 
+Khalilfatiga calls 30
+_SKR raises 240 to 270 and is all-in
+Jay_Jay92 folds
+Khalilfatiga folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: _SKR (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689774752892977153-5-1674651162 - Holdem no limit (15/30) - 2023/01/25 12:52:42 UTC
+Table: 'Expresso Nitro(626261987)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Khalilfatiga (204)
+Seat 2: _SKR (330)
+Seat 3: Jay_Jay92 (366)
+*** ANTE/BLINDS ***
+Jay_Jay92 posts small blind 15
+Khalilfatiga posts big blind 30
+Dealt to _SKR [3d Ah]
+*** PRE-FLOP *** 
+_SKR raises 300 to 330 and is all-in
+Jay_Jay92 raises 36 to 366 and is all-in
+Khalilfatiga calls 174 and is all-in
+*** FLOP *** [7h 5d Kc]
+*** TURN *** [7h 5d Kc][6c]
+*** RIVER *** [7h 5d Kc 6c][3h]
+*** SHOW DOWN ***
+_SKR shows [3d Ah] (One pair : 3)
+Khalilfatiga shows [7d 8d] (One pair : 7)
+Jay_Jay92 shows [5h As] (One pair : 5)
+Jay_Jay92 collected 288 from side pot 1
+Khalilfatiga collected 612 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h 5d Kc 6c 3h]
+Seat 1: Khalilfatiga (big blind) showed [7d 8d] and won 612 with One pair : 7
+Seat 2: _SKR (button) showed [3d Ah] and lost with One pair : 3
+Seat 3: Jay_Jay92 (small blind) showed [5h As] and won 288 with One pair : 5
+
+

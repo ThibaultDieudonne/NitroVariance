@@ -1,0 +1,71 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730576727456612353-1-1676986554 - Holdem no limit (10/20) - 2023/02/21 13:35:54 UTC
+Table: 'Expresso Nitro(635761937)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fabienh1988 (300)
+Seat 2: _SKR (300)
+Seat 3: FC Douille (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+FC Douille posts big blind 20
+Dealt to _SKR [As 7c]
+*** PRE-FLOP *** 
+Fabienh1988 calls 20
+_SKR raises 280 to 300 and is all-in
+FC Douille folds
+Fabienh1988 calls 280 and is all-in
+*** FLOP *** [Ks 6d Ac]
+*** TURN *** [Ks 6d Ac][7h]
+*** RIVER *** [Ks 6d Ac 7h][9c]
+*** SHOW DOWN ***
+Fabienh1988 shows [Qc Kh] (One pair : Kings)
+_SKR shows [As 7c] (Two pairs : Aces and 7)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ks 6d Ac 7h 9c]
+Seat 1: Fabienh1988 (button) showed [Qc Kh] and lost with One pair : Kings
+Seat 2: _SKR (small blind) showed [As 7c] and won 620 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730576727456612353-2-1676986578 - Holdem no limit (10/20) - 2023/02/21 13:36:18 UTC
+Table: 'Expresso Nitro(635761937)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: FC Douille (280)
+*** ANTE/BLINDS ***
+FC Douille posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc 7h]
+*** PRE-FLOP *** 
+FC Douille calls 10
+_SKR raises 600 to 620 and is all-in
+FC Douille folds
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 2: _SKR (big blind) won 640
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730576727456612353-3-1676986585 - Holdem no limit (10/20) - 2023/02/21 13:36:25 UTC
+Table: 'Expresso Nitro(635761937)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (640)
+Seat 3: FC Douille (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+FC Douille posts big blind 20
+Dealt to _SKR [3c Ad]
+*** PRE-FLOP *** 
+_SKR raises 620 to 640 and is all-in
+FC Douille calls 240 and is all-in
+*** FLOP *** [Jc Ks 8d]
+*** TURN *** [Jc Ks 8d][As]
+*** RIVER *** [Jc Ks 8d As][8c]
+*** SHOW DOWN ***
+FC Douille shows [Jd Qc] (Two pairs : Jacks and 8)
+_SKR shows [3c Ad] (Two pairs : Aces and 8)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jc Ks 8d As 8c]
+Seat 2: _SKR (small blind) (button) showed [3c Ad] and won 900 with Two pairs : Aces and 8
+Seat 3: FC Douille (big blind) showed [Jd Qc] and lost with Two pairs : Jacks and 8
+
+

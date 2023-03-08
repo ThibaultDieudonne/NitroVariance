@@ -1,0 +1,27 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680873489006592001-1-1674082832 - Holdem no limit (10/20) - 2023/01/18 23:00:32 UTC
+Table: 'Expresso Nitro(624189500)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BRAZZER O_O (300)
+Seat 2: _SKR (300)
+Seat 3: G&MacPhail (300)
+*** ANTE/BLINDS ***
+BRAZZER O_O posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad 7d]
+*** PRE-FLOP *** 
+G&MacPhail raises 280 to 300 and is all-in
+BRAZZER O_O folds
+_SKR calls 280 and is all-in
+*** FLOP *** [8h 9h Ks]
+*** TURN *** [8h 9h Ks][Td]
+*** RIVER *** [8h 9h Ks Td][3s]
+*** SHOW DOWN ***
+_SKR shows [Ad 7d] (High card : Ace)
+G&MacPhail shows [8c Kc] (Two pairs : Kings and 8)
+G&MacPhail collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [8h 9h Ks Td 3s]
+Seat 2: _SKR (big blind) showed [Ad 7d] and lost with High card : Ace
+Seat 3: G&MacPhail (button) showed [8c Kc] and won 610 with Two pairs : Kings and 8
+
+

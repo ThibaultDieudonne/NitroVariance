@@ -1,0 +1,110 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697291890553782273-1-1675116551 - Holdem no limit (10/20) - 2023/01/30 22:09:11 UTC
+Table: 'Expresso Nitro(628012207)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ShinGouki (300)
+Seat 2: liza67 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+liza67 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 6s]
+*** PRE-FLOP *** 
+ShinGouki folds
+liza67 raises 280 to 300 and is all-in
+_SKR folds
+liza67 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: liza67 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697291890553782273-2-1675116567 - Holdem no limit (10/20) - 2023/01/30 22:09:27 UTC
+Table: 'Expresso Nitro(628012207)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ShinGouki (300)
+Seat 2: liza67 (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ShinGouki posts big blind 20
+Dealt to _SKR [As 2c]
+*** PRE-FLOP *** 
+liza67 folds
+_SKR raises 260 to 280 and is all-in
+ShinGouki folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: _SKR (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697291890553782273-3-1675116589 - Holdem no limit (10/20) - 2023/01/30 22:09:49 UTC
+Table: 'Expresso Nitro(628012207)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ShinGouki (280)
+Seat 2: liza67 (320)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+ShinGouki posts small blind 10
+liza67 posts big blind 20
+Dealt to _SKR [4s 8d]
+*** PRE-FLOP *** 
+_SKR folds
+ShinGouki folds
+liza67 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: liza67 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697291890553782273-4-1675116596 - Holdem no limit (10/20) - 2023/01/30 22:09:56 UTC
+Table: 'Expresso Nitro(628012207)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ShinGouki (270)
+Seat 2: liza67 (330)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+liza67 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs Kh]
+*** PRE-FLOP *** 
+ShinGouki raises 250 to 270 and is all-in
+liza67 raises 60 to 330 and is all-in
+_SKR calls 280 and is all-in
+*** FLOP *** [Qd Ks 8h]
+*** TURN *** [Qd Ks 8h][2d]
+*** RIVER *** [Qd Ks 8h 2d][3c]
+*** SHOW DOWN ***
+ShinGouki shows [6c 6h] (One pair : 6)
+liza67 shows [Td Kc] (One pair : Kings)
+_SKR shows [Qs Kh] (Two pairs : Kings and Queens)
+_SKR collected 870 from main pot
+liza67 collected 30 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd Ks 8h 2d 3c]
+Seat 1: ShinGouki (button) showed [6c 6h] and lost with One pair : 6
+Seat 2: liza67 (small blind) showed [Td Kc] and won 30 with One pair : Kings
+Seat 3: _SKR (big blind) showed [Qs Kh] and won 870 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697291890553782273-5-1675116618 - Holdem no limit (15/30) - 2023/01/30 22:10:18 UTC
+Table: 'Expresso Nitro(628012207)#0' 3-max (real money) Seat #3 is the button
+Seat 2: liza67 (30)
+Seat 3: _SKR (870)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+liza67 posts big blind 30 and is all-in
+Dealt to _SKR [Kd 9c]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+*** FLOP *** [9h 3d Kh]
+*** TURN *** [9h 3d Kh][6c]
+*** RIVER *** [9h 3d Kh 6c][2s]
+*** SHOW DOWN ***
+liza67 shows [Js 5d] (High card : King)
+_SKR shows [Kd 9c] (Two pairs : Kings and 9)
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9h 3d Kh 6c 2s]
+Seat 2: liza67 (big blind) showed [Js 5d] and lost with High card : King
+Seat 3: _SKR (small blind) (button) showed [Kd 9c] and won 90 with Two pairs : Kings and 9
+
+

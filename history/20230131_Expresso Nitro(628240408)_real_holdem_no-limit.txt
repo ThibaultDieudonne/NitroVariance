@@ -1,0 +1,30 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698272006385696769-1-1675188320 - Holdem no limit (10/20) - 2023/01/31 18:05:20 UTC
+Table: 'Expresso Nitro(628240408)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Axelle94 (300)
+Seat 2: Cerf.Sage693 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Cerf.Sage693 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qd Qh]
+*** PRE-FLOP *** 
+Axelle94 raises 20 to 40
+Cerf.Sage693 raises 260 to 300 and is all-in
+_SKR calls 280 and is all-in
+Axelle94 calls 260 and is all-in
+*** FLOP *** [Js Kh Ks]
+*** TURN *** [Js Kh Ks][2h]
+*** RIVER *** [Js Kh Ks 2h][Ac]
+*** SHOW DOWN ***
+Cerf.Sage693 shows [7h Ah] (Two pairs : Aces and Kings)
+_SKR shows [Qd Qh] (Two pairs : Kings and Queens)
+Axelle94 shows [Jh Kd] (Full of Kings and Jacks)
+Axelle94 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js Kh Ks 2h Ac]
+Seat 1: Axelle94 (button) showed [Jh Kd] and won 900 with Full of Kings and Jacks
+Seat 2: Cerf.Sage693 (small blind) showed [7h Ah] and lost with Two pairs : Aces and Kings
+Seat 3: _SKR (big blind) showed [Qd Qh] and lost with Two pairs : Kings and Queens
+
+

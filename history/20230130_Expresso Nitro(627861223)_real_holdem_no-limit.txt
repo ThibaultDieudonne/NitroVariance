@@ -1,0 +1,119 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696643419211563009-1-1675091318 - Holdem no limit (10/20) - 2023/01/30 15:08:38 UTC
+Table: 'Expresso Nitro(627861223)#0' 3-max (real money) Seat #2 is the button
+Seat 1: projet X17 (300)
+Seat 2: Badiaa 93 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+projet X17 posts big blind 20
+Dealt to _SKR [Kc 9d]
+*** PRE-FLOP *** 
+Badiaa 93 raises 280 to 300 and is all-in
+_SKR folds
+projet X17 folds
+Badiaa 93 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Badiaa 93 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696643419211563009-2-1675091324 - Holdem no limit (10/20) - 2023/01/30 15:08:44 UTC
+Table: 'Expresso Nitro(627861223)#0' 3-max (real money) Seat #3 is the button
+Seat 1: projet X17 (280)
+Seat 2: Badiaa 93 (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+projet X17 posts small blind 10
+Badiaa 93 posts big blind 20
+Dealt to _SKR [4d 5h]
+*** PRE-FLOP *** 
+_SKR folds
+projet X17 calls 10
+Badiaa 93 checks
+*** FLOP *** [8h 7h 5c]
+projet X17 checks
+Badiaa 93 checks
+*** TURN *** [8h 7h 5c][3h]
+projet X17 checks
+Badiaa 93 checks
+*** RIVER *** [8h 7h 5c 3h][2d]
+projet X17 checks
+Badiaa 93 bets 20
+projet X17 calls 20
+*** SHOW DOWN ***
+projet X17 shows [Jc Kd] (High card : King)
+Badiaa 93 shows [5s Tc] (One pair : 5)
+Badiaa 93 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8h 7h 5c 3h 2d]
+Seat 1: projet X17 (small blind) showed [Jc Kd] and lost with High card : King
+Seat 2: Badiaa 93 (big blind) showed [5s Tc] and won 80 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696643419211563009-3-1675091348 - Holdem no limit (10/20) - 2023/01/30 15:09:08 UTC
+Table: 'Expresso Nitro(627861223)#0' 3-max (real money) Seat #1 is the button
+Seat 1: projet X17 (240)
+Seat 2: Badiaa 93 (370)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Badiaa 93 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 9h]
+*** PRE-FLOP *** 
+projet X17 calls 20
+Badiaa 93 calls 10
+_SKR checks
+*** FLOP *** [5s Tc Td]
+Badiaa 93 checks
+_SKR checks
+projet X17 checks
+*** TURN *** [5s Tc Td][Qd]
+Badiaa 93 checks
+_SKR checks
+projet X17 checks
+*** RIVER *** [5s Tc Td Qd][Kc]
+Badiaa 93 checks
+_SKR checks
+projet X17 bets 20
+Badiaa 93 calls 20
+_SKR folds
+*** SHOW DOWN ***
+Badiaa 93 shows [6c 8s] (One pair : Tens)
+projet X17 shows [8h 9c] (One pair : Tens)
+projet X17 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [5s Tc Td Qd Kc]
+Seat 1: projet X17 (button) showed [8h 9c] and won 100 with One pair : Tens
+Seat 2: Badiaa 93 (small blind) showed [6c 8s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696643419211563009-4-1675091376 - Holdem no limit (15/30) - 2023/01/30 15:09:36 UTC
+Table: 'Expresso Nitro(627861223)#0' 3-max (real money) Seat #2 is the button
+Seat 1: projet X17 (300)
+Seat 2: Badiaa 93 (330)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+projet X17 posts big blind 30
+Dealt to _SKR [8c 7c]
+*** PRE-FLOP *** 
+Badiaa 93 calls 30
+_SKR raises 240 to 270 and is all-in
+projet X17 folds
+Badiaa 93 calls 240
+*** FLOP *** [5s As Ah]
+*** TURN *** [5s As Ah][4s]
+*** RIVER *** [5s As Ah 4s][3d]
+*** SHOW DOWN ***
+_SKR shows [8c 7c] (One pair : Aces)
+Badiaa 93 shows [Qd 6d] (One pair : Aces)
+Badiaa 93 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [5s As Ah 4s 3d]
+Seat 2: Badiaa 93 (button) showed [Qd 6d] and won 570 with One pair : Aces
+Seat 3: _SKR (small blind) showed [8c 7c] and lost with One pair : Aces
+
+

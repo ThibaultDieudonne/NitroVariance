@@ -1,0 +1,54 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694499371537399809-1-1674942878 - Holdem no limit (10/20) - 2023/01/28 21:54:38 UTC
+Table: 'Expresso Nitro(627362023)#0' 3-max (real money) Seat #3 is the button
+Seat 1: wmx-k73eabi (300)
+Seat 2: Steel77 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+wmx-k73eabi posts small blind 10
+Steel77 posts big blind 20
+Dealt to _SKR [4s 8d]
+*** PRE-FLOP *** 
+_SKR folds
+wmx-k73eabi raises 30 to 50
+Steel77 raises 100 to 150
+wmx-k73eabi raises 150 to 300 and is all-in
+Steel77 calls 150 and is all-in
+*** FLOP *** [Kd 7s 5h]
+*** TURN *** [Kd 7s 5h][2h]
+*** RIVER *** [Kd 7s 5h 2h][4h]
+*** SHOW DOWN ***
+Steel77 shows [Ad As] (One pair : Aces)
+wmx-k73eabi shows [5s 5d] (Trips of 5)
+wmx-k73eabi collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kd 7s 5h 2h 4h]
+Seat 1: wmx-k73eabi (small blind) showed [5s 5d] and won 600 with Trips of 5
+Seat 2: Steel77 (big blind) showed [Ad As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694499371537399809-2-1674942902 - Holdem no limit (10/20) - 2023/01/28 21:55:02 UTC
+Table: 'Expresso Nitro(627362023)#0' 3-max (real money) Seat #3 is the button
+Seat 1: wmx-k73eabi (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+wmx-k73eabi posts big blind 20
+Dealt to _SKR [Ad 5c]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+wmx-k73eabi calls 280
+*** FLOP *** [9s 7c 3d]
+*** TURN *** [9s 7c 3d][8d]
+*** RIVER *** [9s 7c 3d 8d][Jh]
+*** SHOW DOWN ***
+_SKR shows [Ad 5c] (High card : Ace)
+wmx-k73eabi shows [Qs Qh] (One pair : Queens)
+wmx-k73eabi collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9s 7c 3d 8d Jh]
+Seat 1: wmx-k73eabi (big blind) showed [Qs Qh] and won 600 with One pair : Queens
+Seat 3: _SKR (small blind) (button) showed [Ad 5c] and lost with High card : Ace
+
+

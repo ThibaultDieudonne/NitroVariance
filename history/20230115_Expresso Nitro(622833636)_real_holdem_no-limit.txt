@@ -1,0 +1,324 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675050097468768257-1-1673741701 - Holdem no limit (10/20) - 2023/01/15 00:15:01 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Team37 (300)
+Seat 3: Sof_69 (300)
+*** ANTE/BLINDS ***
+Team37 posts small blind 10
+Sof_69 posts big blind 20
+Dealt to _SKR [3c 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Team37 raises 280 to 300 and is all-in
+Sof_69 folds
+Team37 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Team37 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675050097468768257-2-1673741733 - Holdem no limit (10/20) - 2023/01/15 00:15:33 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Team37 (320)
+Seat 3: Sof_69 (280)
+*** ANTE/BLINDS ***
+Sof_69 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 2s]
+*** PRE-FLOP *** 
+Team37 calls 20
+Sof_69 calls 10
+_SKR checks
+*** FLOP *** [Qc Qh 3d]
+Sof_69 checks
+_SKR checks
+Team37 bets 300 and is all-in
+Sof_69 folds
+_SKR folds
+Team37 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qc Qh 3d]
+Seat 2: Team37 (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675050097468768257-3-1673741762 - Holdem no limit (15/30) - 2023/01/15 00:16:02 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Team37 (360)
+Seat 3: Sof_69 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Team37 posts big blind 30
+Dealt to _SKR [Qd 5h]
+*** PRE-FLOP *** 
+Sof_69 folds
+_SKR folds
+Team37 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Team37 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675050097468768257-4-1673741767 - Holdem no limit (15/30) - 2023/01/15 00:16:07 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (265)
+Seat 2: Team37 (375)
+Seat 3: Sof_69 (260)
+*** ANTE/BLINDS ***
+Team37 posts small blind 15
+Sof_69 posts big blind 30
+Dealt to _SKR [8s 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Team37 raises 345 to 375 and is all-in
+Sof_69 calls 230 and is all-in
+*** FLOP *** [8c 9c 3c]
+*** TURN *** [8c 9c 3c][9s]
+*** RIVER *** [8c 9c 3c 9s][Jd]
+*** SHOW DOWN ***
+Team37 shows [4c 4s] (Two pairs : 9 and 4)
+Sof_69 shows [Kc Qc] (Flush King high)
+Sof_69 collected 520 from main pot
+Team37 collected 115 from side pot 1
+*** SUMMARY ***
+Total pot 635 | No rake
+Board: [8c 9c 3c 9s Jd]
+Seat 2: Team37 (small blind) showed [4c 4s] and won 115 with Two pairs : 9 and 4
+Seat 3: Sof_69 (big blind) showed [Kc Qc] and won 520 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675050097468768257-5-1673741814 - Holdem no limit (15/30) - 2023/01/15 00:16:54 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (265)
+Seat 2: Team37 (115)
+Seat 3: Sof_69 (520)
+*** ANTE/BLINDS ***
+Sof_69 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc 8d]
+*** PRE-FLOP *** 
+Team37 folds
+Sof_69 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675050097468768257-6-1673741855 - Holdem no limit (20/40) - 2023/01/15 00:17:35 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Team37 (115)
+Seat 3: Sof_69 (505)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Team37 posts big blind 40
+Dealt to _SKR [As 7c]
+*** PRE-FLOP *** 
+Sof_69 raises 40 to 80
+_SKR calls 60
+Team37 folds
+*** FLOP *** [3h 4h 5c]
+_SKR checks
+Sof_69 checks
+*** TURN *** [3h 4h 5c][Tc]
+_SKR checks
+Sof_69 bets 40
+_SKR calls 40
+*** RIVER *** [3h 4h 5c Tc][9s]
+_SKR checks
+Sof_69 bets 98
+_SKR folds
+Sof_69 collected 378 from pot
+*** SUMMARY ***
+Total pot 378 | No rake
+Board: [3h 4h 5c Tc 9s]
+Seat 3: Sof_69 (button) won 378
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675050097468768257-7-1673741889 - Holdem no limit (30/60) - 2023/01/15 00:18:09 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (160)
+Seat 2: Team37 (75)
+Seat 3: Sof_69 (665)
+*** ANTE/BLINDS ***
+Team37 posts small blind 30
+Sof_69 posts big blind 60
+Dealt to _SKR [8h Qd]
+*** PRE-FLOP *** 
+_SKR raises 100 to 160 and is all-in
+Team37 folds
+Sof_69 folds
+_SKR collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 1: _SKR (button) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675050097468768257-8-1673741908 - Holdem no limit (30/60) - 2023/01/15 00:18:28 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: Team37 (45)
+Seat 3: Sof_69 (605)
+*** ANTE/BLINDS ***
+Sof_69 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7d 8d]
+*** PRE-FLOP *** 
+Team37 folds
+Sof_69 raises 545 to 605 and is all-in
+_SKR calls 190 and is all-in
+*** FLOP *** [8s 3c 9d]
+*** TURN *** [8s 3c 9d][Ac]
+*** RIVER *** [8s 3c 9d Ac][Ts]
+*** SHOW DOWN ***
+_SKR shows [7d 8d] (One pair : 8)
+Sof_69 shows [6h Kh] (High card : Ace)
+Sof_69 collected 355 from side pot 1
+_SKR collected 500 from main pot
+*** SUMMARY ***
+Total pot 855 | No rake
+Board: [8s 3c 9d Ac Ts]
+Seat 1: _SKR (big blind) showed [7d 8d] and won 500 with One pair : 8
+Seat 3: Sof_69 (small blind) showed [6h Kh] and won 355 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675050097468768257-9-1673741925 - Holdem no limit (30/60) - 2023/01/15 00:18:45 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (500)
+Seat 2: Team37 (45)
+Seat 3: Sof_69 (355)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Team37 posts big blind 45 and is all-in
+Dealt to _SKR [5c 8c]
+*** PRE-FLOP *** 
+Sof_69 folds
+_SKR calls 30
+*** FLOP *** [Qh 2s Ah]
+*** TURN *** [Qh 2s Ah][4c]
+*** RIVER *** [Qh 2s Ah 4c][6d]
+*** SHOW DOWN ***
+_SKR shows [5c 8c] (High card : Ace)
+Team37 shows [Ad Ts] (One pair : Aces)
+Team37 collected 90 from main pot
+_SKR collected 15 from side pot 1
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [Qh 2s Ah 4c 6d]
+Seat 1: _SKR (small blind) showed [5c 8c] and won 15 with High card : Ace
+Seat 2: Team37 (big blind) showed [Ad Ts] and won 90 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2675050097468768257-10-1673741940 - Holdem no limit (40/80) - 2023/01/15 00:19:00 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (455)
+Seat 2: Team37 (90)
+Seat 3: Sof_69 (355)
+*** ANTE/BLINDS ***
+Team37 posts small blind 40
+Sof_69 posts big blind 80
+Dealt to _SKR [Ac Ad]
+*** PRE-FLOP *** 
+_SKR raises 80 to 160
+Team37 folds
+Sof_69 folds
+_SKR collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: _SKR (button) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2675050097468768257-11-1673741957 - Holdem no limit (40/80) - 2023/01/15 00:19:17 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (575)
+Seat 2: Team37 (50)
+Seat 3: Sof_69 (275)
+*** ANTE/BLINDS ***
+Sof_69 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Qs Qd]
+*** PRE-FLOP *** 
+Team37 folds
+Sof_69 raises 195 to 275 and is all-in
+_SKR calls 195
+*** FLOP *** [5h 4c 2d]
+*** TURN *** [5h 4c 2d][6c]
+*** RIVER *** [5h 4c 2d 6c][2s]
+*** SHOW DOWN ***
+Sof_69 shows [4h Ah] (Two pairs : 4 and 2)
+_SKR shows [Qs Qd] (Two pairs : Queens and 2)
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [5h 4c 2d 6c 2s]
+Seat 1: _SKR (big blind) showed [Qs Qd] and won 550 with Two pairs : Queens and 2
+Seat 3: Sof_69 (small blind) showed [4h Ah] and lost with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2675050097468768257-12-1673741976 - Holdem no limit (40/80) - 2023/01/15 00:19:36 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (850)
+Seat 2: Team37 (50)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Team37 posts big blind 50 and is all-in
+Dealt to _SKR [3c Ad]
+*** PRE-FLOP *** 
+_SKR raises 800 to 850 and is all-in
+*** FLOP *** [Tc 8c 7c]
+*** TURN *** [Tc 8c 7c][9s]
+*** RIVER *** [Tc 8c 7c 9s][Jh]
+*** SHOW DOWN ***
+_SKR shows [3c Ad] (Straight Jack high)
+Team37 shows [4h Ah] (Straight Jack high)
+Team37 collected 50 from main pot
+_SKR collected 850 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 8c 7c 9s Jh]
+Seat 1: _SKR (small blind) (button) showed [3c Ad] and won 850 with Straight Jack high
+Seat 2: Team37 (big blind) showed [4h Ah] and won 50 with Straight Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2675050097468768257-13-1673741987 - Holdem no limit (40/80) - 2023/01/15 00:19:47 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (850)
+Seat 2: Team37 (50)
+*** ANTE/BLINDS ***
+Team37 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Kc 8d]
+*** PRE-FLOP *** 
+Team37 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2675050097468768257-14-1673741995 - Holdem no limit (40/80) - 2023/01/15 00:19:55 UTC
+Table: 'Expresso Nitro(622833636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (890)
+Seat 2: Team37 (10)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Team37 posts big blind 10 and is all-in
+Dealt to _SKR [Jd 2d]
+*** PRE-FLOP *** 
+*** FLOP *** [6s Ad Jc]
+*** TURN *** [6s Ad Jc][9s]
+*** RIVER *** [6s Ad Jc 9s][5s]
+*** SHOW DOWN ***
+Team37 shows [5c 8c] (One pair : 5)
+_SKR shows [Jd 2d] (One pair : Jacks)
+_SKR collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [6s Ad Jc 9s 5s]
+Seat 1: _SKR (small blind) (button) showed [Jd 2d] and won 50 with One pair : Jacks
+Seat 2: Team37 (big blind) showed [5c 8c] and lost with One pair : 5
+
+

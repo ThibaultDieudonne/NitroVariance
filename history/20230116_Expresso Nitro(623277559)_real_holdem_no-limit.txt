@@ -1,0 +1,234 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676956732235710465-1-1673870214 - Holdem no limit (10/20) - 2023/01/16 11:56:54 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #3 is the button
+Seat 1: seblag89 (300)
+Seat 2: _SKR (300)
+Seat 3: wmx-hio8bh9 (300)
+*** ANTE/BLINDS ***
+seblag89 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h 5s]
+*** PRE-FLOP *** 
+wmx-hio8bh9 raises 280 to 300 and is all-in
+seblag89 folds
+_SKR folds
+wmx-hio8bh9 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: wmx-hio8bh9 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676956732235710465-2-1673870230 - Holdem no limit (10/20) - 2023/01/16 11:57:10 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #1 is the button
+Seat 1: seblag89 (290)
+Seat 2: _SKR (280)
+Seat 3: wmx-hio8bh9 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+wmx-hio8bh9 posts big blind 20
+Dealt to _SKR [8d Qc]
+*** PRE-FLOP *** 
+seblag89 folds
+_SKR raises 260 to 280 and is all-in
+wmx-hio8bh9 raises 50 to 330 and is all-in
+*** FLOP *** [3h 9h Qd]
+*** TURN *** [3h 9h Qd][7h]
+*** RIVER *** [3h 9h Qd 7h][9d]
+*** SHOW DOWN ***
+_SKR shows [8d Qc] (Two pairs : Queens and 9)
+wmx-hio8bh9 shows [Ad Tc] (One pair : 9)
+wmx-hio8bh9 collected 50 from side pot 1
+_SKR collected 560 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [3h 9h Qd 7h 9d]
+Seat 2: _SKR (small blind) showed [8d Qc] and won 560 with Two pairs : Queens and 9
+Seat 3: wmx-hio8bh9 (big blind) showed [Ad Tc] and won 50 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676956732235710465-3-1673870248 - Holdem no limit (10/20) - 2023/01/16 11:57:28 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #2 is the button
+Seat 1: seblag89 (290)
+Seat 2: _SKR (560)
+Seat 3: wmx-hio8bh9 (50)
+*** ANTE/BLINDS ***
+wmx-hio8bh9 posts small blind 10
+seblag89 posts big blind 20
+Dealt to _SKR [Ts 7h]
+*** PRE-FLOP *** 
+_SKR folds
+wmx-hio8bh9 raises 30 to 50 and is all-in
+seblag89 calls 30
+*** FLOP *** [9d Tc 8d]
+*** TURN *** [9d Tc 8d][6s]
+*** RIVER *** [9d Tc 8d 6s][2h]
+*** SHOW DOWN ***
+seblag89 shows [2s Ad] (One pair : 2)
+wmx-hio8bh9 shows [Kc Ks] (One pair : Kings)
+wmx-hio8bh9 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9d Tc 8d 6s 2h]
+Seat 1: seblag89 (big blind) showed [2s Ad] and lost with One pair : 2
+Seat 3: wmx-hio8bh9 (small blind) showed [Kc Ks] and won 100 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676956732235710465-4-1673870263 - Holdem no limit (10/20) - 2023/01/16 11:57:43 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #3 is the button
+Seat 1: seblag89 (240)
+Seat 2: _SKR (560)
+Seat 3: wmx-hio8bh9 (100)
+*** ANTE/BLINDS ***
+seblag89 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c Tc]
+*** PRE-FLOP *** 
+wmx-hio8bh9 raises 80 to 100 and is all-in
+seblag89 raises 140 to 240 and is all-in
+_SKR folds
+*** FLOP *** [Td 5c 8h]
+*** TURN *** [Td 5c 8h][7d]
+*** RIVER *** [Td 5c 8h 7d][4c]
+*** SHOW DOWN ***
+wmx-hio8bh9 shows [3s 3h] (One pair : 3)
+seblag89 shows [5d As] (One pair : 5)
+seblag89 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Td 5c 8h 7d 4c]
+Seat 1: seblag89 (small blind) showed [5d As] and won 360 with One pair : 5
+Seat 3: wmx-hio8bh9 (button) showed [3s 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676956732235710465-5-1673870281 - Holdem no limit (15/30) - 2023/01/16 11:58:01 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #2 is the button
+Seat 1: seblag89 (360)
+Seat 2: _SKR (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+seblag89 posts big blind 30
+Dealt to _SKR [Js 6h]
+*** PRE-FLOP *** 
+_SKR folds
+seblag89 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: seblag89 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676956732235710465-6-1673870286 - Holdem no limit (15/30) - 2023/01/16 11:58:06 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #1 is the button
+Seat 1: seblag89 (375)
+Seat 2: _SKR (525)
+*** ANTE/BLINDS ***
+seblag89 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc 9h]
+*** PRE-FLOP *** 
+seblag89 raises 30 to 60
+_SKR calls 30
+*** FLOP *** [Jh 2s 9d]
+_SKR checks
+seblag89 bets 78
+_SKR calls 78
+*** TURN *** [Jh 2s 9d][Js]
+_SKR checks
+seblag89 bets 97
+_SKR raises 290 to 387 and is all-in
+seblag89 folds
+_SKR collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [Jh 2s 9d Js]
+Seat 2: _SKR (big blind) won 760
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676956732235710465-7-1673870340 - Holdem no limit (20/40) - 2023/01/16 11:59:00 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #2 is the button
+Seat 1: seblag89 (140)
+Seat 2: _SKR (760)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+seblag89 posts big blind 40
+Dealt to _SKR [4h 8s]
+*** PRE-FLOP *** 
+_SKR folds
+seblag89 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: seblag89 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676956732235710465-8-1673870344 - Holdem no limit (20/40) - 2023/01/16 11:59:04 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #1 is the button
+Seat 1: seblag89 (160)
+Seat 2: _SKR (740)
+*** ANTE/BLINDS ***
+seblag89 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9d 3d]
+*** PRE-FLOP *** 
+seblag89 raises 120 to 160 and is all-in
+_SKR folds
+seblag89 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 1: seblag89 (small blind) (button) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676956732235710465-9-1673870352 - Holdem no limit (20/40) - 2023/01/16 11:59:12 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #2 is the button
+Seat 1: seblag89 (200)
+Seat 2: _SKR (700)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+seblag89 posts big blind 40
+Dealt to _SKR [6c 2h]
+*** PRE-FLOP *** 
+_SKR folds
+seblag89 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: seblag89 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676956732235710465-10-1673870356 - Holdem no limit (20/40) - 2023/01/16 11:59:16 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #1 is the button
+Seat 1: seblag89 (220)
+Seat 2: _SKR (680)
+*** ANTE/BLINDS ***
+seblag89 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qd Kd]
+*** PRE-FLOP *** 
+seblag89 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676956732235710465-11-1673870360 - Holdem no limit (20/40) - 2023/01/16 11:59:20 UTC
+Table: 'Expresso Nitro(623277559)#0' 3-max (real money) Seat #2 is the button
+Seat 1: seblag89 (200)
+Seat 2: _SKR (700)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+seblag89 posts big blind 40
+Dealt to _SKR [Js Kc]
+*** PRE-FLOP *** 
+_SKR raises 660 to 700 and is all-in
+seblag89 calls 160 and is all-in
+*** FLOP *** [8c Ts Jd]
+*** TURN *** [8c Ts Jd][As]
+*** RIVER *** [8c Ts Jd As][6c]
+*** SHOW DOWN ***
+seblag89 shows [5d Ks] (High card : Ace)
+_SKR shows [Js Kc] (One pair : Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8c Ts Jd As 6c]
+Seat 1: seblag89 (big blind) showed [5d Ks] and lost with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [Js Kc] and won 900 with One pair : Jacks
+
+

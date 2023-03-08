@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675041726577508353-1-1673741409 - Holdem no limit (10/20) - 2023/01/15 00:10:09 UTC
+Table: 'Expresso Nitro(622831687)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: RektoVerso (300)
+Seat 3: KL Sniper407 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+RektoVerso posts big blind 20
+Dealt to _SKR [5c 5d]
+*** PRE-FLOP *** 
+KL Sniper407 raises 280 to 300 and is all-in
+_SKR folds
+RektoVerso calls 280 and is all-in
+*** FLOP *** [5h Ac Qc]
+*** TURN *** [5h Ac Qc][4s]
+*** RIVER *** [5h Ac Qc 4s][Tc]
+*** SHOW DOWN ***
+RektoVerso shows [8s 5s] (One pair : 5)
+KL Sniper407 shows [Ts 9h] (One pair : Tens)
+KL Sniper407 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [5h Ac Qc 4s Tc]
+Seat 2: RektoVerso (big blind) showed [8s 5s] and lost with One pair : 5
+Seat 3: KL Sniper407 (button) showed [Ts 9h] and won 610 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675041726577508353-2-1673741426 - Holdem no limit (10/20) - 2023/01/15 00:10:26 UTC
+Table: 'Expresso Nitro(622831687)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 3: KL Sniper407 (610)
+*** ANTE/BLINDS ***
+KL Sniper407 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Jc]
+*** PRE-FLOP *** 
+KL Sniper407 raises 590 to 610 and is all-in
+_SKR folds
+KL Sniper407 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 3: KL Sniper407 (small blind) (button) won 630
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675041726577508353-3-1673741439 - Holdem no limit (10/20) - 2023/01/15 00:10:39 UTC
+Table: 'Expresso Nitro(622831687)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 3: KL Sniper407 (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+KL Sniper407 posts big blind 20
+Dealt to _SKR [Th 4h]
+*** PRE-FLOP *** 
+_SKR folds
+KL Sniper407 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: KL Sniper407 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675041726577508353-4-1673741451 - Holdem no limit (10/20) - 2023/01/15 00:10:51 UTC
+Table: 'Expresso Nitro(622831687)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (260)
+Seat 3: KL Sniper407 (640)
+*** ANTE/BLINDS ***
+KL Sniper407 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 2s]
+*** PRE-FLOP *** 
+KL Sniper407 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675041726577508353-5-1673741456 - Holdem no limit (10/20) - 2023/01/15 00:10:56 UTC
+Table: 'Expresso Nitro(622831687)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 3: KL Sniper407 (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+KL Sniper407 posts big blind 20
+Dealt to _SKR [As 3s]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+KL Sniper407 calls 250
+*** FLOP *** [Qc 3h 8c]
+*** TURN *** [Qc 3h 8c][Qs]
+*** RIVER *** [Qc 3h 8c Qs][Ks]
+*** SHOW DOWN ***
+_SKR shows [As 3s] (Two pairs : Queens and 3)
+KL Sniper407 shows [9d Kc] (Two pairs : Kings and Queens)
+KL Sniper407 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Qc 3h 8c Qs Ks]
+Seat 1: _SKR (small blind) (button) showed [As 3s] and lost with Two pairs : Queens and 3
+Seat 3: KL Sniper407 (big blind) showed [9d Kc] and won 540 with Two pairs : Kings and Queens
+
+

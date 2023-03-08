@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666751357364469761-1-1673289664 - Holdem no limit (10/20) - 2023/01/09 18:41:04 UTC
+Table: 'Expresso Nitro(620901435)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Torriico19 (300)
+Seat 3: Haxenyn (300)
+*** ANTE/BLINDS ***
+Haxenyn posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc 6h]
+*** PRE-FLOP *** 
+Torriico19 folds
+Haxenyn raises 280 to 300 and is all-in
+_SKR folds
+Haxenyn collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Haxenyn (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666751357364469761-2-1673289675 - Holdem no limit (10/20) - 2023/01/09 18:41:15 UTC
+Table: 'Expresso Nitro(620901435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Torriico19 (300)
+Seat 3: Haxenyn (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Torriico19 posts big blind 20
+Dealt to _SKR [Ac Qh]
+*** PRE-FLOP *** 
+Haxenyn raises 300 to 320 and is all-in
+_SKR calls 270 and is all-in
+Torriico19 folds
+*** FLOP *** [8c 6s Kh]
+*** TURN *** [8c 6s Kh][7s]
+*** RIVER *** [8c 6s Kh 7s][Jh]
+*** SHOW DOWN ***
+_SKR shows [Ac Qh] (High card : Ace)
+Haxenyn shows [As Jd] (One pair : Jacks)
+Haxenyn collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8c 6s Kh 7s Jh]
+Seat 1: _SKR (small blind) showed [Ac Qh] and lost with High card : Ace
+Seat 3: Haxenyn (button) showed [As Jd] and won 620 with One pair : Jacks
+
+

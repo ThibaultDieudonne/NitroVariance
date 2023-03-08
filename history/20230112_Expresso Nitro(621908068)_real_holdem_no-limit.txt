@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671074813178544129-1-1673529844 - Holdem no limit (10/20) - 2023/01/12 13:24:04 UTC
+Table: 'Expresso Nitro(621908068)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Joyeux19214 (300)
+Seat 3: Minato_38 (300)
+*** ANTE/BLINDS ***
+Minato_38 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 5c]
+*** PRE-FLOP *** 
+Joyeux19214 folds
+Minato_38 raises 40 to 60
+_SKR folds
+Minato_38 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: Minato_38 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671074813178544129-2-1673529853 - Holdem no limit (10/20) - 2023/01/12 13:24:13 UTC
+Table: 'Expresso Nitro(621908068)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Joyeux19214 (300)
+Seat 3: Minato_38 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Joyeux19214 posts big blind 20
+Dealt to _SKR [4c 4d]
+*** PRE-FLOP *** 
+Minato_38 calls 20
+_SKR raises 260 to 280 and is all-in
+Joyeux19214 folds
+Minato_38 calls 260
+*** FLOP *** [5h Jh 2c]
+*** TURN *** [5h Jh 2c][Qh]
+*** RIVER *** [5h Jh 2c Qh][5c]
+*** SHOW DOWN ***
+_SKR shows [4c 4d] (Two pairs : 5 and 4)
+Minato_38 shows [As 5d] (Trips of 5)
+Minato_38 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5h Jh 2c Qh 5c]
+Seat 1: _SKR (small blind) showed [4c 4d] and lost with Two pairs : 5 and 4
+Seat 3: Minato_38 (button) showed [As 5d] and won 580 with Trips of 5
+
+

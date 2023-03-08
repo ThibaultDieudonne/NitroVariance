@@ -1,0 +1,65 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717625678777286657-1-1676229370 - Holdem no limit (10/20) - 2023/02/12 19:16:10 UTC
+Table: 'Expresso Nitro(632746536)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Babtoo44 (300)
+Seat 2: SZ_Crack0 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+SZ_Crack0 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h Qc]
+*** PRE-FLOP *** 
+Babtoo44 folds
+SZ_Crack0 raises 20 to 40
+_SKR folds
+SZ_Crack0 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: SZ_Crack0 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717625678777286657-2-1676229378 - Holdem no limit (10/20) - 2023/02/12 19:16:18 UTC
+Table: 'Expresso Nitro(632746536)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Babtoo44 (300)
+Seat 2: SZ_Crack0 (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Babtoo44 posts big blind 20
+Dealt to _SKR [Qd 5s]
+*** PRE-FLOP *** 
+SZ_Crack0 raises 300 to 320 and is all-in
+_SKR folds
+Babtoo44 folds
+SZ_Crack0 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: SZ_Crack0 (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717625678777286657-3-1676229384 - Holdem no limit (10/20) - 2023/02/12 19:16:24 UTC
+Table: 'Expresso Nitro(632746536)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Babtoo44 (280)
+Seat 2: SZ_Crack0 (350)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Babtoo44 posts small blind 10
+SZ_Crack0 posts big blind 20
+Dealt to _SKR [Jc Ac]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Babtoo44 folds
+SZ_Crack0 raises 80 to 350 and is all-in
+*** FLOP *** [9s 9d Th]
+*** TURN *** [9s 9d Th][Qd]
+*** RIVER *** [9s 9d Th Qd][7d]
+*** SHOW DOWN ***
+_SKR shows [Jc Ac] (One pair : 9)
+SZ_Crack0 shows [6d Ad] (Flush Ace high)
+SZ_Crack0 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [9s 9d Th Qd 7d]
+Seat 2: SZ_Crack0 (big blind) showed [6d Ad] and won 630 with Flush Ace high
+Seat 3: _SKR (button) showed [Jc Ac] and lost with One pair : 9
+
+

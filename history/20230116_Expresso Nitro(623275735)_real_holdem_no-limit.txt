@@ -1,0 +1,221 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676948898215362561-1-1673869836 - Holdem no limit (10/20) - 2023/01/16 11:50:36 UTC
+Table: 'Expresso Nitro(623275735)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chalilou88 (300)
+Seat 2: Azalyk71 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Chalilou88 posts small blind 10
+Azalyk71 posts big blind 20
+Dealt to _SKR [4s 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Chalilou88 calls 10
+Azalyk71 checks
+*** FLOP *** [Js 4d Kh]
+Chalilou88 checks
+Azalyk71 bets 20
+Chalilou88 calls 20
+*** TURN *** [Js 4d Kh][Th]
+Chalilou88 checks
+Azalyk71 bets 20
+Chalilou88 calls 20
+*** RIVER *** [Js 4d Kh Th][4c]
+Chalilou88 checks
+Azalyk71 bets 20
+Chalilou88 calls 20
+*** SHOW DOWN ***
+Chalilou88 shows [6h Qc] (One pair : 4)
+Azalyk71 shows [Kd 8s] (Two pairs : Kings and 4)
+Azalyk71 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Js 4d Kh Th 4c]
+Seat 1: Chalilou88 (small blind) showed [6h Qc] and lost with One pair : 4
+Seat 2: Azalyk71 (big blind) showed [Kd 8s] and won 160 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676948898215362561-2-1673869863 - Holdem no limit (10/20) - 2023/01/16 11:51:03 UTC
+Table: 'Expresso Nitro(623275735)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chalilou88 (220)
+Seat 2: Azalyk71 (380)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Azalyk71 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah Jc]
+*** PRE-FLOP *** 
+Chalilou88 calls 20
+Azalyk71 folds
+_SKR raises 280 to 300 and is all-in
+Chalilou88 calls 200 and is all-in
+*** FLOP *** [4s Qh 4h]
+*** TURN *** [4s Qh 4h][Js]
+*** RIVER *** [4s Qh 4h Js][Jd]
+*** SHOW DOWN ***
+Chalilou88 shows [8c As] (Two pairs : Jacks and 4)
+_SKR shows [Ah Jc] (Full of Jacks and 4)
+_SKR collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [4s Qh 4h Js Jd]
+Seat 1: Chalilou88 (button) showed [8c As] and lost with Two pairs : Jacks and 4
+Seat 3: _SKR (big blind) showed [Ah Jc] and won 530 with Full of Jacks and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676948898215362561-3-1673869883 - Holdem no limit (10/20) - 2023/01/16 11:51:23 UTC
+Table: 'Expresso Nitro(623275735)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Azalyk71 (370)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Azalyk71 posts big blind 20
+Dealt to _SKR [2c 2s]
+*** PRE-FLOP *** 
+_SKR raises 510 to 530 and is all-in
+Azalyk71 calls 350 and is all-in
+*** FLOP *** [7c Js Ts]
+*** TURN *** [7c Js Ts][9c]
+*** RIVER *** [7c Js Ts 9c][3c]
+*** SHOW DOWN ***
+Azalyk71 shows [Kc Jc] (Flush King high)
+_SKR shows [2c 2s] (One pair : 2)
+_SKR collected 160 from side pot 1
+Azalyk71 collected 740 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c Js Ts 9c 3c]
+Seat 2: Azalyk71 (big blind) showed [Kc Jc] and won 740 with Flush King high
+Seat 3: _SKR (small blind) (button) showed [2c 2s] and won 160 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676948898215362561-4-1673869899 - Holdem no limit (15/30) - 2023/01/16 11:51:39 UTC
+Table: 'Expresso Nitro(623275735)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Azalyk71 (740)
+Seat 3: _SKR (160)
+*** ANTE/BLINDS ***
+Azalyk71 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd Ah]
+*** PRE-FLOP *** 
+Azalyk71 raises 710 to 740 and is all-in
+_SKR calls 130 and is all-in
+*** FLOP *** [8s 5d Kh]
+*** TURN *** [8s 5d Kh][Ac]
+*** RIVER *** [8s 5d Kh Ac][Qc]
+*** SHOW DOWN ***
+Azalyk71 shows [4s 5h] (One pair : 5)
+_SKR shows [Jd Ah] (One pair : Aces)
+_SKR collected 320 from main pot
+Azalyk71 collected 580 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s 5d Kh Ac Qc]
+Seat 2: Azalyk71 (small blind) (button) showed [4s 5h] and won 580 with One pair : 5
+Seat 3: _SKR (big blind) showed [Jd Ah] and won 320 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676948898215362561-5-1673869924 - Holdem no limit (15/30) - 2023/01/16 11:52:04 UTC
+Table: 'Expresso Nitro(623275735)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Azalyk71 (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Azalyk71 posts big blind 30
+Dealt to _SKR [Th 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Azalyk71 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Azalyk71 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676948898215362561-6-1673869928 - Holdem no limit (15/30) - 2023/01/16 11:52:08 UTC
+Table: 'Expresso Nitro(623275735)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Azalyk71 (595)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+Azalyk71 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7s Qd]
+*** PRE-FLOP *** 
+Azalyk71 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676948898215362561-7-1673869931 - Holdem no limit (15/30) - 2023/01/16 11:52:11 UTC
+Table: 'Expresso Nitro(623275735)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Azalyk71 (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Azalyk71 posts big blind 30
+Dealt to _SKR [5s 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Azalyk71 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Azalyk71 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676948898215362561-8-1673869935 - Holdem no limit (15/30) - 2023/01/16 11:52:15 UTC
+Table: 'Expresso Nitro(623275735)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Azalyk71 (595)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+Azalyk71 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6c Kh]
+*** PRE-FLOP *** 
+Azalyk71 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676948898215362561-9-1673869939 - Holdem no limit (15/30) - 2023/01/16 11:52:19 UTC
+Table: 'Expresso Nitro(623275735)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Azalyk71 (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Azalyk71 posts big blind 30
+Dealt to _SKR [7s Jc]
+*** PRE-FLOP *** 
+_SKR folds
+Azalyk71 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Azalyk71 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676948898215362561-10-1673869953 - Holdem no limit (20/40) - 2023/01/16 11:52:33 UTC
+Table: 'Expresso Nitro(623275735)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Azalyk71 (595)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+Azalyk71 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5c Kh]
+*** PRE-FLOP *** 
+Azalyk71 raises 555 to 595 and is all-in
+_SKR calls 265 and is all-in
+*** FLOP *** [Td 6c 8c]
+*** TURN *** [Td 6c 8c][4d]
+*** RIVER *** [Td 6c 8c 4d][3h]
+*** SHOW DOWN ***
+_SKR shows [5c Kh] (High card : King)
+Azalyk71 shows [9h 7c] (Straight Ten high)
+Azalyk71 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td 6c 8c 4d 3h]
+Seat 2: Azalyk71 (small blind) (button) showed [9h 7c] and won 900 with Straight Ten high
+Seat 3: _SKR (big blind) showed [5c Kh] and lost with High card : King
+
+

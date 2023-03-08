@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674145001830612993-1-1673703289 - Holdem no limit (10/20) - 2023/01/14 13:34:49 UTC
+Table: 'Expresso Nitro(622622902)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: JeXX68 (300)
+Seat 3: NOCHANCE 4U (300)
+*** ANTE/BLINDS ***
+JeXX68 posts small blind 10
+NOCHANCE 4U posts big blind 20
+Dealt to _SKR [8d 3s]
+*** PRE-FLOP *** 
+_SKR folds
+JeXX68 raises 20 to 40
+NOCHANCE 4U folds
+JeXX68 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: JeXX68 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674145001830612993-2-1673703299 - Holdem no limit (10/20) - 2023/01/14 13:34:59 UTC
+Table: 'Expresso Nitro(622622902)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: JeXX68 (320)
+Seat 3: NOCHANCE 4U (280)
+*** ANTE/BLINDS ***
+NOCHANCE 4U posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd Tc]
+*** PRE-FLOP *** 
+JeXX68 calls 20
+NOCHANCE 4U raises 260 to 280 and is all-in
+_SKR folds
+JeXX68 calls 260
+*** FLOP *** [Ks 4c 7s]
+*** TURN *** [Ks 4c 7s][6d]
+*** RIVER *** [Ks 4c 7s 6d][Jd]
+*** SHOW DOWN ***
+NOCHANCE 4U shows [Ac 8d] (High card : Ace)
+JeXX68 shows [4d 7d] (Two pairs : 7 and 4)
+JeXX68 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Ks 4c 7s 6d Jd]
+Seat 2: JeXX68 (button) showed [4d 7d] and won 580 with Two pairs : 7 and 4
+Seat 3: NOCHANCE 4U (small blind) showed [Ac 8d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674145001830612993-3-1673703323 - Holdem no limit (10/20) - 2023/01/14 13:35:23 UTC
+Table: 'Expresso Nitro(622622902)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 2: JeXX68 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+JeXX68 posts big blind 20
+Dealt to _SKR [6h 8c]
+*** PRE-FLOP *** 
+_SKR folds
+JeXX68 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: JeXX68 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674145001830612993-4-1673703332 - Holdem no limit (10/20) - 2023/01/14 13:35:32 UTC
+Table: 'Expresso Nitro(622622902)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: JeXX68 (630)
+*** ANTE/BLINDS ***
+JeXX68 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 9h]
+*** PRE-FLOP *** 
+JeXX68 raises 20 to 40
+_SKR raises 230 to 270 and is all-in
+JeXX68 calls 230
+*** FLOP *** [6h 8d Jc]
+*** TURN *** [6h 8d Jc][8c]
+*** RIVER *** [6h 8d Jc 8c][Ks]
+*** SHOW DOWN ***
+_SKR shows [9d 9h] (Two pairs : 9 and 8)
+JeXX68 shows [Ac Js] (Two pairs : Jacks and 8)
+JeXX68 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [6h 8d Jc 8c Ks]
+Seat 1: _SKR (big blind) showed [9d 9h] and lost with Two pairs : 9 and 8
+Seat 2: JeXX68 (small blind) (button) showed [Ac Js] and won 540 with Two pairs : Jacks and 8
+
+

@@ -1,0 +1,95 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690504579505717249-1-1674684113 - Holdem no limit (10/20) - 2023/01/25 22:01:53 UTC
+Table: 'Expresso Nitro(626431913)#0' 3-max (real money) Seat #1 is the button
+Seat 1: laa_re7 (300)
+Seat 2: _SKR (300)
+Seat 3: Charoteam (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Charoteam posts big blind 20
+Dealt to _SKR [Ad 7d]
+*** PRE-FLOP *** 
+laa_re7 raises 20 to 40
+_SKR raises 260 to 300 and is all-in
+Charoteam folds
+laa_re7 folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: _SKR (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690504579505717249-2-1674684138 - Holdem no limit (10/20) - 2023/01/25 22:02:18 UTC
+Table: 'Expresso Nitro(626431913)#0' 3-max (real money) Seat #2 is the button
+Seat 1: laa_re7 (260)
+Seat 2: _SKR (360)
+Seat 3: Charoteam (280)
+*** ANTE/BLINDS ***
+Charoteam posts small blind 10
+laa_re7 posts big blind 20
+Dealt to _SKR [5h 5s]
+*** PRE-FLOP *** 
+_SKR raises 340 to 360 and is all-in
+Charoteam folds
+laa_re7 calls 240 and is all-in
+*** FLOP *** [Td Jd 2s]
+*** TURN *** [Td Jd 2s][9h]
+*** RIVER *** [Td Jd 2s 9h][Kd]
+*** SHOW DOWN ***
+laa_re7 shows [Th Ac] (One pair : Tens)
+_SKR shows [5h 5s] (One pair : 5)
+_SKR collected 100 from side pot 1
+laa_re7 collected 530 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Td Jd 2s 9h Kd]
+Seat 1: laa_re7 (big blind) showed [Th Ac] and won 530 with One pair : Tens
+Seat 2: _SKR (button) showed [5h 5s] and won 100 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690504579505717249-3-1674684156 - Holdem no limit (10/20) - 2023/01/25 22:02:36 UTC
+Table: 'Expresso Nitro(626431913)#0' 3-max (real money) Seat #3 is the button
+Seat 1: laa_re7 (530)
+Seat 2: _SKR (100)
+Seat 3: Charoteam (270)
+*** ANTE/BLINDS ***
+laa_re7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 5s]
+*** PRE-FLOP *** 
+Charoteam folds
+laa_re7 raises 510 to 530 and is all-in
+_SKR folds
+laa_re7 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 1: laa_re7 (small blind) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690504579505717249-4-1674684167 - Holdem no limit (10/20) - 2023/01/25 22:02:47 UTC
+Table: 'Expresso Nitro(626431913)#0' 3-max (real money) Seat #1 is the button
+Seat 1: laa_re7 (550)
+Seat 2: _SKR (80)
+Seat 3: Charoteam (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Charoteam posts big blind 20
+Dealt to _SKR [7s Kd]
+*** PRE-FLOP *** 
+laa_re7 calls 20
+_SKR raises 60 to 80 and is all-in
+Charoteam folds
+laa_re7 calls 60
+*** FLOP *** [Ac 2h 6h]
+*** TURN *** [Ac 2h 6h][4h]
+*** RIVER *** [Ac 2h 6h 4h][7c]
+*** SHOW DOWN ***
+_SKR shows [7s Kd] (One pair : 7)
+laa_re7 shows [5c 8c] (Straight 8 high)
+laa_re7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ac 2h 6h 4h 7c]
+Seat 1: laa_re7 (button) showed [5c 8c] and won 180 with Straight 8 high
+Seat 2: _SKR (small blind) showed [7s Kd] and lost with One pair : 7
+
+

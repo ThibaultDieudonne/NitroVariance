@@ -1,0 +1,132 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689813935879618561-1-1674653504 - Holdem no limit (10/20) - 2023/01/25 13:31:44 UTC
+Table: 'Expresso Nitro(626271110)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: TOTY1434 (300)
+Seat 3: Erenmartinez (300)
+*** ANTE/BLINDS ***
+TOTY1434 posts small blind 10
+Erenmartinez posts big blind 20
+Dealt to _SKR [Js Tc]
+*** PRE-FLOP *** 
+_SKR folds
+TOTY1434 folds
+Erenmartinez collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Erenmartinez (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689813935879618561-2-1674653523 - Holdem no limit (10/20) - 2023/01/25 13:32:03 UTC
+Table: 'Expresso Nitro(626271110)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: TOTY1434 (290)
+Seat 3: Erenmartinez (310)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d 8h]
+*** PRE-FLOP *** 
+TOTY1434 calls 20
+Erenmartinez calls 10
+_SKR checks
+*** FLOP *** [3h Td 9h]
+Erenmartinez bets 20
+_SKR folds
+TOTY1434 calls 20
+*** TURN *** [3h Td 9h][Kc]
+Erenmartinez checks
+TOTY1434 bets 20
+Erenmartinez calls 20
+*** RIVER *** [3h Td 9h Kc][Ad]
+Erenmartinez bets 20
+TOTY1434 raises 50 to 70
+Erenmartinez calls 50
+*** SHOW DOWN ***
+TOTY1434 shows [3s Qd] (One pair : 3)
+Erenmartinez shows [Th 7d] (One pair : Tens)
+Erenmartinez collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [3h Td 9h Kc Ad]
+Seat 2: TOTY1434 (button) showed [3s Qd] and lost with One pair : 3
+Seat 3: Erenmartinez (small blind) showed [Th 7d] and won 280 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689813935879618561-3-1674653569 - Holdem no limit (15/30) - 2023/01/25 13:32:49 UTC
+Table: 'Expresso Nitro(626271110)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: TOTY1434 (160)
+Seat 3: Erenmartinez (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+TOTY1434 posts big blind 30
+Dealt to _SKR [Kd 4s]
+*** PRE-FLOP *** 
+Erenmartinez calls 30
+_SKR folds
+TOTY1434 checks
+*** FLOP *** [3s 8h Kh]
+TOTY1434 checks
+Erenmartinez checks
+*** TURN *** [3s 8h Kh][5c]
+TOTY1434 checks
+Erenmartinez checks
+*** RIVER *** [3s 8h Kh 5c][Ad]
+TOTY1434 checks
+Erenmartinez bets 30
+TOTY1434 folds
+Erenmartinez collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [3s 8h Kh 5c Ad]
+Seat 3: Erenmartinez (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689813935879618561-4-1674653590 - Holdem no limit (15/30) - 2023/01/25 13:33:10 UTC
+Table: 'Expresso Nitro(626271110)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (265)
+Seat 2: TOTY1434 (130)
+Seat 3: Erenmartinez (505)
+*** ANTE/BLINDS ***
+TOTY1434 posts small blind 15
+Erenmartinez posts big blind 30
+Dealt to _SKR [3d Qd]
+*** PRE-FLOP *** 
+_SKR folds
+TOTY1434 calls 15
+Erenmartinez raises 30 to 60
+TOTY1434 folds
+Erenmartinez collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Erenmartinez (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689813935879618561-5-1674653600 - Holdem no limit (15/30) - 2023/01/25 13:33:20 UTC
+Table: 'Expresso Nitro(626271110)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (265)
+Seat 2: TOTY1434 (100)
+Seat 3: Erenmartinez (535)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc Th]
+*** PRE-FLOP *** 
+TOTY1434 folds
+Erenmartinez calls 15
+_SKR raises 235 to 265 and is all-in
+Erenmartinez raises 270 to 535 and is all-in
+*** FLOP *** [Ad 7h 8c]
+*** TURN *** [Ad 7h 8c][7c]
+*** RIVER *** [Ad 7h 8c 7c][Qc]
+*** SHOW DOWN ***
+_SKR shows [Tc Th] (Two pairs : Tens and 7)
+Erenmartinez shows [Qs As] (Two pairs : Aces and Queens)
+Erenmartinez collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Ad 7h 8c 7c Qc]
+Seat 1: _SKR (big blind) showed [Tc Th] and lost with Two pairs : Tens and 7
+Seat 3: Erenmartinez (small blind) showed [Qs As] and won 800 with Two pairs : Aces and Queens
+
+

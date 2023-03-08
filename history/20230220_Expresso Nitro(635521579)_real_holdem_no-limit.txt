@@ -1,0 +1,49 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729544397707280385-1-1676919542 - Holdem no limit (10/20) - 2023/02/20 18:59:02 UTC
+Table: 'Expresso Nitro(635521579)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pack79430 (300)
+Seat 2: _SKR (300)
+Seat 3: GROSSBIGDUCK (300)
+*** ANTE/BLINDS ***
+Pack79430 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 6s]
+*** PRE-FLOP *** 
+GROSSBIGDUCK folds
+Pack79430 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729544397707280385-2-1676919551 - Holdem no limit (10/20) - 2023/02/20 18:59:11 UTC
+Table: 'Expresso Nitro(635521579)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pack79430 (290)
+Seat 2: _SKR (310)
+Seat 3: GROSSBIGDUCK (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+GROSSBIGDUCK posts big blind 20
+Dealt to _SKR [As Ac]
+*** PRE-FLOP *** 
+Pack79430 raises 20 to 40
+_SKR calls 30
+GROSSBIGDUCK raises 260 to 300 and is all-in
+Pack79430 calls 250 and is all-in
+_SKR calls 260
+*** FLOP *** [6d 2s 3c]
+*** TURN *** [6d 2s 3c][6c]
+*** RIVER *** [6d 2s 3c 6c][Qc]
+*** SHOW DOWN ***
+Pack79430 shows [Kd Tc] (One pair : 6)
+GROSSBIGDUCK shows [2h Ad] (Two pairs : 6 and 2)
+_SKR shows [As Ac] (Two pairs : Aces and 6)
+_SKR collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [6d 2s 3c 6c Qc]
+Seat 1: Pack79430 (button) showed [Kd Tc] and lost with One pair : 6
+Seat 2: _SKR (small blind) showed [As Ac] and won 890 with Two pairs : Aces and 6
+Seat 3: GROSSBIGDUCK (big blind) showed [2h Ad] and lost with Two pairs : 6 and 2
+
+

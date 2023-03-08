@@ -1,0 +1,379 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698234734659502081-1-1675186738 - Holdem no limit (10/20) - 2023/01/31 17:38:58 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cerf.Sage693 (300)
+Seat 2: Player221015 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Player221015 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h 8s]
+*** PRE-FLOP *** 
+Cerf.Sage693 calls 20
+Player221015 raises 280 to 300 and is all-in
+_SKR folds
+Cerf.Sage693 folds
+Player221015 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: Player221015 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698234734659502081-2-1675186755 - Holdem no limit (10/20) - 2023/01/31 17:39:15 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cerf.Sage693 (280)
+Seat 2: Player221015 (340)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cerf.Sage693 posts big blind 20
+Dealt to _SKR [9c Js]
+*** PRE-FLOP *** 
+Player221015 folds
+_SKR calls 10
+Cerf.Sage693 checks
+*** FLOP *** [5c Th 9h]
+_SKR checks
+Cerf.Sage693 checks
+*** TURN *** [5c Th 9h][4h]
+_SKR checks
+Cerf.Sage693 checks
+*** RIVER *** [5c Th 9h 4h][2c]
+_SKR checks
+Cerf.Sage693 checks
+*** SHOW DOWN ***
+Cerf.Sage693 shows [Jc 3d] (High card : Jack)
+_SKR shows [9c Js] (One pair : 9)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [5c Th 9h 4h 2c]
+Seat 1: Cerf.Sage693 (big blind) showed [Jc 3d] and lost with High card : Jack
+Seat 3: _SKR (small blind) showed [9c Js] and won 40 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698234734659502081-3-1675186822 - Holdem no limit (15/30) - 2023/01/31 17:40:22 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cerf.Sage693 (260)
+Seat 2: Player221015 (340)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Cerf.Sage693 posts small blind 15
+Player221015 posts big blind 30
+Dealt to _SKR [2s 9s]
+*** PRE-FLOP *** 
+_SKR folds
+Cerf.Sage693 calls 15
+Player221015 checks
+*** FLOP *** [Js Ks 8d]
+Cerf.Sage693 checks
+Player221015 checks
+*** TURN *** [Js Ks 8d][Kc]
+Cerf.Sage693 bets 30
+Player221015 folds
+Cerf.Sage693 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Js Ks 8d Kc]
+Seat 1: Cerf.Sage693 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698234734659502081-4-1675186863 - Holdem no limit (20/40) - 2023/01/31 17:41:03 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cerf.Sage693 (290)
+Seat 2: Player221015 (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Player221015 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5h 4s]
+*** PRE-FLOP *** 
+Cerf.Sage693 calls 40
+Player221015 raises 270 to 310 and is all-in
+_SKR folds
+Cerf.Sage693 folds
+Player221015 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 2: Player221015 (small blind) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698234734659502081-5-1675186875 - Holdem no limit (20/40) - 2023/01/31 17:41:15 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cerf.Sage693 (250)
+Seat 2: Player221015 (390)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Cerf.Sage693 posts big blind 40
+Dealt to _SKR [6h 6d]
+*** PRE-FLOP *** 
+Player221015 raises 48 to 88
+_SKR raises 172 to 260 and is all-in
+Cerf.Sage693 folds
+Player221015 calls 172
+*** FLOP *** [9s Kh Th]
+*** TURN *** [9s Kh Th][Tc]
+*** RIVER *** [9s Kh Th Tc][4d]
+*** SHOW DOWN ***
+Player221015 shows [Ad Jc] (One pair : Tens)
+_SKR shows [6h 6d] (Two pairs : Tens and 6)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9s Kh Th Tc 4d]
+Seat 2: Player221015 (button) showed [Ad Jc] and lost with One pair : Tens
+Seat 3: _SKR (small blind) showed [6h 6d] and won 560 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698234734659502081-6-1675186901 - Holdem no limit (20/40) - 2023/01/31 17:41:41 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cerf.Sage693 (210)
+Seat 2: Player221015 (130)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+Cerf.Sage693 posts small blind 20
+Player221015 posts big blind 40
+Dealt to _SKR [5h 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Cerf.Sage693 calls 20
+Player221015 raises 90 to 130 and is all-in
+Cerf.Sage693 calls 90
+*** FLOP *** [Jc 8s 8d]
+*** TURN *** [Jc 8s 8d][4h]
+*** RIVER *** [Jc 8s 8d 4h][Tc]
+*** SHOW DOWN ***
+Player221015 shows [Jd 3s] (Two pairs : Jacks and 8)
+Cerf.Sage693 shows [8c 6h] (Trips of 8)
+Cerf.Sage693 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [Jc 8s 8d 4h Tc]
+Seat 1: Cerf.Sage693 (small blind) showed [8c 6h] and won 260 with Trips of 8
+Seat 2: Player221015 (big blind) showed [Jd 3s] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698234734659502081-7-1675186920 - Holdem no limit (30/60) - 2023/01/31 17:42:00 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cerf.Sage693 (340)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Cerf.Sage693 posts big blind 60
+Dealt to _SKR [Kc 5s]
+*** PRE-FLOP *** 
+_SKR raises 500 to 560 and is all-in
+Cerf.Sage693 folds
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 3: _SKR (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698234734659502081-8-1675186927 - Holdem no limit (30/60) - 2023/01/31 17:42:07 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cerf.Sage693 (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+Cerf.Sage693 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jh 3h]
+*** PRE-FLOP *** 
+Cerf.Sage693 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698234734659502081-9-1675186930 - Holdem no limit (30/60) - 2023/01/31 17:42:10 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cerf.Sage693 (250)
+Seat 3: _SKR (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Cerf.Sage693 posts big blind 60
+Dealt to _SKR [2c 9s]
+*** PRE-FLOP *** 
+_SKR folds
+Cerf.Sage693 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Cerf.Sage693 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698234734659502081-10-1675186946 - Holdem no limit (30/60) - 2023/01/31 17:42:26 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cerf.Sage693 (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+Cerf.Sage693 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7d 3h]
+*** PRE-FLOP *** 
+Cerf.Sage693 calls 30
+_SKR checks
+*** FLOP *** [8d Qs 7s]
+_SKR checks
+Cerf.Sage693 bets 120
+_SKR folds
+Cerf.Sage693 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8d Qs 7s]
+Seat 1: Cerf.Sage693 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698234734659502081-11-1675186983 - Holdem no limit (40/80) - 2023/01/31 17:43:03 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cerf.Sage693 (340)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Cerf.Sage693 posts big blind 80
+Dealt to _SKR [3h 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Cerf.Sage693 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Cerf.Sage693 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698234734659502081-12-1675186987 - Holdem no limit (40/80) - 2023/01/31 17:43:07 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cerf.Sage693 (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+Cerf.Sage693 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Jh 3h]
+*** PRE-FLOP *** 
+Cerf.Sage693 calls 40
+_SKR checks
+*** FLOP *** [Kh Ts 5c]
+_SKR checks
+Cerf.Sage693 checks
+*** TURN *** [Kh Ts 5c][2c]
+_SKR checks
+Cerf.Sage693 checks
+*** RIVER *** [Kh Ts 5c 2c][6d]
+_SKR checks
+Cerf.Sage693 checks
+*** SHOW DOWN ***
+Cerf.Sage693 shows [8h 9c] (High card : King)
+_SKR shows [Jh 3h] (High card : King)
+_SKR collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Kh Ts 5c 2c 6d]
+Seat 1: Cerf.Sage693 (small blind) (button) showed [8h 9c] and lost with High card : King
+Seat 3: _SKR (big blind) showed [Jh 3h] and won 160 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698234734659502081-13-1675187018 - Holdem no limit (40/80) - 2023/01/31 17:43:38 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cerf.Sage693 (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Cerf.Sage693 posts big blind 80
+Dealt to _SKR [7d 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Cerf.Sage693 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Cerf.Sage693 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698234734659502081-14-1675187023 - Holdem no limit (40/80) - 2023/01/31 17:43:43 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cerf.Sage693 (340)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+Cerf.Sage693 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Qh 6c]
+*** PRE-FLOP *** 
+Cerf.Sage693 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698234734659502081-15-1675187027 - Holdem no limit (40/80) - 2023/01/31 17:43:47 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cerf.Sage693 (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Cerf.Sage693 posts big blind 80
+Dealt to _SKR [Jc 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Cerf.Sage693 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Cerf.Sage693 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698234734659502081-16-1675187032 - Holdem no limit (40/80) - 2023/01/31 17:43:52 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cerf.Sage693 (340)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+Cerf.Sage693 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [8h 7c]
+*** PRE-FLOP *** 
+Cerf.Sage693 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2698234734659502081-17-1675187035 - Holdem no limit (50/100) - 2023/01/31 17:43:55 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cerf.Sage693 (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Cerf.Sage693 posts big blind 100
+Dealt to _SKR [9h 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Cerf.Sage693 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Cerf.Sage693 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2698234734659502081-18-1675187039 - Holdem no limit (50/100) - 2023/01/31 17:43:59 UTC
+Table: 'Expresso Nitro(628231730)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cerf.Sage693 (350)
+Seat 3: _SKR (550)
+*** ANTE/BLINDS ***
+Cerf.Sage693 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [9h Kc]
+*** PRE-FLOP *** 
+Cerf.Sage693 calls 50
+_SKR raises 450 to 550 and is all-in
+Cerf.Sage693 calls 250 and is all-in
+*** FLOP *** [5d 4d Ks]
+*** TURN *** [5d 4d Ks][8h]
+*** RIVER *** [5d 4d Ks 8h][Ad]
+*** SHOW DOWN ***
+Cerf.Sage693 shows [3c 4c] (One pair : 4)
+_SKR shows [9h Kc] (One pair : Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5d 4d Ks 8h Ad]
+Seat 1: Cerf.Sage693 (small blind) (button) showed [3c 4c] and lost with One pair : 4
+Seat 3: _SKR (big blind) showed [9h Kc] and won 900 with One pair : Kings
+
+

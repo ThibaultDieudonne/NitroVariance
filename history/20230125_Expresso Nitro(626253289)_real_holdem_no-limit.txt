@@ -1,0 +1,129 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689737395267436545-1-1674648855 - Holdem no limit (10/20) - 2023/01/25 12:14:15 UTC
+Table: 'Expresso Nitro(626253289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Stjulzoo76 (300)
+Seat 2: Karolenou (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Karolenou posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd 4s]
+*** PRE-FLOP *** 
+Stjulzoo76 folds
+Karolenou calls 10
+_SKR checks
+*** FLOP *** [Ts Qd Th]
+Karolenou checks
+_SKR checks
+*** TURN *** [Ts Qd Th][8c]
+Karolenou checks
+_SKR checks
+*** RIVER *** [Ts Qd Th 8c][Kc]
+Karolenou checks
+_SKR bets 32
+Karolenou calls 32
+*** SHOW DOWN ***
+_SKR shows [Jd 4s] (One pair : Tens)
+Karolenou shows [Js 8d] (Two pairs : Tens and 8)
+Karolenou collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Board: [Ts Qd Th 8c Kc]
+Seat 2: Karolenou (small blind) showed [Js 8d] and won 104 with Two pairs : Tens and 8
+Seat 3: _SKR (big blind) showed [Jd 4s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689737395267436545-2-1674648891 - Holdem no limit (10/20) - 2023/01/25 12:14:51 UTC
+Table: 'Expresso Nitro(626253289)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Stjulzoo76 (300)
+Seat 2: Karolenou (352)
+Seat 3: _SKR (248)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Stjulzoo76 posts big blind 20
+Dealt to _SKR [Td 3h]
+*** PRE-FLOP *** 
+Karolenou calls 20
+_SKR folds
+Stjulzoo76 checks
+*** FLOP *** [Qd 2c 3d]
+Stjulzoo76 checks
+Karolenou checks
+*** TURN *** [Qd 2c 3d][9d]
+Stjulzoo76 checks
+Karolenou checks
+*** RIVER *** [Qd 2c 3d 9d][8d]
+Stjulzoo76 checks
+Karolenou checks
+*** SHOW DOWN ***
+Stjulzoo76 shows [5h 2s] (One pair : 2)
+Karolenou shows [Jc 9h] (One pair : 9)
+Karolenou collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Qd 2c 3d 9d 8d]
+Seat 1: Stjulzoo76 (big blind) showed [5h 2s] and lost with One pair : 2
+Seat 2: Karolenou (button) showed [Jc 9h] and won 50 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689737395267436545-3-1674648917 - Holdem no limit (15/30) - 2023/01/25 12:15:17 UTC
+Table: 'Expresso Nitro(626253289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Stjulzoo76 (280)
+Seat 2: Karolenou (382)
+Seat 3: _SKR (238)
+*** ANTE/BLINDS ***
+Stjulzoo76 posts small blind 15
+Karolenou posts big blind 30
+Dealt to _SKR [Qh 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Stjulzoo76 calls 15
+Karolenou checks
+*** FLOP *** [3c 2d 9c]
+Stjulzoo76 checks
+Karolenou checks
+*** TURN *** [3c 2d 9c][8h]
+Stjulzoo76 checks
+Karolenou checks
+*** RIVER *** [3c 2d 9c 8h][6h]
+Stjulzoo76 checks
+Karolenou checks
+*** SHOW DOWN ***
+Karolenou shows [Jh 7c] (High card : Jack)
+Stjulzoo76 shows [Ks Ac] (High card : Ace)
+Stjulzoo76 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3c 2d 9c 8h 6h]
+Seat 1: Stjulzoo76 (small blind) showed [Ks Ac] and won 60 with High card : Ace
+Seat 2: Karolenou (big blind) showed [Jh 7c] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689737395267436545-4-1674648943 - Holdem no limit (15/30) - 2023/01/25 12:15:43 UTC
+Table: 'Expresso Nitro(626253289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Stjulzoo76 (310)
+Seat 2: Karolenou (352)
+Seat 3: _SKR (238)
+*** ANTE/BLINDS ***
+Karolenou posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3s 3d]
+*** PRE-FLOP *** 
+Stjulzoo76 calls 30
+Karolenou calls 15
+_SKR raises 208 to 238 and is all-in
+Stjulzoo76 folds
+Karolenou calls 208
+*** FLOP *** [Jh Ts As]
+*** TURN *** [Jh Ts As][4s]
+*** RIVER *** [Jh Ts As 4s][9h]
+*** SHOW DOWN ***
+_SKR shows [3s 3d] (One pair : 3)
+Karolenou shows [Ac Tc] (Two pairs : Aces and Tens)
+Karolenou collected 506 from pot
+*** SUMMARY ***
+Total pot 506 | No rake
+Board: [Jh Ts As 4s 9h]
+Seat 2: Karolenou (small blind) showed [Ac Tc] and won 506 with Two pairs : Aces and Tens
+Seat 3: _SKR (big blind) showed [3s 3d] and lost with One pair : 3
+
+

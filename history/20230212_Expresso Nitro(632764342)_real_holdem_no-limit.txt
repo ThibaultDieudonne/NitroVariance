@@ -1,0 +1,377 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717702154964959233-1-1676232141 - Holdem no limit (10/20) - 2023/02/12 20:02:21 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: DHLmoneywar (300)
+Seat 3: HH_Joke33 (300)
+*** ANTE/BLINDS ***
+DHLmoneywar posts small blind 10
+HH_Joke33 posts big blind 20
+Dealt to _SKR [2h Qc]
+*** PRE-FLOP *** 
+_SKR folds
+DHLmoneywar calls 10
+HH_Joke33 checks
+*** FLOP *** [9s Jc 3d]
+DHLmoneywar checks
+HH_Joke33 checks
+*** TURN *** [9s Jc 3d][8h]
+DHLmoneywar bets 20
+HH_Joke33 raises 80 to 100
+DHLmoneywar calls 80
+*** RIVER *** [9s Jc 3d 8h][2d]
+DHLmoneywar checks
+HH_Joke33 bets 180 and is all-in
+DHLmoneywar calls 180 and is all-in
+*** SHOW DOWN ***
+DHLmoneywar shows [Ts 8c] (One pair : 8)
+HH_Joke33 shows [Jd 9c] (Two pairs : Jacks and 9)
+HH_Joke33 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9s Jc 3d 8h 2d]
+Seat 2: DHLmoneywar (small blind) showed [Ts 8c] and lost with One pair : 8
+Seat 3: HH_Joke33 (big blind) showed [Jd 9c] and won 600 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717702154964959233-2-1676232174 - Holdem no limit (10/20) - 2023/02/12 20:02:54 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 3: HH_Joke33 (600)
+*** ANTE/BLINDS ***
+HH_Joke33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac 7c]
+*** PRE-FLOP *** 
+HH_Joke33 raises 40 to 60
+_SKR raises 240 to 300 and is all-in
+HH_Joke33 calls 240
+*** FLOP *** [6h 5d Kh]
+*** TURN *** [6h 5d Kh][Jd]
+*** RIVER *** [6h 5d Kh Jd][Td]
+*** SHOW DOWN ***
+HH_Joke33 shows [9h 4h] (High card : King)
+_SKR shows [Ac 7c] (High card : Ace)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6h 5d Kh Jd Td]
+Seat 1: _SKR (big blind) showed [Ac 7c] and won 600 with High card : Ace
+Seat 3: HH_Joke33 (small blind) (button) showed [9h 4h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717702154964959233-3-1676232192 - Holdem no limit (10/20) - 2023/02/12 20:03:12 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 3: HH_Joke33 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+HH_Joke33 posts big blind 20
+Dealt to _SKR [8s 9d]
+*** PRE-FLOP *** 
+_SKR folds
+HH_Joke33 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: HH_Joke33 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717702154964959233-4-1676232196 - Holdem no limit (10/20) - 2023/02/12 20:03:16 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (590)
+Seat 3: HH_Joke33 (310)
+*** ANTE/BLINDS ***
+HH_Joke33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5c Qh]
+*** PRE-FLOP *** 
+HH_Joke33 calls 10
+_SKR checks
+*** FLOP *** [9d 3c 2h]
+_SKR checks
+HH_Joke33 checks
+*** TURN *** [9d 3c 2h][4s]
+_SKR checks
+HH_Joke33 bets 40
+_SKR folds
+HH_Joke33 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9d 3c 2h 4s]
+Seat 3: HH_Joke33 (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717702154964959233-5-1676232214 - Holdem no limit (15/30) - 2023/02/12 20:03:34 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (570)
+Seat 3: HH_Joke33 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+HH_Joke33 posts big blind 30
+Dealt to _SKR [4d Qs]
+*** PRE-FLOP *** 
+_SKR folds
+HH_Joke33 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: HH_Joke33 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717702154964959233-6-1676232222 - Holdem no limit (15/30) - 2023/02/12 20:03:42 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (555)
+Seat 3: HH_Joke33 (345)
+*** ANTE/BLINDS ***
+HH_Joke33 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ks Jd]
+*** PRE-FLOP *** 
+HH_Joke33 calls 15
+_SKR raises 525 to 555 and is all-in
+HH_Joke33 folds
+_SKR collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Seat 1: _SKR (big blind) won 585
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717702154964959233-7-1676232230 - Holdem no limit (15/30) - 2023/02/12 20:03:50 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (585)
+Seat 3: HH_Joke33 (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+HH_Joke33 posts big blind 30
+Dealt to _SKR [7c 8h]
+*** PRE-FLOP *** 
+_SKR folds
+HH_Joke33 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: HH_Joke33 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717702154964959233-8-1676232238 - Holdem no limit (15/30) - 2023/02/12 20:03:58 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (570)
+Seat 3: HH_Joke33 (330)
+*** ANTE/BLINDS ***
+HH_Joke33 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc 5s]
+*** PRE-FLOP *** 
+HH_Joke33 calls 15
+_SKR checks
+*** FLOP *** [Ad Kd 3c]
+_SKR checks
+HH_Joke33 bets 60
+_SKR folds
+HH_Joke33 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ad Kd 3c]
+Seat 3: HH_Joke33 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717702154964959233-9-1676232261 - Holdem no limit (20/40) - 2023/02/12 20:04:21 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (540)
+Seat 3: HH_Joke33 (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+HH_Joke33 posts big blind 40
+Dealt to _SKR [9h Ah]
+*** PRE-FLOP *** 
+_SKR raises 500 to 540 and is all-in
+HH_Joke33 folds
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 1: _SKR (small blind) (button) won 580
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717702154964959233-10-1676232267 - Holdem no limit (20/40) - 2023/02/12 20:04:27 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (580)
+Seat 3: HH_Joke33 (320)
+*** ANTE/BLINDS ***
+HH_Joke33 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5s 7d]
+*** PRE-FLOP *** 
+HH_Joke33 calls 20
+_SKR checks
+*** FLOP *** [Qh Kd 5c]
+_SKR checks
+HH_Joke33 checks
+*** TURN *** [Qh Kd 5c][3d]
+_SKR checks
+HH_Joke33 checks
+*** RIVER *** [Qh Kd 5c 3d][3h]
+_SKR checks
+HH_Joke33 bets 80
+_SKR calls 80
+*** SHOW DOWN ***
+_SKR shows [5s 7d] (Two pairs : 5 and 3)
+HH_Joke33 shows [3c As] (Trips of 3)
+HH_Joke33 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Qh Kd 5c 3d 3h]
+Seat 1: _SKR (big blind) showed [5s 7d] and lost with Two pairs : 5 and 3
+Seat 3: HH_Joke33 (small blind) (button) showed [3c As] and won 240 with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717702154964959233-11-1676232291 - Holdem no limit (20/40) - 2023/02/12 20:04:51 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (460)
+Seat 3: HH_Joke33 (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+HH_Joke33 posts big blind 40
+Dealt to _SKR [7h 4h]
+*** PRE-FLOP *** 
+_SKR folds
+HH_Joke33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: HH_Joke33 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717702154964959233-12-1676232294 - Holdem no limit (20/40) - 2023/02/12 20:04:54 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (440)
+Seat 3: HH_Joke33 (460)
+*** ANTE/BLINDS ***
+HH_Joke33 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 7h]
+*** PRE-FLOP *** 
+HH_Joke33 raises 80 to 120
+_SKR folds
+HH_Joke33 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: HH_Joke33 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717702154964959233-13-1676232302 - Holdem no limit (20/40) - 2023/02/12 20:05:02 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (400)
+Seat 3: HH_Joke33 (500)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+HH_Joke33 posts big blind 40
+Dealt to _SKR [Jh 5c]
+*** PRE-FLOP *** 
+_SKR folds
+HH_Joke33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: HH_Joke33 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717702154964959233-14-1676232306 - Holdem no limit (20/40) - 2023/02/12 20:05:06 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (380)
+Seat 3: HH_Joke33 (520)
+*** ANTE/BLINDS ***
+HH_Joke33 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s Jc]
+*** PRE-FLOP *** 
+HH_Joke33 calls 20
+_SKR checks
+*** FLOP *** [Th 3h Jd]
+_SKR checks
+HH_Joke33 bets 80
+_SKR calls 80
+*** TURN *** [Th 3h Jd][9h]
+_SKR checks
+HH_Joke33 checks
+*** RIVER *** [Th 3h Jd 9h][Qc]
+_SKR checks
+HH_Joke33 bets 400 and is all-in
+_SKR folds
+HH_Joke33 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Th 3h Jd 9h Qc]
+Seat 3: HH_Joke33 (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717702154964959233-15-1676232341 - Holdem no limit (30/60) - 2023/02/12 20:05:41 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (260)
+Seat 3: HH_Joke33 (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+HH_Joke33 posts big blind 60
+Dealt to _SKR [9d Ts]
+*** PRE-FLOP *** 
+_SKR raises 200 to 260 and is all-in
+HH_Joke33 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: _SKR (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717702154964959233-16-1676232351 - Holdem no limit (30/60) - 2023/02/12 20:05:51 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 3: HH_Joke33 (580)
+*** ANTE/BLINDS ***
+HH_Joke33 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [6s Jd]
+*** PRE-FLOP *** 
+HH_Joke33 raises 120 to 180
+_SKR folds
+HH_Joke33 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: HH_Joke33 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717702154964959233-17-1676232356 - Holdem no limit (30/60) - 2023/02/12 20:05:56 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (260)
+Seat 3: HH_Joke33 (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+HH_Joke33 posts big blind 60
+Dealt to _SKR [5h 9s]
+*** PRE-FLOP *** 
+_SKR folds
+HH_Joke33 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: HH_Joke33 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717702154964959233-18-1676232361 - Holdem no limit (30/60) - 2023/02/12 20:06:01 UTC
+Table: 'Expresso Nitro(632764342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (230)
+Seat 3: HH_Joke33 (670)
+*** ANTE/BLINDS ***
+HH_Joke33 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8h Kc]
+*** PRE-FLOP *** 
+HH_Joke33 raises 120 to 180
+_SKR raises 50 to 230 and is all-in
+HH_Joke33 calls 50
+*** FLOP *** [Ks 7h 6s]
+*** TURN *** [Ks 7h 6s][3c]
+*** RIVER *** [Ks 7h 6s 3c][5h]
+*** SHOW DOWN ***
+_SKR shows [8h Kc] (One pair : Kings)
+HH_Joke33 shows [4h Qc] (Straight 7 high)
+HH_Joke33 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [Ks 7h 6s 3c 5h]
+Seat 1: _SKR (big blind) showed [8h Kc] and lost with One pair : Kings
+Seat 3: HH_Joke33 (small blind) (button) showed [4h Qc] and won 460 with Straight 7 high
+
+

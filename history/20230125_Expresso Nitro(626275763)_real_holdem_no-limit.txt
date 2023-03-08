@@ -1,0 +1,175 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689833920362446849-1-1674654693 - Holdem no limit (10/20) - 2023/01/25 13:51:33 UTC
+Table: 'Expresso Nitro(626275763)#0' 3-max (real money) Seat #1 is the button
+Seat 1: St jack 63 (300)
+Seat 2: lexro42 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+lexro42 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc 4c]
+*** PRE-FLOP *** 
+St jack 63 folds
+lexro42 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689833920362446849-2-1674654704 - Holdem no limit (10/20) - 2023/01/25 13:51:44 UTC
+Table: 'Expresso Nitro(626275763)#0' 3-max (real money) Seat #2 is the button
+Seat 1: St jack 63 (300)
+Seat 2: lexro42 (290)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+St jack 63 posts big blind 20
+Dealt to _SKR [Jc Ks]
+*** PRE-FLOP *** 
+lexro42 calls 20
+_SKR raises 290 to 310 and is all-in
+St jack 63 folds
+lexro42 folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: _SKR (small blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689833920362446849-3-1674654721 - Holdem no limit (10/20) - 2023/01/25 13:52:01 UTC
+Table: 'Expresso Nitro(626275763)#0' 3-max (real money) Seat #3 is the button
+Seat 1: St jack 63 (280)
+Seat 2: lexro42 (270)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+St jack 63 posts small blind 10
+lexro42 posts big blind 20
+Dealt to _SKR [9d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+St jack 63 raises 40 to 60
+lexro42 calls 40
+*** FLOP *** [8d 6c Ts]
+St jack 63 bets 78
+lexro42 calls 78
+*** TURN *** [8d 6c Ts][7c]
+St jack 63 checks
+lexro42 bets 132 and is all-in
+St jack 63 calls 132
+*** RIVER *** [8d 6c Ts 7c][Jd]
+*** SHOW DOWN ***
+St jack 63 shows [Td Ks] (One pair : Tens)
+lexro42 shows [Jc 7d] (Two pairs : Jacks and 7)
+lexro42 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [8d 6c Ts 7c Jd]
+Seat 1: St jack 63 (small blind) showed [Td Ks] and lost with One pair : Tens
+Seat 2: lexro42 (big blind) showed [Jc 7d] and won 540 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689833920362446849-4-1674654740 - Holdem no limit (10/20) - 2023/01/25 13:52:20 UTC
+Table: 'Expresso Nitro(626275763)#0' 3-max (real money) Seat #1 is the button
+Seat 1: St jack 63 (10)
+Seat 2: lexro42 (540)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+lexro42 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 8s]
+*** PRE-FLOP *** 
+St jack 63 calls 10 and is all-in
+lexro42 raises 50 to 70
+_SKR folds
+*** FLOP *** [Qd 2s 4d]
+*** TURN *** [Qd 2s 4d][8h]
+*** RIVER *** [Qd 2s 4d 8h][6h]
+*** SHOW DOWN ***
+St jack 63 shows [6c Jd] (One pair : 6)
+lexro42 shows [3d Ah] (High card : Ace)
+lexro42 collected 70 from side pot 1
+St jack 63 collected 30 from main pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Qd 2s 4d 8h 6h]
+Seat 1: St jack 63 (button) showed [6c Jd] and won 30 with One pair : 6
+Seat 2: lexro42 (small blind) showed [3d Ah] and won 70 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689833920362446849-5-1674654753 - Holdem no limit (15/30) - 2023/01/25 13:52:33 UTC
+Table: 'Expresso Nitro(626275763)#0' 3-max (real money) Seat #2 is the button
+Seat 1: St jack 63 (30)
+Seat 2: lexro42 (540)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+St jack 63 posts big blind 30 and is all-in
+Dealt to _SKR [8c 8h]
+*** PRE-FLOP *** 
+lexro42 raises 510 to 540 and is all-in
+_SKR calls 315 and is all-in
+*** FLOP *** [Td 8d 4h]
+*** TURN *** [Td 8d 4h][Ts]
+*** RIVER *** [Td 8d 4h Ts][6c]
+*** SHOW DOWN ***
+St jack 63 shows [7c Th] (Trips of Tens)
+lexro42 shows [Qs 5d] (One pair : Tens)
+_SKR shows [8c 8h] (Full of 8 and Tens)
+_SKR collected 690 from main pot
+lexro42 collected 210 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td 8d 4h Ts 6c]
+Seat 1: St jack 63 (big blind) showed [7c Th] and lost with Trips of Tens
+Seat 2: lexro42 (button) showed [Qs 5d] and won 210 with One pair : Tens
+Seat 3: _SKR (small blind) showed [8c 8h] and won 690 with Full of 8 and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689833920362446849-6-1674654765 - Holdem no limit (15/30) - 2023/01/25 13:52:45 UTC
+Table: 'Expresso Nitro(626275763)#0' 3-max (real money) Seat #2 is the button
+Seat 2: lexro42 (210)
+Seat 3: _SKR (690)
+*** ANTE/BLINDS ***
+lexro42 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8s Th]
+*** PRE-FLOP *** 
+lexro42 calls 15
+_SKR checks
+*** FLOP *** [Jh 6h 2s]
+_SKR checks
+lexro42 bets 180 and is all-in
+_SKR folds
+lexro42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jh 6h 2s]
+Seat 2: lexro42 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689833920362446849-7-1674654784 - Holdem no limit (15/30) - 2023/01/25 13:53:04 UTC
+Table: 'Expresso Nitro(626275763)#0' 3-max (real money) Seat #3 is the button
+Seat 2: lexro42 (240)
+Seat 3: _SKR (660)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+lexro42 posts big blind 30
+Dealt to _SKR [Ac Ah]
+*** PRE-FLOP *** 
+_SKR calls 15
+lexro42 raises 210 to 240 and is all-in
+_SKR calls 210
+*** FLOP *** [Qs Ad Qd]
+*** TURN *** [Qs Ad Qd][Ts]
+*** RIVER *** [Qs Ad Qd Ts][Js]
+*** SHOW DOWN ***
+lexro42 shows [2c Tc] (Two pairs : Queens and Tens)
+_SKR shows [Ac Ah] (Full of Aces and Queens)
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qs Ad Qd Ts Js]
+Seat 2: lexro42 (big blind) showed [2c Tc] and lost with Two pairs : Queens and Tens
+Seat 3: _SKR (small blind) (button) showed [Ac Ah] and won 480 with Full of Aces and Queens
+
+

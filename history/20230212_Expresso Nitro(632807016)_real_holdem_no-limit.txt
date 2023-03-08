@@ -1,0 +1,194 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717885438399348737-1-1676238837 - Holdem no limit (10/20) - 2023/02/12 21:53:57 UTC
+Table: 'Expresso Nitro(632807016)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PoucchK (300)
+Seat 2: kyllian.b49 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+kyllian.b49 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c Jc]
+*** PRE-FLOP *** 
+PoucchK calls 20
+kyllian.b49 calls 10
+_SKR checks
+*** FLOP *** [Kd Jd 2h]
+kyllian.b49 checks
+_SKR checks
+PoucchK checks
+*** TURN *** [Kd Jd 2h][2s]
+kyllian.b49 checks
+_SKR bets 30
+PoucchK calls 30
+kyllian.b49 folds
+*** RIVER *** [Kd Jd 2h 2s][7s]
+_SKR bets 78
+PoucchK calls 78
+*** SHOW DOWN ***
+PoucchK shows [5s Kc] (Two pairs : Kings and 2)
+_SKR shows [2c Jc] (Full of 2 and Jacks)
+_SKR collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | No rake
+Board: [Kd Jd 2h 2s 7s]
+Seat 1: PoucchK (button) showed [5s Kc] and lost with Two pairs : Kings and 2
+Seat 3: _SKR (big blind) showed [2c Jc] and won 276 with Full of 2 and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717885438399348737-2-1676238875 - Holdem no limit (10/20) - 2023/02/12 21:54:35 UTC
+Table: 'Expresso Nitro(632807016)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PoucchK (172)
+Seat 2: kyllian.b49 (280)
+Seat 3: _SKR (448)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+PoucchK posts big blind 20
+Dealt to _SKR [Qc As]
+*** PRE-FLOP *** 
+kyllian.b49 calls 20
+_SKR raises 428 to 448 and is all-in
+PoucchK folds
+kyllian.b49 calls 260 and is all-in
+*** FLOP *** [Kd 5s Ah]
+*** TURN *** [Kd 5s Ah][Jd]
+*** RIVER *** [Kd 5s Ah Jd][6s]
+*** SHOW DOWN ***
+kyllian.b49 shows [Ks Ac] (Two pairs : Aces and Kings)
+_SKR shows [Qc As] (One pair : Aces)
+_SKR collected 168 from side pot 1
+kyllian.b49 collected 580 from main pot
+*** SUMMARY ***
+Total pot 748 | No rake
+Board: [Kd 5s Ah Jd 6s]
+Seat 2: kyllian.b49 (button) showed [Ks Ac] and won 580 with Two pairs : Aces and Kings
+Seat 3: _SKR (small blind) showed [Qc As] and won 168 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717885438399348737-3-1676238895 - Holdem no limit (15/30) - 2023/02/12 21:54:55 UTC
+Table: 'Expresso Nitro(632807016)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PoucchK (152)
+Seat 2: kyllian.b49 (580)
+Seat 3: _SKR (168)
+*** ANTE/BLINDS ***
+PoucchK posts small blind 15
+kyllian.b49 posts big blind 30
+Dealt to _SKR [4h 2c]
+*** PRE-FLOP *** 
+_SKR folds
+PoucchK raises 122 to 152 and is all-in
+kyllian.b49 folds
+PoucchK collected 182 from pot
+*** SUMMARY ***
+Total pot 182 | No rake
+Seat 1: PoucchK (small blind) won 182
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717885438399348737-4-1676238905 - Holdem no limit (15/30) - 2023/02/12 21:55:05 UTC
+Table: 'Expresso Nitro(632807016)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PoucchK (182)
+Seat 2: kyllian.b49 (550)
+Seat 3: _SKR (168)
+*** ANTE/BLINDS ***
+kyllian.b49 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc 5h]
+*** PRE-FLOP *** 
+PoucchK folds
+kyllian.b49 calls 15
+_SKR checks
+*** FLOP *** [Ts Ad 5c]
+kyllian.b49 checks
+_SKR bets 30
+kyllian.b49 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ts Ad 5c]
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717885438399348737-5-1676238922 - Holdem no limit (15/30) - 2023/02/12 21:55:22 UTC
+Table: 'Expresso Nitro(632807016)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PoucchK (182)
+Seat 2: kyllian.b49 (520)
+Seat 3: _SKR (198)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+PoucchK posts big blind 30
+Dealt to _SKR [7s 9h]
+*** PRE-FLOP *** 
+kyllian.b49 calls 30
+_SKR folds
+PoucchK checks
+*** FLOP *** [Ac Qs 9c]
+PoucchK checks
+kyllian.b49 checks
+*** TURN *** [Ac Qs 9c][2h]
+PoucchK checks
+kyllian.b49 checks
+*** RIVER *** [Ac Qs 9c 2h][Ad]
+PoucchK checks
+kyllian.b49 checks
+*** SHOW DOWN ***
+PoucchK shows [5s Tc] (One pair : Aces)
+kyllian.b49 shows [Kh 7h] (One pair : Aces)
+kyllian.b49 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [Ac Qs 9c 2h Ad]
+Seat 1: PoucchK (big blind) showed [5s Tc] and lost with One pair : Aces
+Seat 2: kyllian.b49 (button) showed [Kh 7h] and won 75 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717885438399348737-6-1676238945 - Holdem no limit (15/30) - 2023/02/12 21:55:45 UTC
+Table: 'Expresso Nitro(632807016)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PoucchK (152)
+Seat 2: kyllian.b49 (565)
+Seat 3: _SKR (183)
+*** ANTE/BLINDS ***
+PoucchK posts small blind 15
+kyllian.b49 posts big blind 30
+Dealt to _SKR [6h 3h]
+*** PRE-FLOP *** 
+_SKR folds
+PoucchK raises 122 to 152 and is all-in
+kyllian.b49 folds
+PoucchK collected 182 from pot
+*** SUMMARY ***
+Total pot 182 | No rake
+Seat 1: PoucchK (small blind) won 182
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717885438399348737-7-1676238953 - Holdem no limit (20/40) - 2023/02/12 21:55:53 UTC
+Table: 'Expresso Nitro(632807016)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PoucchK (182)
+Seat 2: kyllian.b49 (535)
+Seat 3: _SKR (183)
+*** ANTE/BLINDS ***
+kyllian.b49 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s 8d]
+*** PRE-FLOP *** 
+PoucchK folds
+kyllian.b49 calls 20
+_SKR checks
+*** FLOP *** [Th Jh 9s]
+kyllian.b49 checks
+_SKR bets 52
+kyllian.b49 calls 52
+*** TURN *** [Th Jh 9s][Qd]
+kyllian.b49 checks
+_SKR checks
+*** RIVER *** [Th Jh 9s Qd][5c]
+kyllian.b49 bets 120
+_SKR calls 91 and is all-in
+*** SHOW DOWN ***
+_SKR shows [7s 8d] (Straight Queen high)
+kyllian.b49 shows [As Kh] (Straight Ace high)
+kyllian.b49 collected 395 from pot
+*** SUMMARY ***
+Total pot 395 | No rake
+Board: [Th Jh 9s Qd 5c]
+Seat 2: kyllian.b49 (small blind) showed [As Kh] and won 395 with Straight Ace high
+Seat 3: _SKR (big blind) showed [7s 8d] and lost with Straight Queen high
+
+

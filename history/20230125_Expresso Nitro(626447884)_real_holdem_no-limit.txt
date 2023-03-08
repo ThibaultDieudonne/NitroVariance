@@ -1,0 +1,99 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690573174428401665-1-1674686403 - Holdem no limit (10/20) - 2023/01/25 22:40:03 UTC
+Table: 'Expresso Nitro(626447884)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Osito1974 (300)
+Seat 2: sairus91 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Osito1974 posts big blind 20
+Dealt to _SKR [Jc 9c]
+*** PRE-FLOP *** 
+sairus91 calls 20
+_SKR folds
+Osito1974 checks
+*** FLOP *** [Ah 9d 5h]
+Osito1974 bets 20
+sairus91 folds
+Osito1974 shows [4c Ks] (High card : Ace)
+Osito1974 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Ah 9d 5h]
+Seat 1: Osito1974 (big blind) showed [4c Ks] and won 70 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690573174428401665-2-1674686439 - Holdem no limit (10/20) - 2023/01/25 22:40:39 UTC
+Table: 'Expresso Nitro(626447884)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Osito1974 (330)
+Seat 2: sairus91 (280)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Osito1974 posts small blind 10
+sairus91 posts big blind 20
+Dealt to _SKR [7s 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Osito1974 calls 10
+sairus91 checks
+*** FLOP *** [9h 6s Qh]
+Osito1974 checks
+sairus91 checks
+*** TURN *** [9h 6s Qh][8s]
+Osito1974 bets 20
+sairus91 folds
+Osito1974 shows [Jh 3d] (High card : Queen)
+Osito1974 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9h 6s Qh 8s]
+Seat 1: Osito1974 (small blind) showed [Jh 3d] and won 60 with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690573174428401665-3-1674686470 - Holdem no limit (15/30) - 2023/01/25 22:41:10 UTC
+Table: 'Expresso Nitro(626447884)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Osito1974 (350)
+Seat 2: sairus91 (260)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+sairus91 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8d Qs]
+*** PRE-FLOP *** 
+Osito1974 folds
+sairus91 calls 15
+_SKR raises 260 to 290 and is all-in
+sairus91 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690573174428401665-4-1674686495 - Holdem no limit (15/30) - 2023/01/25 22:41:35 UTC
+Table: 'Expresso Nitro(626447884)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Osito1974 (350)
+Seat 2: sairus91 (230)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Osito1974 posts big blind 30
+Dealt to _SKR [Ts Kd]
+*** PRE-FLOP *** 
+sairus91 calls 30
+_SKR raises 290 to 320 and is all-in
+Osito1974 calls 290
+sairus91 folds
+*** FLOP *** [4c 5h 4h]
+*** TURN *** [4c 5h 4h][Qs]
+*** RIVER *** [4c 5h 4h Qs][7h]
+*** SHOW DOWN ***
+_SKR shows [Ts Kd] (One pair : 4)
+Osito1974 shows [Ah Kc] (One pair : 4)
+Osito1974 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [4c 5h 4h Qs 7h]
+Seat 1: Osito1974 (big blind) showed [Ah Kc] and won 670 with One pair : 4
+Seat 3: _SKR (small blind) showed [Ts Kd] and lost with One pair : 4
+
+

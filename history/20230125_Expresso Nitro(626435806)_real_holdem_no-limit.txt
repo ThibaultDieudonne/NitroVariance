@@ -1,0 +1,179 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690521299813400577-1-1674684596 - Holdem no limit (10/20) - 2023/01/25 22:09:56 UTC
+Table: 'Expresso Nitro(626435806)#0' 3-max (real money) Seat #3 is the button
+Seat 1: NotTodAAy (300)
+Seat 2: _SKR (300)
+Seat 3: JoKeRvIrAl (300)
+*** ANTE/BLINDS ***
+NotTodAAy posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jh 8s]
+*** PRE-FLOP *** 
+JoKeRvIrAl raises 20 to 40
+NotTodAAy folds
+_SKR calls 20
+*** FLOP *** [2h Ac Ks]
+_SKR checks
+JoKeRvIrAl bets 59
+_SKR folds
+JoKeRvIrAl collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [2h Ac Ks]
+Seat 3: JoKeRvIrAl (button) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690521299813400577-2-1674684619 - Holdem no limit (10/20) - 2023/01/25 22:10:19 UTC
+Table: 'Expresso Nitro(626435806)#0' 3-max (real money) Seat #1 is the button
+Seat 1: NotTodAAy (290)
+Seat 2: _SKR (260)
+Seat 3: JoKeRvIrAl (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+JoKeRvIrAl posts big blind 20
+Dealt to _SKR [As 2h]
+*** PRE-FLOP *** 
+NotTodAAy folds
+_SKR raises 240 to 260 and is all-in
+JoKeRvIrAl raises 90 to 350 and is all-in
+*** FLOP *** [Kh 4d Jc]
+*** TURN *** [Kh 4d Jc][2d]
+*** RIVER *** [Kh 4d Jc 2d][4s]
+*** SHOW DOWN ***
+_SKR shows [As 2h] (Two pairs : 4 and 2)
+JoKeRvIrAl shows [2c Ah] (Two pairs : 4 and 2)
+JoKeRvIrAl collected 350 from side pot 1
+_SKR collected 260 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Kh 4d Jc 2d 4s]
+Seat 2: _SKR (small blind) showed [As 2h] and won 260 with Two pairs : 4 and 2
+Seat 3: JoKeRvIrAl (big blind) showed [2c Ah] and won 350 with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690521299813400577-3-1674684636 - Holdem no limit (10/20) - 2023/01/25 22:10:36 UTC
+Table: 'Expresso Nitro(626435806)#0' 3-max (real money) Seat #2 is the button
+Seat 1: NotTodAAy (290)
+Seat 2: _SKR (260)
+Seat 3: JoKeRvIrAl (350)
+*** ANTE/BLINDS ***
+JoKeRvIrAl posts small blind 10
+NotTodAAy posts big blind 20
+Dealt to _SKR [5d Kc]
+*** PRE-FLOP *** 
+_SKR folds
+JoKeRvIrAl raises 40 to 60
+NotTodAAy calls 40
+*** FLOP *** [7c 7s Jh]
+JoKeRvIrAl bets 78
+NotTodAAy raises 152 to 230 and is all-in
+JoKeRvIrAl calls 152
+*** TURN *** [7c 7s Jh][Qs]
+*** RIVER *** [7c 7s Jh Qs][Tc]
+*** SHOW DOWN ***
+JoKeRvIrAl shows [2d 3h] (One pair : 7)
+NotTodAAy shows [Ac Ad] (Two pairs : Aces and 7)
+NotTodAAy collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [7c 7s Jh Qs Tc]
+Seat 1: NotTodAAy (big blind) showed [Ac Ad] and won 580 with Two pairs : Aces and 7
+Seat 3: JoKeRvIrAl (small blind) showed [2d 3h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690521299813400577-4-1674684669 - Holdem no limit (15/30) - 2023/01/25 22:11:09 UTC
+Table: 'Expresso Nitro(626435806)#0' 3-max (real money) Seat #3 is the button
+Seat 1: NotTodAAy (580)
+Seat 2: _SKR (260)
+Seat 3: JoKeRvIrAl (60)
+*** ANTE/BLINDS ***
+NotTodAAy posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4s 3s]
+*** PRE-FLOP *** 
+JoKeRvIrAl raises 30 to 60 and is all-in
+NotTodAAy calls 45
+_SKR calls 30
+*** FLOP *** [Ah Tc Ac]
+NotTodAAy checks
+_SKR checks
+*** TURN *** [Ah Tc Ac][9s]
+NotTodAAy checks
+_SKR checks
+*** RIVER *** [Ah Tc Ac 9s][7c]
+NotTodAAy bets 30
+_SKR folds
+*** SHOW DOWN ***
+JoKeRvIrAl shows [9h 8c] (Two pairs : Aces and 9)
+NotTodAAy shows [Td Js] (Two pairs : Aces and Tens)
+NotTodAAy collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Ah Tc Ac 9s 7c]
+Seat 1: NotTodAAy (small blind) showed [Td Js] and won 210 with Two pairs : Aces and Tens
+Seat 3: JoKeRvIrAl (button) showed [9h 8c] and lost with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690521299813400577-5-1674684719 - Holdem no limit (20/40) - 2023/01/25 22:11:59 UTC
+Table: 'Expresso Nitro(626435806)#0' 3-max (real money) Seat #2 is the button
+Seat 1: NotTodAAy (700)
+Seat 2: _SKR (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+NotTodAAy posts big blind 40
+Dealt to _SKR [8d Jc]
+*** PRE-FLOP *** 
+_SKR raises 160 to 200 and is all-in
+NotTodAAy folds
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: _SKR (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690521299813400577-6-1674684727 - Holdem no limit (20/40) - 2023/01/25 22:12:07 UTC
+Table: 'Expresso Nitro(626435806)#0' 3-max (real money) Seat #1 is the button
+Seat 1: NotTodAAy (660)
+Seat 2: _SKR (240)
+*** ANTE/BLINDS ***
+NotTodAAy posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8c 5c]
+*** PRE-FLOP *** 
+NotTodAAy raises 40 to 80
+_SKR calls 40
+*** FLOP *** [As 3h 4c]
+_SKR checks
+NotTodAAy bets 160
+_SKR folds
+NotTodAAy collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [As 3h 4c]
+Seat 1: NotTodAAy (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690521299813400577-7-1674684740 - Holdem no limit (20/40) - 2023/01/25 22:12:20 UTC
+Table: 'Expresso Nitro(626435806)#0' 3-max (real money) Seat #2 is the button
+Seat 1: NotTodAAy (740)
+Seat 2: _SKR (160)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+NotTodAAy posts big blind 40
+Dealt to _SKR [4h Qd]
+*** PRE-FLOP *** 
+_SKR raises 120 to 160 and is all-in
+NotTodAAy calls 120
+*** FLOP *** [5h 9d 4d]
+*** TURN *** [5h 9d 4d][7d]
+*** RIVER *** [5h 9d 4d 7d][Jh]
+*** SHOW DOWN ***
+_SKR shows [4h Qd] (One pair : 4)
+NotTodAAy shows [Ah 5d] (One pair : 5)
+NotTodAAy collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [5h 9d 4d 7d Jh]
+Seat 1: NotTodAAy (big blind) showed [Ah 5d] and won 320 with One pair : 5
+Seat 2: _SKR (small blind) (button) showed [4h Qd] and lost with One pair : 4
+
+

@@ -1,0 +1,125 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695271726916304897-1-1675003551 - Holdem no limit (10/20) - 2023/01/29 14:45:51 UTC
+Table: 'Expresso Nitro(627541851)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: CheytaS (300)
+Seat 3: FCJ4 (300)
+*** ANTE/BLINDS ***
+FCJ4 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 5s]
+*** PRE-FLOP *** 
+CheytaS calls 20
+FCJ4 folds
+_SKR checks
+*** FLOP *** [Qh 9d 9s]
+_SKR checks
+CheytaS checks
+*** TURN *** [Qh 9d 9s][Td]
+_SKR checks
+CheytaS bets 33
+_SKR folds
+CheytaS collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [Qh 9d 9s Td]
+Seat 2: CheytaS (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695271726916304897-2-1675003585 - Holdem no limit (10/20) - 2023/01/29 14:46:25 UTC
+Table: 'Expresso Nitro(627541851)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: CheytaS (330)
+Seat 3: FCJ4 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+CheytaS posts big blind 20
+Dealt to _SKR [7h Ac]
+*** PRE-FLOP *** 
+FCJ4 folds
+_SKR raises 260 to 280 and is all-in
+CheytaS folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: _SKR (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695271726916304897-3-1675003625 - Holdem no limit (15/30) - 2023/01/29 14:47:05 UTC
+Table: 'Expresso Nitro(627541851)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: CheytaS (310)
+Seat 3: FCJ4 (290)
+*** ANTE/BLINDS ***
+CheytaS posts small blind 15
+FCJ4 posts big blind 30
+Dealt to _SKR [Kc 8s]
+*** PRE-FLOP *** 
+_SKR folds
+CheytaS calls 15
+FCJ4 checks
+*** FLOP *** [Qh Ts 3d]
+CheytaS checks
+FCJ4 bets 30
+CheytaS calls 30
+*** TURN *** [Qh Ts 3d][4s]
+CheytaS checks
+FCJ4 bets 30
+CheytaS folds
+FCJ4 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Qh Ts 3d 4s]
+Seat 3: FCJ4 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695271726916304897-4-1675003641 - Holdem no limit (15/30) - 2023/01/29 14:47:21 UTC
+Table: 'Expresso Nitro(627541851)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: CheytaS (250)
+Seat 3: FCJ4 (350)
+*** ANTE/BLINDS ***
+FCJ4 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qh 7h]
+*** PRE-FLOP *** 
+CheytaS raises 220 to 250 and is all-in
+FCJ4 folds
+_SKR folds
+CheytaS collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Seat 2: CheytaS (button) won 295
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695271726916304897-5-1675003658 - Holdem no limit (15/30) - 2023/01/29 14:47:38 UTC
+Table: 'Expresso Nitro(627541851)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 2: CheytaS (295)
+Seat 3: FCJ4 (335)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+CheytaS posts big blind 30
+Dealt to _SKR [2h Ac]
+*** PRE-FLOP *** 
+FCJ4 calls 30
+_SKR raises 240 to 270 and is all-in
+CheytaS calls 240
+FCJ4 calls 240
+*** FLOP *** [4d 9c Jh]
+CheytaS bets 25 and is all-in
+FCJ4 calls 25
+*** TURN *** [4d 9c Jh][Kc]
+*** RIVER *** [4d 9c Jh Kc][2c]
+*** SHOW DOWN ***
+_SKR shows [2h Ac] (One pair : 2)
+CheytaS shows [5s Qd] (High card : King)
+FCJ4 shows [5c 5h] (One pair : 5)
+FCJ4 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [4d 9c Jh Kc 2c]
+Seat 1: _SKR (small blind) showed [2h Ac] and lost with One pair : 2
+Seat 2: CheytaS (big blind) showed [5s Qd] and lost with High card : King
+Seat 3: FCJ4 (button) showed [5c 5h] and won 860 with One pair : 5
+
+

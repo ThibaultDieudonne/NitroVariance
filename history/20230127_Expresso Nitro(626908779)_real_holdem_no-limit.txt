@@ -1,0 +1,94 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692552703380291585-1-1674830319 - Holdem no limit (10/20) - 2023/01/27 14:38:39 UTC
+Table: 'Expresso Nitro(626908779)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Izy_River (300)
+Seat 3: supercanet2b (300)
+*** ANTE/BLINDS ***
+supercanet2b posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d Qc]
+*** PRE-FLOP *** 
+Izy_River folds
+supercanet2b raises 20 to 40
+_SKR folds
+supercanet2b collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: supercanet2b (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692552703380291585-2-1674830338 - Holdem no limit (10/20) - 2023/01/27 14:38:58 UTC
+Table: 'Expresso Nitro(626908779)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Izy_River (300)
+Seat 3: supercanet2b (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Izy_River posts big blind 20
+Dealt to _SKR [6d Kd]
+*** PRE-FLOP *** 
+supercanet2b folds
+_SKR raises 20 to 40
+Izy_River calls 20
+*** FLOP *** [3h Ah 7s]
+_SKR checks
+Izy_River bets 40
+_SKR folds
+Izy_River collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3h Ah 7s]
+Seat 2: Izy_River (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692552703380291585-3-1674830361 - Holdem no limit (10/20) - 2023/01/27 14:39:21 UTC
+Table: 'Expresso Nitro(626908779)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (240)
+Seat 2: Izy_River (340)
+Seat 3: supercanet2b (320)
+*** ANTE/BLINDS ***
+Izy_River posts small blind 10
+supercanet2b posts big blind 20
+Dealt to _SKR [4h 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Izy_River calls 10
+supercanet2b checks
+*** FLOP *** [2c 6h Jd]
+Izy_River bets 40
+supercanet2b folds
+Izy_River collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2c 6h Jd]
+Seat 2: Izy_River (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692552703380291585-4-1674830371 - Holdem no limit (10/20) - 2023/01/27 14:39:31 UTC
+Table: 'Expresso Nitro(626908779)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (240)
+Seat 2: Izy_River (360)
+Seat 3: supercanet2b (300)
+*** ANTE/BLINDS ***
+supercanet2b posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc Kh]
+*** PRE-FLOP *** 
+Izy_River folds
+supercanet2b raises 20 to 40
+_SKR raises 200 to 240 and is all-in
+supercanet2b raises 60 to 300 and is all-in
+*** FLOP *** [3c 7c 7s]
+*** TURN *** [3c 7c 7s][2h]
+*** RIVER *** [3c 7c 7s 2h][6s]
+*** SHOW DOWN ***
+_SKR shows [Tc Kh] (One pair : 7)
+supercanet2b shows [Ac 2d] (Two pairs : 7 and 2)
+supercanet2b collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [3c 7c 7s 2h 6s]
+Seat 1: _SKR (big blind) showed [Tc Kh] and lost with One pair : 7
+Seat 3: supercanet2b (small blind) showed [Ac 2d] and won 540 with Two pairs : 7 and 2
+
+

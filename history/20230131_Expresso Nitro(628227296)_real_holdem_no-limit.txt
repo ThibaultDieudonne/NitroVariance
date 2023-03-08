@@ -1,0 +1,506 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698215690774511617-1-1675185915 - Holdem no limit (10/20) - 2023/01/31 17:25:15 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: KevinColina1 (300)
+Seat 3: serizawwa (300)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d 5d]
+*** PRE-FLOP *** 
+KevinColina1 raises 280 to 300 and is all-in
+serizawwa folds
+_SKR folds
+KevinColina1 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: KevinColina1 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698215690774511617-2-1675185923 - Holdem no limit (10/20) - 2023/01/31 17:25:23 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: KevinColina1 (330)
+Seat 3: serizawwa (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+KevinColina1 posts big blind 20
+Dealt to _SKR [7c 5d]
+*** PRE-FLOP *** 
+serizawwa calls 20
+_SKR folds
+KevinColina1 checks
+*** FLOP *** [As 4s 4c]
+KevinColina1 checks
+serizawwa checks
+*** TURN *** [As 4s 4c][3h]
+KevinColina1 bets 33
+serizawwa calls 33
+*** RIVER *** [As 4s 4c 3h][Kd]
+KevinColina1 bets 277 and is all-in
+serizawwa calls 237 and is all-in
+*** SHOW DOWN ***
+KevinColina1 shows [7d 8d] (One pair : 4)
+serizawwa shows [6d Ah] (Two pairs : Aces and 4)
+serizawwa collected 590 from main pot
+KevinColina1 collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [As 4s 4c 3h Kd]
+Seat 2: KevinColina1 (big blind) showed [7d 8d] and won 40 with One pair : 4
+Seat 3: serizawwa (button) showed [6d Ah] and won 590 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698215690774511617-3-1675185949 - Holdem no limit (10/20) - 2023/01/31 17:25:49 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: KevinColina1 (40)
+Seat 3: serizawwa (590)
+*** ANTE/BLINDS ***
+KevinColina1 posts small blind 10
+serizawwa posts big blind 20
+Dealt to _SKR [2c Ad]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+KevinColina1 folds
+serizawwa folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: _SKR (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698215690774511617-4-1675185996 - Holdem no limit (15/30) - 2023/01/31 17:26:36 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: KevinColina1 (30)
+Seat 3: serizawwa (570)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6d Kd]
+*** PRE-FLOP *** 
+KevinColina1 folds
+serizawwa calls 15
+_SKR raises 270 to 300 and is all-in
+serizawwa calls 270
+*** FLOP *** [Kc 4s 4d]
+*** TURN *** [Kc 4s 4d][Jd]
+*** RIVER *** [Kc 4s 4d Jd][9d]
+*** SHOW DOWN ***
+serizawwa shows [Th Jh] (Two pairs : Jacks and 4)
+_SKR shows [6d Kd] (Flush King high)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kc 4s 4d Jd 9d]
+Seat 1: _SKR (big blind) showed [6d Kd] and won 600 with Flush King high
+Seat 3: serizawwa (small blind) showed [Th Jh] and lost with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698215690774511617-5-1675186035 - Holdem no limit (20/40) - 2023/01/31 17:27:15 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (600)
+Seat 2: KevinColina1 (30)
+Seat 3: serizawwa (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+KevinColina1 posts big blind 30 and is all-in
+Dealt to _SKR [3c Tc]
+*** PRE-FLOP *** 
+serizawwa folds
+_SKR raises 50 to 80
+*** FLOP *** [As Js Qd]
+*** TURN *** [As Js Qd][Kc]
+*** RIVER *** [As Js Qd Kc][6d]
+*** SHOW DOWN ***
+KevinColina1 shows [3s 8d] (High card : Ace)
+_SKR shows [3c Tc] (Straight Ace high)
+_SKR collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [As Js Qd Kc 6d]
+Seat 1: _SKR (small blind) showed [3c Tc] and won 110 with Straight Ace high
+Seat 2: KevinColina1 (big blind) showed [3s 8d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698215690774511617-6-1675186051 - Holdem no limit (20/40) - 2023/01/31 17:27:31 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (630)
+Seat 3: serizawwa (270)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c Jc]
+*** PRE-FLOP *** 
+serizawwa raises 230 to 270 and is all-in
+_SKR calls 230
+*** FLOP *** [Kc 9s Tc]
+*** TURN *** [Kc 9s Tc][4s]
+*** RIVER *** [Kc 9s Tc 4s][3h]
+*** SHOW DOWN ***
+_SKR shows [7c Jc] (High card : King)
+serizawwa shows [Ts Ks] (Two pairs : Kings and Tens)
+serizawwa collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Kc 9s Tc 4s 3h]
+Seat 1: _SKR (big blind) showed [7c Jc] and lost with High card : King
+Seat 3: serizawwa (small blind) (button) showed [Ts Ks] and won 540 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698215690774511617-7-1675186067 - Holdem no limit (20/40) - 2023/01/31 17:27:47 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (360)
+Seat 3: serizawwa (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+serizawwa posts big blind 40
+Dealt to _SKR [8c Qd]
+*** PRE-FLOP *** 
+_SKR raises 320 to 360 and is all-in
+serizawwa raises 180 to 540 and is all-in
+*** FLOP *** [Qh Th Ks]
+*** TURN *** [Qh Th Ks][5c]
+*** RIVER *** [Qh Th Ks 5c][Ac]
+*** SHOW DOWN ***
+_SKR shows [8c Qd] (One pair : Queens)
+serizawwa shows [7c 7h] (One pair : 7)
+serizawwa collected 180 from side pot 1
+_SKR collected 720 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qh Th Ks 5c Ac]
+Seat 1: _SKR (small blind) (button) showed [8c Qd] and won 720 with One pair : Queens
+Seat 3: serizawwa (big blind) showed [7c 7h] and won 180 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698215690774511617-8-1675186080 - Holdem no limit (20/40) - 2023/01/31 17:28:00 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (720)
+Seat 3: serizawwa (180)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6s Ac]
+*** PRE-FLOP *** 
+serizawwa raises 140 to 180 and is all-in
+_SKR calls 140
+*** FLOP *** [5h 5c Jc]
+*** TURN *** [5h 5c Jc][4s]
+*** RIVER *** [5h 5c Jc 4s][4c]
+*** SHOW DOWN ***
+_SKR shows [6s Ac] (Two pairs : 5 and 4)
+serizawwa shows [Th Jd] (Two pairs : Jacks and 5)
+serizawwa collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [5h 5c Jc 4s 4c]
+Seat 1: _SKR (big blind) showed [6s Ac] and lost with Two pairs : 5 and 4
+Seat 3: serizawwa (small blind) (button) showed [Th Jd] and won 360 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698215690774511617-9-1675186093 - Holdem no limit (30/60) - 2023/01/31 17:28:13 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (540)
+Seat 3: serizawwa (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+serizawwa posts big blind 60
+Dealt to _SKR [6d Jd]
+*** PRE-FLOP *** 
+_SKR raises 480 to 540 and is all-in
+serizawwa folds
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 1: _SKR (small blind) (button) won 600
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698215690774511617-10-1675186098 - Holdem no limit (30/60) - 2023/01/31 17:28:18 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (600)
+Seat 3: serizawwa (300)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3d Ac]
+*** PRE-FLOP *** 
+serizawwa raises 240 to 300 and is all-in
+_SKR calls 240
+*** FLOP *** [4c 4d 7s]
+*** TURN *** [4c 4d 7s][8d]
+*** RIVER *** [4c 4d 7s 8d][9s]
+*** SHOW DOWN ***
+_SKR shows [3d Ac] (One pair : 4)
+serizawwa shows [Td 8h] (Two pairs : 8 and 4)
+serizawwa collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4c 4d 7s 8d 9s]
+Seat 1: _SKR (big blind) showed [3d Ac] and lost with One pair : 4
+Seat 3: serizawwa (small blind) (button) showed [Td 8h] and won 600 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698215690774511617-11-1675186113 - Holdem no limit (30/60) - 2023/01/31 17:28:33 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 3: serizawwa (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+serizawwa posts big blind 60
+Dealt to _SKR [4s As]
+*** PRE-FLOP *** 
+_SKR raises 240 to 300 and is all-in
+serizawwa folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698215690774511617-12-1675186118 - Holdem no limit (30/60) - 2023/01/31 17:28:38 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (360)
+Seat 3: serizawwa (540)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9d 7d]
+*** PRE-FLOP *** 
+serizawwa folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698215690774511617-13-1675186121 - Holdem no limit (30/60) - 2023/01/31 17:28:41 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (390)
+Seat 3: serizawwa (510)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+serizawwa posts big blind 60
+Dealt to _SKR [5c 7s]
+*** PRE-FLOP *** 
+_SKR folds
+serizawwa collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: serizawwa (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698215690774511617-14-1675186126 - Holdem no limit (30/60) - 2023/01/31 17:28:46 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (360)
+Seat 3: serizawwa (540)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2s 5c]
+*** PRE-FLOP *** 
+serizawwa calls 30
+_SKR checks
+*** FLOP *** [Jc 7h Ah]
+_SKR checks
+serizawwa bets 480 and is all-in
+_SKR folds
+serizawwa collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jc 7h Ah]
+Seat 3: serizawwa (small blind) (button) won 600
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698215690774511617-15-1675186139 - Holdem no limit (30/60) - 2023/01/31 17:28:59 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 3: serizawwa (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+serizawwa posts big blind 60
+Dealt to _SKR [8s Qc]
+*** PRE-FLOP *** 
+_SKR raises 240 to 300 and is all-in
+serizawwa folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698215690774511617-16-1675186144 - Holdem no limit (30/60) - 2023/01/31 17:29:04 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (360)
+Seat 3: serizawwa (540)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2c Td]
+*** PRE-FLOP *** 
+serizawwa folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698215690774511617-17-1675186148 - Holdem no limit (30/60) - 2023/01/31 17:29:08 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (390)
+Seat 3: serizawwa (510)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+serizawwa posts big blind 60
+Dealt to _SKR [As Jh]
+*** PRE-FLOP *** 
+_SKR raises 330 to 390 and is all-in
+serizawwa folds
+_SKR collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 1: _SKR (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698215690774511617-18-1675186154 - Holdem no limit (40/80) - 2023/01/31 17:29:14 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (450)
+Seat 3: serizawwa (450)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Jd 2h]
+*** PRE-FLOP *** 
+serizawwa raises 370 to 450 and is all-in
+_SKR folds
+serizawwa collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: serizawwa (small blind) (button) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698215690774511617-19-1675186162 - Holdem no limit (40/80) - 2023/01/31 17:29:22 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (370)
+Seat 3: serizawwa (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+serizawwa posts big blind 80
+Dealt to _SKR [Ac Td]
+*** PRE-FLOP *** 
+_SKR raises 290 to 370 and is all-in
+serizawwa folds
+_SKR collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 1: _SKR (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698215690774511617-20-1675186167 - Holdem no limit (40/80) - 2023/01/31 17:29:27 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (450)
+Seat 3: serizawwa (450)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Ks 5s]
+*** PRE-FLOP *** 
+serizawwa folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698215690774511617-21-1675186170 - Holdem no limit (40/80) - 2023/01/31 17:29:30 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (490)
+Seat 3: serizawwa (410)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+serizawwa posts big blind 80
+Dealt to _SKR [3s Td]
+*** PRE-FLOP *** 
+_SKR folds
+serizawwa collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: serizawwa (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698215690774511617-22-1675186173 - Holdem no limit (40/80) - 2023/01/31 17:29:33 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (450)
+Seat 3: serizawwa (450)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [4c Jh]
+*** PRE-FLOP *** 
+serizawwa raises 370 to 450 and is all-in
+_SKR folds
+serizawwa collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: serizawwa (small blind) (button) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698215690774511617-23-1675186179 - Holdem no limit (40/80) - 2023/01/31 17:29:39 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (370)
+Seat 3: serizawwa (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+serizawwa posts big blind 80
+Dealt to _SKR [7d 4c]
+*** PRE-FLOP *** 
+_SKR folds
+serizawwa collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: serizawwa (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698215690774511617-24-1675186183 - Holdem no limit (40/80) - 2023/01/31 17:29:43 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 3: serizawwa (570)
+*** ANTE/BLINDS ***
+serizawwa posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [2d 3c]
+*** PRE-FLOP *** 
+serizawwa raises 490 to 570 and is all-in
+_SKR folds
+serizawwa collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 3: serizawwa (small blind) (button) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698215690774511617-25-1675186188 - Holdem no limit (40/80) - 2023/01/31 17:29:48 UTC
+Table: 'Expresso Nitro(628227296)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (250)
+Seat 3: serizawwa (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+serizawwa posts big blind 80
+Dealt to _SKR [Js Kc]
+*** PRE-FLOP *** 
+_SKR raises 170 to 250 and is all-in
+serizawwa raises 400 to 650 and is all-in
+*** FLOP *** [7d 7s Qc]
+*** TURN *** [7d 7s Qc][6h]
+*** RIVER *** [7d 7s Qc 6h][6s]
+*** SHOW DOWN ***
+_SKR shows [Js Kc] (Two pairs : 7 and 6)
+serizawwa shows [Ad 2h] (Two pairs : 7 and 6)
+serizawwa collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 7s Qc 6h 6s]
+Seat 1: _SKR (small blind) (button) showed [Js Kc] and lost with Two pairs : 7 and 6
+Seat 3: serizawwa (big blind) showed [Ad 2h] and won 900 with Two pairs : 7 and 6
+
+

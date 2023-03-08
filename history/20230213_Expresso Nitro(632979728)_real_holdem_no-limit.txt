@@ -1,0 +1,196 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718627230790975489-1-1676292352 - Holdem no limit (10/20) - 2023/02/13 12:45:52 UTC
+Table: 'Expresso Nitro(632979728)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jemyto66240 (300)
+Seat 2: ElectrikpokR (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Jemyto66240 posts big blind 20
+Dealt to _SKR [9d 3c]
+*** PRE-FLOP *** 
+ElectrikpokR calls 20
+_SKR folds
+Jemyto66240 checks
+*** FLOP *** [3s 8h 6s]
+Jemyto66240 checks
+ElectrikpokR bets 20
+Jemyto66240 calls 20
+*** TURN *** [3s 8h 6s][7s]
+Jemyto66240 checks
+ElectrikpokR checks
+*** RIVER *** [3s 8h 6s 7s][Ac]
+Jemyto66240 checks
+ElectrikpokR bets 45
+Jemyto66240 calls 45
+*** SHOW DOWN ***
+Jemyto66240 shows [7c Tc] (One pair : 7)
+ElectrikpokR shows [5s Js] (Flush Jack high)
+ElectrikpokR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3s 8h 6s 7s Ac]
+Seat 1: Jemyto66240 (big blind) showed [7c Tc] and lost with One pair : 7
+Seat 2: ElectrikpokR (button) showed [5s Js] and won 180 with Flush Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718627230790975489-2-1676292391 - Holdem no limit (10/20) - 2023/02/13 12:46:31 UTC
+Table: 'Expresso Nitro(632979728)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jemyto66240 (215)
+Seat 2: ElectrikpokR (395)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Jemyto66240 posts small blind 10
+ElectrikpokR posts big blind 20
+Dealt to _SKR [6s 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Jemyto66240 calls 10
+ElectrikpokR checks
+*** FLOP *** [Tc 3c 4c]
+Jemyto66240 checks
+ElectrikpokR checks
+*** TURN *** [Tc 3c 4c][Jd]
+Jemyto66240 checks
+ElectrikpokR checks
+*** RIVER *** [Tc 3c 4c Jd][Ac]
+Jemyto66240 bets 20
+ElectrikpokR calls 20
+*** SHOW DOWN ***
+Jemyto66240 shows [7h 8c] (Flush Ace high)
+ElectrikpokR shows [9c Qh] (Flush Ace high)
+ElectrikpokR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Tc 3c 4c Jd Ac]
+Seat 1: Jemyto66240 (small blind) showed [7h 8c] and lost with Flush Ace high
+Seat 2: ElectrikpokR (big blind) showed [9c Qh] and won 80 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718627230790975489-3-1676292414 - Holdem no limit (15/30) - 2023/02/13 12:46:54 UTC
+Table: 'Expresso Nitro(632979728)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jemyto66240 (175)
+Seat 2: ElectrikpokR (435)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+ElectrikpokR posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd Kh]
+*** PRE-FLOP *** 
+Jemyto66240 calls 30
+ElectrikpokR folds
+_SKR raises 260 to 290 and is all-in
+Jemyto66240 calls 145 and is all-in
+*** FLOP *** [2c 8s 9d]
+*** TURN *** [2c 8s 9d][5s]
+*** RIVER *** [2c 8s 9d 5s][6h]
+*** SHOW DOWN ***
+Jemyto66240 shows [9c Ad] (One pair : 9)
+_SKR shows [Kd Kh] (One pair : Kings)
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [2c 8s 9d 5s 6h]
+Seat 1: Jemyto66240 (button) showed [9c Ad] and lost with One pair : 9
+Seat 3: _SKR (big blind) showed [Kd Kh] and won 480 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718627230790975489-4-1676292433 - Holdem no limit (15/30) - 2023/02/13 12:47:13 UTC
+Table: 'Expresso Nitro(632979728)#0' 3-max (real money) Seat #3 is the button
+Seat 2: ElectrikpokR (420)
+Seat 3: _SKR (480)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ElectrikpokR posts big blind 30
+Dealt to _SKR [As 4c]
+*** PRE-FLOP *** 
+_SKR raises 450 to 480 and is all-in
+ElectrikpokR calls 390 and is all-in
+*** FLOP *** [6d Ks 2h]
+*** TURN *** [6d Ks 2h][6h]
+*** RIVER *** [6d Ks 2h 6h][5d]
+*** SHOW DOWN ***
+ElectrikpokR shows [Ad 7d] (One pair : 6)
+_SKR shows [As 4c] (One pair : 6)
+_SKR collected 60 from side pot 1
+ElectrikpokR collected 840 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d Ks 2h 6h 5d]
+Seat 2: ElectrikpokR (big blind) showed [Ad 7d] and won 840 with One pair : 6
+Seat 3: _SKR (small blind) (button) showed [As 4c] and won 60 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718627230790975489-5-1676292447 - Holdem no limit (15/30) - 2023/02/13 12:47:27 UTC
+Table: 'Expresso Nitro(632979728)#0' 3-max (real money) Seat #2 is the button
+Seat 2: ElectrikpokR (840)
+Seat 3: _SKR (60)
+*** ANTE/BLINDS ***
+ElectrikpokR posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 6s]
+*** PRE-FLOP *** 
+ElectrikpokR folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718627230790975489-6-1676292451 - Holdem no limit (15/30) - 2023/02/13 12:47:31 UTC
+Table: 'Expresso Nitro(632979728)#0' 3-max (real money) Seat #3 is the button
+Seat 2: ElectrikpokR (825)
+Seat 3: _SKR (75)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ElectrikpokR posts big blind 30
+Dealt to _SKR [6c Ad]
+*** PRE-FLOP *** 
+_SKR raises 45 to 75 and is all-in
+ElectrikpokR folds
+_SKR collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: _SKR (small blind) (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718627230790975489-7-1676292456 - Holdem no limit (15/30) - 2023/02/13 12:47:36 UTC
+Table: 'Expresso Nitro(632979728)#0' 3-max (real money) Seat #2 is the button
+Seat 2: ElectrikpokR (795)
+Seat 3: _SKR (105)
+*** ANTE/BLINDS ***
+ElectrikpokR posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ts 7h]
+*** PRE-FLOP *** 
+ElectrikpokR folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718627230790975489-8-1676292459 - Holdem no limit (15/30) - 2023/02/13 12:47:39 UTC
+Table: 'Expresso Nitro(632979728)#0' 3-max (real money) Seat #3 is the button
+Seat 2: ElectrikpokR (780)
+Seat 3: _SKR (120)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ElectrikpokR posts big blind 30
+Dealt to _SKR [3s Jd]
+*** PRE-FLOP *** 
+_SKR raises 90 to 120 and is all-in
+ElectrikpokR calls 90
+*** FLOP *** [Kh Qd Ts]
+*** TURN *** [Kh Qd Ts][Qc]
+*** RIVER *** [Kh Qd Ts Qc][7d]
+*** SHOW DOWN ***
+_SKR shows [3s Jd] (One pair : Queens)
+ElectrikpokR shows [Td 9s] (Two pairs : Queens and Tens)
+ElectrikpokR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Kh Qd Ts Qc 7d]
+Seat 2: ElectrikpokR (big blind) showed [Td 9s] and won 240 with Two pairs : Queens and Tens
+Seat 3: _SKR (small blind) (button) showed [3s Jd] and lost with One pair : Queens
+
+

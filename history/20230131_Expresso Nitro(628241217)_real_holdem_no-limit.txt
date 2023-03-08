@@ -1,0 +1,177 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698275481014239233-1-1675188463 - Holdem no limit (10/20) - 2023/01/31 18:07:43 UTC
+Table: 'Expresso Nitro(628241217)#0' 3-max (real money) Seat #2 is the button
+Seat 1: NepTuNe_Chr (300)
+Seat 2: Nico_180702 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+NepTuNe_Chr posts big blind 20
+Dealt to _SKR [7h 2h]
+*** PRE-FLOP *** 
+Nico_180702 folds
+_SKR folds
+NepTuNe_Chr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: NepTuNe_Chr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698275481014239233-2-1675188471 - Holdem no limit (10/20) - 2023/01/31 18:07:51 UTC
+Table: 'Expresso Nitro(628241217)#0' 3-max (real money) Seat #3 is the button
+Seat 1: NepTuNe_Chr (310)
+Seat 2: Nico_180702 (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+NepTuNe_Chr posts small blind 10
+Nico_180702 posts big blind 20
+Dealt to _SKR [7d 8h]
+*** PRE-FLOP *** 
+_SKR folds
+NepTuNe_Chr calls 10
+Nico_180702 checks
+*** FLOP *** [Ac 8s 5c]
+NepTuNe_Chr checks
+Nico_180702 checks
+*** TURN *** [Ac 8s 5c][Td]
+NepTuNe_Chr checks
+Nico_180702 checks
+*** RIVER *** [Ac 8s 5c Td][Qc]
+NepTuNe_Chr checks
+Nico_180702 checks
+*** SHOW DOWN ***
+Nico_180702 shows [Kd 5h] (One pair : 5)
+NepTuNe_Chr shows [7c Th] (One pair : Tens)
+NepTuNe_Chr collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ac 8s 5c Td Qc]
+Seat 1: NepTuNe_Chr (small blind) showed [7c Th] and won 40 with One pair : Tens
+Seat 2: Nico_180702 (big blind) showed [Kd 5h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698275481014239233-3-1675188500 - Holdem no limit (10/20) - 2023/01/31 18:08:20 UTC
+Table: 'Expresso Nitro(628241217)#0' 3-max (real money) Seat #1 is the button
+Seat 1: NepTuNe_Chr (330)
+Seat 2: Nico_180702 (280)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Nico_180702 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc Ah]
+*** PRE-FLOP *** 
+NepTuNe_Chr calls 20
+Nico_180702 calls 10
+_SKR raises 270 to 290 and is all-in
+NepTuNe_Chr calls 270
+Nico_180702 folds
+*** FLOP *** [Kd 5h 5s]
+*** TURN *** [Kd 5h 5s][2s]
+*** RIVER *** [Kd 5h 5s 2s][Qd]
+*** SHOW DOWN ***
+NepTuNe_Chr shows [Qh 2c] (Two pairs : Queens and 5)
+_SKR shows [Qc Ah] (Two pairs : Queens and 5)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kd 5h 5s 2s Qd]
+Seat 1: NepTuNe_Chr (button) showed [Qh 2c] and lost with Two pairs : Queens and 5
+Seat 3: _SKR (big blind) showed [Qc Ah] and won 600 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698275481014239233-4-1675188524 - Holdem no limit (15/30) - 2023/01/31 18:08:44 UTC
+Table: 'Expresso Nitro(628241217)#0' 3-max (real money) Seat #2 is the button
+Seat 1: NepTuNe_Chr (40)
+Seat 2: Nico_180702 (260)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+NepTuNe_Chr posts big blind 30
+Dealt to _SKR [Jd Kc]
+*** PRE-FLOP *** 
+Nico_180702 raises 230 to 260 and is all-in
+_SKR raises 340 to 600 and is all-in
+NepTuNe_Chr calls 10 and is all-in
+*** FLOP *** [7h 7d 5s]
+*** TURN *** [7h 7d 5s][9h]
+*** RIVER *** [7h 7d 5s 9h][6h]
+*** SHOW DOWN ***
+NepTuNe_Chr shows [3s 8d] (Straight 9 high)
+Nico_180702 shows [8h As] (Straight 9 high)
+_SKR shows [Jd Kc] (One pair : 7)
+_SKR collected 340 from side pot 2
+Nico_180702 collected 500 from side pot 1
+NepTuNe_Chr collected 60 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h 7d 5s 9h 6h]
+Seat 1: NepTuNe_Chr (big blind) showed [3s 8d] and won 60 with Straight 9 high
+Seat 2: Nico_180702 (button) showed [8h As] and won 500 with Straight 9 high
+Seat 3: _SKR (small blind) showed [Jd Kc] and won 340 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698275481014239233-5-1675188551 - Holdem no limit (15/30) - 2023/01/31 18:09:11 UTC
+Table: 'Expresso Nitro(628241217)#0' 3-max (real money) Seat #3 is the button
+Seat 1: NepTuNe_Chr (60)
+Seat 2: Nico_180702 (500)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+NepTuNe_Chr posts small blind 15
+Nico_180702 posts big blind 30
+Dealt to _SKR [Ts 9d]
+*** PRE-FLOP *** 
+_SKR folds
+NepTuNe_Chr raises 30 to 60 and is all-in
+Nico_180702 folds
+NepTuNe_Chr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: NepTuNe_Chr (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698275481014239233-6-1675188558 - Holdem no limit (15/30) - 2023/01/31 18:09:18 UTC
+Table: 'Expresso Nitro(628241217)#0' 3-max (real money) Seat #1 is the button
+Seat 1: NepTuNe_Chr (90)
+Seat 2: Nico_180702 (470)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+Nico_180702 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4d 3d]
+*** PRE-FLOP *** 
+NepTuNe_Chr raises 60 to 90 and is all-in
+Nico_180702 folds
+_SKR folds
+NepTuNe_Chr collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 1: NepTuNe_Chr (button) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698275481014239233-7-1675188565 - Holdem no limit (15/30) - 2023/01/31 18:09:25 UTC
+Table: 'Expresso Nitro(628241217)#0' 3-max (real money) Seat #2 is the button
+Seat 1: NepTuNe_Chr (135)
+Seat 2: Nico_180702 (455)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+NepTuNe_Chr posts big blind 30
+Dealt to _SKR [2s 2c]
+*** PRE-FLOP *** 
+Nico_180702 raises 30 to 60
+_SKR raises 250 to 310 and is all-in
+NepTuNe_Chr folds
+Nico_180702 calls 250
+*** FLOP *** [9d 5s 8h]
+*** TURN *** [9d 5s 8h][Ts]
+*** RIVER *** [9d 5s 8h Ts][As]
+*** SHOW DOWN ***
+_SKR shows [2s 2c] (One pair : 2)
+Nico_180702 shows [Qd 8s] (One pair : 8)
+Nico_180702 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [9d 5s 8h Ts As]
+Seat 2: Nico_180702 (button) showed [Qd 8s] and won 650 with One pair : 8
+Seat 3: _SKR (small blind) showed [2s 2c] and lost with One pair : 2
+
+

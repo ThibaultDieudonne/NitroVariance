@@ -1,0 +1,52 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718631298125004801-1-1676293174 - Holdem no limit (10/20) - 2023/02/13 12:59:34 UTC
+Table: 'Expresso Nitro(632980675)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Oueskonva on (300)
+Seat 3: Mallena (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Oueskonva on posts big blind 20
+Dealt to _SKR [4d 3s]
+*** PRE-FLOP *** 
+Mallena raises 280 to 300 and is all-in
+_SKR folds
+Oueskonva on calls 280 and is all-in
+*** FLOP *** [4s 3d 6d]
+*** TURN *** [4s 3d 6d][6h]
+*** RIVER *** [4s 3d 6d 6h][5d]
+*** SHOW DOWN ***
+Mallena shows [As Kc] (One pair : 6)
+Oueskonva on shows [7h Ad] (Straight 7 high)
+Oueskonva on collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [4s 3d 6d 6h 5d]
+Seat 2: Oueskonva on (big blind) showed [7h Ad] and won 610 with Straight 7 high
+Seat 3: Mallena (button) showed [As Kc] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718631298125004801-2-1676293189 - Holdem no limit (10/20) - 2023/02/13 12:59:49 UTC
+Table: 'Expresso Nitro(632980675)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Oueskonva on (610)
+*** ANTE/BLINDS ***
+Oueskonva on posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jh Ac]
+*** PRE-FLOP *** 
+Oueskonva on raises 590 to 610 and is all-in
+_SKR calls 270 and is all-in
+*** FLOP *** [5h Jd Kd]
+*** TURN *** [5h Jd Kd][7h]
+*** RIVER *** [5h Jd Kd 7h][3d]
+*** SHOW DOWN ***
+_SKR shows [Jh Ac] (One pair : Jacks)
+Oueskonva on shows [Jc 5c] (Two pairs : Jacks and 5)
+Oueskonva on collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h Jd Kd 7h 3d]
+Seat 1: _SKR (big blind) showed [Jh Ac] and lost with One pair : Jacks
+Seat 2: Oueskonva on (small blind) (button) showed [Jc 5c] and won 900 with Two pairs : Jacks and 5
+
+

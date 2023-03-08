@@ -1,0 +1,127 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717535115096883201-1-1676226312 - Holdem no limit (10/20) - 2023/02/12 18:25:12 UTC
+Table: 'Expresso Nitro(632725450)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Thalyalole (300)
+Seat 2: _SKR (300)
+Seat 3: X_dior_x (300)
+*** ANTE/BLINDS ***
+X_dior_x posts small blind 10
+Thalyalole posts big blind 20
+Dealt to _SKR [8c 3s]
+*** PRE-FLOP *** 
+_SKR folds
+X_dior_x calls 10
+Thalyalole checks
+*** FLOP *** [2s Tc 6h]
+X_dior_x checks
+Thalyalole checks
+*** TURN *** [2s Tc 6h][Qh]
+X_dior_x bets 40
+Thalyalole calls 40
+*** RIVER *** [2s Tc 6h Qh][Js]
+X_dior_x bets 20
+Thalyalole calls 20
+*** SHOW DOWN ***
+X_dior_x shows [2d 4h] (One pair : 2)
+Thalyalole shows [3d Qc] (One pair : Queens)
+Thalyalole collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [2s Tc 6h Qh Js]
+Seat 1: Thalyalole (big blind) showed [3d Qc] and won 160 with One pair : Queens
+Seat 3: X_dior_x (small blind) showed [2d 4h] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717535115096883201-2-1676226332 - Holdem no limit (10/20) - 2023/02/12 18:25:32 UTC
+Table: 'Expresso Nitro(632725450)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Thalyalole (380)
+Seat 2: _SKR (300)
+Seat 3: X_dior_x (220)
+*** ANTE/BLINDS ***
+Thalyalole posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s 3d]
+*** PRE-FLOP *** 
+X_dior_x raises 50 to 70
+Thalyalole calls 60
+_SKR folds
+*** FLOP *** [6h Tc Qd]
+Thalyalole bets 20
+X_dior_x calls 20
+*** TURN *** [6h Tc Qd][Jc]
+Thalyalole bets 20
+X_dior_x raises 20 to 40
+Thalyalole calls 20
+*** RIVER *** [6h Tc Qd Jc][Kc]
+Thalyalole checks
+X_dior_x bets 90 and is all-in
+Thalyalole calls 90
+*** SHOW DOWN ***
+Thalyalole shows [Th 3s] (One pair : Tens)
+X_dior_x shows [9h Qs] (Straight King high)
+X_dior_x collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [6h Tc Qd Jc Kc]
+Seat 1: Thalyalole (small blind) showed [Th 3s] and lost with One pair : Tens
+Seat 3: X_dior_x (button) showed [9h Qs] and won 460 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717535115096883201-3-1676226368 - Holdem no limit (15/30) - 2023/02/12 18:26:08 UTC
+Table: 'Expresso Nitro(632725450)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Thalyalole (160)
+Seat 2: _SKR (280)
+Seat 3: X_dior_x (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+X_dior_x posts big blind 30
+Dealt to _SKR [5s 4d]
+*** PRE-FLOP *** 
+Thalyalole calls 30
+_SKR folds
+X_dior_x checks
+*** FLOP *** [Js Ts Jc]
+X_dior_x bets 49
+Thalyalole calls 49
+*** TURN *** [Js Ts Jc][9c]
+X_dior_x bets 30
+Thalyalole calls 30
+*** RIVER *** [Js Ts Jc 9c][4s]
+X_dior_x bets 351 and is all-in
+Thalyalole calls 51 and is all-in
+*** SHOW DOWN ***
+Thalyalole shows [Th 3d] (Two pairs : Jacks and Tens)
+X_dior_x shows [7s Qs] (Flush Queen high)
+X_dior_x collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | No rake
+Board: [Js Ts Jc 9c 4s]
+Seat 1: Thalyalole (button) showed [Th 3d] and lost with Two pairs : Jacks and Tens
+Seat 3: X_dior_x (big blind) showed [7s Qs] and won 635 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717535115096883201-4-1676226392 - Holdem no limit (15/30) - 2023/02/12 18:26:32 UTC
+Table: 'Expresso Nitro(632725450)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (265)
+Seat 3: X_dior_x (635)
+*** ANTE/BLINDS ***
+X_dior_x posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ac 8c]
+*** PRE-FLOP *** 
+X_dior_x raises 60 to 90
+_SKR raises 175 to 265 and is all-in
+X_dior_x calls 175
+*** FLOP *** [7d 8d Td]
+*** TURN *** [7d 8d Td][6c]
+*** RIVER *** [7d 8d Td 6c][Kh]
+*** SHOW DOWN ***
+_SKR shows [Ac 8c] (One pair : 8)
+X_dior_x shows [Kc 7h] (Two pairs : Kings and 7)
+X_dior_x collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [7d 8d Td 6c Kh]
+Seat 2: _SKR (big blind) showed [Ac 8c] and lost with One pair : 8
+Seat 3: X_dior_x (small blind) (button) showed [Kc 7h] and won 530 with Two pairs : Kings and 7
+
+

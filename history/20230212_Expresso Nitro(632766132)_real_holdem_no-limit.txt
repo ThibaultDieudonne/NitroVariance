@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717709842956419073-1-1676232426 - Holdem no limit (10/20) - 2023/02/12 20:07:06 UTC
+Table: 'Expresso Nitro(632766132)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LA SOMTUEUSE (300)
+Seat 2: _SKR (300)
+Seat 3: Tonymouth (300)
+*** ANTE/BLINDS ***
+LA SOMTUEUSE posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7h 5d]
+*** PRE-FLOP *** 
+Tonymouth raises 280 to 300 and is all-in
+LA SOMTUEUSE calls 290 and is all-in
+_SKR folds
+*** FLOP *** [Qs 5s 2s]
+*** TURN *** [Qs 5s 2s][Kd]
+*** RIVER *** [Qs 5s 2s Kd][3s]
+*** SHOW DOWN ***
+LA SOMTUEUSE shows [Ac Tc] (High card : Ace)
+Tonymouth shows [Kc As] (Flush Ace high)
+Tonymouth collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qs 5s 2s Kd 3s]
+Seat 1: LA SOMTUEUSE (small blind) showed [Ac Tc] and lost with High card : Ace
+Seat 3: Tonymouth (button) showed [Kc As] and won 620 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717709842956419073-2-1676232444 - Holdem no limit (10/20) - 2023/02/12 20:07:24 UTC
+Table: 'Expresso Nitro(632766132)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (280)
+Seat 3: Tonymouth (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Tonymouth posts big blind 20
+Dealt to _SKR [Tc 9c]
+*** PRE-FLOP *** 
+_SKR calls 10
+Tonymouth checks
+*** FLOP *** [Kc 6s 8c]
+Tonymouth bets 26
+_SKR calls 26
+*** TURN *** [Kc 6s 8c][5s]
+Tonymouth bets 32
+_SKR calls 32
+*** RIVER *** [Kc 6s 8c 5s][8s]
+Tonymouth bets 101
+_SKR folds
+Tonymouth collected 257 from pot
+*** SUMMARY ***
+Total pot 257 | No rake
+Board: [Kc 6s 8c 5s 8s]
+Seat 3: Tonymouth (big blind) won 257
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717709842956419073-3-1676232478 - Holdem no limit (10/20) - 2023/02/12 20:07:58 UTC
+Table: 'Expresso Nitro(632766132)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (202)
+Seat 3: Tonymouth (698)
+*** ANTE/BLINDS ***
+Tonymouth posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h Ks]
+*** PRE-FLOP *** 
+Tonymouth folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717709842956419073-4-1676232483 - Holdem no limit (15/30) - 2023/02/12 20:08:03 UTC
+Table: 'Expresso Nitro(632766132)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (212)
+Seat 3: Tonymouth (688)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Tonymouth posts big blind 30
+Dealt to _SKR [4d 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Tonymouth collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Tonymouth (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717709842956419073-5-1676232492 - Holdem no limit (15/30) - 2023/02/12 20:08:12 UTC
+Table: 'Expresso Nitro(632766132)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (197)
+Seat 3: Tonymouth (703)
+*** ANTE/BLINDS ***
+Tonymouth posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd 5d]
+*** PRE-FLOP *** 
+Tonymouth calls 15
+_SKR raises 167 to 197 and is all-in
+Tonymouth raises 506 to 703 and is all-in
+*** FLOP *** [7d 8h 8s]
+*** TURN *** [7d 8h 8s][Kc]
+*** RIVER *** [7d 8h 8s Kc][6s]
+*** SHOW DOWN ***
+_SKR shows [Jd 5d] (One pair : 8)
+Tonymouth shows [Ah Ad] (Two pairs : Aces and 8)
+Tonymouth collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 8h 8s Kc 6s]
+Seat 2: _SKR (big blind) showed [Jd 5d] and lost with One pair : 8
+Seat 3: Tonymouth (small blind) (button) showed [Ah Ad] and won 900 with Two pairs : Aces and 8
+
+

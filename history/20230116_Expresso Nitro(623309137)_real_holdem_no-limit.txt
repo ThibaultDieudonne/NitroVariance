@@ -1,0 +1,506 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677092358712983553-1-1673876778 - Holdem no limit (10/20) - 2023/01/16 13:46:18 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #1 is the button
+Seat 1: papyadore (300)
+Seat 2: 1lase (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+1lase posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 7s]
+*** PRE-FLOP *** 
+papyadore calls 20
+1lase calls 10
+_SKR checks
+*** FLOP *** [2d 5c As]
+1lase checks
+_SKR checks
+papyadore checks
+*** TURN *** [2d 5c As][6s]
+1lase checks
+_SKR checks
+papyadore bets 60
+1lase folds
+_SKR folds
+papyadore collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2d 5c As 6s]
+Seat 1: papyadore (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677092358712983553-2-1673876829 - Holdem no limit (10/20) - 2023/01/16 13:47:09 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #2 is the button
+Seat 1: papyadore (340)
+Seat 2: 1lase (280)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+papyadore posts big blind 20
+Dealt to _SKR [3d 7s]
+*** PRE-FLOP *** 
+1lase raises 20 to 40
+_SKR folds
+papyadore calls 20
+*** FLOP *** [9d 2h 3s]
+papyadore checks
+1lase bets 30
+papyadore calls 30
+*** TURN *** [9d 2h 3s][2d]
+papyadore checks
+1lase checks
+*** RIVER *** [9d 2h 3s 2d][Jd]
+papyadore bets 270 and is all-in
+1lase folds
+papyadore collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [9d 2h 3s 2d Jd]
+Seat 1: papyadore (big blind) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677092358712983553-3-1673876872 - Holdem no limit (15/30) - 2023/01/16 13:47:52 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papyadore (420)
+Seat 2: 1lase (210)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+papyadore posts small blind 15
+1lase posts big blind 30
+Dealt to _SKR [Tc 8s]
+*** PRE-FLOP *** 
+_SKR folds
+papyadore calls 15
+1lase checks
+*** FLOP *** [8d 3s As]
+papyadore bets 60
+1lase folds
+papyadore collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8d 3s As]
+Seat 1: papyadore (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677092358712983553-4-1673876892 - Holdem no limit (15/30) - 2023/01/16 13:48:12 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #1 is the button
+Seat 1: papyadore (450)
+Seat 2: 1lase (180)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+1lase posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jh Ac]
+*** PRE-FLOP *** 
+papyadore folds
+1lase raises 150 to 180 and is all-in
+_SKR raises 90 to 270 and is all-in
+*** FLOP *** [5s 4h Kc]
+*** TURN *** [5s 4h Kc][8h]
+*** RIVER *** [5s 4h Kc 8h][7d]
+*** SHOW DOWN ***
+1lase shows [8d 9h] (One pair : 8)
+_SKR shows [Jh Ac] (High card : Ace)
+_SKR collected 90 from side pot 1
+1lase collected 360 from main pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [5s 4h Kc 8h 7d]
+Seat 2: 1lase (small blind) showed [8d 9h] and won 360 with One pair : 8
+Seat 3: _SKR (big blind) showed [Jh Ac] and won 90 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677092358712983553-5-1673876908 - Holdem no limit (20/40) - 2023/01/16 13:48:28 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #2 is the button
+Seat 1: papyadore (450)
+Seat 2: 1lase (360)
+Seat 3: _SKR (90)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+papyadore posts big blind 40
+Dealt to _SKR [8s Kd]
+*** PRE-FLOP *** 
+1lase folds
+_SKR raises 50 to 90 and is all-in
+papyadore calls 50
+*** FLOP *** [Td 3d Ac]
+*** TURN *** [Td 3d Ac][Tc]
+*** RIVER *** [Td 3d Ac Tc][8h]
+*** SHOW DOWN ***
+papyadore shows [Js Qs] (One pair : Tens)
+_SKR shows [8s Kd] (Two pairs : Tens and 8)
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Td 3d Ac Tc 8h]
+Seat 1: papyadore (big blind) showed [Js Qs] and lost with One pair : Tens
+Seat 3: _SKR (small blind) showed [8s Kd] and won 180 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677092358712983553-6-1673876922 - Holdem no limit (20/40) - 2023/01/16 13:48:42 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papyadore (360)
+Seat 2: 1lase (360)
+Seat 3: _SKR (180)
+*** ANTE/BLINDS ***
+papyadore posts small blind 20
+1lase posts big blind 40
+Dealt to _SKR [4s Qc]
+*** PRE-FLOP *** 
+_SKR folds
+papyadore raises 320 to 360 and is all-in
+1lase folds
+papyadore collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 1: papyadore (small blind) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677092358712983553-7-1673876933 - Holdem no limit (20/40) - 2023/01/16 13:48:53 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #1 is the button
+Seat 1: papyadore (400)
+Seat 2: 1lase (320)
+Seat 3: _SKR (180)
+*** ANTE/BLINDS ***
+1lase posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5h 4s]
+*** PRE-FLOP *** 
+papyadore folds
+1lase folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677092358712983553-8-1673876940 - Holdem no limit (20/40) - 2023/01/16 13:49:00 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #2 is the button
+Seat 1: papyadore (400)
+Seat 2: 1lase (300)
+Seat 3: _SKR (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+papyadore posts big blind 40
+Dealt to _SKR [Ad Tc]
+*** PRE-FLOP *** 
+1lase folds
+_SKR raises 160 to 200 and is all-in
+papyadore folds
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: _SKR (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677092358712983553-9-1673876952 - Holdem no limit (20/40) - 2023/01/16 13:49:12 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papyadore (360)
+Seat 2: 1lase (300)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+papyadore posts small blind 20
+1lase posts big blind 40
+Dealt to _SKR [7c 4s]
+*** PRE-FLOP *** 
+_SKR folds
+papyadore folds
+1lase collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: 1lase (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2677092358712983553-10-1673876958 - Holdem no limit (30/60) - 2023/01/16 13:49:18 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #1 is the button
+Seat 1: papyadore (340)
+Seat 2: 1lase (320)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+1lase posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5s Ks]
+*** PRE-FLOP *** 
+papyadore folds
+1lase calls 30
+_SKR raises 180 to 240 and is all-in
+1lase calls 180
+*** FLOP *** [Kd Kh 7c]
+*** TURN *** [Kd Kh 7c][4d]
+*** RIVER *** [Kd Kh 7c 4d][5h]
+*** SHOW DOWN ***
+1lase shows [7s Ah] (Two pairs : Kings and 7)
+_SKR shows [5s Ks] (Full of Kings and 5)
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Kd Kh 7c 4d 5h]
+Seat 2: 1lase (small blind) showed [7s Ah] and lost with Two pairs : Kings and 7
+Seat 3: _SKR (big blind) showed [5s Ks] and won 480 with Full of Kings and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2677092358712983553-11-1673876984 - Holdem no limit (30/60) - 2023/01/16 13:49:44 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #2 is the button
+Seat 1: papyadore (340)
+Seat 2: 1lase (80)
+Seat 3: _SKR (480)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+papyadore posts big blind 60
+Dealt to _SKR [3h 6h]
+*** PRE-FLOP *** 
+1lase raises 20 to 80 and is all-in
+_SKR folds
+papyadore calls 20
+*** FLOP *** [9c 5s Qd]
+*** TURN *** [9c 5s Qd][6s]
+*** RIVER *** [9c 5s Qd 6s][3d]
+*** SHOW DOWN ***
+papyadore shows [3c 7s] (One pair : 3)
+1lase shows [Js 9h] (One pair : 9)
+1lase collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [9c 5s Qd 6s 3d]
+Seat 1: papyadore (big blind) showed [3c 7s] and lost with One pair : 3
+Seat 2: 1lase (button) showed [Js 9h] and won 190 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2677092358712983553-12-1673877000 - Holdem no limit (30/60) - 2023/01/16 13:50:00 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papyadore (260)
+Seat 2: 1lase (190)
+Seat 3: _SKR (450)
+*** ANTE/BLINDS ***
+papyadore posts small blind 30
+1lase posts big blind 60
+Dealt to _SKR [5c 9s]
+*** PRE-FLOP *** 
+_SKR folds
+papyadore raises 200 to 260 and is all-in
+1lase calls 130 and is all-in
+*** FLOP *** [8c 2d 3c]
+*** TURN *** [8c 2d 3c][8s]
+*** RIVER *** [8c 2d 3c 8s][Tc]
+*** SHOW DOWN ***
+1lase shows [Js Kh] (One pair : 8)
+papyadore shows [Jd Jc] (Two pairs : Jacks and 8)
+papyadore collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [8c 2d 3c 8s Tc]
+Seat 1: papyadore (small blind) showed [Jd Jc] and won 450 with Two pairs : Jacks and 8
+Seat 2: 1lase (big blind) showed [Js Kh] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2677092358712983553-13-1673877018 - Holdem no limit (40/80) - 2023/01/16 13:50:18 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papyadore (450)
+Seat 3: _SKR (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+papyadore posts big blind 80
+Dealt to _SKR [2d 6h]
+*** PRE-FLOP *** 
+_SKR folds
+papyadore collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: papyadore (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2677092358712983553-14-1673877023 - Holdem no limit (40/80) - 2023/01/16 13:50:23 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #1 is the button
+Seat 1: papyadore (490)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+papyadore posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [9d 4c]
+*** PRE-FLOP *** 
+papyadore folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2677092358712983553-15-1673877027 - Holdem no limit (40/80) - 2023/01/16 13:50:27 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papyadore (450)
+Seat 3: _SKR (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+papyadore posts big blind 80
+Dealt to _SKR [9h 4s]
+*** PRE-FLOP *** 
+_SKR folds
+papyadore collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: papyadore (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2677092358712983553-16-1673877033 - Holdem no limit (40/80) - 2023/01/16 13:50:33 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #1 is the button
+Seat 1: papyadore (490)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+papyadore posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [9h 3h]
+*** PRE-FLOP *** 
+papyadore calls 40
+_SKR checks
+*** FLOP *** [5c Jd Ah]
+_SKR checks
+papyadore bets 80
+_SKR folds
+papyadore collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5c Jd Ah]
+Seat 1: papyadore (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2677092358712983553-17-1673877052 - Holdem no limit (40/80) - 2023/01/16 13:50:52 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papyadore (570)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+papyadore posts big blind 80
+Dealt to _SKR [9h Jd]
+*** PRE-FLOP *** 
+_SKR raises 250 to 330 and is all-in
+papyadore folds
+_SKR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 3: _SKR (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2677092358712983553-18-1673877060 - Holdem no limit (40/80) - 2023/01/16 13:51:00 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #1 is the button
+Seat 1: papyadore (490)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+papyadore posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3s 5c]
+*** PRE-FLOP *** 
+papyadore raises 410 to 490 and is all-in
+_SKR folds
+papyadore collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 1: papyadore (small blind) (button) won 570
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2677092358712983553-19-1673877066 - Holdem no limit (40/80) - 2023/01/16 13:51:06 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papyadore (570)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+papyadore posts big blind 80
+Dealt to _SKR [3s Ts]
+*** PRE-FLOP *** 
+_SKR folds
+papyadore collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: papyadore (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2677092358712983553-20-1673877070 - Holdem no limit (40/80) - 2023/01/16 13:51:10 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #1 is the button
+Seat 1: papyadore (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+papyadore posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Ah 8c]
+*** PRE-FLOP *** 
+papyadore calls 40
+_SKR raises 210 to 290 and is all-in
+papyadore calls 210
+*** FLOP *** [2h 7h 6h]
+*** TURN *** [2h 7h 6h][6c]
+*** RIVER *** [2h 7h 6h 6c][9h]
+*** SHOW DOWN ***
+papyadore shows [2c 9c] (Two pairs : 9 and 6)
+_SKR shows [Ah 8c] (Flush Ace high)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [2h 7h 6h 6c 9h]
+Seat 1: papyadore (small blind) (button) showed [2c 9c] and lost with Two pairs : 9 and 6
+Seat 3: _SKR (big blind) showed [Ah 8c] and won 580 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2677092358712983553-21-1673877094 - Holdem no limit (50/100) - 2023/01/16 13:51:34 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papyadore (320)
+Seat 3: _SKR (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+papyadore posts big blind 100
+Dealt to _SKR [2s Td]
+*** PRE-FLOP *** 
+_SKR folds
+papyadore collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: papyadore (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2677092358712983553-22-1673877097 - Holdem no limit (50/100) - 2023/01/16 13:51:37 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #1 is the button
+Seat 1: papyadore (370)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+papyadore posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [3h Qd]
+*** PRE-FLOP *** 
+papyadore raises 270 to 370 and is all-in
+_SKR calls 270
+*** FLOP *** [Js 4d 8h]
+*** TURN *** [Js 4d 8h][6d]
+*** RIVER *** [Js 4d 8h 6d][Th]
+*** SHOW DOWN ***
+_SKR shows [3h Qd] (High card : Queen)
+papyadore shows [2d 2s] (One pair : 2)
+papyadore collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [Js 4d 8h 6d Th]
+Seat 1: papyadore (small blind) (button) showed [2d 2s] and won 740 with One pair : 2
+Seat 3: _SKR (big blind) showed [3h Qd] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2677092358712983553-23-1673877112 - Holdem no limit (50/100) - 2023/01/16 13:51:52 UTC
+Table: 'Expresso Nitro(623309137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papyadore (740)
+Seat 3: _SKR (160)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+papyadore posts big blind 100
+Dealt to _SKR [5h 3c]
+*** PRE-FLOP *** 
+_SKR raises 60 to 160 and is all-in
+papyadore calls 60
+*** FLOP *** [Kc Kd 4d]
+*** TURN *** [Kc Kd 4d][2h]
+*** RIVER *** [Kc Kd 4d 2h][Js]
+*** SHOW DOWN ***
+_SKR shows [5h 3c] (One pair : Kings)
+papyadore shows [6c 9s] (One pair : Kings)
+papyadore collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Kc Kd 4d 2h Js]
+Seat 1: papyadore (big blind) showed [6c 9s] and won 320 with One pair : Kings
+Seat 3: _SKR (small blind) (button) showed [5h 3c] and lost with One pair : Kings
+
+

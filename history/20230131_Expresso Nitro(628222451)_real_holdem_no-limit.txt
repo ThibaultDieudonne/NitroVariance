@@ -1,0 +1,117 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698194881657962497-1-1675185063 - Holdem no limit (10/20) - 2023/01/31 17:11:03 UTC
+Table: 'Expresso Nitro(628222451)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rubn_7 (300)
+Seat 2: _SKR (300)
+Seat 3: warmo04 (300)
+*** ANTE/BLINDS ***
+Rubn_7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc Ah]
+*** PRE-FLOP *** 
+warmo04 folds
+Rubn_7 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698194881657962497-2-1675185073 - Holdem no limit (10/20) - 2023/01/31 17:11:13 UTC
+Table: 'Expresso Nitro(628222451)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rubn_7 (290)
+Seat 2: _SKR (310)
+Seat 3: warmo04 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+warmo04 posts big blind 20
+Dealt to _SKR [3d 6c]
+*** PRE-FLOP *** 
+Rubn_7 raises 20 to 40
+_SKR folds
+warmo04 calls 20
+*** FLOP *** [5h Qc 2c]
+warmo04 checks
+Rubn_7 bets 72
+warmo04 folds
+Rubn_7 collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [5h Qc 2c]
+Seat 1: Rubn_7 (button) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698194881657962497-3-1675185096 - Holdem no limit (10/20) - 2023/01/31 17:11:36 UTC
+Table: 'Expresso Nitro(628222451)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rubn_7 (340)
+Seat 2: _SKR (300)
+Seat 3: warmo04 (260)
+*** ANTE/BLINDS ***
+warmo04 posts small blind 10
+Rubn_7 posts big blind 20
+Dealt to _SKR [Tc 9s]
+*** PRE-FLOP *** 
+_SKR folds
+warmo04 raises 40 to 60
+Rubn_7 folds
+warmo04 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: warmo04 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698194881657962497-4-1675185107 - Holdem no limit (10/20) - 2023/01/31 17:11:47 UTC
+Table: 'Expresso Nitro(628222451)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rubn_7 (320)
+Seat 2: _SKR (300)
+Seat 3: warmo04 (280)
+*** ANTE/BLINDS ***
+Rubn_7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 6c]
+*** PRE-FLOP *** 
+warmo04 calls 20
+Rubn_7 calls 10
+_SKR checks
+*** FLOP *** [9c As 4s]
+Rubn_7 checks
+_SKR checks
+warmo04 checks
+*** TURN *** [9c As 4s][Ah]
+Rubn_7 bets 30
+_SKR folds
+warmo04 folds
+Rubn_7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9c As 4s Ah]
+Seat 1: Rubn_7 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698194881657962497-5-1675185151 - Holdem no limit (15/30) - 2023/01/31 17:12:31 UTC
+Table: 'Expresso Nitro(628222451)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rubn_7 (360)
+Seat 2: _SKR (280)
+Seat 3: warmo04 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+warmo04 posts big blind 30
+Dealt to _SKR [6s 6d]
+*** PRE-FLOP *** 
+Rubn_7 raises 30 to 60
+_SKR raises 220 to 280 and is all-in
+warmo04 folds
+Rubn_7 calls 220
+*** FLOP *** [4d 9d Td]
+*** TURN *** [4d 9d Td][5h]
+*** RIVER *** [4d 9d Td 5h][2h]
+*** SHOW DOWN ***
+_SKR shows [6s 6d] (One pair : 6)
+Rubn_7 shows [Ks 9s] (One pair : 9)
+Rubn_7 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [4d 9d Td 5h 2h]
+Seat 1: Rubn_7 (button) showed [Ks 9s] and won 590 with One pair : 9
+Seat 2: _SKR (small blind) showed [6s 6d] and lost with One pair : 6
+
+

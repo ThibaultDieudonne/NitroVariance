@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717552191886852097-1-1676226675 - Holdem no limit (10/20) - 2023/02/12 18:31:15 UTC
+Table: 'Expresso Nitro(632729426)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: pataya54 (300)
+Seat 3: Alves212390 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+pataya54 posts big blind 20
+Dealt to _SKR [9s 6c]
+*** PRE-FLOP *** 
+Alves212390 raises 280 to 300 and is all-in
+_SKR folds
+pataya54 folds
+Alves212390 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Alves212390 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717552191886852097-2-1676226685 - Holdem no limit (10/20) - 2023/02/12 18:31:25 UTC
+Table: 'Expresso Nitro(632729426)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: pataya54 (280)
+Seat 3: Alves212390 (330)
+*** ANTE/BLINDS ***
+pataya54 posts small blind 10
+Alves212390 posts big blind 20
+Dealt to _SKR [2d Kd]
+*** PRE-FLOP *** 
+_SKR folds
+pataya54 folds
+Alves212390 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Alves212390 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717552191886852097-3-1676226712 - Holdem no limit (10/20) - 2023/02/12 18:31:52 UTC
+Table: 'Expresso Nitro(632729426)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: pataya54 (270)
+Seat 3: Alves212390 (340)
+*** ANTE/BLINDS ***
+Alves212390 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 9s]
+*** PRE-FLOP *** 
+pataya54 calls 20
+Alves212390 raises 320 to 340 and is all-in
+_SKR folds
+pataya54 calls 250 and is all-in
+*** FLOP *** [Qc 8s Kc]
+*** TURN *** [Qc 8s Kc][6d]
+*** RIVER *** [Qc 8s Kc 6d][2c]
+*** SHOW DOWN ***
+pataya54 shows [Js Tc] (High card : King)
+Alves212390 shows [Kh 2d] (Two pairs : Kings and 2)
+Alves212390 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qc 8s Kc 6d 2c]
+Seat 2: pataya54 (button) showed [Js Tc] and lost with High card : King
+Seat 3: Alves212390 (small blind) showed [Kh 2d] and won 630 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717552191886852097-4-1676226731 - Holdem no limit (15/30) - 2023/02/12 18:32:11 UTC
+Table: 'Expresso Nitro(632729426)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 3: Alves212390 (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Alves212390 posts big blind 30
+Dealt to _SKR [3d 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Alves212390 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Alves212390 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717552191886852097-5-1676226735 - Holdem no limit (15/30) - 2023/02/12 18:32:15 UTC
+Table: 'Expresso Nitro(632729426)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (255)
+Seat 3: Alves212390 (645)
+*** ANTE/BLINDS ***
+Alves212390 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad 3s]
+*** PRE-FLOP *** 
+Alves212390 raises 615 to 645 and is all-in
+_SKR calls 225 and is all-in
+*** FLOP *** [Qc 8s 8h]
+*** TURN *** [Qc 8s 8h][3d]
+*** RIVER *** [Qc 8s 8h 3d][5d]
+*** SHOW DOWN ***
+_SKR shows [Ad 3s] (Two pairs : 8 and 3)
+Alves212390 shows [Qh 2s] (Two pairs : Queens and 8)
+Alves212390 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc 8s 8h 3d 5d]
+Seat 1: _SKR (big blind) showed [Ad 3s] and lost with Two pairs : 8 and 3
+Seat 3: Alves212390 (small blind) (button) showed [Qh 2s] and won 900 with Two pairs : Queens and 8
+
+

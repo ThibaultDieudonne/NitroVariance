@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734179217175478273-1-1677187066 - Holdem no limit (10/20) - 2023/02/23 21:17:46 UTC
+Table: 'Expresso Nitro(636600707)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AlexanderTee (300)
+Seat 2: RomsRiver7 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+RomsRiver7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 7h]
+*** PRE-FLOP *** 
+AlexanderTee calls 20
+RomsRiver7 folds
+_SKR checks
+*** FLOP *** [Qc Qs Qd]
+_SKR checks
+AlexanderTee checks
+*** TURN *** [Qc Qs Qd][4s]
+_SKR checks
+AlexanderTee checks
+*** RIVER *** [Qc Qs Qd 4s][3s]
+_SKR bets 33
+AlexanderTee folds
+_SKR collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [Qc Qs Qd 4s 3s]
+Seat 3: _SKR (big blind) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734179217175478273-2-1677187117 - Holdem no limit (10/20) - 2023/02/23 21:18:37 UTC
+Table: 'Expresso Nitro(636600707)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AlexanderTee (280)
+Seat 2: RomsRiver7 (290)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AlexanderTee posts big blind 20
+Dealt to _SKR [6d 4h]
+*** PRE-FLOP *** 
+RomsRiver7 raises 270 to 290 and is all-in
+_SKR folds
+AlexanderTee calls 260 and is all-in
+*** FLOP *** [5s 8c 7c]
+*** TURN *** [5s 8c 7c][3h]
+*** RIVER *** [5s 8c 7c 3h][Tc]
+*** SHOW DOWN ***
+AlexanderTee shows [As Jd] (High card : Ace)
+RomsRiver7 shows [Ah 6c] (High card : Ace)
+RomsRiver7 collected 10 from side pot 1
+AlexanderTee collected 570 from main pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5s 8c 7c 3h Tc]
+Seat 1: AlexanderTee (big blind) showed [As Jd] and won 570 with High card : Ace
+Seat 2: RomsRiver7 (button) showed [Ah 6c] and won 10 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2734179217175478273-3-1677187140 - Holdem no limit (15/30) - 2023/02/23 21:19:00 UTC
+Table: 'Expresso Nitro(636600707)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AlexanderTee (570)
+Seat 2: RomsRiver7 (10)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+AlexanderTee posts small blind 15
+RomsRiver7 posts big blind 10 and is all-in
+Dealt to _SKR [Qs 2s]
+*** PRE-FLOP *** 
+_SKR folds
+*** FLOP *** [Kc Qh Ah]
+*** TURN *** [Kc Qh Ah][8c]
+*** RIVER *** [Kc Qh Ah 8c][7h]
+*** SHOW DOWN ***
+RomsRiver7 shows [Kh 9c] (One pair : Kings)
+AlexanderTee shows [Ac 7c] (Two pairs : Aces and 7)
+AlexanderTee collected 25 from pot
+*** SUMMARY ***
+Total pot 25 | No rake
+Board: [Kc Qh Ah 8c 7h]
+Seat 1: AlexanderTee (small blind) showed [Ac 7c] and won 25 with Two pairs : Aces and 7
+Seat 2: RomsRiver7 (big blind) showed [Kh 9c] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2734179217175478273-4-1677187151 - Holdem no limit (15/30) - 2023/02/23 21:19:11 UTC
+Table: 'Expresso Nitro(636600707)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AlexanderTee (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+AlexanderTee posts big blind 30
+Dealt to _SKR [Ac 6h]
+*** PRE-FLOP *** 
+_SKR raises 290 to 320 and is all-in
+AlexanderTee calls 290
+*** FLOP *** [9s 2c Jd]
+*** TURN *** [9s 2c Jd][3s]
+*** RIVER *** [9s 2c Jd 3s][4c]
+*** SHOW DOWN ***
+_SKR shows [Ac 6h] (High card : Ace)
+AlexanderTee shows [5d Ad] (Straight 5 high)
+AlexanderTee collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [9s 2c Jd 3s 4c]
+Seat 1: AlexanderTee (big blind) showed [5d Ad] and won 640 with Straight 5 high
+Seat 3: _SKR (small blind) (button) showed [Ac 6h] and lost with High card : Ace
+
+

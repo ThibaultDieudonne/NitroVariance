@@ -1,0 +1,99 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696851626341171201-1-1675100633 - Holdem no limit (10/20) - 2023/01/30 17:43:53 UTC
+Table: 'Expresso Nitro(627909700)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: carredasse (300)
+Seat 3: _le_hub_ (300)
+*** ANTE/BLINDS ***
+carredasse posts small blind 10
+_le_hub_ posts big blind 20
+Dealt to _SKR [3d 5c]
+*** PRE-FLOP *** 
+_SKR folds
+carredasse calls 10
+_le_hub_ checks
+*** FLOP *** [3h As 6h]
+carredasse bets 20
+_le_hub_ folds
+carredasse collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3h As 6h]
+Seat 2: carredasse (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696851626341171201-2-1675100649 - Holdem no limit (10/20) - 2023/01/30 17:44:09 UTC
+Table: 'Expresso Nitro(627909700)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: carredasse (320)
+Seat 3: _le_hub_ (280)
+*** ANTE/BLINDS ***
+_le_hub_ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd 8c]
+*** PRE-FLOP *** 
+carredasse folds
+_le_hub_ folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696851626341171201-3-1675100656 - Holdem no limit (10/20) - 2023/01/30 17:44:16 UTC
+Table: 'Expresso Nitro(627909700)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: carredasse (320)
+Seat 3: _le_hub_ (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+carredasse posts big blind 20
+Dealt to _SKR [3s 4d]
+*** PRE-FLOP *** 
+_le_hub_ raises 20 to 40
+_SKR folds
+carredasse calls 20
+*** FLOP *** [8d 4c 5s]
+carredasse checks
+_le_hub_ bets 20
+carredasse calls 20
+*** TURN *** [8d 4c 5s][7d]
+carredasse checks
+_le_hub_ bets 46
+carredasse calls 46
+*** RIVER *** [8d 4c 5s 7d][9d]
+carredasse bets 214 and is all-in
+_le_hub_ folds
+carredasse collected 436 from pot
+*** SUMMARY ***
+Total pot 436 | No rake
+Board: [8d 4c 5s 7d 9d]
+Seat 2: carredasse (big blind) won 436
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696851626341171201-4-1675100697 - Holdem no limit (15/30) - 2023/01/30 17:44:57 UTC
+Table: 'Expresso Nitro(627909700)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: carredasse (436)
+Seat 3: _le_hub_ (164)
+*** ANTE/BLINDS ***
+carredasse posts small blind 15
+_le_hub_ posts big blind 30
+Dealt to _SKR [Tc Td]
+*** PRE-FLOP *** 
+_SKR raises 270 to 300 and is all-in
+carredasse calls 285
+_le_hub_ folds
+*** FLOP *** [2d Jc 6s]
+*** TURN *** [2d Jc 6s][9c]
+*** RIVER *** [2d Jc 6s 9c][Ah]
+*** SHOW DOWN ***
+_SKR shows [Tc Td] (One pair : Tens)
+carredasse shows [Ks Ac] (One pair : Aces)
+carredasse collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [2d Jc 6s 9c Ah]
+Seat 1: _SKR (button) showed [Tc Td] and lost with One pair : Tens
+Seat 2: carredasse (small blind) showed [Ks Ac] and won 630 with One pair : Aces
+
+

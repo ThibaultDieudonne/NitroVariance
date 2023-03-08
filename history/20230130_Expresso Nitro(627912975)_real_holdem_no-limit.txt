@@ -1,0 +1,69 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696865692359065601-1-1675101206 - Holdem no limit (10/20) - 2023/01/30 17:53:26 UTC
+Table: 'Expresso Nitro(627912975)#0' 3-max (real money) Seat #2 is the button
+Seat 1: La-jet (300)
+Seat 2: _SKR (300)
+Seat 3: Albrato8 (300)
+*** ANTE/BLINDS ***
+Albrato8 posts small blind 10
+La-jet posts big blind 20
+Dealt to _SKR [6h Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Albrato8 raises 280 to 300 and is all-in
+La-jet calls 280 and is all-in
+*** FLOP *** [4c 8h 2d]
+*** TURN *** [4c 8h 2d][Ks]
+*** RIVER *** [4c 8h 2d Ks][9c]
+*** SHOW DOWN ***
+Albrato8 shows [Td Ac] (High card : Ace)
+La-jet shows [9h As] (One pair : 9)
+La-jet collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4c 8h 2d Ks 9c]
+Seat 1: La-jet (big blind) showed [9h As] and won 600 with One pair : 9
+Seat 3: Albrato8 (small blind) showed [Td Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696865692359065601-2-1675101229 - Holdem no limit (10/20) - 2023/01/30 17:53:49 UTC
+Table: 'Expresso Nitro(627912975)#0' 3-max (real money) Seat #1 is the button
+Seat 1: La-jet (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+La-jet posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5h 2d]
+*** PRE-FLOP *** 
+La-jet raises 580 to 600 and is all-in
+_SKR folds
+La-jet collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 1: La-jet (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696865692359065601-3-1675101235 - Holdem no limit (10/20) - 2023/01/30 17:53:55 UTC
+Table: 'Expresso Nitro(627912975)#0' 3-max (real money) Seat #2 is the button
+Seat 1: La-jet (620)
+Seat 2: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+La-jet posts big blind 20
+Dealt to _SKR [As 3d]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+La-jet raises 260 to 540
+*** FLOP *** [6s Qc 5h]
+*** TURN *** [6s Qc 5h][5c]
+*** RIVER *** [6s Qc 5h 5c][Tc]
+*** SHOW DOWN ***
+_SKR shows [As 3d] (One pair : 5)
+La-jet shows [Qh Ac] (Two pairs : Queens and 5)
+La-jet collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [6s Qc 5h 5c Tc]
+Seat 1: La-jet (big blind) showed [Qh Ac] and won 820 with Two pairs : Queens and 5
+Seat 2: _SKR (small blind) (button) showed [As 3d] and lost with One pair : 5
+
+

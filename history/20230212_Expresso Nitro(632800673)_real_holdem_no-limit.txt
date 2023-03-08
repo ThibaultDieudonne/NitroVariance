@@ -1,0 +1,141 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717858195421790209-1-1676237888 - Holdem no limit (10/20) - 2023/02/12 21:38:08 UTC
+Table: 'Expresso Nitro(632800673)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: _El Rey_ (300)
+Seat 3: Israel2.0 (300)
+*** ANTE/BLINDS ***
+Israel2.0 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td 5s]
+*** PRE-FLOP *** 
+_El Rey_ calls 20
+Israel2.0 folds
+_SKR checks
+*** FLOP *** [5c 4s 4c]
+_SKR checks
+_El Rey_ checks
+*** TURN *** [5c 4s 4c][Jh]
+_SKR checks
+_El Rey_ bets 50
+_SKR calls 50
+*** RIVER *** [5c 4s 4c Jh][2c]
+_SKR checks
+_El Rey_ bets 53
+_SKR calls 53
+*** SHOW DOWN ***
+_SKR shows [Td 5s] (Two pairs : 5 and 4)
+_El Rey_ shows [Jd 9s] (Two pairs : Jacks and 4)
+_El Rey_ collected 256 from pot
+*** SUMMARY ***
+Total pot 256 | No rake
+Board: [5c 4s 4c Jh 2c]
+Seat 1: _SKR (big blind) showed [Td 5s] and lost with Two pairs : 5 and 4
+Seat 2: _El Rey_ (button) showed [Jd 9s] and won 256 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717858195421790209-2-1676237934 - Holdem no limit (10/20) - 2023/02/12 21:38:54 UTC
+Table: 'Expresso Nitro(632800673)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (177)
+Seat 2: _El Rey_ (433)
+Seat 3: Israel2.0 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+_El Rey_ posts big blind 20
+Dealt to _SKR [8h 4d]
+*** PRE-FLOP *** 
+Israel2.0 folds
+_SKR folds
+_El Rey_ collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _El Rey_ (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717858195421790209-3-1676237971 - Holdem no limit (15/30) - 2023/02/12 21:39:31 UTC
+Table: 'Expresso Nitro(632800673)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (167)
+Seat 2: _El Rey_ (443)
+Seat 3: Israel2.0 (290)
+*** ANTE/BLINDS ***
+_El Rey_ posts small blind 15
+Israel2.0 posts big blind 30
+Dealt to _SKR [8c 7d]
+*** PRE-FLOP *** 
+_SKR folds
+_El Rey_ calls 15
+Israel2.0 checks
+*** FLOP *** [9c 2c 4c]
+_El Rey_ checks
+Israel2.0 bets 260 and is all-in
+_El Rey_ folds
+Israel2.0 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [9c 2c 4c]
+Seat 3: Israel2.0 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717858195421790209-4-1676237985 - Holdem no limit (15/30) - 2023/02/12 21:39:45 UTC
+Table: 'Expresso Nitro(632800673)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (167)
+Seat 2: _El Rey_ (413)
+Seat 3: Israel2.0 (320)
+*** ANTE/BLINDS ***
+Israel2.0 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2h 8c]
+*** PRE-FLOP *** 
+_El Rey_ calls 30
+Israel2.0 folds
+_SKR checks
+*** FLOP *** [Ts 3s Qs]
+_SKR checks
+_El Rey_ checks
+*** TURN *** [Ts 3s Qs][5d]
+_SKR checks
+_El Rey_ checks
+*** RIVER *** [Ts 3s Qs 5d][Kh]
+_SKR bets 49
+_El Rey_ calls 49
+*** SHOW DOWN ***
+_SKR shows [2h 8c] (High card : King)
+_El Rey_ shows [Kc Td] (Two pairs : Kings and Tens)
+_El Rey_ collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | No rake
+Board: [Ts 3s Qs 5d Kh]
+Seat 1: _SKR (big blind) showed [2h 8c] and lost with High card : King
+Seat 2: _El Rey_ (button) showed [Kc Td] and won 173 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717858195421790209-5-1676238027 - Holdem no limit (20/40) - 2023/02/12 21:40:27 UTC
+Table: 'Expresso Nitro(632800673)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (88)
+Seat 2: _El Rey_ (507)
+Seat 3: Israel2.0 (305)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+_El Rey_ posts big blind 40
+Dealt to _SKR [Kd Qs]
+*** PRE-FLOP *** 
+Israel2.0 raises 70 to 110
+_SKR calls 68 and is all-in
+_El Rey_ raises 165 to 275
+Israel2.0 raises 30 to 305 and is all-in
+_El Rey_ calls 30
+*** FLOP *** [4s 2c 4d]
+*** TURN *** [4s 2c 4d][8h]
+*** RIVER *** [4s 2c 4d 8h][Jd]
+*** SHOW DOWN ***
+_SKR shows [Kd Qs] (One pair : 4)
+_El Rey_ shows [Kh Tc] (One pair : 4)
+Israel2.0 shows [9h Js] (Two pairs : Jacks and 4)
+Israel2.0 collected 698 from pot
+*** SUMMARY ***
+Total pot 698 | No rake
+Board: [4s 2c 4d 8h Jd]
+Seat 1: _SKR (small blind) showed [Kd Qs] and lost with One pair : 4
+Seat 2: _El Rey_ (big blind) showed [Kh Tc] and lost with One pair : 4
+Seat 3: Israel2.0 (button) showed [9h Js] and won 698 with Two pairs : Jacks and 4
+
+

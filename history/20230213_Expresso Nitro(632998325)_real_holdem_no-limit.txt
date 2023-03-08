@@ -1,0 +1,115 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718707104297779201-1-1676296502 - Holdem no limit (10/20) - 2023/02/13 13:55:02 UTC
+Table: 'Expresso Nitro(632998325)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sec 24909278 (300)
+Seat 2: Renaauudh (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Renaauudh posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h 6h]
+*** PRE-FLOP *** 
+sec 24909278 calls 20
+Renaauudh calls 10
+_SKR checks
+*** FLOP *** [Js Qc 6s]
+Renaauudh checks
+_SKR checks
+sec 24909278 bets 20
+Renaauudh folds
+_SKR folds
+sec 24909278 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Js Qc 6s]
+Seat 1: sec 24909278 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718707104297779201-2-1676296520 - Holdem no limit (10/20) - 2023/02/13 13:55:20 UTC
+Table: 'Expresso Nitro(632998325)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sec 24909278 (340)
+Seat 2: Renaauudh (280)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+sec 24909278 posts big blind 20
+Dealt to _SKR [Jh 3s]
+*** PRE-FLOP *** 
+Renaauudh calls 20
+_SKR folds
+sec 24909278 checks
+*** FLOP *** [4c Qc 6c]
+sec 24909278 bets 20
+Renaauudh calls 20
+*** TURN *** [4c Qc 6c][Qs]
+sec 24909278 bets 20
+Renaauudh folds
+sec 24909278 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [4c Qc 6c Qs]
+Seat 1: sec 24909278 (big blind) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718707104297779201-3-1676296534 - Holdem no limit (10/20) - 2023/02/13 13:55:34 UTC
+Table: 'Expresso Nitro(632998325)#0' 3-max (real money) Seat #3 is the button
+Seat 1: sec 24909278 (390)
+Seat 2: Renaauudh (240)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+sec 24909278 posts small blind 10
+Renaauudh posts big blind 20
+Dealt to _SKR [4s Kd]
+*** PRE-FLOP *** 
+_SKR folds
+sec 24909278 raises 20 to 40
+Renaauudh calls 20
+*** FLOP *** [Th 9s 7h]
+sec 24909278 bets 20
+Renaauudh calls 20
+*** TURN *** [Th 9s 7h][8c]
+sec 24909278 bets 20
+Renaauudh calls 20
+*** RIVER *** [Th 9s 7h 8c][Ks]
+sec 24909278 bets 20
+Renaauudh calls 20
+*** SHOW DOWN ***
+Renaauudh shows [9h 5h] (One pair : 9)
+sec 24909278 shows [9d 9c] (Trips of 9)
+sec 24909278 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Th 9s 7h 8c Ks]
+Seat 1: sec 24909278 (small blind) showed [9d 9c] and won 200 with Trips of 9
+Seat 2: Renaauudh (big blind) showed [9h 5h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718707104297779201-4-1676296559 - Holdem no limit (15/30) - 2023/02/13 13:55:59 UTC
+Table: 'Expresso Nitro(632998325)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sec 24909278 (490)
+Seat 2: Renaauudh (140)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Renaauudh posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6h As]
+*** PRE-FLOP *** 
+sec 24909278 calls 30
+Renaauudh raises 110 to 140 and is all-in
+_SKR raises 130 to 270 and is all-in
+sec 24909278 calls 240
+*** FLOP *** [Jd Qc 7s]
+*** TURN *** [Jd Qc 7s][2c]
+*** RIVER *** [Jd Qc 7s 2c][9s]
+*** SHOW DOWN ***
+Renaauudh shows [3d 3s] (One pair : 3)
+_SKR shows [6h As] (High card : Ace)
+sec 24909278 shows [Qs 2d] (Two pairs : Queens and 2)
+sec 24909278 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Jd Qc 7s 2c 9s]
+Seat 1: sec 24909278 (button) showed [Qs 2d] and won 680 with Two pairs : Queens and 2
+Seat 2: Renaauudh (small blind) showed [3d 3s] and lost with One pair : 3
+Seat 3: _SKR (big blind) showed [6h As] and lost with High card : Ace
+
+

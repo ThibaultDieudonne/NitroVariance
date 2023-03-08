@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696578432061407233-1-1675088043 - Holdem no limit (10/20) - 2023/01/30 14:14:03 UTC
+Table: 'Expresso Nitro(627846092)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AceofRaise69 (300)
+Seat 2: Massasson (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AceofRaise69 posts big blind 20
+Dealt to _SKR [7d 9c]
+*** PRE-FLOP *** 
+Massasson calls 20
+_SKR folds
+AceofRaise69 checks
+*** FLOP *** [Tc 2c 6s]
+AceofRaise69 checks
+Massasson bets 50
+AceofRaise69 folds
+Massasson collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Tc 2c 6s]
+Seat 2: Massasson (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696578432061407233-2-1675088060 - Holdem no limit (10/20) - 2023/01/30 14:14:20 UTC
+Table: 'Expresso Nitro(627846092)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AceofRaise69 (280)
+Seat 2: Massasson (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+AceofRaise69 posts small blind 10
+Massasson posts big blind 20
+Dealt to _SKR [Ah 2d]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+AceofRaise69 folds
+Massasson calls 270
+*** FLOP *** [Jc As Qd]
+*** TURN *** [Jc As Qd][4d]
+*** RIVER *** [Jc As Qd 4d][Kd]
+*** SHOW DOWN ***
+_SKR shows [Ah 2d] (One pair : Aces)
+Massasson shows [Ad Qc] (Two pairs : Aces and Queens)
+Massasson collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Jc As Qd 4d Kd]
+Seat 2: Massasson (big blind) showed [Ad Qc] and won 590 with Two pairs : Aces and Queens
+Seat 3: _SKR (button) showed [Ah 2d] and lost with One pair : Aces
+
+

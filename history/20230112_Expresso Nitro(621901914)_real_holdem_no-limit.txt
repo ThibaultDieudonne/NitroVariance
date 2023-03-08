@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671048381949804545-1-1673528447 - Holdem no limit (10/20) - 2023/01/12 13:00:47 UTC
+Table: 'Expresso Nitro(621901914)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: fiodor86 (300)
+Seat 3: yoyo80000 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+fiodor86 posts big blind 20
+Dealt to _SKR [9c 3h]
+*** PRE-FLOP *** 
+yoyo80000 raises 280 to 300 and is all-in
+_SKR folds
+fiodor86 folds
+yoyo80000 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: yoyo80000 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671048381949804545-2-1673528456 - Holdem no limit (10/20) - 2023/01/12 13:00:56 UTC
+Table: 'Expresso Nitro(621901914)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: fiodor86 (280)
+Seat 3: yoyo80000 (330)
+*** ANTE/BLINDS ***
+fiodor86 posts small blind 10
+yoyo80000 posts big blind 20
+Dealt to _SKR [2d 3c]
+*** PRE-FLOP *** 
+_SKR folds
+fiodor86 folds
+yoyo80000 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: yoyo80000 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671048381949804545-3-1673528469 - Holdem no limit (10/20) - 2023/01/12 13:01:09 UTC
+Table: 'Expresso Nitro(621901914)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: fiodor86 (270)
+Seat 3: yoyo80000 (340)
+*** ANTE/BLINDS ***
+yoyo80000 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td Ts]
+*** PRE-FLOP *** 
+fiodor86 raises 250 to 270 and is all-in
+yoyo80000 folds
+_SKR calls 250
+*** FLOP *** [9h Tc 3s]
+*** TURN *** [9h Tc 3s][Kh]
+*** RIVER *** [9h Tc 3s Kh][2s]
+*** SHOW DOWN ***
+fiodor86 shows [Ah 6s] (High card : Ace)
+_SKR shows [Td Ts] (Trips of Tens)
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [9h Tc 3s Kh 2s]
+Seat 1: _SKR (big blind) showed [Td Ts] and won 550 with Trips of Tens
+Seat 2: fiodor86 (button) showed [Ah 6s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671048381949804545-4-1673528488 - Holdem no limit (10/20) - 2023/01/12 13:01:28 UTC
+Table: 'Expresso Nitro(621901914)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (570)
+Seat 3: yoyo80000 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+yoyo80000 posts big blind 20
+Dealt to _SKR [Kh 6c]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+yoyo80000 raises 290 to 330 and is all-in
+_SKR folds
+yoyo80000 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 3: yoyo80000 (big blind) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671048381949804545-5-1673528500 - Holdem no limit (10/20) - 2023/01/12 13:01:40 UTC
+Table: 'Expresso Nitro(621901914)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (530)
+Seat 3: yoyo80000 (370)
+*** ANTE/BLINDS ***
+yoyo80000 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 3s]
+*** PRE-FLOP *** 
+yoyo80000 raises 350 to 370 and is all-in
+_SKR folds
+yoyo80000 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 3: yoyo80000 (small blind) (button) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671048381949804545-6-1673528507 - Holdem no limit (15/30) - 2023/01/12 13:01:47 UTC
+Table: 'Expresso Nitro(621901914)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (510)
+Seat 3: yoyo80000 (390)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+yoyo80000 posts big blind 30
+Dealt to _SKR [Jh Js]
+*** PRE-FLOP *** 
+_SKR raises 480 to 510 and is all-in
+yoyo80000 calls 360 and is all-in
+*** FLOP *** [3d 3c 4h]
+*** TURN *** [3d 3c 4h][Jc]
+*** RIVER *** [3d 3c 4h Jc][2h]
+*** SHOW DOWN ***
+yoyo80000 shows [8d Ks] (One pair : 3)
+_SKR shows [Jh Js] (Full of Jacks and 3)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 3c 4h Jc 2h]
+Seat 1: _SKR (small blind) (button) showed [Jh Js] and won 900 with Full of Jacks and 3
+Seat 3: yoyo80000 (big blind) showed [8d Ks] and lost with One pair : 3
+
+

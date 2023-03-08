@@ -1,0 +1,192 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676943980477808641-1-1673869841 - Holdem no limit (10/20) - 2023/01/16 11:50:41 UTC
+Table: 'Expresso Nitro(623274590)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jessyoubil (300)
+Seat 2: _SKR (300)
+Seat 3: tef972 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tef972 posts big blind 20
+Dealt to _SKR [2h Qc]
+*** PRE-FLOP *** 
+Jessyoubil calls 20
+_SKR folds
+tef972 checks
+*** FLOP *** [3c 6h 2s]
+tef972 checks
+Jessyoubil checks
+*** TURN *** [3c 6h 2s][5d]
+tef972 checks
+Jessyoubil checks
+*** RIVER *** [3c 6h 2s 5d][4h]
+tef972 checks
+Jessyoubil bets 20
+tef972 calls 20
+*** SHOW DOWN ***
+Jessyoubil shows [9d Tc] (Straight 6 high)
+tef972 shows [9c 9h] (Straight 6 high)
+tef972 collected 45 from pot
+Jessyoubil collected 45 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [3c 6h 2s 5d 4h]
+Seat 1: Jessyoubil (button) showed [9d Tc] and won 45 with Straight 6 high
+Seat 3: tef972 (big blind) showed [9c 9h] and won 45 with Straight 6 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676943980477808641-2-1673869858 - Holdem no limit (10/20) - 2023/01/16 11:50:58 UTC
+Table: 'Expresso Nitro(623274590)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jessyoubil (305)
+Seat 2: _SKR (290)
+Seat 3: tef972 (305)
+*** ANTE/BLINDS ***
+tef972 posts small blind 10
+Jessyoubil posts big blind 20
+Dealt to _SKR [8s 5s]
+*** PRE-FLOP *** 
+_SKR folds
+tef972 calls 10
+Jessyoubil checks
+*** FLOP *** [4d Ah Jh]
+tef972 checks
+Jessyoubil checks
+*** TURN *** [4d Ah Jh][4c]
+tef972 checks
+Jessyoubil checks
+*** RIVER *** [4d Ah Jh 4c][Ks]
+tef972 checks
+Jessyoubil checks
+*** SHOW DOWN ***
+Jessyoubil shows [3c 2h] (One pair : 4)
+tef972 shows [5d 2d] (One pair : 4)
+tef972 collected 20 from pot
+Jessyoubil collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [4d Ah Jh 4c Ks]
+Seat 1: Jessyoubil (big blind) showed [3c 2h] and won 20 with One pair : 4
+Seat 3: tef972 (small blind) showed [5d 2d] and won 20 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676943980477808641-3-1673869872 - Holdem no limit (10/20) - 2023/01/16 11:51:12 UTC
+Table: 'Expresso Nitro(623274590)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jessyoubil (305)
+Seat 2: _SKR (290)
+Seat 3: tef972 (305)
+*** ANTE/BLINDS ***
+Jessyoubil posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As 9d]
+*** PRE-FLOP *** 
+tef972 folds
+Jessyoubil calls 10
+_SKR raises 270 to 290 and is all-in
+Jessyoubil folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: _SKR (big blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676943980477808641-4-1673869888 - Holdem no limit (10/20) - 2023/01/16 11:51:28 UTC
+Table: 'Expresso Nitro(623274590)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jessyoubil (285)
+Seat 2: _SKR (310)
+Seat 3: tef972 (305)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tef972 posts big blind 20
+Dealt to _SKR [8c 9h]
+*** PRE-FLOP *** 
+Jessyoubil folds
+_SKR folds
+tef972 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: tef972 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676943980477808641-5-1673869902 - Holdem no limit (15/30) - 2023/01/16 11:51:42 UTC
+Table: 'Expresso Nitro(623274590)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jessyoubil (285)
+Seat 2: _SKR (300)
+Seat 3: tef972 (315)
+*** ANTE/BLINDS ***
+tef972 posts small blind 15
+Jessyoubil posts big blind 30
+Dealt to _SKR [Kd 8d]
+*** PRE-FLOP *** 
+_SKR raises 270 to 300 and is all-in
+tef972 folds
+Jessyoubil calls 255 and is all-in
+*** FLOP *** [As 9c 2s]
+*** TURN *** [As 9c 2s][2h]
+*** RIVER *** [As 9c 2s 2h][Ks]
+*** SHOW DOWN ***
+Jessyoubil shows [3d Ad] (Two pairs : Aces and 2)
+_SKR shows [Kd 8d] (Two pairs : Kings and 2)
+_SKR collected 15 from side pot 1
+Jessyoubil collected 585 from main pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [As 9c 2s 2h Ks]
+Seat 1: Jessyoubil (big blind) showed [3d Ad] and won 585 with Two pairs : Aces and 2
+Seat 2: _SKR (button) showed [Kd 8d] and won 15 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676943980477808641-6-1673869928 - Holdem no limit (15/30) - 2023/01/16 11:52:08 UTC
+Table: 'Expresso Nitro(623274590)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jessyoubil (585)
+Seat 2: _SKR (15)
+Seat 3: tef972 (300)
+*** ANTE/BLINDS ***
+Jessyoubil posts small blind 15
+_SKR posts big blind 15 and is all-in
+Dealt to _SKR [7s 4s]
+*** PRE-FLOP *** 
+tef972 raises 285 to 300 and is all-in
+Jessyoubil folds
+*** FLOP *** [7h 4c As]
+*** TURN *** [7h 4c As][Js]
+*** RIVER *** [7h 4c As Js][9d]
+*** SHOW DOWN ***
+_SKR shows [7s 4s] (Two pairs : 7 and 4)
+tef972 shows [Ks Th] (High card : Ace)
+tef972 collected 285 from side pot 1
+_SKR collected 45 from main pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [7h 4c As Js 9d]
+Seat 2: _SKR (big blind) showed [7s 4s] and won 45 with Two pairs : 7 and 4
+Seat 3: tef972 (button) showed [Ks Th] and won 285 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676943980477808641-7-1673869939 - Holdem no limit (15/30) - 2023/01/16 11:52:19 UTC
+Table: 'Expresso Nitro(623274590)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jessyoubil (570)
+Seat 2: _SKR (45)
+Seat 3: tef972 (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+tef972 posts big blind 30
+Dealt to _SKR [5c Js]
+*** PRE-FLOP *** 
+Jessyoubil calls 30
+_SKR raises 15 to 45 and is all-in
+tef972 calls 15
+Jessyoubil calls 15
+*** FLOP *** [8s Qh 4h]
+tef972 bets 135
+Jessyoubil folds
+*** TURN *** [8s Qh 4h][Ts]
+*** RIVER *** [8s Qh 4h Ts][5d]
+*** SHOW DOWN ***
+_SKR shows [5c Js] (One pair : 5)
+tef972 shows [Qc 5h] (Two pairs : Queens and 5)
+tef972 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [8s Qh 4h Ts 5d]
+Seat 2: _SKR (small blind) showed [5c Js] and lost with One pair : 5
+Seat 3: tef972 (big blind) showed [Qc 5h] and won 270 with Two pairs : Queens and 5
+
+

@@ -1,0 +1,185 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717592190917279745-1-1676228140 - Holdem no limit (10/20) - 2023/02/12 18:55:40 UTC
+Table: 'Expresso Nitro(632738739)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Kuki32 (300)
+Seat 3: Nolo13dennis (300)
+*** ANTE/BLINDS ***
+Kuki32 posts small blind 10
+Nolo13dennis posts big blind 20
+Dealt to _SKR [3d 5d]
+*** PRE-FLOP *** 
+_SKR folds
+Kuki32 calls 10
+Nolo13dennis raises 280 to 300 and is all-in
+Kuki32 folds
+Nolo13dennis collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Nolo13dennis (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717592190917279745-2-1676228151 - Holdem no limit (10/20) - 2023/02/12 18:55:51 UTC
+Table: 'Expresso Nitro(632738739)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Kuki32 (280)
+Seat 3: Nolo13dennis (320)
+*** ANTE/BLINDS ***
+Nolo13dennis posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9c Jh]
+*** PRE-FLOP *** 
+Kuki32 calls 20
+Nolo13dennis calls 10
+_SKR checks
+*** FLOP *** [5h 2s Th]
+Nolo13dennis checks
+_SKR checks
+Kuki32 checks
+*** TURN *** [5h 2s Th][Js]
+Nolo13dennis checks
+_SKR bets 39
+Kuki32 folds
+Nolo13dennis folds
+_SKR collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [5h 2s Th Js]
+Seat 1: _SKR (big blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717592190917279745-3-1676228185 - Holdem no limit (10/20) - 2023/02/12 18:56:25 UTC
+Table: 'Expresso Nitro(632738739)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (340)
+Seat 2: Kuki32 (260)
+Seat 3: Nolo13dennis (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Kuki32 posts big blind 20
+Dealt to _SKR [9c 2s]
+*** PRE-FLOP *** 
+Nolo13dennis calls 20
+_SKR folds
+Kuki32 checks
+*** FLOP *** [Qs 4c 7d]
+Kuki32 checks
+Nolo13dennis checks
+*** TURN *** [Qs 4c 7d][3h]
+Kuki32 checks
+Nolo13dennis checks
+*** RIVER *** [Qs 4c 7d 3h][9h]
+Kuki32 bets 20
+Nolo13dennis calls 20
+*** SHOW DOWN ***
+Kuki32 shows [5d 4s] (One pair : 4)
+Nolo13dennis shows [Tc 9d] (One pair : 9)
+Nolo13dennis collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qs 4c 7d 3h 9h]
+Seat 2: Kuki32 (big blind) showed [5d 4s] and lost with One pair : 4
+Seat 3: Nolo13dennis (button) showed [Tc 9d] and won 90 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717592190917279745-4-1676228255 - Holdem no limit (15/30) - 2023/02/12 18:57:35 UTC
+Table: 'Expresso Nitro(632738739)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (330)
+Seat 2: Kuki32 (220)
+Seat 3: Nolo13dennis (350)
+*** ANTE/BLINDS ***
+Kuki32 posts small blind 15
+Nolo13dennis posts big blind 30
+Dealt to _SKR [9s 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Kuki32 calls 15
+Nolo13dennis raises 320 to 350 and is all-in
+Kuki32 calls 190 and is all-in
+*** FLOP *** [Kc Ad 8d]
+*** TURN *** [Kc Ad 8d][3h]
+*** RIVER *** [Kc Ad 8d 3h][4c]
+*** SHOW DOWN ***
+Kuki32 shows [6c Kd] (One pair : Kings)
+Nolo13dennis shows [3s Ah] (Two pairs : Aces and 3)
+Nolo13dennis collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Kc Ad 8d 3h 4c]
+Seat 2: Kuki32 (small blind) showed [6c Kd] and lost with One pair : Kings
+Seat 3: Nolo13dennis (big blind) showed [3s Ah] and won 570 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717592190917279745-5-1676228272 - Holdem no limit (20/40) - 2023/02/12 18:57:52 UTC
+Table: 'Expresso Nitro(632738739)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 3: Nolo13dennis (570)
+*** ANTE/BLINDS ***
+Nolo13dennis posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s 9h]
+*** PRE-FLOP *** 
+Nolo13dennis raises 80 to 120
+_SKR folds
+Nolo13dennis collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: Nolo13dennis (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717592190917279745-6-1676228284 - Holdem no limit (20/40) - 2023/02/12 18:58:04 UTC
+Table: 'Expresso Nitro(632738739)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 3: Nolo13dennis (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Nolo13dennis posts big blind 40
+Dealt to _SKR [7s 9d]
+*** PRE-FLOP *** 
+_SKR folds
+Nolo13dennis collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Nolo13dennis (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717592190917279745-7-1676228289 - Holdem no limit (20/40) - 2023/02/12 18:58:09 UTC
+Table: 'Expresso Nitro(632738739)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 3: Nolo13dennis (630)
+*** ANTE/BLINDS ***
+Nolo13dennis posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8h Th]
+*** PRE-FLOP *** 
+Nolo13dennis raises 590 to 630 and is all-in
+_SKR folds
+Nolo13dennis collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 3: Nolo13dennis (small blind) (button) won 670
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717592190917279745-8-1676228294 - Holdem no limit (20/40) - 2023/02/12 18:58:14 UTC
+Table: 'Expresso Nitro(632738739)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (230)
+Seat 3: Nolo13dennis (670)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Nolo13dennis posts big blind 40
+Dealt to _SKR [9s 8d]
+*** PRE-FLOP *** 
+_SKR raises 190 to 230 and is all-in
+Nolo13dennis raises 440 to 670 and is all-in
+*** FLOP *** [4h Qc 4d]
+*** TURN *** [4h Qc 4d][Qd]
+*** RIVER *** [4h Qc 4d Qd][3c]
+*** SHOW DOWN ***
+_SKR shows [9s 8d] (Two pairs : Queens and 4)
+Nolo13dennis shows [Qs Ac] (Full of Queens and 4)
+Nolo13dennis collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h Qc 4d Qd 3c]
+Seat 1: _SKR (small blind) (button) showed [9s 8d] and lost with Two pairs : Queens and 4
+Seat 3: Nolo13dennis (big blind) showed [Qs Ac] and won 900 with Full of Queens and 4
+
+

@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690547567833382913-1-1674685750 - Holdem no limit (10/20) - 2023/01/25 22:29:10 UTC
+Table: 'Expresso Nitro(626441922)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Martin Mayer (300)
+Seat 2: Paipepcho (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Martin Mayer posts big blind 20
+Dealt to _SKR [Ts 9s]
+*** PRE-FLOP *** 
+Paipepcho folds
+_SKR raises 20 to 40
+Martin Mayer folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690547567833382913-2-1674685759 - Holdem no limit (10/20) - 2023/01/25 22:29:19 UTC
+Table: 'Expresso Nitro(626441922)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Martin Mayer (280)
+Seat 2: Paipepcho (300)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+Martin Mayer posts small blind 10
+Paipepcho posts big blind 20
+Dealt to _SKR [8s Ah]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Martin Mayer raises 20 to 60
+Paipepcho folds
+_SKR calls 20
+*** FLOP *** [2d 2h 9d]
+Martin Mayer bets 140
+_SKR folds
+Martin Mayer collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [2d 2h 9d]
+Seat 1: Martin Mayer (small blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690547567833382913-3-1674685779 - Holdem no limit (10/20) - 2023/01/25 22:29:39 UTC
+Table: 'Expresso Nitro(626441922)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Martin Mayer (360)
+Seat 2: Paipepcho (280)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Paipepcho posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 7c]
+*** PRE-FLOP *** 
+Martin Mayer folds
+Paipepcho raises 260 to 280 and is all-in
+_SKR folds
+Paipepcho collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: Paipepcho (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690547567833382913-4-1674685787 - Holdem no limit (10/20) - 2023/01/25 22:29:47 UTC
+Table: 'Expresso Nitro(626441922)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Martin Mayer (360)
+Seat 2: Paipepcho (300)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Martin Mayer posts big blind 20
+Dealt to _SKR [Js Qd]
+*** PRE-FLOP *** 
+Paipepcho folds
+_SKR raises 220 to 240 and is all-in
+Martin Mayer calls 220
+*** FLOP *** [Td 6c 4c]
+*** TURN *** [Td 6c 4c][8c]
+*** RIVER *** [Td 6c 4c 8c][Qc]
+*** SHOW DOWN ***
+_SKR shows [Js Qd] (One pair : Queens)
+Martin Mayer shows [2h Kc] (Flush King high)
+Martin Mayer collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Td 6c 4c 8c Qc]
+Seat 1: Martin Mayer (big blind) showed [2h Kc] and won 480 with Flush King high
+Seat 3: _SKR (small blind) showed [Js Qd] and lost with One pair : Queens
+
+

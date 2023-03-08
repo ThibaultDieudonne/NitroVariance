@@ -1,0 +1,70 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689872132686479361-1-1674656888 - Holdem no limit (10/20) - 2023/01/25 14:28:08 UTC
+Table: 'Expresso Nitro(626284660)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gio62150 (300)
+Seat 2: _SKR (300)
+Seat 3: Cueva93 (300)
+*** ANTE/BLINDS ***
+Cueva93 posts small blind 10
+Gio62150 posts big blind 20
+Dealt to _SKR [7s 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Cueva93 raises 280 to 300 and is all-in
+Gio62150 calls 280 and is all-in
+*** FLOP *** [4h 8h Kh]
+*** TURN *** [4h 8h Kh][7c]
+*** RIVER *** [4h 8h Kh 7c][6h]
+*** SHOW DOWN ***
+Gio62150 shows [3d Tc] (High card : King)
+Cueva93 shows [6s Ad] (One pair : 6)
+Cueva93 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4h 8h Kh 7c 6h]
+Seat 1: Gio62150 (big blind) showed [3d Tc] and lost with High card : King
+Seat 3: Cueva93 (small blind) showed [6s Ad] and won 600 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689872132686479361-2-1674656919 - Holdem no limit (10/20) - 2023/01/25 14:28:39 UTC
+Table: 'Expresso Nitro(626284660)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (300)
+Seat 3: Cueva93 (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cueva93 posts big blind 20
+Dealt to _SKR [Qc Th]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Cueva93 raises 80 to 120
+_SKR folds
+Cueva93 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: Cueva93 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689872132686479361-3-1674656934 - Holdem no limit (10/20) - 2023/01/25 14:28:54 UTC
+Table: 'Expresso Nitro(626284660)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (260)
+Seat 3: Cueva93 (640)
+*** ANTE/BLINDS ***
+Cueva93 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc Td]
+*** PRE-FLOP *** 
+Cueva93 raises 620 to 640 and is all-in
+_SKR calls 240 and is all-in
+*** FLOP *** [Qd 7d 5d]
+*** TURN *** [Qd 7d 5d][Kc]
+*** RIVER *** [Qd 7d 5d Kc][7h]
+*** SHOW DOWN ***
+_SKR shows [Tc Td] (Two pairs : Tens and 7)
+Cueva93 shows [5h 5c] (Full of 5 and 7)
+Cueva93 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd 7d 5d Kc 7h]
+Seat 2: _SKR (big blind) showed [Tc Td] and lost with Two pairs : Tens and 7
+Seat 3: Cueva93 (small blind) (button) showed [5h 5c] and won 900 with Full of 5 and 7
+
+

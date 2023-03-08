@@ -1,0 +1,331 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717696361054076929-1-1676231933 - Holdem no limit (10/20) - 2023/02/12 19:58:53 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Such24 (300)
+Seat 3: Pulga_204777 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Such24 posts big blind 20
+Dealt to _SKR [7d 2d]
+*** PRE-FLOP *** 
+Pulga_204777 calls 20
+_SKR folds
+Such24 checks
+*** FLOP *** [Ks 5s 7c]
+Such24 checks
+Pulga_204777 checks
+*** TURN *** [Ks 5s 7c][Td]
+Such24 checks
+Pulga_204777 checks
+*** RIVER *** [Ks 5s 7c Td][Js]
+Such24 checks
+Pulga_204777 bets 50
+Such24 folds
+Pulga_204777 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ks 5s 7c Td Js]
+Seat 3: Pulga_204777 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717696361054076929-2-1676231960 - Holdem no limit (10/20) - 2023/02/12 19:59:20 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Such24 (280)
+Seat 3: Pulga_204777 (330)
+*** ANTE/BLINDS ***
+Such24 posts small blind 10
+Pulga_204777 posts big blind 20
+Dealt to _SKR [5c Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Such24 calls 10
+Pulga_204777 checks
+*** FLOP *** [Ah 7d 5d]
+Such24 checks
+Pulga_204777 checks
+*** TURN *** [Ah 7d 5d][9s]
+Such24 checks
+Pulga_204777 checks
+*** RIVER *** [Ah 7d 5d 9s][Qc]
+Such24 bets 40
+Pulga_204777 folds
+Such24 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ah 7d 5d 9s Qc]
+Seat 2: Such24 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717696361054076929-3-1676231974 - Holdem no limit (10/20) - 2023/02/12 19:59:34 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Such24 (300)
+Seat 3: Pulga_204777 (310)
+*** ANTE/BLINDS ***
+Pulga_204777 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d Ah]
+*** PRE-FLOP *** 
+Such24 calls 20
+Pulga_204777 raises 60 to 80
+_SKR folds
+Such24 calls 60
+*** FLOP *** [4c Js Jd]
+Pulga_204777 bets 117
+Such24 calls 117
+*** TURN *** [4c Js Jd][Jc]
+Pulga_204777 checks
+Such24 bets 103 and is all-in
+Pulga_204777 calls 103
+*** RIVER *** [4c Js Jd Jc][Td]
+*** SHOW DOWN ***
+Such24 shows [As 9s] (Trips of Jacks)
+Pulga_204777 shows [2c Ac] (Trips of Jacks)
+Pulga_204777 collected 310 from pot
+Such24 collected 310 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4c Js Jd Jc Td]
+Seat 2: Such24 (button) showed [As 9s] and won 310 with Trips of Jacks
+Seat 3: Pulga_204777 (small blind) showed [2c Ac] and won 310 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717696361054076929-4-1676231998 - Holdem no limit (15/30) - 2023/02/12 19:59:58 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 2: Such24 (310)
+Seat 3: Pulga_204777 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Such24 posts big blind 30
+Dealt to _SKR [Qh 6h]
+*** PRE-FLOP *** 
+Pulga_204777 calls 30
+_SKR folds
+Such24 checks
+*** FLOP *** [9s 5c Kh]
+Such24 checks
+Pulga_204777 bets 49
+Such24 folds
+Pulga_204777 collected 124 from pot
+*** SUMMARY ***
+Total pot 124 | No rake
+Board: [9s 5c Kh]
+Seat 3: Pulga_204777 (button) won 124
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717696361054076929-5-1676232012 - Holdem no limit (15/30) - 2023/02/12 20:00:12 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (255)
+Seat 2: Such24 (280)
+Seat 3: Pulga_204777 (365)
+*** ANTE/BLINDS ***
+Such24 posts small blind 15
+Pulga_204777 posts big blind 30
+Dealt to _SKR [Tc Qh]
+*** PRE-FLOP *** 
+_SKR folds
+Such24 calls 15
+Pulga_204777 checks
+*** FLOP *** [4d 2h 3d]
+Such24 checks
+Pulga_204777 checks
+*** TURN *** [4d 2h 3d][4c]
+Such24 checks
+Pulga_204777 checks
+*** RIVER *** [4d 2h 3d 4c][Ks]
+Such24 bets 250 and is all-in
+Pulga_204777 folds
+Such24 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [4d 2h 3d 4c Ks]
+Seat 2: Such24 (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717696361054076929-6-1676232028 - Holdem no limit (15/30) - 2023/02/12 20:00:28 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (255)
+Seat 2: Such24 (310)
+Seat 3: Pulga_204777 (335)
+*** ANTE/BLINDS ***
+Pulga_204777 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc 4d]
+*** PRE-FLOP *** 
+Such24 folds
+Pulga_204777 raises 305 to 335 and is all-in
+_SKR folds
+Pulga_204777 collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Seat 3: Pulga_204777 (small blind) won 365
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717696361054076929-7-1676232036 - Holdem no limit (15/30) - 2023/02/12 20:00:36 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (225)
+Seat 2: Such24 (310)
+Seat 3: Pulga_204777 (365)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Such24 posts big blind 30
+Dealt to _SKR [9s 2s]
+*** PRE-FLOP *** 
+Pulga_204777 folds
+_SKR folds
+Such24 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Such24 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717696361054076929-8-1676232043 - Holdem no limit (15/30) - 2023/02/12 20:00:43 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (210)
+Seat 2: Such24 (325)
+Seat 3: Pulga_204777 (365)
+*** ANTE/BLINDS ***
+Such24 posts small blind 15
+Pulga_204777 posts big blind 30
+Dealt to _SKR [6d Qh]
+*** PRE-FLOP *** 
+_SKR folds
+Such24 raises 30 to 60
+Pulga_204777 folds
+Such24 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Such24 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717696361054076929-9-1676232050 - Holdem no limit (20/40) - 2023/02/12 20:00:50 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (210)
+Seat 2: Such24 (355)
+Seat 3: Pulga_204777 (335)
+*** ANTE/BLINDS ***
+Pulga_204777 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js Kh]
+*** PRE-FLOP *** 
+Such24 raises 100 to 140
+Pulga_204777 folds
+_SKR raises 70 to 210 and is all-in
+Such24 calls 70
+*** FLOP *** [6c Ah 3s]
+*** TURN *** [6c Ah 3s][Jh]
+*** RIVER *** [6c Ah 3s Jh][9d]
+*** SHOW DOWN ***
+Such24 shows [Td Jd] (One pair : Jacks)
+_SKR shows [Js Kh] (One pair : Jacks)
+_SKR collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [6c Ah 3s Jh 9d]
+Seat 1: _SKR (big blind) showed [Js Kh] and won 440 with One pair : Jacks
+Seat 2: Such24 (button) showed [Td Jd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717696361054076929-10-1676232067 - Holdem no limit (20/40) - 2023/02/12 20:01:07 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (440)
+Seat 2: Such24 (145)
+Seat 3: Pulga_204777 (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Such24 posts big blind 40
+Dealt to _SKR [5h Jd]
+*** PRE-FLOP *** 
+Pulga_204777 calls 40
+_SKR folds
+Such24 raises 105 to 145 and is all-in
+Pulga_204777 calls 105
+*** FLOP *** [4h 9s 6s]
+*** TURN *** [4h 9s 6s][Js]
+*** RIVER *** [4h 9s 6s Js][5s]
+*** SHOW DOWN ***
+Such24 shows [Ad 8s] (Flush Jack high)
+Pulga_204777 shows [4s Ks] (Flush King high)
+Pulga_204777 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [4h 9s 6s Js 5s]
+Seat 2: Such24 (big blind) showed [Ad 8s] and lost with Flush Jack high
+Seat 3: Pulga_204777 (button) showed [4s Ks] and won 310 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717696361054076929-11-1676232083 - Holdem no limit (20/40) - 2023/02/12 20:01:23 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (420)
+Seat 3: Pulga_204777 (480)
+*** ANTE/BLINDS ***
+Pulga_204777 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c Qd]
+*** PRE-FLOP *** 
+Pulga_204777 calls 20
+_SKR checks
+*** FLOP *** [5c 9d Qh]
+_SKR checks
+Pulga_204777 checks
+*** TURN *** [5c 9d Qh][Jh]
+_SKR bets 52
+Pulga_204777 folds
+_SKR collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [5c 9d Qh Jh]
+Seat 1: _SKR (big blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717696361054076929-12-1676232105 - Holdem no limit (20/40) - 2023/02/12 20:01:45 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (460)
+Seat 3: Pulga_204777 (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Pulga_204777 posts big blind 40
+Dealt to _SKR [Kh 6h]
+*** PRE-FLOP *** 
+_SKR raises 420 to 460 and is all-in
+Pulga_204777 calls 400 and is all-in
+*** FLOP *** [7s 4d 2s]
+*** TURN *** [7s 4d 2s][Jd]
+*** RIVER *** [7s 4d 2s Jd][2h]
+*** SHOW DOWN ***
+_SKR shows [Kh 6h] (One pair : 2)
+Pulga_204777 shows [Kd 2d] (Trips of 2)
+Pulga_204777 collected 880 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s 4d 2s Jd 2h]
+Seat 1: _SKR (small blind) (button) showed [Kh 6h] and won 20 with One pair : 2
+Seat 3: Pulga_204777 (big blind) showed [Kd 2d] and won 880 with Trips of 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717696361054076929-13-1676232117 - Holdem no limit (30/60) - 2023/02/12 20:01:57 UTC
+Table: 'Expresso Nitro(632762993)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (20)
+Seat 3: Pulga_204777 (880)
+*** ANTE/BLINDS ***
+Pulga_204777 posts small blind 30
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [5c 2s]
+*** PRE-FLOP *** 
+*** FLOP *** [Qc As 8d]
+*** TURN *** [Qc As 8d][9s]
+*** RIVER *** [Qc As 8d 9s][4h]
+*** SHOW DOWN ***
+_SKR shows [5c 2s] (High card : Ace)
+Pulga_204777 shows [6s 4c] (One pair : 4)
+Pulga_204777 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Qc As 8d 9s 4h]
+Seat 1: _SKR (big blind) showed [5c 2s] and lost with High card : Ace
+Seat 3: Pulga_204777 (small blind) (button) showed [6s 4c] and won 50 with One pair : 4
+
+

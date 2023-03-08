@@ -1,0 +1,30 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691947834546061313-1-1674775031 - Holdem no limit (10/20) - 2023/01/26 23:17:11 UTC
+Table: 'Expresso Nitro(626767947)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FZ_Chasseur2 (300)
+Seat 2: TelestLaVoie (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+FZ_Chasseur2 posts big blind 20
+Dealt to _SKR [As 4h]
+*** PRE-FLOP *** 
+TelestLaVoie calls 20
+_SKR raises 280 to 300 and is all-in
+FZ_Chasseur2 calls 280 and is all-in
+TelestLaVoie calls 280 and is all-in
+*** FLOP *** [Qh 3h Td]
+*** TURN *** [Qh 3h Td][Tc]
+*** RIVER *** [Qh 3h Td Tc][2s]
+*** SHOW DOWN ***
+FZ_Chasseur2 shows [6h Ad] (One pair : Tens)
+_SKR shows [As 4h] (One pair : Tens)
+TelestLaVoie shows [Ac 2h] (Two pairs : Tens and 2)
+TelestLaVoie collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qh 3h Td Tc 2s]
+Seat 1: FZ_Chasseur2 (big blind) showed [6h Ad] and lost with One pair : Tens
+Seat 2: TelestLaVoie (button) showed [Ac 2h] and won 900 with Two pairs : Tens and 2
+Seat 3: _SKR (small blind) showed [As 4h] and lost with One pair : Tens
+
+

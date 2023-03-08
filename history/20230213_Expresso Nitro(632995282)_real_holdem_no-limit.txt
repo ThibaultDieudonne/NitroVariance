@@ -1,0 +1,64 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718694034712297473-1-1676295821 - Holdem no limit (10/20) - 2023/02/13 13:43:41 UTC
+Table: 'Expresso Nitro(632995282)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: MIKPower (300)
+Seat 3: Rud13 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MIKPower posts big blind 20
+Dealt to _SKR [4s As]
+*** PRE-FLOP *** 
+Rud13 raises 280 to 300 and is all-in
+_SKR folds
+MIKPower folds
+Rud13 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Rud13 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718694034712297473-2-1676295837 - Holdem no limit (10/20) - 2023/02/13 13:43:57 UTC
+Table: 'Expresso Nitro(632995282)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: MIKPower (280)
+Seat 3: Rud13 (330)
+*** ANTE/BLINDS ***
+MIKPower posts small blind 10
+Rud13 posts big blind 20
+Dealt to _SKR [7s 3s]
+*** PRE-FLOP *** 
+_SKR folds
+MIKPower folds
+Rud13 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Rud13 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718694034712297473-3-1676295844 - Holdem no limit (10/20) - 2023/02/13 13:44:04 UTC
+Table: 'Expresso Nitro(632995282)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: MIKPower (270)
+Seat 3: Rud13 (340)
+*** ANTE/BLINDS ***
+Rud13 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As 8h]
+*** PRE-FLOP *** 
+MIKPower folds
+Rud13 raises 320 to 340 and is all-in
+_SKR calls 270 and is all-in
+*** FLOP *** [Ks 2d 2h]
+*** TURN *** [Ks 2d 2h][6d]
+*** RIVER *** [Ks 2d 2h 6d][Kh]
+*** SHOW DOWN ***
+_SKR shows [As 8h] (Two pairs : Kings and 2)
+Rud13 shows [Js Jd] (Two pairs : Kings and Jacks)
+Rud13 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Ks 2d 2h 6d Kh]
+Seat 1: _SKR (big blind) showed [As 8h] and lost with Two pairs : Kings and 2
+Seat 3: Rud13 (small blind) showed [Js Jd] and won 630 with Two pairs : Kings and Jacks
+
+

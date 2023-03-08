@@ -1,0 +1,141 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689781392912416769-1-1674651479 - Holdem no limit (10/20) - 2023/01/25 12:57:59 UTC
+Table: 'Expresso Nitro(626263533)#0' 3-max (real money) Seat #3 is the button
+Seat 1: lolo2611 (300)
+Seat 2: _SKR (300)
+Seat 3: Stockmen98 (300)
+*** ANTE/BLINDS ***
+lolo2611 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h Qs]
+*** PRE-FLOP *** 
+Stockmen98 folds
+lolo2611 calls 10
+_SKR checks
+*** FLOP *** [3s 7c 6c]
+lolo2611 checks
+_SKR checks
+*** TURN *** [3s 7c 6c][6d]
+lolo2611 checks
+_SKR checks
+*** RIVER *** [3s 7c 6c 6d][4d]
+lolo2611 checks
+_SKR bets 20
+lolo2611 calls 20
+*** SHOW DOWN ***
+lolo2611 shows [Ad Tc] (One pair : 6)
+_SKR shows [4h Qs] (Two pairs : 6 and 4)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3s 7c 6c 6d 4d]
+Seat 1: lolo2611 (small blind) showed [Ad Tc] and lost with One pair : 6
+Seat 2: _SKR (big blind) showed [4h Qs] and won 80 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689781392912416769-2-1674651547 - Holdem no limit (15/30) - 2023/01/25 12:59:07 UTC
+Table: 'Expresso Nitro(626263533)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lolo2611 (260)
+Seat 2: _SKR (340)
+Seat 3: Stockmen98 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Stockmen98 posts big blind 30
+Dealt to _SKR [4c 6h]
+*** PRE-FLOP *** 
+lolo2611 calls 30
+_SKR folds
+Stockmen98 raises 270 to 300 and is all-in
+lolo2611 folds
+Stockmen98 collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 3: Stockmen98 (big blind) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689781392912416769-3-1674651567 - Holdem no limit (15/30) - 2023/01/25 12:59:27 UTC
+Table: 'Expresso Nitro(626263533)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lolo2611 (230)
+Seat 2: _SKR (325)
+Seat 3: Stockmen98 (345)
+*** ANTE/BLINDS ***
+Stockmen98 posts small blind 15
+lolo2611 posts big blind 30
+Dealt to _SKR [8c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Stockmen98 raises 315 to 345 and is all-in
+lolo2611 calls 200 and is all-in
+*** FLOP *** [Qs Ts 8s]
+*** TURN *** [Qs Ts 8s][4d]
+*** RIVER *** [Qs Ts 8s 4d][Js]
+*** SHOW DOWN ***
+lolo2611 shows [7s 7c] (Flush Queen high)
+Stockmen98 shows [4h 4c] (Trips of 4)
+Stockmen98 collected 115 from side pot 1
+lolo2611 collected 460 from main pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Board: [Qs Ts 8s 4d Js]
+Seat 1: lolo2611 (big blind) showed [7s 7c] and won 460 with Flush Queen high
+Seat 3: Stockmen98 (small blind) showed [4h 4c] and won 115 with Trips of 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689781392912416769-4-1674651589 - Holdem no limit (15/30) - 2023/01/25 12:59:49 UTC
+Table: 'Expresso Nitro(626263533)#0' 3-max (real money) Seat #3 is the button
+Seat 1: lolo2611 (460)
+Seat 2: _SKR (325)
+Seat 3: Stockmen98 (115)
+*** ANTE/BLINDS ***
+lolo2611 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah Ac]
+*** PRE-FLOP *** 
+Stockmen98 raises 85 to 115 and is all-in
+lolo2611 calls 100
+_SKR calls 85
+*** FLOP *** [Qs Jh 9c]
+lolo2611 checks
+_SKR bets 210 and is all-in
+lolo2611 folds
+*** TURN *** [Qs Jh 9c][Kd]
+*** RIVER *** [Qs Jh 9c Kd][7s]
+*** SHOW DOWN ***
+_SKR shows [Ah Ac] (One pair : Aces)
+Stockmen98 shows [Td 9d] (Straight King high)
+Stockmen98 collected 345 from main pot
+_SKR collected 210 from side pot 1
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [Qs Jh 9c Kd 7s]
+Seat 2: _SKR (big blind) showed [Ah Ac] and won 210 with One pair : Aces
+Seat 3: Stockmen98 (button) showed [Td 9d] and won 345 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689781392912416769-5-1674651622 - Holdem no limit (20/40) - 2023/01/25 13:00:22 UTC
+Table: 'Expresso Nitro(626263533)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lolo2611 (345)
+Seat 2: _SKR (210)
+Seat 3: Stockmen98 (345)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Stockmen98 posts big blind 40
+Dealt to _SKR [9s Kd]
+*** PRE-FLOP *** 
+lolo2611 calls 40
+_SKR raises 170 to 210 and is all-in
+Stockmen98 folds
+lolo2611 calls 170
+*** FLOP *** [4s 9d 6h]
+*** TURN *** [4s 9d 6h][Js]
+*** RIVER *** [4s 9d 6h Js][Qc]
+*** SHOW DOWN ***
+_SKR shows [9s Kd] (One pair : 9)
+lolo2611 shows [Th 8h] (Straight Queen high)
+lolo2611 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [4s 9d 6h Js Qc]
+Seat 1: lolo2611 (button) showed [Th 8h] and won 460 with Straight Queen high
+Seat 2: _SKR (small blind) showed [9s Kd] and lost with One pair : 9
+
+

@@ -1,0 +1,71 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689775495922319361-1-1674651119 - Holdem no limit (10/20) - 2023/01/25 12:51:59 UTC
+Table: 'Expresso Nitro(626262160)#0' 3-max (real money) Seat #1 is the button
+Seat 1: oh_my_fold (300)
+Seat 2: _SKR (300)
+Seat 3: EgardRumi (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+EgardRumi posts big blind 20
+Dealt to _SKR [8c Ts]
+*** PRE-FLOP *** 
+oh_my_fold raises 40 to 60
+_SKR folds
+EgardRumi raises 40 to 100
+oh_my_fold raises 200 to 300 and is all-in
+EgardRumi calls 200 and is all-in
+*** FLOP *** [7c 8s 5d]
+*** TURN *** [7c 8s 5d][9h]
+*** RIVER *** [7c 8s 5d 9h][Kc]
+*** SHOW DOWN ***
+oh_my_fold shows [Qc Jd] (High card : King)
+EgardRumi shows [As Ah] (One pair : Aces)
+EgardRumi collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [7c 8s 5d 9h Kc]
+Seat 1: oh_my_fold (button) showed [Qc Jd] and lost with High card : King
+Seat 3: EgardRumi (big blind) showed [As Ah] and won 610 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689775495922319361-2-1674651145 - Holdem no limit (10/20) - 2023/01/25 12:52:25 UTC
+Table: 'Expresso Nitro(626262160)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (290)
+Seat 3: EgardRumi (610)
+*** ANTE/BLINDS ***
+EgardRumi posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 8d]
+*** PRE-FLOP *** 
+EgardRumi raises 590 to 610 and is all-in
+_SKR folds
+EgardRumi collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 3: EgardRumi (small blind) (button) won 630
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689775495922319361-3-1674651151 - Holdem no limit (10/20) - 2023/01/25 12:52:31 UTC
+Table: 'Expresso Nitro(626262160)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (270)
+Seat 3: EgardRumi (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+EgardRumi posts big blind 20
+Dealt to _SKR [8d Ks]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+EgardRumi calls 250
+*** FLOP *** [2c 3d 4h]
+*** TURN *** [2c 3d 4h][9s]
+*** RIVER *** [2c 3d 4h 9s][7s]
+*** SHOW DOWN ***
+_SKR shows [8d Ks] (High card : King)
+EgardRumi shows [Js Kc] (High card : King)
+EgardRumi collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [2c 3d 4h 9s 7s]
+Seat 2: _SKR (small blind) (button) showed [8d Ks] and lost with High card : King
+Seat 3: EgardRumi (big blind) showed [Js Kc] and won 540 with High card : King
+
+

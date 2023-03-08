@@ -1,0 +1,69 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698221871232450561-1-1675186168 - Holdem no limit (10/20) - 2023/01/31 17:29:28 UTC
+Table: 'Expresso Nitro(628228735)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DAV73170 (300)
+Seat 2: slimane23 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+DAV73170 posts big blind 20
+Dealt to _SKR [2h 7s]
+*** PRE-FLOP *** 
+slimane23 raises 280 to 300 and is all-in
+_SKR folds
+DAV73170 calls 280 and is all-in
+*** FLOP *** [Qs Qd 6d]
+*** TURN *** [Qs Qd 6d][2s]
+*** RIVER *** [Qs Qd 6d 2s][Jh]
+*** SHOW DOWN ***
+slimane23 shows [Ah 6c] (Two pairs : Queens and 6)
+DAV73170 shows [Jd 9s] (Two pairs : Queens and Jacks)
+DAV73170 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Qs Qd 6d 2s Jh]
+Seat 1: DAV73170 (big blind) showed [Jd 9s] and won 610 with Two pairs : Queens and Jacks
+Seat 2: slimane23 (button) showed [Ah 6c] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698221871232450561-2-1675186189 - Holdem no limit (10/20) - 2023/01/31 17:29:49 UTC
+Table: 'Expresso Nitro(628228735)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DAV73170 (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+DAV73170 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 9s]
+*** PRE-FLOP *** 
+DAV73170 raises 20 to 40
+_SKR folds
+DAV73170 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: DAV73170 (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698221871232450561-3-1675186198 - Holdem no limit (10/20) - 2023/01/31 17:29:58 UTC
+Table: 'Expresso Nitro(628228735)#0' 3-max (real money) Seat #3 is the button
+Seat 1: DAV73170 (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+DAV73170 posts big blind 20
+Dealt to _SKR [3h Ah]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+DAV73170 calls 250
+*** FLOP *** [Qs As Tc]
+*** TURN *** [Qs As Tc][5d]
+*** RIVER *** [Qs As Tc 5d][Kc]
+*** SHOW DOWN ***
+_SKR shows [3h Ah] (One pair : Aces)
+DAV73170 shows [Ad 5s] (Two pairs : Aces and 5)
+DAV73170 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Qs As Tc 5d Kc]
+Seat 1: DAV73170 (big blind) showed [Ad 5s] and won 540 with Two pairs : Aces and 5
+Seat 3: _SKR (small blind) (button) showed [3h Ah] and lost with One pair : Aces
+
+

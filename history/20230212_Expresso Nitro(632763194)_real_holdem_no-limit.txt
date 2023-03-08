@@ -1,0 +1,122 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717697224342503425-1-1676231977 - Holdem no limit (10/20) - 2023/02/12 19:59:37 UTC
+Table: 'Expresso Nitro(632763194)#0' 3-max (real money) Seat #3 is the button
+Seat 1: labete318 (300)
+Seat 2: _SKR (300)
+Seat 3: Olivier__83 (300)
+*** ANTE/BLINDS ***
+labete318 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c 9s]
+*** PRE-FLOP *** 
+Olivier__83 raises 280 to 300 and is all-in
+labete318 folds
+_SKR folds
+Olivier__83 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Olivier__83 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717697224342503425-2-1676231990 - Holdem no limit (10/20) - 2023/02/12 19:59:50 UTC
+Table: 'Expresso Nitro(632763194)#0' 3-max (real money) Seat #1 is the button
+Seat 1: labete318 (290)
+Seat 2: _SKR (280)
+Seat 3: Olivier__83 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Olivier__83 posts big blind 20
+Dealt to _SKR [2d 4s]
+*** PRE-FLOP *** 
+labete318 raises 270 to 290 and is all-in
+_SKR folds
+Olivier__83 folds
+labete318 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: labete318 (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717697224342503425-3-1676231998 - Holdem no limit (10/20) - 2023/02/12 19:59:58 UTC
+Table: 'Expresso Nitro(632763194)#0' 3-max (real money) Seat #2 is the button
+Seat 1: labete318 (320)
+Seat 2: _SKR (270)
+Seat 3: Olivier__83 (310)
+*** ANTE/BLINDS ***
+Olivier__83 posts small blind 10
+labete318 posts big blind 20
+Dealt to _SKR [5d 9h]
+*** PRE-FLOP *** 
+_SKR folds
+Olivier__83 calls 10
+labete318 checks
+*** FLOP *** [4h 6c Tc]
+Olivier__83 bets 40
+labete318 calls 40
+*** TURN *** [4h 6c Tc][3s]
+Olivier__83 checks
+labete318 checks
+*** RIVER *** [4h 6c Tc 3s][7d]
+Olivier__83 checks
+labete318 checks
+*** SHOW DOWN ***
+Olivier__83 shows [Jd Kh] (High card : King)
+labete318 shows [8c 4d] (One pair : 4)
+labete318 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4h 6c Tc 3s 7d]
+Seat 1: labete318 (big blind) showed [8c 4d] and won 120 with One pair : 4
+Seat 3: Olivier__83 (small blind) showed [Jd Kh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717697224342503425-4-1676232036 - Holdem no limit (15/30) - 2023/02/12 20:00:36 UTC
+Table: 'Expresso Nitro(632763194)#0' 3-max (real money) Seat #3 is the button
+Seat 1: labete318 (380)
+Seat 2: _SKR (270)
+Seat 3: Olivier__83 (250)
+*** ANTE/BLINDS ***
+labete318 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c 6d]
+*** PRE-FLOP *** 
+Olivier__83 folds
+labete318 calls 15
+_SKR checks
+*** FLOP *** [7s Ks 4d]
+labete318 bets 60
+_SKR folds
+labete318 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7s Ks 4d]
+Seat 1: labete318 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717697224342503425-5-1676232061 - Holdem no limit (15/30) - 2023/02/12 20:01:01 UTC
+Table: 'Expresso Nitro(632763194)#0' 3-max (real money) Seat #1 is the button
+Seat 1: labete318 (410)
+Seat 2: _SKR (240)
+Seat 3: Olivier__83 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Olivier__83 posts big blind 30
+Dealt to _SKR [Tc Qc]
+*** PRE-FLOP *** 
+labete318 calls 30
+_SKR raises 210 to 240 and is all-in
+Olivier__83 raises 10 to 250 and is all-in
+labete318 folds
+*** FLOP *** [Ac 4s Qh]
+*** TURN *** [Ac 4s Qh][Qs]
+*** RIVER *** [Ac 4s Qh Qs][9s]
+*** SHOW DOWN ***
+_SKR shows [Tc Qc] (Trips of Queens)
+Olivier__83 shows [Qd Ah] (Full of Queens and Aces)
+Olivier__83 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Ac 4s Qh Qs 9s]
+Seat 2: _SKR (small blind) showed [Tc Qc] and lost with Trips of Queens
+Seat 3: Olivier__83 (big blind) showed [Qd Ah] and won 520 with Full of Queens and Aces
+
+

@@ -1,0 +1,382 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696916141044924417-1-1675103252 - Holdem no limit (10/20) - 2023/01/30 18:27:32 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cal1m3ro (300)
+Seat 2: _SKR (300)
+Seat 3: Rms84 (300)
+*** ANTE/BLINDS ***
+Rms84 posts small blind 10
+Cal1m3ro posts big blind 20
+Dealt to _SKR [Qd 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Rms84 calls 10
+Cal1m3ro checks
+*** FLOP *** [9c 7h 5h]
+Rms84 checks
+Cal1m3ro bets 20
+Rms84 calls 20
+*** TURN *** [9c 7h 5h][Ad]
+Rms84 checks
+Cal1m3ro checks
+*** RIVER *** [9c 7h 5h Ad][Kd]
+Rms84 bets 52
+Cal1m3ro folds
+Rms84 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [9c 7h 5h Ad Kd]
+Seat 3: Rms84 (small blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696916141044924417-2-1675103277 - Holdem no limit (10/20) - 2023/01/30 18:27:57 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cal1m3ro (260)
+Seat 2: _SKR (300)
+Seat 3: Rms84 (340)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d 4h]
+*** PRE-FLOP *** 
+Rms84 folds
+Cal1m3ro folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696916141044924417-3-1675103284 - Holdem no limit (10/20) - 2023/01/30 18:28:04 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cal1m3ro (250)
+Seat 2: _SKR (310)
+Seat 3: Rms84 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Rms84 posts big blind 20
+Dealt to _SKR [9c 2c]
+*** PRE-FLOP *** 
+Cal1m3ro raises 20 to 40
+_SKR folds
+Rms84 raises 300 to 340 and is all-in
+Cal1m3ro calls 210 and is all-in
+*** FLOP *** [6d Kh 3h]
+*** TURN *** [6d Kh 3h][2d]
+*** RIVER *** [6d Kh 3h 2d][Tc]
+*** SHOW DOWN ***
+Cal1m3ro shows [Qh Kc] (One pair : Kings)
+Rms84 shows [5s As] (High card : Ace)
+Rms84 collected 90 from side pot 1
+Cal1m3ro collected 510 from main pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6d Kh 3h 2d Tc]
+Seat 1: Cal1m3ro (button) showed [Qh Kc] and won 510 with One pair : Kings
+Seat 3: Rms84 (big blind) showed [5s As] and won 90 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696916141044924417-4-1675103300 - Holdem no limit (10/20) - 2023/01/30 18:28:20 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cal1m3ro (510)
+Seat 2: _SKR (300)
+Seat 3: Rms84 (90)
+*** ANTE/BLINDS ***
+Rms84 posts small blind 10
+Cal1m3ro posts big blind 20
+Dealt to _SKR [2c 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Rms84 raises 70 to 90 and is all-in
+Cal1m3ro folds
+Rms84 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Seat 3: Rms84 (small blind) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696916141044924417-5-1675103306 - Holdem no limit (10/20) - 2023/01/30 18:28:26 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cal1m3ro (490)
+Seat 2: _SKR (300)
+Seat 3: Rms84 (110)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s 6c]
+*** PRE-FLOP *** 
+Rms84 raises 90 to 110 and is all-in
+Cal1m3ro calls 100
+_SKR folds
+*** FLOP *** [9d 4c Td]
+*** TURN *** [9d 4c Td][5d]
+*** RIVER *** [9d 4c Td 5d][2s]
+*** SHOW DOWN ***
+Cal1m3ro shows [Qh Ah] (High card : Ace)
+Rms84 shows [Kc 2c] (One pair : 2)
+Rms84 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9d 4c Td 5d 2s]
+Seat 1: Cal1m3ro (small blind) showed [Qh Ah] and lost with High card : Ace
+Seat 3: Rms84 (button) showed [Kc 2c] and won 240 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696916141044924417-6-1675103335 - Holdem no limit (15/30) - 2023/01/30 18:28:55 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cal1m3ro (380)
+Seat 2: _SKR (280)
+Seat 3: Rms84 (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Rms84 posts big blind 30
+Dealt to _SKR [9c 2d]
+*** PRE-FLOP *** 
+Cal1m3ro folds
+_SKR folds
+Rms84 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Rms84 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696916141044924417-7-1675103340 - Holdem no limit (15/30) - 2023/01/30 18:29:00 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cal1m3ro (380)
+Seat 2: _SKR (265)
+Seat 3: Rms84 (255)
+*** ANTE/BLINDS ***
+Rms84 posts small blind 15
+Cal1m3ro posts big blind 30
+Dealt to _SKR [Kh Js]
+*** PRE-FLOP *** 
+_SKR raises 235 to 265 and is all-in
+Rms84 folds
+Cal1m3ro folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: _SKR (button) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696916141044924417-8-1675103346 - Holdem no limit (15/30) - 2023/01/30 18:29:06 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cal1m3ro (350)
+Seat 2: _SKR (310)
+Seat 3: Rms84 (240)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2d 6s]
+*** PRE-FLOP *** 
+Rms84 folds
+Cal1m3ro folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696916141044924417-9-1675103351 - Holdem no limit (15/30) - 2023/01/30 18:29:11 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cal1m3ro (335)
+Seat 2: _SKR (325)
+Seat 3: Rms84 (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Rms84 posts big blind 30
+Dealt to _SKR [5c 2c]
+*** PRE-FLOP *** 
+Cal1m3ro folds
+_SKR folds
+Rms84 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Rms84 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696916141044924417-10-1675103356 - Holdem no limit (15/30) - 2023/01/30 18:29:16 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cal1m3ro (335)
+Seat 2: _SKR (310)
+Seat 3: Rms84 (255)
+*** ANTE/BLINDS ***
+Rms84 posts small blind 15
+Cal1m3ro posts big blind 30
+Dealt to _SKR [3c Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Rms84 calls 15
+Cal1m3ro checks
+*** FLOP *** [7d Qd 6s]
+Rms84 checks
+Cal1m3ro checks
+*** TURN *** [7d Qd 6s][3h]
+Rms84 bets 39
+Cal1m3ro folds
+Rms84 collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [7d Qd 6s 3h]
+Seat 3: Rms84 (small blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696916141044924417-11-1675103370 - Holdem no limit (20/40) - 2023/01/30 18:29:30 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cal1m3ro (305)
+Seat 2: _SKR (310)
+Seat 3: Rms84 (285)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3d Ac]
+*** PRE-FLOP *** 
+Rms84 folds
+Cal1m3ro folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696916141044924417-12-1675103376 - Holdem no limit (20/40) - 2023/01/30 18:29:36 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cal1m3ro (285)
+Seat 2: _SKR (330)
+Seat 3: Rms84 (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Rms84 posts big blind 40
+Dealt to _SKR [Jc Qd]
+*** PRE-FLOP *** 
+Cal1m3ro folds
+_SKR raises 290 to 330 and is all-in
+Rms84 calls 245 and is all-in
+*** FLOP *** [Td Ac Ks]
+*** TURN *** [Td Ac Ks][7c]
+*** RIVER *** [Td Ac Ks 7c][2c]
+*** SHOW DOWN ***
+Rms84 shows [Jd Jh] (One pair : Jacks)
+_SKR shows [Jc Qd] (Straight Ace high)
+_SKR collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Board: [Td Ac Ks 7c 2c]
+Seat 2: _SKR (small blind) showed [Jc Qd] and won 615 with Straight Ace high
+Seat 3: Rms84 (big blind) showed [Jd Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696916141044924417-13-1675103392 - Holdem no limit (20/40) - 2023/01/30 18:29:52 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cal1m3ro (285)
+Seat 2: _SKR (615)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac Jd]
+*** PRE-FLOP *** 
+Cal1m3ro folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696916141044924417-14-1675103395 - Holdem no limit (20/40) - 2023/01/30 18:29:55 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cal1m3ro (265)
+Seat 2: _SKR (635)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Cal1m3ro posts big blind 40
+Dealt to _SKR [As Ad]
+*** PRE-FLOP *** 
+_SKR raises 60 to 100
+Cal1m3ro folds
+_SKR collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: _SKR (small blind) (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696916141044924417-15-1675103408 - Holdem no limit (20/40) - 2023/01/30 18:30:08 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cal1m3ro (225)
+Seat 2: _SKR (675)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc Jc]
+*** PRE-FLOP *** 
+Cal1m3ro folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696916141044924417-16-1675103413 - Holdem no limit (20/40) - 2023/01/30 18:30:13 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cal1m3ro (205)
+Seat 2: _SKR (695)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Cal1m3ro posts big blind 40
+Dealt to _SKR [8c 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Cal1m3ro collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Cal1m3ro (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696916141044924417-17-1675103417 - Holdem no limit (20/40) - 2023/01/30 18:30:17 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cal1m3ro (225)
+Seat 2: _SKR (675)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ts Qs]
+*** PRE-FLOP *** 
+Cal1m3ro raises 185 to 225 and is all-in
+_SKR calls 185
+*** FLOP *** [5h Ac Ad]
+*** TURN *** [5h Ac Ad][4s]
+*** RIVER *** [5h Ac Ad 4s][4d]
+*** SHOW DOWN ***
+_SKR shows [Ts Qs] (Two pairs : Aces and 4)
+Cal1m3ro shows [Kh 9c] (Two pairs : Aces and 4)
+Cal1m3ro collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [5h Ac Ad 4s 4d]
+Seat 1: Cal1m3ro (small blind) (button) showed [Kh 9c] and won 450 with Two pairs : Aces and 4
+Seat 2: _SKR (big blind) showed [Ts Qs] and lost with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696916141044924417-18-1675103433 - Holdem no limit (30/60) - 2023/01/30 18:30:33 UTC
+Table: 'Expresso Nitro(627924721)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cal1m3ro (450)
+Seat 2: _SKR (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Cal1m3ro posts big blind 60
+Dealt to _SKR [Qh Kd]
+*** PRE-FLOP *** 
+_SKR raises 390 to 450 and is all-in
+Cal1m3ro calls 390 and is all-in
+*** FLOP *** [Js 3d 6d]
+*** TURN *** [Js 3d 6d][8c]
+*** RIVER *** [Js 3d 6d 8c][Tc]
+*** SHOW DOWN ***
+_SKR shows [Qh Kd] (High card : King)
+Cal1m3ro shows [Ad Ks] (High card : Ace)
+Cal1m3ro collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js 3d 6d 8c Tc]
+Seat 1: Cal1m3ro (big blind) showed [Ad Ks] and won 900 with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [Qh Kd] and lost with High card : King
+
+

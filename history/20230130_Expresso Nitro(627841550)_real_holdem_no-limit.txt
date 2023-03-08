@@ -1,0 +1,285 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696558924319948801-1-1675086979 - Holdem no limit (10/20) - 2023/01/30 13:56:19 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #3 is the button
+Seat 1: abd3l12 (300)
+Seat 2: Cartophane (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+abd3l12 posts small blind 10
+Cartophane posts big blind 20
+Dealt to _SKR [2c 4s]
+*** PRE-FLOP *** 
+_SKR folds
+abd3l12 calls 10
+Cartophane checks
+*** FLOP *** [2d 3s Qs]
+abd3l12 bets 26
+Cartophane calls 26
+*** TURN *** [2d 3s Qs][9d]
+abd3l12 checks
+Cartophane checks
+*** RIVER *** [2d 3s Qs 9d][Qh]
+abd3l12 bets 60
+Cartophane calls 60
+*** SHOW DOWN ***
+abd3l12 shows [8d 7d] (One pair : Queens)
+Cartophane shows [7s 3d] (Two pairs : Queens and 3)
+Cartophane collected 212 from pot
+*** SUMMARY ***
+Total pot 212 | No rake
+Board: [2d 3s Qs 9d Qh]
+Seat 1: abd3l12 (small blind) showed [8d 7d] and lost with One pair : Queens
+Seat 2: Cartophane (big blind) showed [7s 3d] and won 212 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696558924319948801-2-1675087012 - Holdem no limit (10/20) - 2023/01/30 13:56:52 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #1 is the button
+Seat 1: abd3l12 (194)
+Seat 2: Cartophane (406)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Cartophane posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h 8c]
+*** PRE-FLOP *** 
+abd3l12 calls 20
+Cartophane calls 10
+_SKR checks
+*** FLOP *** [7c 8s Kh]
+Cartophane checks
+_SKR checks
+abd3l12 checks
+*** TURN *** [7c 8s Kh][Ah]
+Cartophane checks
+_SKR checks
+abd3l12 checks
+*** RIVER *** [7c 8s Kh Ah][4d]
+Cartophane checks
+_SKR bets 48
+abd3l12 folds
+Cartophane folds
+_SKR collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [7c 8s Kh Ah 4d]
+Seat 3: _SKR (big blind) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696558924319948801-3-1675087057 - Holdem no limit (15/30) - 2023/01/30 13:57:37 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #2 is the button
+Seat 1: abd3l12 (174)
+Seat 2: Cartophane (386)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+abd3l12 posts big blind 30
+Dealt to _SKR [Js As]
+*** PRE-FLOP *** 
+Cartophane folds
+_SKR raises 310 to 340 and is all-in
+abd3l12 folds
+_SKR collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 3: _SKR (small blind) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696558924319948801-4-1675087068 - Holdem no limit (15/30) - 2023/01/30 13:57:48 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #3 is the button
+Seat 1: abd3l12 (144)
+Seat 2: Cartophane (386)
+Seat 3: _SKR (370)
+*** ANTE/BLINDS ***
+abd3l12 posts small blind 15
+Cartophane posts big blind 30
+Dealt to _SKR [Qc Th]
+*** PRE-FLOP *** 
+_SKR folds
+abd3l12 folds
+Cartophane collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Cartophane (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696558924319948801-5-1675087073 - Holdem no limit (15/30) - 2023/01/30 13:57:53 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #1 is the button
+Seat 1: abd3l12 (129)
+Seat 2: Cartophane (401)
+Seat 3: _SKR (370)
+*** ANTE/BLINDS ***
+Cartophane posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [As 2h]
+*** PRE-FLOP *** 
+abd3l12 raises 99 to 129 and is all-in
+Cartophane folds
+_SKR calls 99
+*** FLOP *** [Ad 5d 6c]
+*** TURN *** [Ad 5d 6c][6d]
+*** RIVER *** [Ad 5d 6c 6d][Qc]
+*** SHOW DOWN ***
+abd3l12 shows [8c 8h] (Two pairs : 8 and 6)
+_SKR shows [As 2h] (Two pairs : Aces and 6)
+_SKR collected 273 from pot
+*** SUMMARY ***
+Total pot 273 | No rake
+Board: [Ad 5d 6c 6d Qc]
+Seat 1: abd3l12 (button) showed [8c 8h] and lost with Two pairs : 8 and 6
+Seat 3: _SKR (big blind) showed [As 2h] and won 273 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696558924319948801-6-1675087090 - Holdem no limit (15/30) - 2023/01/30 13:58:10 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Cartophane (386)
+Seat 3: _SKR (514)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Cartophane posts big blind 30
+Dealt to _SKR [Jh 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Cartophane collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Cartophane (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696558924319948801-7-1675087094 - Holdem no limit (15/30) - 2023/01/30 13:58:14 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Cartophane (401)
+Seat 3: _SKR (499)
+*** ANTE/BLINDS ***
+Cartophane posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7h Qc]
+*** PRE-FLOP *** 
+Cartophane calls 15
+_SKR checks
+*** FLOP *** [Ks 6s 8c]
+_SKR checks
+Cartophane checks
+*** TURN *** [Ks 6s 8c][Kc]
+_SKR checks
+Cartophane checks
+*** RIVER *** [Ks 6s 8c Kc][3d]
+_SKR checks
+Cartophane checks
+*** SHOW DOWN ***
+Cartophane shows [2d 9d] (One pair : Kings)
+_SKR shows [7h Qc] (One pair : Kings)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ks 6s 8c Kc 3d]
+Seat 2: Cartophane (small blind) (button) showed [2d 9d] and lost with One pair : Kings
+Seat 3: _SKR (big blind) showed [7h Qc] and won 60 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696558924319948801-8-1675087122 - Holdem no limit (20/40) - 2023/01/30 13:58:42 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Cartophane (371)
+Seat 3: _SKR (529)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Cartophane posts big blind 40
+Dealt to _SKR [5s 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Cartophane collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Cartophane (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696558924319948801-9-1675087126 - Holdem no limit (20/40) - 2023/01/30 13:58:46 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Cartophane (391)
+Seat 3: _SKR (509)
+*** ANTE/BLINDS ***
+Cartophane posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Tc As]
+*** PRE-FLOP *** 
+Cartophane raises 40 to 80
+_SKR raises 429 to 509 and is all-in
+Cartophane folds
+_SKR collected 589 from pot
+*** SUMMARY ***
+Total pot 589 | No rake
+Seat 3: _SKR (big blind) won 589
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696558924319948801-10-1675087138 - Holdem no limit (20/40) - 2023/01/30 13:58:58 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Cartophane (311)
+Seat 3: _SKR (589)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Cartophane posts big blind 40
+Dealt to _SKR [2h Kd]
+*** PRE-FLOP *** 
+_SKR raises 549 to 589 and is all-in
+Cartophane folds
+_SKR collected 629 from pot
+*** SUMMARY ***
+Total pot 629 | No rake
+Seat 3: _SKR (small blind) (button) won 629
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696558924319948801-11-1675087144 - Holdem no limit (20/40) - 2023/01/30 13:59:04 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Cartophane (271)
+Seat 3: _SKR (629)
+*** ANTE/BLINDS ***
+Cartophane posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5d 8h]
+*** PRE-FLOP *** 
+Cartophane folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696558924319948801-12-1675087148 - Holdem no limit (20/40) - 2023/01/30 13:59:08 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Cartophane (251)
+Seat 3: _SKR (649)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Cartophane posts big blind 40
+Dealt to _SKR [Qc 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Cartophane collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Cartophane (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696558924319948801-13-1675087151 - Holdem no limit (20/40) - 2023/01/30 13:59:11 UTC
+Table: 'Expresso Nitro(627841550)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Cartophane (271)
+Seat 3: _SKR (629)
+*** ANTE/BLINDS ***
+Cartophane posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ah Kc]
+*** PRE-FLOP *** 
+Cartophane raises 231 to 271 and is all-in
+_SKR calls 231
+*** FLOP *** [4d 2s 6s]
+*** TURN *** [4d 2s 6s][3c]
+*** RIVER *** [4d 2s 6s 3c][4s]
+*** SHOW DOWN ***
+Cartophane shows [Qc 7h] (One pair : 4)
+_SKR shows [Ah Kc] (One pair : 4)
+_SKR collected 542 from pot
+*** SUMMARY ***
+Total pot 542 | No rake
+Board: [4d 2s 6s 3c 4s]
+Seat 2: Cartophane (small blind) (button) showed [Qc 7h] and lost with One pair : 4
+Seat 3: _SKR (big blind) showed [Ah Kc] and won 542 with One pair : 4
+
+

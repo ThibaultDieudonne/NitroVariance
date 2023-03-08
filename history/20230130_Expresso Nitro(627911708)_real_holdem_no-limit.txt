@@ -1,0 +1,111 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696860250635501569-1-1675100986 - Holdem no limit (10/20) - 2023/01/30 17:49:46 UTC
+Table: 'Expresso Nitro(627911708)#0' 3-max (real money) Seat #2 is the button
+Seat 1: oklmpslo (300)
+Seat 2: Fataltroll05 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+oklmpslo posts big blind 20
+Dealt to _SKR [2d Jc]
+*** PRE-FLOP *** 
+Fataltroll05 calls 20
+_SKR folds
+oklmpslo checks
+*** FLOP *** [5h Jh 4s]
+oklmpslo checks
+Fataltroll05 checks
+*** TURN *** [5h Jh 4s][Qs]
+oklmpslo bets 20
+Fataltroll05 raises 52 to 72
+oklmpslo folds
+Fataltroll05 collected 142 from pot
+*** SUMMARY ***
+Total pot 142 | No rake
+Board: [5h Jh 4s Qs]
+Seat 2: Fataltroll05 (button) won 142
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696860250635501569-2-1675101003 - Holdem no limit (10/20) - 2023/01/30 17:50:03 UTC
+Table: 'Expresso Nitro(627911708)#0' 3-max (real money) Seat #3 is the button
+Seat 1: oklmpslo (260)
+Seat 2: Fataltroll05 (350)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+oklmpslo posts small blind 10
+Fataltroll05 posts big blind 20
+Dealt to _SKR [5s Jd]
+*** PRE-FLOP *** 
+_SKR folds
+oklmpslo calls 10
+Fataltroll05 checks
+*** FLOP *** [6d Tc 9c]
+oklmpslo checks
+Fataltroll05 checks
+*** TURN *** [6d Tc 9c][Js]
+oklmpslo checks
+Fataltroll05 checks
+*** RIVER *** [6d Tc 9c Js][2d]
+oklmpslo checks
+Fataltroll05 checks
+*** SHOW DOWN ***
+Fataltroll05 shows [4c Kd] (High card : King)
+oklmpslo shows [6s 5c] (One pair : 6)
+oklmpslo collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [6d Tc 9c Js 2d]
+Seat 1: oklmpslo (small blind) showed [6s 5c] and won 40 with One pair : 6
+Seat 2: Fataltroll05 (big blind) showed [4c Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696860250635501569-3-1675101042 - Holdem no limit (15/30) - 2023/01/30 17:50:42 UTC
+Table: 'Expresso Nitro(627911708)#0' 3-max (real money) Seat #1 is the button
+Seat 1: oklmpslo (280)
+Seat 2: Fataltroll05 (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Fataltroll05 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8s 4h]
+*** PRE-FLOP *** 
+oklmpslo calls 30
+Fataltroll05 folds
+_SKR checks
+*** FLOP *** [5s 2d Kc]
+_SKR checks
+oklmpslo bets 30
+_SKR folds
+oklmpslo collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [5s 2d Kc]
+Seat 1: oklmpslo (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696860250635501569-4-1675101071 - Holdem no limit (15/30) - 2023/01/30 17:51:11 UTC
+Table: 'Expresso Nitro(627911708)#0' 3-max (real money) Seat #2 is the button
+Seat 1: oklmpslo (325)
+Seat 2: Fataltroll05 (315)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+oklmpslo posts big blind 30
+Dealt to _SKR [Kd Qd]
+*** PRE-FLOP *** 
+Fataltroll05 folds
+_SKR raises 230 to 260 and is all-in
+oklmpslo calls 230
+*** FLOP *** [Qs 8h 9s]
+*** TURN *** [Qs 8h 9s][8c]
+*** RIVER *** [Qs 8h 9s 8c][Tc]
+*** SHOW DOWN ***
+_SKR shows [Kd Qd] (Two pairs : Queens and 8)
+oklmpslo shows [Ac Jd] (Straight Queen high)
+oklmpslo collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Qs 8h 9s 8c Tc]
+Seat 1: oklmpslo (big blind) showed [Ac Jd] and won 520 with Straight Queen high
+Seat 3: _SKR (small blind) showed [Kd Qd] and lost with Two pairs : Queens and 8
+
+

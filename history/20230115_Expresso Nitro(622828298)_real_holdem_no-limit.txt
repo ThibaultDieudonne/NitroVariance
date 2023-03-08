@@ -1,0 +1,73 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675027170933342209-9-1673740816 - Holdem no limit (15/30) - 2023/01/15 00:00:16 UTC
+Table: 'Expresso Nitro(622828298)#0' 3-max (real money) Seat #2 is the button
+Seat 1: leNey34 (515)
+Seat 2: Silverlao74 (280)
+Seat 3: _SKR (105)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+leNey34 posts big blind 30
+Dealt to _SKR [4h Ad]
+*** PRE-FLOP *** 
+Silverlao74 folds
+_SKR raises 75 to 105 and is all-in
+leNey34 calls 75
+*** FLOP *** [8d 8s 8c]
+*** TURN *** [8d 8s 8c][Qs]
+*** RIVER *** [8d 8s 8c Qs][8h]
+*** SHOW DOWN ***
+leNey34 shows [Jh Th] (Quads of 8)
+_SKR shows [4h Ad] (Quads of 8)
+_SKR collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [8d 8s 8c Qs 8h]
+Seat 1: leNey34 (big blind) showed [Jh Th] and lost with Quads of 8
+Seat 3: _SKR (small blind) showed [4h Ad] and won 210 with Quads of 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675027170933342209-10-1673740833 - Holdem no limit (20/40) - 2023/01/15 00:00:33 UTC
+Table: 'Expresso Nitro(622828298)#0' 3-max (real money) Seat #3 is the button
+Seat 1: leNey34 (410)
+Seat 2: Silverlao74 (280)
+Seat 3: _SKR (210)
+*** ANTE/BLINDS ***
+leNey34 posts small blind 20
+Silverlao74 posts big blind 40
+Dealt to _SKR [7d 3c]
+*** PRE-FLOP *** 
+_SKR folds
+leNey34 folds
+Silverlao74 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Silverlao74 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675027170933342209-11-1673740842 - Holdem no limit (20/40) - 2023/01/15 00:00:42 UTC
+Table: 'Expresso Nitro(622828298)#0' 3-max (real money) Seat #1 is the button
+Seat 1: leNey34 (390)
+Seat 2: Silverlao74 (300)
+Seat 3: _SKR (210)
+*** ANTE/BLINDS ***
+Silverlao74 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [As 8h]
+*** PRE-FLOP *** 
+leNey34 folds
+Silverlao74 calls 20
+_SKR raises 170 to 210 and is all-in
+Silverlao74 calls 170
+*** FLOP *** [7h 2h Kh]
+*** TURN *** [7h 2h Kh][6c]
+*** RIVER *** [7h 2h Kh 6c][7d]
+*** SHOW DOWN ***
+_SKR shows [As 8h] (One pair : 7)
+Silverlao74 shows [Tc 7s] (Trips of 7)
+Silverlao74 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [7h 2h Kh 6c 7d]
+Seat 2: Silverlao74 (small blind) showed [Tc 7s] and won 420 with Trips of 7
+Seat 3: _SKR (big blind) showed [As 8h] and lost with One pair : 7
+
+

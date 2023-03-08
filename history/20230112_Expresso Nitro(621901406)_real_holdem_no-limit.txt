@@ -1,0 +1,127 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671046200106418177-1-1673528329 - Holdem no limit (10/20) - 2023/01/12 12:58:49 UTC
+Table: 'Expresso Nitro(621901406)#0' 3-max (real money) Seat #2 is the button
+Seat 1: shams 9 (300)
+Seat 2: PapyGroot (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+shams 9 posts big blind 20
+Dealt to _SKR [Ts Ks]
+*** PRE-FLOP *** 
+PapyGroot folds
+_SKR raises 280 to 300 and is all-in
+shams 9 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: _SKR (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671046200106418177-2-1673528345 - Holdem no limit (10/20) - 2023/01/12 12:59:05 UTC
+Table: 'Expresso Nitro(621901406)#0' 3-max (real money) Seat #3 is the button
+Seat 1: shams 9 (280)
+Seat 2: PapyGroot (300)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+shams 9 posts small blind 10
+PapyGroot posts big blind 20
+Dealt to _SKR [Tc 3h]
+*** PRE-FLOP *** 
+_SKR folds
+shams 9 calls 10
+PapyGroot checks
+*** FLOP *** [Kc 2h 7d]
+shams 9 checks
+PapyGroot bets 20
+shams 9 folds
+PapyGroot collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kc 2h 7d]
+Seat 2: PapyGroot (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671046200106418177-3-1673528366 - Holdem no limit (10/20) - 2023/01/12 12:59:26 UTC
+Table: 'Expresso Nitro(621901406)#0' 3-max (real money) Seat #1 is the button
+Seat 1: shams 9 (260)
+Seat 2: PapyGroot (320)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+PapyGroot posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td 5h]
+*** PRE-FLOP *** 
+shams 9 calls 20
+PapyGroot calls 10
+_SKR checks
+*** FLOP *** [7s 6s Qs]
+PapyGroot checks
+_SKR checks
+shams 9 bets 21
+PapyGroot folds
+_SKR folds
+shams 9 collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [7s 6s Qs]
+Seat 1: shams 9 (button) won 81
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671046200106418177-4-1673528398 - Holdem no limit (15/30) - 2023/01/12 12:59:58 UTC
+Table: 'Expresso Nitro(621901406)#0' 3-max (real money) Seat #2 is the button
+Seat 1: shams 9 (300)
+Seat 2: PapyGroot (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+shams 9 posts big blind 30
+Dealt to _SKR [3s As]
+*** PRE-FLOP *** 
+PapyGroot calls 30
+_SKR raises 270 to 300 and is all-in
+shams 9 folds
+PapyGroot calls 270 and is all-in
+*** FLOP *** [Jh 2d 3h]
+*** TURN *** [Jh 2d 3h][Th]
+*** RIVER *** [Jh 2d 3h Th][9h]
+*** SHOW DOWN ***
+PapyGroot shows [7d Kd] (High card : King)
+_SKR shows [3s As] (One pair : 3)
+_SKR collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Jh 2d 3h Th 9h]
+Seat 2: PapyGroot (button) showed [7d Kd] and lost with High card : King
+Seat 3: _SKR (small blind) showed [3s As] and won 630 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671046200106418177-5-1673528419 - Holdem no limit (15/30) - 2023/01/12 13:00:19 UTC
+Table: 'Expresso Nitro(621901406)#0' 3-max (real money) Seat #1 is the button
+Seat 1: shams 9 (270)
+Seat 3: _SKR (630)
+*** ANTE/BLINDS ***
+shams 9 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah Ad]
+*** PRE-FLOP *** 
+shams 9 calls 15
+_SKR raises 45 to 75
+shams 9 calls 45
+*** FLOP *** [Qs Ts 9c]
+_SKR bets 68
+shams 9 calls 68
+*** TURN *** [Qs Ts 9c][5c]
+_SKR bets 286
+shams 9 calls 127 and is all-in
+*** RIVER *** [Qs Ts 9c 5c][8h]
+*** SHOW DOWN ***
+shams 9 shows [8s Kh] (One pair : 8)
+_SKR shows [Ah Ad] (One pair : Aces)
+_SKR collected 699 from pot
+*** SUMMARY ***
+Total pot 699 | No rake
+Board: [Qs Ts 9c 5c 8h]
+Seat 1: shams 9 (small blind) (button) showed [8s Kh] and lost with One pair : 8
+Seat 3: _SKR (big blind) showed [Ah Ad] and won 699 with One pair : Aces
+
+

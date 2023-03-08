@@ -1,0 +1,119 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697308722530615297-1-1675117127 - Holdem no limit (10/20) - 2023/01/30 22:18:47 UTC
+Table: 'Expresso Nitro(628016126)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ZGFGLH (300)
+Seat 2: nounounou (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+ZGFGLH posts small blind 10
+nounounou posts big blind 20
+Dealt to _SKR [2c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+ZGFGLH calls 10
+nounounou checks
+*** FLOP *** [5h 2d Ad]
+ZGFGLH checks
+nounounou checks
+*** TURN *** [5h 2d Ad][Kc]
+ZGFGLH bets 26
+nounounou folds
+ZGFGLH collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [5h 2d Ad Kc]
+Seat 1: ZGFGLH (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697308722530615297-2-1675117167 - Holdem no limit (10/20) - 2023/01/30 22:19:27 UTC
+Table: 'Expresso Nitro(628016126)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ZGFGLH (320)
+Seat 2: nounounou (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+nounounou posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d 9c]
+*** PRE-FLOP *** 
+ZGFGLH raises 300 to 320 and is all-in
+nounounou calls 270 and is all-in
+_SKR folds
+*** FLOP *** [Kh Th 6s]
+*** TURN *** [Kh Th 6s][Js]
+*** RIVER *** [Kh Th 6s Js][Ts]
+*** SHOW DOWN ***
+nounounou shows [Ad 8c] (One pair : Tens)
+ZGFGLH shows [8s Ks] (Flush King high)
+ZGFGLH collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Kh Th 6s Js Ts]
+Seat 1: ZGFGLH (button) showed [8s Ks] and won 620 with Flush King high
+Seat 2: nounounou (small blind) showed [Ad 8c] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697308722530615297-3-1675117188 - Holdem no limit (15/30) - 2023/01/30 22:19:48 UTC
+Table: 'Expresso Nitro(628016126)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ZGFGLH (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ZGFGLH posts big blind 30
+Dealt to _SKR [Ts 9h]
+*** PRE-FLOP *** 
+_SKR raises 250 to 280 and is all-in
+ZGFGLH calls 250
+*** FLOP *** [9d Tc Kc]
+*** TURN *** [9d Tc Kc][Ah]
+*** RIVER *** [9d Tc Kc Ah][Ac]
+*** SHOW DOWN ***
+ZGFGLH shows [6c 4h] (One pair : Aces)
+_SKR shows [Ts 9h] (Two pairs : Aces and Tens)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9d Tc Kc Ah Ac]
+Seat 1: ZGFGLH (big blind) showed [6c 4h] and lost with One pair : Aces
+Seat 3: _SKR (small blind) (button) showed [Ts 9h] and won 560 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697308722530615297-4-1675117207 - Holdem no limit (15/30) - 2023/01/30 22:20:07 UTC
+Table: 'Expresso Nitro(628016126)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ZGFGLH (340)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+ZGFGLH posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9d 5d]
+*** PRE-FLOP *** 
+ZGFGLH folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697308722530615297-5-1675117211 - Holdem no limit (15/30) - 2023/01/30 22:20:11 UTC
+Table: 'Expresso Nitro(628016126)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ZGFGLH (325)
+Seat 3: _SKR (575)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ZGFGLH posts big blind 30
+Dealt to _SKR [Tc Kd]
+*** PRE-FLOP *** 
+_SKR raises 545 to 575 and is all-in
+ZGFGLH calls 295 and is all-in
+*** FLOP *** [9h 8c 3h]
+*** TURN *** [9h 8c 3h][Ac]
+*** RIVER *** [9h 8c 3h Ac][Td]
+*** SHOW DOWN ***
+ZGFGLH shows [9s 2c] (One pair : 9)
+_SKR shows [Tc Kd] (One pair : Tens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9h 8c 3h Ac Td]
+Seat 1: ZGFGLH (big blind) showed [9s 2c] and lost with One pair : 9
+Seat 3: _SKR (small blind) (button) showed [Tc Kd] and won 900 with One pair : Tens
+
+

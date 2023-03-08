@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690525736514617345-1-1674684738 - Holdem no limit (10/20) - 2023/01/25 22:12:18 UTC
+Table: 'Expresso Nitro(626436839)#0' 3-max (real money) Seat #3 is the button
+Seat 1: StivMcKouign (300)
+Seat 2: _SKR (300)
+Seat 3: criskiller (300)
+*** ANTE/BLINDS ***
+StivMcKouign posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d 8d]
+*** PRE-FLOP *** 
+criskiller folds
+StivMcKouign folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690525736514617345-2-1674684746 - Holdem no limit (10/20) - 2023/01/25 22:12:26 UTC
+Table: 'Expresso Nitro(626436839)#0' 3-max (real money) Seat #1 is the button
+Seat 1: StivMcKouign (290)
+Seat 2: _SKR (310)
+Seat 3: criskiller (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+criskiller posts big blind 20
+Dealt to _SKR [Ah 8d]
+*** PRE-FLOP *** 
+StivMcKouign folds
+_SKR raises 290 to 310 and is all-in
+criskiller calls 280 and is all-in
+*** FLOP *** [5h Ts 4h]
+*** TURN *** [5h Ts 4h][Td]
+*** RIVER *** [5h Ts 4h Td][Qs]
+*** SHOW DOWN ***
+_SKR shows [Ah 8d] (One pair : Tens)
+criskiller shows [Kc Kh] (Two pairs : Kings and Tens)
+criskiller collected 600 from main pot
+_SKR collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [5h Ts 4h Td Qs]
+Seat 2: _SKR (small blind) showed [Ah 8d] and won 10 with One pair : Tens
+Seat 3: criskiller (big blind) showed [Kc Kh] and won 600 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690525736514617345-3-1674684767 - Holdem no limit (10/20) - 2023/01/25 22:12:47 UTC
+Table: 'Expresso Nitro(626436839)#0' 3-max (real money) Seat #2 is the button
+Seat 1: StivMcKouign (290)
+Seat 2: _SKR (10)
+Seat 3: criskiller (600)
+*** ANTE/BLINDS ***
+criskiller posts small blind 10
+StivMcKouign posts big blind 20
+Dealt to _SKR [8s Jc]
+*** PRE-FLOP *** 
+_SKR calls 10 and is all-in
+criskiller raises 20 to 40
+StivMcKouign folds
+*** FLOP *** [5h Qs 8h]
+*** TURN *** [5h Qs 8h][5c]
+*** RIVER *** [5h Qs 8h 5c][2d]
+*** SHOW DOWN ***
+_SKR shows [8s Jc] (Two pairs : 8 and 5)
+criskiller shows [Tc As] (One pair : 5)
+criskiller collected 40 from side pot 1
+_SKR collected 30 from main pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [5h Qs 8h 5c 2d]
+Seat 2: _SKR (button) showed [8s Jc] and won 30 with Two pairs : 8 and 5
+Seat 3: criskiller (small blind) showed [Tc As] and won 40 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690525736514617345-4-1674684782 - Holdem no limit (10/20) - 2023/01/25 22:13:02 UTC
+Table: 'Expresso Nitro(626436839)#0' 3-max (real money) Seat #3 is the button
+Seat 1: StivMcKouign (270)
+Seat 2: _SKR (30)
+Seat 3: criskiller (600)
+*** ANTE/BLINDS ***
+StivMcKouign posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s 3c]
+*** PRE-FLOP *** 
+criskiller folds
+StivMcKouign raises 250 to 270 and is all-in
+_SKR calls 10 and is all-in
+*** FLOP *** [Kd 5h 8c]
+*** TURN *** [Kd 5h 8c][Qd]
+*** RIVER *** [Kd 5h 8c Qd][Ah]
+*** SHOW DOWN ***
+_SKR shows [3s 3c] (One pair : 3)
+StivMcKouign shows [5s 5c] (Trips of 5)
+StivMcKouign collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Kd 5h 8c Qd Ah]
+Seat 1: StivMcKouign (small blind) showed [5s 5c] and won 300 with Trips of 5
+Seat 2: _SKR (big blind) showed [3s 3c] and lost with One pair : 3
+
+

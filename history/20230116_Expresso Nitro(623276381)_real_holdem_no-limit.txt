@@ -1,0 +1,72 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676951672764235777-1-1673869978 - Holdem no limit (10/20) - 2023/01/16 11:52:58 UTC
+Table: 'Expresso Nitro(623276381)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shebbak (300)
+Seat 2: _SKR (300)
+Seat 3: Anna King184 (300)
+*** ANTE/BLINDS ***
+Shebbak posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 9s]
+*** PRE-FLOP *** 
+Anna King184 raises 280 to 300 and is all-in
+Shebbak folds
+_SKR folds
+Anna King184 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Anna King184 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676951672764235777-2-1673869992 - Holdem no limit (10/20) - 2023/01/16 11:53:12 UTC
+Table: 'Expresso Nitro(623276381)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shebbak (290)
+Seat 2: _SKR (280)
+Seat 3: Anna King184 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Anna King184 posts big blind 20
+Dealt to _SKR [9c Qd]
+*** PRE-FLOP *** 
+Shebbak calls 20
+_SKR folds
+Anna King184 raises 310 to 330 and is all-in
+Shebbak folds
+Anna King184 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: Anna King184 (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676951672764235777-3-1673870010 - Holdem no limit (10/20) - 2023/01/16 11:53:30 UTC
+Table: 'Expresso Nitro(623276381)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shebbak (270)
+Seat 2: _SKR (270)
+Seat 3: Anna King184 (360)
+*** ANTE/BLINDS ***
+Anna King184 posts small blind 10
+Shebbak posts big blind 20
+Dealt to _SKR [Ac Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Anna King184 calls 30
+Shebbak calls 20
+*** FLOP *** [Ah 7s 6h]
+Anna King184 bets 20
+Shebbak calls 20
+_SKR calls 20
+*** TURN *** [Ah 7s 6h][9s]
+Anna King184 bets 300 and is all-in
+Shebbak folds
+_SKR calls 210 and is all-in
+*** RIVER *** [Ah 7s 6h 9s][Jd]
+*** SHOW DOWN ***
+_SKR shows [Ac Kc] (One pair : Aces)
+Anna King184 shows [Ad As] (Trips of Aces)
+Anna King184 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [Ah 7s 6h 9s Jd]
+Seat 2: _SKR (button) showed [Ac Kc] and lost with One pair : Aces
+Seat 3: Anna King184 (small blind) showed [Ad As] and won 690 with Trips of Aces
+
+

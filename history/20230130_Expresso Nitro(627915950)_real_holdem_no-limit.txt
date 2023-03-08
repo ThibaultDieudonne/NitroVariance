@@ -1,0 +1,84 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696878469886771201-1-1675101712 - Holdem no limit (10/20) - 2023/01/30 18:01:52 UTC
+Table: 'Expresso Nitro(627915950)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Phokinho2b (300)
+Seat 2: Yacine2304 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Phokinho2b posts big blind 20
+Dealt to _SKR [6c 5d]
+*** PRE-FLOP *** 
+Yacine2304 raises 50 to 70
+_SKR folds
+Phokinho2b folds
+Yacine2304 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: Yacine2304 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696878469886771201-2-1675101727 - Holdem no limit (10/20) - 2023/01/30 18:02:07 UTC
+Table: 'Expresso Nitro(627915950)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Phokinho2b (280)
+Seat 2: Yacine2304 (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Phokinho2b posts small blind 10
+Yacine2304 posts big blind 20
+Dealt to _SKR [Tc 8d]
+*** PRE-FLOP *** 
+_SKR folds
+Phokinho2b calls 10
+Yacine2304 raises 40 to 60
+Phokinho2b calls 40
+*** FLOP *** [Kh Ac 4c]
+Phokinho2b checks
+Yacine2304 bets 120
+Phokinho2b calls 120
+*** TURN *** [Kh Ac 4c][Jc]
+Phokinho2b checks
+Yacine2304 bets 150 and is all-in
+Phokinho2b calls 100 and is all-in
+*** RIVER *** [Kh Ac 4c Jc][5h]
+*** SHOW DOWN ***
+Phokinho2b shows [As Js] (Two pairs : Aces and Jacks)
+Yacine2304 shows [Qc Jd] (One pair : Jacks)
+Yacine2304 collected 50 from side pot 1
+Phokinho2b collected 560 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Kh Ac 4c Jc 5h]
+Seat 1: Phokinho2b (small blind) showed [As Js] and won 560 with Two pairs : Aces and Jacks
+Seat 2: Yacine2304 (big blind) showed [Qc Jd] and won 50 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696878469886771201-3-1675101763 - Holdem no limit (10/20) - 2023/01/30 18:02:43 UTC
+Table: 'Expresso Nitro(627915950)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Phokinho2b (560)
+Seat 2: Yacine2304 (50)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Yacine2304 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac 4c]
+*** PRE-FLOP *** 
+Phokinho2b calls 20
+Yacine2304 raises 30 to 50 and is all-in
+_SKR raises 240 to 290 and is all-in
+Phokinho2b calls 270
+*** FLOP *** [4h Ts Ks]
+*** TURN *** [4h Ts Ks][7d]
+*** RIVER *** [4h Ts Ks 7d][6c]
+*** SHOW DOWN ***
+Yacine2304 shows [Qd 9h] (High card : King)
+_SKR shows [Ac 4c] (One pair : 4)
+Phokinho2b shows [Jc Tc] (One pair : Tens)
+Phokinho2b collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [4h Ts Ks 7d 6c]
+Seat 1: Phokinho2b (button) showed [Jc Tc] and won 630 with One pair : Tens
+Seat 2: Yacine2304 (small blind) showed [Qd 9h] and lost with High card : King
+Seat 3: _SKR (big blind) showed [Ac 4c] and lost with One pair : 4
+
+

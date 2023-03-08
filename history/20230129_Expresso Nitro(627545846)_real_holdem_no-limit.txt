@@ -1,0 +1,250 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695288885310652417-1-1675004415 - Holdem no limit (10/20) - 2023/01/29 15:00:15 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Stessy0013 (300)
+Seat 2: Thomas 2a (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Stessy0013 posts small blind 10
+Thomas 2a posts big blind 20
+Dealt to _SKR [2c Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Stessy0013 folds
+Thomas 2a collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Thomas 2a (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695288885310652417-2-1675004431 - Holdem no limit (10/20) - 2023/01/29 15:00:31 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Stessy0013 (290)
+Seat 2: Thomas 2a (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Thomas 2a posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah Qd]
+*** PRE-FLOP *** 
+Stessy0013 raises 270 to 290 and is all-in
+Thomas 2a folds
+_SKR calls 270
+*** FLOP *** [4d 8s Js]
+*** TURN *** [4d 8s Js][9c]
+*** RIVER *** [4d 8s Js 9c][Kd]
+*** SHOW DOWN ***
+Stessy0013 shows [2s As] (High card : Ace)
+_SKR shows [Ah Qd] (High card : Ace)
+_SKR collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [4d 8s Js 9c Kd]
+Seat 1: Stessy0013 (button) showed [2s As] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [Ah Qd] and won 590 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695288885310652417-3-1675004450 - Holdem no limit (10/20) - 2023/01/29 15:00:50 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Thomas 2a (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Thomas 2a posts big blind 20
+Dealt to _SKR [As 9s]
+*** PRE-FLOP *** 
+_SKR raises 580 to 600 and is all-in
+Thomas 2a folds
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 3: _SKR (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695288885310652417-4-1675004456 - Holdem no limit (10/20) - 2023/01/29 15:00:56 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Thomas 2a (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+Thomas 2a posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 9s]
+*** PRE-FLOP *** 
+Thomas 2a raises 20 to 40
+_SKR calls 20
+*** FLOP *** [4c 3h 4h]
+_SKR checks
+Thomas 2a bets 80
+_SKR folds
+Thomas 2a collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [4c 3h 4h]
+Seat 2: Thomas 2a (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695288885310652417-5-1675004474 - Holdem no limit (15/30) - 2023/01/29 15:01:14 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Thomas 2a (320)
+Seat 3: _SKR (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Thomas 2a posts big blind 30
+Dealt to _SKR [5d 5s]
+*** PRE-FLOP *** 
+_SKR raises 550 to 580 and is all-in
+Thomas 2a calls 290 and is all-in
+*** FLOP *** [Ts Kc Kd]
+*** TURN *** [Ts Kc Kd][4s]
+*** RIVER *** [Ts Kc Kd 4s][7d]
+*** SHOW DOWN ***
+Thomas 2a shows [Td Jc] (Two pairs : Kings and Tens)
+_SKR shows [5d 5s] (Two pairs : Kings and 5)
+_SKR collected 260 from side pot 1
+Thomas 2a collected 640 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts Kc Kd 4s 7d]
+Seat 2: Thomas 2a (big blind) showed [Td Jc] and won 640 with Two pairs : Kings and Tens
+Seat 3: _SKR (small blind) (button) showed [5d 5s] and won 260 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695288885310652417-6-1675004485 - Holdem no limit (15/30) - 2023/01/29 15:01:25 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Thomas 2a (640)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Thomas 2a posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2d Ks]
+*** PRE-FLOP *** 
+Thomas 2a folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695288885310652417-7-1675004489 - Holdem no limit (15/30) - 2023/01/29 15:01:29 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Thomas 2a (625)
+Seat 3: _SKR (275)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Thomas 2a posts big blind 30
+Dealt to _SKR [Js Tc]
+*** PRE-FLOP *** 
+_SKR raises 245 to 275 and is all-in
+Thomas 2a folds
+_SKR collected 305 from pot
+*** SUMMARY ***
+Total pot 305 | No rake
+Seat 3: _SKR (small blind) (button) won 305
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695288885310652417-8-1675004500 - Holdem no limit (15/30) - 2023/01/29 15:01:40 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Thomas 2a (595)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+Thomas 2a posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc 4d]
+*** PRE-FLOP *** 
+Thomas 2a folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695288885310652417-9-1675004505 - Holdem no limit (15/30) - 2023/01/29 15:01:45 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Thomas 2a (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Thomas 2a posts big blind 30
+Dealt to _SKR [Tc Ad]
+*** PRE-FLOP *** 
+_SKR raises 290 to 320 and is all-in
+Thomas 2a folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: _SKR (small blind) (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695288885310652417-10-1675004510 - Holdem no limit (15/30) - 2023/01/29 15:01:50 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Thomas 2a (550)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+Thomas 2a posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9s 7c]
+*** PRE-FLOP *** 
+Thomas 2a folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695288885310652417-11-1675004515 - Holdem no limit (15/30) - 2023/01/29 15:01:55 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Thomas 2a (535)
+Seat 3: _SKR (365)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Thomas 2a posts big blind 30
+Dealt to _SKR [2h 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Thomas 2a collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Thomas 2a (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695288885310652417-12-1675004519 - Holdem no limit (15/30) - 2023/01/29 15:01:59 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Thomas 2a (550)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+Thomas 2a posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8s 3s]
+*** PRE-FLOP *** 
+Thomas 2a raises 30 to 60
+_SKR folds
+Thomas 2a collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Thomas 2a (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695288885310652417-13-1675004525 - Holdem no limit (15/30) - 2023/01/29 15:02:05 UTC
+Table: 'Expresso Nitro(627545846)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Thomas 2a (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Thomas 2a posts big blind 30
+Dealt to _SKR [Ad 6c]
+*** PRE-FLOP *** 
+_SKR raises 290 to 320 and is all-in
+Thomas 2a calls 290
+*** FLOP *** [Qd 6h Kc]
+*** TURN *** [Qd 6h Kc][9s]
+*** RIVER *** [Qd 6h Kc 9s][7h]
+*** SHOW DOWN ***
+_SKR shows [Ad 6c] (One pair : 6)
+Thomas 2a shows [8s 8h] (One pair : 8)
+Thomas 2a collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Qd 6h Kc 9s 7h]
+Seat 2: Thomas 2a (big blind) showed [8s 8h] and won 640 with One pair : 8
+Seat 3: _SKR (small blind) (button) showed [Ad 6c] and lost with One pair : 6
+
+

@@ -1,0 +1,263 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696617417479553025-1-1675090087 - Holdem no limit (10/20) - 2023/01/30 14:48:07 UTC
+Table: 'Expresso Nitro(627855169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lican59 (300)
+Seat 2: _SKR (300)
+Seat 3: Zelnio (300)
+*** ANTE/BLINDS ***
+Zelnio posts small blind 10
+lican59 posts big blind 20
+Dealt to _SKR [Kc Ts]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Zelnio folds
+lican59 calls 20
+*** FLOP *** [7s 8c 5d]
+lican59 checks
+_SKR bets 32
+lican59 calls 32
+*** TURN *** [7s 8c 5d][Ks]
+lican59 checks
+_SKR bets 54
+lican59 calls 54
+*** RIVER *** [7s 8c 5d Ks][Kd]
+lican59 checks
+_SKR bets 174 and is all-in
+lican59 folds
+_SKR collected 436 from pot
+*** SUMMARY ***
+Total pot 436 | No rake
+Board: [7s 8c 5d Ks Kd]
+Seat 2: _SKR (button) won 436
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696617417479553025-2-1675090121 - Holdem no limit (10/20) - 2023/01/30 14:48:41 UTC
+Table: 'Expresso Nitro(627855169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: lican59 (174)
+Seat 2: _SKR (436)
+Seat 3: Zelnio (290)
+*** ANTE/BLINDS ***
+lican59 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc 4h]
+*** PRE-FLOP *** 
+Zelnio calls 20
+lican59 raises 154 to 174 and is all-in
+_SKR folds
+Zelnio folds
+lican59 collected 214 from pot
+*** SUMMARY ***
+Total pot 214 | No rake
+Seat 1: lican59 (small blind) won 214
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696617417479553025-3-1675090134 - Holdem no limit (10/20) - 2023/01/30 14:48:54 UTC
+Table: 'Expresso Nitro(627855169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lican59 (214)
+Seat 2: _SKR (416)
+Seat 3: Zelnio (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Zelnio posts big blind 20
+Dealt to _SKR [3c 6d]
+*** PRE-FLOP *** 
+lican59 raises 194 to 214 and is all-in
+_SKR folds
+Zelnio raises 56 to 270 and is all-in
+*** FLOP *** [Js 4s 9h]
+*** TURN *** [Js 4s 9h][9s]
+*** RIVER *** [Js 4s 9h 9s][2s]
+*** SHOW DOWN ***
+lican59 shows [8d Ks] (Flush King high)
+Zelnio shows [Ah 9d] (Trips of 9)
+Zelnio collected 56 from side pot 1
+lican59 collected 438 from main pot
+*** SUMMARY ***
+Total pot 494 | No rake
+Board: [Js 4s 9h 9s 2s]
+Seat 1: lican59 (button) showed [8d Ks] and won 438 with Flush King high
+Seat 3: Zelnio (big blind) showed [Ah 9d] and won 56 with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696617417479553025-4-1675090147 - Holdem no limit (15/30) - 2023/01/30 14:49:07 UTC
+Table: 'Expresso Nitro(627855169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lican59 (438)
+Seat 2: _SKR (406)
+Seat 3: Zelnio (56)
+*** ANTE/BLINDS ***
+Zelnio posts small blind 15
+lican59 posts big blind 30
+Dealt to _SKR [5h 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Zelnio folds
+lican59 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: lican59 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696617417479553025-5-1675090152 - Holdem no limit (15/30) - 2023/01/30 14:49:12 UTC
+Table: 'Expresso Nitro(627855169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: lican59 (453)
+Seat 2: _SKR (406)
+Seat 3: Zelnio (41)
+*** ANTE/BLINDS ***
+lican59 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5h 9c]
+*** PRE-FLOP *** 
+Zelnio raises 11 to 41 and is all-in
+lican59 calls 26
+_SKR folds
+*** FLOP *** [6c 9s 4s]
+*** TURN *** [6c 9s 4s][5d]
+*** RIVER *** [6c 9s 4s 5d][6h]
+*** SHOW DOWN ***
+lican59 shows [Qc 5c] (Two pairs : 6 and 5)
+Zelnio shows [8h 7c] (Straight 9 high)
+Zelnio collected 112 from pot
+*** SUMMARY ***
+Total pot 112 | No rake
+Board: [6c 9s 4s 5d 6h]
+Seat 1: lican59 (small blind) showed [Qc 5c] and lost with Two pairs : 6 and 5
+Seat 3: Zelnio (button) showed [8h 7c] and won 112 with Straight 9 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696617417479553025-6-1675090168 - Holdem no limit (15/30) - 2023/01/30 14:49:28 UTC
+Table: 'Expresso Nitro(627855169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lican59 (412)
+Seat 2: _SKR (376)
+Seat 3: Zelnio (112)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Zelnio posts big blind 30
+Dealt to _SKR [4d 8c]
+*** PRE-FLOP *** 
+lican59 calls 30
+_SKR folds
+Zelnio checks
+*** FLOP *** [Kh 8h 7d]
+Zelnio checks
+lican59 checks
+*** TURN *** [Kh 8h 7d][Jc]
+Zelnio checks
+lican59 checks
+*** RIVER *** [Kh 8h 7d Jc][6h]
+Zelnio checks
+lican59 bets 382 and is all-in
+Zelnio folds
+lican59 collected 457 from pot
+*** SUMMARY ***
+Total pot 457 | No rake
+Board: [Kh 8h 7d Jc 6h]
+Seat 1: lican59 (button) won 457
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696617417479553025-7-1675090185 - Holdem no limit (15/30) - 2023/01/30 14:49:45 UTC
+Table: 'Expresso Nitro(627855169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lican59 (457)
+Seat 2: _SKR (361)
+Seat 3: Zelnio (82)
+*** ANTE/BLINDS ***
+Zelnio posts small blind 15
+lican59 posts big blind 30
+Dealt to _SKR [8s 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Zelnio raises 52 to 82 and is all-in
+lican59 calls 52
+*** FLOP *** [5s 3d 9c]
+*** TURN *** [5s 3d 9c][Ks]
+*** RIVER *** [5s 3d 9c Ks][6c]
+*** SHOW DOWN ***
+lican59 shows [8h 9d] (One pair : 9)
+Zelnio shows [7s Kc] (One pair : Kings)
+Zelnio collected 164 from pot
+*** SUMMARY ***
+Total pot 164 | No rake
+Board: [5s 3d 9c Ks 6c]
+Seat 1: lican59 (big blind) showed [8h 9d] and lost with One pair : 9
+Seat 3: Zelnio (small blind) showed [7s Kc] and won 164 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696617417479553025-8-1675090199 - Holdem no limit (15/30) - 2023/01/30 14:49:59 UTC
+Table: 'Expresso Nitro(627855169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: lican59 (375)
+Seat 2: _SKR (361)
+Seat 3: Zelnio (164)
+*** ANTE/BLINDS ***
+lican59 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7s Th]
+*** PRE-FLOP *** 
+Zelnio raises 30 to 60
+lican59 calls 45
+_SKR folds
+*** FLOP *** [Kd 7d 9c]
+lican59 checks
+Zelnio bets 30
+lican59 raises 285 to 315 and is all-in
+Zelnio calls 74 and is all-in
+*** TURN *** [Kd 7d 9c][Qd]
+*** RIVER *** [Kd 7d 9c Qd][8c]
+*** SHOW DOWN ***
+Zelnio shows [Ks Qc] (Two pairs : Kings and Queens)
+lican59 shows [Ad 5d] (Flush Ace high)
+lican59 collected 569 from pot
+*** SUMMARY ***
+Total pot 569 | No rake
+Board: [Kd 7d 9c Qd 8c]
+Seat 1: lican59 (small blind) showed [Ad 5d] and won 569 with Flush Ace high
+Seat 3: Zelnio (button) showed [Ks Qc] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696617417479553025-9-1675090217 - Holdem no limit (20/40) - 2023/01/30 14:50:17 UTC
+Table: 'Expresso Nitro(627855169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lican59 (569)
+Seat 2: _SKR (331)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+lican59 posts big blind 40
+Dealt to _SKR [Kh 2s]
+*** PRE-FLOP *** 
+_SKR raises 291 to 331 and is all-in
+lican59 calls 291
+*** FLOP *** [6s 4h 8c]
+*** TURN *** [6s 4h 8c][2d]
+*** RIVER *** [6s 4h 8c 2d][8h]
+*** SHOW DOWN ***
+lican59 shows [Td Ac] (One pair : 8)
+_SKR shows [Kh 2s] (Two pairs : 8 and 2)
+_SKR collected 662 from pot
+*** SUMMARY ***
+Total pot 662 | No rake
+Board: [6s 4h 8c 2d 8h]
+Seat 1: lican59 (big blind) showed [Td Ac] and lost with One pair : 8
+Seat 2: _SKR (small blind) (button) showed [Kh 2s] and won 662 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696617417479553025-10-1675090233 - Holdem no limit (20/40) - 2023/01/30 14:50:33 UTC
+Table: 'Expresso Nitro(627855169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lican59 (238)
+Seat 2: _SKR (662)
+*** ANTE/BLINDS ***
+lican59 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [As 3h]
+*** PRE-FLOP *** 
+lican59 raises 198 to 238 and is all-in
+_SKR calls 198
+*** FLOP *** [Qs Ts Jh]
+*** TURN *** [Qs Ts Jh][5d]
+*** RIVER *** [Qs Ts Jh 5d][7h]
+*** SHOW DOWN ***
+lican59 shows [2c Kc] (High card : King)
+_SKR shows [As 3h] (High card : Ace)
+_SKR collected 476 from pot
+*** SUMMARY ***
+Total pot 476 | No rake
+Board: [Qs Ts Jh 5d 7h]
+Seat 1: lican59 (small blind) (button) showed [2c Kc] and lost with High card : King
+Seat 2: _SKR (big blind) showed [As 3h] and won 476 with High card : Ace
+
+

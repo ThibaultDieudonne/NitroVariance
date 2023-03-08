@@ -1,0 +1,201 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718662256249274369-1-1676294137 - Holdem no limit (10/20) - 2023/02/13 13:15:37 UTC
+Table: 'Expresso Nitro(632987883)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Cocalight1 (300)
+Seat 3: Ducheese (300)
+*** ANTE/BLINDS ***
+Ducheese posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 8d]
+*** PRE-FLOP *** 
+Cocalight1 calls 20
+Ducheese folds
+_SKR checks
+*** FLOP *** [7s Kd 9s]
+_SKR checks
+Cocalight1 checks
+*** TURN *** [7s Kd 9s][As]
+_SKR checks
+Cocalight1 checks
+*** RIVER *** [7s Kd 9s As][Jh]
+_SKR checks
+Cocalight1 bets 33
+_SKR folds
+Cocalight1 collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [7s Kd 9s As Jh]
+Seat 2: Cocalight1 (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718662256249274369-2-1676294171 - Holdem no limit (10/20) - 2023/02/13 13:16:11 UTC
+Table: 'Expresso Nitro(632987883)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Cocalight1 (330)
+Seat 3: Ducheese (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cocalight1 posts big blind 20
+Dealt to _SKR [As 8c]
+*** PRE-FLOP *** 
+Ducheese raises 270 to 290 and is all-in
+_SKR folds
+Cocalight1 calls 270
+*** FLOP *** [6s Jh 5d]
+*** TURN *** [6s Jh 5d][4d]
+*** RIVER *** [6s Jh 5d 4d][7h]
+*** SHOW DOWN ***
+Ducheese shows [Jd Qd] (One pair : Jacks)
+Cocalight1 shows [Ac Ah] (One pair : Aces)
+Cocalight1 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [6s Jh 5d 4d 7h]
+Seat 2: Cocalight1 (big blind) showed [Ac Ah] and won 590 with One pair : Aces
+Seat 3: Ducheese (button) showed [Jd Qd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718662256249274369-3-1676294196 - Holdem no limit (15/30) - 2023/02/13 13:16:36 UTC
+Table: 'Expresso Nitro(632987883)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Cocalight1 (630)
+*** ANTE/BLINDS ***
+Cocalight1 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc Qh]
+*** PRE-FLOP *** 
+Cocalight1 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718662256249274369-4-1676294201 - Holdem no limit (15/30) - 2023/02/13 13:16:41 UTC
+Table: 'Expresso Nitro(632987883)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (285)
+Seat 2: Cocalight1 (615)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Cocalight1 posts big blind 30
+Dealt to _SKR [7s 8s]
+*** PRE-FLOP *** 
+_SKR calls 15
+Cocalight1 checks
+*** FLOP *** [9c 4c Jc]
+Cocalight1 checks
+_SKR checks
+*** TURN *** [9c 4c Jc][Ac]
+Cocalight1 checks
+_SKR checks
+*** RIVER *** [9c 4c Jc Ac][Td]
+Cocalight1 checks
+_SKR checks
+*** SHOW DOWN ***
+Cocalight1 shows [5h 6h] (High card : Ace)
+_SKR shows [7s 8s] (Straight Jack high)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9c 4c Jc Ac Td]
+Seat 1: _SKR (small blind) (button) showed [7s 8s] and won 60 with Straight Jack high
+Seat 2: Cocalight1 (big blind) showed [5h 6h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718662256249274369-5-1676294223 - Holdem no limit (15/30) - 2023/02/13 13:17:03 UTC
+Table: 'Expresso Nitro(632987883)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (315)
+Seat 2: Cocalight1 (585)
+*** ANTE/BLINDS ***
+Cocalight1 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ts 7s]
+*** PRE-FLOP *** 
+Cocalight1 calls 15
+_SKR checks
+*** FLOP *** [9h 9d 8h]
+_SKR checks
+Cocalight1 checks
+*** TURN *** [9h 9d 8h][3d]
+_SKR bets 39
+Cocalight1 raises 39 to 78
+_SKR folds
+Cocalight1 collected 177 from pot
+*** SUMMARY ***
+Total pot 177 | No rake
+Board: [9h 9d 8h 3d]
+Seat 2: Cocalight1 (small blind) (button) won 177
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718662256249274369-6-1676294255 - Holdem no limit (20/40) - 2023/02/13 13:17:35 UTC
+Table: 'Expresso Nitro(632987883)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (246)
+Seat 2: Cocalight1 (654)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Cocalight1 posts big blind 40
+Dealt to _SKR [Th 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Cocalight1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Cocalight1 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718662256249274369-7-1676294261 - Holdem no limit (20/40) - 2023/02/13 13:17:41 UTC
+Table: 'Expresso Nitro(632987883)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (226)
+Seat 2: Cocalight1 (674)
+*** ANTE/BLINDS ***
+Cocalight1 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5c 8d]
+*** PRE-FLOP *** 
+Cocalight1 calls 20
+_SKR checks
+*** FLOP *** [Qh 2h 4d]
+_SKR checks
+Cocalight1 checks
+*** TURN *** [Qh 2h 4d][6c]
+_SKR checks
+Cocalight1 checks
+*** RIVER *** [Qh 2h 4d 6c][Kc]
+_SKR checks
+Cocalight1 checks
+*** SHOW DOWN ***
+_SKR shows [5c 8d] (High card : King)
+Cocalight1 shows [7s As] (High card : Ace)
+Cocalight1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qh 2h 4d 6c Kc]
+Seat 1: _SKR (big blind) showed [5c 8d] and lost with High card : King
+Seat 2: Cocalight1 (small blind) (button) showed [7s As] and won 80 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718662256249274369-8-1676294294 - Holdem no limit (20/40) - 2023/02/13 13:18:14 UTC
+Table: 'Expresso Nitro(632987883)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (186)
+Seat 2: Cocalight1 (714)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Cocalight1 posts big blind 40
+Dealt to _SKR [Th 8c]
+*** PRE-FLOP *** 
+_SKR raises 146 to 186 and is all-in
+Cocalight1 calls 146
+*** FLOP *** [3c Ad 6d]
+*** TURN *** [3c Ad 6d][Js]
+*** RIVER *** [3c Ad 6d Js][Kd]
+*** SHOW DOWN ***
+_SKR shows [Th 8c] (High card : Ace)
+Cocalight1 shows [5c 5s] (One pair : 5)
+Cocalight1 collected 372 from pot
+*** SUMMARY ***
+Total pot 372 | No rake
+Board: [3c Ad 6d Js Kd]
+Seat 1: _SKR (small blind) (button) showed [Th 8c] and lost with High card : Ace
+Seat 2: Cocalight1 (big blind) showed [5c 5s] and won 372 with One pair : 5
+
+

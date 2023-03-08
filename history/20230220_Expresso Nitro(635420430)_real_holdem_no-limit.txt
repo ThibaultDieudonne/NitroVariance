@@ -1,0 +1,81 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729109966060257281-1-1676901101 - Holdem no limit (10/20) - 2023/02/20 13:51:41 UTC
+Table: 'Expresso Nitro(635420430)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Totoro85 (300)
+Seat 3: oO_NeMo_Oo (300)
+*** ANTE/BLINDS ***
+Totoro85 posts small blind 10
+oO_NeMo_Oo posts big blind 20
+Dealt to _SKR [7s 9c]
+*** PRE-FLOP *** 
+_SKR folds
+Totoro85 folds
+oO_NeMo_Oo collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: oO_NeMo_Oo (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729109966060257281-2-1676901106 - Holdem no limit (10/20) - 2023/02/20 13:51:46 UTC
+Table: 'Expresso Nitro(635420430)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Totoro85 (290)
+Seat 3: oO_NeMo_Oo (310)
+*** ANTE/BLINDS ***
+oO_NeMo_Oo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s Th]
+*** PRE-FLOP *** 
+Totoro85 raises 40 to 60
+oO_NeMo_Oo calls 50
+_SKR folds
+*** FLOP *** [5c 9h 6c]
+oO_NeMo_Oo checks
+Totoro85 bets 20
+oO_NeMo_Oo calls 20
+*** TURN *** [5c 9h 6c][Kd]
+oO_NeMo_Oo checks
+Totoro85 checks
+*** RIVER *** [5c 9h 6c Kd][7h]
+oO_NeMo_Oo bets 50
+Totoro85 raises 160 to 210 and is all-in
+oO_NeMo_Oo calls 160
+*** SHOW DOWN ***
+Totoro85 shows [Ad 8c] (Straight 9 high)
+oO_NeMo_Oo shows [8s Ac] (Straight 9 high)
+oO_NeMo_Oo collected 300 from pot
+Totoro85 collected 300 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [5c 9h 6c Kd 7h]
+Seat 2: Totoro85 (button) showed [Ad 8c] and won 300 with Straight 9 high
+Seat 3: oO_NeMo_Oo (small blind) showed [8s Ac] and won 300 with Straight 9 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729109966060257281-3-1676901142 - Holdem no limit (10/20) - 2023/02/20 13:52:22 UTC
+Table: 'Expresso Nitro(635420430)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Totoro85 (300)
+Seat 3: oO_NeMo_Oo (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Totoro85 posts big blind 20
+Dealt to _SKR [4d Ah]
+*** PRE-FLOP *** 
+oO_NeMo_Oo folds
+_SKR raises 260 to 280 and is all-in
+Totoro85 calls 260
+*** FLOP *** [Td Qs 5s]
+*** TURN *** [Td Qs 5s][Qd]
+*** RIVER *** [Td Qs 5s Qd][3c]
+*** SHOW DOWN ***
+_SKR shows [4d Ah] (One pair : Queens)
+Totoro85 shows [Js Qc] (Trips of Queens)
+Totoro85 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Td Qs 5s Qd 3c]
+Seat 1: _SKR (small blind) showed [4d Ah] and lost with One pair : Queens
+Seat 2: Totoro85 (big blind) showed [Js Qc] and won 560 with Trips of Queens
+
+

@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698225539134521345-1-1675186328 - Holdem no limit (10/20) - 2023/01/31 17:32:08 UTC
+Table: 'Expresso Nitro(628229589)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Karim bedda (300)
+Seat 2: Sow13 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Karim bedda posts small blind 10
+Sow13 posts big blind 20
+Dealt to _SKR [Qs 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Karim bedda calls 10
+Sow13 checks
+*** FLOP *** [Ah 5s 3d]
+Karim bedda bets 20
+Sow13 raises 260 to 280 and is all-in
+Karim bedda folds
+Sow13 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Ah 5s 3d]
+Seat 2: Sow13 (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698225539134521345-2-1675186348 - Holdem no limit (10/20) - 2023/01/31 17:32:28 UTC
+Table: 'Expresso Nitro(628229589)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Karim bedda (260)
+Seat 2: Sow13 (340)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Sow13 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As 9h]
+*** PRE-FLOP *** 
+Karim bedda folds
+Sow13 raises 320 to 340 and is all-in
+_SKR calls 280 and is all-in
+*** FLOP *** [2c Th 3h]
+*** TURN *** [2c Th 3h][5d]
+*** RIVER *** [2c Th 3h 5d][5c]
+*** SHOW DOWN ***
+_SKR shows [As 9h] (One pair : 5)
+Sow13 shows [Ad Qd] (One pair : 5)
+Sow13 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [2c Th 3h 5d 5c]
+Seat 2: Sow13 (small blind) showed [Ad Qd] and won 640 with One pair : 5
+Seat 3: _SKR (big blind) showed [As 9h] and lost with One pair : 5
+
+

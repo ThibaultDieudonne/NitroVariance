@@ -1,0 +1,482 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696840236087902209-1-1675100174 - Holdem no limit (10/20) - 2023/01/30 17:36:14 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delage.b (300)
+Seat 2: CastoDrama75 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Delage.b posts big blind 20
+Dealt to _SKR [7h 9d]
+*** PRE-FLOP *** 
+CastoDrama75 raises 280 to 300 and is all-in
+_SKR folds
+Delage.b folds
+CastoDrama75 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: CastoDrama75 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696840236087902209-2-1675100182 - Holdem no limit (10/20) - 2023/01/30 17:36:22 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (280)
+Seat 2: CastoDrama75 (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Delage.b posts small blind 10
+CastoDrama75 posts big blind 20
+Dealt to _SKR [Jc 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Delage.b calls 10
+CastoDrama75 raises 310 to 330 and is all-in
+Delage.b calls 260 and is all-in
+*** FLOP *** [Kd 6s 5c]
+*** TURN *** [Kd 6s 5c][4d]
+*** RIVER *** [Kd 6s 5c 4d][5d]
+*** SHOW DOWN ***
+Delage.b shows [2h Kh] (Two pairs : Kings and 5)
+CastoDrama75 shows [As 7h] (One pair : 5)
+CastoDrama75 collected 50 from side pot 1
+Delage.b collected 560 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Kd 6s 5c 4d 5d]
+Seat 1: Delage.b (small blind) showed [2h Kh] and won 560 with Two pairs : Kings and 5
+Seat 2: CastoDrama75 (big blind) showed [As 7h] and won 50 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696840236087902209-3-1675100205 - Holdem no limit (10/20) - 2023/01/30 17:36:45 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delage.b (560)
+Seat 2: CastoDrama75 (50)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+CastoDrama75 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 6d]
+*** PRE-FLOP *** 
+Delage.b folds
+CastoDrama75 raises 30 to 50 and is all-in
+_SKR calls 30
+*** FLOP *** [8c 8h 7h]
+*** TURN *** [8c 8h 7h][7s]
+*** RIVER *** [8c 8h 7h 7s][Ad]
+*** SHOW DOWN ***
+CastoDrama75 shows [Jd 3c] (Two pairs : 8 and 7)
+_SKR shows [Ks 6d] (Two pairs : 8 and 7)
+_SKR collected 50 from pot
+CastoDrama75 collected 50 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [8c 8h 7h 7s Ad]
+Seat 2: CastoDrama75 (small blind) showed [Jd 3c] and won 50 with Two pairs : 8 and 7
+Seat 3: _SKR (big blind) showed [Ks 6d] and won 50 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696840236087902209-4-1675100224 - Holdem no limit (10/20) - 2023/01/30 17:37:04 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delage.b (560)
+Seat 2: CastoDrama75 (50)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Delage.b posts big blind 20
+Dealt to _SKR [6h 5s]
+*** PRE-FLOP *** 
+CastoDrama75 folds
+_SKR folds
+Delage.b collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Delage.b (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696840236087902209-5-1675100239 - Holdem no limit (15/30) - 2023/01/30 17:37:19 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (570)
+Seat 2: CastoDrama75 (50)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+Delage.b posts small blind 15
+CastoDrama75 posts big blind 30
+Dealt to _SKR [9d 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Delage.b raises 60 to 90
+CastoDrama75 calls 20 and is all-in
+*** FLOP *** [9h 2h 7c]
+*** TURN *** [9h 2h 7c][Ks]
+*** RIVER *** [9h 2h 7c Ks][Qd]
+*** SHOW DOWN ***
+CastoDrama75 shows [8h 6h] (High card : King)
+Delage.b shows [2c Kh] (Two pairs : Kings and 2)
+Delage.b collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [9h 2h 7c Ks Qd]
+Seat 1: Delage.b (small blind) showed [2c Kh] and won 140 with Two pairs : Kings and 2
+Seat 2: CastoDrama75 (big blind) showed [8h 6h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696840236087902209-6-1675100258 - Holdem no limit (15/30) - 2023/01/30 17:37:38 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Delage.b posts big blind 30
+Dealt to _SKR [Jh Qs]
+*** PRE-FLOP *** 
+_SKR raises 250 to 280 and is all-in
+Delage.b folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 3: _SKR (small blind) (button) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696840236087902209-7-1675100264 - Holdem no limit (15/30) - 2023/01/30 17:37:44 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delage.b (590)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+Delage.b posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4h 7d]
+*** PRE-FLOP *** 
+Delage.b folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696840236087902209-8-1675100267 - Holdem no limit (15/30) - 2023/01/30 17:37:47 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (575)
+Seat 3: _SKR (325)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Delage.b posts big blind 30
+Dealt to _SKR [Jc 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Delage.b collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Delage.b (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696840236087902209-9-1675100271 - Holdem no limit (15/30) - 2023/01/30 17:37:51 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delage.b (590)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+Delage.b posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9s 4c]
+*** PRE-FLOP *** 
+Delage.b calls 15
+_SKR checks
+*** FLOP *** [7h 4s 9d]
+_SKR checks
+Delage.b bets 60
+_SKR raises 220 to 280 and is all-in
+Delage.b calls 220
+*** TURN *** [7h 4s 9d][9c]
+*** RIVER *** [7h 4s 9d 9c][Js]
+*** SHOW DOWN ***
+Delage.b shows [4h Qs] (Two pairs : 9 and 4)
+_SKR shows [9s 4c] (Full of 9 and 4)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [7h 4s 9d 9c Js]
+Seat 1: Delage.b (small blind) (button) showed [4h Qs] and lost with Two pairs : 9 and 4
+Seat 3: _SKR (big blind) showed [9s 4c] and won 620 with Full of 9 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696840236087902209-10-1675100291 - Holdem no limit (20/40) - 2023/01/30 17:38:11 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Delage.b posts big blind 40
+Dealt to _SKR [Jd 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Delage.b collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Delage.b (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696840236087902209-11-1675100295 - Holdem no limit (20/40) - 2023/01/30 17:38:15 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delage.b (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+Delage.b posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5c 6h]
+*** PRE-FLOP *** 
+Delage.b calls 20
+_SKR checks
+*** FLOP *** [Jc Ac 9h]
+_SKR checks
+Delage.b checks
+*** TURN *** [Jc Ac 9h][Ad]
+_SKR bets 52
+Delage.b calls 52
+*** RIVER *** [Jc Ac 9h Ad][4d]
+_SKR bets 120
+Delage.b calls 120
+*** SHOW DOWN ***
+_SKR shows [5c 6h] (One pair : Aces)
+Delage.b shows [Js 8h] (Two pairs : Aces and Jacks)
+Delage.b collected 424 from pot
+*** SUMMARY ***
+Total pot 424 | No rake
+Board: [Jc Ac 9h Ad 4d]
+Seat 1: Delage.b (small blind) (button) showed [Js 8h] and won 424 with Two pairs : Aces and Jacks
+Seat 3: _SKR (big blind) showed [5c 6h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696840236087902209-12-1675100313 - Holdem no limit (20/40) - 2023/01/30 17:38:33 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (512)
+Seat 3: _SKR (388)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Delage.b posts big blind 40
+Dealt to _SKR [Jc 9h]
+*** PRE-FLOP *** 
+_SKR raises 348 to 388 and is all-in
+Delage.b folds
+_SKR collected 428 from pot
+*** SUMMARY ***
+Total pot 428 | No rake
+Seat 3: _SKR (small blind) (button) won 428
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696840236087902209-13-1675100317 - Holdem no limit (20/40) - 2023/01/30 17:38:37 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delage.b (472)
+Seat 3: _SKR (428)
+*** ANTE/BLINDS ***
+Delage.b posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6h 3c]
+*** PRE-FLOP *** 
+Delage.b calls 20
+_SKR checks
+*** FLOP *** [Tc 3h Jh]
+_SKR checks
+Delage.b bets 120
+_SKR folds
+Delage.b collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Tc 3h Jh]
+Seat 1: Delage.b (small blind) (button) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696840236087902209-14-1675100353 - Holdem no limit (30/60) - 2023/01/30 17:39:13 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (512)
+Seat 3: _SKR (388)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Delage.b posts big blind 60
+Dealt to _SKR [Ks 9h]
+*** PRE-FLOP *** 
+_SKR raises 328 to 388 and is all-in
+Delage.b calls 328
+*** FLOP *** [7s As 3s]
+*** TURN *** [7s As 3s][8s]
+*** RIVER *** [7s As 3s 8s][8c]
+*** SHOW DOWN ***
+Delage.b shows [3c Kc] (Two pairs : 8 and 3)
+_SKR shows [Ks 9h] (Flush Ace high)
+_SKR collected 776 from pot
+*** SUMMARY ***
+Total pot 776 | No rake
+Board: [7s As 3s 8s 8c]
+Seat 1: Delage.b (big blind) showed [3c Kc] and lost with Two pairs : 8 and 3
+Seat 3: _SKR (small blind) (button) showed [Ks 9h] and won 776 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696840236087902209-15-1675100367 - Holdem no limit (30/60) - 2023/01/30 17:39:27 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delage.b (124)
+Seat 3: _SKR (776)
+*** ANTE/BLINDS ***
+Delage.b posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4h Ac]
+*** PRE-FLOP *** 
+Delage.b folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696840236087902209-16-1675100370 - Holdem no limit (30/60) - 2023/01/30 17:39:30 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (94)
+Seat 3: _SKR (806)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Delage.b posts big blind 60
+Dealt to _SKR [5d Qh]
+*** PRE-FLOP *** 
+_SKR folds
+Delage.b collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Delage.b (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696840236087902209-17-1675100373 - Holdem no limit (30/60) - 2023/01/30 17:39:33 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delage.b (124)
+Seat 3: _SKR (776)
+*** ANTE/BLINDS ***
+Delage.b posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c 8c]
+*** PRE-FLOP *** 
+Delage.b raises 64 to 124 and is all-in
+_SKR calls 64
+*** FLOP *** [Ad 9d Qh]
+*** TURN *** [Ad 9d Qh][2d]
+*** RIVER *** [Ad 9d Qh 2d][Jh]
+*** SHOW DOWN ***
+_SKR shows [4c 8c] (High card : Ace)
+Delage.b shows [5c Js] (One pair : Jacks)
+Delage.b collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [Ad 9d Qh 2d Jh]
+Seat 1: Delage.b (small blind) (button) showed [5c Js] and won 248 with One pair : Jacks
+Seat 3: _SKR (big blind) showed [4c 8c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696840236087902209-18-1675100387 - Holdem no limit (30/60) - 2023/01/30 17:39:47 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (248)
+Seat 3: _SKR (652)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Delage.b posts big blind 60
+Dealt to _SKR [9h 3h]
+*** PRE-FLOP *** 
+_SKR raises 592 to 652 and is all-in
+Delage.b calls 188 and is all-in
+*** FLOP *** [8d Td 7s]
+*** TURN *** [8d Td 7s][2h]
+*** RIVER *** [8d Td 7s 2h][Qd]
+*** SHOW DOWN ***
+Delage.b shows [Qc Js] (One pair : Queens)
+_SKR shows [9h 3h] (High card : Queen)
+_SKR collected 404 from side pot 1
+Delage.b collected 496 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d Td 7s 2h Qd]
+Seat 1: Delage.b (big blind) showed [Qc Js] and won 496 with One pair : Queens
+Seat 3: _SKR (small blind) (button) showed [9h 3h] and won 404 with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696840236087902209-19-1675100398 - Holdem no limit (30/60) - 2023/01/30 17:39:58 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delage.b (496)
+Seat 3: _SKR (404)
+*** ANTE/BLINDS ***
+Delage.b posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kd 7h]
+*** PRE-FLOP *** 
+Delage.b folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696840236087902209-20-1675100401 - Holdem no limit (30/60) - 2023/01/30 17:40:01 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (466)
+Seat 3: _SKR (434)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Delage.b posts big blind 60
+Dealt to _SKR [Qs 9h]
+*** PRE-FLOP *** 
+_SKR raises 374 to 434 and is all-in
+Delage.b calls 374
+*** FLOP *** [5c 3c 6d]
+*** TURN *** [5c 3c 6d][Qc]
+*** RIVER *** [5c 3c 6d Qc][5h]
+*** SHOW DOWN ***
+Delage.b shows [8c Ah] (One pair : 5)
+_SKR shows [Qs 9h] (Two pairs : Queens and 5)
+_SKR collected 868 from pot
+*** SUMMARY ***
+Total pot 868 | No rake
+Board: [5c 3c 6d Qc 5h]
+Seat 1: Delage.b (big blind) showed [8c Ah] and lost with One pair : 5
+Seat 3: _SKR (small blind) (button) showed [Qs 9h] and won 868 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696840236087902209-21-1675100417 - Holdem no limit (40/80) - 2023/01/30 17:40:17 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delage.b (32)
+Seat 3: _SKR (868)
+*** ANTE/BLINDS ***
+Delage.b posts small blind 32 and is all-in
+_SKR posts big blind 80
+Dealt to _SKR [9s 8s]
+*** PRE-FLOP *** 
+*** FLOP *** [4d 9d 4s]
+*** TURN *** [4d 9d 4s][Tc]
+*** RIVER *** [4d 9d 4s Tc][Js]
+*** SHOW DOWN ***
+Delage.b shows [3h Th] (Two pairs : Tens and 4)
+_SKR shows [9s 8s] (Two pairs : 9 and 4)
+_SKR collected 48 from side pot 1
+Delage.b collected 64 from main pot
+*** SUMMARY ***
+Total pot 112 | No rake
+Board: [4d 9d 4s Tc Js]
+Seat 1: Delage.b (small blind) (button) showed [3h Th] and won 64 with Two pairs : Tens and 4
+Seat 3: _SKR (big blind) showed [9s 8s] and won 48 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696840236087902209-22-1675100425 - Holdem no limit (40/80) - 2023/01/30 17:40:25 UTC
+Table: 'Expresso Nitro(627907048)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Delage.b (64)
+Seat 3: _SKR (836)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Delage.b posts big blind 64 and is all-in
+Dealt to _SKR [7s Th]
+*** PRE-FLOP *** 
+_SKR calls 40
+*** FLOP *** [Ks Jh 6s]
+*** TURN *** [Ks Jh 6s][8s]
+*** RIVER *** [Ks Jh 6s 8s][9h]
+*** SHOW DOWN ***
+Delage.b shows [Ac 2c] (High card : Ace)
+_SKR shows [7s Th] (Straight Jack high)
+_SKR collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | No rake
+Board: [Ks Jh 6s 8s 9h]
+Seat 1: Delage.b (big blind) showed [Ac 2c] and lost with High card : Ace
+Seat 3: _SKR (small blind) (button) showed [7s Th] and won 144 with Straight Jack high
+
+

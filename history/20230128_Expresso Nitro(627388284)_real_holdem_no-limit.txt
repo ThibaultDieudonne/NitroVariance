@@ -1,0 +1,82 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694612161673560065-1-1674947265 - Holdem no limit (10/20) - 2023/01/28 23:07:45 UTC
+Table: 'Expresso Nitro(627388284)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Zizou93330 (300)
+Seat 3: Melii Melo (300)
+*** ANTE/BLINDS ***
+Zizou93330 posts small blind 10
+Melii Melo posts big blind 20
+Dealt to _SKR [2c 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Zizou93330 raises 20 to 40
+Melii Melo calls 20
+*** FLOP *** [7c 9c 4h]
+Zizou93330 bets 20
+Melii Melo calls 20
+*** TURN *** [7c 9c 4h][6c]
+Zizou93330 checks
+Melii Melo checks
+*** RIVER *** [7c 9c 4h 6c][3d]
+Zizou93330 checks
+Melii Melo checks
+*** SHOW DOWN ***
+Zizou93330 shows [Ts As] (High card : Ace)
+Melii Melo shows [Ad 3c] (One pair : 3)
+Melii Melo collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7c 9c 4h 6c 3d]
+Seat 2: Zizou93330 (small blind) showed [Ts As] and lost with High card : Ace
+Seat 3: Melii Melo (big blind) showed [Ad 3c] and won 120 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694612161673560065-2-1674947296 - Holdem no limit (10/20) - 2023/01/28 23:08:16 UTC
+Table: 'Expresso Nitro(627388284)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Zizou93330 (240)
+Seat 3: Melii Melo (360)
+*** ANTE/BLINDS ***
+Melii Melo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d As]
+*** PRE-FLOP *** 
+Zizou93330 calls 20
+Melii Melo calls 10
+_SKR raises 280 to 300 and is all-in
+Zizou93330 folds
+Melii Melo folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: _SKR (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694612161673560065-3-1674947306 - Holdem no limit (10/20) - 2023/01/28 23:08:26 UTC
+Table: 'Expresso Nitro(627388284)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (340)
+Seat 2: Zizou93330 (220)
+Seat 3: Melii Melo (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Zizou93330 posts big blind 20
+Dealt to _SKR [Th Kc]
+*** PRE-FLOP *** 
+Melii Melo calls 20
+_SKR raises 320 to 340 and is all-in
+Zizou93330 folds
+Melii Melo calls 320 and is all-in
+*** FLOP *** [2d Ks Jd]
+*** TURN *** [2d Ks Jd][Ah]
+*** RIVER *** [2d Ks Jd Ah][6d]
+*** SHOW DOWN ***
+_SKR shows [Th Kc] (One pair : Kings)
+Melii Melo shows [Ad Jc] (Two pairs : Aces and Jacks)
+Melii Melo collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [2d Ks Jd Ah 6d]
+Seat 1: _SKR (small blind) showed [Th Kc] and lost with One pair : Kings
+Seat 3: Melii Melo (button) showed [Ad Jc] and won 700 with Two pairs : Aces and Jacks
+
+

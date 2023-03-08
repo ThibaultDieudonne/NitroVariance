@@ -1,0 +1,133 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729101852867035137-1-1676900725 - Holdem no limit (10/20) - 2023/02/20 13:45:25 UTC
+Table: 'Expresso Nitro(635418541)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Weakfish33 (300)
+Seat 2: _SKR (300)
+Seat 3: Kayou3394 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Kayou3394 posts big blind 20
+Dealt to _SKR [5s 7s]
+*** PRE-FLOP *** 
+Weakfish33 raises 20 to 40
+_SKR folds
+Kayou3394 folds
+Weakfish33 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: Weakfish33 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729101852867035137-2-1676900738 - Holdem no limit (10/20) - 2023/02/20 13:45:38 UTC
+Table: 'Expresso Nitro(635418541)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Weakfish33 (330)
+Seat 2: _SKR (290)
+Seat 3: Kayou3394 (280)
+*** ANTE/BLINDS ***
+Kayou3394 posts small blind 10
+Weakfish33 posts big blind 20
+Dealt to _SKR [Qd Ad]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Kayou3394 calls 30
+Weakfish33 folds
+*** FLOP *** [Qc 9c 6h]
+Kayou3394 bets 20
+_SKR raises 36 to 56
+Kayou3394 calls 36
+*** TURN *** [Qc 9c 6h][8h]
+Kayou3394 checks
+_SKR bets 194 and is all-in
+Kayou3394 calls 184 and is all-in
+*** RIVER *** [Qc 9c 6h 8h][2c]
+*** SHOW DOWN ***
+_SKR shows [Qd Ad] (One pair : Queens)
+Kayou3394 shows [Ac 5c] (Flush Ace high)
+Kayou3394 collected 580 from main pot
+_SKR collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Qc 9c 6h 8h 2c]
+Seat 2: _SKR (button) showed [Qd Ad] and won 10 with One pair : Queens
+Seat 3: Kayou3394 (small blind) showed [Ac 5c] and won 580 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729101852867035137-3-1676900770 - Holdem no limit (10/20) - 2023/02/20 13:46:10 UTC
+Table: 'Expresso Nitro(635418541)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Weakfish33 (310)
+Seat 2: _SKR (10)
+Seat 3: Kayou3394 (580)
+*** ANTE/BLINDS ***
+Weakfish33 posts small blind 10
+_SKR posts big blind 10 and is all-in
+Dealt to _SKR [Qc 7c]
+*** PRE-FLOP *** 
+Kayou3394 calls 20
+Weakfish33 folds
+*** FLOP *** [Jh Jd 3c]
+*** TURN *** [Jh Jd 3c][4s]
+*** RIVER *** [Jh Jd 3c 4s][2h]
+*** SHOW DOWN ***
+_SKR shows [Qc 7c] (One pair : Jacks)
+Kayou3394 shows [6c 8c] (One pair : Jacks)
+Kayou3394 collected 10 from side pot 1
+_SKR collected 30 from main pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Jh Jd 3c 4s 2h]
+Seat 2: _SKR (big blind) showed [Qc 7c] and won 30 with One pair : Jacks
+Seat 3: Kayou3394 (button) showed [6c 8c] and won 10 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729101852867035137-4-1676900789 - Holdem no limit (15/30) - 2023/02/20 13:46:29 UTC
+Table: 'Expresso Nitro(635418541)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Weakfish33 (300)
+Seat 2: _SKR (30)
+Seat 3: Kayou3394 (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Kayou3394 posts big blind 30
+Dealt to _SKR [Th 4s]
+*** PRE-FLOP *** 
+Weakfish33 folds
+_SKR calls 15 and is all-in
+*** FLOP *** [4c 4d Qh]
+*** TURN *** [4c 4d Qh][Td]
+*** RIVER *** [4c 4d Qh Td][Kd]
+*** SHOW DOWN ***
+Kayou3394 shows [2d 7h] (One pair : 4)
+_SKR shows [Th 4s] (Full of 4 and Tens)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [4c 4d Qh Td Kd]
+Seat 2: _SKR (small blind) showed [Th 4s] and won 60 with Full of 4 and Tens
+Seat 3: Kayou3394 (big blind) showed [2d 7h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729101852867035137-5-1676900804 - Holdem no limit (15/30) - 2023/02/20 13:46:44 UTC
+Table: 'Expresso Nitro(635418541)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Weakfish33 (300)
+Seat 2: _SKR (60)
+Seat 3: Kayou3394 (540)
+*** ANTE/BLINDS ***
+Kayou3394 posts small blind 15
+Weakfish33 posts big blind 30
+Dealt to _SKR [Qs Ac]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60 and is all-in
+Kayou3394 calls 45
+Weakfish33 folds
+*** FLOP *** [2h 4h Th]
+*** TURN *** [2h 4h Th][4d]
+*** RIVER *** [2h 4h Th 4d][5c]
+*** SHOW DOWN ***
+_SKR shows [Qs Ac] (One pair : 4)
+Kayou3394 shows [Jd 5s] (Two pairs : 5 and 4)
+Kayou3394 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [2h 4h Th 4d 5c]
+Seat 2: _SKR (button) showed [Qs Ac] and lost with One pair : 4
+Seat 3: Kayou3394 (small blind) showed [Jd 5s] and won 150 with Two pairs : 5 and 4
+
+

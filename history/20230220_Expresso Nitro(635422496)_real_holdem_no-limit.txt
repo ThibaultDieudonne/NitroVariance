@@ -1,0 +1,100 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729118839462690817-1-1676901542 - Holdem no limit (10/20) - 2023/02/20 13:59:02 UTC
+Table: 'Expresso Nitro(635422496)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ninyone (300)
+Seat 2: _SKR (300)
+Seat 3: MR_Genie0 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MR_Genie0 posts big blind 20
+Dealt to _SKR [4h As]
+*** PRE-FLOP *** 
+Ninyone folds
+_SKR raises 280 to 300 and is all-in
+MR_Genie0 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729118839462690817-2-1676901549 - Holdem no limit (10/20) - 2023/02/20 13:59:09 UTC
+Table: 'Expresso Nitro(635422496)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ninyone (300)
+Seat 2: _SKR (320)
+Seat 3: MR_Genie0 (280)
+*** ANTE/BLINDS ***
+MR_Genie0 posts small blind 10
+Ninyone posts big blind 20
+Dealt to _SKR [Kc 6s]
+*** PRE-FLOP *** 
+_SKR folds
+MR_Genie0 raises 260 to 280 and is all-in
+Ninyone folds
+MR_Genie0 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: MR_Genie0 (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729118839462690817-3-1676901559 - Holdem no limit (10/20) - 2023/02/20 13:59:19 UTC
+Table: 'Expresso Nitro(635422496)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ninyone (280)
+Seat 2: _SKR (320)
+Seat 3: MR_Genie0 (300)
+*** ANTE/BLINDS ***
+Ninyone posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc 2s]
+*** PRE-FLOP *** 
+MR_Genie0 calls 20
+Ninyone calls 10
+_SKR checks
+*** FLOP *** [8d 8h 5s]
+Ninyone checks
+_SKR checks
+MR_Genie0 checks
+*** TURN *** [8d 8h 5s][Ts]
+Ninyone checks
+_SKR checks
+MR_Genie0 checks
+*** RIVER *** [8d 8h 5s Ts][9h]
+Ninyone bets 60
+_SKR folds
+MR_Genie0 folds
+Ninyone collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8d 8h 5s Ts 9h]
+Seat 1: Ninyone (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729118839462690817-4-1676901615 - Holdem no limit (15/30) - 2023/02/20 14:00:15 UTC
+Table: 'Expresso Nitro(635422496)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ninyone (320)
+Seat 2: _SKR (300)
+Seat 3: MR_Genie0 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+MR_Genie0 posts big blind 30
+Dealt to _SKR [Ah 4c]
+*** PRE-FLOP *** 
+Ninyone calls 30
+_SKR raises 270 to 300 and is all-in
+MR_Genie0 calls 250 and is all-in
+Ninyone calls 270
+*** FLOP *** [Tc Jc 4h]
+*** TURN *** [Tc Jc 4h][Th]
+*** RIVER *** [Tc Jc 4h Th][5s]
+*** SHOW DOWN ***
+_SKR shows [Ah 4c] (Two pairs : Tens and 4)
+MR_Genie0 shows [7d 7s] (Two pairs : Tens and 7)
+Ninyone shows [Ac Js] (Two pairs : Jacks and Tens)
+Ninyone collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Tc Jc 4h Th 5s]
+Seat 1: Ninyone (button) showed [Ac Js] and won 880 with Two pairs : Jacks and Tens
+Seat 2: _SKR (small blind) showed [Ah 4c] and lost with Two pairs : Tens and 4
+Seat 3: MR_Genie0 (big blind) showed [7d 7s] and lost with Two pairs : Tens and 7
+
+

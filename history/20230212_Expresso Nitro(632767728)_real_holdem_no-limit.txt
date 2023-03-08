@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717716697724223489-1-1676232693 - Holdem no limit (10/20) - 2023/02/12 20:11:33 UTC
+Table: 'Expresso Nitro(632767728)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MarloGui (300)
+Seat 2: _SKR (300)
+Seat 3: AKKOAK (300)
+*** ANTE/BLINDS ***
+MarloGui posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h Ac]
+*** PRE-FLOP *** 
+AKKOAK raises 20 to 40
+MarloGui folds
+_SKR folds
+AKKOAK collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: AKKOAK (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717716697724223489-2-1676232704 - Holdem no limit (10/20) - 2023/02/12 20:11:44 UTC
+Table: 'Expresso Nitro(632767728)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MarloGui (290)
+Seat 2: _SKR (280)
+Seat 3: AKKOAK (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+AKKOAK posts big blind 20
+Dealt to _SKR [As 9s]
+*** PRE-FLOP *** 
+MarloGui calls 20
+_SKR raises 260 to 280 and is all-in
+AKKOAK raises 50 to 330 and is all-in
+MarloGui folds
+*** FLOP *** [6c 4d 6s]
+*** TURN *** [6c 4d 6s][8c]
+*** RIVER *** [6c 4d 6s 8c][Ah]
+*** SHOW DOWN ***
+_SKR shows [As 9s] (Two pairs : Aces and 6)
+AKKOAK shows [8h 8s] (Full of 8 and 6)
+AKKOAK collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [6c 4d 6s 8c Ah]
+Seat 2: _SKR (small blind) showed [As 9s] and lost with Two pairs : Aces and 6
+Seat 3: AKKOAK (big blind) showed [8h 8s] and won 630 with Full of 8 and 6
+
+

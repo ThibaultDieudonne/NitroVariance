@@ -1,0 +1,415 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728657508435492865-1-1676860495 - Holdem no limit (10/20) - 2023/02/20 02:34:55 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Grossbaff91 (300)
+Seat 2: BRM1CAVE (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Grossbaff91 posts small blind 10
+BRM1CAVE posts big blind 20
+Dealt to _SKR [Jc Qc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Grossbaff91 folds
+BRM1CAVE calls 20
+*** FLOP *** [9d 7d 2s]
+BRM1CAVE checks
+_SKR checks
+*** TURN *** [9d 7d 2s][Kc]
+BRM1CAVE checks
+_SKR checks
+*** RIVER *** [9d 7d 2s Kc][Qh]
+BRM1CAVE checks
+_SKR bets 45
+BRM1CAVE folds
+_SKR collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [9d 7d 2s Kc Qh]
+Seat 3: _SKR (button) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728657508435492865-2-1676860535 - Holdem no limit (10/20) - 2023/02/20 02:35:35 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Grossbaff91 (290)
+Seat 2: BRM1CAVE (260)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+BRM1CAVE posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h 4s]
+*** PRE-FLOP *** 
+Grossbaff91 calls 20
+BRM1CAVE calls 10
+_SKR checks
+*** FLOP *** [2d 3c Kh]
+BRM1CAVE checks
+_SKR checks
+Grossbaff91 checks
+*** TURN *** [2d 3c Kh][Jd]
+BRM1CAVE checks
+_SKR checks
+Grossbaff91 checks
+*** RIVER *** [2d 3c Kh Jd][6d]
+BRM1CAVE checks
+_SKR checks
+Grossbaff91 checks
+*** SHOW DOWN ***
+Grossbaff91 shows [5s 8s] (High card : King)
+BRM1CAVE shows [8h Qd] (High card : King)
+_SKR shows [3h 4s] (One pair : 3)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2d 3c Kh Jd 6d]
+Seat 1: Grossbaff91 (button) showed [5s 8s] and lost with High card : King
+Seat 2: BRM1CAVE (small blind) showed [8h Qd] and lost with High card : King
+Seat 3: _SKR (big blind) showed [3h 4s] and won 60 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728657508435492865-3-1676860589 - Holdem no limit (15/30) - 2023/02/20 02:36:29 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Grossbaff91 (270)
+Seat 2: BRM1CAVE (240)
+Seat 3: _SKR (390)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Grossbaff91 posts big blind 30
+Dealt to _SKR [9d 2d]
+*** PRE-FLOP *** 
+BRM1CAVE raises 210 to 240 and is all-in
+_SKR folds
+Grossbaff91 folds
+BRM1CAVE collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Seat 2: BRM1CAVE (button) won 285
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728657508435492865-4-1676860598 - Holdem no limit (15/30) - 2023/02/20 02:36:38 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Grossbaff91 (240)
+Seat 2: BRM1CAVE (285)
+Seat 3: _SKR (375)
+*** ANTE/BLINDS ***
+Grossbaff91 posts small blind 15
+BRM1CAVE posts big blind 30
+Dealt to _SKR [6d 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Grossbaff91 calls 15
+BRM1CAVE raises 45 to 75
+Grossbaff91 calls 45
+*** FLOP *** [3h 9c 4d]
+Grossbaff91 bets 165 and is all-in
+BRM1CAVE folds
+Grossbaff91 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [3h 9c 4d]
+Seat 1: Grossbaff91 (small blind) won 315
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728657508435492865-5-1676860618 - Holdem no limit (20/40) - 2023/02/20 02:36:58 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Grossbaff91 (315)
+Seat 2: BRM1CAVE (210)
+Seat 3: _SKR (375)
+*** ANTE/BLINDS ***
+BRM1CAVE posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8h 5c]
+*** PRE-FLOP *** 
+Grossbaff91 raises 40 to 80
+BRM1CAVE folds
+_SKR folds
+Grossbaff91 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: Grossbaff91 (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728657508435492865-6-1676860631 - Holdem no limit (20/40) - 2023/02/20 02:37:11 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Grossbaff91 (375)
+Seat 2: BRM1CAVE (190)
+Seat 3: _SKR (335)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Grossbaff91 posts big blind 40
+Dealt to _SKR [8d Tc]
+*** PRE-FLOP *** 
+BRM1CAVE folds
+_SKR folds
+Grossbaff91 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Grossbaff91 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728657508435492865-7-1676860641 - Holdem no limit (20/40) - 2023/02/20 02:37:21 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Grossbaff91 (395)
+Seat 2: BRM1CAVE (190)
+Seat 3: _SKR (315)
+*** ANTE/BLINDS ***
+Grossbaff91 posts small blind 20
+BRM1CAVE posts big blind 40
+Dealt to _SKR [6c 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Grossbaff91 folds
+BRM1CAVE collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: BRM1CAVE (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728657508435492865-8-1676860648 - Holdem no limit (20/40) - 2023/02/20 02:37:28 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Grossbaff91 (375)
+Seat 2: BRM1CAVE (210)
+Seat 3: _SKR (315)
+*** ANTE/BLINDS ***
+BRM1CAVE posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2d Kh]
+*** PRE-FLOP *** 
+Grossbaff91 calls 40
+BRM1CAVE raises 170 to 210 and is all-in
+_SKR folds
+Grossbaff91 calls 170
+*** FLOP *** [9d Qh 4d]
+*** TURN *** [9d Qh 4d][9s]
+*** RIVER *** [9d Qh 4d 9s][3h]
+*** SHOW DOWN ***
+Grossbaff91 shows [Ks 8c] (One pair : 9)
+BRM1CAVE shows [Ac 8d] (One pair : 9)
+BRM1CAVE collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [9d Qh 4d 9s 3h]
+Seat 1: Grossbaff91 (button) showed [Ks 8c] and lost with One pair : 9
+Seat 2: BRM1CAVE (small blind) showed [Ac 8d] and won 460 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728657508435492865-9-1676860680 - Holdem no limit (30/60) - 2023/02/20 02:38:00 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Grossbaff91 (165)
+Seat 2: BRM1CAVE (460)
+Seat 3: _SKR (275)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Grossbaff91 posts big blind 60
+Dealt to _SKR [3d 2c]
+*** PRE-FLOP *** 
+BRM1CAVE folds
+_SKR folds
+Grossbaff91 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Grossbaff91 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728657508435492865-10-1676860687 - Holdem no limit (30/60) - 2023/02/20 02:38:07 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Grossbaff91 (195)
+Seat 2: BRM1CAVE (460)
+Seat 3: _SKR (245)
+*** ANTE/BLINDS ***
+Grossbaff91 posts small blind 30
+BRM1CAVE posts big blind 60
+Dealt to _SKR [3s 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Grossbaff91 raises 135 to 195 and is all-in
+BRM1CAVE folds
+Grossbaff91 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 1: Grossbaff91 (small blind) won 255
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728657508435492865-11-1676860700 - Holdem no limit (30/60) - 2023/02/20 02:38:20 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Grossbaff91 (255)
+Seat 2: BRM1CAVE (400)
+Seat 3: _SKR (245)
+*** ANTE/BLINDS ***
+BRM1CAVE posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2h 5d]
+*** PRE-FLOP *** 
+Grossbaff91 folds
+BRM1CAVE raises 340 to 400 and is all-in
+_SKR folds
+BRM1CAVE collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 2: BRM1CAVE (small blind) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728657508435492865-12-1676860708 - Holdem no limit (30/60) - 2023/02/20 02:38:28 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Grossbaff91 (255)
+Seat 2: BRM1CAVE (460)
+Seat 3: _SKR (185)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Grossbaff91 posts big blind 60
+Dealt to _SKR [7s 9c]
+*** PRE-FLOP *** 
+BRM1CAVE folds
+_SKR raises 125 to 185 and is all-in
+Grossbaff91 folds
+_SKR collected 245 from pot
+*** SUMMARY ***
+Total pot 245 | No rake
+Seat 3: _SKR (small blind) won 245
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728657508435492865-13-1676860722 - Holdem no limit (30/60) - 2023/02/20 02:38:42 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Grossbaff91 (195)
+Seat 2: BRM1CAVE (460)
+Seat 3: _SKR (245)
+*** ANTE/BLINDS ***
+Grossbaff91 posts small blind 30
+BRM1CAVE posts big blind 60
+Dealt to _SKR [4d 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Grossbaff91 raises 135 to 195 and is all-in
+BRM1CAVE calls 135
+*** FLOP *** [4c 5h Jh]
+*** TURN *** [4c 5h Jh][6d]
+*** RIVER *** [4c 5h Jh 6d][4h]
+*** SHOW DOWN ***
+BRM1CAVE shows [9d Qd] (One pair : 4)
+Grossbaff91 shows [Ad 7h] (One pair : 4)
+Grossbaff91 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [4c 5h Jh 6d 4h]
+Seat 1: Grossbaff91 (small blind) showed [Ad 7h] and won 390 with One pair : 4
+Seat 2: BRM1CAVE (big blind) showed [9d Qd] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2728657508435492865-14-1676860739 - Holdem no limit (40/80) - 2023/02/20 02:38:59 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Grossbaff91 (390)
+Seat 2: BRM1CAVE (265)
+Seat 3: _SKR (245)
+*** ANTE/BLINDS ***
+BRM1CAVE posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [6d Kd]
+*** PRE-FLOP *** 
+Grossbaff91 folds
+BRM1CAVE folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2728657508435492865-15-1676860745 - Holdem no limit (40/80) - 2023/02/20 02:39:05 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Grossbaff91 (390)
+Seat 2: BRM1CAVE (225)
+Seat 3: _SKR (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Grossbaff91 posts big blind 80
+Dealt to _SKR [2d 4c]
+*** PRE-FLOP *** 
+BRM1CAVE folds
+_SKR folds
+Grossbaff91 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Grossbaff91 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2728657508435492865-16-1676860750 - Holdem no limit (40/80) - 2023/02/20 02:39:10 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Grossbaff91 (430)
+Seat 2: BRM1CAVE (225)
+Seat 3: _SKR (245)
+*** ANTE/BLINDS ***
+Grossbaff91 posts small blind 40
+BRM1CAVE posts big blind 80
+Dealt to _SKR [2s Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Grossbaff91 raises 200 to 280
+BRM1CAVE calls 145 and is all-in
+*** FLOP *** [4s 2c 9h]
+*** TURN *** [4s 2c 9h][Td]
+*** RIVER *** [4s 2c 9h Td][3s]
+*** SHOW DOWN ***
+Grossbaff91 shows [Kh 3h] (One pair : 3)
+BRM1CAVE shows [7h 4h] (One pair : 4)
+BRM1CAVE collected 450 from main pot
+Grossbaff91 collected 55 from side pot 1
+*** SUMMARY ***
+Total pot 505 | No rake
+Board: [4s 2c 9h Td 3s]
+Seat 1: Grossbaff91 (small blind) showed [Kh 3h] and won 55 with One pair : 3
+Seat 2: BRM1CAVE (big blind) showed [7h 4h] and won 450 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2728657508435492865-17-1676860764 - Holdem no limit (40/80) - 2023/02/20 02:39:24 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Grossbaff91 (205)
+Seat 2: BRM1CAVE (450)
+Seat 3: _SKR (245)
+*** ANTE/BLINDS ***
+BRM1CAVE posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Kh 3d]
+*** PRE-FLOP *** 
+Grossbaff91 raises 125 to 205 and is all-in
+BRM1CAVE raises 245 to 450 and is all-in
+_SKR folds
+*** FLOP *** [2s 6c 7s]
+*** TURN *** [2s 6c 7s][Qd]
+*** RIVER *** [2s 6c 7s Qd][6d]
+*** SHOW DOWN ***
+Grossbaff91 shows [Ah 4s] (One pair : 6)
+BRM1CAVE shows [8c Kc] (One pair : 6)
+BRM1CAVE collected 245 from side pot 1
+Grossbaff91 collected 490 from main pot
+*** SUMMARY ***
+Total pot 735 | No rake
+Board: [2s 6c 7s Qd 6d]
+Seat 1: Grossbaff91 (button) showed [Ah 4s] and won 490 with One pair : 6
+Seat 2: BRM1CAVE (small blind) showed [8c Kc] and won 245 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2728657508435492865-18-1676860785 - Holdem no limit (40/80) - 2023/02/20 02:39:45 UTC
+Table: 'Expresso Nitro(635315084)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Grossbaff91 (490)
+Seat 2: BRM1CAVE (245)
+Seat 3: _SKR (165)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Grossbaff91 posts big blind 80
+Dealt to _SKR [3h Kh]
+*** PRE-FLOP *** 
+BRM1CAVE raises 165 to 245 and is all-in
+_SKR calls 125 and is all-in
+Grossbaff91 folds
+*** FLOP *** [7s 6h 9c]
+*** TURN *** [7s 6h 9c][Ks]
+*** RIVER *** [7s 6h 9c Ks][8s]
+*** SHOW DOWN ***
+_SKR shows [3h Kh] (One pair : Kings)
+BRM1CAVE shows [5c 5s] (Straight 9 high)
+BRM1CAVE collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [7s 6h 9c Ks 8s]
+Seat 2: BRM1CAVE (button) showed [5c 5s] and won 490 with Straight 9 high
+Seat 3: _SKR (small blind) showed [3h Kh] and lost with One pair : Kings
+
+

@@ -1,0 +1,94 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717288407880433665-1-1676215855 - Holdem no limit (10/20) - 2023/02/12 15:30:55 UTC
+Table: 'Expresso Nitro(632668009)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tombepile (300)
+Seat 2: NDFenomeno74 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+NDFenomeno74 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d 5d]
+*** PRE-FLOP *** 
+tombepile raises 50 to 70
+NDFenomeno74 folds
+_SKR folds
+tombepile collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 1: tombepile (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717288407880433665-2-1676215874 - Holdem no limit (10/20) - 2023/02/12 15:31:14 UTC
+Table: 'Expresso Nitro(632668009)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tombepile (330)
+Seat 2: NDFenomeno74 (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tombepile posts big blind 20
+Dealt to _SKR [Kd 3h]
+*** PRE-FLOP *** 
+NDFenomeno74 calls 20
+_SKR folds
+tombepile raises 310 to 330 and is all-in
+NDFenomeno74 calls 270 and is all-in
+*** FLOP *** [Th Ts 6h]
+*** TURN *** [Th Ts 6h][6d]
+*** RIVER *** [Th Ts 6h 6d][7h]
+*** SHOW DOWN ***
+NDFenomeno74 shows [2c Jc] (Two pairs : Tens and 6)
+tombepile shows [9h 9s] (Two pairs : Tens and 9)
+tombepile collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Th Ts 6h 6d 7h]
+Seat 1: tombepile (big blind) showed [9h 9s] and won 630 with Two pairs : Tens and 9
+Seat 2: NDFenomeno74 (button) showed [2c Jc] and lost with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717288407880433665-3-1676215898 - Holdem no limit (10/20) - 2023/02/12 15:31:38 UTC
+Table: 'Expresso Nitro(632668009)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tombepile (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+tombepile posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd 9h]
+*** PRE-FLOP *** 
+tombepile raises 30 to 50
+_SKR calls 30
+*** FLOP *** [Ts 6s 6c]
+_SKR checks
+tombepile bets 580 and is all-in
+_SKR folds
+tombepile collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Ts 6s 6c]
+Seat 1: tombepile (small blind) (button) won 680
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717288407880433665-4-1676215915 - Holdem no limit (15/30) - 2023/02/12 15:31:55 UTC
+Table: 'Expresso Nitro(632668009)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tombepile (680)
+Seat 3: _SKR (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+tombepile posts big blind 30
+Dealt to _SKR [Js 7s]
+*** PRE-FLOP *** 
+_SKR raises 190 to 220 and is all-in
+tombepile raises 460 to 680 and is all-in
+*** FLOP *** [3c Jd 2h]
+*** TURN *** [3c Jd 2h][Qs]
+*** RIVER *** [3c Jd 2h Qs][Kd]
+*** SHOW DOWN ***
+_SKR shows [Js 7s] (One pair : Jacks)
+tombepile shows [Qc 4s] (One pair : Queens)
+tombepile collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3c Jd 2h Qs Kd]
+Seat 1: tombepile (big blind) showed [Qc 4s] and won 900 with One pair : Queens
+Seat 3: _SKR (small blind) (button) showed [Js 7s] and lost with One pair : Jacks
+
+

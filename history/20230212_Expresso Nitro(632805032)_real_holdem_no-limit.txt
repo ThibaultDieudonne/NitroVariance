@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717876917184233473-1-1676238540 - Holdem no limit (10/20) - 2023/02/12 21:49:00 UTC
+Table: 'Expresso Nitro(632805032)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lucky_89 (300)
+Seat 2: _SKR (300)
+Seat 3: LoPoTi_x (300)
+*** ANTE/BLINDS ***
+LoPoTi_x posts small blind 10
+Lucky_89 posts big blind 20
+Dealt to _SKR [6s 2h]
+*** PRE-FLOP *** 
+_SKR folds
+LoPoTi_x folds
+Lucky_89 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Lucky_89 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717876917184233473-2-1676238546 - Holdem no limit (10/20) - 2023/02/12 21:49:06 UTC
+Table: 'Expresso Nitro(632805032)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lucky_89 (310)
+Seat 2: _SKR (300)
+Seat 3: LoPoTi_x (290)
+*** ANTE/BLINDS ***
+Lucky_89 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s 5c]
+*** PRE-FLOP *** 
+LoPoTi_x folds
+Lucky_89 calls 10
+_SKR raises 280 to 300 and is all-in
+Lucky_89 calls 280
+*** FLOP *** [Kc 2s 5d]
+*** TURN *** [Kc 2s 5d][Qd]
+*** RIVER *** [Kc 2s 5d Qd][Ac]
+*** SHOW DOWN ***
+_SKR shows [5s 5c] (Trips of 5)
+Lucky_89 shows [Ts Jd] (Straight Ace high)
+Lucky_89 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kc 2s 5d Qd Ac]
+Seat 1: Lucky_89 (small blind) showed [Ts Jd] and won 600 with Straight Ace high
+Seat 2: _SKR (big blind) showed [5s 5c] and lost with Trips of 5
+
+

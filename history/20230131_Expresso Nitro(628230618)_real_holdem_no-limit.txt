@@ -1,0 +1,94 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698229958655868929-1-1675186512 - Holdem no limit (10/20) - 2023/01/31 17:35:12 UTC
+Table: 'Expresso Nitro(628230618)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Foued_K_20 (300)
+Seat 2: _SKR (300)
+Seat 3: Vnik (300)
+*** ANTE/BLINDS ***
+Foued_K_20 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d As]
+*** PRE-FLOP *** 
+Vnik folds
+Foued_K_20 calls 10
+_SKR raises 280 to 300 and is all-in
+Foued_K_20 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698229958655868929-2-1675186524 - Holdem no limit (10/20) - 2023/01/31 17:35:24 UTC
+Table: 'Expresso Nitro(628230618)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Foued_K_20 (280)
+Seat 2: _SKR (320)
+Seat 3: Vnik (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Vnik posts big blind 20
+Dealt to _SKR [3c As]
+*** PRE-FLOP *** 
+Foued_K_20 folds
+_SKR raises 300 to 320 and is all-in
+Vnik calls 280 and is all-in
+*** FLOP *** [8s 6c Tc]
+*** TURN *** [8s 6c Tc][8h]
+*** RIVER *** [8s 6c Tc 8h][9h]
+*** SHOW DOWN ***
+_SKR shows [3c As] (One pair : 8)
+Vnik shows [Qh Jh] (Straight Queen high)
+Vnik collected 600 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8s 6c Tc 8h 9h]
+Seat 2: _SKR (small blind) showed [3c As] and won 20 with One pair : 8
+Seat 3: Vnik (big blind) showed [Qh Jh] and won 600 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698229958655868929-3-1675186539 - Holdem no limit (10/20) - 2023/01/31 17:35:39 UTC
+Table: 'Expresso Nitro(628230618)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Foued_K_20 (280)
+Seat 2: _SKR (20)
+Seat 3: Vnik (600)
+*** ANTE/BLINDS ***
+Vnik posts small blind 10
+Foued_K_20 posts big blind 20
+Dealt to _SKR [Tc 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Vnik folds
+Foued_K_20 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Foued_K_20 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698229958655868929-4-1675186554 - Holdem no limit (10/20) - 2023/01/31 17:35:54 UTC
+Table: 'Expresso Nitro(628230618)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Foued_K_20 (290)
+Seat 2: _SKR (20)
+Seat 3: Vnik (590)
+*** ANTE/BLINDS ***
+Foued_K_20 posts small blind 10
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [4d 8c]
+*** PRE-FLOP *** 
+Vnik raises 570 to 590 and is all-in
+Foued_K_20 calls 280 and is all-in
+*** FLOP *** [As 5s 3d]
+*** TURN *** [As 5s 3d][Ks]
+*** RIVER *** [As 5s 3d Ks][2s]
+*** SHOW DOWN ***
+Foued_K_20 shows [Kd Ad] (Two pairs : Aces and Kings)
+_SKR shows [4d 8c] (Straight 5 high)
+Vnik shows [Ah 7s] (Flush Ace high)
+Vnik collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As 5s 3d Ks 2s]
+Seat 1: Foued_K_20 (small blind) showed [Kd Ad] and lost with Two pairs : Aces and Kings
+Seat 2: _SKR (big blind) showed [4d 8c] and lost with Straight 5 high
+Seat 3: Vnik (button) showed [Ah 7s] and won 900 with Flush Ace high
+
+

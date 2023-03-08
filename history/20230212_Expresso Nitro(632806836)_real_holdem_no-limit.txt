@@ -1,0 +1,393 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717884665305235457-1-1676238837 - Holdem no limit (10/20) - 2023/02/12 21:53:57 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Benjii13000 (300)
+Seat 2: kyllian.b49 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Benjii13000 posts small blind 10
+kyllian.b49 posts big blind 20
+Dealt to _SKR [7c 9d]
+*** PRE-FLOP *** 
+_SKR folds
+Benjii13000 folds
+kyllian.b49 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: kyllian.b49 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717884665305235457-2-1676238845 - Holdem no limit (10/20) - 2023/02/12 21:54:05 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Benjii13000 (290)
+Seat 2: kyllian.b49 (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+kyllian.b49 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td Tc]
+*** PRE-FLOP *** 
+Benjii13000 calls 20
+kyllian.b49 calls 10
+_SKR raises 280 to 300 and is all-in
+Benjii13000 folds
+kyllian.b49 calls 280
+*** FLOP *** [5h 6c 4s]
+*** TURN *** [5h 6c 4s][3h]
+*** RIVER *** [5h 6c 4s 3h][3c]
+*** SHOW DOWN ***
+kyllian.b49 shows [Ks Qh] (One pair : 3)
+_SKR shows [Td Tc] (Two pairs : Tens and 3)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5h 6c 4s 3h 3c]
+Seat 2: kyllian.b49 (small blind) showed [Ks Qh] and lost with One pair : 3
+Seat 3: _SKR (big blind) showed [Td Tc] and won 620 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717884665305235457-3-1676238871 - Holdem no limit (10/20) - 2023/02/12 21:54:31 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Benjii13000 (270)
+Seat 2: kyllian.b49 (10)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Benjii13000 posts big blind 20
+Dealt to _SKR [5d As]
+*** PRE-FLOP *** 
+kyllian.b49 calls 10 and is all-in
+_SKR raises 600 to 620 and is all-in
+Benjii13000 calls 250 and is all-in
+*** FLOP *** [Kd 4h 4s]
+*** TURN *** [Kd 4h 4s][Js]
+*** RIVER *** [Kd 4h 4s Js][3h]
+*** SHOW DOWN ***
+Benjii13000 shows [7s Ac] (One pair : 4)
+kyllian.b49 shows [9d Kc] (Two pairs : Kings and 4)
+_SKR shows [5d As] (One pair : 4)
+_SKR collected 610 from side pot 2
+kyllian.b49 collected 30 from main pot
+Benjii13000 collected 260 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd 4h 4s Js 3h]
+Seat 1: Benjii13000 (big blind) showed [7s Ac] and won 260 with One pair : 4
+Seat 2: kyllian.b49 (button) showed [9d Kc] and won 30 with Two pairs : Kings and 4
+Seat 3: _SKR (small blind) showed [5d As] and won 610 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717884665305235457-4-1676238888 - Holdem no limit (10/20) - 2023/02/12 21:54:48 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Benjii13000 (260)
+Seat 2: kyllian.b49 (30)
+Seat 3: _SKR (610)
+*** ANTE/BLINDS ***
+Benjii13000 posts small blind 10
+kyllian.b49 posts big blind 20
+Dealt to _SKR [9s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Benjii13000 raises 20 to 40
+kyllian.b49 calls 10 and is all-in
+*** FLOP *** [8c 3h 4c]
+*** TURN *** [8c 3h 4c][Kd]
+*** RIVER *** [8c 3h 4c Kd][6c]
+*** SHOW DOWN ***
+kyllian.b49 shows [Qc Kh] (One pair : Kings)
+Benjii13000 shows [9c 7c] (Flush 9 high)
+Benjii13000 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [8c 3h 4c Kd 6c]
+Seat 1: Benjii13000 (small blind) showed [9c 7c] and won 70 with Flush 9 high
+Seat 2: kyllian.b49 (big blind) showed [Qc Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717884665305235457-5-1676238904 - Holdem no limit (15/30) - 2023/02/12 21:55:04 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Benjii13000 (290)
+Seat 3: _SKR (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Benjii13000 posts big blind 30
+Dealt to _SKR [Jd 8s]
+*** PRE-FLOP *** 
+_SKR raises 580 to 610 and is all-in
+Benjii13000 folds
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 3: _SKR (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717884665305235457-6-1676238910 - Holdem no limit (15/30) - 2023/02/12 21:55:10 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Benjii13000 (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+Benjii13000 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5c 4d]
+*** PRE-FLOP *** 
+Benjii13000 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717884665305235457-7-1676238914 - Holdem no limit (15/30) - 2023/02/12 21:55:14 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Benjii13000 (245)
+Seat 3: _SKR (655)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Benjii13000 posts big blind 30
+Dealt to _SKR [9c Ks]
+*** PRE-FLOP *** 
+_SKR raises 625 to 655 and is all-in
+Benjii13000 folds
+_SKR collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Seat 3: _SKR (small blind) (button) won 685
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717884665305235457-8-1676238922 - Holdem no limit (15/30) - 2023/02/12 21:55:22 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Benjii13000 (215)
+Seat 3: _SKR (685)
+*** ANTE/BLINDS ***
+Benjii13000 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6h 2h]
+*** PRE-FLOP *** 
+Benjii13000 raises 185 to 215 and is all-in
+_SKR folds
+Benjii13000 collected 245 from pot
+*** SUMMARY ***
+Total pot 245 | No rake
+Seat 1: Benjii13000 (small blind) (button) won 245
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717884665305235457-9-1676238929 - Holdem no limit (15/30) - 2023/02/12 21:55:29 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Benjii13000 (245)
+Seat 3: _SKR (655)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Benjii13000 posts big blind 30
+Dealt to _SKR [6c Js]
+*** PRE-FLOP *** 
+_SKR folds
+Benjii13000 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Benjii13000 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717884665305235457-10-1676238937 - Holdem no limit (15/30) - 2023/02/12 21:55:37 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Benjii13000 (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+Benjii13000 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c Ks]
+*** PRE-FLOP *** 
+Benjii13000 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717884665305235457-11-1676238941 - Holdem no limit (15/30) - 2023/02/12 21:55:41 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Benjii13000 (245)
+Seat 3: _SKR (655)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Benjii13000 posts big blind 30
+Dealt to _SKR [6c 6d]
+*** PRE-FLOP *** 
+_SKR raises 625 to 655 and is all-in
+Benjii13000 calls 215 and is all-in
+*** FLOP *** [Ac 8s Jc]
+*** TURN *** [Ac 8s Jc][Qh]
+*** RIVER *** [Ac 8s Jc Qh][5d]
+*** SHOW DOWN ***
+Benjii13000 shows [Qd Kd] (One pair : Queens)
+_SKR shows [6c 6d] (One pair : 6)
+_SKR collected 410 from side pot 1
+Benjii13000 collected 490 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 8s Jc Qh 5d]
+Seat 1: Benjii13000 (big blind) showed [Qd Kd] and won 490 with One pair : Queens
+Seat 3: _SKR (small blind) (button) showed [6c 6d] and won 410 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717884665305235457-12-1676238951 - Holdem no limit (15/30) - 2023/02/12 21:55:51 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Benjii13000 (490)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+Benjii13000 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Js 7d]
+*** PRE-FLOP *** 
+Benjii13000 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717884665305235457-13-1676238955 - Holdem no limit (20/40) - 2023/02/12 21:55:55 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Benjii13000 (475)
+Seat 3: _SKR (425)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Benjii13000 posts big blind 40
+Dealt to _SKR [6h Kc]
+*** PRE-FLOP *** 
+_SKR raises 385 to 425 and is all-in
+Benjii13000 folds
+_SKR collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Seat 3: _SKR (small blind) (button) won 465
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717884665305235457-14-1676238961 - Holdem no limit (20/40) - 2023/02/12 21:56:01 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Benjii13000 (435)
+Seat 3: _SKR (465)
+*** ANTE/BLINDS ***
+Benjii13000 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9h 7d]
+*** PRE-FLOP *** 
+Benjii13000 raises 395 to 435 and is all-in
+_SKR folds
+Benjii13000 collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | No rake
+Seat 1: Benjii13000 (small blind) (button) won 475
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717884665305235457-15-1676238968 - Holdem no limit (20/40) - 2023/02/12 21:56:08 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Benjii13000 (475)
+Seat 3: _SKR (425)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Benjii13000 posts big blind 40
+Dealt to _SKR [Qh 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Benjii13000 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Benjii13000 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717884665305235457-16-1676238973 - Holdem no limit (20/40) - 2023/02/12 21:56:13 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Benjii13000 (495)
+Seat 3: _SKR (405)
+*** ANTE/BLINDS ***
+Benjii13000 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s 9c]
+*** PRE-FLOP *** 
+Benjii13000 raises 455 to 495 and is all-in
+_SKR folds
+Benjii13000 collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Seat 1: Benjii13000 (small blind) (button) won 535
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717884665305235457-17-1676238979 - Holdem no limit (20/40) - 2023/02/12 21:56:19 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Benjii13000 (535)
+Seat 3: _SKR (365)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Benjii13000 posts big blind 40
+Dealt to _SKR [Ks Ad]
+*** PRE-FLOP *** 
+_SKR raises 325 to 365 and is all-in
+Benjii13000 folds
+_SKR collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Seat 3: _SKR (small blind) (button) won 405
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717884665305235457-18-1676238986 - Holdem no limit (20/40) - 2023/02/12 21:56:26 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Benjii13000 (495)
+Seat 3: _SKR (405)
+*** ANTE/BLINDS ***
+Benjii13000 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc Ad]
+*** PRE-FLOP *** 
+Benjii13000 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717884665305235457-19-1676238989 - Holdem no limit (20/40) - 2023/02/12 21:56:29 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Benjii13000 (475)
+Seat 3: _SKR (425)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Benjii13000 posts big blind 40
+Dealt to _SKR [9s 7d]
+*** PRE-FLOP *** 
+_SKR folds
+Benjii13000 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Benjii13000 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717884665305235457-20-1676238997 - Holdem no limit (20/40) - 2023/02/12 21:56:37 UTC
+Table: 'Expresso Nitro(632806836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Benjii13000 (495)
+Seat 3: _SKR (405)
+*** ANTE/BLINDS ***
+Benjii13000 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ts 8s]
+*** PRE-FLOP *** 
+Benjii13000 calls 20
+_SKR checks
+*** FLOP *** [8h Th As]
+_SKR checks
+Benjii13000 bets 52
+_SKR raises 66 to 118
+Benjii13000 calls 66
+*** TURN *** [8h Th As][5h]
+_SKR bets 247 and is all-in
+Benjii13000 raises 90 to 337 and is all-in
+*** RIVER *** [8h Th As 5h][9s]
+*** SHOW DOWN ***
+_SKR shows [Ts 8s] (Two pairs : Tens and 8)
+Benjii13000 shows [4h Kh] (Flush King high)
+Benjii13000 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h Th As 5h 9s]
+Seat 1: Benjii13000 (small blind) (button) showed [4h Kh] and won 900 with Flush King high
+Seat 3: _SKR (big blind) showed [Ts 8s] and lost with Two pairs : Tens and 8
+
+

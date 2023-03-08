@@ -1,0 +1,367 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730600994021834753-1-1676987968 - Holdem no limit (10/20) - 2023/02/21 13:59:28 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Faboulous54 (300)
+Seat 3: Digavi (300)
+*** ANTE/BLINDS ***
+Digavi posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5h As]
+*** PRE-FLOP *** 
+Faboulous54 raises 280 to 300 and is all-in
+Digavi folds
+_SKR folds
+Faboulous54 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Faboulous54 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730600994021834753-2-1676987978 - Holdem no limit (10/20) - 2023/02/21 13:59:38 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Faboulous54 (330)
+Seat 3: Digavi (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Faboulous54 posts big blind 20
+Dealt to _SKR [8s 5s]
+*** PRE-FLOP *** 
+Digavi raises 20 to 40
+_SKR folds
+Faboulous54 calls 20
+*** FLOP *** [2h 9s 4d]
+Faboulous54 bets 90
+Digavi raises 160 to 250 and is all-in
+Faboulous54 calls 160
+*** TURN *** [2h 9s 4d][Qh]
+*** RIVER *** [2h 9s 4d Qh][Qc]
+*** SHOW DOWN ***
+Faboulous54 shows [4c 3d] (Two pairs : Queens and 4)
+Digavi shows [9c 8h] (Two pairs : Queens and 9)
+Digavi collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [2h 9s 4d Qh Qc]
+Seat 2: Faboulous54 (big blind) showed [4c 3d] and lost with Two pairs : Queens and 4
+Seat 3: Digavi (button) showed [9c 8h] and won 590 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730600994021834753-3-1676988003 - Holdem no limit (10/20) - 2023/02/21 14:00:03 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Faboulous54 (40)
+Seat 3: Digavi (590)
+*** ANTE/BLINDS ***
+Faboulous54 posts small blind 10
+Digavi posts big blind 20
+Dealt to _SKR [Kh 9h]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Faboulous54 calls 30 and is all-in
+Digavi folds
+*** FLOP *** [4c 6h 7c]
+*** TURN *** [4c 6h 7c][Ts]
+*** RIVER *** [4c 6h 7c Ts][Tc]
+*** SHOW DOWN ***
+_SKR shows [Kh 9h] (One pair : Tens)
+Faboulous54 shows [4h Th] (Full of Tens and 4)
+Faboulous54 collected 100 from main pot
+_SKR collected 230 from side pot 1
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [4c 6h 7c Ts Tc]
+Seat 1: _SKR (button) showed [Kh 9h] and won 230 with One pair : Tens
+Seat 2: Faboulous54 (small blind) showed [4h Th] and won 100 with Full of Tens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730600994021834753-4-1676988025 - Holdem no limit (15/30) - 2023/02/21 14:00:25 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (230)
+Seat 2: Faboulous54 (100)
+Seat 3: Digavi (570)
+*** ANTE/BLINDS ***
+Digavi posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3c Qh]
+*** PRE-FLOP *** 
+Faboulous54 raises 70 to 100 and is all-in
+Digavi raises 470 to 570 and is all-in
+_SKR folds
+*** FLOP *** [4c 7h Jd]
+*** TURN *** [4c 7h Jd][6d]
+*** RIVER *** [4c 7h Jd 6d][Js]
+*** SHOW DOWN ***
+Faboulous54 shows [Kc 6s] (Two pairs : Jacks and 6)
+Digavi shows [Qs Ah] (One pair : Jacks)
+Digavi collected 470 from side pot 1
+Faboulous54 collected 230 from main pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [4c 7h Jd 6d Js]
+Seat 2: Faboulous54 (button) showed [Kc 6s] and won 230 with Two pairs : Jacks and 6
+Seat 3: Digavi (small blind) showed [Qs Ah] and won 470 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730600994021834753-5-1676988044 - Holdem no limit (15/30) - 2023/02/21 14:00:44 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (200)
+Seat 2: Faboulous54 (230)
+Seat 3: Digavi (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Faboulous54 posts big blind 30
+Dealt to _SKR [Qh Js]
+*** PRE-FLOP *** 
+Digavi raises 440 to 470 and is all-in
+_SKR folds
+Faboulous54 folds
+Digavi collected 515 from pot
+*** SUMMARY ***
+Total pot 515 | No rake
+Seat 3: Digavi (button) won 515
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730600994021834753-6-1676988050 - Holdem no limit (15/30) - 2023/02/21 14:00:50 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (185)
+Seat 2: Faboulous54 (200)
+Seat 3: Digavi (515)
+*** ANTE/BLINDS ***
+Faboulous54 posts small blind 15
+Digavi posts big blind 30
+Dealt to _SKR [Th 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Faboulous54 folds
+Digavi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Digavi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730600994021834753-7-1676988057 - Holdem no limit (15/30) - 2023/02/21 14:00:57 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (185)
+Seat 2: Faboulous54 (185)
+Seat 3: Digavi (530)
+*** ANTE/BLINDS ***
+Digavi posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3d 6s]
+*** PRE-FLOP *** 
+Faboulous54 raises 155 to 185 and is all-in
+Digavi folds
+_SKR folds
+Faboulous54 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Seat 2: Faboulous54 (button) won 230
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730600994021834753-8-1676988064 - Holdem no limit (15/30) - 2023/02/21 14:01:04 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (155)
+Seat 2: Faboulous54 (230)
+Seat 3: Digavi (515)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Faboulous54 posts big blind 30
+Dealt to _SKR [Kd Kh]
+*** PRE-FLOP *** 
+Digavi raises 485 to 515 and is all-in
+_SKR calls 140 and is all-in
+Faboulous54 folds
+*** FLOP *** [Ts 9s 9c]
+*** TURN *** [Ts 9s 9c][2d]
+*** RIVER *** [Ts 9s 9c 2d][Th]
+*** SHOW DOWN ***
+_SKR shows [Kd Kh] (Two pairs : Kings and Tens)
+Digavi shows [Qs 5s] (Two pairs : Tens and 9)
+Digavi collected 360 from side pot 1
+_SKR collected 340 from main pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [Ts 9s 9c 2d Th]
+Seat 1: _SKR (small blind) showed [Kd Kh] and won 340 with Two pairs : Kings and Tens
+Seat 3: Digavi (button) showed [Qs 5s] and won 360 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730600994021834753-9-1676988078 - Holdem no limit (15/30) - 2023/02/21 14:01:18 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (340)
+Seat 2: Faboulous54 (200)
+Seat 3: Digavi (360)
+*** ANTE/BLINDS ***
+Faboulous54 posts small blind 15
+Digavi posts big blind 30
+Dealt to _SKR [6c 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Faboulous54 raises 170 to 200 and is all-in
+Digavi folds
+Faboulous54 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Seat 2: Faboulous54 (small blind) won 230
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730600994021834753-10-1676988091 - Holdem no limit (20/40) - 2023/02/21 14:01:31 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (340)
+Seat 2: Faboulous54 (230)
+Seat 3: Digavi (330)
+*** ANTE/BLINDS ***
+Digavi posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc 2c]
+*** PRE-FLOP *** 
+Faboulous54 calls 40
+Digavi raises 40 to 80
+_SKR folds
+Faboulous54 calls 40
+*** FLOP *** [Ks Th 7d]
+Digavi bets 120
+Faboulous54 calls 120
+*** TURN *** [Ks Th 7d][Jd]
+Digavi bets 130 and is all-in
+Faboulous54 calls 30 and is all-in
+*** RIVER *** [Ks Th 7d Jd][2s]
+*** SHOW DOWN ***
+Faboulous54 shows [9h Js] (One pair : Jacks)
+Digavi shows [Qc Qs] (One pair : Queens)
+Digavi collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ks Th 7d Jd 2s]
+Seat 2: Faboulous54 (button) showed [9h Js] and lost with One pair : Jacks
+Seat 3: Digavi (small blind) showed [Qc Qs] and won 600 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730600994021834753-11-1676988111 - Holdem no limit (20/40) - 2023/02/21 14:01:51 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 3: Digavi (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Digavi posts big blind 40
+Dealt to _SKR [Jc 9h]
+*** PRE-FLOP *** 
+_SKR raises 260 to 300 and is all-in
+Digavi folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: _SKR (small blind) (button) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730600994021834753-12-1676988119 - Holdem no limit (20/40) - 2023/02/21 14:01:59 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (340)
+Seat 3: Digavi (560)
+*** ANTE/BLINDS ***
+Digavi posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3c 2h]
+*** PRE-FLOP *** 
+Digavi raises 80 to 120
+_SKR folds
+Digavi collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: Digavi (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730600994021834753-13-1676988129 - Holdem no limit (20/40) - 2023/02/21 14:02:09 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 3: Digavi (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Digavi posts big blind 40
+Dealt to _SKR [7d Qc]
+*** PRE-FLOP *** 
+_SKR calls 20
+Digavi raises 80 to 120
+_SKR folds
+Digavi collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: Digavi (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730600994021834753-14-1676988139 - Holdem no limit (20/40) - 2023/02/21 14:02:19 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (260)
+Seat 3: Digavi (640)
+*** ANTE/BLINDS ***
+Digavi posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2c 9d]
+*** PRE-FLOP *** 
+Digavi raises 80 to 120
+_SKR folds
+Digavi collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: Digavi (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730600994021834753-15-1676988145 - Holdem no limit (30/60) - 2023/02/21 14:02:25 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (220)
+Seat 3: Digavi (680)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Digavi posts big blind 60
+Dealt to _SKR [Qc 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Digavi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Digavi (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730600994021834753-16-1676988149 - Holdem no limit (30/60) - 2023/02/21 14:02:29 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (190)
+Seat 3: Digavi (710)
+*** ANTE/BLINDS ***
+Digavi posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5c 2c]
+*** PRE-FLOP *** 
+Digavi raises 90 to 150
+_SKR folds
+Digavi collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: Digavi (small blind) (button) won 210
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2730600994021834753-17-1676988154 - Holdem no limit (30/60) - 2023/02/21 14:02:34 UTC
+Table: 'Expresso Nitro(635767587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (130)
+Seat 3: Digavi (770)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Digavi posts big blind 60
+Dealt to _SKR [5s 2s]
+*** PRE-FLOP *** 
+_SKR raises 70 to 130 and is all-in
+Digavi calls 70
+*** FLOP *** [Qc 3h Kc]
+*** TURN *** [Qc 3h Kc][4d]
+*** RIVER *** [Qc 3h Kc 4d][8d]
+*** SHOW DOWN ***
+_SKR shows [5s 2s] (High card : King)
+Digavi shows [3c Qh] (Two pairs : Queens and 3)
+Digavi collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [Qc 3h Kc 4d 8d]
+Seat 1: _SKR (small blind) (button) showed [5s 2s] and lost with High card : King
+Seat 3: Digavi (big blind) showed [3c Qh] and won 260 with Two pairs : Queens and 3
+
+

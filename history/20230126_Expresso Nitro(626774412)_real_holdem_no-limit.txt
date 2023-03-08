@@ -1,0 +1,28 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691975601509629953-1-1674775951 - Holdem no limit (10/20) - 2023/01/26 23:32:31 UTC
+Table: 'Expresso Nitro(626774412)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: ALLAH-AKBAR (300)
+Seat 3: MANU2019 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ALLAH-AKBAR posts big blind 20
+Dealt to _SKR [Jh Qs]
+*** PRE-FLOP *** 
+MANU2019 calls 20
+_SKR raises 280 to 300 and is all-in
+ALLAH-AKBAR calls 280 and is all-in
+MANU2019 folds
+*** FLOP *** [Kh 5d 3d]
+*** TURN *** [Kh 5d 3d][4c]
+*** RIVER *** [Kh 5d 3d 4c][7h]
+*** SHOW DOWN ***
+_SKR shows [Jh Qs] (High card : King)
+ALLAH-AKBAR shows [8s 8c] (One pair : 8)
+ALLAH-AKBAR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Kh 5d 3d 4c 7h]
+Seat 1: _SKR (small blind) showed [Jh Qs] and lost with High card : King
+Seat 2: ALLAH-AKBAR (big blind) showed [8s 8c] and won 620 with One pair : 8
+
+

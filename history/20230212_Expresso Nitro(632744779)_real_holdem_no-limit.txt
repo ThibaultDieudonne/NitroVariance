@@ -1,0 +1,94 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717618132519747585-1-1676229087 - Holdem no limit (10/20) - 2023/02/12 19:11:27 UTC
+Table: 'Expresso Nitro(632744779)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: psyko609 (300)
+Seat 3: keke38160 (300)
+*** ANTE/BLINDS ***
+psyko609 posts small blind 10
+keke38160 posts big blind 20
+Dealt to _SKR [5c 4d]
+*** PRE-FLOP *** 
+_SKR folds
+psyko609 folds
+keke38160 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: keke38160 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717618132519747585-2-1676229092 - Holdem no limit (10/20) - 2023/02/12 19:11:32 UTC
+Table: 'Expresso Nitro(632744779)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: psyko609 (290)
+Seat 3: keke38160 (310)
+*** ANTE/BLINDS ***
+keke38160 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7s Kc]
+*** PRE-FLOP *** 
+psyko609 calls 20
+keke38160 folds
+_SKR raises 280 to 300 and is all-in
+psyko609 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717618132519747585-3-1676229106 - Holdem no limit (10/20) - 2023/02/12 19:11:46 UTC
+Table: 'Expresso Nitro(632744779)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 2: psyko609 (270)
+Seat 3: keke38160 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+psyko609 posts big blind 20
+Dealt to _SKR [6h 6c]
+*** PRE-FLOP *** 
+keke38160 calls 20
+_SKR raises 310 to 330 and is all-in
+psyko609 calls 250 and is all-in
+keke38160 folds
+*** FLOP *** [Jc Tc Qc]
+*** TURN *** [Jc Tc Qc][5d]
+*** RIVER *** [Jc Tc Qc 5d][8c]
+*** SHOW DOWN ***
+_SKR shows [6h 6c] (Flush Queen high)
+psyko609 shows [9c Js] (Straight flush Queen)
+psyko609 collected 560 from main pot
+_SKR collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Jc Tc Qc 5d 8c]
+Seat 1: _SKR (small blind) showed [6h 6c] and won 60 with Flush Queen high
+Seat 2: psyko609 (big blind) showed [9c Js] and won 560 with Straight flush Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717618132519747585-4-1676229122 - Holdem no limit (10/20) - 2023/02/12 19:12:02 UTC
+Table: 'Expresso Nitro(632744779)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (60)
+Seat 2: psyko609 (560)
+Seat 3: keke38160 (280)
+*** ANTE/BLINDS ***
+psyko609 posts small blind 10
+keke38160 posts big blind 20
+Dealt to _SKR [Js 4s]
+*** PRE-FLOP *** 
+_SKR raises 40 to 60 and is all-in
+psyko609 calls 50
+keke38160 folds
+*** FLOP *** [5c Ac 5s]
+*** TURN *** [5c Ac 5s][9c]
+*** RIVER *** [5c Ac 5s 9c][6s]
+*** SHOW DOWN ***
+_SKR shows [Js 4s] (One pair : 5)
+psyko609 shows [Tc 9d] (Two pairs : 9 and 5)
+psyko609 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [5c Ac 5s 9c 6s]
+Seat 1: _SKR (button) showed [Js 4s] and lost with One pair : 5
+Seat 2: psyko609 (small blind) showed [Tc 9d] and won 140 with Two pairs : 9 and 5
+
+

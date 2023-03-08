@@ -1,0 +1,57 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730591459194437633-1-1676987427 - Holdem no limit (10/20) - 2023/02/21 13:50:27 UTC
+Table: 'Expresso Nitro(635765367)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Trop bo tie (300)
+Seat 2: Nielsouw (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Trop bo tie posts big blind 20
+Dealt to _SKR [Kc 6h]
+*** PRE-FLOP *** 
+Nielsouw calls 20
+_SKR folds
+Trop bo tie checks
+*** FLOP *** [2h 9s 3c]
+Trop bo tie bets 20
+Nielsouw raises 52 to 72
+Trop bo tie raises 208 to 280 and is all-in
+Nielsouw calls 208 and is all-in
+*** TURN *** [2h 9s 3c][5c]
+*** RIVER *** [2h 9s 3c 5c][7d]
+*** SHOW DOWN ***
+Trop bo tie shows [6d 9d] (One pair : 9)
+Nielsouw shows [Qs 9h] (One pair : 9)
+Nielsouw collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [2h 9s 3c 5c 7d]
+Seat 1: Trop bo tie (big blind) showed [6d 9d] and lost with One pair : 9
+Seat 2: Nielsouw (button) showed [Qs 9h] and won 610 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730591459194437633-2-1676987450 - Holdem no limit (10/20) - 2023/02/21 13:50:50 UTC
+Table: 'Expresso Nitro(635765367)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Nielsouw (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Nielsouw posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d As]
+*** PRE-FLOP *** 
+Nielsouw calls 10
+_SKR raises 270 to 290 and is all-in
+Nielsouw calls 270
+*** FLOP *** [Qc Ks 4c]
+*** TURN *** [Qc Ks 4c][Kd]
+*** RIVER *** [Qc Ks 4c Kd][Js]
+*** SHOW DOWN ***
+_SKR shows [2d As] (One pair : Kings)
+Nielsouw shows [9c Kh] (Trips of Kings)
+Nielsouw collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Qc Ks 4c Kd Js]
+Seat 2: Nielsouw (small blind) (button) showed [9c Kh] and won 580 with Trips of Kings
+Seat 3: _SKR (big blind) showed [2d As] and lost with One pair : Kings
+
+

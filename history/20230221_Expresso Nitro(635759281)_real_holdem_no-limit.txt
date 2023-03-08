@@ -1,0 +1,292 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730565320023474177-1-1676985872 - Holdem no limit (10/20) - 2023/02/21 13:24:32 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Parse99 (300)
+Seat 2: _SKR (300)
+Seat 3: Didleco (300)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s Ks]
+*** PRE-FLOP *** 
+Didleco raises 280 to 300 and is all-in
+Parse99 folds
+_SKR folds
+Didleco collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Didleco (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730565320023474177-2-1676985882 - Holdem no limit (10/20) - 2023/02/21 13:24:42 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Parse99 (290)
+Seat 2: _SKR (280)
+Seat 3: Didleco (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Didleco posts big blind 20
+Dealt to _SKR [2d Ks]
+*** PRE-FLOP *** 
+Parse99 raises 20 to 40
+_SKR folds
+Didleco folds
+Parse99 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: Parse99 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730565320023474177-3-1676985899 - Holdem no limit (10/20) - 2023/02/21 13:24:59 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Parse99 (320)
+Seat 2: _SKR (270)
+Seat 3: Didleco (310)
+*** ANTE/BLINDS ***
+Didleco posts small blind 10
+Parse99 posts big blind 20
+Dealt to _SKR [5h 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Didleco calls 10
+Parse99 raises 300 to 320 and is all-in
+Didleco folds
+Parse99 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: Parse99 (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730565320023474177-4-1676985913 - Holdem no limit (10/20) - 2023/02/21 13:25:13 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Parse99 (340)
+Seat 2: _SKR (270)
+Seat 3: Didleco (290)
+*** ANTE/BLINDS ***
+Parse99 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad Qd]
+*** PRE-FLOP *** 
+Didleco folds
+Parse99 raises 20 to 40
+_SKR raises 230 to 270 and is all-in
+Parse99 folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: _SKR (big blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730565320023474177-5-1676985921 - Holdem no limit (10/20) - 2023/02/21 13:25:21 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Parse99 (300)
+Seat 2: _SKR (310)
+Seat 3: Didleco (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Didleco posts big blind 20
+Dealt to _SKR [4h 6h]
+*** PRE-FLOP *** 
+Parse99 raises 280 to 300 and is all-in
+_SKR folds
+Didleco calls 270 and is all-in
+*** FLOP *** [Jh 8c Kh]
+*** TURN *** [Jh 8c Kh][2c]
+*** RIVER *** [Jh 8c Kh 2c][7d]
+*** SHOW DOWN ***
+Parse99 shows [6c 6s] (One pair : 6)
+Didleco shows [Js Qh] (One pair : Jacks)
+Didleco collected 590 from main pot
+Parse99 collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jh 8c Kh 2c 7d]
+Seat 1: Parse99 (button) showed [6c 6s] and won 10 with One pair : 6
+Seat 3: Didleco (big blind) showed [Js Qh] and won 590 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730565320023474177-6-1676985939 - Holdem no limit (15/30) - 2023/02/21 13:25:39 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Parse99 (10)
+Seat 2: _SKR (300)
+Seat 3: Didleco (590)
+*** ANTE/BLINDS ***
+Didleco posts small blind 15
+Parse99 posts big blind 10 and is all-in
+Dealt to _SKR [Qc Ks]
+*** PRE-FLOP *** 
+_SKR raises 285 to 300 and is all-in
+Didleco folds
+*** FLOP *** [7d Kh 9c]
+*** TURN *** [7d Kh 9c][2s]
+*** RIVER *** [7d Kh 9c 2s][Kd]
+*** SHOW DOWN ***
+Parse99 shows [5s 3c] (One pair : Kings)
+_SKR shows [Qc Ks] (Trips of Kings)
+_SKR collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Board: [7d Kh 9c 2s Kd]
+Seat 1: Parse99 (big blind) showed [5s 3c] and lost with One pair : Kings
+Seat 2: _SKR (button) showed [Qc Ks] and won 325 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730565320023474177-7-1676985953 - Holdem no limit (15/30) - 2023/02/21 13:25:53 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (325)
+Seat 3: Didleco (575)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Didleco posts big blind 30
+Dealt to _SKR [7s 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Didleco collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Didleco (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730565320023474177-8-1676985957 - Holdem no limit (15/30) - 2023/02/21 13:25:57 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (310)
+Seat 3: Didleco (590)
+*** ANTE/BLINDS ***
+Didleco posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5c Kd]
+*** PRE-FLOP *** 
+Didleco raises 560 to 590 and is all-in
+_SKR folds
+Didleco collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 3: Didleco (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730565320023474177-9-1676985965 - Holdem no limit (15/30) - 2023/02/21 13:26:05 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (280)
+Seat 3: Didleco (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Didleco posts big blind 30
+Dealt to _SKR [3s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Didleco collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Didleco (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730565320023474177-10-1676985969 - Holdem no limit (15/30) - 2023/02/21 13:26:09 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (265)
+Seat 3: Didleco (635)
+*** ANTE/BLINDS ***
+Didleco posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h 8h]
+*** PRE-FLOP *** 
+Didleco calls 15
+_SKR raises 235 to 265 and is all-in
+Didleco folds
+_SKR collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Seat 2: _SKR (big blind) won 295
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730565320023474177-11-1676985977 - Holdem no limit (15/30) - 2023/02/21 13:26:17 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (295)
+Seat 3: Didleco (605)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Didleco posts big blind 30
+Dealt to _SKR [9d 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Didleco collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Didleco (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730565320023474177-12-1676985983 - Holdem no limit (15/30) - 2023/02/21 13:26:23 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (280)
+Seat 3: Didleco (620)
+*** ANTE/BLINDS ***
+Didleco posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc Qd]
+*** PRE-FLOP *** 
+Didleco calls 15
+_SKR raises 250 to 280 and is all-in
+Didleco folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: _SKR (big blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730565320023474177-13-1676985992 - Holdem no limit (20/40) - 2023/02/21 13:26:32 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (310)
+Seat 3: Didleco (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Didleco posts big blind 40
+Dealt to _SKR [4h Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Didleco collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Didleco (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730565320023474177-14-1676985996 - Holdem no limit (20/40) - 2023/02/21 13:26:36 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (290)
+Seat 3: Didleco (610)
+*** ANTE/BLINDS ***
+Didleco posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9d Kd]
+*** PRE-FLOP *** 
+Didleco calls 20
+_SKR raises 250 to 290 and is all-in
+Didleco folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730565320023474177-15-1676986003 - Holdem no limit (20/40) - 2023/02/21 13:26:43 UTC
+Table: 'Expresso Nitro(635759281)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (330)
+Seat 3: Didleco (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Didleco posts big blind 40
+Dealt to _SKR [Ac 3d]
+*** PRE-FLOP *** 
+_SKR raises 290 to 330 and is all-in
+Didleco calls 290
+*** FLOP *** [Ks Js 6h]
+*** TURN *** [Ks Js 6h][6s]
+*** RIVER *** [Ks Js 6h 6s][Qh]
+*** SHOW DOWN ***
+_SKR shows [Ac 3d] (One pair : 6)
+Didleco shows [Th Jh] (Two pairs : Jacks and 6)
+Didleco collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Ks Js 6h 6s Qh]
+Seat 2: _SKR (small blind) (button) showed [Ac 3d] and lost with One pair : 6
+Seat 3: Didleco (big blind) showed [Th Jh] and won 660 with Two pairs : Jacks and 6
+
+

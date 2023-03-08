@@ -1,0 +1,88 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717942080428048385-1-1676240647 - Holdem no limit (10/20) - 2023/02/12 22:24:07 UTC
+Table: 'Expresso Nitro(632820204)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Yoonki13- (300)
+Seat 3: -Swampy06- (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Yoonki13- posts big blind 20
+Dealt to _SKR [8s Ks]
+*** PRE-FLOP *** 
+-Swampy06- folds
+_SKR raises 20 to 40
+Yoonki13- calls 20
+*** FLOP *** [8c 6s Kh]
+_SKR checks
+Yoonki13- checks
+*** TURN *** [8c 6s Kh][As]
+_SKR bets 28
+Yoonki13- folds
+_SKR collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [8c 6s Kh As]
+Seat 1: _SKR (small blind) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717942080428048385-2-1676240671 - Holdem no limit (10/20) - 2023/02/12 22:24:31 UTC
+Table: 'Expresso Nitro(632820204)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (340)
+Seat 2: Yoonki13- (260)
+Seat 3: -Swampy06- (300)
+*** ANTE/BLINDS ***
+Yoonki13- posts small blind 10
+-Swampy06- posts big blind 20
+Dealt to _SKR [Kd As]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Yoonki13- raises 220 to 260 and is all-in
+-Swampy06- folds
+_SKR raises 80 to 340 and is all-in
+*** FLOP *** [Td 8h Qh]
+*** TURN *** [Td 8h Qh][Ac]
+*** RIVER *** [Td 8h Qh Ac][2s]
+*** SHOW DOWN ***
+_SKR shows [Kd As] (One pair : Aces)
+Yoonki13- shows [8c Ah] (Two pairs : Aces and 8)
+Yoonki13- collected 540 from main pot
+_SKR collected 80 from side pot 1
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Td 8h Qh Ac 2s]
+Seat 1: _SKR (button) showed [Kd As] and won 80 with One pair : Aces
+Seat 2: Yoonki13- (small blind) showed [8c Ah] and won 540 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717942080428048385-3-1676240685 - Holdem no limit (10/20) - 2023/02/12 22:24:45 UTC
+Table: 'Expresso Nitro(632820204)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (80)
+Seat 2: Yoonki13- (540)
+Seat 3: -Swampy06- (280)
+*** ANTE/BLINDS ***
+-Swampy06- posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd 3s]
+*** PRE-FLOP *** 
+Yoonki13- calls 20
+-Swampy06- folds
+_SKR checks
+*** FLOP *** [Qs 4h Kc]
+_SKR checks
+Yoonki13- checks
+*** TURN *** [Qs 4h Kc][6h]
+_SKR bets 25
+Yoonki13- calls 25
+*** RIVER *** [Qs 4h Kc 6h][2c]
+_SKR bets 35 and is all-in
+Yoonki13- calls 35
+*** SHOW DOWN ***
+_SKR shows [Jd 3s] (High card : King)
+Yoonki13- shows [Tc Ah] (High card : Ace)
+Yoonki13- collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [Qs 4h Kc 6h 2c]
+Seat 1: _SKR (big blind) showed [Jd 3s] and lost with High card : King
+Seat 2: Yoonki13- (button) showed [Tc Ah] and won 170 with High card : Ace
+
+

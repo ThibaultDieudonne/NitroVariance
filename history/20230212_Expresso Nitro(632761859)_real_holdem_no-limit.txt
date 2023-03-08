@@ -1,0 +1,226 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717691490561163265-1-1676231776 - Holdem no limit (10/20) - 2023/02/12 19:56:16 UTC
+Table: 'Expresso Nitro(632761859)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ianfish (300)
+Seat 2: _SKR (300)
+Seat 3: enes0668 (300)
+*** ANTE/BLINDS ***
+Ianfish posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h Td]
+*** PRE-FLOP *** 
+enes0668 raises 280 to 300 and is all-in
+Ianfish folds
+_SKR folds
+enes0668 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: enes0668 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717691490561163265-2-1676231788 - Holdem no limit (10/20) - 2023/02/12 19:56:28 UTC
+Table: 'Expresso Nitro(632761859)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ianfish (290)
+Seat 2: _SKR (280)
+Seat 3: enes0668 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+enes0668 posts big blind 20
+Dealt to _SKR [8d 5s]
+*** PRE-FLOP *** 
+Ianfish folds
+_SKR folds
+enes0668 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: enes0668 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717691490561163265-3-1676231799 - Holdem no limit (10/20) - 2023/02/12 19:56:39 UTC
+Table: 'Expresso Nitro(632761859)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ianfish (290)
+Seat 2: _SKR (270)
+Seat 3: enes0668 (340)
+*** ANTE/BLINDS ***
+enes0668 posts small blind 10
+Ianfish posts big blind 20
+Dealt to _SKR [9h As]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+enes0668 raises 70 to 340 and is all-in
+Ianfish folds
+*** FLOP *** [5h Qh Tc]
+*** TURN *** [5h Qh Tc][Ac]
+*** RIVER *** [5h Qh Tc Ac][9d]
+*** SHOW DOWN ***
+_SKR shows [9h As] (Two pairs : Aces and 9)
+enes0668 shows [4h 7d] (High card : Ace)
+enes0668 collected 70 from side pot 1
+_SKR collected 560 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [5h Qh Tc Ac 9d]
+Seat 2: _SKR (button) showed [9h As] and won 560 with Two pairs : Aces and 9
+Seat 3: enes0668 (small blind) showed [4h 7d] and won 70 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717691490561163265-4-1676231819 - Holdem no limit (10/20) - 2023/02/12 19:56:59 UTC
+Table: 'Expresso Nitro(632761859)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ianfish (270)
+Seat 2: _SKR (560)
+Seat 3: enes0668 (70)
+*** ANTE/BLINDS ***
+Ianfish posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As 7h]
+*** PRE-FLOP *** 
+enes0668 raises 50 to 70 and is all-in
+Ianfish folds
+_SKR calls 50
+*** FLOP *** [6d Jh Qs]
+*** TURN *** [6d Jh Qs][4h]
+*** RIVER *** [6d Jh Qs 4h][Td]
+*** SHOW DOWN ***
+enes0668 shows [3c 7s] (High card : Queen)
+_SKR shows [As 7h] (High card : Ace)
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [6d Jh Qs 4h Td]
+Seat 2: _SKR (big blind) showed [As 7h] and won 150 with High card : Ace
+Seat 3: enes0668 (button) showed [3c 7s] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717691490561163265-5-1676231837 - Holdem no limit (15/30) - 2023/02/12 19:57:17 UTC
+Table: 'Expresso Nitro(632761859)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ianfish (260)
+Seat 2: _SKR (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Ianfish posts big blind 30
+Dealt to _SKR [6s Qs]
+*** PRE-FLOP *** 
+_SKR raises 610 to 640 and is all-in
+Ianfish calls 230 and is all-in
+*** FLOP *** [4s 4c 7s]
+*** TURN *** [4s 4c 7s][Jd]
+*** RIVER *** [4s 4c 7s Jd][7c]
+*** SHOW DOWN ***
+Ianfish shows [Ad 6h] (Two pairs : 7 and 4)
+_SKR shows [6s Qs] (Two pairs : 7 and 4)
+_SKR collected 380 from side pot 1
+Ianfish collected 520 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 4c 7s Jd 7c]
+Seat 1: Ianfish (big blind) showed [Ad 6h] and won 520 with Two pairs : 7 and 4
+Seat 2: _SKR (small blind) (button) showed [6s Qs] and won 380 with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717691490561163265-6-1676231849 - Holdem no limit (15/30) - 2023/02/12 19:57:29 UTC
+Table: 'Expresso Nitro(632761859)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ianfish (520)
+Seat 2: _SKR (380)
+*** ANTE/BLINDS ***
+Ianfish posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7c Jc]
+*** PRE-FLOP *** 
+Ianfish calls 15
+_SKR checks
+*** FLOP *** [5h Ah Th]
+_SKR checks
+Ianfish checks
+*** TURN *** [5h Ah Th][Jh]
+_SKR checks
+Ianfish checks
+*** RIVER *** [5h Ah Th Jh][Qd]
+_SKR checks
+Ianfish bets 30
+_SKR folds
+Ianfish collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5h Ah Th Jh Qd]
+Seat 1: Ianfish (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717691490561163265-7-1676231909 - Holdem no limit (20/40) - 2023/02/12 19:58:29 UTC
+Table: 'Expresso Nitro(632761859)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ianfish (550)
+Seat 2: _SKR (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Ianfish posts big blind 40
+Dealt to _SKR [3d 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Ianfish collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Ianfish (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717691490561163265-8-1676231919 - Holdem no limit (20/40) - 2023/02/12 19:58:39 UTC
+Table: 'Expresso Nitro(632761859)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ianfish (570)
+Seat 2: _SKR (330)
+*** ANTE/BLINDS ***
+Ianfish posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c 3s]
+*** PRE-FLOP *** 
+Ianfish calls 20
+_SKR checks
+*** FLOP *** [9c 8c Ks]
+_SKR checks
+Ianfish bets 40
+_SKR folds
+Ianfish collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9c 8c Ks]
+Seat 1: Ianfish (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717691490561163265-9-1676231936 - Holdem no limit (20/40) - 2023/02/12 19:58:56 UTC
+Table: 'Expresso Nitro(632761859)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ianfish (610)
+Seat 2: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Ianfish posts big blind 40
+Dealt to _SKR [Ah 8s]
+*** PRE-FLOP *** 
+_SKR raises 250 to 290 and is all-in
+Ianfish folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: _SKR (small blind) (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717691490561163265-10-1676231950 - Holdem no limit (20/40) - 2023/02/12 19:59:10 UTC
+Table: 'Expresso Nitro(632761859)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ianfish (570)
+Seat 2: _SKR (330)
+*** ANTE/BLINDS ***
+Ianfish posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac 9d]
+*** PRE-FLOP *** 
+Ianfish raises 530 to 570 and is all-in
+_SKR calls 290 and is all-in
+*** FLOP *** [8d Td 7s]
+*** TURN *** [8d Td 7s][3h]
+*** RIVER *** [8d Td 7s 3h][Kc]
+*** SHOW DOWN ***
+_SKR shows [Ac 9d] (High card : Ace)
+Ianfish shows [Ad 3c] (One pair : 3)
+Ianfish collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d Td 7s 3h Kc]
+Seat 1: Ianfish (small blind) (button) showed [Ad 3c] and won 900 with One pair : 3
+Seat 2: _SKR (big blind) showed [Ac 9d] and lost with High card : Ace
+
+

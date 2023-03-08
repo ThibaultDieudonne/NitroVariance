@@ -1,0 +1,116 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729110606010384385-1-1676901134 - Holdem no limit (10/20) - 2023/02/20 13:52:14 UTC
+Table: 'Expresso Nitro(635420579)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Dehas (300)
+Seat 3: Snatch One (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Dehas posts big blind 20
+Dealt to _SKR [Qh 2d]
+*** PRE-FLOP *** 
+Snatch One raises 20 to 40
+_SKR folds
+Dehas calls 20
+*** FLOP *** [Ah 4d Qs]
+Dehas bets 20
+Snatch One calls 20
+*** TURN *** [Ah 4d Qs][4c]
+Dehas checks
+Snatch One bets 50
+Dehas calls 50
+*** RIVER *** [Ah 4d Qs 4c][As]
+Dehas bets 20
+Snatch One raises 60 to 80
+Dehas calls 60
+*** SHOW DOWN ***
+Snatch One shows [9s 6s] (Two pairs : Aces and 4)
+Dehas shows [Ks Ts] (Two pairs : Aces and 4)
+Dehas collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [Ah 4d Qs 4c As]
+Seat 2: Dehas (big blind) showed [Ks Ts] and won 390 with Two pairs : Aces and 4
+Seat 3: Snatch One (button) showed [9s 6s] and lost with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729110606010384385-2-1676901158 - Holdem no limit (10/20) - 2023/02/20 13:52:38 UTC
+Table: 'Expresso Nitro(635420579)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Dehas (500)
+Seat 3: Snatch One (110)
+*** ANTE/BLINDS ***
+Dehas posts small blind 10
+Snatch One posts big blind 20
+Dealt to _SKR [3s 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Dehas calls 10
+Snatch One raises 90 to 110 and is all-in
+Dehas calls 90
+*** FLOP *** [Jd Ad Jc]
+*** TURN *** [Jd Ad Jc][3h]
+*** RIVER *** [Jd Ad Jc 3h][7d]
+*** SHOW DOWN ***
+Snatch One shows [2h 4h] (One pair : Jacks)
+Dehas shows [Td 4s] (One pair : Jacks)
+Dehas collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Jd Ad Jc 3h 7d]
+Seat 2: Dehas (small blind) showed [Td 4s] and won 220 with One pair : Jacks
+Seat 3: Snatch One (big blind) showed [2h 4h] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729110606010384385-3-1676901188 - Holdem no limit (10/20) - 2023/02/20 13:53:08 UTC
+Table: 'Expresso Nitro(635420579)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Dehas (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Dehas posts big blind 20
+Dealt to _SKR [8c Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Dehas calls 20
+*** FLOP *** [7c 5d 3c]
+Dehas checks
+_SKR checks
+*** TURN *** [7c 5d 3c][Ts]
+Dehas checks
+_SKR checks
+*** RIVER *** [7c 5d 3c Ts][9s]
+Dehas bets 20
+_SKR folds
+Dehas collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [7c 5d 3c Ts 9s]
+Seat 2: Dehas (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729110606010384385-4-1676901220 - Holdem no limit (15/30) - 2023/02/20 13:53:40 UTC
+Table: 'Expresso Nitro(635420579)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: Dehas (650)
+*** ANTE/BLINDS ***
+Dehas posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Td Qs]
+*** PRE-FLOP *** 
+Dehas calls 15
+_SKR raises 220 to 250 and is all-in
+Dehas calls 220
+*** FLOP *** [5c 2c 8c]
+*** TURN *** [5c 2c 8c][8d]
+*** RIVER *** [5c 2c 8c 8d][9c]
+*** SHOW DOWN ***
+_SKR shows [Td Qs] (One pair : 8)
+Dehas shows [7d Ad] (One pair : 8)
+Dehas collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [5c 2c 8c 8d 9c]
+Seat 1: _SKR (big blind) showed [Td Qs] and lost with One pair : 8
+Seat 2: Dehas (small blind) (button) showed [7d Ad] and won 500 with One pair : 8
+
+

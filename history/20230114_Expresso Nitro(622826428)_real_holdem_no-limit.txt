@@ -1,0 +1,131 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675019139344498689-1-1673740437 - Holdem no limit (10/20) - 2023/01/14 23:53:57 UTC
+Table: 'Expresso Nitro(622826428)#0' 3-max (real money) Seat #1 is the button
+Seat 1: goldora1 (300)
+Seat 2: _SKR (300)
+Seat 3: Pablo Chance (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Pablo Chance posts big blind 20
+Dealt to _SKR [9s 8h]
+*** PRE-FLOP *** 
+goldora1 calls 20
+_SKR folds
+Pablo Chance checks
+*** FLOP *** [Qs Ad 2s]
+Pablo Chance checks
+goldora1 checks
+*** TURN *** [Qs Ad 2s][Tc]
+Pablo Chance checks
+goldora1 checks
+*** RIVER *** [Qs Ad 2s Tc][4h]
+Pablo Chance checks
+goldora1 bets 20
+Pablo Chance folds
+goldora1 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Qs Ad 2s Tc 4h]
+Seat 1: goldora1 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675019139344498689-2-1673740474 - Holdem no limit (10/20) - 2023/01/14 23:54:34 UTC
+Table: 'Expresso Nitro(622826428)#0' 3-max (real money) Seat #2 is the button
+Seat 1: goldora1 (330)
+Seat 2: _SKR (290)
+Seat 3: Pablo Chance (280)
+*** ANTE/BLINDS ***
+Pablo Chance posts small blind 10
+goldora1 posts big blind 20
+Dealt to _SKR [Kc Tc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Pablo Chance folds
+goldora1 raises 20 to 60
+_SKR calls 20
+*** FLOP *** [6c 3c Th]
+goldora1 bets 46
+_SKR calls 46
+*** TURN *** [6c 3c Th][5d]
+goldora1 checks
+_SKR bets 78
+goldora1 folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [6c 3c Th 5d]
+Seat 2: _SKR (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675019139344498689-3-1673740505 - Holdem no limit (15/30) - 2023/01/14 23:55:05 UTC
+Table: 'Expresso Nitro(622826428)#0' 3-max (real money) Seat #3 is the button
+Seat 1: goldora1 (224)
+Seat 2: _SKR (406)
+Seat 3: Pablo Chance (270)
+*** ANTE/BLINDS ***
+goldora1 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ts 9d]
+*** PRE-FLOP *** 
+Pablo Chance calls 30
+goldora1 calls 15
+_SKR checks
+*** FLOP *** [Tc Jc 2s]
+goldora1 checks
+_SKR checks
+Pablo Chance bets 240 and is all-in
+goldora1 calls 194 and is all-in
+_SKR folds
+*** TURN *** [Tc Jc 2s][2d]
+*** RIVER *** [Tc Jc 2s 2d][9h]
+*** SHOW DOWN ***
+goldora1 shows [9s 8c] (Two pairs : 9 and 2)
+Pablo Chance shows [Jh 7d] (Two pairs : Jacks and 2)
+Pablo Chance collected 524 from pot
+*** SUMMARY ***
+Total pot 524 | No rake
+Board: [Tc Jc 2s 2d 9h]
+Seat 1: goldora1 (small blind) showed [9s 8c] and lost with Two pairs : 9 and 2
+Seat 3: Pablo Chance (button) showed [Jh 7d] and won 524 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675019139344498689-4-1673740545 - Holdem no limit (15/30) - 2023/01/14 23:55:45 UTC
+Table: 'Expresso Nitro(622826428)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (376)
+Seat 3: Pablo Chance (524)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Pablo Chance posts big blind 30
+Dealt to _SKR [2s 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Pablo Chance collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Pablo Chance (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675019139344498689-5-1673740549 - Holdem no limit (15/30) - 2023/01/14 23:55:49 UTC
+Table: 'Expresso Nitro(622826428)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (361)
+Seat 3: Pablo Chance (539)
+*** ANTE/BLINDS ***
+Pablo Chance posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3s Ac]
+*** PRE-FLOP *** 
+Pablo Chance raises 509 to 539 and is all-in
+_SKR calls 331 and is all-in
+*** FLOP *** [8h 9d 2h]
+*** TURN *** [8h 9d 2h][7h]
+*** RIVER *** [8h 9d 2h 7h][Jd]
+*** SHOW DOWN ***
+_SKR shows [3s Ac] (High card : Ace)
+Pablo Chance shows [6c 6h] (One pair : 6)
+Pablo Chance collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h 9d 2h 7h Jd]
+Seat 2: _SKR (big blind) showed [3s Ac] and lost with High card : Ace
+Seat 3: Pablo Chance (small blind) (button) showed [6c 6h] and won 900 with One pair : 6
+
+

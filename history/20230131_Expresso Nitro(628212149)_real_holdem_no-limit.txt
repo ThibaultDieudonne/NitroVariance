@@ -1,0 +1,73 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698150634904879105-1-1675183071 - Holdem no limit (10/20) - 2023/01/31 16:37:51 UTC
+Table: 'Expresso Nitro(628212149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Le Barz (300)
+Seat 2: _SKR (300)
+Seat 3: Cal1m3ro (300)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 10
+Le Barz posts big blind 20
+Dealt to _SKR [9s Ks]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Cal1m3ro calls 30
+Le Barz calls 20
+*** FLOP *** [Qd 3h Qs]
+Cal1m3ro checks
+Le Barz checks
+_SKR checks
+*** TURN *** [Qd 3h Qs][Td]
+Cal1m3ro bets 42
+Le Barz folds
+_SKR folds
+Cal1m3ro collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [Qd 3h Qs Td]
+Seat 3: Cal1m3ro (small blind) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698150634904879105-2-1675183103 - Holdem no limit (10/20) - 2023/01/31 16:38:23 UTC
+Table: 'Expresso Nitro(628212149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Le Barz (260)
+Seat 2: _SKR (260)
+Seat 3: Cal1m3ro (380)
+*** ANTE/BLINDS ***
+Le Barz posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d Kd]
+*** PRE-FLOP *** 
+Cal1m3ro folds
+Le Barz folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698150634904879105-3-1675183109 - Holdem no limit (10/20) - 2023/01/31 16:38:29 UTC
+Table: 'Expresso Nitro(628212149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Le Barz (250)
+Seat 2: _SKR (270)
+Seat 3: Cal1m3ro (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cal1m3ro posts big blind 20
+Dealt to _SKR [7d Kd]
+*** PRE-FLOP *** 
+Le Barz folds
+_SKR raises 250 to 270 and is all-in
+Cal1m3ro raises 110 to 380 and is all-in
+*** FLOP *** [4h 8c 6d]
+*** TURN *** [4h 8c 6d][2s]
+*** RIVER *** [4h 8c 6d 2s][Ac]
+*** SHOW DOWN ***
+_SKR shows [7d Kd] (High card : Ace)
+Cal1m3ro shows [9h 9c] (One pair : 9)
+Cal1m3ro collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [4h 8c 6d 2s Ac]
+Seat 2: _SKR (small blind) showed [7d Kd] and lost with High card : Ace
+Seat 3: Cal1m3ro (big blind) showed [9h 9c] and won 650 with One pair : 9
+
+

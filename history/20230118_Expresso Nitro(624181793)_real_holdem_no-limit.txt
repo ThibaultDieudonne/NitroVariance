@@ -1,0 +1,48 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680840387693641729-1-1674081646 - Holdem no limit (10/20) - 2023/01/18 22:40:46 UTC
+Table: 'Expresso Nitro(624181793)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Qlysse (300)
+Seat 3: Dric43 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Qlysse posts big blind 20
+Dealt to _SKR [Ts 7c]
+*** PRE-FLOP *** 
+Dric43 folds
+_SKR folds
+Qlysse collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Qlysse (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680840387693641729-2-1674081653 - Holdem no limit (10/20) - 2023/01/18 22:40:53 UTC
+Table: 'Expresso Nitro(624181793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Qlysse (310)
+Seat 3: Dric43 (300)
+*** ANTE/BLINDS ***
+Qlysse posts small blind 10
+Dric43 posts big blind 20
+Dealt to _SKR [9d 9h]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Qlysse raises 20 to 310 and is all-in
+Dric43 calls 280 and is all-in
+*** FLOP *** [Tc 4h 2d]
+*** TURN *** [Tc 4h 2d][8h]
+*** RIVER *** [Tc 4h 2d 8h][8d]
+*** SHOW DOWN ***
+_SKR shows [9d 9h] (Two pairs : 9 and 8)
+Qlysse shows [Qh Ad] (One pair : 8)
+Dric43 shows [Qc Th] (Two pairs : Tens and 8)
+Dric43 collected 890 from main pot
+Qlysse collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 4h 2d 8h 8d]
+Seat 1: _SKR (button) showed [9d 9h] and lost with Two pairs : 9 and 8
+Seat 2: Qlysse (small blind) showed [Qh Ad] and won 10 with One pair : 8
+Seat 3: Dric43 (big blind) showed [Qc Th] and won 890 with Two pairs : Tens and 8
+
+

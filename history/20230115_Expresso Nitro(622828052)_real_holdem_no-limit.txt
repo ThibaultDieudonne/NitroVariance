@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675026114371387393-9-1673740808 - Holdem no limit (20/40) - 2023/01/15 00:00:08 UTC
+Table: 'Expresso Nitro(622828052)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (285)
+Seat 2: Hender85 (450)
+Seat 3: TGV ALL IN (165)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Hender85 posts big blind 40
+Dealt to _SKR [Jh 6d]
+*** PRE-FLOP *** 
+TGV ALL IN folds
+_SKR folds
+Hender85 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Hender85 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675026114371387393-10-1673740814 - Holdem no limit (20/40) - 2023/01/15 00:00:14 UTC
+Table: 'Expresso Nitro(622828052)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (265)
+Seat 2: Hender85 (470)
+Seat 3: TGV ALL IN (165)
+*** ANTE/BLINDS ***
+Hender85 posts small blind 20
+TGV ALL IN posts big blind 40
+Dealt to _SKR [9d 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Hender85 raises 430 to 470 and is all-in
+TGV ALL IN folds
+Hender85 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 2: Hender85 (small blind) won 510
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675026114371387393-11-1673740821 - Holdem no limit (20/40) - 2023/01/15 00:00:21 UTC
+Table: 'Expresso Nitro(622828052)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (265)
+Seat 2: Hender85 (510)
+Seat 3: TGV ALL IN (125)
+*** ANTE/BLINDS ***
+TGV ALL IN posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6s Kc]
+*** PRE-FLOP *** 
+Hender85 folds
+TGV ALL IN calls 20
+_SKR raises 225 to 265 and is all-in
+TGV ALL IN calls 85 and is all-in
+*** FLOP *** [6d 9h Js]
+*** TURN *** [6d 9h Js][5c]
+*** RIVER *** [6d 9h Js 5c][7h]
+*** SHOW DOWN ***
+TGV ALL IN shows [6c 4c] (One pair : 6)
+_SKR shows [6s Kc] (One pair : 6)
+_SKR collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [6d 9h Js 5c 7h]
+Seat 1: _SKR (big blind) showed [6s Kc] and won 390 with One pair : 6
+Seat 3: TGV ALL IN (small blind) showed [6c 4c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675026114371387393-12-1673740842 - Holdem no limit (30/60) - 2023/01/15 00:00:42 UTC
+Table: 'Expresso Nitro(622828052)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (390)
+Seat 2: Hender85 (510)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Hender85 posts big blind 60
+Dealt to _SKR [Jc 5d]
+*** PRE-FLOP *** 
+_SKR folds
+Hender85 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Hender85 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675026114371387393-13-1673740846 - Holdem no limit (30/60) - 2023/01/15 00:00:46 UTC
+Table: 'Expresso Nitro(622828052)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (360)
+Seat 2: Hender85 (540)
+*** ANTE/BLINDS ***
+Hender85 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c Js]
+*** PRE-FLOP *** 
+Hender85 raises 480 to 540 and is all-in
+_SKR calls 300 and is all-in
+*** FLOP *** [Qd 3h Th]
+*** TURN *** [Qd 3h Th][2h]
+*** RIVER *** [Qd 3h Th 2h][4d]
+*** SHOW DOWN ***
+_SKR shows [8c Js] (High card : Queen)
+Hender85 shows [Qc 5s] (One pair : Queens)
+Hender85 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd 3h Th 2h 4d]
+Seat 1: _SKR (big blind) showed [8c Js] and lost with High card : Queen
+Seat 2: Hender85 (small blind) (button) showed [Qc 5s] and won 900 with One pair : Queens
+
+

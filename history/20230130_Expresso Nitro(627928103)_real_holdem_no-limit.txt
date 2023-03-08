@@ -1,0 +1,301 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696930666624319489-1-1675103845 - Holdem no limit (10/20) - 2023/01/30 18:37:25 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: H la Kas (300)
+Seat 2: san200 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+H la Kas posts small blind 10
+san200 posts big blind 20
+Dealt to _SKR [5c Ts]
+*** PRE-FLOP *** 
+_SKR folds
+H la Kas raises 40 to 60
+san200 calls 40
+*** FLOP *** [6c 4d 8h]
+H la Kas bets 42
+san200 calls 42
+*** TURN *** [6c 4d 8h][9s]
+H la Kas checks
+san200 checks
+*** RIVER *** [6c 4d 8h 9s][3c]
+H la Kas checks
+san200 checks
+*** SHOW DOWN ***
+H la Kas shows [2d 2c] (One pair : 2)
+san200 shows [6d 7d] (One pair : 6)
+san200 collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [6c 4d 8h 9s 3c]
+Seat 1: H la Kas (small blind) showed [2d 2c] and lost with One pair : 2
+Seat 2: san200 (big blind) showed [6d 7d] and won 204 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696930666624319489-2-1675103865 - Holdem no limit (10/20) - 2023/01/30 18:37:45 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: H la Kas (198)
+Seat 2: san200 (402)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+san200 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd 4s]
+*** PRE-FLOP *** 
+H la Kas calls 20
+san200 calls 10
+_SKR checks
+*** FLOP *** [2s 5d Js]
+san200 checks
+_SKR checks
+H la Kas checks
+*** TURN *** [2s 5d Js][Jc]
+san200 bets 60
+_SKR calls 60
+H la Kas folds
+*** RIVER *** [2s 5d Js Jc][5s]
+san200 checks
+_SKR bets 144
+san200 calls 144
+*** SHOW DOWN ***
+san200 shows [Td 5c] (Full of 5 and Jacks)
+_SKR shows [Jd 4s] (Full of Jacks and 5)
+_SKR collected 468 from pot
+*** SUMMARY ***
+Total pot 468 | No rake
+Board: [2s 5d Js Jc 5s]
+Seat 2: san200 (small blind) showed [Td 5c] and lost with Full of 5 and Jacks
+Seat 3: _SKR (big blind) showed [Jd 4s] and won 468 with Full of Jacks and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696930666624319489-3-1675103924 - Holdem no limit (15/30) - 2023/01/30 18:38:44 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #2 is the button
+Seat 1: H la Kas (178)
+Seat 2: san200 (178)
+Seat 3: _SKR (544)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+H la Kas posts big blind 30
+Dealt to _SKR [6c 2c]
+*** PRE-FLOP *** 
+san200 raises 148 to 178 and is all-in
+_SKR folds
+H la Kas calls 148 and is all-in
+*** FLOP *** [Jd Th 4c]
+*** TURN *** [Jd Th 4c][Jc]
+*** RIVER *** [Jd Th 4c Jc][5d]
+*** SHOW DOWN ***
+san200 shows [7h Qh] (One pair : Jacks)
+H la Kas shows [As 7c] (One pair : Jacks)
+H la Kas collected 371 from pot
+*** SUMMARY ***
+Total pot 371 | No rake
+Board: [Jd Th 4c Jc 5d]
+Seat 1: H la Kas (big blind) showed [As 7c] and won 371 with One pair : Jacks
+Seat 2: san200 (button) showed [7h Qh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696930666624319489-4-1675103937 - Holdem no limit (15/30) - 2023/01/30 18:38:57 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: H la Kas (371)
+Seat 3: _SKR (529)
+*** ANTE/BLINDS ***
+H la Kas posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ac 9h]
+*** PRE-FLOP *** 
+H la Kas calls 15
+_SKR raises 499 to 529 and is all-in
+H la Kas folds
+_SKR collected 559 from pot
+*** SUMMARY ***
+Total pot 559 | No rake
+Seat 3: _SKR (big blind) won 559
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696930666624319489-5-1675103945 - Holdem no limit (15/30) - 2023/01/30 18:39:05 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: H la Kas (341)
+Seat 3: _SKR (559)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+H la Kas posts big blind 30
+Dealt to _SKR [8h 9c]
+*** PRE-FLOP *** 
+_SKR folds
+H la Kas collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: H la Kas (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696930666624319489-6-1675103949 - Holdem no limit (15/30) - 2023/01/30 18:39:09 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: H la Kas (356)
+Seat 3: _SKR (544)
+*** ANTE/BLINDS ***
+H la Kas posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd 4d]
+*** PRE-FLOP *** 
+H la Kas calls 15
+_SKR raises 514 to 544 and is all-in
+H la Kas folds
+_SKR collected 574 from pot
+*** SUMMARY ***
+Total pot 574 | No rake
+Seat 3: _SKR (big blind) won 574
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696930666624319489-7-1675103957 - Holdem no limit (15/30) - 2023/01/30 18:39:17 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: H la Kas (326)
+Seat 3: _SKR (574)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+H la Kas posts big blind 30
+Dealt to _SKR [4d Kd]
+*** PRE-FLOP *** 
+_SKR raises 544 to 574 and is all-in
+H la Kas folds
+_SKR collected 604 from pot
+*** SUMMARY ***
+Total pot 604 | No rake
+Seat 3: _SKR (small blind) (button) won 604
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696930666624319489-8-1675103964 - Holdem no limit (20/40) - 2023/01/30 18:39:24 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: H la Kas (296)
+Seat 3: _SKR (604)
+*** ANTE/BLINDS ***
+H la Kas posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ks 6c]
+*** PRE-FLOP *** 
+H la Kas raises 256 to 296 and is all-in
+_SKR folds
+H la Kas collected 336 from pot
+*** SUMMARY ***
+Total pot 336 | No rake
+Seat 1: H la Kas (small blind) (button) won 336
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696930666624319489-9-1675103970 - Holdem no limit (20/40) - 2023/01/30 18:39:30 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: H la Kas (336)
+Seat 3: _SKR (564)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+H la Kas posts big blind 40
+Dealt to _SKR [4d 9s]
+*** PRE-FLOP *** 
+_SKR folds
+H la Kas collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: H la Kas (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696930666624319489-10-1675103975 - Holdem no limit (20/40) - 2023/01/30 18:39:35 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: H la Kas (356)
+Seat 3: _SKR (544)
+*** ANTE/BLINDS ***
+H la Kas posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2c 3d]
+*** PRE-FLOP *** 
+H la Kas raises 40 to 80
+_SKR folds
+H la Kas collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: H la Kas (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696930666624319489-11-1675103982 - Holdem no limit (20/40) - 2023/01/30 18:39:42 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: H la Kas (396)
+Seat 3: _SKR (504)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+H la Kas posts big blind 40
+Dealt to _SKR [8h 9d]
+*** PRE-FLOP *** 
+_SKR folds
+H la Kas collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: H la Kas (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696930666624319489-12-1675103989 - Holdem no limit (20/40) - 2023/01/30 18:39:49 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: H la Kas (416)
+Seat 3: _SKR (484)
+*** ANTE/BLINDS ***
+H la Kas posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6h 7d]
+*** PRE-FLOP *** 
+H la Kas calls 20
+_SKR checks
+*** FLOP *** [As 7s 8d]
+_SKR checks
+H la Kas checks
+*** TURN *** [As 7s 8d][6s]
+_SKR checks
+H la Kas checks
+*** RIVER *** [As 7s 8d 6s][Jc]
+_SKR bets 80
+H la Kas folds
+_SKR collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [As 7s 8d 6s Jc]
+Seat 3: _SKR (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696930666624319489-13-1675104013 - Holdem no limit (20/40) - 2023/01/30 18:40:13 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #3 is the button
+Seat 1: H la Kas (376)
+Seat 3: _SKR (524)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+H la Kas posts big blind 40
+Dealt to _SKR [Jc 7c]
+*** PRE-FLOP *** 
+_SKR raises 484 to 524 and is all-in
+H la Kas folds
+_SKR collected 564 from pot
+*** SUMMARY ***
+Total pot 564 | No rake
+Seat 3: _SKR (small blind) (button) won 564
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696930666624319489-14-1675104018 - Holdem no limit (20/40) - 2023/01/30 18:40:18 UTC
+Table: 'Expresso Nitro(627928103)#0' 3-max (real money) Seat #1 is the button
+Seat 1: H la Kas (336)
+Seat 3: _SKR (564)
+*** ANTE/BLINDS ***
+H la Kas posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ah 9d]
+*** PRE-FLOP *** 
+H la Kas raises 40 to 80
+_SKR raises 484 to 564 and is all-in
+H la Kas calls 256 and is all-in
+*** FLOP *** [9s 4s 2d]
+*** TURN *** [9s 4s 2d][8h]
+*** RIVER *** [9s 4s 2d 8h][Qh]
+*** SHOW DOWN ***
+H la Kas shows [Jh 6s] (High card : Queen)
+_SKR shows [Ah 9d] (One pair : 9)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 4s 2d 8h Qh]
+Seat 1: H la Kas (small blind) (button) showed [Jh 6s] and lost with High card : Queen
+Seat 3: _SKR (big blind) showed [Ah 9d] and won 900 with One pair : 9
+
+

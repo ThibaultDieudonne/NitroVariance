@@ -1,0 +1,292 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691970722426781697-1-1674775696 - Holdem no limit (10/20) - 2023/01/26 23:28:16 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kaskif46 (300)
+Seat 2: Rose_8400329 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+kaskif46 posts big blind 20
+Dealt to _SKR [6d 7d]
+*** PRE-FLOP *** 
+Rose_8400329 calls 20
+_SKR calls 10
+kaskif46 checks
+*** FLOP *** [As 8s 4s]
+_SKR checks
+kaskif46 checks
+Rose_8400329 checks
+*** TURN *** [As 8s 4s][9d]
+_SKR checks
+kaskif46 bets 20
+Rose_8400329 calls 20
+_SKR calls 20
+*** RIVER *** [As 8s 4s 9d][4c]
+_SKR checks
+kaskif46 bets 120
+Rose_8400329 folds
+_SKR folds
+kaskif46 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [As 8s 4s 9d 4c]
+Seat 1: kaskif46 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691970722426781697-2-1674775736 - Holdem no limit (10/20) - 2023/01/26 23:28:56 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kaskif46 (380)
+Seat 2: Rose_8400329 (260)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+kaskif46 posts small blind 10
+Rose_8400329 posts big blind 20
+Dealt to _SKR [Qc 6h]
+*** PRE-FLOP *** 
+_SKR folds
+kaskif46 calls 10
+Rose_8400329 checks
+*** FLOP *** [4s Qh 8s]
+kaskif46 bets 20
+Rose_8400329 folds
+kaskif46 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [4s Qh 8s]
+Seat 1: kaskif46 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691970722426781697-3-1674775753 - Holdem no limit (15/30) - 2023/01/26 23:29:13 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kaskif46 (400)
+Seat 2: Rose_8400329 (240)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Rose_8400329 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd 7s]
+*** PRE-FLOP *** 
+kaskif46 folds
+Rose_8400329 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691970722426781697-4-1674775760 - Holdem no limit (15/30) - 2023/01/26 23:29:20 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kaskif46 (400)
+Seat 2: Rose_8400329 (225)
+Seat 3: _SKR (275)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+kaskif46 posts big blind 30
+Dealt to _SKR [Ac 6s]
+*** PRE-FLOP *** 
+Rose_8400329 folds
+_SKR raises 245 to 275 and is all-in
+kaskif46 calls 245
+*** FLOP *** [Ad 8c 7d]
+*** TURN *** [Ad 8c 7d][Th]
+*** RIVER *** [Ad 8c 7d Th][6d]
+*** SHOW DOWN ***
+kaskif46 shows [Kc 7s] (One pair : 7)
+_SKR shows [Ac 6s] (Two pairs : Aces and 6)
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Ad 8c 7d Th 6d]
+Seat 1: kaskif46 (big blind) showed [Kc 7s] and lost with One pair : 7
+Seat 3: _SKR (small blind) showed [Ac 6s] and won 550 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691970722426781697-5-1674775780 - Holdem no limit (15/30) - 2023/01/26 23:29:40 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kaskif46 (125)
+Seat 2: Rose_8400329 (225)
+Seat 3: _SKR (550)
+*** ANTE/BLINDS ***
+kaskif46 posts small blind 15
+Rose_8400329 posts big blind 30
+Dealt to _SKR [9s Th]
+*** PRE-FLOP *** 
+_SKR folds
+kaskif46 raises 95 to 125 and is all-in
+Rose_8400329 calls 95
+*** FLOP *** [Ac 5d 4h]
+*** TURN *** [Ac 5d 4h][9d]
+*** RIVER *** [Ac 5d 4h 9d][2d]
+*** SHOW DOWN ***
+Rose_8400329 shows [Jc 8d] (High card : Ace)
+kaskif46 shows [Kc Qc] (High card : Ace)
+kaskif46 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [Ac 5d 4h 9d 2d]
+Seat 1: kaskif46 (small blind) showed [Kc Qc] and won 250 with High card : Ace
+Seat 2: Rose_8400329 (big blind) showed [Jc 8d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691970722426781697-6-1674775800 - Holdem no limit (15/30) - 2023/01/26 23:30:00 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kaskif46 (250)
+Seat 2: Rose_8400329 (100)
+Seat 3: _SKR (550)
+*** ANTE/BLINDS ***
+Rose_8400329 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2h Kd]
+*** PRE-FLOP *** 
+kaskif46 folds
+Rose_8400329 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691970722426781697-7-1674775807 - Holdem no limit (15/30) - 2023/01/26 23:30:07 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kaskif46 (250)
+Seat 2: Rose_8400329 (85)
+Seat 3: _SKR (565)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+kaskif46 posts big blind 30
+Dealt to _SKR [8s 4c]
+*** PRE-FLOP *** 
+Rose_8400329 calls 30
+_SKR folds
+kaskif46 raises 60 to 90
+Rose_8400329 calls 55 and is all-in
+*** FLOP *** [3s 8h Kd]
+*** TURN *** [3s 8h Kd][4h]
+*** RIVER *** [3s 8h Kd 4h][7c]
+*** SHOW DOWN ***
+Rose_8400329 shows [As Jc] (High card : Ace)
+kaskif46 shows [7h 3h] (Two pairs : 7 and 3)
+kaskif46 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [3s 8h Kd 4h 7c]
+Seat 1: kaskif46 (big blind) showed [7h 3h] and won 190 with Two pairs : 7 and 3
+Seat 2: Rose_8400329 (button) showed [As Jc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691970722426781697-8-1674775824 - Holdem no limit (20/40) - 2023/01/26 23:30:24 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kaskif46 (350)
+Seat 3: _SKR (550)
+*** ANTE/BLINDS ***
+kaskif46 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6c 4c]
+*** PRE-FLOP *** 
+kaskif46 raises 310 to 350 and is all-in
+_SKR folds
+kaskif46 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 1: kaskif46 (small blind) (button) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691970722426781697-9-1674775829 - Holdem no limit (20/40) - 2023/01/26 23:30:29 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kaskif46 (390)
+Seat 3: _SKR (510)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+kaskif46 posts big blind 40
+Dealt to _SKR [9s Th]
+*** PRE-FLOP *** 
+_SKR folds
+kaskif46 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: kaskif46 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691970722426781697-10-1674775837 - Holdem no limit (20/40) - 2023/01/26 23:30:37 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kaskif46 (410)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+kaskif46 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9s Qs]
+*** PRE-FLOP *** 
+kaskif46 calls 20
+_SKR raises 450 to 490 and is all-in
+kaskif46 folds
+_SKR collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: _SKR (big blind) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691970722426781697-11-1674775845 - Holdem no limit (20/40) - 2023/01/26 23:30:45 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kaskif46 (370)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+kaskif46 posts big blind 40
+Dealt to _SKR [2s Qh]
+*** PRE-FLOP *** 
+_SKR folds
+kaskif46 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: kaskif46 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691970722426781697-12-1674775862 - Holdem no limit (20/40) - 2023/01/26 23:31:02 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kaskif46 (390)
+Seat 3: _SKR (510)
+*** ANTE/BLINDS ***
+kaskif46 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac Td]
+*** PRE-FLOP *** 
+kaskif46 raises 350 to 390 and is all-in
+_SKR calls 350
+*** FLOP *** [3h 5h Qc]
+*** TURN *** [3h 5h Qc][Qh]
+*** RIVER *** [3h 5h Qc Qh][9c]
+*** SHOW DOWN ***
+_SKR shows [Ac Td] (One pair : Queens)
+kaskif46 shows [Jc Qs] (Trips of Queens)
+kaskif46 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [3h 5h Qc Qh 9c]
+Seat 1: kaskif46 (small blind) (button) showed [Jc Qs] and won 780 with Trips of Queens
+Seat 3: _SKR (big blind) showed [Ac Td] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691970722426781697-13-1674775886 - Holdem no limit (30/60) - 2023/01/26 23:31:26 UTC
+Table: 'Expresso Nitro(626773276)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kaskif46 (780)
+Seat 3: _SKR (120)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+kaskif46 posts big blind 60
+Dealt to _SKR [2h 4d]
+*** PRE-FLOP *** 
+_SKR raises 60 to 120 and is all-in
+kaskif46 calls 60
+*** FLOP *** [Qs 8s 8h]
+*** TURN *** [Qs 8s 8h][Qh]
+*** RIVER *** [Qs 8s 8h Qh][Ts]
+*** SHOW DOWN ***
+_SKR shows [2h 4d] (Two pairs : Queens and 8)
+kaskif46 shows [9c Ah] (Two pairs : Queens and 8)
+kaskif46 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Qs 8s 8h Qh Ts]
+Seat 1: kaskif46 (big blind) showed [9c Ah] and won 240 with Two pairs : Queens and 8
+Seat 3: _SKR (small blind) (button) showed [2h 4d] and lost with Two pairs : Queens and 8
+
+

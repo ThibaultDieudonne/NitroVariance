@@ -1,0 +1,76 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717870680891719681-1-1676238327 - Holdem no limit (10/20) - 2023/02/12 21:45:27 UTC
+Table: 'Expresso Nitro(632803580)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Steegoo (300)
+Seat 2: _SKR (300)
+Seat 3: Fils_De_Fish (300)
+*** ANTE/BLINDS ***
+Steegoo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad 2c]
+*** PRE-FLOP *** 
+Fils_De_Fish folds
+Steegoo calls 10
+_SKR raises 280 to 300 and is all-in
+Steegoo folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717870680891719681-2-1676238336 - Holdem no limit (10/20) - 2023/02/12 21:45:36 UTC
+Table: 'Expresso Nitro(632803580)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Steegoo (280)
+Seat 2: _SKR (320)
+Seat 3: Fils_De_Fish (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Fils_De_Fish posts big blind 20
+Dealt to _SKR [8d 8c]
+*** PRE-FLOP *** 
+Steegoo folds
+_SKR raises 300 to 320 and is all-in
+Fils_De_Fish calls 280 and is all-in
+*** FLOP *** [3c 2c 5h]
+*** TURN *** [3c 2c 5h][8s]
+*** RIVER *** [3c 2c 5h 8s][Th]
+*** SHOW DOWN ***
+_SKR shows [8d 8c] (Trips of 8)
+Fils_De_Fish shows [As 4h] (Straight 5 high)
+Fils_De_Fish collected 600 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [3c 2c 5h 8s Th]
+Seat 2: _SKR (small blind) showed [8d 8c] and won 20 with Trips of 8
+Seat 3: Fils_De_Fish (big blind) showed [As 4h] and won 600 with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717870680891719681-3-1676238353 - Holdem no limit (10/20) - 2023/02/12 21:45:53 UTC
+Table: 'Expresso Nitro(632803580)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Steegoo (280)
+Seat 2: _SKR (20)
+Seat 3: Fils_De_Fish (600)
+*** ANTE/BLINDS ***
+Fils_De_Fish posts small blind 10
+Steegoo posts big blind 20
+Dealt to _SKR [Kc Jd]
+*** PRE-FLOP *** 
+_SKR calls 20 and is all-in
+Fils_De_Fish calls 10
+Steegoo raises 260 to 280 and is all-in
+Fils_De_Fish folds
+*** FLOP *** [Qd 8s 3d]
+*** TURN *** [Qd 8s 3d][Qh]
+*** RIVER *** [Qd 8s 3d Qh][2h]
+*** SHOW DOWN ***
+_SKR shows [Kc Jd] (One pair : Queens)
+Steegoo shows [7c Ah] (One pair : Queens)
+Steegoo collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Qd 8s 3d Qh 2h]
+Seat 1: Steegoo (big blind) showed [7c Ah] and won 320 with One pair : Queens
+Seat 2: _SKR (button) showed [Kc Jd] and lost with One pair : Queens
+
+

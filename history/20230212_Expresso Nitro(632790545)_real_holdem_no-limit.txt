@@ -1,0 +1,266 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814695993016321-1-1676236308 - Holdem no limit (10/20) - 2023/02/12 21:11:48 UTC
+Table: 'Expresso Nitro(632790545)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: killertony (300)
+Seat 3: Bat123345 (300)
+*** ANTE/BLINDS ***
+Bat123345 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd Tc]
+*** PRE-FLOP *** 
+killertony folds
+Bat123345 calls 10
+_SKR raises 30 to 50
+Bat123345 calls 30
+*** FLOP *** [8h Jc 7h]
+Bat123345 checks
+_SKR bets 50
+Bat123345 calls 50
+*** TURN *** [8h Jc 7h][2d]
+Bat123345 checks
+_SKR checks
+*** RIVER *** [8h Jc 7h 2d][5c]
+Bat123345 checks
+_SKR checks
+*** SHOW DOWN ***
+Bat123345 shows [Qh 6h] (High card : Queen)
+_SKR shows [Kd Tc] (High card : King)
+_SKR collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [8h Jc 7h 2d 5c]
+Seat 1: _SKR (big blind) showed [Kd Tc] and won 200 with High card : King
+Seat 3: Bat123345 (small blind) showed [Qh 6h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814695993016321-2-1676236337 - Holdem no limit (10/20) - 2023/02/12 21:12:17 UTC
+Table: 'Expresso Nitro(632790545)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (400)
+Seat 2: killertony (300)
+Seat 3: Bat123345 (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+killertony posts big blind 20
+Dealt to _SKR [6s 3d]
+*** PRE-FLOP *** 
+Bat123345 raises 180 to 200 and is all-in
+_SKR folds
+killertony folds
+Bat123345 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Seat 3: Bat123345 (button) won 230
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814695993016321-3-1676236344 - Holdem no limit (10/20) - 2023/02/12 21:12:24 UTC
+Table: 'Expresso Nitro(632790545)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (390)
+Seat 2: killertony (280)
+Seat 3: Bat123345 (230)
+*** ANTE/BLINDS ***
+killertony posts small blind 10
+Bat123345 posts big blind 20
+Dealt to _SKR [8s 4d]
+*** PRE-FLOP *** 
+_SKR folds
+killertony raises 40 to 60
+Bat123345 calls 40
+*** FLOP *** [Kd Js 2s]
+killertony bets 78
+Bat123345 folds
+killertony collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [Kd Js 2s]
+Seat 2: killertony (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814695993016321-4-1676236357 - Holdem no limit (10/20) - 2023/02/12 21:12:37 UTC
+Table: 'Expresso Nitro(632790545)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (390)
+Seat 2: killertony (340)
+Seat 3: Bat123345 (170)
+*** ANTE/BLINDS ***
+Bat123345 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5c 3h]
+*** PRE-FLOP *** 
+killertony folds
+Bat123345 calls 10
+_SKR checks
+*** FLOP *** [Ah 6c 3s]
+Bat123345 bets 150 and is all-in
+_SKR folds
+Bat123345 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [Ah 6c 3s]
+Seat 3: Bat123345 (small blind) won 190
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717814695993016321-5-1676236382 - Holdem no limit (15/30) - 2023/02/12 21:13:02 UTC
+Table: 'Expresso Nitro(632790545)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (370)
+Seat 2: killertony (340)
+Seat 3: Bat123345 (190)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+killertony posts big blind 30
+Dealt to _SKR [As 9d]
+*** PRE-FLOP *** 
+Bat123345 calls 30
+_SKR raises 340 to 370 and is all-in
+killertony folds
+Bat123345 calls 160 and is all-in
+*** FLOP *** [Th 4c Qd]
+*** TURN *** [Th 4c Qd][Ts]
+*** RIVER *** [Th 4c Qd Ts][Ks]
+*** SHOW DOWN ***
+_SKR shows [As 9d] (One pair : Tens)
+Bat123345 shows [9c Qc] (Two pairs : Queens and Tens)
+Bat123345 collected 410 from main pot
+_SKR collected 180 from side pot 1
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Th 4c Qd Ts Ks]
+Seat 1: _SKR (small blind) showed [As 9d] and won 180 with One pair : Tens
+Seat 3: Bat123345 (button) showed [9c Qc] and won 410 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717814695993016321-6-1676236398 - Holdem no limit (15/30) - 2023/02/12 21:13:18 UTC
+Table: 'Expresso Nitro(632790545)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (180)
+Seat 2: killertony (310)
+Seat 3: Bat123345 (410)
+*** ANTE/BLINDS ***
+killertony posts small blind 15
+Bat123345 posts big blind 30
+Dealt to _SKR [8c 6h]
+*** PRE-FLOP *** 
+_SKR folds
+killertony calls 15
+Bat123345 checks
+*** FLOP *** [3c 7d Js]
+killertony bets 30
+Bat123345 calls 30
+*** TURN *** [3c 7d Js][2s]
+killertony bets 120
+Bat123345 calls 120
+*** RIVER *** [3c 7d Js 2s][Ts]
+killertony bets 130 and is all-in
+Bat123345 folds
+killertony collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [3c 7d Js 2s Ts]
+Seat 2: killertony (small blind) won 490
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717814695993016321-7-1676236417 - Holdem no limit (15/30) - 2023/02/12 21:13:37 UTC
+Table: 'Expresso Nitro(632790545)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (180)
+Seat 2: killertony (490)
+Seat 3: Bat123345 (230)
+*** ANTE/BLINDS ***
+Bat123345 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8h 3d]
+*** PRE-FLOP *** 
+killertony folds
+Bat123345 calls 15
+_SKR checks
+*** FLOP *** [9d Td 9s]
+Bat123345 checks
+_SKR checks
+*** TURN *** [9d Td 9s][6c]
+Bat123345 checks
+_SKR checks
+*** RIVER *** [9d Td 9s 6c][Ad]
+Bat123345 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [8h 3d] (One pair : 9)
+Bat123345 shows [Js 7s] (One pair : 9)
+Bat123345 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9d Td 9s 6c Ad]
+Seat 1: _SKR (big blind) showed [8h 3d] and lost with One pair : 9
+Seat 3: Bat123345 (small blind) showed [Js 7s] and won 60 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717814695993016321-8-1676236449 - Holdem no limit (20/40) - 2023/02/12 21:14:09 UTC
+Table: 'Expresso Nitro(632790545)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (150)
+Seat 2: killertony (490)
+Seat 3: Bat123345 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+killertony posts big blind 40
+Dealt to _SKR [6c 3c]
+*** PRE-FLOP *** 
+Bat123345 calls 40
+_SKR folds
+killertony checks
+*** FLOP *** [5h Kh 2h]
+killertony checks
+Bat123345 bets 40
+killertony raises 40 to 80
+Bat123345 raises 140 to 220 and is all-in
+killertony calls 140
+*** TURN *** [5h Kh 2h][3s]
+*** RIVER *** [5h Kh 2h 3s][3h]
+*** SHOW DOWN ***
+Bat123345 shows [As 7d] (One pair : 3)
+killertony shows [Th 7h] (Flush King high)
+killertony collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [5h Kh 2h 3s 3h]
+Seat 2: killertony (big blind) showed [Th 7h] and won 540 with Flush King high
+Seat 3: Bat123345 (button) showed [As 7d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717814695993016321-9-1676236471 - Holdem no limit (20/40) - 2023/02/12 21:14:31 UTC
+Table: 'Expresso Nitro(632790545)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (130)
+Seat 2: killertony (770)
+*** ANTE/BLINDS ***
+killertony posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ts Kh]
+*** PRE-FLOP *** 
+killertony calls 20
+_SKR raises 90 to 130 and is all-in
+killertony folds
+_SKR collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Seat 1: _SKR (big blind) won 170
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717814695993016321-10-1676236483 - Holdem no limit (20/40) - 2023/02/12 21:14:43 UTC
+Table: 'Expresso Nitro(632790545)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (170)
+Seat 2: killertony (730)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+killertony posts big blind 40
+Dealt to _SKR [Kc 3d]
+*** PRE-FLOP *** 
+_SKR raises 130 to 170 and is all-in
+killertony calls 130
+*** FLOP *** [9d Qh 9h]
+*** TURN *** [9d Qh 9h][6s]
+*** RIVER *** [9d Qh 9h 6s][Jh]
+*** SHOW DOWN ***
+_SKR shows [Kc 3d] (One pair : 9)
+killertony shows [As Ah] (Two pairs : Aces and 9)
+killertony collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [9d Qh 9h 6s Jh]
+Seat 1: _SKR (small blind) (button) showed [Kc 3d] and lost with One pair : 9
+Seat 2: killertony (big blind) showed [As Ah] and won 340 with Two pairs : Aces and 9
+
+

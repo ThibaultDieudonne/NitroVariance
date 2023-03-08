@@ -1,0 +1,303 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698238101913862145-1-1675186869 - Holdem no limit (10/20) - 2023/01/31 17:41:09 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #1 is the button
+Seat 1: enigmatics (300)
+Seat 2: Ratchet7 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Ratchet7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7s 4h]
+*** PRE-FLOP *** 
+enigmatics folds
+Ratchet7 calls 10
+_SKR checks
+*** FLOP *** [Kd Ac 9d]
+Ratchet7 bets 20
+_SKR folds
+Ratchet7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kd Ac 9d]
+Seat 2: Ratchet7 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698238101913862145-2-1675186880 - Holdem no limit (10/20) - 2023/01/31 17:41:20 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #2 is the button
+Seat 1: enigmatics (300)
+Seat 2: Ratchet7 (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+enigmatics posts big blind 20
+Dealt to _SKR [8s 6d]
+*** PRE-FLOP *** 
+Ratchet7 raises 20 to 40
+_SKR folds
+enigmatics calls 20
+*** FLOP *** [As 2h 9h]
+enigmatics checks
+Ratchet7 bets 20
+enigmatics folds
+Ratchet7 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [As 2h 9h]
+Seat 2: Ratchet7 (button) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698238101913862145-3-1675186898 - Holdem no limit (10/20) - 2023/01/31 17:41:38 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #3 is the button
+Seat 1: enigmatics (260)
+Seat 2: Ratchet7 (370)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+enigmatics posts small blind 10
+Ratchet7 posts big blind 20
+Dealt to _SKR [6c 5d]
+*** PRE-FLOP *** 
+_SKR folds
+enigmatics folds
+Ratchet7 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Ratchet7 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698238101913862145-4-1675186906 - Holdem no limit (10/20) - 2023/01/31 17:41:46 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #1 is the button
+Seat 1: enigmatics (250)
+Seat 2: Ratchet7 (380)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Ratchet7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 5c]
+*** PRE-FLOP *** 
+enigmatics calls 20
+Ratchet7 calls 10
+_SKR raises 250 to 270 and is all-in
+enigmatics calls 230 and is all-in
+Ratchet7 folds
+*** FLOP *** [8h 2c Jc]
+*** TURN *** [8h 2c Jc][7s]
+*** RIVER *** [8h 2c Jc 7s][3c]
+*** SHOW DOWN ***
+enigmatics shows [8d Jd] (Two pairs : Jacks and 8)
+_SKR shows [Ah 5c] (High card : Ace)
+_SKR collected 20 from side pot 1
+enigmatics collected 520 from main pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [8h 2c Jc 7s 3c]
+Seat 1: enigmatics (button) showed [8d Jd] and won 520 with Two pairs : Jacks and 8
+Seat 3: _SKR (big blind) showed [Ah 5c] and won 20 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698238101913862145-5-1675186921 - Holdem no limit (10/20) - 2023/01/31 17:42:01 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #2 is the button
+Seat 1: enigmatics (520)
+Seat 2: Ratchet7 (360)
+Seat 3: _SKR (20)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+enigmatics posts big blind 20
+Dealt to _SKR [8h Qh]
+*** PRE-FLOP *** 
+Ratchet7 calls 20
+_SKR calls 10 and is all-in
+enigmatics checks
+*** FLOP *** [8c 4d 5d]
+enigmatics checks
+Ratchet7 bets 20
+enigmatics folds
+*** TURN *** [8c 4d 5d][6c]
+*** RIVER *** [8c 4d 5d 6c][9c]
+*** SHOW DOWN ***
+Ratchet7 shows [6h Jh] (One pair : 6)
+_SKR shows [8h Qh] (One pair : 8)
+_SKR collected 60 from main pot
+Ratchet7 collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8c 4d 5d 6c 9c]
+Seat 2: Ratchet7 (button) showed [6h Jh] and won 20 with One pair : 6
+Seat 3: _SKR (small blind) showed [8h Qh] and won 60 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698238101913862145-6-1675186945 - Holdem no limit (15/30) - 2023/01/31 17:42:25 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #3 is the button
+Seat 1: enigmatics (500)
+Seat 2: Ratchet7 (340)
+Seat 3: _SKR (60)
+*** ANTE/BLINDS ***
+enigmatics posts small blind 15
+Ratchet7 posts big blind 30
+Dealt to _SKR [Tc 9h]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60 and is all-in
+enigmatics folds
+Ratchet7 calls 30
+*** FLOP *** [Th Ad 8h]
+*** TURN *** [Th Ad 8h][3h]
+*** RIVER *** [Th Ad 8h 3h][2c]
+*** SHOW DOWN ***
+Ratchet7 shows [6d 6h] (One pair : 6)
+_SKR shows [Tc 9h] (One pair : Tens)
+_SKR collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Th Ad 8h 3h 2c]
+Seat 2: Ratchet7 (big blind) showed [6d 6h] and lost with One pair : 6
+Seat 3: _SKR (button) showed [Tc 9h] and won 135 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698238101913862145-7-1675186964 - Holdem no limit (15/30) - 2023/01/31 17:42:44 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #1 is the button
+Seat 1: enigmatics (485)
+Seat 2: Ratchet7 (280)
+Seat 3: _SKR (135)
+*** ANTE/BLINDS ***
+Ratchet7 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4h Jc]
+*** PRE-FLOP *** 
+enigmatics calls 30
+Ratchet7 folds
+_SKR checks
+*** FLOP *** [Qd 2h Ad]
+_SKR checks
+enigmatics checks
+*** TURN *** [Qd 2h Ad][2s]
+_SKR checks
+enigmatics checks
+*** RIVER *** [Qd 2h Ad 2s][7h]
+_SKR checks
+enigmatics checks
+*** SHOW DOWN ***
+_SKR shows [4h Jc] (One pair : 2)
+enigmatics shows [Ah 4s] (Two pairs : Aces and 2)
+enigmatics collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [Qd 2h Ad 2s 7h]
+Seat 1: enigmatics (button) showed [Ah 4s] and won 75 with Two pairs : Aces and 2
+Seat 3: _SKR (big blind) showed [4h Jc] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698238101913862145-8-1675186994 - Holdem no limit (20/40) - 2023/01/31 17:43:14 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #2 is the button
+Seat 1: enigmatics (530)
+Seat 2: Ratchet7 (265)
+Seat 3: _SKR (105)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+enigmatics posts big blind 40
+Dealt to _SKR [7s 3d]
+*** PRE-FLOP *** 
+Ratchet7 calls 40
+_SKR folds
+enigmatics checks
+*** FLOP *** [4c 3s Qc]
+enigmatics bets 40
+Ratchet7 calls 40
+*** TURN *** [4c 3s Qc][Jd]
+enigmatics checks
+Ratchet7 bets 185 and is all-in
+enigmatics calls 185
+*** RIVER *** [4c 3s Qc Jd][6d]
+*** SHOW DOWN ***
+enigmatics shows [Ah Kd] (High card : Ace)
+Ratchet7 shows [Qd 8s] (One pair : Queens)
+Ratchet7 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [4c 3s Qc Jd 6d]
+Seat 1: enigmatics (big blind) showed [Ah Kd] and lost with High card : Ace
+Seat 2: Ratchet7 (button) showed [Qd 8s] and won 550 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698238101913862145-9-1675187016 - Holdem no limit (20/40) - 2023/01/31 17:43:36 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #3 is the button
+Seat 1: enigmatics (265)
+Seat 2: Ratchet7 (550)
+Seat 3: _SKR (85)
+*** ANTE/BLINDS ***
+enigmatics posts small blind 20
+Ratchet7 posts big blind 40
+Dealt to _SKR [Th 2d]
+*** PRE-FLOP *** 
+_SKR folds
+enigmatics calls 20
+Ratchet7 raises 510 to 550 and is all-in
+enigmatics calls 225 and is all-in
+*** FLOP *** [Ah 4d 6c]
+*** TURN *** [Ah 4d 6c][5d]
+*** RIVER *** [Ah 4d 6c 5d][3d]
+*** SHOW DOWN ***
+enigmatics shows [7d Ks] (Straight 7 high)
+Ratchet7 shows [Kd Jh] (High card : Ace)
+Ratchet7 collected 285 from side pot 1
+enigmatics collected 530 from main pot
+*** SUMMARY ***
+Total pot 815 | No rake
+Board: [Ah 4d 6c 5d 3d]
+Seat 1: enigmatics (small blind) showed [7d Ks] and won 530 with Straight 7 high
+Seat 2: Ratchet7 (big blind) showed [Kd Jh] and won 285 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698238101913862145-10-1675187033 - Holdem no limit (20/40) - 2023/01/31 17:43:53 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #1 is the button
+Seat 1: enigmatics (530)
+Seat 2: Ratchet7 (285)
+Seat 3: _SKR (85)
+*** ANTE/BLINDS ***
+Ratchet7 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js Ks]
+*** PRE-FLOP *** 
+enigmatics folds
+Ratchet7 raises 40 to 80
+_SKR raises 5 to 85 and is all-in
+Ratchet7 calls 5
+*** FLOP *** [5s 7s 5c]
+*** TURN *** [5s 7s 5c][Qh]
+*** RIVER *** [5s 7s 5c Qh][Ah]
+*** SHOW DOWN ***
+Ratchet7 shows [Kd 9c] (One pair : 5)
+_SKR shows [Js Ks] (One pair : 5)
+_SKR collected 85 from pot
+Ratchet7 collected 85 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [5s 7s 5c Qh Ah]
+Seat 2: Ratchet7 (small blind) showed [Kd 9c] and won 85 with One pair : 5
+Seat 3: _SKR (big blind) showed [Js Ks] and won 85 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698238101913862145-11-1675187049 - Holdem no limit (30/60) - 2023/01/31 17:44:09 UTC
+Table: 'Expresso Nitro(628232514)#0' 3-max (real money) Seat #2 is the button
+Seat 1: enigmatics (530)
+Seat 2: Ratchet7 (285)
+Seat 3: _SKR (85)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+enigmatics posts big blind 60
+Dealt to _SKR [Jh 5s]
+*** PRE-FLOP *** 
+Ratchet7 folds
+_SKR raises 25 to 85 and is all-in
+enigmatics calls 25
+*** FLOP *** [2d Tc 8c]
+*** TURN *** [2d Tc 8c][4h]
+*** RIVER *** [2d Tc 8c 4h][Ad]
+*** SHOW DOWN ***
+_SKR shows [Jh 5s] (High card : Ace)
+enigmatics shows [As Ts] (Two pairs : Aces and Tens)
+enigmatics collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [2d Tc 8c 4h Ad]
+Seat 1: enigmatics (big blind) showed [As Ts] and won 170 with Two pairs : Aces and Tens
+Seat 3: _SKR (small blind) showed [Jh 5s] and lost with High card : Ace
+
+

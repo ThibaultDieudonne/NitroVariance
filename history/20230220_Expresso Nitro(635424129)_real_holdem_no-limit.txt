@@ -1,0 +1,67 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729125853144285185-1-1676901882 - Holdem no limit (10/20) - 2023/02/20 14:04:42 UTC
+Table: 'Expresso Nitro(635424129)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Totoro85 (300)
+Seat 3: Daroda19 (300)
+*** ANTE/BLINDS ***
+Totoro85 posts small blind 10
+Daroda19 posts big blind 20
+Dealt to _SKR [Td Qh]
+*** PRE-FLOP *** 
+_SKR folds
+Totoro85 raises 30 to 50
+Daroda19 raises 30 to 80
+Totoro85 raises 220 to 300 and is all-in
+Daroda19 folds
+Totoro85 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 2: Totoro85 (small blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729125853144285185-2-1676901905 - Holdem no limit (10/20) - 2023/02/20 14:05:05 UTC
+Table: 'Expresso Nitro(635424129)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Totoro85 (380)
+Seat 3: Daroda19 (220)
+*** ANTE/BLINDS ***
+Daroda19 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c 2d]
+*** PRE-FLOP *** 
+Totoro85 raises 20 to 40
+Daroda19 folds
+_SKR folds
+Totoro85 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: Totoro85 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729125853144285185-3-1676901916 - Holdem no limit (10/20) - 2023/02/20 14:05:16 UTC
+Table: 'Expresso Nitro(635424129)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Totoro85 (410)
+Seat 3: Daroda19 (210)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Totoro85 posts big blind 20
+Dealt to _SKR [8d Ah]
+*** PRE-FLOP *** 
+Daroda19 folds
+_SKR raises 260 to 280 and is all-in
+Totoro85 raises 130 to 410 and is all-in
+*** FLOP *** [Qs 4h 3s]
+*** TURN *** [Qs 4h 3s][5h]
+*** RIVER *** [Qs 4h 3s 5h][Kc]
+*** SHOW DOWN ***
+_SKR shows [8d Ah] (High card : Ace)
+Totoro85 shows [Ks Kd] (Trips of Kings)
+Totoro85 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [Qs 4h 3s 5h Kc]
+Seat 1: _SKR (small blind) showed [8d Ah] and lost with High card : Ace
+Seat 2: Totoro85 (big blind) showed [Ks Kd] and won 690 with Trips of Kings
+
+

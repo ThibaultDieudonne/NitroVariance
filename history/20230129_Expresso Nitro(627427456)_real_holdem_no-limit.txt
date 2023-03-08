@@ -1,0 +1,184 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694780404132478977-1-1674956643 - Holdem no limit (10/20) - 2023/01/29 01:44:03 UTC
+Table: 'Expresso Nitro(627427456)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lulu73o00 (300)
+Seat 2: _SKR (300)
+Seat 3: aurelien-17 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+aurelien-17 posts big blind 20
+Dealt to _SKR [Kd 2d]
+*** PRE-FLOP *** 
+Lulu73o00 folds
+_SKR calls 10
+aurelien-17 checks
+*** FLOP *** [7c 2h 9s]
+_SKR checks
+aurelien-17 checks
+*** TURN *** [7c 2h 9s][8c]
+_SKR checks
+aurelien-17 bets 20
+_SKR folds
+aurelien-17 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7c 2h 9s 8c]
+Seat 3: aurelien-17 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694780404132478977-2-1674956664 - Holdem no limit (10/20) - 2023/01/29 01:44:24 UTC
+Table: 'Expresso Nitro(627427456)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lulu73o00 (300)
+Seat 2: _SKR (280)
+Seat 3: aurelien-17 (320)
+*** ANTE/BLINDS ***
+aurelien-17 posts small blind 10
+Lulu73o00 posts big blind 20
+Dealt to _SKR [8h Ks]
+*** PRE-FLOP *** 
+_SKR folds
+aurelien-17 calls 10
+Lulu73o00 raises 280 to 300 and is all-in
+aurelien-17 raises 20 to 320 and is all-in
+*** FLOP *** [8c 9h 5d]
+*** TURN *** [8c 9h 5d][Qs]
+*** RIVER *** [8c 9h 5d Qs][6d]
+*** SHOW DOWN ***
+Lulu73o00 shows [Ad 6c] (One pair : 6)
+aurelien-17 shows [7c Kc] (Straight 9 high)
+aurelien-17 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8c 9h 5d Qs 6d]
+Seat 1: Lulu73o00 (big blind) showed [Ad 6c] and lost with One pair : 6
+Seat 3: aurelien-17 (small blind) showed [7c Kc] and won 620 with Straight 9 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694780404132478977-3-1674956683 - Holdem no limit (10/20) - 2023/01/29 01:44:43 UTC
+Table: 'Expresso Nitro(627427456)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (280)
+Seat 3: aurelien-17 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+aurelien-17 posts big blind 20
+Dealt to _SKR [Kc 7h]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+aurelien-17 raises 20 to 60
+_SKR calls 20
+*** FLOP *** [Tc 3c Ac]
+aurelien-17 bets 20
+_SKR raises 200 to 220 and is all-in
+aurelien-17 raises 340 to 560 and is all-in
+*** TURN *** [Tc 3c Ac][6c]
+*** RIVER *** [Tc 3c Ac 6c][5h]
+*** SHOW DOWN ***
+_SKR shows [Kc 7h] (Flush Ace high)
+aurelien-17 shows [Ts Td] (Trips of Tens)
+aurelien-17 collected 340 from side pot 1
+_SKR collected 560 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 3c Ac 6c 5h]
+Seat 2: _SKR (small blind) (button) showed [Kc 7h] and won 560 with Flush Ace high
+Seat 3: aurelien-17 (big blind) showed [Ts Td] and won 340 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694780404132478977-4-1674956709 - Holdem no limit (15/30) - 2023/01/29 01:45:09 UTC
+Table: 'Expresso Nitro(627427456)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (560)
+Seat 3: aurelien-17 (340)
+*** ANTE/BLINDS ***
+aurelien-17 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6c 7s]
+*** PRE-FLOP *** 
+aurelien-17 calls 15
+_SKR checks
+*** FLOP *** [Qh 6s Jd]
+_SKR checks
+aurelien-17 bets 30
+_SKR calls 30
+*** TURN *** [Qh 6s Jd][5c]
+_SKR checks
+aurelien-17 bets 280 and is all-in
+_SKR folds
+aurelien-17 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Qh 6s Jd 5c]
+Seat 3: aurelien-17 (small blind) (button) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694780404132478977-5-1674956723 - Holdem no limit (15/30) - 2023/01/29 01:45:23 UTC
+Table: 'Expresso Nitro(627427456)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (500)
+Seat 3: aurelien-17 (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+aurelien-17 posts big blind 30
+Dealt to _SKR [Ah 8d]
+*** PRE-FLOP *** 
+_SKR raises 470 to 500 and is all-in
+aurelien-17 calls 370 and is all-in
+*** FLOP *** [4s 6d 8s]
+*** TURN *** [4s 6d 8s][Ac]
+*** RIVER *** [4s 6d 8s Ac][Qs]
+*** SHOW DOWN ***
+_SKR shows [Ah 8d] (Two pairs : Aces and 8)
+aurelien-17 shows [Ks As] (Flush Ace high)
+aurelien-17 collected 800 from main pot
+_SKR collected 100 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 6d 8s Ac Qs]
+Seat 2: _SKR (small blind) (button) showed [Ah 8d] and won 100 with Two pairs : Aces and 8
+Seat 3: aurelien-17 (big blind) showed [Ks As] and won 800 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694780404132478977-6-1674956737 - Holdem no limit (15/30) - 2023/01/29 01:45:37 UTC
+Table: 'Expresso Nitro(627427456)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (100)
+Seat 3: aurelien-17 (800)
+*** ANTE/BLINDS ***
+aurelien-17 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4h 2s]
+*** PRE-FLOP *** 
+aurelien-17 calls 15
+_SKR checks
+*** FLOP *** [9d Jc 7s]
+_SKR checks
+aurelien-17 bets 30
+_SKR folds
+aurelien-17 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9d Jc 7s]
+Seat 3: aurelien-17 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694780404132478977-7-1674956747 - Holdem no limit (15/30) - 2023/01/29 01:45:47 UTC
+Table: 'Expresso Nitro(627427456)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (70)
+Seat 3: aurelien-17 (830)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+aurelien-17 posts big blind 30
+Dealt to _SKR [8c 5h]
+*** PRE-FLOP *** 
+_SKR raises 40 to 70 and is all-in
+aurelien-17 calls 40
+*** FLOP *** [Qh Qd Ah]
+*** TURN *** [Qh Qd Ah][7s]
+*** RIVER *** [Qh Qd Ah 7s][Ac]
+*** SHOW DOWN ***
+_SKR shows [8c 5h] (Two pairs : Aces and Queens)
+aurelien-17 shows [Td 7c] (Two pairs : Aces and Queens)
+aurelien-17 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Qh Qd Ah 7s Ac]
+Seat 2: _SKR (small blind) (button) showed [8c 5h] and lost with Two pairs : Aces and Queens
+Seat 3: aurelien-17 (big blind) showed [Td 7c] and won 140 with Two pairs : Aces and Queens
+
+

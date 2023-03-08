@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717615834712244225-1-1676228995 - Holdem no limit (10/20) - 2023/02/12 19:09:55 UTC
+Table: 'Expresso Nitro(632744244)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Leandro1976 (300)
+Seat 3: MMMMMariage (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Leandro1976 posts big blind 20
+Dealt to _SKR [Jc 7h]
+*** PRE-FLOP *** 
+MMMMMariage calls 20
+_SKR folds
+Leandro1976 checks
+*** FLOP *** [Kh Ks 4s]
+Leandro1976 checks
+MMMMMariage checks
+*** TURN *** [Kh Ks 4s][As]
+Leandro1976 checks
+MMMMMariage checks
+*** RIVER *** [Kh Ks 4s As][6c]
+Leandro1976 checks
+MMMMMariage checks
+*** SHOW DOWN ***
+MMMMMariage shows [5h 7d] (One pair : Kings)
+Leandro1976 shows [Qh 7s] (One pair : Kings)
+Leandro1976 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Kh Ks 4s As 6c]
+Seat 2: Leandro1976 (big blind) showed [Qh 7s] and won 50 with One pair : Kings
+Seat 3: MMMMMariage (button) showed [5h 7d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717615834712244225-2-1676229027 - Holdem no limit (10/20) - 2023/02/12 19:10:27 UTC
+Table: 'Expresso Nitro(632744244)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Leandro1976 (330)
+Seat 3: MMMMMariage (280)
+*** ANTE/BLINDS ***
+Leandro1976 posts small blind 10
+MMMMMariage posts big blind 20
+Dealt to _SKR [3d 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Leandro1976 calls 10
+MMMMMariage raises 260 to 280 and is all-in
+Leandro1976 folds
+MMMMMariage collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: MMMMMariage (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717615834712244225-3-1676229038 - Holdem no limit (10/20) - 2023/02/12 19:10:38 UTC
+Table: 'Expresso Nitro(632744244)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Leandro1976 (310)
+Seat 3: MMMMMariage (300)
+*** ANTE/BLINDS ***
+MMMMMariage posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc 4s]
+*** PRE-FLOP *** 
+Leandro1976 calls 20
+MMMMMariage raises 280 to 300 and is all-in
+_SKR folds
+Leandro1976 folds
+MMMMMariage collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: MMMMMariage (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717615834712244225-4-1676229056 - Holdem no limit (15/30) - 2023/02/12 19:10:56 UTC
+Table: 'Expresso Nitro(632744244)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 2: Leandro1976 (290)
+Seat 3: MMMMMariage (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Leandro1976 posts big blind 30
+Dealt to _SKR [7h Ah]
+*** PRE-FLOP *** 
+MMMMMariage calls 30
+_SKR raises 240 to 270 and is all-in
+Leandro1976 calls 240
+MMMMMariage calls 240
+*** FLOP *** [Ks 5h 4s]
+Leandro1976 bets 20 and is all-in
+MMMMMariage raises 50 to 70 and is all-in
+*** TURN *** [Ks 5h 4s][Tc]
+*** RIVER *** [Ks 5h 4s Tc][Ac]
+*** SHOW DOWN ***
+_SKR shows [7h Ah] (One pair : Aces)
+Leandro1976 shows [Qd Jc] (Straight Ace high)
+MMMMMariage shows [9s Kh] (One pair : Kings)
+MMMMMariage collected 50 from side pot 1
+Leandro1976 collected 850 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks 5h 4s Tc Ac]
+Seat 1: _SKR (small blind) showed [7h Ah] and lost with One pair : Aces
+Seat 2: Leandro1976 (big blind) showed [Qd Jc] and won 850 with Straight Ace high
+Seat 3: MMMMMariage (button) showed [9s Kh] and won 50 with One pair : Kings
+
+

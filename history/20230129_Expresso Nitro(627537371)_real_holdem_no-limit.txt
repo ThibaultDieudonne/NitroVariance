@@ -1,0 +1,48 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695252485462818817-1-1675002479 - Holdem no limit (10/20) - 2023/01/29 14:27:59 UTC
+Table: 'Expresso Nitro(627537371)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LaDechaaate (300)
+Seat 2: Kyoshiiroda (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+LaDechaaate posts small blind 10
+Kyoshiiroda posts big blind 20
+Dealt to _SKR [6c 9s]
+*** PRE-FLOP *** 
+_SKR folds
+LaDechaaate folds
+Kyoshiiroda collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Kyoshiiroda (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695252485462818817-2-1675002487 - Holdem no limit (10/20) - 2023/01/29 14:28:07 UTC
+Table: 'Expresso Nitro(627537371)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaDechaaate (290)
+Seat 2: Kyoshiiroda (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Kyoshiiroda posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jh 4s]
+*** PRE-FLOP *** 
+LaDechaaate folds
+Kyoshiiroda calls 10
+_SKR checks
+*** FLOP *** [9d 8s Js]
+Kyoshiiroda bets 40
+_SKR raises 240 to 280 and is all-in
+Kyoshiiroda raises 10 to 290 and is all-in
+*** TURN *** [9d 8s Js][Td]
+*** RIVER *** [9d 8s Js Td][6s]
+*** SHOW DOWN ***
+_SKR shows [Jh 4s] (One pair : Jacks)
+Kyoshiiroda shows [Th 7c] (Straight Jack high)
+Kyoshiiroda collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [9d 8s Js Td 6s]
+Seat 2: Kyoshiiroda (small blind) showed [Th 7c] and won 610 with Straight Jack high
+Seat 3: _SKR (big blind) showed [Jh 4s] and lost with One pair : Jacks
+
+

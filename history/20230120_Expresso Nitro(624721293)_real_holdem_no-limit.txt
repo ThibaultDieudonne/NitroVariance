@@ -1,0 +1,347 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2683157522549833729-1-1674237110 - Holdem no limit (10/20) - 2023/01/20 17:51:50 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: HERON-CALL (300)
+Seat 3: call trickle (300)
+*** ANTE/BLINDS ***
+HERON-CALL posts small blind 10
+call trickle posts big blind 20
+Dealt to _SKR [Ad Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+HERON-CALL folds
+call trickle calls 20
+*** FLOP *** [Qc Js 3c]
+call trickle checks
+_SKR checks
+*** TURN *** [Qc Js 3c][5s]
+call trickle checks
+_SKR checks
+*** RIVER *** [Qc Js 3c 5s][7h]
+call trickle checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Ad Kh] (High card : Ace)
+call trickle shows [6c 7d] (One pair : 7)
+call trickle collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qc Js 3c 5s 7h]
+Seat 1: _SKR (button) showed [Ad Kh] and lost with High card : Ace
+Seat 3: call trickle (big blind) showed [6c 7d] and won 90 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2683157522549833729-2-1674237135 - Holdem no limit (10/20) - 2023/01/20 17:52:15 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (260)
+Seat 2: HERON-CALL (290)
+Seat 3: call trickle (350)
+*** ANTE/BLINDS ***
+call trickle posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 7h]
+*** PRE-FLOP *** 
+HERON-CALL raises 20 to 40
+call trickle calls 30
+_SKR calls 20
+*** FLOP *** [3d 5s Ks]
+call trickle checks
+_SKR checks
+HERON-CALL bets 80
+call trickle folds
+_SKR folds
+HERON-CALL collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [3d 5s Ks]
+Seat 2: HERON-CALL (button) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2683157522549833729-3-1674237157 - Holdem no limit (10/20) - 2023/01/20 17:52:37 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (220)
+Seat 2: HERON-CALL (370)
+Seat 3: call trickle (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+HERON-CALL posts big blind 20
+Dealt to _SKR [4h Ah]
+*** PRE-FLOP *** 
+call trickle folds
+_SKR raises 200 to 220 and is all-in
+HERON-CALL raises 150 to 370 and is all-in
+*** FLOP *** [4s 6c Qd]
+*** TURN *** [4s 6c Qd][6h]
+*** RIVER *** [4s 6c Qd 6h][7h]
+*** SHOW DOWN ***
+_SKR shows [4h Ah] (Two pairs : 6 and 4)
+HERON-CALL shows [As Jc] (One pair : 6)
+HERON-CALL collected 150 from side pot 1
+_SKR collected 440 from main pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [4s 6c Qd 6h 7h]
+Seat 1: _SKR (small blind) showed [4h Ah] and won 440 with Two pairs : 6 and 4
+Seat 2: HERON-CALL (big blind) showed [As Jc] and won 150 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2683157522549833729-4-1674237170 - Holdem no limit (15/30) - 2023/01/20 17:52:50 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (440)
+Seat 2: HERON-CALL (150)
+Seat 3: call trickle (310)
+*** ANTE/BLINDS ***
+HERON-CALL posts small blind 15
+call trickle posts big blind 30
+Dealt to _SKR [Tc 3c]
+*** PRE-FLOP *** 
+_SKR folds
+HERON-CALL folds
+call trickle collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: call trickle (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2683157522549833729-5-1674237175 - Holdem no limit (15/30) - 2023/01/20 17:52:55 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (440)
+Seat 2: HERON-CALL (135)
+Seat 3: call trickle (325)
+*** ANTE/BLINDS ***
+call trickle posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc 3c]
+*** PRE-FLOP *** 
+HERON-CALL folds
+call trickle folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2683157522549833729-6-1674237180 - Holdem no limit (15/30) - 2023/01/20 17:53:00 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (455)
+Seat 2: HERON-CALL (135)
+Seat 3: call trickle (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+HERON-CALL posts big blind 30
+Dealt to _SKR [6s 3h]
+*** PRE-FLOP *** 
+call trickle folds
+_SKR folds
+HERON-CALL collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: HERON-CALL (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2683157522549833729-7-1674237184 - Holdem no limit (15/30) - 2023/01/20 17:53:04 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (440)
+Seat 2: HERON-CALL (150)
+Seat 3: call trickle (310)
+*** ANTE/BLINDS ***
+HERON-CALL posts small blind 15
+call trickle posts big blind 30
+Dealt to _SKR [Ks 4h]
+*** PRE-FLOP *** 
+_SKR folds
+HERON-CALL folds
+call trickle collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: call trickle (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2683157522549833729-8-1674237189 - Holdem no limit (15/30) - 2023/01/20 17:53:09 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (440)
+Seat 2: HERON-CALL (135)
+Seat 3: call trickle (325)
+*** ANTE/BLINDS ***
+call trickle posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7c Th]
+*** PRE-FLOP *** 
+HERON-CALL folds
+call trickle folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2683157522549833729-9-1674237193 - Holdem no limit (15/30) - 2023/01/20 17:53:13 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (455)
+Seat 2: HERON-CALL (135)
+Seat 3: call trickle (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+HERON-CALL posts big blind 30
+Dealt to _SKR [3d 6c]
+*** PRE-FLOP *** 
+call trickle raises 280 to 310 and is all-in
+_SKR folds
+HERON-CALL folds
+call trickle collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 3: call trickle (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2683157522549833729-10-1674237201 - Holdem no limit (15/30) - 2023/01/20 17:53:21 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (440)
+Seat 2: HERON-CALL (105)
+Seat 3: call trickle (355)
+*** ANTE/BLINDS ***
+HERON-CALL posts small blind 15
+call trickle posts big blind 30
+Dealt to _SKR [5h Tc]
+*** PRE-FLOP *** 
+_SKR folds
+HERON-CALL raises 75 to 105 and is all-in
+call trickle folds
+HERON-CALL collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 2: HERON-CALL (small blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2683157522549833729-11-1674237207 - Holdem no limit (15/30) - 2023/01/20 17:53:27 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (440)
+Seat 2: HERON-CALL (135)
+Seat 3: call trickle (325)
+*** ANTE/BLINDS ***
+call trickle posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9d 6d]
+*** PRE-FLOP *** 
+HERON-CALL folds
+call trickle raises 295 to 325 and is all-in
+_SKR folds
+call trickle collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 3: call trickle (small blind) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2683157522549833729-12-1674237212 - Holdem no limit (15/30) - 2023/01/20 17:53:32 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (410)
+Seat 2: HERON-CALL (135)
+Seat 3: call trickle (355)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+HERON-CALL posts big blind 30
+Dealt to _SKR [9h Td]
+*** PRE-FLOP *** 
+call trickle folds
+_SKR raises 380 to 410 and is all-in
+HERON-CALL folds
+_SKR collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 1: _SKR (small blind) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2683157522549833729-13-1674237220 - Holdem no limit (15/30) - 2023/01/20 17:53:40 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (440)
+Seat 2: HERON-CALL (105)
+Seat 3: call trickle (355)
+*** ANTE/BLINDS ***
+HERON-CALL posts small blind 15
+call trickle posts big blind 30
+Dealt to _SKR [3d Ah]
+*** PRE-FLOP *** 
+_SKR raises 410 to 440 and is all-in
+HERON-CALL folds
+call trickle calls 325 and is all-in
+*** FLOP *** [9c 3s 8d]
+*** TURN *** [9c 3s 8d][7c]
+*** RIVER *** [9c 3s 8d 7c][8c]
+*** SHOW DOWN ***
+call trickle shows [Qc Ks] (One pair : 8)
+_SKR shows [3d Ah] (Two pairs : 8 and 3)
+_SKR collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [9c 3s 8d 7c 8c]
+Seat 1: _SKR (button) showed [3d Ah] and won 810 with Two pairs : 8 and 3
+Seat 3: call trickle (big blind) showed [Qc Ks] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2683157522549833729-14-1674237238 - Holdem no limit (20/40) - 2023/01/20 17:53:58 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (810)
+Seat 2: HERON-CALL (90)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+HERON-CALL posts big blind 40
+Dealt to _SKR [6c Kh]
+*** PRE-FLOP *** 
+_SKR raises 770 to 810 and is all-in
+HERON-CALL folds
+_SKR collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 1: _SKR (small blind) (button) won 850
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2683157522549833729-15-1674237243 - Holdem no limit (20/40) - 2023/01/20 17:54:03 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (850)
+Seat 2: HERON-CALL (50)
+*** ANTE/BLINDS ***
+HERON-CALL posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2d 3c]
+*** PRE-FLOP *** 
+HERON-CALL raises 10 to 50 and is all-in
+_SKR calls 10
+*** FLOP *** [2c 7c Qh]
+*** TURN *** [2c 7c Qh][Js]
+*** RIVER *** [2c 7c Qh Js][8d]
+*** SHOW DOWN ***
+_SKR shows [2d 3c] (One pair : 2)
+HERON-CALL shows [4h Qs] (One pair : Queens)
+HERON-CALL collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [2c 7c Qh Js 8d]
+Seat 1: _SKR (big blind) showed [2d 3c] and lost with One pair : 2
+Seat 2: HERON-CALL (small blind) (button) showed [4h Qs] and won 100 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2683157522549833729-16-1674237257 - Holdem no limit (20/40) - 2023/01/20 17:54:17 UTC
+Table: 'Expresso Nitro(624721293)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (800)
+Seat 2: HERON-CALL (100)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+HERON-CALL posts big blind 40
+Dealt to _SKR [Kc 3s]
+*** PRE-FLOP *** 
+_SKR raises 760 to 800 and is all-in
+HERON-CALL calls 60 and is all-in
+*** FLOP *** [Tc 6c 4h]
+*** TURN *** [Tc 6c 4h][Kh]
+*** RIVER *** [Tc 6c 4h Kh][7s]
+*** SHOW DOWN ***
+HERON-CALL shows [Ad Qh] (High card : Ace)
+_SKR shows [Kc 3s] (One pair : Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 6c 4h Kh 7s]
+Seat 1: _SKR (small blind) (button) showed [Kc 3s] and won 900 with One pair : Kings
+Seat 2: HERON-CALL (big blind) showed [Ad Qh] and lost with High card : Ace
+
+

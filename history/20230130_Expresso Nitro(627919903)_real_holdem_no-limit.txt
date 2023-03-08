@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696895447892492289-1-1675102402 - Holdem no limit (10/20) - 2023/01/30 18:13:22 UTC
+Table: 'Expresso Nitro(627919903)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Touille95 (300)
+Seat 3: Juanitomarav (300)
+*** ANTE/BLINDS ***
+Juanitomarav posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c 8s]
+*** PRE-FLOP *** 
+Touille95 raises 30 to 50
+Juanitomarav folds
+_SKR folds
+Touille95 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: Touille95 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696895447892492289-2-1675102411 - Holdem no limit (10/20) - 2023/01/30 18:13:31 UTC
+Table: 'Expresso Nitro(627919903)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Touille95 (330)
+Seat 3: Juanitomarav (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Touille95 posts big blind 20
+Dealt to _SKR [Js Qh]
+*** PRE-FLOP *** 
+Juanitomarav folds
+_SKR raises 260 to 280 and is all-in
+Touille95 calls 260
+*** FLOP *** [5c Ad 9c]
+*** TURN *** [5c Ad 9c][7h]
+*** RIVER *** [5c Ad 9c 7h][Ac]
+*** SHOW DOWN ***
+_SKR shows [Js Qh] (One pair : Aces)
+Touille95 shows [Kd 9h] (Two pairs : Aces and 9)
+Touille95 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [5c Ad 9c 7h Ac]
+Seat 1: _SKR (small blind) showed [Js Qh] and lost with One pair : Aces
+Seat 2: Touille95 (big blind) showed [Kd 9h] and won 560 with Two pairs : Aces and 9
+
+

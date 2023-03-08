@@ -1,0 +1,136 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717553218384035841-1-1676226715 - Holdem no limit (10/20) - 2023/02/12 18:31:55 UTC
+Table: 'Expresso Nitro(632729665)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Raynock (300)
+Seat 2: _SKR (300)
+Seat 3: Youch59 (300)
+*** ANTE/BLINDS ***
+Youch59 posts small blind 10
+Raynock posts big blind 20
+Dealt to _SKR [7d 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Youch59 calls 10
+Raynock checks
+*** FLOP *** [2s Js 5d]
+Youch59 checks
+Raynock checks
+*** TURN *** [2s Js 5d][8s]
+Youch59 bets 20
+Raynock calls 20
+*** RIVER *** [2s Js 5d 8s][6s]
+Youch59 bets 52
+Raynock folds
+Youch59 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [2s Js 5d 8s 6s]
+Seat 3: Youch59 (small blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717553218384035841-2-1676226741 - Holdem no limit (10/20) - 2023/02/12 18:32:21 UTC
+Table: 'Expresso Nitro(632729665)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Raynock (260)
+Seat 2: _SKR (300)
+Seat 3: Youch59 (340)
+*** ANTE/BLINDS ***
+Raynock posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c Qs]
+*** PRE-FLOP *** 
+Youch59 raises 20 to 40
+Raynock folds
+_SKR folds
+Youch59 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: Youch59 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717553218384035841-3-1676226748 - Holdem no limit (10/20) - 2023/02/12 18:32:28 UTC
+Table: 'Expresso Nitro(632729665)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Raynock (250)
+Seat 2: _SKR (280)
+Seat 3: Youch59 (370)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Youch59 posts big blind 20
+Dealt to _SKR [Qh 5d]
+*** PRE-FLOP *** 
+Raynock calls 20
+_SKR folds
+Youch59 checks
+*** FLOP *** [4s Ks 7s]
+Youch59 checks
+Raynock checks
+*** TURN *** [4s Ks 7s][Ah]
+Youch59 checks
+Raynock checks
+*** RIVER *** [4s Ks 7s Ah][8d]
+Youch59 checks
+Raynock bets 20
+Youch59 folds
+Raynock collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [4s Ks 7s Ah 8d]
+Seat 1: Raynock (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717553218384035841-4-1676226773 - Holdem no limit (15/30) - 2023/02/12 18:32:53 UTC
+Table: 'Expresso Nitro(632729665)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Raynock (280)
+Seat 2: _SKR (270)
+Seat 3: Youch59 (350)
+*** ANTE/BLINDS ***
+Youch59 posts small blind 15
+Raynock posts big blind 30
+Dealt to _SKR [6d Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Youch59 calls 15
+Raynock checks
+*** FLOP *** [3h 9c Kd]
+Youch59 checks
+Raynock checks
+*** TURN *** [3h 9c Kd][9d]
+Youch59 bets 30
+Raynock folds
+Youch59 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [3h 9c Kd 9d]
+Seat 3: Youch59 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717553218384035841-5-1676226806 - Holdem no limit (15/30) - 2023/02/12 18:33:26 UTC
+Table: 'Expresso Nitro(632729665)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Raynock (250)
+Seat 2: _SKR (270)
+Seat 3: Youch59 (380)
+*** ANTE/BLINDS ***
+Raynock posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7c Kd]
+*** PRE-FLOP *** 
+Youch59 calls 30
+Raynock calls 15
+_SKR raises 240 to 270 and is all-in
+Youch59 calls 240
+Raynock calls 220 and is all-in
+*** FLOP *** [Qd 9s Jc]
+*** TURN *** [Qd 9s Jc][6c]
+*** RIVER *** [Qd 9s Jc 6c][6h]
+*** SHOW DOWN ***
+_SKR shows [7c Kd] (One pair : 6)
+Raynock shows [Ks Ts] (Straight King high)
+Youch59 shows [5s Ac] (One pair : 6)
+Youch59 collected 40 from side pot 1
+Raynock collected 750 from main pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [Qd 9s Jc 6c 6h]
+Seat 1: Raynock (small blind) showed [Ks Ts] and won 750 with Straight King high
+Seat 2: _SKR (big blind) showed [7c Kd] and lost with One pair : 6
+Seat 3: Youch59 (button) showed [5s Ac] and won 40 with One pair : 6
+
+

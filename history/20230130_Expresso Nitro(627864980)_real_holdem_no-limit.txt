@@ -1,0 +1,52 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696659555403694081-1-1675092112 - Holdem no limit (10/20) - 2023/01/30 15:21:52 UTC
+Table: 'Expresso Nitro(627864980)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Barjaved (300)
+Seat 3: SimsonKatoff (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Barjaved posts big blind 20
+Dealt to _SKR [9h Kc]
+*** PRE-FLOP *** 
+SimsonKatoff calls 20
+_SKR folds
+Barjaved checks
+*** FLOP *** [Ad 6d 9s]
+Barjaved checks
+SimsonKatoff bets 33
+Barjaved folds
+SimsonKatoff collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [Ad 6d 9s]
+Seat 3: SimsonKatoff (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696659555403694081-2-1675092124 - Holdem no limit (10/20) - 2023/01/30 15:22:04 UTC
+Table: 'Expresso Nitro(627864980)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Barjaved (280)
+Seat 3: SimsonKatoff (330)
+*** ANTE/BLINDS ***
+Barjaved posts small blind 10
+SimsonKatoff posts big blind 20
+Dealt to _SKR [As Qc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Barjaved folds
+SimsonKatoff raises 290 to 330 and is all-in
+_SKR calls 250 and is all-in
+*** FLOP *** [Ah 8h 6h]
+*** TURN *** [Ah 8h 6h][7h]
+*** RIVER *** [Ah 8h 6h 7h][9d]
+*** SHOW DOWN ***
+_SKR shows [As Qc] (One pair : Aces)
+SimsonKatoff shows [Qh Qd] (Flush Ace high)
+SimsonKatoff collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Ah 8h 6h 7h 9d]
+Seat 1: _SKR (button) showed [As Qc] and lost with One pair : Aces
+Seat 3: SimsonKatoff (big blind) showed [Qh Qd] and won 630 with Flush Ace high
+
+

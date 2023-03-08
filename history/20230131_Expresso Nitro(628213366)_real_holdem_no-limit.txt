@@ -1,0 +1,54 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698155861880078337-1-1675183279 - Holdem no limit (10/20) - 2023/01/31 16:41:19 UTC
+Table: 'Expresso Nitro(628213366)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Titan-378513 (300)
+Seat 2: _SKR (300)
+Seat 3: lovenanou (300)
+*** ANTE/BLINDS ***
+lovenanou posts small blind 10
+Titan-378513 posts big blind 20
+Dealt to _SKR [7d Th]
+*** PRE-FLOP *** 
+_SKR folds
+lovenanou raises 40 to 60
+Titan-378513 raises 240 to 300 and is all-in
+lovenanou calls 240 and is all-in
+*** FLOP *** [4h Tc 5d]
+*** TURN *** [4h Tc 5d][9h]
+*** RIVER *** [4h Tc 5d 9h][4s]
+*** SHOW DOWN ***
+lovenanou shows [Ac 8d] (One pair : 4)
+Titan-378513 shows [Js Ad] (One pair : 4)
+Titan-378513 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4h Tc 5d 9h 4s]
+Seat 1: Titan-378513 (big blind) showed [Js Ad] and won 600 with One pair : 4
+Seat 3: lovenanou (small blind) showed [Ac 8d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698155861880078337-2-1675183295 - Holdem no limit (10/20) - 2023/01/31 16:41:35 UTC
+Table: 'Expresso Nitro(628213366)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Titan-378513 (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+Titan-378513 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h 2c]
+*** PRE-FLOP *** 
+Titan-378513 calls 10
+_SKR raises 280 to 300 and is all-in
+Titan-378513 calls 280
+*** FLOP *** [9d Qs 7c]
+*** TURN *** [9d Qs 7c][Ts]
+*** RIVER *** [9d Qs 7c Ts][Ks]
+*** SHOW DOWN ***
+_SKR shows [2h 2c] (One pair : 2)
+Titan-378513 shows [Ad 9h] (One pair : 9)
+Titan-378513 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9d Qs 7c Ts Ks]
+Seat 1: Titan-378513 (small blind) (button) showed [Ad 9h] and won 600 with One pair : 9
+Seat 2: _SKR (big blind) showed [2h 2c] and lost with One pair : 2
+
+

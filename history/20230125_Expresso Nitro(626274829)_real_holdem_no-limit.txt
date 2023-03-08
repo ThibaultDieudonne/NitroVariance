@@ -1,0 +1,122 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689829908862992385-1-1674654453 - Holdem no limit (10/20) - 2023/01/25 13:47:33 UTC
+Table: 'Expresso Nitro(626274829)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Uggagula (300)
+Seat 2: _SKR (300)
+Seat 3: menudams (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+menudams posts big blind 20
+Dealt to _SKR [8h Qd]
+*** PRE-FLOP *** 
+Uggagula folds
+_SKR raises 20 to 40
+menudams raises 20 to 60
+_SKR calls 20
+*** FLOP *** [7c 6d 8c]
+_SKR checks
+menudams bets 20
+_SKR calls 20
+*** TURN *** [7c 6d 8c][Ts]
+_SKR checks
+menudams checks
+*** RIVER *** [7c 6d 8c Ts][5d]
+_SKR bets 56
+menudams calls 56
+*** SHOW DOWN ***
+menudams shows [3c Ac] (High card : Ace)
+_SKR shows [8h Qd] (One pair : 8)
+_SKR collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | No rake
+Board: [7c 6d 8c Ts 5d]
+Seat 2: _SKR (small blind) showed [8h Qd] and won 272 with One pair : 8
+Seat 3: menudams (big blind) showed [3c Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689829908862992385-2-1674654491 - Holdem no limit (10/20) - 2023/01/25 13:48:11 UTC
+Table: 'Expresso Nitro(626274829)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Uggagula (300)
+Seat 2: _SKR (436)
+Seat 3: menudams (164)
+*** ANTE/BLINDS ***
+menudams posts small blind 10
+Uggagula posts big blind 20
+Dealt to _SKR [Ad 8d]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+menudams folds
+Uggagula calls 20
+*** FLOP *** [2d 5c 7s]
+Uggagula checks
+_SKR checks
+*** TURN *** [2d 5c 7s][5d]
+Uggagula checks
+_SKR bets 45
+Uggagula calls 45
+*** RIVER *** [2d 5c 7s 5d][6d]
+Uggagula bets 180
+_SKR raises 171 to 351 and is all-in
+Uggagula calls 35 and is all-in
+*** SHOW DOWN ***
+Uggagula shows [Td 3d] (Flush Ten high)
+_SKR shows [Ad 8d] (Flush Ace high)
+_SKR collected 746 from pot
+*** SUMMARY ***
+Total pot 746 | No rake
+Board: [2d 5c 7s 5d 6d]
+Seat 1: Uggagula (big blind) showed [Td 3d] and lost with Flush Ten high
+Seat 2: _SKR (button) showed [Ad 8d] and won 746 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689829908862992385-3-1674654545 - Holdem no limit (15/30) - 2023/01/25 13:49:05 UTC
+Table: 'Expresso Nitro(626274829)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (746)
+Seat 3: menudams (154)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+menudams posts big blind 30
+Dealt to _SKR [Td 7d]
+*** PRE-FLOP *** 
+_SKR raises 716 to 746 and is all-in
+menudams calls 124 and is all-in
+*** FLOP *** [2c 5s 8s]
+*** TURN *** [2c 5s 8s][9c]
+*** RIVER *** [2c 5s 8s 9c][4d]
+*** SHOW DOWN ***
+_SKR shows [Td 7d] (High card : Ten)
+menudams shows [Ad 9h] (One pair : 9)
+menudams collected 308 from main pot
+_SKR collected 592 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2c 5s 8s 9c 4d]
+Seat 2: _SKR (small blind) (button) showed [Td 7d] and won 592 with High card : Ten
+Seat 3: menudams (big blind) showed [Ad 9h] and won 308 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689829908862992385-4-1674654564 - Holdem no limit (15/30) - 2023/01/25 13:49:24 UTC
+Table: 'Expresso Nitro(626274829)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (592)
+Seat 3: menudams (308)
+*** ANTE/BLINDS ***
+menudams posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6c 6s]
+*** PRE-FLOP *** 
+menudams raises 30 to 60
+_SKR raises 532 to 592 and is all-in
+menudams calls 248 and is all-in
+*** FLOP *** [7c 3d 2s]
+*** TURN *** [7c 3d 2s][2h]
+*** RIVER *** [7c 3d 2s 2h][8h]
+*** SHOW DOWN ***
+menudams shows [Ks Ah] (One pair : 2)
+_SKR shows [6c 6s] (Two pairs : 6 and 2)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c 3d 2s 2h 8h]
+Seat 2: _SKR (big blind) showed [6c 6s] and won 900 with Two pairs : 6 and 2
+Seat 3: menudams (small blind) (button) showed [Ks Ah] and lost with One pair : 2
+
+

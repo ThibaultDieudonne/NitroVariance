@@ -1,0 +1,569 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696551159019077633-1-1675086550 - Holdem no limit (10/20) - 2023/01/30 13:49:10 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Torino-S (300)
+Seat 2: _SKR (300)
+Seat 3: Idris-212 (300)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Qd]
+*** PRE-FLOP *** 
+Idris-212 folds
+Torino-S calls 10
+_SKR checks
+*** FLOP *** [Qs 6d Td]
+Torino-S bets 26
+_SKR calls 26
+*** TURN *** [Qs 6d Td][8c]
+Torino-S bets 32
+_SKR calls 32
+*** RIVER *** [Qs 6d Td 8c][As]
+Torino-S bets 20
+_SKR calls 20
+*** SHOW DOWN ***
+Torino-S shows [3c Tc] (One pair : Tens)
+_SKR shows [9s Qd] (One pair : Queens)
+_SKR collected 196 from pot
+*** SUMMARY ***
+Total pot 196 | No rake
+Board: [Qs 6d Td 8c As]
+Seat 1: Torino-S (small blind) showed [3c Tc] and lost with One pair : Tens
+Seat 2: _SKR (big blind) showed [9s Qd] and won 196 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696551159019077633-2-1675086576 - Holdem no limit (10/20) - 2023/01/30 13:49:36 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (202)
+Seat 2: _SKR (398)
+Seat 3: Idris-212 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Idris-212 posts big blind 20
+Dealt to _SKR [Kh 2s]
+*** PRE-FLOP *** 
+Torino-S folds
+_SKR calls 10
+Idris-212 checks
+*** FLOP *** [7c 6h 9s]
+_SKR checks
+Idris-212 bets 20
+_SKR folds
+Idris-212 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7c 6h 9s]
+Seat 3: Idris-212 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696551159019077633-3-1675086593 - Holdem no limit (10/20) - 2023/01/30 13:49:53 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (202)
+Seat 2: _SKR (378)
+Seat 3: Idris-212 (320)
+*** ANTE/BLINDS ***
+Idris-212 posts small blind 10
+Torino-S posts big blind 20
+Dealt to _SKR [4d 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Idris-212 calls 10
+Torino-S checks
+*** FLOP *** [Tc 9d Qh]
+Idris-212 bets 20
+Torino-S calls 20
+*** TURN *** [Tc 9d Qh][Ks]
+Idris-212 bets 20
+Torino-S folds
+Idris-212 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Tc 9d Qh Ks]
+Seat 3: Idris-212 (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696551159019077633-4-1675086610 - Holdem no limit (15/30) - 2023/01/30 13:50:10 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Torino-S (162)
+Seat 2: _SKR (378)
+Seat 3: Idris-212 (360)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7h 5h]
+*** PRE-FLOP *** 
+Idris-212 folds
+Torino-S calls 15
+_SKR checks
+*** FLOP *** [Ac Jd 8h]
+Torino-S bets 39
+_SKR folds
+Torino-S collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [Ac Jd 8h]
+Seat 1: Torino-S (small blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696551159019077633-5-1675086623 - Holdem no limit (15/30) - 2023/01/30 13:50:23 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (192)
+Seat 2: _SKR (348)
+Seat 3: Idris-212 (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Idris-212 posts big blind 30
+Dealt to _SKR [Kh Th]
+*** PRE-FLOP *** 
+Torino-S folds
+_SKR raises 318 to 348 and is all-in
+Idris-212 calls 318
+*** FLOP *** [8c 9d 9h]
+*** TURN *** [8c 9d 9h][Ts]
+*** RIVER *** [8c 9d 9h Ts][Kd]
+*** SHOW DOWN ***
+Idris-212 shows [7h As] (One pair : 9)
+_SKR shows [Kh Th] (Two pairs : Kings and Tens)
+_SKR collected 696 from pot
+*** SUMMARY ***
+Total pot 696 | No rake
+Board: [8c 9d 9h Ts Kd]
+Seat 2: _SKR (small blind) showed [Kh Th] and won 696 with Two pairs : Kings and Tens
+Seat 3: Idris-212 (big blind) showed [7h As] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696551159019077633-6-1675086641 - Holdem no limit (15/30) - 2023/01/30 13:50:41 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (192)
+Seat 2: _SKR (696)
+Seat 3: Idris-212 (12)
+*** ANTE/BLINDS ***
+Idris-212 posts small blind 12 and is all-in
+Torino-S posts big blind 30
+Dealt to _SKR [8d 6s]
+*** PRE-FLOP *** 
+_SKR folds
+*** FLOP *** [5s 3c Jc]
+*** TURN *** [5s 3c Jc][Ah]
+*** RIVER *** [5s 3c Jc Ah][8c]
+*** SHOW DOWN ***
+Torino-S shows [9d 7s] (High card : Ace)
+Idris-212 shows [2c 4c] (Flush Jack high)
+Idris-212 collected 24 from main pot
+Torino-S collected 18 from side pot 1
+*** SUMMARY ***
+Total pot 42 | No rake
+Board: [5s 3c Jc Ah 8c]
+Seat 1: Torino-S (big blind) showed [9d 7s] and won 18 with High card : Ace
+Seat 3: Idris-212 (small blind) showed [2c 4c] and won 24 with Flush Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696551159019077633-7-1675086650 - Holdem no limit (15/30) - 2023/01/30 13:50:50 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Torino-S (180)
+Seat 2: _SKR (696)
+Seat 3: Idris-212 (24)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 9s]
+*** PRE-FLOP *** 
+Idris-212 folds
+Torino-S calls 15
+_SKR checks
+*** FLOP *** [6s 6d Tc]
+Torino-S checks
+_SKR checks
+*** TURN *** [6s 6d Tc][9d]
+Torino-S checks
+_SKR checks
+*** RIVER *** [6s 6d Tc 9d][5c]
+Torino-S checks
+_SKR checks
+*** SHOW DOWN ***
+Torino-S shows [3d Kh] (One pair : 6)
+_SKR shows [2c 9s] (Two pairs : 9 and 6)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6s 6d Tc 9d 5c]
+Seat 1: Torino-S (small blind) showed [3d Kh] and lost with One pair : 6
+Seat 2: _SKR (big blind) showed [2c 9s] and won 60 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696551159019077633-8-1675086681 - Holdem no limit (20/40) - 2023/01/30 13:51:21 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (150)
+Seat 2: _SKR (726)
+Seat 3: Idris-212 (24)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Idris-212 posts big blind 24 and is all-in
+Dealt to _SKR [9s 6c]
+*** PRE-FLOP *** 
+Torino-S raises 76 to 100
+_SKR folds
+*** FLOP *** [Ts Kd 6s]
+*** TURN *** [Ts Kd 6s][4s]
+*** RIVER *** [Ts Kd 6s 4s][9c]
+*** SHOW DOWN ***
+Idris-212 shows [Tc Jh] (One pair : Tens)
+Torino-S shows [Jd Qd] (Straight King high)
+Torino-S collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | No rake
+Board: [Ts Kd 6s 4s 9c]
+Seat 1: Torino-S (button) showed [Jd Qd] and won 144 with Straight King high
+Seat 3: Idris-212 (big blind) showed [Tc Jh] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696551159019077633-9-1675086695 - Holdem no limit (20/40) - 2023/01/30 13:51:35 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (194)
+Seat 2: _SKR (706)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c Ac]
+*** PRE-FLOP *** 
+Torino-S calls 20
+_SKR raises 666 to 706 and is all-in
+Torino-S folds
+_SKR collected 746 from pot
+*** SUMMARY ***
+Total pot 746 | No rake
+Seat 2: _SKR (big blind) won 746
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696551159019077633-10-1675086707 - Holdem no limit (20/40) - 2023/01/30 13:51:47 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (154)
+Seat 2: _SKR (746)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Torino-S posts big blind 40
+Dealt to _SKR [8d Jc]
+*** PRE-FLOP *** 
+_SKR raises 706 to 746 and is all-in
+Torino-S calls 114 and is all-in
+*** FLOP *** [4h 5s 9h]
+*** TURN *** [4h 5s 9h][7c]
+*** RIVER *** [4h 5s 9h 7c][4s]
+*** SHOW DOWN ***
+Torino-S shows [As 3c] (One pair : 4)
+_SKR shows [8d Jc] (One pair : 4)
+_SKR collected 592 from side pot 1
+Torino-S collected 308 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h 5s 9h 7c 4s]
+Seat 1: Torino-S (big blind) showed [As 3c] and won 308 with One pair : 4
+Seat 2: _SKR (small blind) (button) showed [8d Jc] and won 592 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696551159019077633-11-1675086718 - Holdem no limit (20/40) - 2023/01/30 13:51:58 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (308)
+Seat 2: _SKR (592)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ks Jd]
+*** PRE-FLOP *** 
+Torino-S calls 20
+_SKR raises 552 to 592 and is all-in
+Torino-S folds
+_SKR collected 632 from pot
+*** SUMMARY ***
+Total pot 632 | No rake
+Seat 2: _SKR (big blind) won 632
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696551159019077633-12-1675086725 - Holdem no limit (20/40) - 2023/01/30 13:52:05 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (268)
+Seat 2: _SKR (632)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Torino-S posts big blind 40
+Dealt to _SKR [2h Ts]
+*** PRE-FLOP *** 
+_SKR folds
+Torino-S collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Torino-S (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-13-1675086730 - Holdem no limit (30/60) - 2023/01/30 13:52:10 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (288)
+Seat 2: _SKR (612)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7h 4d]
+*** PRE-FLOP *** 
+Torino-S raises 228 to 288 and is all-in
+_SKR folds
+Torino-S collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | No rake
+Seat 1: Torino-S (small blind) (button) won 348
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-14-1675086736 - Holdem no limit (30/60) - 2023/01/30 13:52:16 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (348)
+Seat 2: _SKR (552)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Torino-S posts big blind 60
+Dealt to _SKR [4d 8d]
+*** PRE-FLOP *** 
+_SKR folds
+Torino-S collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Torino-S (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-15-1675086741 - Holdem no limit (30/60) - 2023/01/30 13:52:21 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (378)
+Seat 2: _SKR (522)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9s 8h]
+*** PRE-FLOP *** 
+Torino-S folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-16-1675086745 - Holdem no limit (30/60) - 2023/01/30 13:52:25 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (348)
+Seat 2: _SKR (552)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Torino-S posts big blind 60
+Dealt to _SKR [Js 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Torino-S collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Torino-S (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-17-1675086750 - Holdem no limit (30/60) - 2023/01/30 13:52:30 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (378)
+Seat 2: _SKR (522)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4h Kc]
+*** PRE-FLOP *** 
+Torino-S raises 318 to 378 and is all-in
+_SKR folds
+Torino-S collected 438 from pot
+*** SUMMARY ***
+Total pot 438 | No rake
+Seat 1: Torino-S (small blind) (button) won 438
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-18-1675086755 - Holdem no limit (30/60) - 2023/01/30 13:52:35 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (438)
+Seat 2: _SKR (462)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Torino-S posts big blind 60
+Dealt to _SKR [Kc 7c]
+*** PRE-FLOP *** 
+_SKR raises 402 to 462 and is all-in
+Torino-S folds
+_SKR collected 522 from pot
+*** SUMMARY ***
+Total pot 522 | No rake
+Seat 2: _SKR (small blind) (button) won 522
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-19-1675086763 - Holdem no limit (30/60) - 2023/01/30 13:52:43 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (378)
+Seat 2: _SKR (522)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qh 7h]
+*** PRE-FLOP *** 
+Torino-S calls 30
+_SKR raises 462 to 522 and is all-in
+Torino-S folds
+_SKR collected 582 from pot
+*** SUMMARY ***
+Total pot 582 | No rake
+Seat 2: _SKR (big blind) won 582
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-20-1675086770 - Holdem no limit (30/60) - 2023/01/30 13:52:50 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (318)
+Seat 2: _SKR (582)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Torino-S posts big blind 60
+Dealt to _SKR [5c 9h]
+*** PRE-FLOP *** 
+_SKR folds
+Torino-S collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Torino-S (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-21-1675086775 - Holdem no limit (30/60) - 2023/01/30 13:52:55 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (348)
+Seat 2: _SKR (552)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2d 2c]
+*** PRE-FLOP *** 
+Torino-S folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-22-1675086779 - Holdem no limit (30/60) - 2023/01/30 13:52:59 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (318)
+Seat 2: _SKR (582)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Torino-S posts big blind 60
+Dealt to _SKR [6c 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Torino-S collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Torino-S (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696551159019077633-23-1675086785 - Holdem no limit (30/60) - 2023/01/30 13:53:05 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (348)
+Seat 2: _SKR (552)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4h Qc]
+*** PRE-FLOP *** 
+Torino-S raises 288 to 348 and is all-in
+_SKR folds
+Torino-S collected 408 from pot
+*** SUMMARY ***
+Total pot 408 | No rake
+Seat 1: Torino-S (small blind) (button) won 408
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696551159019077633-24-1675086791 - Holdem no limit (40/80) - 2023/01/30 13:53:11 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (408)
+Seat 2: _SKR (492)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Torino-S posts big blind 80
+Dealt to _SKR [7h 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Torino-S collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Torino-S (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696551159019077633-25-1675086798 - Holdem no limit (40/80) - 2023/01/30 13:53:18 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (448)
+Seat 2: _SKR (452)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [8s 5h]
+*** PRE-FLOP *** 
+Torino-S raises 368 to 448 and is all-in
+_SKR folds
+Torino-S collected 528 from pot
+*** SUMMARY ***
+Total pot 528 | No rake
+Seat 1: Torino-S (small blind) (button) won 528
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696551159019077633-26-1675086806 - Holdem no limit (40/80) - 2023/01/30 13:53:26 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (528)
+Seat 2: _SKR (372)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Torino-S posts big blind 80
+Dealt to _SKR [Qh Kc]
+*** PRE-FLOP *** 
+_SKR raises 292 to 372 and is all-in
+Torino-S folds
+_SKR collected 452 from pot
+*** SUMMARY ***
+Total pot 452 | No rake
+Seat 2: _SKR (small blind) (button) won 452
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696551159019077633-27-1675086815 - Holdem no limit (40/80) - 2023/01/30 13:53:35 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Torino-S (448)
+Seat 2: _SKR (452)
+*** ANTE/BLINDS ***
+Torino-S posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [4h Kc]
+*** PRE-FLOP *** 
+Torino-S folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696551159019077633-28-1675086819 - Holdem no limit (40/80) - 2023/01/30 13:53:39 UTC
+Table: 'Expresso Nitro(627839742)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Torino-S (408)
+Seat 2: _SKR (492)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Torino-S posts big blind 80
+Dealt to _SKR [4c Ks]
+*** PRE-FLOP *** 
+_SKR raises 412 to 492 and is all-in
+Torino-S calls 328 and is all-in
+*** FLOP *** [2d 5s 2c]
+*** TURN *** [2d 5s 2c][Ac]
+*** RIVER *** [2d 5s 2c Ac][Jd]
+*** SHOW DOWN ***
+Torino-S shows [9d Th] (One pair : 2)
+_SKR shows [4c Ks] (One pair : 2)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d 5s 2c Ac Jd]
+Seat 1: Torino-S (big blind) showed [9d Th] and lost with One pair : 2
+Seat 2: _SKR (small blind) (button) showed [4c Ks] and won 900 with One pair : 2
+
+

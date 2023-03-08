@@ -1,0 +1,80 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696908354269216769-1-1675102934 - Holdem no limit (10/20) - 2023/01/30 18:22:14 UTC
+Table: 'Expresso Nitro(627922908)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Moustique666 (300)
+Seat 2: Yaston21800 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Moustique666 posts big blind 20
+Dealt to _SKR [9d 5h]
+*** PRE-FLOP *** 
+Yaston21800 folds
+_SKR folds
+Moustique666 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Moustique666 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696908354269216769-2-1675102939 - Holdem no limit (10/20) - 2023/01/30 18:22:19 UTC
+Table: 'Expresso Nitro(627922908)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Moustique666 (310)
+Seat 2: Yaston21800 (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Moustique666 posts small blind 10
+Yaston21800 posts big blind 20
+Dealt to _SKR [Ad Kd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Moustique666 calls 30
+Yaston21800 raises 260 to 300 and is all-in
+_SKR calls 250 and is all-in
+Moustique666 folds
+*** FLOP *** [2d Td 2c]
+*** TURN *** [2d Td 2c][5d]
+*** RIVER *** [2d Td 2c 5d][Ah]
+*** SHOW DOWN ***
+Yaston21800 shows [3h 3c] (Two pairs : 3 and 2)
+_SKR shows [Ad Kd] (Flush Ace high)
+_SKR collected 620 from main pot
+Yaston21800 collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [2d Td 2c 5d Ah]
+Seat 2: Yaston21800 (big blind) showed [3h 3c] and won 10 with Two pairs : 3 and 2
+Seat 3: _SKR (button) showed [Ad Kd] and won 620 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696908354269216769-3-1675102955 - Holdem no limit (10/20) - 2023/01/30 18:22:35 UTC
+Table: 'Expresso Nitro(627922908)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Moustique666 (270)
+Seat 2: Yaston21800 (10)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+Yaston21800 posts small blind 10 and is all-in
+_SKR posts big blind 20
+Dealt to _SKR [Td Jd]
+*** PRE-FLOP *** 
+Moustique666 calls 20
+_SKR checks
+*** FLOP *** [5h 9d 2d]
+_SKR checks
+Moustique666 bets 33
+_SKR raises 567 to 600 and is all-in
+Moustique666 calls 217 and is all-in
+*** TURN *** [5h 9d 2d][Tc]
+*** RIVER *** [5h 9d 2d Tc][Qd]
+*** SHOW DOWN ***
+Moustique666 shows [Qs Kh] (One pair : Queens)
+Yaston21800 shows [9c Qc] (Two pairs : Queens and 9)
+_SKR shows [Td Jd] (Flush Queen high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h 9d 2d Tc Qd]
+Seat 1: Moustique666 (button) showed [Qs Kh] and lost with One pair : Queens
+Seat 2: Yaston21800 (small blind) showed [9c Qc] and lost with Two pairs : Queens and 9
+Seat 3: _SKR (big blind) showed [Td Jd] and won 900 with Flush Queen high
+
+

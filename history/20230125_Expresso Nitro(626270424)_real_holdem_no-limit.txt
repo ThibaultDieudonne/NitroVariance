@@ -1,0 +1,316 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689810989532053505-1-1674653328 - Holdem no limit (10/20) - 2023/01/25 13:28:48 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: KING_44 (300)
+Seat 3: Ojo_Deajo8 (300)
+*** ANTE/BLINDS ***
+KING_44 posts small blind 10
+Ojo_Deajo8 posts big blind 20
+Dealt to _SKR [4c 8s]
+*** PRE-FLOP *** 
+_SKR folds
+KING_44 raises 40 to 60
+Ojo_Deajo8 calls 40
+*** FLOP *** [2h Qd 2d]
+KING_44 checks
+Ojo_Deajo8 checks
+*** TURN *** [2h Qd 2d][3c]
+KING_44 checks
+Ojo_Deajo8 checks
+*** RIVER *** [2h Qd 2d 3c][5c]
+KING_44 bets 120
+Ojo_Deajo8 folds
+KING_44 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [2h Qd 2d 3c 5c]
+Seat 2: KING_44 (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689810989532053505-2-1674653343 - Holdem no limit (10/20) - 2023/01/25 13:29:03 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: KING_44 (360)
+Seat 3: Ojo_Deajo8 (240)
+*** ANTE/BLINDS ***
+Ojo_Deajo8 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h Qs]
+*** PRE-FLOP *** 
+KING_44 calls 20
+Ojo_Deajo8 folds
+_SKR checks
+*** FLOP *** [9c Qd 8c]
+_SKR checks
+KING_44 bets 20
+_SKR raises 35 to 55
+KING_44 folds
+_SKR collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | No rake
+Board: [9c Qd 8c]
+Seat 1: _SKR (big blind) won 125
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689810989532053505-3-1674653371 - Holdem no limit (10/20) - 2023/01/25 13:29:31 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (350)
+Seat 2: KING_44 (320)
+Seat 3: Ojo_Deajo8 (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+KING_44 posts big blind 20
+Dealt to _SKR [9s 7s]
+*** PRE-FLOP *** 
+Ojo_Deajo8 folds
+_SKR calls 10
+KING_44 checks
+*** FLOP *** [4d Kd Qh]
+_SKR bets 20
+KING_44 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [4d Kd Qh]
+Seat 1: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689810989532053505-4-1674653384 - Holdem no limit (15/30) - 2023/01/25 13:29:44 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (370)
+Seat 2: KING_44 (300)
+Seat 3: Ojo_Deajo8 (230)
+*** ANTE/BLINDS ***
+KING_44 posts small blind 15
+Ojo_Deajo8 posts big blind 30
+Dealt to _SKR [Kh 5c]
+*** PRE-FLOP *** 
+_SKR folds
+KING_44 folds
+Ojo_Deajo8 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Ojo_Deajo8 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689810989532053505-5-1674653389 - Holdem no limit (15/30) - 2023/01/25 13:29:49 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (370)
+Seat 2: KING_44 (285)
+Seat 3: Ojo_Deajo8 (245)
+*** ANTE/BLINDS ***
+Ojo_Deajo8 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qs 4c]
+*** PRE-FLOP *** 
+KING_44 calls 30
+Ojo_Deajo8 calls 15
+_SKR checks
+*** FLOP *** [8s 8d Qc]
+Ojo_Deajo8 checks
+_SKR checks
+KING_44 checks
+*** TURN *** [8s 8d Qc][9c]
+Ojo_Deajo8 checks
+_SKR bets 45
+KING_44 calls 45
+Ojo_Deajo8 folds
+*** RIVER *** [8s 8d Qc 9c][2c]
+_SKR bets 90
+KING_44 raises 120 to 210 and is all-in
+_SKR calls 120
+*** SHOW DOWN ***
+KING_44 shows [Th Ks] (One pair : 8)
+_SKR shows [Qs 4c] (Two pairs : Queens and 8)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8s 8d Qc 9c 2c]
+Seat 1: _SKR (big blind) showed [Qs 4c] and won 600 with Two pairs : Queens and 8
+Seat 2: KING_44 (button) showed [Th Ks] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689810989532053505-6-1674653429 - Holdem no limit (15/30) - 2023/01/25 13:30:29 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (685)
+Seat 3: Ojo_Deajo8 (215)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Ojo_Deajo8 posts big blind 30
+Dealt to _SKR [7s 8d]
+*** PRE-FLOP *** 
+_SKR folds
+Ojo_Deajo8 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Ojo_Deajo8 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689810989532053505-7-1674653433 - Holdem no limit (15/30) - 2023/01/25 13:30:33 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (670)
+Seat 3: Ojo_Deajo8 (230)
+*** ANTE/BLINDS ***
+Ojo_Deajo8 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2h Jh]
+*** PRE-FLOP *** 
+Ojo_Deajo8 raises 200 to 230 and is all-in
+_SKR folds
+Ojo_Deajo8 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 3: Ojo_Deajo8 (small blind) (button) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689810989532053505-8-1674653438 - Holdem no limit (15/30) - 2023/01/25 13:30:38 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (640)
+Seat 3: Ojo_Deajo8 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Ojo_Deajo8 posts big blind 30
+Dealt to _SKR [Kc As]
+*** PRE-FLOP *** 
+_SKR raises 610 to 640 and is all-in
+Ojo_Deajo8 calls 230 and is all-in
+*** FLOP *** [2d Tc Jc]
+*** TURN *** [2d Tc Jc][6c]
+*** RIVER *** [2d Tc Jc 6c][4s]
+*** SHOW DOWN ***
+_SKR shows [Kc As] (High card : Ace)
+Ojo_Deajo8 shows [8s 8c] (One pair : 8)
+Ojo_Deajo8 collected 520 from main pot
+_SKR collected 380 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d Tc Jc 6c 4s]
+Seat 1: _SKR (small blind) (button) showed [Kc As] and won 380 with High card : Ace
+Seat 3: Ojo_Deajo8 (big blind) showed [8s 8c] and won 520 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689810989532053505-9-1674653449 - Holdem no limit (20/40) - 2023/01/25 13:30:49 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (380)
+Seat 3: Ojo_Deajo8 (520)
+*** ANTE/BLINDS ***
+Ojo_Deajo8 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js 4c]
+*** PRE-FLOP *** 
+Ojo_Deajo8 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689810989532053505-10-1674653452 - Holdem no limit (20/40) - 2023/01/25 13:30:52 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (400)
+Seat 3: Ojo_Deajo8 (500)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Ojo_Deajo8 posts big blind 40
+Dealt to _SKR [Jd 5d]
+*** PRE-FLOP *** 
+_SKR calls 20
+Ojo_Deajo8 raises 460 to 500 and is all-in
+_SKR folds
+Ojo_Deajo8 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 3: Ojo_Deajo8 (big blind) won 540
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689810989532053505-11-1674653458 - Holdem no limit (20/40) - 2023/01/25 13:30:58 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (360)
+Seat 3: Ojo_Deajo8 (540)
+*** ANTE/BLINDS ***
+Ojo_Deajo8 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8c 4c]
+*** PRE-FLOP *** 
+Ojo_Deajo8 raises 500 to 540 and is all-in
+_SKR folds
+Ojo_Deajo8 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 3: Ojo_Deajo8 (small blind) (button) won 580
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689810989532053505-12-1674653462 - Holdem no limit (20/40) - 2023/01/25 13:31:02 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 3: Ojo_Deajo8 (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Ojo_Deajo8 posts big blind 40
+Dealt to _SKR [6d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Ojo_Deajo8 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Ojo_Deajo8 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689810989532053505-13-1674653468 - Holdem no limit (20/40) - 2023/01/25 13:31:08 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 3: Ojo_Deajo8 (600)
+*** ANTE/BLINDS ***
+Ojo_Deajo8 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5s Qd]
+*** PRE-FLOP *** 
+Ojo_Deajo8 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689810989532053505-14-1674653471 - Holdem no limit (20/40) - 2023/01/25 13:31:11 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 3: Ojo_Deajo8 (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Ojo_Deajo8 posts big blind 40
+Dealt to _SKR [Jd As]
+*** PRE-FLOP *** 
+_SKR raises 280 to 320 and is all-in
+Ojo_Deajo8 folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689810989532053505-15-1674653475 - Holdem no limit (20/40) - 2023/01/25 13:31:15 UTC
+Table: 'Expresso Nitro(626270424)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (360)
+Seat 3: Ojo_Deajo8 (540)
+*** ANTE/BLINDS ***
+Ojo_Deajo8 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s Kd]
+*** PRE-FLOP *** 
+Ojo_Deajo8 raises 500 to 540 and is all-in
+_SKR calls 320 and is all-in
+*** FLOP *** [4d 3s 2c]
+*** TURN *** [4d 3s 2c][7d]
+*** RIVER *** [4d 3s 2c 7d][5s]
+*** SHOW DOWN ***
+_SKR shows [7s Kd] (One pair : 7)
+Ojo_Deajo8 shows [Jh As] (Straight 5 high)
+Ojo_Deajo8 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 3s 2c 7d 5s]
+Seat 1: _SKR (big blind) showed [7s Kd] and lost with One pair : 7
+Seat 3: Ojo_Deajo8 (small blind) (button) showed [Jh As] and won 900 with Straight 5 high
+
+

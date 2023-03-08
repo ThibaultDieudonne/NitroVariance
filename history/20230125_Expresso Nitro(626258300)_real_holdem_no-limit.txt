@@ -1,0 +1,162 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689758917348556801-1-1674650132 - Holdem no limit (10/20) - 2023/01/25 12:35:32 UTC
+Table: 'Expresso Nitro(626258300)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cgrulo (300)
+Seat 2: _SKR (300)
+Seat 3: Vit_Morgan87 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Vit_Morgan87 posts big blind 20
+Dealt to _SKR [Kh 7d]
+*** PRE-FLOP *** 
+Cgrulo calls 20
+_SKR folds
+Vit_Morgan87 checks
+*** FLOP *** [As Qd 2c]
+Vit_Morgan87 bets 20
+Cgrulo calls 20
+*** TURN *** [As Qd 2c][3s]
+Vit_Morgan87 bets 20
+Cgrulo raises 20 to 40
+Vit_Morgan87 calls 20
+*** RIVER *** [As Qd 2c 3s][5h]
+Vit_Morgan87 bets 220 and is all-in
+Cgrulo folds
+Vit_Morgan87 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [As Qd 2c 3s 5h]
+Seat 3: Vit_Morgan87 (big blind) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689758917348556801-2-1674650167 - Holdem no limit (10/20) - 2023/01/25 12:36:07 UTC
+Table: 'Expresso Nitro(626258300)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cgrulo (220)
+Seat 2: _SKR (290)
+Seat 3: Vit_Morgan87 (390)
+*** ANTE/BLINDS ***
+Vit_Morgan87 posts small blind 10
+Cgrulo posts big blind 20
+Dealt to _SKR [2d 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Vit_Morgan87 calls 10
+Cgrulo checks
+*** FLOP *** [Ah 5d 6h]
+Vit_Morgan87 checks
+Cgrulo checks
+*** TURN *** [Ah 5d 6h][9c]
+Vit_Morgan87 bets 20
+Cgrulo calls 20
+*** RIVER *** [Ah 5d 6h 9c][9d]
+Vit_Morgan87 bets 52
+Cgrulo folds
+Vit_Morgan87 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Ah 5d 6h 9c 9d]
+Seat 3: Vit_Morgan87 (small blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689758917348556801-3-1674650193 - Holdem no limit (15/30) - 2023/01/25 12:36:33 UTC
+Table: 'Expresso Nitro(626258300)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cgrulo (180)
+Seat 2: _SKR (290)
+Seat 3: Vit_Morgan87 (430)
+*** ANTE/BLINDS ***
+Cgrulo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd 6d]
+*** PRE-FLOP *** 
+Vit_Morgan87 folds
+Cgrulo raises 150 to 180 and is all-in
+_SKR calls 150
+*** FLOP *** [3c Ts 7s]
+*** TURN *** [3c Ts 7s][4h]
+*** RIVER *** [3c Ts 7s 4h][3d]
+*** SHOW DOWN ***
+Cgrulo shows [5d Kh] (One pair : 3)
+_SKR shows [Kd 6d] (One pair : 3)
+_SKR collected 180 from pot
+Cgrulo collected 180 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [3c Ts 7s 4h 3d]
+Seat 1: Cgrulo (small blind) showed [5d Kh] and won 180 with One pair : 3
+Seat 2: _SKR (big blind) showed [Kd 6d] and won 180 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689758917348556801-4-1674650207 - Holdem no limit (15/30) - 2023/01/25 12:36:47 UTC
+Table: 'Expresso Nitro(626258300)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cgrulo (180)
+Seat 2: _SKR (290)
+Seat 3: Vit_Morgan87 (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Vit_Morgan87 posts big blind 30
+Dealt to _SKR [Js 3h]
+*** PRE-FLOP *** 
+Cgrulo folds
+_SKR folds
+Vit_Morgan87 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Vit_Morgan87 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689758917348556801-5-1674650219 - Holdem no limit (15/30) - 2023/01/25 12:36:59 UTC
+Table: 'Expresso Nitro(626258300)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cgrulo (180)
+Seat 2: _SKR (275)
+Seat 3: Vit_Morgan87 (445)
+*** ANTE/BLINDS ***
+Vit_Morgan87 posts small blind 15
+Cgrulo posts big blind 30
+Dealt to _SKR [9c Qd]
+*** PRE-FLOP *** 
+_SKR raises 245 to 275 and is all-in
+Vit_Morgan87 folds
+Cgrulo calls 150 and is all-in
+*** FLOP *** [2d 5h 2s]
+*** TURN *** [2d 5h 2s][7c]
+*** RIVER *** [2d 5h 2s 7c][8h]
+*** SHOW DOWN ***
+Cgrulo shows [Ac Ks] (One pair : 2)
+_SKR shows [9c Qd] (One pair : 2)
+_SKR collected 95 from side pot 1
+Cgrulo collected 375 from main pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [2d 5h 2s 7c 8h]
+Seat 1: Cgrulo (big blind) showed [Ac Ks] and won 375 with One pair : 2
+Seat 2: _SKR (button) showed [9c Qd] and won 95 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689758917348556801-6-1674650237 - Holdem no limit (15/30) - 2023/01/25 12:37:17 UTC
+Table: 'Expresso Nitro(626258300)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cgrulo (375)
+Seat 2: _SKR (95)
+Seat 3: Vit_Morgan87 (430)
+*** ANTE/BLINDS ***
+Cgrulo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Js Ah]
+*** PRE-FLOP *** 
+Vit_Morgan87 calls 30
+Cgrulo calls 15
+_SKR raises 65 to 95 and is all-in
+Vit_Morgan87 calls 65
+Cgrulo folds
+*** FLOP *** [6h 7c Kc]
+*** TURN *** [6h 7c Kc][9d]
+*** RIVER *** [6h 7c Kc 9d][Qd]
+*** SHOW DOWN ***
+_SKR shows [Js Ah] (High card : Ace)
+Vit_Morgan87 shows [Kd Jc] (One pair : Kings)
+Vit_Morgan87 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [6h 7c Kc 9d Qd]
+Seat 2: _SKR (big blind) showed [Js Ah] and lost with High card : Ace
+Seat 3: Vit_Morgan87 (button) showed [Kd Jc] and won 220 with One pair : Kings
+
+

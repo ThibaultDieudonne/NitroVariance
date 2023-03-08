@@ -1,0 +1,303 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673232377114787841-1-1673643595 - Holdem no limit (10/20) - 2023/01/13 20:59:55 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: martiniflush (300)
+Seat 3: mikai8 (300)
+*** ANTE/BLINDS ***
+mikai8 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac 6c]
+*** PRE-FLOP *** 
+martiniflush folds
+mikai8 calls 10
+_SKR raises 280 to 300 and is all-in
+mikai8 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673232377114787841-2-1673643632 - Holdem no limit (10/20) - 2023/01/13 21:00:32 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: martiniflush (300)
+Seat 3: mikai8 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+martiniflush posts big blind 20
+Dealt to _SKR [4s Jc]
+*** PRE-FLOP *** 
+mikai8 calls 20
+_SKR folds
+martiniflush checks
+*** FLOP *** [6s Kh Ks]
+martiniflush checks
+mikai8 checks
+*** TURN *** [6s Kh Ks][4c]
+martiniflush checks
+mikai8 checks
+*** RIVER *** [6s Kh Ks 4c][5s]
+martiniflush checks
+mikai8 checks
+*** SHOW DOWN ***
+martiniflush shows [Jd Td] (One pair : Kings)
+mikai8 shows [5c 7s] (Two pairs : Kings and 5)
+mikai8 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [6s Kh Ks 4c 5s]
+Seat 2: martiniflush (big blind) showed [Jd Td] and lost with One pair : Kings
+Seat 3: mikai8 (button) showed [5c 7s] and won 50 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673232377114787841-3-1673643656 - Holdem no limit (15/30) - 2023/01/13 21:00:56 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: martiniflush (280)
+Seat 3: mikai8 (310)
+*** ANTE/BLINDS ***
+martiniflush posts small blind 15
+mikai8 posts big blind 30
+Dealt to _SKR [8h Th]
+*** PRE-FLOP *** 
+_SKR folds
+martiniflush raises 75 to 105
+mikai8 folds
+martiniflush collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 2: martiniflush (small blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673232377114787841-4-1673643685 - Holdem no limit (15/30) - 2023/01/13 21:01:25 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: martiniflush (310)
+Seat 3: mikai8 (280)
+*** ANTE/BLINDS ***
+mikai8 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th Ah]
+*** PRE-FLOP *** 
+martiniflush folds
+mikai8 calls 15
+_SKR raises 280 to 310 and is all-in
+mikai8 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: _SKR (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673232377114787841-5-1673643698 - Holdem no limit (15/30) - 2023/01/13 21:01:38 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (340)
+Seat 2: martiniflush (310)
+Seat 3: mikai8 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+martiniflush posts big blind 30
+Dealt to _SKR [Qs 2h]
+*** PRE-FLOP *** 
+mikai8 raises 30 to 60
+_SKR folds
+martiniflush calls 30
+*** FLOP *** [4h Jh 9h]
+martiniflush checks
+mikai8 bets 47
+martiniflush folds
+mikai8 collected 182 from pot
+*** SUMMARY ***
+Total pot 182 | No rake
+Board: [4h Jh 9h]
+Seat 3: mikai8 (button) won 182
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673232377114787841-6-1673643719 - Holdem no limit (20/40) - 2023/01/13 21:01:59 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (325)
+Seat 2: martiniflush (250)
+Seat 3: mikai8 (325)
+*** ANTE/BLINDS ***
+martiniflush posts small blind 20
+mikai8 posts big blind 40
+Dealt to _SKR [8d 5h]
+*** PRE-FLOP *** 
+_SKR folds
+martiniflush calls 20
+mikai8 checks
+*** FLOP *** [Qh Ts 9d]
+martiniflush checks
+mikai8 bets 52
+martiniflush calls 52
+*** TURN *** [Qh Ts 9d][3s]
+martiniflush checks
+mikai8 bets 64
+martiniflush calls 64
+*** RIVER *** [Qh Ts 9d 3s][Kh]
+martiniflush bets 94 and is all-in
+mikai8 calls 94
+*** SHOW DOWN ***
+martiniflush shows [Jh 3h] (Straight King high)
+mikai8 shows [Kc Jd] (Straight King high)
+mikai8 collected 250 from pot
+martiniflush collected 250 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Qh Ts 9d 3s Kh]
+Seat 2: martiniflush (small blind) showed [Jh 3h] and won 250 with Straight King high
+Seat 3: mikai8 (big blind) showed [Kc Jd] and won 250 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673232377114787841-7-1673643745 - Holdem no limit (20/40) - 2023/01/13 21:02:25 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (325)
+Seat 2: martiniflush (250)
+Seat 3: mikai8 (325)
+*** ANTE/BLINDS ***
+mikai8 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8s 7s]
+*** PRE-FLOP *** 
+martiniflush folds
+mikai8 calls 20
+_SKR raises 285 to 325 and is all-in
+mikai8 folds
+_SKR collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Seat 1: _SKR (big blind) won 365
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673232377114787841-8-1673643762 - Holdem no limit (20/40) - 2023/01/13 21:02:42 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (365)
+Seat 2: martiniflush (250)
+Seat 3: mikai8 (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+martiniflush posts big blind 40
+Dealt to _SKR [Kh Ac]
+*** PRE-FLOP *** 
+mikai8 folds
+_SKR raises 325 to 365 and is all-in
+martiniflush folds
+_SKR collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Seat 1: _SKR (small blind) won 405
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2673232377114787841-9-1673643785 - Holdem no limit (30/60) - 2023/01/13 21:03:05 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (405)
+Seat 2: martiniflush (210)
+Seat 3: mikai8 (285)
+*** ANTE/BLINDS ***
+martiniflush posts small blind 30
+mikai8 posts big blind 60
+Dealt to _SKR [2s 5d]
+*** PRE-FLOP *** 
+_SKR folds
+martiniflush raises 150 to 210 and is all-in
+mikai8 calls 150
+*** FLOP *** [9h 7c Jc]
+*** TURN *** [9h 7c Jc][Ad]
+*** RIVER *** [9h 7c Jc Ad][Kc]
+*** SHOW DOWN ***
+mikai8 shows [7d Td] (One pair : 7)
+martiniflush shows [Ah Ac] (Trips of Aces)
+martiniflush collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [9h 7c Jc Ad Kc]
+Seat 2: martiniflush (small blind) showed [Ah Ac] and won 420 with Trips of Aces
+Seat 3: mikai8 (big blind) showed [7d Td] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2673232377114787841-10-1673643802 - Holdem no limit (30/60) - 2023/01/13 21:03:22 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (405)
+Seat 2: martiniflush (420)
+Seat 3: mikai8 (75)
+*** ANTE/BLINDS ***
+mikai8 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9c 9d]
+*** PRE-FLOP *** 
+martiniflush folds
+mikai8 raises 15 to 75 and is all-in
+_SKR calls 15
+*** FLOP *** [Qs 3d As]
+*** TURN *** [Qs 3d As][8s]
+*** RIVER *** [Qs 3d As 8s][4h]
+*** SHOW DOWN ***
+mikai8 shows [6h 2h] (High card : Ace)
+_SKR shows [9c 9d] (One pair : 9)
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Qs 3d As 8s 4h]
+Seat 1: _SKR (big blind) showed [9c 9d] and won 150 with One pair : 9
+Seat 3: mikai8 (small blind) showed [6h 2h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2673232377114787841-11-1673643820 - Holdem no limit (30/60) - 2023/01/13 21:03:40 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (480)
+Seat 2: martiniflush (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+martiniflush posts big blind 60
+Dealt to _SKR [5c 8d]
+*** PRE-FLOP *** 
+_SKR folds
+martiniflush collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: martiniflush (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2673232377114787841-12-1673643832 - Holdem no limit (40/80) - 2023/01/13 21:03:52 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (450)
+Seat 2: martiniflush (450)
+*** ANTE/BLINDS ***
+martiniflush posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [5s 2d]
+*** PRE-FLOP *** 
+martiniflush raises 370 to 450 and is all-in
+_SKR folds
+martiniflush collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 2: martiniflush (small blind) (button) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2673232377114787841-13-1673643850 - Holdem no limit (40/80) - 2023/01/13 21:04:10 UTC
+Table: 'Expresso Nitro(622410415)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (370)
+Seat 2: martiniflush (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+martiniflush posts big blind 80
+Dealt to _SKR [Ah Td]
+*** PRE-FLOP *** 
+_SKR raises 290 to 370 and is all-in
+martiniflush raises 160 to 530 and is all-in
+*** FLOP *** [Qh As 4d]
+*** TURN *** [Qh As 4d][3s]
+*** RIVER *** [Qh As 4d 3s][8d]
+*** SHOW DOWN ***
+_SKR shows [Ah Td] (One pair : Aces)
+martiniflush shows [Qd Ac] (Two pairs : Aces and Queens)
+martiniflush collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qh As 4d 3s 8d]
+Seat 1: _SKR (small blind) (button) showed [Ah Td] and lost with One pair : Aces
+Seat 2: martiniflush (big blind) showed [Qd Ac] and won 900 with Two pairs : Aces and Queens
+
+

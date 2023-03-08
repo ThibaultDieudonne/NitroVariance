@@ -1,0 +1,61 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717618428872491009-1-1676229093 - Holdem no limit (10/20) - 2023/02/12 19:11:33 UTC
+Table: 'Expresso Nitro(632744848)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: J te briz en (300)
+Seat 3: Benjipabo493 (300)
+*** ANTE/BLINDS ***
+Benjipabo493 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s 7c]
+*** PRE-FLOP *** 
+J te briz en folds
+Benjipabo493 calls 10
+_SKR checks
+*** FLOP *** [Ad Ac Kc]
+Benjipabo493 checks
+_SKR checks
+*** TURN *** [Ad Ac Kc][Qd]
+Benjipabo493 checks
+_SKR checks
+*** RIVER *** [Ad Ac Kc Qd][6c]
+Benjipabo493 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [3s 7c] (One pair : Aces)
+Benjipabo493 shows [6d 8d] (Two pairs : Aces and 6)
+Benjipabo493 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ad Ac Kc Qd 6c]
+Seat 1: _SKR (big blind) showed [3s 7c] and lost with One pair : Aces
+Seat 3: Benjipabo493 (small blind) showed [6d 8d] and won 40 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717618428872491009-2-1676229120 - Holdem no limit (10/20) - 2023/02/12 19:12:00 UTC
+Table: 'Expresso Nitro(632744848)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: J te briz en (300)
+Seat 3: Benjipabo493 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+J te briz en posts big blind 20
+Dealt to _SKR [As 8d]
+*** PRE-FLOP *** 
+Benjipabo493 raises 40 to 60
+_SKR raises 220 to 280 and is all-in
+J te briz en folds
+Benjipabo493 calls 220
+*** FLOP *** [3h 7s Ks]
+*** TURN *** [3h 7s Ks][5h]
+*** RIVER *** [3h 7s Ks 5h][Th]
+*** SHOW DOWN ***
+_SKR shows [As 8d] (High card : Ace)
+Benjipabo493 shows [Qd Ac] (High card : Ace)
+Benjipabo493 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [3h 7s Ks 5h Th]
+Seat 1: _SKR (small blind) showed [As 8d] and lost with High card : Ace
+Seat 3: Benjipabo493 (button) showed [Qd Ac] and won 580 with High card : Ace
+
+

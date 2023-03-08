@@ -1,0 +1,49 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696530607600566273-1-1675085384 - Holdem no limit (10/20) - 2023/01/30 13:29:44 UTC
+Table: 'Expresso Nitro(627834957)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Hattersgonna (300)
+Seat 2: _SKR (300)
+Seat 3: folfilone (300)
+*** ANTE/BLINDS ***
+folfilone posts small blind 10
+Hattersgonna posts big blind 20
+Dealt to _SKR [4d 9h]
+*** PRE-FLOP *** 
+_SKR folds
+folfilone raises 40 to 60
+Hattersgonna folds
+folfilone collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: folfilone (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696530607600566273-2-1675085396 - Holdem no limit (10/20) - 2023/01/30 13:29:56 UTC
+Table: 'Expresso Nitro(627834957)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Hattersgonna (280)
+Seat 2: _SKR (300)
+Seat 3: folfilone (320)
+*** ANTE/BLINDS ***
+Hattersgonna posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 7s]
+*** PRE-FLOP *** 
+folfilone calls 20
+Hattersgonna raises 260 to 280 and is all-in
+_SKR raises 20 to 300 and is all-in
+folfilone calls 280
+*** FLOP *** [Qs Ks Jc]
+*** TURN *** [Qs Ks Jc][Th]
+*** RIVER *** [Qs Ks Jc Th][3s]
+*** SHOW DOWN ***
+Hattersgonna shows [Qd Kh] (Two pairs : Kings and Queens)
+_SKR shows [7c 7s] (One pair : 7)
+folfilone shows [Kc Ah] (Straight Ace high)
+folfilone collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Qs Ks Jc Th 3s]
+Seat 1: Hattersgonna (small blind) showed [Qd Kh] and lost with Two pairs : Kings and Queens
+Seat 2: _SKR (big blind) showed [7c 7s] and lost with One pair : 7
+Seat 3: folfilone (button) showed [Kc Ah] and won 880 with Straight Ace high
+
+

@@ -1,0 +1,174 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697280298437050369-1-1675116194 - Holdem no limit (10/20) - 2023/01/30 22:03:14 UTC
+Table: 'Expresso Nitro(628009508)#0' 3-max (real money) Seat #3 is the button
+Seat 1: therrassans (300)
+Seat 2: Yerling (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+therrassans posts small blind 10
+Yerling posts big blind 20
+Dealt to _SKR [Qs Js]
+*** PRE-FLOP *** 
+_SKR folds
+therrassans folds
+Yerling collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Yerling (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697280298437050369-2-1675116204 - Holdem no limit (10/20) - 2023/01/30 22:03:24 UTC
+Table: 'Expresso Nitro(628009508)#0' 3-max (real money) Seat #1 is the button
+Seat 1: therrassans (290)
+Seat 2: Yerling (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Yerling posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s 4d]
+*** PRE-FLOP *** 
+therrassans raises 270 to 290 and is all-in
+Yerling folds
+_SKR folds
+therrassans collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: therrassans (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697280298437050369-3-1675116222 - Holdem no limit (10/20) - 2023/01/30 22:03:42 UTC
+Table: 'Expresso Nitro(628009508)#0' 3-max (real money) Seat #2 is the button
+Seat 1: therrassans (320)
+Seat 2: Yerling (300)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+therrassans posts big blind 20
+Dealt to _SKR [8c 8h]
+*** PRE-FLOP *** 
+Yerling raises 280 to 300 and is all-in
+_SKR calls 270 and is all-in
+therrassans raises 20 to 320 and is all-in
+*** FLOP *** [8s Ts 6c]
+*** TURN *** [8s Ts 6c][Qd]
+*** RIVER *** [8s Ts 6c Qd][4d]
+*** SHOW DOWN ***
+Yerling shows [5h 9s] (High card : Queen)
+therrassans shows [Kh Ac] (High card : Ace)
+_SKR shows [8c 8h] (Trips of 8)
+_SKR collected 840 from main pot
+therrassans collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s Ts 6c Qd 4d]
+Seat 1: therrassans (big blind) showed [Kh Ac] and won 60 with High card : Ace
+Seat 2: Yerling (button) showed [5h 9s] and lost with High card : Queen
+Seat 3: _SKR (small blind) showed [8c 8h] and won 840 with Trips of 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697280298437050369-4-1675116241 - Holdem no limit (10/20) - 2023/01/30 22:04:01 UTC
+Table: 'Expresso Nitro(628009508)#0' 3-max (real money) Seat #1 is the button
+Seat 1: therrassans (60)
+Seat 3: _SKR (840)
+*** ANTE/BLINDS ***
+therrassans posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s 4h]
+*** PRE-FLOP *** 
+therrassans calls 10
+_SKR checks
+*** FLOP *** [9c Qc Qs]
+_SKR checks
+therrassans bets 20
+_SKR calls 20
+*** TURN *** [9c Qc Qs][Td]
+_SKR checks
+therrassans checks
+*** RIVER *** [9c Qc Qs Td][Js]
+_SKR checks
+therrassans checks
+*** SHOW DOWN ***
+therrassans shows [3c 4c] (One pair : Queens)
+_SKR shows [9s 4h] (Two pairs : Queens and 9)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9c Qc Qs Td Js]
+Seat 1: therrassans (small blind) (button) showed [3c 4c] and lost with One pair : Queens
+Seat 3: _SKR (big blind) showed [9s 4h] and won 80 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697280298437050369-5-1675116281 - Holdem no limit (15/30) - 2023/01/30 22:04:41 UTC
+Table: 'Expresso Nitro(628009508)#0' 3-max (real money) Seat #3 is the button
+Seat 1: therrassans (20)
+Seat 3: _SKR (880)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+therrassans posts big blind 20 and is all-in
+Dealt to _SKR [3d 2d]
+*** PRE-FLOP *** 
+_SKR calls 15
+*** FLOP *** [6c Th 6h]
+*** TURN *** [6c Th 6h][Jh]
+*** RIVER *** [6c Th 6h Jh][5d]
+*** SHOW DOWN ***
+therrassans shows [Td 4d] (Two pairs : Tens and 6)
+_SKR shows [3d 2d] (One pair : 6)
+_SKR collected 10 from side pot 1
+therrassans collected 40 from main pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [6c Th 6h Jh 5d]
+Seat 1: therrassans (big blind) showed [Td 4d] and won 40 with Two pairs : Tens and 6
+Seat 3: _SKR (small blind) (button) showed [3d 2d] and won 10 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697280298437050369-6-1675116291 - Holdem no limit (15/30) - 2023/01/30 22:04:51 UTC
+Table: 'Expresso Nitro(628009508)#0' 3-max (real money) Seat #1 is the button
+Seat 1: therrassans (40)
+Seat 3: _SKR (860)
+*** ANTE/BLINDS ***
+therrassans posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3h 6s]
+*** PRE-FLOP *** 
+therrassans raises 10 to 40 and is all-in
+_SKR calls 10
+*** FLOP *** [8s Qh Js]
+*** TURN *** [8s Qh Js][2c]
+*** RIVER *** [8s Qh Js 2c][Ks]
+*** SHOW DOWN ***
+_SKR shows [3h 6s] (High card : King)
+therrassans shows [Jc Qs] (Two pairs : Queens and Jacks)
+therrassans collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8s Qh Js 2c Ks]
+Seat 1: therrassans (small blind) (button) showed [Jc Qs] and won 80 with Two pairs : Queens and Jacks
+Seat 3: _SKR (big blind) showed [3h 6s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697280298437050369-7-1675116306 - Holdem no limit (15/30) - 2023/01/30 22:05:06 UTC
+Table: 'Expresso Nitro(628009508)#0' 3-max (real money) Seat #3 is the button
+Seat 1: therrassans (80)
+Seat 3: _SKR (820)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+therrassans posts big blind 30
+Dealt to _SKR [Qh 8h]
+*** PRE-FLOP *** 
+_SKR raises 790 to 820 and is all-in
+therrassans calls 50 and is all-in
+*** FLOP *** [5h 8c Th]
+*** TURN *** [5h 8c Th][Tc]
+*** RIVER *** [5h 8c Th Tc][Ts]
+*** SHOW DOWN ***
+therrassans shows [Kd Ah] (Trips of Tens)
+_SKR shows [Qh 8h] (Full of Tens and 8)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h 8c Th Tc Ts]
+Seat 1: therrassans (big blind) showed [Kd Ah] and lost with Trips of Tens
+Seat 3: _SKR (small blind) (button) showed [Qh 8h] and won 900 with Full of Tens and 8
+
+

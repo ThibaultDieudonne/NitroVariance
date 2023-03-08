@@ -1,0 +1,318 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676339051514036225-1-1673820541 - Holdem no limit (10/20) - 2023/01/15 22:09:01 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #3 is the button
+Seat 1: llermediK (300)
+Seat 2: Mattouzzini (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+llermediK posts small blind 10
+Mattouzzini posts big blind 20
+Dealt to _SKR [8s Jh]
+*** PRE-FLOP *** 
+_SKR folds
+llermediK calls 10
+Mattouzzini checks
+*** FLOP *** [2c Qs 5h]
+llermediK checks
+Mattouzzini bets 26
+llermediK raises 26 to 52
+Mattouzzini folds
+llermediK collected 118 from pot
+*** SUMMARY ***
+Total pot 118 | No rake
+Board: [2c Qs 5h]
+Seat 1: llermediK (small blind) won 118
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676339051514036225-2-1673820566 - Holdem no limit (10/20) - 2023/01/15 22:09:26 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #1 is the button
+Seat 1: llermediK (346)
+Seat 2: Mattouzzini (254)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Mattouzzini posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs 8d]
+*** PRE-FLOP *** 
+llermediK calls 20
+Mattouzzini raises 234 to 254 and is all-in
+_SKR folds
+llermediK calls 234
+*** FLOP *** [Js 8s 9c]
+*** TURN *** [Js 8s 9c][3d]
+*** RIVER *** [Js 8s 9c 3d][5c]
+*** SHOW DOWN ***
+llermediK shows [Ts 6h] (High card : Jack)
+Mattouzzini shows [7s Ac] (High card : Ace)
+Mattouzzini collected 528 from pot
+*** SUMMARY ***
+Total pot 528 | No rake
+Board: [Js 8s 9c 3d 5c]
+Seat 1: llermediK (button) showed [Ts 6h] and lost with High card : Jack
+Seat 2: Mattouzzini (small blind) showed [7s Ac] and won 528 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676339051514036225-3-1673820584 - Holdem no limit (10/20) - 2023/01/15 22:09:44 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #2 is the button
+Seat 1: llermediK (92)
+Seat 2: Mattouzzini (528)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+llermediK posts big blind 20
+Dealt to _SKR [Ah 4c]
+*** PRE-FLOP *** 
+Mattouzzini folds
+_SKR raises 260 to 280 and is all-in
+llermediK folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: _SKR (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676339051514036225-4-1673820597 - Holdem no limit (15/30) - 2023/01/15 22:09:57 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #3 is the button
+Seat 1: llermediK (72)
+Seat 2: Mattouzzini (528)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+llermediK posts small blind 15
+Mattouzzini posts big blind 30
+Dealt to _SKR [6h 7s]
+*** PRE-FLOP *** 
+_SKR folds
+llermediK calls 15
+Mattouzzini raises 498 to 528 and is all-in
+llermediK calls 42 and is all-in
+*** FLOP *** [9h 5d 4h]
+*** TURN *** [9h 5d 4h][2h]
+*** RIVER *** [9h 5d 4h 2h][Tc]
+*** SHOW DOWN ***
+llermediK shows [5c Qd] (One pair : 5)
+Mattouzzini shows [Ac 7h] (High card : Ace)
+Mattouzzini collected 456 from side pot 1
+llermediK collected 144 from main pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9h 5d 4h 2h Tc]
+Seat 1: llermediK (small blind) showed [5c Qd] and won 144 with One pair : 5
+Seat 2: Mattouzzini (big blind) showed [Ac 7h] and won 456 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676339051514036225-5-1673820622 - Holdem no limit (15/30) - 2023/01/15 22:10:22 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #1 is the button
+Seat 1: llermediK (144)
+Seat 2: Mattouzzini (456)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Mattouzzini posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2d 6s]
+*** PRE-FLOP *** 
+llermediK calls 30
+Mattouzzini calls 15
+_SKR checks
+*** FLOP *** [Ad 3h 2c]
+Mattouzzini checks
+_SKR checks
+llermediK checks
+*** TURN *** [Ad 3h 2c][8h]
+Mattouzzini bets 59
+_SKR folds
+llermediK folds
+Mattouzzini collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [Ad 3h 2c 8h]
+Seat 2: Mattouzzini (small blind) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676339051514036225-6-1673820683 - Holdem no limit (20/40) - 2023/01/15 22:11:23 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #2 is the button
+Seat 1: llermediK (114)
+Seat 2: Mattouzzini (516)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+llermediK posts big blind 40
+Dealt to _SKR [7s 4d]
+*** PRE-FLOP *** 
+Mattouzzini raises 40 to 80
+_SKR folds
+llermediK calls 40
+*** FLOP *** [2d 5h 2s]
+llermediK checks
+Mattouzzini checks
+*** TURN *** [2d 5h 2s][2h]
+llermediK checks
+Mattouzzini checks
+*** RIVER *** [2d 5h 2s 2h][7d]
+llermediK bets 34 and is all-in
+Mattouzzini folds
+llermediK collected 214 from pot
+*** SUMMARY ***
+Total pot 214 | No rake
+Board: [2d 5h 2s 2h 7d]
+Seat 1: llermediK (big blind) won 214
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676339051514036225-7-1673820717 - Holdem no limit (30/60) - 2023/01/15 22:11:57 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #3 is the button
+Seat 1: llermediK (214)
+Seat 2: Mattouzzini (436)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+llermediK posts small blind 30
+Mattouzzini posts big blind 60
+Dealt to _SKR [2c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+llermediK folds
+Mattouzzini collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Mattouzzini (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676339051514036225-8-1673820724 - Holdem no limit (30/60) - 2023/01/15 22:12:04 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #1 is the button
+Seat 1: llermediK (184)
+Seat 2: Mattouzzini (466)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+Mattouzzini posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c Jh]
+*** PRE-FLOP *** 
+llermediK calls 60
+Mattouzzini raises 406 to 466 and is all-in
+_SKR folds
+llermediK calls 124 and is all-in
+*** FLOP *** [6s Ts Jc]
+*** TURN *** [6s Ts Jc][3s]
+*** RIVER *** [6s Ts Jc 3s][6c]
+*** SHOW DOWN ***
+llermediK shows [Kh 8h] (One pair : 6)
+Mattouzzini shows [8d Kd] (One pair : 6)
+Mattouzzini collected 496 from side pot 1
+llermediK collected 214 from main pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [6s Ts Jc 3s 6c]
+Seat 1: llermediK (button) showed [Kh 8h] and won 214 with One pair : 6
+Seat 2: Mattouzzini (small blind) showed [8d Kd] and won 496 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676339051514036225-9-1673820737 - Holdem no limit (30/60) - 2023/01/15 22:12:17 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #2 is the button
+Seat 1: llermediK (214)
+Seat 2: Mattouzzini (496)
+Seat 3: _SKR (190)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+llermediK posts big blind 60
+Dealt to _SKR [Jd Kd]
+*** PRE-FLOP *** 
+Mattouzzini folds
+_SKR raises 130 to 190 and is all-in
+llermediK folds
+_SKR collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 3: _SKR (small blind) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676339051514036225-10-1673820752 - Holdem no limit (30/60) - 2023/01/15 22:12:32 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #3 is the button
+Seat 1: llermediK (154)
+Seat 2: Mattouzzini (496)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+llermediK posts small blind 30
+Mattouzzini posts big blind 60
+Dealt to _SKR [Kd 7c]
+*** PRE-FLOP *** 
+_SKR raises 190 to 250 and is all-in
+llermediK calls 124 and is all-in
+Mattouzzini folds
+*** FLOP *** [3d 7s Qs]
+*** TURN *** [3d 7s Qs][8s]
+*** RIVER *** [3d 7s Qs 8s][3c]
+*** SHOW DOWN ***
+llermediK shows [9c Js] (One pair : 3)
+_SKR shows [Kd 7c] (Two pairs : 7 and 3)
+_SKR collected 464 from pot
+*** SUMMARY ***
+Total pot 464 | No rake
+Board: [3d 7s Qs 8s 3c]
+Seat 1: llermediK (small blind) showed [9c Js] and lost with One pair : 3
+Seat 3: _SKR (button) showed [Kd 7c] and won 464 with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676339051514036225-11-1673820768 - Holdem no limit (30/60) - 2023/01/15 22:12:48 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Mattouzzini (436)
+Seat 3: _SKR (464)
+*** ANTE/BLINDS ***
+Mattouzzini posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kh 5d]
+*** PRE-FLOP *** 
+Mattouzzini folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676339051514036225-12-1673820771 - Holdem no limit (30/60) - 2023/01/15 22:12:51 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Mattouzzini (406)
+Seat 3: _SKR (494)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Mattouzzini posts big blind 60
+Dealt to _SKR [8d 8s]
+*** PRE-FLOP *** 
+_SKR raises 434 to 494 and is all-in
+Mattouzzini calls 346 and is all-in
+*** FLOP *** [6h Kd 3s]
+*** TURN *** [6h Kd 3s][3h]
+*** RIVER *** [6h Kd 3s 3h][Td]
+*** SHOW DOWN ***
+Mattouzzini shows [4h Kh] (Two pairs : Kings and 3)
+_SKR shows [8d 8s] (Two pairs : 8 and 3)
+_SKR collected 88 from side pot 1
+Mattouzzini collected 812 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6h Kd 3s 3h Td]
+Seat 2: Mattouzzini (big blind) showed [4h Kh] and won 812 with Two pairs : Kings and 3
+Seat 3: _SKR (small blind) (button) showed [8d 8s] and won 88 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676339051514036225-13-1673820782 - Holdem no limit (40/80) - 2023/01/15 22:13:02 UTC
+Table: 'Expresso Nitro(623133744)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Mattouzzini (812)
+Seat 3: _SKR (88)
+*** ANTE/BLINDS ***
+Mattouzzini posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [4h 9h]
+*** PRE-FLOP *** 
+Mattouzzini raises 80 to 160
+_SKR calls 8 and is all-in
+*** FLOP *** [Ad 7c 4d]
+*** TURN *** [Ad 7c 4d][Qs]
+*** RIVER *** [Ad 7c 4d Qs][7s]
+*** SHOW DOWN ***
+_SKR shows [4h 9h] (Two pairs : 7 and 4)
+Mattouzzini shows [9c 7d] (Trips of 7)
+Mattouzzini collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [Ad 7c 4d Qs 7s]
+Seat 2: Mattouzzini (small blind) (button) showed [9c 7d] and won 248 with Trips of 7
+Seat 3: _SKR (big blind) showed [4h 9h] and lost with Two pairs : 7 and 4
+
+

@@ -1,0 +1,49 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661403435886182401-1-1673011490 - Holdem no limit (10/20) - 2023/01/06 13:24:50 UTC
+Table: 'Expresso Nitro(619656275)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Er_villa (300)
+Seat 2: _SKR (300)
+Seat 3: Kesempatam (300)
+*** ANTE/BLINDS ***
+Kesempatam posts small blind 10
+Er_villa posts big blind 20
+Dealt to _SKR [Qc Td]
+*** PRE-FLOP *** 
+_SKR folds
+Kesempatam calls 10
+Er_villa raises 280 to 300 and is all-in
+Kesempatam folds
+Er_villa collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Er_villa (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661403435886182401-2-1673011498 - Holdem no limit (10/20) - 2023/01/06 13:24:58 UTC
+Table: 'Expresso Nitro(619656275)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Er_villa (320)
+Seat 2: _SKR (300)
+Seat 3: Kesempatam (280)
+*** ANTE/BLINDS ***
+Er_villa posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s 8c]
+*** PRE-FLOP *** 
+Kesempatam raises 260 to 280 and is all-in
+Er_villa raises 40 to 320 and is all-in
+_SKR calls 280 and is all-in
+*** FLOP *** [Js 6d Qd]
+*** TURN *** [Js 6d Qd][9h]
+*** RIVER *** [Js 6d Qd 9h][7d]
+*** SHOW DOWN ***
+_SKR shows [8s 8c] (One pair : 8)
+Kesempatam shows [Ks Ah] (High card : Ace)
+Er_villa shows [Tc Th] (One pair : Tens)
+Er_villa collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js 6d Qd 9h 7d]
+Seat 1: Er_villa (small blind) showed [Tc Th] and won 900 with One pair : Tens
+Seat 2: _SKR (big blind) showed [8s 8c] and lost with One pair : 8
+Seat 3: Kesempatam (button) showed [Ks Ah] and lost with High card : Ace
+
+

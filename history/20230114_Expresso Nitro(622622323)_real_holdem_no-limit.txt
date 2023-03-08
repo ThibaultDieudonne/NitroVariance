@@ -1,0 +1,103 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674142515044548609-1-1673703211 - Holdem no limit (10/20) - 2023/01/14 13:33:31 UTC
+Table: 'Expresso Nitro(622622323)#0' 3-max (real money) Seat #3 is the button
+Seat 1: gottaGETGET (300)
+Seat 2: _SKR (300)
+Seat 3: Mattouzzini (300)
+*** ANTE/BLINDS ***
+gottaGETGET posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5c Th]
+*** PRE-FLOP *** 
+Mattouzzini folds
+gottaGETGET raises 20 to 40
+_SKR folds
+gottaGETGET collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: gottaGETGET (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674142515044548609-2-1673703220 - Holdem no limit (10/20) - 2023/01/14 13:33:40 UTC
+Table: 'Expresso Nitro(622622323)#0' 3-max (real money) Seat #1 is the button
+Seat 1: gottaGETGET (320)
+Seat 2: _SKR (280)
+Seat 3: Mattouzzini (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mattouzzini posts big blind 20
+Dealt to _SKR [Js Ad]
+*** PRE-FLOP *** 
+gottaGETGET folds
+_SKR raises 260 to 280 and is all-in
+Mattouzzini folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: _SKR (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674142515044548609-3-1673703230 - Holdem no limit (10/20) - 2023/01/14 13:33:50 UTC
+Table: 'Expresso Nitro(622622323)#0' 3-max (real money) Seat #2 is the button
+Seat 1: gottaGETGET (320)
+Seat 2: _SKR (300)
+Seat 3: Mattouzzini (280)
+*** ANTE/BLINDS ***
+Mattouzzini posts small blind 10
+gottaGETGET posts big blind 20
+Dealt to _SKR [Qc 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Mattouzzini folds
+gottaGETGET collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: gottaGETGET (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674142515044548609-4-1673703244 - Holdem no limit (10/20) - 2023/01/14 13:34:04 UTC
+Table: 'Expresso Nitro(622622323)#0' 3-max (real money) Seat #3 is the button
+Seat 1: gottaGETGET (330)
+Seat 2: _SKR (300)
+Seat 3: Mattouzzini (270)
+*** ANTE/BLINDS ***
+gottaGETGET posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s 2s]
+*** PRE-FLOP *** 
+Mattouzzini raises 20 to 40
+gottaGETGET folds
+_SKR folds
+Mattouzzini collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: Mattouzzini (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674142515044548609-5-1673703254 - Holdem no limit (10/20) - 2023/01/14 13:34:14 UTC
+Table: 'Expresso Nitro(622622323)#0' 3-max (real money) Seat #1 is the button
+Seat 1: gottaGETGET (320)
+Seat 2: _SKR (280)
+Seat 3: Mattouzzini (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mattouzzini posts big blind 20
+Dealt to _SKR [Ac Kc]
+*** PRE-FLOP *** 
+gottaGETGET raises 20 to 40
+_SKR raises 240 to 280 and is all-in
+Mattouzzini folds
+gottaGETGET calls 240
+*** FLOP *** [7c 3s 6d]
+*** TURN *** [7c 3s 6d][5h]
+*** RIVER *** [7c 3s 6d 5h][7d]
+*** SHOW DOWN ***
+_SKR shows [Ac Kc] (One pair : 7)
+gottaGETGET shows [Ts Th] (Two pairs : Tens and 7)
+gottaGETGET collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [7c 3s 6d 5h 7d]
+Seat 1: gottaGETGET (button) showed [Ts Th] and won 580 with Two pairs : Tens and 7
+Seat 2: _SKR (small blind) showed [Ac Kc] and lost with One pair : 7
+
+

@@ -1,0 +1,98 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717289301233631233-1-1676215901 - Holdem no limit (10/20) - 2023/02/12 15:31:41 UTC
+Table: 'Expresso Nitro(632668217)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: joow28 (300)
+Seat 3: TERY M (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+joow28 posts big blind 20
+Dealt to _SKR [9c Kd]
+*** PRE-FLOP *** 
+TERY M raises 280 to 300 and is all-in
+_SKR folds
+joow28 folds
+TERY M collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: TERY M (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717289301233631233-2-1676215910 - Holdem no limit (10/20) - 2023/02/12 15:31:50 UTC
+Table: 'Expresso Nitro(632668217)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: joow28 (280)
+Seat 3: TERY M (330)
+*** ANTE/BLINDS ***
+joow28 posts small blind 10
+TERY M posts big blind 20
+Dealt to _SKR [7h Tc]
+*** PRE-FLOP *** 
+_SKR folds
+joow28 calls 10
+TERY M checks
+*** FLOP *** [2c 8c Ks]
+joow28 checks
+TERY M checks
+*** TURN *** [2c 8c Ks][5c]
+joow28 checks
+TERY M checks
+*** RIVER *** [2c 8c Ks 5c][7s]
+joow28 checks
+TERY M checks
+*** SHOW DOWN ***
+joow28 shows [5s Ts] (One pair : 5)
+TERY M shows [7d 5h] (Two pairs : 7 and 5)
+TERY M collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2c 8c Ks 5c 7s]
+Seat 2: joow28 (small blind) showed [5s Ts] and lost with One pair : 5
+Seat 3: TERY M (big blind) showed [7d 5h] and won 40 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717289301233631233-3-1676215956 - Holdem no limit (10/20) - 2023/02/12 15:32:36 UTC
+Table: 'Expresso Nitro(632668217)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: joow28 (260)
+Seat 3: TERY M (350)
+*** ANTE/BLINDS ***
+TERY M posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c 3c]
+*** PRE-FLOP *** 
+joow28 folds
+TERY M folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717289301233631233-4-1676215971 - Holdem no limit (15/30) - 2023/02/12 15:32:51 UTC
+Table: 'Expresso Nitro(632668217)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: joow28 (260)
+Seat 3: TERY M (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+joow28 posts big blind 30
+Dealt to _SKR [Qc Ad]
+*** PRE-FLOP *** 
+TERY M calls 30
+_SKR raises 270 to 300 and is all-in
+joow28 folds
+TERY M raises 40 to 340 and is all-in
+*** FLOP *** [Td 7s 4s]
+*** TURN *** [Td 7s 4s][6c]
+*** RIVER *** [Td 7s 4s 6c][8d]
+*** SHOW DOWN ***
+_SKR shows [Qc Ad] (High card : Ace)
+TERY M shows [2s 8s] (One pair : 8)
+TERY M collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Td 7s 4s 6c 8d]
+Seat 1: _SKR (small blind) showed [Qc Ad] and lost with High card : Ace
+Seat 3: TERY M (button) showed [2s 8s] and won 670 with One pair : 8
+
+

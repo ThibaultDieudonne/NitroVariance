@@ -1,0 +1,90 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718705635418963969-1-1676296421 - Holdem no limit (10/20) - 2023/02/13 13:53:41 UTC
+Table: 'Expresso Nitro(632997983)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PeterparKKer (300)
+Seat 2: Etoilesab (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+PeterparKKer posts small blind 10
+Etoilesab posts big blind 20
+Dealt to _SKR [Th Qd]
+*** PRE-FLOP *** 
+_SKR folds
+PeterparKKer calls 10
+Etoilesab checks
+*** FLOP *** [2c 4h 9d]
+PeterparKKer checks
+Etoilesab checks
+*** TURN *** [2c 4h 9d][Jc]
+PeterparKKer bets 40
+Etoilesab folds
+PeterparKKer collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2c 4h 9d Jc]
+Seat 1: PeterparKKer (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718705635418963969-2-1676296449 - Holdem no limit (10/20) - 2023/02/13 13:54:09 UTC
+Table: 'Expresso Nitro(632997983)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PeterparKKer (320)
+Seat 2: Etoilesab (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Etoilesab posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d 5d]
+*** PRE-FLOP *** 
+PeterparKKer raises 40 to 60
+Etoilesab folds
+_SKR folds
+PeterparKKer collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: PeterparKKer (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718705635418963969-3-1676296460 - Holdem no limit (10/20) - 2023/02/13 13:54:20 UTC
+Table: 'Expresso Nitro(632997983)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PeterparKKer (350)
+Seat 2: Etoilesab (270)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+PeterparKKer posts big blind 20
+Dealt to _SKR [7d 4s]
+*** PRE-FLOP *** 
+Etoilesab folds
+_SKR folds
+PeterparKKer collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: PeterparKKer (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718705635418963969-4-1676296466 - Holdem no limit (10/20) - 2023/02/13 13:54:26 UTC
+Table: 'Expresso Nitro(632997983)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PeterparKKer (360)
+Seat 2: Etoilesab (270)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+PeterparKKer posts small blind 10
+Etoilesab posts big blind 20
+Dealt to _SKR [6c Ac]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+PeterparKKer calls 260
+Etoilesab folds
+*** FLOP *** [Ks 7d 4s]
+*** TURN *** [Ks 7d 4s][Ts]
+*** RIVER *** [Ks 7d 4s Ts][Qc]
+*** SHOW DOWN ***
+_SKR shows [6c Ac] (High card : Ace)
+PeterparKKer shows [As Qd] (One pair : Queens)
+PeterparKKer collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Ks 7d 4s Ts Qc]
+Seat 1: PeterparKKer (small blind) showed [As Qd] and won 560 with One pair : Queens
+Seat 3: _SKR (button) showed [6c Ac] and lost with High card : Ace
+
+

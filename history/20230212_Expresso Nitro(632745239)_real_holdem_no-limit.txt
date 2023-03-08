@@ -1,0 +1,90 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717620108204703745-1-1676229154 - Holdem no limit (10/20) - 2023/02/12 19:12:34 UTC
+Table: 'Expresso Nitro(632745239)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gon-tran (300)
+Seat 2: _SKR (300)
+Seat 3: TUTILT72 (300)
+*** ANTE/BLINDS ***
+TUTILT72 posts small blind 10
+Gon-tran posts big blind 20
+Dealt to _SKR [8s 5d]
+*** PRE-FLOP *** 
+_SKR folds
+TUTILT72 folds
+Gon-tran collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Gon-tran (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717620108204703745-2-1676229158 - Holdem no limit (10/20) - 2023/02/12 19:12:38 UTC
+Table: 'Expresso Nitro(632745239)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gon-tran (310)
+Seat 2: _SKR (300)
+Seat 3: TUTILT72 (290)
+*** ANTE/BLINDS ***
+Gon-tran posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Jd]
+*** PRE-FLOP *** 
+TUTILT72 folds
+Gon-tran calls 10
+_SKR checks
+*** FLOP *** [3c 6c 5s]
+Gon-tran checks
+_SKR checks
+*** TURN *** [3c 6c 5s][Ah]
+Gon-tran bets 20
+_SKR folds
+Gon-tran collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3c 6c 5s Ah]
+Seat 1: Gon-tran (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717620108204703745-3-1676229187 - Holdem no limit (10/20) - 2023/02/12 19:13:07 UTC
+Table: 'Expresso Nitro(632745239)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gon-tran (330)
+Seat 2: _SKR (280)
+Seat 3: TUTILT72 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+TUTILT72 posts big blind 20
+Dealt to _SKR [Kc 5h]
+*** PRE-FLOP *** 
+Gon-tran folds
+_SKR folds
+TUTILT72 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: TUTILT72 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717620108204703745-4-1676229192 - Holdem no limit (10/20) - 2023/02/12 19:13:12 UTC
+Table: 'Expresso Nitro(632745239)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gon-tran (330)
+Seat 2: _SKR (270)
+Seat 3: TUTILT72 (300)
+*** ANTE/BLINDS ***
+TUTILT72 posts small blind 10
+Gon-tran posts big blind 20
+Dealt to _SKR [Jh Js]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+TUTILT72 folds
+Gon-tran raises 290 to 330 and is all-in
+_SKR calls 230 and is all-in
+*** FLOP *** [7c 8c Ac]
+*** TURN *** [7c 8c Ac][Kh]
+*** RIVER *** [7c 8c Ac Kh][Qc]
+*** SHOW DOWN ***
+_SKR shows [Jh Js] (One pair : Jacks)
+Gon-tran shows [Ad Qs] (Two pairs : Aces and Queens)
+Gon-tran collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [7c 8c Ac Kh Qc]
+Seat 1: Gon-tran (big blind) showed [Ad Qs] and won 610 with Two pairs : Aces and Queens
+Seat 2: _SKR (button) showed [Jh Js] and lost with One pair : Jacks
+
+

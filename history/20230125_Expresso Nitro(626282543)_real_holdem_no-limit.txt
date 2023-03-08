@@ -1,0 +1,45 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689863040240713729-1-1674656374 - Holdem no limit (10/20) - 2023/01/25 14:19:34 UTC
+Table: 'Expresso Nitro(626282543)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Linlin49 (300)
+Seat 3: yappito (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Linlin49 posts big blind 20
+Dealt to _SKR [Jc 2s]
+*** PRE-FLOP *** 
+yappito folds
+_SKR folds
+Linlin49 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Linlin49 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689863040240713729-2-1674656390 - Holdem no limit (10/20) - 2023/01/25 14:19:50 UTC
+Table: 'Expresso Nitro(626282543)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Linlin49 (310)
+Seat 3: yappito (300)
+*** ANTE/BLINDS ***
+Linlin49 posts small blind 10
+yappito posts big blind 20
+Dealt to _SKR [Jc Kd]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Linlin49 folds
+yappito raises 10 to 300 and is all-in
+*** FLOP *** [6h 3s 7s]
+*** TURN *** [6h 3s 7s][Ad]
+*** RIVER *** [6h 3s 7s Ad][4h]
+*** SHOW DOWN ***
+_SKR shows [Jc Kd] (High card : Ace)
+yappito shows [5h 5d] (Straight 7 high)
+yappito collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6h 3s 7s Ad 4h]
+Seat 1: _SKR (button) showed [Jc Kd] and lost with High card : Ace
+Seat 3: yappito (big blind) showed [5h 5d] and won 600 with Straight 7 high
+
+

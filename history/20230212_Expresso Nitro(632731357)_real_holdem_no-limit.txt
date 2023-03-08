@@ -1,0 +1,100 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717560485468700673-1-1676226979 - Holdem no limit (10/20) - 2023/02/12 18:36:19 UTC
+Table: 'Expresso Nitro(632731357)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gainsbarre44 (300)
+Seat 2: Stop-martoni (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Gainsbarre44 posts big blind 20
+Dealt to _SKR [9c 5c]
+*** PRE-FLOP *** 
+Stop-martoni raises 280 to 300 and is all-in
+_SKR folds
+Gainsbarre44 calls 280 and is all-in
+*** FLOP *** [Qh Ah 4h]
+*** TURN *** [Qh Ah 4h][8h]
+*** RIVER *** [Qh Ah 4h 8h][Qs]
+*** SHOW DOWN ***
+Gainsbarre44 shows [4d Ac] (Two pairs : Aces and Queens)
+Stop-martoni shows [3s 3h] (Flush Ace high)
+Stop-martoni collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Qh Ah 4h 8h Qs]
+Seat 1: Gainsbarre44 (big blind) showed [4d Ac] and lost with Two pairs : Aces and Queens
+Seat 2: Stop-martoni (button) showed [3s 3h] and won 610 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717560485468700673-2-1676226995 - Holdem no limit (10/20) - 2023/02/12 18:36:35 UTC
+Table: 'Expresso Nitro(632731357)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Stop-martoni (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Stop-martoni posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9c Qd]
+*** PRE-FLOP *** 
+Stop-martoni raises 20 to 40
+_SKR calls 20
+*** FLOP *** [As 4s 5d]
+_SKR checks
+Stop-martoni checks
+*** TURN *** [As 4s 5d][5h]
+_SKR checks
+Stop-martoni checks
+*** RIVER *** [As 4s 5d 5h][6c]
+_SKR checks
+Stop-martoni checks
+*** SHOW DOWN ***
+_SKR shows [9c Qd] (One pair : 5)
+Stop-martoni shows [Kc 9s] (One pair : 5)
+Stop-martoni collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [As 4s 5d 5h 6c]
+Seat 2: Stop-martoni (small blind) (button) showed [Kc 9s] and won 80 with One pair : 5
+Seat 3: _SKR (big blind) showed [9c Qd] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717560485468700673-3-1676227013 - Holdem no limit (10/20) - 2023/02/12 18:36:53 UTC
+Table: 'Expresso Nitro(632731357)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Stop-martoni (650)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Stop-martoni posts big blind 20
+Dealt to _SKR [4s Qs]
+*** PRE-FLOP *** 
+_SKR folds
+Stop-martoni collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Stop-martoni (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717560485468700673-4-1676227021 - Holdem no limit (10/20) - 2023/02/12 18:37:01 UTC
+Table: 'Expresso Nitro(632731357)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Stop-martoni (660)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+Stop-martoni posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh Qd]
+*** PRE-FLOP *** 
+Stop-martoni raises 20 to 40
+_SKR raises 200 to 240 and is all-in
+Stop-martoni calls 200
+*** FLOP *** [6s 5h 7d]
+*** TURN *** [6s 5h 7d][3h]
+*** RIVER *** [6s 5h 7d 3h][Ts]
+*** SHOW DOWN ***
+_SKR shows [Kh Qd] (High card : King)
+Stop-martoni shows [9s 9h] (One pair : 9)
+Stop-martoni collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6s 5h 7d 3h Ts]
+Seat 2: Stop-martoni (small blind) (button) showed [9s 9h] and won 480 with One pair : 9
+Seat 3: _SKR (big blind) showed [Kh Qd] and lost with High card : King
+
+

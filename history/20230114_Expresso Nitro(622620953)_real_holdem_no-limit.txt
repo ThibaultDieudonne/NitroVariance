@@ -1,0 +1,116 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674136630939353089-1-1673702854 - Holdem no limit (10/20) - 2023/01/14 13:27:34 UTC
+Table: 'Expresso Nitro(622620953)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bigdil62 (300)
+Seat 2: 77. Cali. (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+77. Cali. posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 8c]
+*** PRE-FLOP *** 
+Bigdil62 folds
+77. Cali. calls 10
+_SKR checks
+*** FLOP *** [Jc 5d Qd]
+77. Cali. checks
+_SKR bets 20
+77. Cali. folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Jc 5d Qd]
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674136630939353089-2-1673702880 - Holdem no limit (10/20) - 2023/01/14 13:28:00 UTC
+Table: 'Expresso Nitro(622620953)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bigdil62 (300)
+Seat 2: 77. Cali. (280)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Bigdil62 posts big blind 20
+Dealt to _SKR [Qs 6d]
+*** PRE-FLOP *** 
+77. Cali. raises 30 to 50
+_SKR folds
+Bigdil62 raises 250 to 300 and is all-in
+77. Cali. folds
+Bigdil62 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: Bigdil62 (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674136630939353089-3-1673702917 - Holdem no limit (15/30) - 2023/01/14 13:28:37 UTC
+Table: 'Expresso Nitro(622620953)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bigdil62 (360)
+Seat 2: 77. Cali. (230)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+Bigdil62 posts small blind 15
+77. Cali. posts big blind 30
+Dealt to _SKR [Ks Jh]
+*** PRE-FLOP *** 
+_SKR raises 280 to 310 and is all-in
+Bigdil62 folds
+77. Cali. folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 3: _SKR (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674136630939353089-4-1673702930 - Holdem no limit (15/30) - 2023/01/14 13:28:50 UTC
+Table: 'Expresso Nitro(622620953)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bigdil62 (345)
+Seat 2: 77. Cali. (200)
+Seat 3: _SKR (355)
+*** ANTE/BLINDS ***
+77. Cali. posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7c 7s]
+*** PRE-FLOP *** 
+Bigdil62 raises 315 to 345 and is all-in
+77. Cali. calls 185 and is all-in
+_SKR raises 10 to 355 and is all-in
+*** FLOP *** [Qd 7d 2s]
+*** TURN *** [Qd 7d 2s][Jd]
+*** RIVER *** [Qd 7d 2s Jd][3d]
+*** SHOW DOWN ***
+77. Cali. shows [5s Ah] (High card : Ace)
+Bigdil62 shows [As Ad] (Flush Ace high)
+_SKR shows [7c 7s] (Trips of 7)
+_SKR collected 10 from side pot 1
+Bigdil62 collected 890 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd 7d 2s Jd 3d]
+Seat 1: Bigdil62 (button) showed [As Ad] and won 890 with Flush Ace high
+Seat 2: 77. Cali. (small blind) showed [5s Ah] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [7c 7s] and won 10 with Trips of 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674136630939353089-5-1673702954 - Holdem no limit (15/30) - 2023/01/14 13:29:14 UTC
+Table: 'Expresso Nitro(622620953)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bigdil62 (890)
+Seat 3: _SKR (10)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10 and is all-in
+Bigdil62 posts big blind 30
+Dealt to _SKR [3c As]
+*** PRE-FLOP *** 
+*** FLOP *** [2d Kh Td]
+*** TURN *** [2d Kh Td][3s]
+*** RIVER *** [2d Kh Td 3s][9c]
+*** SHOW DOWN ***
+_SKR shows [3c As] (One pair : 3)
+Bigdil62 shows [Ks Js] (One pair : Kings)
+Bigdil62 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2d Kh Td 3s 9c]
+Seat 1: Bigdil62 (big blind) showed [Ks Js] and won 40 with One pair : Kings
+Seat 3: _SKR (small blind) (button) showed [3c As] and lost with One pair : 3
+
+

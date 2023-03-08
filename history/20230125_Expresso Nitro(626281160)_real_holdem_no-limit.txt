@@ -1,0 +1,202 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689857100300943361-1-1674656020 - Holdem no limit (10/20) - 2023/01/25 14:13:40 UTC
+Table: 'Expresso Nitro(626281160)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Oxmo421 (300)
+Seat 3: EPV28T (300)
+*** ANTE/BLINDS ***
+EPV28T posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 5c]
+*** PRE-FLOP *** 
+Oxmo421 folds
+EPV28T calls 10
+_SKR checks
+*** FLOP *** [7c 6h Qd]
+EPV28T checks
+_SKR checks
+*** TURN *** [7c 6h Qd][7h]
+EPV28T checks
+_SKR checks
+*** RIVER *** [7c 6h Qd 7h][3s]
+EPV28T checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [9h 5c] (One pair : 7)
+EPV28T shows [Jd 8s] (One pair : 7)
+EPV28T collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [7c 6h Qd 7h 3s]
+Seat 1: _SKR (big blind) showed [9h 5c] and lost with One pair : 7
+Seat 3: EPV28T (small blind) showed [Jd 8s] and won 40 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689857100300943361-2-1674656078 - Holdem no limit (15/30) - 2023/01/25 14:14:38 UTC
+Table: 'Expresso Nitro(626281160)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Oxmo421 (300)
+Seat 3: EPV28T (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Oxmo421 posts big blind 30
+Dealt to _SKR [9s Jh]
+*** PRE-FLOP *** 
+EPV28T folds
+_SKR raises 250 to 280 and is all-in
+Oxmo421 folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 1: _SKR (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689857100300943361-3-1674656086 - Holdem no limit (15/30) - 2023/01/25 14:14:46 UTC
+Table: 'Expresso Nitro(626281160)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: Oxmo421 (270)
+Seat 3: EPV28T (320)
+*** ANTE/BLINDS ***
+Oxmo421 posts small blind 15
+EPV28T posts big blind 30
+Dealt to _SKR [6c Ac]
+*** PRE-FLOP *** 
+_SKR raises 280 to 310 and is all-in
+Oxmo421 calls 255 and is all-in
+EPV28T folds
+*** FLOP *** [Ks 9s Js]
+*** TURN *** [Ks 9s Js][3h]
+*** RIVER *** [Ks 9s Js 3h][3d]
+*** SHOW DOWN ***
+_SKR shows [6c Ac] (One pair : 3)
+Oxmo421 shows [7s 7c] (Two pairs : 7 and 3)
+Oxmo421 collected 570 from main pot
+_SKR collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Ks 9s Js 3h 3d]
+Seat 1: _SKR (button) showed [6c Ac] and won 40 with One pair : 3
+Seat 2: Oxmo421 (small blind) showed [7s 7c] and won 570 with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689857100300943361-4-1674656102 - Holdem no limit (15/30) - 2023/01/25 14:15:02 UTC
+Table: 'Expresso Nitro(626281160)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (40)
+Seat 2: Oxmo421 (570)
+Seat 3: EPV28T (290)
+*** ANTE/BLINDS ***
+EPV28T posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2h 5s]
+*** PRE-FLOP *** 
+Oxmo421 folds
+EPV28T folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689857100300943361-5-1674656115 - Holdem no limit (15/30) - 2023/01/25 14:15:15 UTC
+Table: 'Expresso Nitro(626281160)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (55)
+Seat 2: Oxmo421 (570)
+Seat 3: EPV28T (275)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Oxmo421 posts big blind 30
+Dealt to _SKR [5c 9c]
+*** PRE-FLOP *** 
+EPV28T raises 30 to 60
+_SKR calls 40 and is all-in
+Oxmo421 folds
+*** FLOP *** [7h 4h 5s]
+*** TURN *** [7h 4h 5s][As]
+*** RIVER *** [7h 4h 5s As][8h]
+*** SHOW DOWN ***
+_SKR shows [5c 9c] (One pair : 5)
+EPV28T shows [Jh Kd] (High card : Ace)
+EPV28T collected 5 from side pot 1
+_SKR collected 140 from main pot
+*** SUMMARY ***
+Total pot 145 | No rake
+Board: [7h 4h 5s As 8h]
+Seat 1: _SKR (small blind) showed [5c 9c] and won 140 with One pair : 5
+Seat 3: EPV28T (button) showed [Jh Kd] and won 5 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689857100300943361-6-1674656128 - Holdem no limit (15/30) - 2023/01/25 14:15:28 UTC
+Table: 'Expresso Nitro(626281160)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (140)
+Seat 2: Oxmo421 (540)
+Seat 3: EPV28T (220)
+*** ANTE/BLINDS ***
+Oxmo421 posts small blind 15
+EPV28T posts big blind 30
+Dealt to _SKR [9d 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Oxmo421 calls 15
+EPV28T checks
+*** FLOP *** [4s Kd 4c]
+Oxmo421 checks
+EPV28T checks
+*** TURN *** [4s Kd 4c][7c]
+Oxmo421 bets 30
+EPV28T calls 30
+*** RIVER *** [4s Kd 4c 7c][Ts]
+Oxmo421 checks
+EPV28T bets 78
+Oxmo421 folds
+EPV28T collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [4s Kd 4c 7c Ts]
+Seat 3: EPV28T (big blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689857100300943361-7-1674656151 - Holdem no limit (20/40) - 2023/01/25 14:15:51 UTC
+Table: 'Expresso Nitro(626281160)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (140)
+Seat 2: Oxmo421 (480)
+Seat 3: EPV28T (280)
+*** ANTE/BLINDS ***
+EPV28T posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3s 2s]
+*** PRE-FLOP *** 
+Oxmo421 raises 440 to 480 and is all-in
+EPV28T folds
+_SKR folds
+Oxmo421 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 2: Oxmo421 (button) won 540
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689857100300943361-8-1674656168 - Holdem no limit (20/40) - 2023/01/25 14:16:08 UTC
+Table: 'Expresso Nitro(626281160)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (100)
+Seat 2: Oxmo421 (540)
+Seat 3: EPV28T (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Oxmo421 posts big blind 40
+Dealt to _SKR [Qc 7d]
+*** PRE-FLOP *** 
+EPV28T folds
+_SKR raises 60 to 100 and is all-in
+Oxmo421 calls 60
+*** FLOP *** [8d Kc 5c]
+*** TURN *** [8d Kc 5c][3s]
+*** RIVER *** [8d Kc 5c 3s][9h]
+*** SHOW DOWN ***
+_SKR shows [Qc 7d] (High card : King)
+Oxmo421 shows [Ah 5d] (One pair : 5)
+Oxmo421 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [8d Kc 5c 3s 9h]
+Seat 1: _SKR (small blind) showed [Qc 7d] and lost with High card : King
+Seat 2: Oxmo421 (big blind) showed [Ah 5d] and won 200 with One pair : 5
+
+

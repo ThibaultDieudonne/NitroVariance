@@ -1,0 +1,230 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677106879997411329-1-1673877426 - Holdem no limit (10/20) - 2023/01/16 13:57:06 UTC
+Table: 'Expresso Nitro(623312518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: monsterer (300)
+Seat 2: _SKR (300)
+Seat 3: ellargo_nl (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ellargo_nl posts big blind 20
+Dealt to _SKR [3s 9c]
+*** PRE-FLOP *** 
+monsterer calls 20
+_SKR folds
+ellargo_nl checks
+*** FLOP *** [6d Qh Kc]
+ellargo_nl checks
+monsterer checks
+*** TURN *** [6d Qh Kc][3d]
+ellargo_nl checks
+monsterer checks
+*** RIVER *** [6d Qh Kc 3d][Kd]
+ellargo_nl checks
+monsterer checks
+*** SHOW DOWN ***
+ellargo_nl shows [4h 8h] (One pair : Kings)
+monsterer shows [8c Td] (One pair : Kings)
+monsterer collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [6d Qh Kc 3d Kd]
+Seat 1: monsterer (button) showed [8c Td] and won 50 with One pair : Kings
+Seat 3: ellargo_nl (big blind) showed [4h 8h] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677106879997411329-2-1673877456 - Holdem no limit (10/20) - 2023/01/16 13:57:36 UTC
+Table: 'Expresso Nitro(623312518)#0' 3-max (real money) Seat #2 is the button
+Seat 1: monsterer (330)
+Seat 2: _SKR (290)
+Seat 3: ellargo_nl (280)
+*** ANTE/BLINDS ***
+ellargo_nl posts small blind 10
+monsterer posts big blind 20
+Dealt to _SKR [6s 3h]
+*** PRE-FLOP *** 
+_SKR folds
+ellargo_nl calls 10
+monsterer checks
+*** FLOP *** [8c 8s 2c]
+ellargo_nl checks
+monsterer checks
+*** TURN *** [8c 8s 2c][5d]
+ellargo_nl checks
+monsterer checks
+*** RIVER *** [8c 8s 2c 5d][7h]
+ellargo_nl checks
+monsterer bets 40
+ellargo_nl calls 40
+*** SHOW DOWN ***
+ellargo_nl shows [Ad 9h] (One pair : 8)
+monsterer shows [2d 2h] (Full of 2 and 8)
+monsterer collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8c 8s 2c 5d 7h]
+Seat 1: monsterer (big blind) showed [2d 2h] and won 120 with Full of 2 and 8
+Seat 3: ellargo_nl (small blind) showed [Ad 9h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677106879997411329-3-1673877501 - Holdem no limit (15/30) - 2023/01/16 13:58:21 UTC
+Table: 'Expresso Nitro(623312518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: monsterer (390)
+Seat 2: _SKR (290)
+Seat 3: ellargo_nl (220)
+*** ANTE/BLINDS ***
+monsterer posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc 2s]
+*** PRE-FLOP *** 
+ellargo_nl calls 30
+monsterer calls 15
+_SKR checks
+*** FLOP *** [Qd Td 3d]
+monsterer checks
+_SKR checks
+ellargo_nl checks
+*** TURN *** [Qd Td 3d][7s]
+monsterer checks
+_SKR checks
+ellargo_nl checks
+*** RIVER *** [Qd Td 3d 7s][5h]
+monsterer checks
+_SKR checks
+ellargo_nl checks
+*** SHOW DOWN ***
+monsterer shows [Jh 4h] (High card : Queen)
+_SKR shows [Kc 2s] (High card : King)
+ellargo_nl shows [Tc 8c] (One pair : Tens)
+ellargo_nl collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qd Td 3d 7s 5h]
+Seat 1: monsterer (small blind) showed [Jh 4h] and lost with High card : Queen
+Seat 2: _SKR (big blind) showed [Kc 2s] and lost with High card : King
+Seat 3: ellargo_nl (button) showed [Tc 8c] and won 90 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677106879997411329-4-1673877539 - Holdem no limit (15/30) - 2023/01/16 13:58:59 UTC
+Table: 'Expresso Nitro(623312518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: monsterer (360)
+Seat 2: _SKR (260)
+Seat 3: ellargo_nl (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ellargo_nl posts big blind 30
+Dealt to _SKR [8s 3s]
+*** PRE-FLOP *** 
+monsterer folds
+_SKR folds
+ellargo_nl collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: ellargo_nl (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677106879997411329-5-1673877546 - Holdem no limit (20/40) - 2023/01/16 13:59:06 UTC
+Table: 'Expresso Nitro(623312518)#0' 3-max (real money) Seat #2 is the button
+Seat 1: monsterer (360)
+Seat 2: _SKR (245)
+Seat 3: ellargo_nl (295)
+*** ANTE/BLINDS ***
+ellargo_nl posts small blind 20
+monsterer posts big blind 40
+Dealt to _SKR [Ah 4c]
+*** PRE-FLOP *** 
+_SKR raises 205 to 245 and is all-in
+ellargo_nl folds
+monsterer folds
+_SKR collected 305 from pot
+*** SUMMARY ***
+Total pot 305 | No rake
+Seat 2: _SKR (button) won 305
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677106879997411329-6-1673877555 - Holdem no limit (20/40) - 2023/01/16 13:59:15 UTC
+Table: 'Expresso Nitro(623312518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: monsterer (320)
+Seat 2: _SKR (305)
+Seat 3: ellargo_nl (275)
+*** ANTE/BLINDS ***
+monsterer posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kh Js]
+*** PRE-FLOP *** 
+ellargo_nl folds
+monsterer folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677106879997411329-7-1673877560 - Holdem no limit (20/40) - 2023/01/16 13:59:20 UTC
+Table: 'Expresso Nitro(623312518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: monsterer (300)
+Seat 2: _SKR (325)
+Seat 3: ellargo_nl (275)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+ellargo_nl posts big blind 40
+Dealt to _SKR [7d 5c]
+*** PRE-FLOP *** 
+monsterer calls 40
+_SKR folds
+ellargo_nl checks
+*** FLOP *** [4d Qc 6s]
+ellargo_nl checks
+monsterer bets 100
+ellargo_nl folds
+monsterer collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [4d Qc 6s]
+Seat 1: monsterer (button) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677106879997411329-8-1673877587 - Holdem no limit (20/40) - 2023/01/16 13:59:47 UTC
+Table: 'Expresso Nitro(623312518)#0' 3-max (real money) Seat #2 is the button
+Seat 1: monsterer (360)
+Seat 2: _SKR (305)
+Seat 3: ellargo_nl (235)
+*** ANTE/BLINDS ***
+ellargo_nl posts small blind 20
+monsterer posts big blind 40
+Dealt to _SKR [9h 2d]
+*** PRE-FLOP *** 
+_SKR folds
+ellargo_nl folds
+monsterer collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: monsterer (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677106879997411329-9-1673877595 - Holdem no limit (20/40) - 2023/01/16 13:59:55 UTC
+Table: 'Expresso Nitro(623312518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: monsterer (380)
+Seat 2: _SKR (305)
+Seat 3: ellargo_nl (215)
+*** ANTE/BLINDS ***
+monsterer posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Th Jc]
+*** PRE-FLOP *** 
+ellargo_nl folds
+monsterer calls 20
+_SKR raises 265 to 305 and is all-in
+monsterer calls 265
+*** FLOP *** [4d 3d 2s]
+*** TURN *** [4d 3d 2s][Td]
+*** RIVER *** [4d 3d 2s Td][5d]
+*** SHOW DOWN ***
+_SKR shows [Th Jc] (One pair : Tens)
+monsterer shows [5s 5c] (Trips of 5)
+monsterer collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [4d 3d 2s Td 5d]
+Seat 1: monsterer (small blind) showed [5s 5c] and won 610 with Trips of 5
+Seat 2: _SKR (big blind) showed [Th Jc] and lost with One pair : Tens
+
+

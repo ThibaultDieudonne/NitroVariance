@@ -1,0 +1,315 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698217533315481601-1-1675185988 - Holdem no limit (10/20) - 2023/01/31 17:26:28 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Zoul04 (300)
+Seat 3: BIBI_54 (300)
+*** ANTE/BLINDS ***
+BIBI_54 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc 9h]
+*** PRE-FLOP *** 
+Zoul04 calls 20
+BIBI_54 calls 10
+_SKR checks
+*** FLOP *** [2c Jh 8d]
+BIBI_54 bets 39
+_SKR folds
+Zoul04 calls 39
+*** TURN *** [2c Jh 8d][5d]
+BIBI_54 bets 48
+Zoul04 calls 48
+*** RIVER *** [2c Jh 8d 5d][6h]
+BIBI_54 checks
+Zoul04 checks
+*** SHOW DOWN ***
+Zoul04 shows [4d Js] (One pair : Jacks)
+BIBI_54 shows [Kd Jd] (One pair : Jacks)
+BIBI_54 collected 234 from pot
+*** SUMMARY ***
+Total pot 234 | No rake
+Board: [2c Jh 8d 5d 6h]
+Seat 2: Zoul04 (button) showed [4d Js] and lost with One pair : Jacks
+Seat 3: BIBI_54 (small blind) showed [Kd Jd] and won 234 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698217533315481601-2-1675186031 - Holdem no limit (10/20) - 2023/01/31 17:27:11 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Zoul04 (193)
+Seat 3: BIBI_54 (427)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Zoul04 posts big blind 20
+Dealt to _SKR [5d Qs]
+*** PRE-FLOP *** 
+BIBI_54 folds
+_SKR folds
+Zoul04 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Zoul04 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698217533315481601-3-1675186052 - Holdem no limit (15/30) - 2023/01/31 17:27:32 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Zoul04 (203)
+Seat 3: BIBI_54 (427)
+*** ANTE/BLINDS ***
+Zoul04 posts small blind 15
+BIBI_54 posts big blind 30
+Dealt to _SKR [2c 5d]
+*** PRE-FLOP *** 
+_SKR folds
+Zoul04 calls 15
+BIBI_54 checks
+*** FLOP *** [Js 8d Qc]
+Zoul04 checks
+BIBI_54 bets 30
+Zoul04 folds
+BIBI_54 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Js 8d Qc]
+Seat 3: BIBI_54 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698217533315481601-4-1675186065 - Holdem no limit (15/30) - 2023/01/31 17:27:45 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Zoul04 (173)
+Seat 3: BIBI_54 (457)
+*** ANTE/BLINDS ***
+BIBI_54 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8d 3h]
+*** PRE-FLOP *** 
+Zoul04 folds
+BIBI_54 calls 15
+_SKR checks
+*** FLOP *** [3d Qs 9s]
+BIBI_54 checks
+_SKR checks
+*** TURN *** [3d Qs 9s][5h]
+BIBI_54 checks
+_SKR checks
+*** RIVER *** [3d Qs 9s 5h][8h]
+BIBI_54 checks
+_SKR checks
+*** SHOW DOWN ***
+BIBI_54 shows [6s 2d] (High card : Queen)
+_SKR shows [8d 3h] (Two pairs : 8 and 3)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3d Qs 9s 5h 8h]
+Seat 1: _SKR (big blind) showed [8d 3h] and won 60 with Two pairs : 8 and 3
+Seat 3: BIBI_54 (small blind) showed [6s 2d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698217533315481601-5-1675186121 - Holdem no limit (20/40) - 2023/01/31 17:28:41 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Zoul04 (173)
+Seat 3: BIBI_54 (427)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Zoul04 posts big blind 40
+Dealt to _SKR [6h 7d]
+*** PRE-FLOP *** 
+BIBI_54 calls 40
+_SKR folds
+Zoul04 raises 133 to 173 and is all-in
+BIBI_54 folds
+Zoul04 collected 233 from pot
+*** SUMMARY ***
+Total pot 233 | No rake
+Seat 2: Zoul04 (big blind) won 233
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698217533315481601-6-1675186140 - Holdem no limit (20/40) - 2023/01/31 17:29:00 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 2: Zoul04 (233)
+Seat 3: BIBI_54 (387)
+*** ANTE/BLINDS ***
+Zoul04 posts small blind 20
+BIBI_54 posts big blind 40
+Dealt to _SKR [5c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Zoul04 folds
+BIBI_54 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: BIBI_54 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698217533315481601-7-1675186156 - Holdem no limit (20/40) - 2023/01/31 17:29:16 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (280)
+Seat 2: Zoul04 (213)
+Seat 3: BIBI_54 (407)
+*** ANTE/BLINDS ***
+BIBI_54 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6s 2h]
+*** PRE-FLOP *** 
+Zoul04 folds
+BIBI_54 calls 20
+_SKR checks
+*** FLOP *** [Kh 7c Jc]
+BIBI_54 checks
+_SKR checks
+*** TURN *** [Kh 7c Jc][Ah]
+BIBI_54 checks
+_SKR checks
+*** RIVER *** [Kh 7c Jc Ah][4h]
+BIBI_54 checks
+_SKR bets 52
+BIBI_54 folds
+_SKR collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Kh 7c Jc Ah 4h]
+Seat 1: _SKR (big blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698217533315481601-8-1675186203 - Holdem no limit (30/60) - 2023/01/31 17:30:03 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: Zoul04 (213)
+Seat 3: BIBI_54 (367)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Zoul04 posts big blind 60
+Dealt to _SKR [7d 2s]
+*** PRE-FLOP *** 
+BIBI_54 calls 60
+_SKR folds
+Zoul04 checks
+*** FLOP *** [2h 5c Kc]
+Zoul04 checks
+BIBI_54 bets 60
+Zoul04 folds
+BIBI_54 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [2h 5c Kc]
+Seat 3: BIBI_54 (button) won 210
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698217533315481601-9-1675186224 - Holdem no limit (40/80) - 2023/01/31 17:30:24 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Zoul04 (153)
+Seat 3: BIBI_54 (457)
+*** ANTE/BLINDS ***
+Zoul04 posts small blind 40
+BIBI_54 posts big blind 80
+Dealt to _SKR [8h Kd]
+*** PRE-FLOP *** 
+_SKR raises 210 to 290 and is all-in
+Zoul04 folds
+BIBI_54 folds
+_SKR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 1: _SKR (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698217533315481601-10-1675186249 - Holdem no limit (40/80) - 2023/01/31 17:30:49 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (410)
+Seat 2: Zoul04 (113)
+Seat 3: BIBI_54 (377)
+*** ANTE/BLINDS ***
+BIBI_54 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Tc 3h]
+*** PRE-FLOP *** 
+Zoul04 raises 33 to 113 and is all-in
+BIBI_54 calls 73
+_SKR folds
+*** FLOP *** [As 6h 6c]
+*** TURN *** [As 6h 6c][7h]
+*** RIVER *** [As 6h 6c 7h][4d]
+*** SHOW DOWN ***
+BIBI_54 shows [9c Td] (One pair : 6)
+Zoul04 shows [4c 3c] (Two pairs : 6 and 4)
+Zoul04 collected 306 from pot
+*** SUMMARY ***
+Total pot 306 | No rake
+Board: [As 6h 6c 7h 4d]
+Seat 2: Zoul04 (button) showed [4c 3c] and won 306 with Two pairs : 6 and 4
+Seat 3: BIBI_54 (small blind) showed [9c Td] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698217533315481601-11-1675186282 - Holdem no limit (40/80) - 2023/01/31 17:31:22 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 2: Zoul04 (306)
+Seat 3: BIBI_54 (264)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Zoul04 posts big blind 80
+Dealt to _SKR [9s Qs]
+*** PRE-FLOP *** 
+BIBI_54 folds
+_SKR raises 250 to 330 and is all-in
+Zoul04 calls 226 and is all-in
+*** FLOP *** [Kh Js 3s]
+*** TURN *** [Kh Js 3s][2h]
+*** RIVER *** [Kh Js 3s 2h][Td]
+*** SHOW DOWN ***
+Zoul04 shows [Jh 8d] (One pair : Jacks)
+_SKR shows [9s Qs] (Straight King high)
+_SKR collected 636 from pot
+*** SUMMARY ***
+Total pot 636 | No rake
+Board: [Kh Js 3s 2h Td]
+Seat 1: _SKR (small blind) showed [9s Qs] and won 636 with Straight King high
+Seat 2: Zoul04 (big blind) showed [Jh 8d] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2698217533315481601-12-1675186305 - Holdem no limit (50/100) - 2023/01/31 17:31:45 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (636)
+Seat 3: BIBI_54 (264)
+*** ANTE/BLINDS ***
+BIBI_54 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [As 5c]
+*** PRE-FLOP *** 
+BIBI_54 folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2698217533315481601-13-1675186309 - Holdem no limit (50/100) - 2023/01/31 17:31:49 UTC
+Table: 'Expresso Nitro(628227725)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (686)
+Seat 3: BIBI_54 (214)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+BIBI_54 posts big blind 100
+Dealt to _SKR [Qh Kh]
+*** PRE-FLOP *** 
+_SKR raises 586 to 686 and is all-in
+BIBI_54 calls 114 and is all-in
+*** FLOP *** [Kc 2d Kd]
+*** TURN *** [Kc 2d Kd][Th]
+*** RIVER *** [Kc 2d Kd Th][4h]
+*** SHOW DOWN ***
+BIBI_54 shows [2c Ad] (Two pairs : Kings and 2)
+_SKR shows [Qh Kh] (Trips of Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kc 2d Kd Th 4h]
+Seat 1: _SKR (small blind) (button) showed [Qh Kh] and won 900 with Trips of Kings
+Seat 3: BIBI_54 (big blind) showed [2c Ad] and lost with Two pairs : Kings and 2
+
+

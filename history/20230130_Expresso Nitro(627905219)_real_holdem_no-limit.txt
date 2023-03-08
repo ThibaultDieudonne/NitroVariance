@@ -1,0 +1,70 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696832380592717825-1-1675099852 - Holdem no limit (10/20) - 2023/01/30 17:30:52 UTC
+Table: 'Expresso Nitro(627905219)#0' 3-max (real money) Seat #1 is the button
+Seat 1: guyuragain (300)
+Seat 2: Yacine2304 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Yacine2304 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad 3d]
+*** PRE-FLOP *** 
+guyuragain folds
+Yacine2304 raises 40 to 60
+_SKR raises 240 to 300 and is all-in
+Yacine2304 calls 240 and is all-in
+*** FLOP *** [8d 7h Qs]
+*** TURN *** [8d 7h Qs][3s]
+*** RIVER *** [8d 7h Qs 3s][Tc]
+*** SHOW DOWN ***
+Yacine2304 shows [9h Ah] (High card : Ace)
+_SKR shows [Ad 3d] (One pair : 3)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8d 7h Qs 3s Tc]
+Seat 2: Yacine2304 (small blind) showed [9h Ah] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [Ad 3d] and won 600 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696832380592717825-2-1675099870 - Holdem no limit (10/20) - 2023/01/30 17:31:10 UTC
+Table: 'Expresso Nitro(627905219)#0' 3-max (real money) Seat #3 is the button
+Seat 1: guyuragain (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+guyuragain posts big blind 20
+Dealt to _SKR [Qd Kh]
+*** PRE-FLOP *** 
+_SKR raises 580 to 600 and is all-in
+guyuragain folds
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 3: _SKR (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696832380592717825-3-1675099877 - Holdem no limit (10/20) - 2023/01/30 17:31:17 UTC
+Table: 'Expresso Nitro(627905219)#0' 3-max (real money) Seat #1 is the button
+Seat 1: guyuragain (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+guyuragain posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh Jc]
+*** PRE-FLOP *** 
+guyuragain raises 260 to 280 and is all-in
+_SKR calls 260
+*** FLOP *** [Tc Qc 7c]
+*** TURN *** [Tc Qc 7c][5s]
+*** RIVER *** [Tc Qc 7c 5s][7d]
+*** SHOW DOWN ***
+guyuragain shows [4h Kc] (One pair : 7)
+_SKR shows [Kh Jc] (One pair : 7)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Tc Qc 7c 5s 7d]
+Seat 1: guyuragain (small blind) (button) showed [4h Kc] and lost with One pair : 7
+Seat 3: _SKR (big blind) showed [Kh Jc] and won 560 with One pair : 7
+
+

@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696640361194848257-1-1675091172 - Holdem no limit (10/20) - 2023/01/30 15:06:12 UTC
+Table: 'Expresso Nitro(627860511)#0' 3-max (real money) Seat #1 is the button
+Seat 1: magui389 (300)
+Seat 2: _SKR (300)
+Seat 3: Nono 7231 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Nono 7231 posts big blind 20
+Dealt to _SKR [Qd 7c]
+*** PRE-FLOP *** 
+magui389 calls 20
+_SKR folds
+Nono 7231 checks
+*** FLOP *** [Jc Kh Qs]
+Nono 7231 checks
+magui389 checks
+*** TURN *** [Jc Kh Qs][Js]
+Nono 7231 checks
+magui389 bets 50
+Nono 7231 folds
+magui389 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Jc Kh Qs Js]
+Seat 1: magui389 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696640361194848257-2-1675091191 - Holdem no limit (10/20) - 2023/01/30 15:06:31 UTC
+Table: 'Expresso Nitro(627860511)#0' 3-max (real money) Seat #2 is the button
+Seat 1: magui389 (330)
+Seat 2: _SKR (290)
+Seat 3: Nono 7231 (280)
+*** ANTE/BLINDS ***
+Nono 7231 posts small blind 10
+magui389 posts big blind 20
+Dealt to _SKR [9h Kc]
+*** PRE-FLOP *** 
+_SKR folds
+Nono 7231 calls 10
+magui389 checks
+*** FLOP *** [Jd Ah 9d]
+Nono 7231 checks
+magui389 checks
+*** TURN *** [Jd Ah 9d][Ad]
+Nono 7231 checks
+magui389 checks
+*** RIVER *** [Jd Ah 9d Ad][4s]
+Nono 7231 checks
+magui389 checks
+*** SHOW DOWN ***
+magui389 shows [7c 3h] (One pair : Aces)
+Nono 7231 shows [6s Kd] (One pair : Aces)
+Nono 7231 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Jd Ah 9d Ad 4s]
+Seat 1: magui389 (big blind) showed [7c 3h] and lost with One pair : Aces
+Seat 3: Nono 7231 (small blind) showed [6s Kd] and won 40 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696640361194848257-3-1675091220 - Holdem no limit (10/20) - 2023/01/30 15:07:00 UTC
+Table: 'Expresso Nitro(627860511)#0' 3-max (real money) Seat #3 is the button
+Seat 1: magui389 (310)
+Seat 2: _SKR (290)
+Seat 3: Nono 7231 (300)
+*** ANTE/BLINDS ***
+magui389 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc 9d]
+*** PRE-FLOP *** 
+Nono 7231 calls 20
+magui389 calls 10
+_SKR raises 270 to 290 and is all-in
+Nono 7231 folds
+magui389 calls 270
+*** FLOP *** [Jh 7c 8s]
+*** TURN *** [Jh 7c 8s][6s]
+*** RIVER *** [Jh 7c 8s 6s][Ac]
+*** SHOW DOWN ***
+_SKR shows [Kc 9d] (High card : Ace)
+magui389 shows [3h 6h] (One pair : 6)
+magui389 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jh 7c 8s 6s Ac]
+Seat 1: magui389 (small blind) showed [3h 6h] and won 600 with One pair : 6
+Seat 2: _SKR (big blind) showed [Kc 9d] and lost with High card : Ace
+
+

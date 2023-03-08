@@ -1,0 +1,65 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689739774679318529-1-1674649052 - Holdem no limit (10/20) - 2023/01/25 12:17:32 UTC
+Table: 'Expresso Nitro(626253843)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: CoRupT (300)
+Seat 3: 66-GIG-66 (300)
+*** ANTE/BLINDS ***
+66-GIG-66 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c 6c]
+*** PRE-FLOP *** 
+CoRupT raises 20 to 40
+66-GIG-66 folds
+_SKR folds
+CoRupT collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: CoRupT (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689739774679318529-2-1674649073 - Holdem no limit (10/20) - 2023/01/25 12:17:53 UTC
+Table: 'Expresso Nitro(626253843)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: CoRupT (330)
+Seat 3: 66-GIG-66 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+CoRupT posts big blind 20
+Dealt to _SKR [6c Qh]
+*** PRE-FLOP *** 
+66-GIG-66 raises 50 to 70
+_SKR folds
+CoRupT folds
+66-GIG-66 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: 66-GIG-66 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689739774679318529-3-1674649086 - Holdem no limit (10/20) - 2023/01/25 12:18:06 UTC
+Table: 'Expresso Nitro(626253843)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: CoRupT (310)
+Seat 3: 66-GIG-66 (320)
+*** ANTE/BLINDS ***
+CoRupT posts small blind 10
+66-GIG-66 posts big blind 20
+Dealt to _SKR [Ah 6h]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+CoRupT folds
+66-GIG-66 raises 50 to 320 and is all-in
+*** FLOP *** [2d Jc Tc]
+*** TURN *** [2d Jc Tc][8s]
+*** RIVER *** [2d Jc Tc 8s][6s]
+*** SHOW DOWN ***
+_SKR shows [Ah 6h] (One pair : 6)
+66-GIG-66 shows [Ks Js] (One pair : Jacks)
+66-GIG-66 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [2d Jc Tc 8s 6s]
+Seat 1: _SKR (button) showed [Ah 6h] and lost with One pair : 6
+Seat 3: 66-GIG-66 (big blind) showed [Ks Js] and won 600 with One pair : Jacks
+
+

@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691968420324311041-1-1674775587 - Holdem no limit (10/20) - 2023/01/26 23:26:27 UTC
+Table: 'Expresso Nitro(626772740)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Marta Gimene (300)
+Seat 2: _SKR (300)
+Seat 3: Misterdams29 (300)
+*** ANTE/BLINDS ***
+Misterdams29 posts small blind 10
+Marta Gimene posts big blind 20
+Dealt to _SKR [6h Qs]
+*** PRE-FLOP *** 
+_SKR folds
+Misterdams29 calls 10
+Marta Gimene checks
+*** FLOP *** [3h 7c 9c]
+Misterdams29 bets 20
+Marta Gimene calls 20
+*** TURN *** [3h 7c 9c][4c]
+Misterdams29 checks
+Marta Gimene checks
+*** RIVER *** [3h 7c 9c 4c][As]
+Misterdams29 checks
+Marta Gimene checks
+*** SHOW DOWN ***
+Marta Gimene shows [7s 5s] (One pair : 7)
+Misterdams29 shows [Td 7h] (One pair : 7)
+Misterdams29 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3h 7c 9c 4c As]
+Seat 1: Marta Gimene (big blind) showed [7s 5s] and lost with One pair : 7
+Seat 3: Misterdams29 (small blind) showed [Td 7h] and won 80 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691968420324311041-2-1674775608 - Holdem no limit (10/20) - 2023/01/26 23:26:48 UTC
+Table: 'Expresso Nitro(626772740)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Marta Gimene (260)
+Seat 2: _SKR (300)
+Seat 3: Misterdams29 (340)
+*** ANTE/BLINDS ***
+Marta Gimene posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad 8s]
+*** PRE-FLOP *** 
+Misterdams29 folds
+Marta Gimene calls 10
+_SKR raises 280 to 300 and is all-in
+Marta Gimene calls 240 and is all-in
+*** FLOP *** [7s Kd 3s]
+*** TURN *** [7s Kd 3s][5d]
+*** RIVER *** [7s Kd 3s 5d][2c]
+*** SHOW DOWN ***
+Marta Gimene shows [Js Kc] (One pair : Kings)
+_SKR shows [Ad 8s] (High card : Ace)
+_SKR collected 40 from side pot 1
+Marta Gimene collected 520 from main pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [7s Kd 3s 5d 2c]
+Seat 1: Marta Gimene (small blind) showed [Js Kc] and won 520 with One pair : Kings
+Seat 2: _SKR (big blind) showed [Ad 8s] and won 40 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691968420324311041-3-1674775634 - Holdem no limit (10/20) - 2023/01/26 23:27:14 UTC
+Table: 'Expresso Nitro(626772740)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Marta Gimene (520)
+Seat 2: _SKR (40)
+Seat 3: Misterdams29 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Misterdams29 posts big blind 20
+Dealt to _SKR [7d 6h]
+*** PRE-FLOP *** 
+Marta Gimene raises 40 to 60
+_SKR folds
+Misterdams29 folds
+Marta Gimene collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Marta Gimene (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691968420324311041-4-1674775647 - Holdem no limit (15/30) - 2023/01/26 23:27:27 UTC
+Table: 'Expresso Nitro(626772740)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Marta Gimene (550)
+Seat 2: _SKR (30)
+Seat 3: Misterdams29 (320)
+*** ANTE/BLINDS ***
+Misterdams29 posts small blind 15
+Marta Gimene posts big blind 30
+Dealt to _SKR [As 3h]
+*** PRE-FLOP *** 
+_SKR calls 30 and is all-in
+Misterdams29 folds
+*** FLOP *** [8h 5d Qh]
+*** TURN *** [8h 5d Qh][Kh]
+*** RIVER *** [8h 5d Qh Kh][6d]
+*** SHOW DOWN ***
+_SKR shows [As 3h] (High card : Ace)
+Marta Gimene shows [Tc Th] (One pair : Tens)
+Marta Gimene collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [8h 5d Qh Kh 6d]
+Seat 1: Marta Gimene (big blind) showed [Tc Th] and won 75 with One pair : Tens
+Seat 2: _SKR (button) showed [As 3h] and lost with High card : Ace
+
+

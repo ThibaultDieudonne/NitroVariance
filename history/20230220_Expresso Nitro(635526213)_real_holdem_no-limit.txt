@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729564300585730049-1-1676920246 - Holdem no limit (10/20) - 2023/02/20 19:10:46 UTC
+Table: 'Expresso Nitro(635526213)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fefe0710 (300)
+Seat 2: ScoreSize06 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Fefe0710 posts small blind 10
+ScoreSize06 posts big blind 20
+Dealt to _SKR [6d 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Fefe0710 raises 80 to 100
+ScoreSize06 folds
+Fefe0710 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Fefe0710 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729564300585730049-2-1676920260 - Holdem no limit (10/20) - 2023/02/20 19:11:00 UTC
+Table: 'Expresso Nitro(635526213)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fefe0710 (320)
+Seat 2: ScoreSize06 (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+ScoreSize06 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh Qh]
+*** PRE-FLOP *** 
+Fefe0710 raises 80 to 100
+ScoreSize06 folds
+_SKR raises 200 to 300 and is all-in
+Fefe0710 raises 20 to 320 and is all-in
+*** FLOP *** [5d 7h 8c]
+*** TURN *** [5d 7h 8c][Ad]
+*** RIVER *** [5d 7h 8c Ad][Qs]
+*** SHOW DOWN ***
+_SKR shows [Kh Qh] (One pair : Queens)
+Fefe0710 shows [8d 8h] (Trips of 8)
+Fefe0710 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [5d 7h 8c Ad Qs]
+Seat 1: Fefe0710 (button) showed [8d 8h] and won 630 with Trips of 8
+Seat 3: _SKR (big blind) showed [Kh Qh] and lost with One pair : Queens
+
+

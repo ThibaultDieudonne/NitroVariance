@@ -1,0 +1,153 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781570440757249-1-1676300049 - Holdem no limit (10/20) - 2023/02/13 14:54:09 UTC
+Table: 'Expresso Nitro(633015663)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: alexandre_16 (300)
+Seat 3: Matin2012 (300)
+*** ANTE/BLINDS ***
+alexandre_16 posts small blind 10
+Matin2012 posts big blind 20
+Dealt to _SKR [2d Th]
+*** PRE-FLOP *** 
+_SKR folds
+alexandre_16 raises 30 to 50
+Matin2012 calls 30
+*** FLOP *** [4s 2c 7d]
+alexandre_16 bets 35
+Matin2012 raises 215 to 250 and is all-in
+alexandre_16 folds
+Matin2012 collected 385 from pot
+*** SUMMARY ***
+Total pot 385 | No rake
+Board: [4s 2c 7d]
+Seat 3: Matin2012 (big blind) won 385
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781570440757249-2-1676300062 - Holdem no limit (10/20) - 2023/02/13 14:54:22 UTC
+Table: 'Expresso Nitro(633015663)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: alexandre_16 (215)
+Seat 3: Matin2012 (385)
+*** ANTE/BLINDS ***
+Matin2012 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7h Jh]
+*** PRE-FLOP *** 
+alexandre_16 calls 20
+Matin2012 raises 40 to 60
+_SKR folds
+alexandre_16 calls 40
+*** FLOP *** [3h Kd 8s]
+Matin2012 checks
+alexandre_16 checks
+*** TURN *** [3h Kd 8s][Qh]
+Matin2012 bets 91
+alexandre_16 folds
+Matin2012 collected 231 from pot
+*** SUMMARY ***
+Total pot 231 | No rake
+Board: [3h Kd 8s Qh]
+Seat 3: Matin2012 (small blind) won 231
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781570440757249-3-1676300074 - Holdem no limit (10/20) - 2023/02/13 14:54:34 UTC
+Table: 'Expresso Nitro(633015663)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: alexandre_16 (155)
+Seat 3: Matin2012 (465)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+alexandre_16 posts big blind 20
+Dealt to _SKR [6h Th]
+*** PRE-FLOP *** 
+Matin2012 calls 20
+_SKR folds
+alexandre_16 raises 30 to 50
+Matin2012 calls 30
+*** FLOP *** [Jh 7s 6s]
+alexandre_16 checks
+Matin2012 bets 415 and is all-in
+alexandre_16 calls 105 and is all-in
+*** TURN *** [Jh 7s 6s][7h]
+*** RIVER *** [Jh 7s 6s 7h][Kh]
+*** SHOW DOWN ***
+alexandre_16 shows [Js Ad] (Two pairs : Jacks and 7)
+Matin2012 shows [Ts 2s] (One pair : 7)
+Matin2012 collected 310 from side pot 1
+alexandre_16 collected 320 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Jh 7s 6s 7h Kh]
+Seat 2: alexandre_16 (big blind) showed [Js Ad] and won 320 with Two pairs : Jacks and 7
+Seat 3: Matin2012 (button) showed [Ts 2s] and won 310 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781570440757249-4-1676300096 - Holdem no limit (10/20) - 2023/02/13 14:54:56 UTC
+Table: 'Expresso Nitro(633015663)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: alexandre_16 (320)
+Seat 3: Matin2012 (310)
+*** ANTE/BLINDS ***
+alexandre_16 posts small blind 10
+Matin2012 posts big blind 20
+Dealt to _SKR [7h Jd]
+*** PRE-FLOP *** 
+_SKR folds
+alexandre_16 calls 10
+Matin2012 raises 290 to 310 and is all-in
+alexandre_16 folds
+Matin2012 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Matin2012 (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781570440757249-5-1676300103 - Holdem no limit (10/20) - 2023/02/13 14:55:03 UTC
+Table: 'Expresso Nitro(633015663)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: alexandre_16 (300)
+Seat 3: Matin2012 (330)
+*** ANTE/BLINDS ***
+Matin2012 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc 8s]
+*** PRE-FLOP *** 
+alexandre_16 folds
+Matin2012 calls 10
+_SKR checks
+*** FLOP *** [3h Th 6d]
+Matin2012 bets 26
+_SKR folds
+Matin2012 collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [3h Th 6d]
+Seat 3: Matin2012 (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718781570440757249-6-1676300118 - Holdem no limit (15/30) - 2023/02/13 14:55:18 UTC
+Table: 'Expresso Nitro(633015663)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (250)
+Seat 2: alexandre_16 (300)
+Seat 3: Matin2012 (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+alexandre_16 posts big blind 30
+Dealt to _SKR [Ah 3d]
+*** PRE-FLOP *** 
+Matin2012 raises 320 to 350 and is all-in
+_SKR calls 235 and is all-in
+alexandre_16 folds
+*** FLOP *** [9s 9d 4d]
+*** TURN *** [9s 9d 4d][2c]
+*** RIVER *** [9s 9d 4d 2c][8d]
+*** SHOW DOWN ***
+_SKR shows [Ah 3d] (One pair : 9)
+Matin2012 shows [8h As] (Two pairs : 9 and 8)
+Matin2012 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [9s 9d 4d 2c 8d]
+Seat 1: _SKR (small blind) showed [Ah 3d] and lost with One pair : 9
+Seat 3: Matin2012 (button) showed [8h As] and won 630 with Two pairs : 9 and 8
+
+

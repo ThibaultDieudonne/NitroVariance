@@ -1,0 +1,147 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729164267331780609-1-1676903902 - Holdem no limit (10/20) - 2023/02/20 14:38:22 UTC
+Table: 'Expresso Nitro(635433073)#0' 3-max (real money) Seat #3 is the button
+Seat 1: -Apo51 (300)
+Seat 2: Orathai0007 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+-Apo51 posts small blind 10
+Orathai0007 posts big blind 20
+Dealt to _SKR [9h 9s]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+-Apo51 folds
+Orathai0007 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729164267331780609-2-1676903912 - Holdem no limit (10/20) - 2023/02/20 14:38:32 UTC
+Table: 'Expresso Nitro(635433073)#0' 3-max (real money) Seat #1 is the button
+Seat 1: -Apo51 (290)
+Seat 2: Orathai0007 (280)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+Orathai0007 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s Kc]
+*** PRE-FLOP *** 
+-Apo51 folds
+Orathai0007 calls 10
+_SKR checks
+*** FLOP *** [Jd 9d 4c]
+Orathai0007 checks
+_SKR bets 20
+Orathai0007 calls 20
+*** TURN *** [Jd 9d 4c][2s]
+Orathai0007 checks
+_SKR checks
+*** RIVER *** [Jd 9d 4c 2s][Js]
+Orathai0007 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [3s Kc] (One pair : Jacks)
+Orathai0007 shows [9h Qs] (Two pairs : Jacks and 9)
+Orathai0007 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Jd 9d 4c 2s Js]
+Seat 2: Orathai0007 (small blind) showed [9h Qs] and won 80 with Two pairs : Jacks and 9
+Seat 3: _SKR (big blind) showed [3s Kc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729164267331780609-3-1676903941 - Holdem no limit (10/20) - 2023/02/20 14:39:01 UTC
+Table: 'Expresso Nitro(635433073)#0' 3-max (real money) Seat #2 is the button
+Seat 1: -Apo51 (290)
+Seat 2: Orathai0007 (320)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+-Apo51 posts big blind 20
+Dealt to _SKR [Qh Qs]
+*** PRE-FLOP *** 
+Orathai0007 folds
+_SKR raises 20 to 40
+-Apo51 calls 20
+*** FLOP *** [Ah 5h Jh]
+_SKR bets 20
+-Apo51 calls 20
+*** TURN *** [Ah 5h Jh][6d]
+_SKR bets 60
+-Apo51 folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ah 5h Jh 6d]
+Seat 3: _SKR (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729164267331780609-4-1676903976 - Holdem no limit (15/30) - 2023/02/20 14:39:36 UTC
+Table: 'Expresso Nitro(635433073)#0' 3-max (real money) Seat #3 is the button
+Seat 1: -Apo51 (230)
+Seat 2: Orathai0007 (320)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+-Apo51 posts small blind 15
+Orathai0007 posts big blind 30
+Dealt to _SKR [Qc As]
+*** PRE-FLOP *** 
+_SKR raises 320 to 350 and is all-in
+-Apo51 calls 215 and is all-in
+Orathai0007 folds
+*** FLOP *** [7c 9s Qd]
+*** TURN *** [7c 9s Qd][3h]
+*** RIVER *** [7c 9s Qd 3h][7s]
+*** SHOW DOWN ***
+-Apo51 shows [Ah Td] (One pair : 7)
+_SKR shows [Qc As] (Two pairs : Queens and 7)
+_SKR collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [7c 9s Qd 3h 7s]
+Seat 1: -Apo51 (small blind) showed [Ah Td] and lost with One pair : 7
+Seat 3: _SKR (button) showed [Qc As] and won 610 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729164267331780609-5-1676903991 - Holdem no limit (15/30) - 2023/02/20 14:39:51 UTC
+Table: 'Expresso Nitro(635433073)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Orathai0007 (290)
+Seat 3: _SKR (610)
+*** ANTE/BLINDS ***
+Orathai0007 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6d 5s]
+*** PRE-FLOP *** 
+Orathai0007 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729164267331780609-6-1676903995 - Holdem no limit (15/30) - 2023/02/20 14:39:55 UTC
+Table: 'Expresso Nitro(635433073)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Orathai0007 (275)
+Seat 3: _SKR (625)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Orathai0007 posts big blind 30
+Dealt to _SKR [5s Ac]
+*** PRE-FLOP *** 
+_SKR raises 595 to 625 and is all-in
+Orathai0007 calls 245 and is all-in
+*** FLOP *** [7c 5c Js]
+*** TURN *** [7c 5c Js][Kd]
+*** RIVER *** [7c 5c Js Kd][7h]
+*** SHOW DOWN ***
+Orathai0007 shows [3d 3h] (Two pairs : 7 and 3)
+_SKR shows [5s Ac] (Two pairs : 7 and 5)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c 5c Js Kd 7h]
+Seat 2: Orathai0007 (big blind) showed [3d 3h] and lost with Two pairs : 7 and 3
+Seat 3: _SKR (small blind) (button) showed [5s Ac] and won 900 with Two pairs : 7 and 5
+
+

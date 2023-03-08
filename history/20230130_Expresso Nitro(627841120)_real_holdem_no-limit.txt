@@ -1,0 +1,126 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696557077484011521-1-1675086886 - Holdem no limit (10/20) - 2023/01/30 13:54:46 UTC
+Table: 'Expresso Nitro(627841120)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sayerclemili (300)
+Seat 2: Tossani (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Sayerclemili posts small blind 10
+Tossani posts big blind 20
+Dealt to _SKR [Qd 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Sayerclemili folds
+Tossani collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Tossani (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696557077484011521-2-1675086892 - Holdem no limit (10/20) - 2023/01/30 13:54:52 UTC
+Table: 'Expresso Nitro(627841120)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sayerclemili (290)
+Seat 2: Tossani (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Tossani posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 3h]
+*** PRE-FLOP *** 
+Sayerclemili folds
+Tossani folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696557077484011521-3-1675086896 - Holdem no limit (10/20) - 2023/01/30 13:54:56 UTC
+Table: 'Expresso Nitro(627841120)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sayerclemili (290)
+Seat 2: Tossani (300)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Sayerclemili posts big blind 20
+Dealt to _SKR [4d 8d]
+*** PRE-FLOP *** 
+Tossani folds
+_SKR folds
+Sayerclemili collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Sayerclemili (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696557077484011521-4-1675086904 - Holdem no limit (10/20) - 2023/01/30 13:55:04 UTC
+Table: 'Expresso Nitro(627841120)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sayerclemili (300)
+Seat 2: Tossani (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Sayerclemili posts small blind 10
+Tossani posts big blind 20
+Dealt to _SKR [6d 6s]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Sayerclemili folds
+Tossani folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696557077484011521-5-1675086920 - Holdem no limit (10/20) - 2023/01/30 13:55:20 UTC
+Table: 'Expresso Nitro(627841120)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sayerclemili (290)
+Seat 2: Tossani (280)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+Tossani posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h Ad]
+*** PRE-FLOP *** 
+Sayerclemili folds
+Tossani raises 40 to 60
+_SKR raises 270 to 330 and is all-in
+Tossani calls 220 and is all-in
+*** FLOP *** [Qd 4d Kc]
+*** TURN *** [Qd 4d Kc][As]
+*** RIVER *** [Qd 4d Kc As][Qs]
+*** SHOW DOWN ***
+Tossani shows [Ks 8d] (Two pairs : Kings and Queens)
+_SKR shows [2h Ad] (Two pairs : Aces and Queens)
+_SKR collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Qd 4d Kc As Qs]
+Seat 2: Tossani (small blind) showed [Ks 8d] and lost with Two pairs : Kings and Queens
+Seat 3: _SKR (big blind) showed [2h Ad] and won 610 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696557077484011521-6-1675086942 - Holdem no limit (15/30) - 2023/01/30 13:55:42 UTC
+Table: 'Expresso Nitro(627841120)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sayerclemili (290)
+Seat 3: _SKR (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Sayerclemili posts big blind 30
+Dealt to _SKR [8d Qh]
+*** PRE-FLOP *** 
+_SKR raises 580 to 610 and is all-in
+Sayerclemili calls 260 and is all-in
+*** FLOP *** [9d Td Ks]
+*** TURN *** [9d Td Ks][5h]
+*** RIVER *** [9d Td Ks 5h][8h]
+*** SHOW DOWN ***
+Sayerclemili shows [6c 6d] (One pair : 6)
+_SKR shows [8d Qh] (One pair : 8)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d Td Ks 5h 8h]
+Seat 1: Sayerclemili (big blind) showed [6c 6d] and lost with One pair : 6
+Seat 3: _SKR (small blind) (button) showed [8d Qh] and won 900 with One pair : 8
+
+

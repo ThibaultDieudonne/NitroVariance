@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717825549375373313-1-1676236755 - Holdem no limit (10/20) - 2023/02/12 21:19:15 UTC
+Table: 'Expresso Nitro(632793072)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Galgarik 06 (300)
+Seat 3: Guedes20_ (300)
+*** ANTE/BLINDS ***
+Guedes20_ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts 5s]
+*** PRE-FLOP *** 
+Galgarik 06 calls 20
+Guedes20_ folds
+_SKR checks
+*** FLOP *** [Tc 8d 9c]
+_SKR checks
+Galgarik 06 checks
+*** TURN *** [Tc 8d 9c][4d]
+_SKR bets 25
+Galgarik 06 calls 25
+*** RIVER *** [Tc 8d 9c 4d][Ah]
+_SKR checks
+Galgarik 06 bets 65
+_SKR calls 65
+*** SHOW DOWN ***
+Galgarik 06 shows [6d 8h] (One pair : 8)
+_SKR shows [Ts 5s] (One pair : Tens)
+_SKR collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Board: [Tc 8d 9c 4d Ah]
+Seat 1: _SKR (big blind) showed [Ts 5s] and won 230 with One pair : Tens
+Seat 2: Galgarik 06 (button) showed [6d 8h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717825549375373313-2-1676236785 - Holdem no limit (10/20) - 2023/02/12 21:19:45 UTC
+Table: 'Expresso Nitro(632793072)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (420)
+Seat 2: Galgarik 06 (190)
+Seat 3: Guedes20_ (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Galgarik 06 posts big blind 20
+Dealt to _SKR [Ah 7d]
+*** PRE-FLOP *** 
+Guedes20_ raises 20 to 40
+_SKR folds
+Galgarik 06 folds
+Guedes20_ collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: Guedes20_ (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717825549375373313-3-1676236805 - Holdem no limit (10/20) - 2023/02/12 21:20:05 UTC
+Table: 'Expresso Nitro(632793072)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (410)
+Seat 2: Galgarik 06 (170)
+Seat 3: Guedes20_ (320)
+*** ANTE/BLINDS ***
+Galgarik 06 posts small blind 10
+Guedes20_ posts big blind 20
+Dealt to _SKR [3d 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Galgarik 06 raises 150 to 170 and is all-in
+Guedes20_ raises 150 to 320 and is all-in
+*** FLOP *** [2d Ad 5d]
+*** TURN *** [2d Ad 5d][4s]
+*** RIVER *** [2d Ad 5d 4s][8s]
+*** SHOW DOWN ***
+Galgarik 06 shows [9h Jh] (High card : Ace)
+Guedes20_ shows [7c Ac] (One pair : Aces)
+Guedes20_ collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [2d Ad 5d 4s 8s]
+Seat 2: Galgarik 06 (small blind) showed [9h Jh] and lost with High card : Ace
+Seat 3: Guedes20_ (big blind) showed [7c Ac] and won 490 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717825549375373313-4-1676236824 - Holdem no limit (15/30) - 2023/02/12 21:20:24 UTC
+Table: 'Expresso Nitro(632793072)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (410)
+Seat 3: Guedes20_ (490)
+*** ANTE/BLINDS ***
+Guedes20_ posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc Jh]
+*** PRE-FLOP *** 
+Guedes20_ raises 30 to 60
+_SKR raises 350 to 410 and is all-in
+Guedes20_ calls 350
+*** FLOP *** [9h 8c 4s]
+*** TURN *** [9h 8c 4s][Ah]
+*** RIVER *** [9h 8c 4s Ah][5c]
+*** SHOW DOWN ***
+_SKR shows [Kc Jh] (High card : Ace)
+Guedes20_ shows [9s Ks] (One pair : 9)
+Guedes20_ collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [9h 8c 4s Ah 5c]
+Seat 1: _SKR (big blind) showed [Kc Jh] and lost with High card : Ace
+Seat 3: Guedes20_ (small blind) (button) showed [9s Ks] and won 820 with One pair : 9
+
+

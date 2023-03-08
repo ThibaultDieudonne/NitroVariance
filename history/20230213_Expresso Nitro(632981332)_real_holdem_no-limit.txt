@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718634119918518273-1-1676292695 - Holdem no limit (10/20) - 2023/02/13 12:51:35 UTC
+Table: 'Expresso Nitro(632981332)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pataya54 (300)
+Seat 2: _SKR (300)
+Seat 3: 1crevable (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+1crevable posts big blind 20
+Dealt to _SKR [Jh 5d]
+*** PRE-FLOP *** 
+pataya54 raises 20 to 40
+_SKR folds
+1crevable folds
+pataya54 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: pataya54 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718634119918518273-2-1676292703 - Holdem no limit (10/20) - 2023/02/13 12:51:43 UTC
+Table: 'Expresso Nitro(632981332)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pataya54 (330)
+Seat 2: _SKR (290)
+Seat 3: 1crevable (280)
+*** ANTE/BLINDS ***
+1crevable posts small blind 10
+pataya54 posts big blind 20
+Dealt to _SKR [4d 5c]
+*** PRE-FLOP *** 
+_SKR folds
+1crevable folds
+pataya54 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: pataya54 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718634119918518273-3-1676292709 - Holdem no limit (10/20) - 2023/02/13 12:51:49 UTC
+Table: 'Expresso Nitro(632981332)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pataya54 (340)
+Seat 2: _SKR (290)
+Seat 3: 1crevable (270)
+*** ANTE/BLINDS ***
+pataya54 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d 6d]
+*** PRE-FLOP *** 
+1crevable folds
+pataya54 calls 10
+_SKR checks
+*** FLOP *** [5h 8c 3s]
+pataya54 checks
+_SKR checks
+*** TURN *** [5h 8c 3s][4c]
+pataya54 checks
+_SKR checks
+*** RIVER *** [5h 8c 3s 4c][8s]
+pataya54 checks
+_SKR checks
+*** SHOW DOWN ***
+pataya54 shows [Ad Kh] (One pair : 8)
+_SKR shows [7d 6d] (Straight 8 high)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [5h 8c 3s 4c 8s]
+Seat 1: pataya54 (small blind) showed [Ad Kh] and lost with One pair : 8
+Seat 2: _SKR (big blind) showed [7d 6d] and won 40 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718634119918518273-4-1676292743 - Holdem no limit (10/20) - 2023/02/13 12:52:23 UTC
+Table: 'Expresso Nitro(632981332)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pataya54 (320)
+Seat 2: _SKR (310)
+Seat 3: 1crevable (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+1crevable posts big blind 20
+Dealt to _SKR [5c Ac]
+*** PRE-FLOP *** 
+pataya54 calls 20
+_SKR raises 290 to 310 and is all-in
+1crevable calls 250 and is all-in
+pataya54 calls 290
+*** FLOP *** [9c 2c 8s]
+*** TURN *** [9c 2c 8s][9h]
+*** RIVER *** [9c 2c 8s 9h][Kd]
+*** SHOW DOWN ***
+_SKR shows [5c Ac] (One pair : 9)
+pataya54 shows [Ah Jh] (One pair : 9)
+1crevable shows [6s 6c] (Two pairs : 9 and 6)
+1crevable collected 810 from main pot
+pataya54 collected 80 from side pot 1
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [9c 2c 8s 9h Kd]
+Seat 1: pataya54 (button) showed [Ah Jh] and won 80 with One pair : 9
+Seat 2: _SKR (small blind) showed [5c Ac] and lost with One pair : 9
+Seat 3: 1crevable (big blind) showed [6s 6c] and won 810 with Two pairs : 9 and 6
+
+

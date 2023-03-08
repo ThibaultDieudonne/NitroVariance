@@ -1,0 +1,275 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677067181614694401-1-1673875577 - Holdem no limit (10/20) - 2023/01/16 13:26:17 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Zeph00002 (300)
+Seat 2: _SKR (300)
+Seat 3: Crypto_3.0 (300)
+*** ANTE/BLINDS ***
+Zeph00002 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 4c]
+*** PRE-FLOP *** 
+Crypto_3.0 raises 280 to 300 and is all-in
+Zeph00002 folds
+_SKR folds
+Crypto_3.0 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Crypto_3.0 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677067181614694401-2-1673875589 - Holdem no limit (10/20) - 2023/01/16 13:26:29 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Zeph00002 (290)
+Seat 2: _SKR (280)
+Seat 3: Crypto_3.0 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Crypto_3.0 posts big blind 20
+Dealt to _SKR [4h 8h]
+*** PRE-FLOP *** 
+Zeph00002 folds
+_SKR folds
+Crypto_3.0 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Crypto_3.0 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677067181614694401-3-1673875614 - Holdem no limit (10/20) - 2023/01/16 13:26:54 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Zeph00002 (290)
+Seat 2: _SKR (270)
+Seat 3: Crypto_3.0 (340)
+*** ANTE/BLINDS ***
+Crypto_3.0 posts small blind 10
+Zeph00002 posts big blind 20
+Dealt to _SKR [7h Kd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Crypto_3.0 calls 30
+Zeph00002 calls 20
+*** FLOP *** [4c 7c 2s]
+Crypto_3.0 bets 42
+Zeph00002 folds
+_SKR calls 42
+*** TURN *** [4c 7c 2s][9c]
+Crypto_3.0 bets 133
+_SKR raises 55 to 188 and is all-in
+Crypto_3.0 calls 55
+*** RIVER *** [4c 7c 2s 9c][8h]
+*** SHOW DOWN ***
+Crypto_3.0 shows [Td 7d] (One pair : 7)
+_SKR shows [7h Kd] (One pair : 7)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [4c 7c 2s 9c 8h]
+Seat 2: _SKR (button) showed [7h Kd] and won 580 with One pair : 7
+Seat 3: Crypto_3.0 (small blind) showed [Td 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677067181614694401-4-1673875653 - Holdem no limit (15/30) - 2023/01/16 13:27:33 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Zeph00002 (250)
+Seat 2: _SKR (580)
+Seat 3: Crypto_3.0 (70)
+*** ANTE/BLINDS ***
+Zeph00002 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc Jh]
+*** PRE-FLOP *** 
+Crypto_3.0 folds
+Zeph00002 calls 15
+_SKR raises 45 to 75
+Zeph00002 folds
+_SKR collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: _SKR (big blind) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677067181614694401-5-1673875664 - Holdem no limit (15/30) - 2023/01/16 13:27:44 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Zeph00002 (220)
+Seat 2: _SKR (610)
+Seat 3: Crypto_3.0 (70)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Crypto_3.0 posts big blind 30
+Dealt to _SKR [Th Ac]
+*** PRE-FLOP *** 
+Zeph00002 folds
+_SKR raises 580 to 610 and is all-in
+Crypto_3.0 calls 40 and is all-in
+*** FLOP *** [3c Qh 9c]
+*** TURN *** [3c Qh 9c][2h]
+*** RIVER *** [3c Qh 9c 2h][5s]
+*** SHOW DOWN ***
+_SKR shows [Th Ac] (High card : Ace)
+Crypto_3.0 shows [5c 3s] (Two pairs : 5 and 3)
+Crypto_3.0 collected 140 from main pot
+_SKR collected 540 from side pot 1
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [3c Qh 9c 2h 5s]
+Seat 2: _SKR (small blind) showed [Th Ac] and won 540 with High card : Ace
+Seat 3: Crypto_3.0 (big blind) showed [5c 3s] and won 140 with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677067181614694401-6-1673875681 - Holdem no limit (15/30) - 2023/01/16 13:28:01 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Zeph00002 (220)
+Seat 2: _SKR (540)
+Seat 3: Crypto_3.0 (140)
+*** ANTE/BLINDS ***
+Crypto_3.0 posts small blind 15
+Zeph00002 posts big blind 30
+Dealt to _SKR [Qs 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Crypto_3.0 folds
+Zeph00002 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Zeph00002 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677067181614694401-7-1673875690 - Holdem no limit (15/30) - 2023/01/16 13:28:10 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Zeph00002 (235)
+Seat 2: _SKR (540)
+Seat 3: Crypto_3.0 (125)
+*** ANTE/BLINDS ***
+Zeph00002 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3s 7s]
+*** PRE-FLOP *** 
+Crypto_3.0 raises 95 to 125 and is all-in
+Zeph00002 folds
+_SKR folds
+Crypto_3.0 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Seat 3: Crypto_3.0 (button) won 170
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677067181614694401-8-1673875704 - Holdem no limit (20/40) - 2023/01/16 13:28:24 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Zeph00002 (220)
+Seat 2: _SKR (510)
+Seat 3: Crypto_3.0 (170)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Crypto_3.0 posts big blind 40
+Dealt to _SKR [Qh 5s]
+*** PRE-FLOP *** 
+Zeph00002 calls 40
+_SKR folds
+Crypto_3.0 raises 130 to 170 and is all-in
+Zeph00002 calls 130
+*** FLOP *** [7h Jh 2s]
+*** TURN *** [7h Jh 2s][7c]
+*** RIVER *** [7h Jh 2s 7c][Kc]
+*** SHOW DOWN ***
+Crypto_3.0 shows [4c Qc] (One pair : 7)
+Zeph00002 shows [Jd Qs] (Two pairs : Jacks and 7)
+Zeph00002 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [7h Jh 2s 7c Kc]
+Seat 1: Zeph00002 (button) showed [Jd Qs] and won 360 with Two pairs : Jacks and 7
+Seat 3: Crypto_3.0 (big blind) showed [4c Qc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2677067181614694401-9-1673875734 - Holdem no limit (20/40) - 2023/01/16 13:28:54 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Zeph00002 (410)
+Seat 2: _SKR (490)
+*** ANTE/BLINDS ***
+Zeph00002 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3c 7d]
+*** PRE-FLOP *** 
+Zeph00002 calls 20
+_SKR checks
+*** FLOP *** [2h 8d Kd]
+_SKR checks
+Zeph00002 bets 40
+_SKR folds
+Zeph00002 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2h 8d Kd]
+Seat 1: Zeph00002 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2677067181614694401-10-1673875762 - Holdem no limit (30/60) - 2023/01/16 13:29:22 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Zeph00002 (450)
+Seat 2: _SKR (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Zeph00002 posts big blind 60
+Dealt to _SKR [8h Kd]
+*** PRE-FLOP *** 
+_SKR raises 390 to 450 and is all-in
+Zeph00002 folds
+_SKR collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 2: _SKR (small blind) (button) won 510
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2677067181614694401-11-1673875768 - Holdem no limit (30/60) - 2023/01/16 13:29:28 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Zeph00002 (390)
+Seat 2: _SKR (510)
+*** ANTE/BLINDS ***
+Zeph00002 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8s 6d]
+*** PRE-FLOP *** 
+Zeph00002 calls 30
+_SKR checks
+*** FLOP *** [2c 9s Qc]
+_SKR checks
+Zeph00002 checks
+*** TURN *** [2c 9s Qc][9d]
+_SKR checks
+Zeph00002 checks
+*** RIVER *** [2c 9s Qc 9d][Jh]
+_SKR checks
+Zeph00002 bets 330 and is all-in
+_SKR folds
+Zeph00002 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [2c 9s Qc 9d Jh]
+Seat 1: Zeph00002 (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2677067181614694401-12-1673875793 - Holdem no limit (30/60) - 2023/01/16 13:29:53 UTC
+Table: 'Expresso Nitro(623303275)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Zeph00002 (450)
+Seat 2: _SKR (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Zeph00002 posts big blind 60
+Dealt to _SKR [As Jd]
+*** PRE-FLOP *** 
+_SKR raises 390 to 450 and is all-in
+Zeph00002 calls 390 and is all-in
+*** FLOP *** [Jh Qd 2h]
+*** TURN *** [Jh Qd 2h][4s]
+*** RIVER *** [Jh Qd 2h 4s][5s]
+*** SHOW DOWN ***
+Zeph00002 shows [Ad Td] (High card : Ace)
+_SKR shows [As Jd] (One pair : Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh Qd 2h 4s 5s]
+Seat 1: Zeph00002 (big blind) showed [Ad Td] and lost with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [As Jd] and won 900 with One pair : Jacks
+
+

@@ -1,0 +1,50 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661436438414884865-1-1673013184 - Holdem no limit (10/20) - 2023/01/06 13:53:04 UTC
+Table: 'Expresso Nitro(619663959)#0' 3-max (real money) Seat #3 is the button
+Seat 1: l3sKKr0 (300)
+Seat 2: _SKR (300)
+Seat 3: Benouse21 (300)
+*** ANTE/BLINDS ***
+l3sKKr0 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh 6s]
+*** PRE-FLOP *** 
+Benouse21 raises 280 to 300 and is all-in
+l3sKKr0 folds
+_SKR folds
+Benouse21 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Benouse21 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661436438414884865-2-1673013199 - Holdem no limit (10/20) - 2023/01/06 13:53:19 UTC
+Table: 'Expresso Nitro(619663959)#0' 3-max (real money) Seat #1 is the button
+Seat 1: l3sKKr0 (290)
+Seat 2: _SKR (280)
+Seat 3: Benouse21 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Benouse21 posts big blind 20
+Dealt to _SKR [8d Qh]
+*** PRE-FLOP *** 
+l3sKKr0 folds
+_SKR raises 20 to 40
+Benouse21 calls 20
+*** FLOP *** [8h 4h 6c]
+_SKR bets 40
+Benouse21 calls 40
+*** TURN *** [8h 4h 6c][2c]
+_SKR bets 200 and is all-in
+Benouse21 raises 50 to 250 and is all-in
+*** RIVER *** [8h 4h 6c 2c][8s]
+*** SHOW DOWN ***
+_SKR shows [8d Qh] (Trips of 8)
+Benouse21 shows [2d 2h] (Full of 2 and 8)
+Benouse21 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [8h 4h 6c 2c 8s]
+Seat 2: _SKR (small blind) showed [8d Qh] and lost with Trips of 8
+Seat 3: Benouse21 (big blind) showed [2d 2h] and won 610 with Full of 2 and 8
+
+

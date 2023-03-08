@@ -1,0 +1,264 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717933189845745665-1-1676240364 - Holdem no limit (10/20) - 2023/02/12 22:19:24 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AlejandroDS7 (300)
+Seat 2: _SKR (300)
+Seat 3: red-taz (300)
+*** ANTE/BLINDS ***
+AlejandroDS7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7s 6d]
+*** PRE-FLOP *** 
+red-taz raises 280 to 300 and is all-in
+AlejandroDS7 folds
+_SKR folds
+red-taz collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: red-taz (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717933189845745665-2-1676240378 - Holdem no limit (10/20) - 2023/02/12 22:19:38 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AlejandroDS7 (290)
+Seat 2: _SKR (280)
+Seat 3: red-taz (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+red-taz posts big blind 20
+Dealt to _SKR [5h Qs]
+*** PRE-FLOP *** 
+AlejandroDS7 calls 20
+_SKR folds
+red-taz checks
+*** FLOP *** [4s Qc 5d]
+red-taz checks
+AlejandroDS7 checks
+*** TURN *** [4s Qc 5d][8c]
+red-taz checks
+AlejandroDS7 checks
+*** RIVER *** [4s Qc 5d 8c][3c]
+red-taz bets 50
+AlejandroDS7 folds
+red-taz collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4s Qc 5d 8c 3c]
+Seat 3: red-taz (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717933189845745665-3-1676240397 - Holdem no limit (10/20) - 2023/02/12 22:19:57 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AlejandroDS7 (270)
+Seat 2: _SKR (270)
+Seat 3: red-taz (360)
+*** ANTE/BLINDS ***
+red-taz posts small blind 10
+AlejandroDS7 posts big blind 20
+Dealt to _SKR [Qd 4h]
+*** PRE-FLOP *** 
+_SKR folds
+red-taz raises 20 to 40
+AlejandroDS7 calls 20
+*** FLOP *** [6c Jc 6d]
+red-taz bets 52
+AlejandroDS7 raises 178 to 230 and is all-in
+red-taz folds
+AlejandroDS7 collected 362 from pot
+*** SUMMARY ***
+Total pot 362 | No rake
+Board: [6c Jc 6d]
+Seat 1: AlejandroDS7 (big blind) won 362
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717933189845745665-4-1676240408 - Holdem no limit (10/20) - 2023/02/12 22:20:08 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AlejandroDS7 (362)
+Seat 2: _SKR (270)
+Seat 3: red-taz (268)
+*** ANTE/BLINDS ***
+AlejandroDS7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h Qh]
+*** PRE-FLOP *** 
+red-taz raises 30 to 50
+AlejandroDS7 calls 40
+_SKR folds
+*** FLOP *** [2s Th 4d]
+AlejandroDS7 checks
+red-taz checks
+*** TURN *** [2s Th 4d][Qs]
+AlejandroDS7 checks
+red-taz bets 78
+AlejandroDS7 calls 78
+*** RIVER *** [2s Th 4d Qs][4c]
+AlejandroDS7 bets 234 and is all-in
+red-taz folds
+AlejandroDS7 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [2s Th 4d Qs 4c]
+Seat 1: AlejandroDS7 (small blind) won 510
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717933189845745665-5-1676240439 - Holdem no limit (15/30) - 2023/02/12 22:20:39 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AlejandroDS7 (510)
+Seat 2: _SKR (250)
+Seat 3: red-taz (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+red-taz posts big blind 30
+Dealt to _SKR [3h 6d]
+*** PRE-FLOP *** 
+AlejandroDS7 calls 30
+_SKR folds
+red-taz checks
+*** FLOP *** [Ks 2s 9c]
+red-taz checks
+AlejandroDS7 checks
+*** TURN *** [Ks 2s 9c][6s]
+red-taz checks
+AlejandroDS7 checks
+*** RIVER *** [Ks 2s 9c 6s][Jc]
+red-taz bets 75
+AlejandroDS7 calls 75
+*** SHOW DOWN ***
+red-taz shows [6h Js] (Two pairs : Jacks and 6)
+AlejandroDS7 shows [8s As] (Flush Ace high)
+AlejandroDS7 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [Ks 2s 9c 6s Jc]
+Seat 1: AlejandroDS7 (button) showed [8s As] and won 225 with Flush Ace high
+Seat 3: red-taz (big blind) showed [6h Js] and lost with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717933189845745665-6-1676240469 - Holdem no limit (15/30) - 2023/02/12 22:21:09 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AlejandroDS7 (630)
+Seat 2: _SKR (235)
+Seat 3: red-taz (35)
+*** ANTE/BLINDS ***
+red-taz posts small blind 15
+AlejandroDS7 posts big blind 30
+Dealt to _SKR [Ac 2c]
+*** PRE-FLOP *** 
+_SKR raises 205 to 235 and is all-in
+red-taz calls 20 and is all-in
+AlejandroDS7 folds
+*** FLOP *** [Tc 2s 8c]
+*** TURN *** [Tc 2s 8c][Ah]
+*** RIVER *** [Tc 2s 8c Ah][5h]
+*** SHOW DOWN ***
+red-taz shows [Qc Kd] (High card : Ace)
+_SKR shows [Ac 2c] (Two pairs : Aces and 2)
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Tc 2s 8c Ah 5h]
+Seat 2: _SKR (button) showed [Ac 2c] and won 300 with Two pairs : Aces and 2
+Seat 3: red-taz (small blind) showed [Qc Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717933189845745665-7-1676240485 - Holdem no limit (20/40) - 2023/02/12 22:21:25 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AlejandroDS7 (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+AlejandroDS7 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [As Ts]
+*** PRE-FLOP *** 
+AlejandroDS7 calls 20
+_SKR raises 260 to 300 and is all-in
+AlejandroDS7 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717933189845745665-8-1676240504 - Holdem no limit (20/40) - 2023/02/12 22:21:44 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AlejandroDS7 (560)
+Seat 2: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+AlejandroDS7 posts big blind 40
+Dealt to _SKR [Td Ts]
+*** PRE-FLOP *** 
+_SKR raises 300 to 340 and is all-in
+AlejandroDS7 calls 300
+*** FLOP *** [6d 8c As]
+*** TURN *** [6d 8c As][9d]
+*** RIVER *** [6d 8c As 9d][2h]
+*** SHOW DOWN ***
+AlejandroDS7 shows [8h Qh] (One pair : 8)
+_SKR shows [Td Ts] (One pair : Tens)
+_SKR collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [6d 8c As 9d 2h]
+Seat 1: AlejandroDS7 (big blind) showed [8h Qh] and lost with One pair : 8
+Seat 2: _SKR (small blind) (button) showed [Td Ts] and won 680 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717933189845745665-9-1676240519 - Holdem no limit (20/40) - 2023/02/12 22:21:59 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AlejandroDS7 (220)
+Seat 2: _SKR (680)
+*** ANTE/BLINDS ***
+AlejandroDS7 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s 2c]
+*** PRE-FLOP *** 
+AlejandroDS7 raises 180 to 220 and is all-in
+_SKR folds
+AlejandroDS7 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 1: AlejandroDS7 (small blind) (button) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717933189845745665-10-1676240532 - Holdem no limit (20/40) - 2023/02/12 22:22:12 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AlejandroDS7 (260)
+Seat 2: _SKR (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+AlejandroDS7 posts big blind 40
+Dealt to _SKR [7s 9d]
+*** PRE-FLOP *** 
+_SKR folds
+AlejandroDS7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: AlejandroDS7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717933189845745665-11-1676240535 - Holdem no limit (20/40) - 2023/02/12 22:22:15 UTC
+Table: 'Expresso Nitro(632818134)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AlejandroDS7 (280)
+Seat 2: _SKR (620)
+*** ANTE/BLINDS ***
+AlejandroDS7 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ad Kh]
+*** PRE-FLOP *** 
+AlejandroDS7 calls 20
+_SKR raises 580 to 620 and is all-in
+AlejandroDS7 calls 240 and is all-in
+*** FLOP *** [3d 5d 3s]
+*** TURN *** [3d 5d 3s][4d]
+*** RIVER *** [3d 5d 3s 4d][Kd]
+*** SHOW DOWN ***
+AlejandroDS7 shows [Ah Qs] (One pair : 3)
+_SKR shows [Ad Kh] (Flush Ace high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 5d 3s 4d Kd]
+Seat 1: AlejandroDS7 (small blind) (button) showed [Ah Qs] and lost with One pair : 3
+Seat 2: _SKR (big blind) showed [Ad Kh] and won 900 with Flush Ace high
+
+

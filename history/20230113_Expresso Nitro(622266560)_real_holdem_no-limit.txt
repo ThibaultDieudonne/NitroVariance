@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672614524594421761-1-1673616715 - Holdem no limit (10/20) - 2023/01/13 13:31:55 UTC
+Table: 'Expresso Nitro(622266560)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ColibriTigre (300)
+Seat 2: Donk.Tilt (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ColibriTigre posts big blind 20
+Dealt to _SKR [3d 4h]
+*** PRE-FLOP *** 
+Donk.Tilt raises 25 to 45
+_SKR folds
+ColibriTigre folds
+Donk.Tilt collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 2: Donk.Tilt (button) won 75
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672614524594421761-2-1673616726 - Holdem no limit (10/20) - 2023/01/13 13:32:06 UTC
+Table: 'Expresso Nitro(622266560)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ColibriTigre (280)
+Seat 2: Donk.Tilt (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+ColibriTigre posts small blind 10
+Donk.Tilt posts big blind 20
+Dealt to _SKR [3s Th]
+*** PRE-FLOP *** 
+_SKR folds
+ColibriTigre calls 10
+Donk.Tilt raises 310 to 330 and is all-in
+ColibriTigre folds
+Donk.Tilt collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: Donk.Tilt (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672614524594421761-3-1673616747 - Holdem no limit (10/20) - 2023/01/13 13:32:27 UTC
+Table: 'Expresso Nitro(622266560)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ColibriTigre (260)
+Seat 2: Donk.Tilt (350)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Donk.Tilt posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 8s]
+*** PRE-FLOP *** 
+ColibriTigre calls 20
+Donk.Tilt folds
+_SKR checks
+*** FLOP *** [Ac Kd Th]
+_SKR checks
+ColibriTigre checks
+*** TURN *** [Ac Kd Th][5c]
+_SKR checks
+ColibriTigre bets 78
+_SKR folds
+ColibriTigre collected 128 from pot
+*** SUMMARY ***
+Total pot 128 | No rake
+Board: [Ac Kd Th 5c]
+Seat 1: ColibriTigre (button) won 128
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2672614524594421761-4-1673616774 - Holdem no limit (15/30) - 2023/01/13 13:32:54 UTC
+Table: 'Expresso Nitro(622266560)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ColibriTigre (290)
+Seat 2: Donk.Tilt (340)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ColibriTigre posts big blind 30
+Dealt to _SKR [Qs As]
+*** PRE-FLOP *** 
+Donk.Tilt raises 310 to 340 and is all-in
+_SKR calls 255 and is all-in
+ColibriTigre calls 260 and is all-in
+*** FLOP *** [8h Tc Kh]
+*** TURN *** [8h Tc Kh][9d]
+*** RIVER *** [8h Tc Kh 9d][7h]
+*** SHOW DOWN ***
+_SKR shows [Qs As] (High card : Ace)
+ColibriTigre shows [Qd Qh] (One pair : Queens)
+Donk.Tilt shows [Ah 7s] (One pair : 7)
+Donk.Tilt collected 50 from side pot 1
+ColibriTigre collected 850 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h Tc Kh 9d 7h]
+Seat 1: ColibriTigre (big blind) showed [Qd Qh] and won 850 with One pair : Queens
+Seat 2: Donk.Tilt (button) showed [Ah 7s] and won 50 with One pair : 7
+Seat 3: _SKR (small blind) showed [Qs As] and lost with High card : Ace
+
+

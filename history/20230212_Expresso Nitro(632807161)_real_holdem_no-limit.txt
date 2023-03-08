@@ -1,0 +1,461 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717886061169606657-1-1676238856 - Holdem no limit (10/20) - 2023/02/12 21:54:16 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Wainy (300)
+Seat 2: Bazzette 50 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Bazzette 50 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9c Qh]
+*** PRE-FLOP *** 
+Wainy folds
+Bazzette 50 calls 10
+_SKR checks
+*** FLOP *** [Ah Ad 4d]
+Bazzette 50 checks
+_SKR checks
+*** TURN *** [Ah Ad 4d][7s]
+Bazzette 50 checks
+_SKR checks
+*** RIVER *** [Ah Ad 4d 7s][6s]
+Bazzette 50 checks
+_SKR checks
+*** SHOW DOWN ***
+Bazzette 50 shows [3s 9h] (One pair : Aces)
+_SKR shows [9c Qh] (One pair : Aces)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ah Ad 4d 7s 6s]
+Seat 2: Bazzette 50 (small blind) showed [3s 9h] and lost with One pair : Aces
+Seat 3: _SKR (big blind) showed [9c Qh] and won 40 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717886061169606657-2-1676238899 - Holdem no limit (10/20) - 2023/02/12 21:54:59 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Wainy (300)
+Seat 2: Bazzette 50 (280)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Wainy posts big blind 20
+Dealt to _SKR [Kc Ks]
+*** PRE-FLOP *** 
+Bazzette 50 calls 20
+_SKR raises 50 to 70
+Wainy calls 50
+Bazzette 50 calls 50
+*** FLOP *** [Jc 3h As]
+_SKR bets 250 and is all-in
+Wainy folds
+Bazzette 50 folds
+_SKR collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [Jc 3h As]
+Seat 3: _SKR (small blind) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717886061169606657-3-1676238930 - Holdem no limit (15/30) - 2023/02/12 21:55:30 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wainy (230)
+Seat 2: Bazzette 50 (210)
+Seat 3: _SKR (460)
+*** ANTE/BLINDS ***
+Wainy posts small blind 15
+Bazzette 50 posts big blind 30
+Dealt to _SKR [2h 7d]
+*** PRE-FLOP *** 
+_SKR folds
+Wainy raises 30 to 60
+Bazzette 50 folds
+Wainy collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Wainy (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717886061169606657-4-1676238943 - Holdem no limit (15/30) - 2023/02/12 21:55:43 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Wainy (260)
+Seat 2: Bazzette 50 (180)
+Seat 3: _SKR (460)
+*** ANTE/BLINDS ***
+Bazzette 50 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9c 6s]
+*** PRE-FLOP *** 
+Wainy calls 30
+Bazzette 50 raises 150 to 180 and is all-in
+_SKR folds
+Wainy calls 150
+*** FLOP *** [Qs 4d Kh]
+*** TURN *** [Qs 4d Kh][2h]
+*** RIVER *** [Qs 4d Kh 2h][8h]
+*** SHOW DOWN ***
+Wainy shows [Tc Js] (High card : King)
+Bazzette 50 shows [Qd 8s] (Two pairs : Queens and 8)
+Bazzette 50 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [Qs 4d Kh 2h 8h]
+Seat 1: Wainy (button) showed [Tc Js] and lost with High card : King
+Seat 2: Bazzette 50 (small blind) showed [Qd 8s] and won 390 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717886061169606657-5-1676238964 - Holdem no limit (15/30) - 2023/02/12 21:56:04 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Wainy (80)
+Seat 2: Bazzette 50 (390)
+Seat 3: _SKR (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Wainy posts big blind 30
+Dealt to _SKR [4c 2s]
+*** PRE-FLOP *** 
+Bazzette 50 raises 360 to 390 and is all-in
+_SKR folds
+Wainy folds
+Bazzette 50 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 2: Bazzette 50 (button) won 435
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717886061169606657-6-1676238975 - Holdem no limit (20/40) - 2023/02/12 21:56:15 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wainy (50)
+Seat 2: Bazzette 50 (435)
+Seat 3: _SKR (415)
+*** ANTE/BLINDS ***
+Wainy posts small blind 20
+Bazzette 50 posts big blind 40
+Dealt to _SKR [Ks 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Wainy raises 10 to 50 and is all-in
+Bazzette 50 folds
+Wainy collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Wainy (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717886061169606657-7-1676238991 - Holdem no limit (20/40) - 2023/02/12 21:56:31 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Wainy (90)
+Seat 2: Bazzette 50 (395)
+Seat 3: _SKR (415)
+*** ANTE/BLINDS ***
+Bazzette 50 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 7d]
+*** PRE-FLOP *** 
+Wainy raises 50 to 90 and is all-in
+Bazzette 50 folds
+_SKR folds
+Wainy collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Wainy (button) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717886061169606657-8-1676239004 - Holdem no limit (20/40) - 2023/02/12 21:56:44 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Wainy (150)
+Seat 2: Bazzette 50 (375)
+Seat 3: _SKR (375)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Wainy posts big blind 40
+Dealt to _SKR [3h 7h]
+*** PRE-FLOP *** 
+Bazzette 50 folds
+_SKR raises 335 to 375 and is all-in
+Wainy calls 110 and is all-in
+*** FLOP *** [5d 4d 2h]
+*** TURN *** [5d 4d 2h][5s]
+*** RIVER *** [5d 4d 2h 5s][4h]
+*** SHOW DOWN ***
+Wainy shows [Ac Ks] (Two pairs : 5 and 4)
+_SKR shows [3h 7h] (Two pairs : 5 and 4)
+_SKR collected 225 from side pot 1
+Wainy collected 300 from main pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Board: [5d 4d 2h 5s 4h]
+Seat 1: Wainy (big blind) showed [Ac Ks] and won 300 with Two pairs : 5 and 4
+Seat 3: _SKR (small blind) showed [3h 7h] and won 225 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717886061169606657-9-1676239018 - Holdem no limit (20/40) - 2023/02/12 21:56:58 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wainy (300)
+Seat 2: Bazzette 50 (375)
+Seat 3: _SKR (225)
+*** ANTE/BLINDS ***
+Wainy posts small blind 20
+Bazzette 50 posts big blind 40
+Dealt to _SKR [4d 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Wainy calls 20
+Bazzette 50 checks
+*** FLOP *** [8c Ks 4s]
+Wainy bets 52
+Bazzette 50 folds
+Wainy collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [8c Ks 4s]
+Seat 1: Wainy (small blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717886061169606657-10-1676239045 - Holdem no limit (30/60) - 2023/02/12 21:57:25 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Wainy (340)
+Seat 2: Bazzette 50 (335)
+Seat 3: _SKR (225)
+*** ANTE/BLINDS ***
+Bazzette 50 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5c 3d]
+*** PRE-FLOP *** 
+Wainy folds
+Bazzette 50 calls 30
+_SKR checks
+*** FLOP *** [8d 9c 7d]
+Bazzette 50 checks
+_SKR checks
+*** TURN *** [8d 9c 7d][Qd]
+Bazzette 50 checks
+_SKR checks
+*** RIVER *** [8d 9c 7d Qd][Ac]
+Bazzette 50 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [5c 3d] (High card : Ace)
+Bazzette 50 shows [Kd 3c] (High card : Ace)
+Bazzette 50 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8d 9c 7d Qd Ac]
+Seat 2: Bazzette 50 (small blind) showed [Kd 3c] and won 120 with High card : Ace
+Seat 3: _SKR (big blind) showed [5c 3d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717886061169606657-11-1676239085 - Holdem no limit (30/60) - 2023/02/12 21:58:05 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Wainy (340)
+Seat 2: Bazzette 50 (395)
+Seat 3: _SKR (165)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Wainy posts big blind 60
+Dealt to _SKR [2h 4c]
+*** PRE-FLOP *** 
+Bazzette 50 folds
+_SKR folds
+Wainy collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Wainy (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717886061169606657-12-1676239093 - Holdem no limit (40/80) - 2023/02/12 21:58:13 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wainy (370)
+Seat 2: Bazzette 50 (395)
+Seat 3: _SKR (135)
+*** ANTE/BLINDS ***
+Wainy posts small blind 40
+Bazzette 50 posts big blind 80
+Dealt to _SKR [9h Ad]
+*** PRE-FLOP *** 
+_SKR raises 55 to 135 and is all-in
+Wainy folds
+Bazzette 50 folds
+_SKR collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 3: _SKR (button) won 255
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717886061169606657-13-1676239102 - Holdem no limit (40/80) - 2023/02/12 21:58:22 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Wainy (330)
+Seat 2: Bazzette 50 (315)
+Seat 3: _SKR (255)
+*** ANTE/BLINDS ***
+Bazzette 50 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [6s Th]
+*** PRE-FLOP *** 
+Wainy calls 80
+Bazzette 50 folds
+_SKR checks
+*** FLOP *** [9c 4s 5d]
+_SKR checks
+Wainy bets 80
+_SKR folds
+Wainy collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [9c 4s 5d]
+Seat 1: Wainy (button) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717886061169606657-14-1676239132 - Holdem no limit (40/80) - 2023/02/12 21:58:52 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Wainy (450)
+Seat 2: Bazzette 50 (275)
+Seat 3: _SKR (175)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Wainy posts big blind 80
+Dealt to _SKR [4h Kh]
+*** PRE-FLOP *** 
+Bazzette 50 folds
+_SKR raises 95 to 175 and is all-in
+Wainy calls 95
+*** FLOP *** [3c 7h 2h]
+*** TURN *** [3c 7h 2h][Jd]
+*** RIVER *** [3c 7h 2h Jd][Jh]
+*** SHOW DOWN ***
+Wainy shows [2d Ah] (Two pairs : Jacks and 2)
+_SKR shows [4h Kh] (Flush King high)
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [3c 7h 2h Jd Jh]
+Seat 1: Wainy (big blind) showed [2d Ah] and lost with Two pairs : Jacks and 2
+Seat 3: _SKR (small blind) showed [4h Kh] and won 350 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717886061169606657-15-1676239150 - Holdem no limit (40/80) - 2023/02/12 21:59:10 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wainy (275)
+Seat 2: Bazzette 50 (275)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+Wainy posts small blind 40
+Bazzette 50 posts big blind 80
+Dealt to _SKR [3d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Wainy raises 80 to 160
+Bazzette 50 calls 80
+*** FLOP *** [7s Qs 2h]
+Wainy bets 115 and is all-in
+Bazzette 50 calls 115 and is all-in
+*** TURN *** [7s Qs 2h][5d]
+*** RIVER *** [7s Qs 2h 5d][Tc]
+*** SHOW DOWN ***
+Bazzette 50 shows [8h 4h] (High card : Queen)
+Wainy shows [Qc Jc] (One pair : Queens)
+Wainy collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [7s Qs 2h 5d Tc]
+Seat 1: Wainy (small blind) showed [Qc Jc] and won 550 with One pair : Queens
+Seat 2: Bazzette 50 (big blind) showed [8h 4h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717886061169606657-16-1676239188 - Holdem no limit (50/100) - 2023/02/12 21:59:48 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wainy (550)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Wainy posts big blind 100
+Dealt to _SKR [2s 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Wainy collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Wainy (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717886061169606657-17-1676239192 - Holdem no limit (50/100) - 2023/02/12 21:59:52 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Wainy (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Wainy posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [Ah Jc]
+*** PRE-FLOP *** 
+Wainy folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717886061169606657-18-1676239198 - Holdem no limit (50/100) - 2023/02/12 21:59:58 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wainy (550)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Wainy posts big blind 100
+Dealt to _SKR [Ks Kh]
+*** PRE-FLOP *** 
+_SKR raises 250 to 350 and is all-in
+Wainy calls 250
+*** FLOP *** [2d 7s 3h]
+*** TURN *** [2d 7s 3h][3c]
+*** RIVER *** [2d 7s 3h 3c][5d]
+*** SHOW DOWN ***
+Wainy shows [Ah 6h] (One pair : 3)
+_SKR shows [Ks Kh] (Two pairs : Kings and 3)
+_SKR collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [2d 7s 3h 3c 5d]
+Seat 1: Wainy (big blind) showed [Ah 6h] and lost with One pair : 3
+Seat 3: _SKR (small blind) (button) showed [Ks Kh] and won 700 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2717886061169606657-19-1676239212 - Holdem no limit (60/120) - 2023/02/12 22:00:12 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Wainy (200)
+Seat 3: _SKR (700)
+*** ANTE/BLINDS ***
+Wainy posts small blind 60
+_SKR posts big blind 120
+Dealt to _SKR [Jc 2h]
+*** PRE-FLOP *** 
+Wainy folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: _SKR (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2717886061169606657-20-1676239217 - Holdem no limit (60/120) - 2023/02/12 22:00:17 UTC
+Table: 'Expresso Nitro(632807161)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wainy (140)
+Seat 3: _SKR (760)
+*** ANTE/BLINDS ***
+_SKR posts small blind 60
+Wainy posts big blind 120
+Dealt to _SKR [Ad 5c]
+*** PRE-FLOP *** 
+_SKR raises 640 to 760 and is all-in
+Wainy calls 20 and is all-in
+*** FLOP *** [9s 5s Kc]
+*** TURN *** [9s 5s Kc][2c]
+*** RIVER *** [9s 5s Kc 2c][7d]
+*** SHOW DOWN ***
+Wainy shows [Qs 6s] (High card : King)
+_SKR shows [Ad 5c] (One pair : 5)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 5s Kc 2c 7d]
+Seat 1: Wainy (big blind) showed [Qs 6s] and lost with High card : King
+Seat 3: _SKR (small blind) (button) showed [Ad 5c] and won 900 with One pair : 5
+
+

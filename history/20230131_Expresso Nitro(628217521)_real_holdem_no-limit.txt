@@ -1,0 +1,39 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698173707469193217-1-1675184107 - Holdem no limit (10/20) - 2023/01/31 16:55:07 UTC
+Table: 'Expresso Nitro(628217521)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: InProjectMod (300)
+Seat 3: le jakouille (300)
+*** ANTE/BLINDS ***
+le jakouille posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc 9h]
+*** PRE-FLOP *** 
+InProjectMod raises 20 to 40
+le jakouille calls 30
+_SKR calls 20
+*** FLOP *** [6s 8s 9s]
+le jakouille checks
+_SKR checks
+InProjectMod bets 42
+le jakouille calls 42
+_SKR calls 42
+*** TURN *** [6s 8s 9s][3c]
+le jakouille checks
+_SKR checks
+InProjectMod bets 218 and is all-in
+le jakouille calls 218 and is all-in
+_SKR calls 218 and is all-in
+*** RIVER *** [6s 8s 9s 3c][5s]
+*** SHOW DOWN ***
+_SKR shows [Jc 9h] (One pair : 9)
+InProjectMod shows [Qs Td] (Flush Queen high)
+le jakouille shows [Ks 4d] (Flush King high)
+le jakouille collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s 8s 9s 3c 5s]
+Seat 1: _SKR (big blind) showed [Jc 9h] and lost with One pair : 9
+Seat 2: InProjectMod (button) showed [Qs Td] and lost with Flush Queen high
+Seat 3: le jakouille (small blind) showed [Ks 4d] and won 900 with Flush King high
+
+

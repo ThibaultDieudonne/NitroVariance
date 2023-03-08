@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698160126782603265-1-1675183473 - Holdem no limit (10/20) - 2023/01/31 16:44:33 UTC
+Table: 'Expresso Nitro(628214359)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Mikijl77 (300)
+Seat 3: wptpoker (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mikijl77 posts big blind 20
+Dealt to _SKR [6h Jc]
+*** PRE-FLOP *** 
+wptpoker raises 280 to 300 and is all-in
+_SKR folds
+Mikijl77 calls 280 and is all-in
+*** FLOP *** [Kh 3h Ks]
+*** TURN *** [Kh 3h Ks][Td]
+*** RIVER *** [Kh 3h Ks Td][3d]
+*** SHOW DOWN ***
+wptpoker shows [Ah Tc] (Two pairs : Kings and Tens)
+Mikijl77 shows [8c 3c] (Full of 3 and Kings)
+Mikijl77 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Kh 3h Ks Td 3d]
+Seat 2: Mikijl77 (big blind) showed [8c 3c] and won 610 with Full of 3 and Kings
+Seat 3: wptpoker (button) showed [Ah Tc] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698160126782603265-2-1675183491 - Holdem no limit (10/20) - 2023/01/31 16:44:51 UTC
+Table: 'Expresso Nitro(628214359)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Mikijl77 (610)
+*** ANTE/BLINDS ***
+Mikijl77 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 7d]
+*** PRE-FLOP *** 
+Mikijl77 calls 10
+_SKR raises 270 to 290 and is all-in
+Mikijl77 calls 270
+*** FLOP *** [Kc 3s 8d]
+*** TURN *** [Kc 3s 8d][9h]
+*** RIVER *** [Kc 3s 8d 9h][9d]
+*** SHOW DOWN ***
+_SKR shows [Ks 7d] (Two pairs : Kings and 9)
+Mikijl77 shows [Kd Td] (Two pairs : Kings and 9)
+Mikijl77 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Kc 3s 8d 9h 9d]
+Seat 1: _SKR (big blind) showed [Ks 7d] and lost with Two pairs : Kings and 9
+Seat 2: Mikijl77 (small blind) (button) showed [Kd Td] and won 580 with Two pairs : Kings and 9
+
+

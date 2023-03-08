@@ -1,0 +1,169 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717595167329615873-1-1676228223 - Holdem no limit (10/20) - 2023/02/12 18:57:03 UTC
+Table: 'Expresso Nitro(632739432)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: SparseMan (300)
+Seat 3: Lamul60 (300)
+*** ANTE/BLINDS ***
+SparseMan posts small blind 10
+Lamul60 posts big blind 20
+Dealt to _SKR [5h 2c]
+*** PRE-FLOP *** 
+_SKR folds
+SparseMan raises 280 to 300 and is all-in
+Lamul60 folds
+SparseMan collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: SparseMan (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717595167329615873-2-1676228235 - Holdem no limit (10/20) - 2023/02/12 18:57:15 UTC
+Table: 'Expresso Nitro(632739432)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: SparseMan (320)
+Seat 3: Lamul60 (280)
+*** ANTE/BLINDS ***
+Lamul60 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 5h]
+*** PRE-FLOP *** 
+SparseMan raises 300 to 320 and is all-in
+Lamul60 folds
+_SKR folds
+SparseMan collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: SparseMan (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717595167329615873-3-1676228245 - Holdem no limit (10/20) - 2023/02/12 18:57:25 UTC
+Table: 'Expresso Nitro(632739432)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: SparseMan (350)
+Seat 3: Lamul60 (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+SparseMan posts big blind 20
+Dealt to _SKR [Kd 9c]
+*** PRE-FLOP *** 
+Lamul60 raises 250 to 270 and is all-in
+_SKR folds
+SparseMan raises 80 to 350 and is all-in
+*** FLOP *** [Td 9h 4s]
+*** TURN *** [Td 9h 4s][Th]
+*** RIVER *** [Td 9h 4s Th][Qc]
+*** SHOW DOWN ***
+SparseMan shows [8s 8c] (Two pairs : Tens and 8)
+Lamul60 shows [8d Qd] (Two pairs : Queens and Tens)
+Lamul60 collected 550 from main pot
+SparseMan collected 80 from side pot 1
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Td 9h 4s Th Qc]
+Seat 2: SparseMan (big blind) showed [8s 8c] and won 80 with Two pairs : Tens and 8
+Seat 3: Lamul60 (button) showed [8d Qd] and won 550 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717595167329615873-4-1676228262 - Holdem no limit (10/20) - 2023/02/12 18:57:42 UTC
+Table: 'Expresso Nitro(632739432)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: SparseMan (80)
+Seat 3: Lamul60 (550)
+*** ANTE/BLINDS ***
+SparseMan posts small blind 10
+Lamul60 posts big blind 20
+Dealt to _SKR [5s 3c]
+*** PRE-FLOP *** 
+_SKR folds
+SparseMan raises 60 to 80 and is all-in
+Lamul60 calls 60
+*** FLOP *** [Td 7d Kh]
+*** TURN *** [Td 7d Kh][7h]
+*** RIVER *** [Td 7d Kh 7h][Th]
+*** SHOW DOWN ***
+Lamul60 shows [8c 2h] (Two pairs : Tens and 7)
+SparseMan shows [6c As] (Two pairs : Tens and 7)
+SparseMan collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Td 7d Kh 7h Th]
+Seat 2: SparseMan (small blind) showed [6c As] and won 160 with Two pairs : Tens and 7
+Seat 3: Lamul60 (big blind) showed [8c 2h] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717595167329615873-5-1676228278 - Holdem no limit (10/20) - 2023/02/12 18:57:58 UTC
+Table: 'Expresso Nitro(632739432)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: SparseMan (160)
+Seat 3: Lamul60 (470)
+*** ANTE/BLINDS ***
+Lamul60 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd 9d]
+*** PRE-FLOP *** 
+SparseMan raises 140 to 160 and is all-in
+Lamul60 calls 150
+_SKR folds
+*** FLOP *** [6d 3d 2s]
+*** TURN *** [6d 3d 2s][3c]
+*** RIVER *** [6d 3d 2s 3c][4h]
+*** SHOW DOWN ***
+Lamul60 shows [9s 7h] (One pair : 3)
+SparseMan shows [4d Kc] (Two pairs : 4 and 3)
+SparseMan collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [6d 3d 2s 3c 4h]
+Seat 2: SparseMan (button) showed [4d Kc] and won 340 with Two pairs : 4 and 3
+Seat 3: Lamul60 (small blind) showed [9s 7h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717595167329615873-6-1676228295 - Holdem no limit (15/30) - 2023/02/12 18:58:15 UTC
+Table: 'Expresso Nitro(632739432)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (250)
+Seat 2: SparseMan (340)
+Seat 3: Lamul60 (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+SparseMan posts big blind 30
+Dealt to _SKR [4s 2d]
+*** PRE-FLOP *** 
+Lamul60 raises 280 to 310 and is all-in
+_SKR folds
+SparseMan folds
+Lamul60 collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 3: Lamul60 (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717595167329615873-7-1676228308 - Holdem no limit (15/30) - 2023/02/12 18:58:28 UTC
+Table: 'Expresso Nitro(632739432)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (235)
+Seat 2: SparseMan (310)
+Seat 3: Lamul60 (355)
+*** ANTE/BLINDS ***
+SparseMan posts small blind 15
+Lamul60 posts big blind 30
+Dealt to _SKR [3c Ah]
+*** PRE-FLOP *** 
+_SKR raises 205 to 235 and is all-in
+SparseMan raises 75 to 310 and is all-in
+Lamul60 raises 45 to 355 and is all-in
+*** FLOP *** [9s 8s Js]
+*** TURN *** [9s 8s Js][8c]
+*** RIVER *** [9s 8s Js 8c][6d]
+*** SHOW DOWN ***
+_SKR shows [3c Ah] (One pair : 8)
+SparseMan shows [Kc As] (One pair : 8)
+Lamul60 shows [3h Qh] (One pair : 8)
+Lamul60 collected 45 from side pot 1
+SparseMan collected 855 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 8s Js 8c 6d]
+Seat 1: _SKR (button) showed [3c Ah] and lost with One pair : 8
+Seat 2: SparseMan (small blind) showed [Kc As] and won 855 with One pair : 8
+Seat 3: Lamul60 (big blind) showed [3h Qh] and won 45 with One pair : 8
+
+

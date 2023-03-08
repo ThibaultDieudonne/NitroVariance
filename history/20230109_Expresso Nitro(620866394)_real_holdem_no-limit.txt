@@ -1,0 +1,126 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666600857415450625-1-1673284515 - Holdem no limit (10/20) - 2023/01/09 17:15:15 UTC
+Table: 'Expresso Nitro(620866394)#0' 3-max (real money) Seat #3 is the button
+Seat 1: wojtek62750 (300)
+Seat 2: _SKR (300)
+Seat 3: FloAmyFeu (300)
+*** ANTE/BLINDS ***
+wojtek62750 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c 8h]
+*** PRE-FLOP *** 
+FloAmyFeu folds
+wojtek62750 raises 20 to 40
+_SKR folds
+wojtek62750 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: wojtek62750 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666600857415450625-2-1673284537 - Holdem no limit (10/20) - 2023/01/09 17:15:37 UTC
+Table: 'Expresso Nitro(620866394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: wojtek62750 (320)
+Seat 2: _SKR (280)
+Seat 3: FloAmyFeu (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+FloAmyFeu posts big blind 20
+Dealt to _SKR [7s Jd]
+*** PRE-FLOP *** 
+wojtek62750 raises 20 to 40
+_SKR folds
+FloAmyFeu calls 20
+*** FLOP *** [5s Kh 2d]
+FloAmyFeu checks
+wojtek62750 bets 20
+FloAmyFeu folds
+wojtek62750 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [5s Kh 2d]
+Seat 1: wojtek62750 (button) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666600857415450625-3-1673284549 - Holdem no limit (10/20) - 2023/01/09 17:15:49 UTC
+Table: 'Expresso Nitro(620866394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: wojtek62750 (370)
+Seat 2: _SKR (270)
+Seat 3: FloAmyFeu (260)
+*** ANTE/BLINDS ***
+FloAmyFeu posts small blind 10
+wojtek62750 posts big blind 20
+Dealt to _SKR [3s 5h]
+*** PRE-FLOP *** 
+_SKR folds
+FloAmyFeu calls 10
+wojtek62750 raises 20 to 40
+FloAmyFeu calls 20
+*** FLOP *** [As 2s 3d]
+FloAmyFeu checks
+wojtek62750 bets 20
+FloAmyFeu calls 20
+*** TURN *** [As 2s 3d][4d]
+FloAmyFeu checks
+wojtek62750 checks
+*** RIVER *** [As 2s 3d 4d][Qh]
+FloAmyFeu bets 120
+wojtek62750 folds
+FloAmyFeu collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [As 2s 3d 4d Qh]
+Seat 3: FloAmyFeu (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666600857415450625-4-1673284572 - Holdem no limit (15/30) - 2023/01/09 17:16:12 UTC
+Table: 'Expresso Nitro(620866394)#0' 3-max (real money) Seat #3 is the button
+Seat 1: wojtek62750 (310)
+Seat 2: _SKR (270)
+Seat 3: FloAmyFeu (320)
+*** ANTE/BLINDS ***
+wojtek62750 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4d 5c]
+*** PRE-FLOP *** 
+FloAmyFeu calls 30
+wojtek62750 folds
+_SKR checks
+*** FLOP *** [Qs Tc Ks]
+_SKR checks
+FloAmyFeu bets 49
+_SKR folds
+FloAmyFeu collected 124 from pot
+*** SUMMARY ***
+Total pot 124 | No rake
+Board: [Qs Tc Ks]
+Seat 3: FloAmyFeu (button) won 124
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666600857415450625-5-1673284590 - Holdem no limit (15/30) - 2023/01/09 17:16:30 UTC
+Table: 'Expresso Nitro(620866394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: wojtek62750 (295)
+Seat 2: _SKR (240)
+Seat 3: FloAmyFeu (365)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+FloAmyFeu posts big blind 30
+Dealt to _SKR [As 5c]
+*** PRE-FLOP *** 
+wojtek62750 calls 30
+_SKR raises 210 to 240 and is all-in
+FloAmyFeu folds
+wojtek62750 calls 210
+*** FLOP *** [Td 9h Th]
+*** TURN *** [Td 9h Th][4s]
+*** RIVER *** [Td 9h Th 4s][7s]
+*** SHOW DOWN ***
+_SKR shows [As 5c] (One pair : Tens)
+wojtek62750 shows [7d 8s] (Two pairs : Tens and 7)
+wojtek62750 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [Td 9h Th 4s 7s]
+Seat 1: wojtek62750 (button) showed [7d 8s] and won 510 with Two pairs : Tens and 7
+Seat 2: _SKR (small blind) showed [As 5c] and lost with One pair : Tens
+
+

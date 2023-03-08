@@ -1,0 +1,81 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729161630221860865-1-1676903729 - Holdem no limit (10/20) - 2023/02/20 14:35:29 UTC
+Table: 'Expresso Nitro(635432459)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Mathisdu138 (300)
+Seat 3: tinsouille77 (300)
+*** ANTE/BLINDS ***
+tinsouille77 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td 7d]
+*** PRE-FLOP *** 
+Mathisdu138 calls 20
+tinsouille77 calls 10
+_SKR checks
+*** FLOP *** [3h 2d 9h]
+tinsouille77 checks
+_SKR checks
+Mathisdu138 bets 21
+tinsouille77 folds
+_SKR folds
+Mathisdu138 collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [3h 2d 9h]
+Seat 2: Mathisdu138 (button) won 81
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729161630221860865-2-1676903749 - Holdem no limit (10/20) - 2023/02/20 14:35:49 UTC
+Table: 'Expresso Nitro(635432459)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Mathisdu138 (340)
+Seat 3: tinsouille77 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mathisdu138 posts big blind 20
+Dealt to _SKR [Jc Js]
+*** PRE-FLOP *** 
+tinsouille77 calls 20
+_SKR raises 260 to 280 and is all-in
+Mathisdu138 calls 260
+tinsouille77 calls 260 and is all-in
+*** FLOP *** [4d Ts 6s]
+*** TURN *** [4d Ts 6s][9h]
+*** RIVER *** [4d Ts 6s 9h][Kc]
+*** SHOW DOWN ***
+Mathisdu138 shows [8s 8h] (One pair : 8)
+tinsouille77 shows [2s 2d] (One pair : 2)
+_SKR shows [Jc Js] (One pair : Jacks)
+_SKR collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [4d Ts 6s 9h Kc]
+Seat 1: _SKR (small blind) showed [Jc Js] and won 840 with One pair : Jacks
+Seat 2: Mathisdu138 (big blind) showed [8s 8h] and lost with One pair : 8
+Seat 3: tinsouille77 (button) showed [2s 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729161630221860865-3-1676903772 - Holdem no limit (10/20) - 2023/02/20 14:36:12 UTC
+Table: 'Expresso Nitro(635432459)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (840)
+Seat 2: Mathisdu138 (60)
+*** ANTE/BLINDS ***
+Mathisdu138 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7s 6h]
+*** PRE-FLOP *** 
+Mathisdu138 raises 40 to 60 and is all-in
+_SKR calls 40
+*** FLOP *** [Qd 5d 4s]
+*** TURN *** [Qd 5d 4s][7c]
+*** RIVER *** [Qd 5d 4s 7c][5h]
+*** SHOW DOWN ***
+Mathisdu138 shows [9h Jh] (One pair : 5)
+_SKR shows [7s 6h] (Two pairs : 7 and 5)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qd 5d 4s 7c 5h]
+Seat 1: _SKR (big blind) showed [7s 6h] and won 120 with Two pairs : 7 and 5
+Seat 2: Mathisdu138 (small blind) (button) showed [9h Jh] and lost with One pair : 5
+
+

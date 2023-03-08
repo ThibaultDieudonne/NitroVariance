@@ -1,0 +1,93 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698274626315747329-1-1675188505 - Holdem no limit (10/20) - 2023/01/31 18:08:25 UTC
+Table: 'Expresso Nitro(628241018)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Gm0507 (300)
+Seat 3: EnzoTeddy (300)
+*** ANTE/BLINDS ***
+EnzoTeddy posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3c 6d]
+*** PRE-FLOP *** 
+Gm0507 raises 20 to 40
+EnzoTeddy calls 30
+_SKR folds
+*** FLOP *** [Kc 8h 2c]
+EnzoTeddy bets 20
+Gm0507 calls 20
+*** TURN *** [Kc 8h 2c][Kd]
+EnzoTeddy bets 20
+Gm0507 calls 20
+*** RIVER *** [Kc 8h 2c Kd][Js]
+EnzoTeddy checks
+Gm0507 checks
+*** SHOW DOWN ***
+EnzoTeddy shows [2d 7d] (Two pairs : Kings and 2)
+Gm0507 shows [8c 6s] (Two pairs : Kings and 8)
+Gm0507 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Kc 8h 2c Kd Js]
+Seat 2: Gm0507 (button) showed [8c 6s] and won 180 with Two pairs : Kings and 8
+Seat 3: EnzoTeddy (small blind) showed [2d 7d] and lost with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698274626315747329-2-1675188577 - Holdem no limit (15/30) - 2023/01/31 18:09:37 UTC
+Table: 'Expresso Nitro(628241018)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Gm0507 (400)
+Seat 3: EnzoTeddy (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Gm0507 posts big blind 30
+Dealt to _SKR [9h Kd]
+*** PRE-FLOP *** 
+EnzoTeddy raises 190 to 220 and is all-in
+_SKR raises 60 to 280 and is all-in
+Gm0507 raises 120 to 400 and is all-in
+*** FLOP *** [Kh Ad 5c]
+*** TURN *** [Kh Ad 5c][Ah]
+*** RIVER *** [Kh Ad 5c Ah][Qd]
+*** SHOW DOWN ***
+_SKR shows [9h Kd] (Two pairs : Aces and Kings)
+Gm0507 shows [Jh Js] (Two pairs : Aces and Jacks)
+EnzoTeddy shows [Ac 7s] (Trips of Aces)
+EnzoTeddy collected 660 from main pot
+Gm0507 collected 120 from side pot 2
+_SKR collected 120 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kh Ad 5c Ah Qd]
+Seat 1: _SKR (small blind) showed [9h Kd] and won 120 with Two pairs : Aces and Kings
+Seat 2: Gm0507 (big blind) showed [Jh Js] and won 120 with Two pairs : Aces and Jacks
+Seat 3: EnzoTeddy (button) showed [Ac 7s] and won 660 with Trips of Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698274626315747329-3-1675188597 - Holdem no limit (15/30) - 2023/01/31 18:09:57 UTC
+Table: 'Expresso Nitro(628241018)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (120)
+Seat 2: Gm0507 (120)
+Seat 3: EnzoTeddy (660)
+*** ANTE/BLINDS ***
+Gm0507 posts small blind 15
+EnzoTeddy posts big blind 30
+Dealt to _SKR [8d 8c]
+*** PRE-FLOP *** 
+_SKR raises 90 to 120 and is all-in
+Gm0507 calls 105 and is all-in
+EnzoTeddy calls 90
+*** FLOP *** [2c 4s Th]
+*** TURN *** [2c 4s Th][Ks]
+*** RIVER *** [2c 4s Th Ks][Ac]
+*** SHOW DOWN ***
+_SKR shows [8d 8c] (One pair : 8)
+Gm0507 shows [Jd 5d] (High card : Ace)
+EnzoTeddy shows [Ad 9d] (One pair : Aces)
+EnzoTeddy collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2c 4s Th Ks Ac]
+Seat 1: _SKR (button) showed [8d 8c] and lost with One pair : 8
+Seat 2: Gm0507 (small blind) showed [Jd 5d] and lost with High card : Ace
+Seat 3: EnzoTeddy (big blind) showed [Ad 9d] and won 360 with One pair : Aces
+
+

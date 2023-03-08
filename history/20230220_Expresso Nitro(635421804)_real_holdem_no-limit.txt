@@ -1,0 +1,324 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729115867345321985-1-1676901393 - Holdem no limit (10/20) - 2023/02/20 13:56:33 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Yoni-26 (300)
+Seat 2: _SKR (300)
+Seat 3: mirika (300)
+*** ANTE/BLINDS ***
+Yoni-26 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qd 6s]
+*** PRE-FLOP *** 
+mirika calls 20
+Yoni-26 calls 10
+_SKR checks
+*** FLOP *** [9d Th 9c]
+Yoni-26 checks
+_SKR checks
+mirika bets 20
+Yoni-26 folds
+_SKR folds
+mirika collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9d Th 9c]
+Seat 3: mirika (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729115867345321985-2-1676901431 - Holdem no limit (10/20) - 2023/02/20 13:57:11 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yoni-26 (280)
+Seat 2: _SKR (280)
+Seat 3: mirika (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+mirika posts big blind 20
+Dealt to _SKR [9d 7h]
+*** PRE-FLOP *** 
+Yoni-26 folds
+_SKR calls 10
+mirika checks
+*** FLOP *** [2d Ac Ks]
+_SKR checks
+mirika checks
+*** TURN *** [2d Ac Ks][Th]
+_SKR checks
+mirika checks
+*** RIVER *** [2d Ac Ks Th][4d]
+_SKR checks
+mirika bets 40
+_SKR folds
+mirika collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2d Ac Ks Th 4d]
+Seat 3: mirika (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729115867345321985-3-1676901508 - Holdem no limit (15/30) - 2023/02/20 13:58:28 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Yoni-26 (280)
+Seat 2: _SKR (260)
+Seat 3: mirika (360)
+*** ANTE/BLINDS ***
+mirika posts small blind 15
+Yoni-26 posts big blind 30
+Dealt to _SKR [3h Qh]
+*** PRE-FLOP *** 
+_SKR folds
+mirika folds
+Yoni-26 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Yoni-26 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729115867345321985-4-1676901512 - Holdem no limit (20/40) - 2023/02/20 13:58:32 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Yoni-26 (295)
+Seat 2: _SKR (260)
+Seat 3: mirika (345)
+*** ANTE/BLINDS ***
+Yoni-26 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9s 8h]
+*** PRE-FLOP *** 
+mirika folds
+Yoni-26 calls 20
+_SKR raises 220 to 260 and is all-in
+Yoni-26 folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: _SKR (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729115867345321985-5-1676901524 - Holdem no limit (20/40) - 2023/02/20 13:58:44 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yoni-26 (255)
+Seat 2: _SKR (300)
+Seat 3: mirika (345)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+mirika posts big blind 40
+Dealt to _SKR [7d 2s]
+*** PRE-FLOP *** 
+Yoni-26 folds
+_SKR folds
+mirika collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: mirika (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729115867345321985-6-1676901532 - Holdem no limit (20/40) - 2023/02/20 13:58:52 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Yoni-26 (255)
+Seat 2: _SKR (280)
+Seat 3: mirika (365)
+*** ANTE/BLINDS ***
+mirika posts small blind 20
+Yoni-26 posts big blind 40
+Dealt to _SKR [3h 6c]
+*** PRE-FLOP *** 
+_SKR folds
+mirika raises 325 to 365 and is all-in
+Yoni-26 calls 215 and is all-in
+*** FLOP *** [Kc 6h 8c]
+*** TURN *** [Kc 6h 8c][Ah]
+*** RIVER *** [Kc 6h 8c Ah][Qd]
+*** SHOW DOWN ***
+Yoni-26 shows [Jc Ts] (Straight Ace high)
+mirika shows [7c Kd] (One pair : Kings)
+mirika collected 110 from side pot 1
+Yoni-26 collected 510 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Kc 6h 8c Ah Qd]
+Seat 1: Yoni-26 (big blind) showed [Jc Ts] and won 510 with Straight Ace high
+Seat 3: mirika (small blind) showed [7c Kd] and won 110 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729115867345321985-7-1676901544 - Holdem no limit (20/40) - 2023/02/20 13:59:04 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Yoni-26 (510)
+Seat 2: _SKR (280)
+Seat 3: mirika (110)
+*** ANTE/BLINDS ***
+Yoni-26 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3s 6s]
+*** PRE-FLOP *** 
+mirika raises 70 to 110 and is all-in
+Yoni-26 raises 70 to 180
+_SKR folds
+*** FLOP *** [3d Qs 9c]
+*** TURN *** [3d Qs 9c][5c]
+*** RIVER *** [3d Qs 9c 5c][8h]
+*** SHOW DOWN ***
+Yoni-26 shows [Jd Kd] (High card : King)
+mirika shows [Qh 9s] (Two pairs : Queens and 9)
+mirika collected 260 from main pot
+Yoni-26 collected 70 from side pot 1
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [3d Qs 9c 5c 8h]
+Seat 1: Yoni-26 (small blind) showed [Jd Kd] and won 70 with High card : King
+Seat 3: mirika (button) showed [Qh 9s] and won 260 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729115867345321985-8-1676901560 - Holdem no limit (20/40) - 2023/02/20 13:59:20 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yoni-26 (400)
+Seat 2: _SKR (240)
+Seat 3: mirika (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+mirika posts big blind 40
+Dealt to _SKR [Kh 7s]
+*** PRE-FLOP *** 
+Yoni-26 folds
+_SKR raises 200 to 240 and is all-in
+mirika calls 200
+*** FLOP *** [7c Jc Ks]
+*** TURN *** [7c Jc Ks][6d]
+*** RIVER *** [7c Jc Ks 6d][8d]
+*** SHOW DOWN ***
+mirika shows [4s Kd] (One pair : Kings)
+_SKR shows [Kh 7s] (Two pairs : Kings and 7)
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [7c Jc Ks 6d 8d]
+Seat 2: _SKR (small blind) showed [Kh 7s] and won 480 with Two pairs : Kings and 7
+Seat 3: mirika (big blind) showed [4s Kd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729115867345321985-9-1676901580 - Holdem no limit (30/60) - 2023/02/20 13:59:40 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Yoni-26 (400)
+Seat 2: _SKR (480)
+Seat 3: mirika (20)
+*** ANTE/BLINDS ***
+mirika posts small blind 20 and is all-in
+Yoni-26 posts big blind 60
+Dealt to _SKR [Th Td]
+*** PRE-FLOP *** 
+_SKR raises 420 to 480 and is all-in
+Yoni-26 folds
+*** FLOP *** [5s 8c Tc]
+*** TURN *** [5s 8c Tc][6c]
+*** RIVER *** [5s 8c Tc 6c][4h]
+*** SHOW DOWN ***
+mirika shows [Qc Qd] (One pair : Queens)
+_SKR shows [Th Td] (Trips of Tens)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [5s 8c Tc 6c 4h]
+Seat 2: _SKR (button) showed [Th Td] and won 560 with Trips of Tens
+Seat 3: mirika (small blind) showed [Qc Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729115867345321985-10-1676901600 - Holdem no limit (30/60) - 2023/02/20 14:00:00 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yoni-26 (340)
+Seat 2: _SKR (560)
+*** ANTE/BLINDS ***
+Yoni-26 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5c Js]
+*** PRE-FLOP *** 
+Yoni-26 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729115867345321985-11-1676901604 - Holdem no limit (30/60) - 2023/02/20 14:00:04 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Yoni-26 (310)
+Seat 2: _SKR (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Yoni-26 posts big blind 60
+Dealt to _SKR [6c Ad]
+*** PRE-FLOP *** 
+_SKR raises 530 to 590 and is all-in
+Yoni-26 folds
+_SKR collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 2: _SKR (small blind) (button) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2729115867345321985-12-1676901612 - Holdem no limit (30/60) - 2023/02/20 14:00:12 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yoni-26 (250)
+Seat 2: _SKR (650)
+*** ANTE/BLINDS ***
+Yoni-26 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7d Kh]
+*** PRE-FLOP *** 
+Yoni-26 calls 30
+_SKR raises 590 to 650 and is all-in
+Yoni-26 calls 190 and is all-in
+*** FLOP *** [Ah 6s 4s]
+*** TURN *** [Ah 6s 4s][Ad]
+*** RIVER *** [Ah 6s 4s Ad][5d]
+*** SHOW DOWN ***
+Yoni-26 shows [Kc 9c] (One pair : Aces)
+_SKR shows [7d Kh] (One pair : Aces)
+_SKR collected 400 from side pot 1
+Yoni-26 collected 500 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ah 6s 4s Ad 5d]
+Seat 1: Yoni-26 (small blind) (button) showed [Kc 9c] and won 500 with One pair : Aces
+Seat 2: _SKR (big blind) showed [7d Kh] and won 400 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2729115867345321985-13-1676901632 - Holdem no limit (40/80) - 2023/02/20 14:00:32 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Yoni-26 (500)
+Seat 2: _SKR (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Yoni-26 posts big blind 80
+Dealt to _SKR [9d 5d]
+*** PRE-FLOP *** 
+_SKR raises 320 to 400 and is all-in
+Yoni-26 folds
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 2: _SKR (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2729115867345321985-14-1676901641 - Holdem no limit (40/80) - 2023/02/20 14:00:41 UTC
+Table: 'Expresso Nitro(635421804)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yoni-26 (420)
+Seat 2: _SKR (480)
+*** ANTE/BLINDS ***
+Yoni-26 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Kh Qc]
+*** PRE-FLOP *** 
+Yoni-26 calls 40
+_SKR raises 400 to 480 and is all-in
+Yoni-26 calls 340 and is all-in
+*** FLOP *** [2d 8d Qd]
+*** TURN *** [2d 8d Qd][5s]
+*** RIVER *** [2d 8d Qd 5s][3c]
+*** SHOW DOWN ***
+Yoni-26 shows [3h Ah] (One pair : 3)
+_SKR shows [Kh Qc] (One pair : Queens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d 8d Qd 5s 3c]
+Seat 1: Yoni-26 (small blind) (button) showed [3h Ah] and lost with One pair : 3
+Seat 2: _SKR (big blind) showed [Kh Qc] and won 900 with One pair : Queens
+
+

@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698195401349005313-1-1675185054 - Holdem no limit (10/20) - 2023/01/31 17:10:54 UTC
+Table: 'Expresso Nitro(628222572)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: rymxm (300)
+Seat 3: MisterThee33 (300)
+*** ANTE/BLINDS ***
+rymxm posts small blind 10
+MisterThee33 posts big blind 20
+Dealt to _SKR [6s 9h]
+*** PRE-FLOP *** 
+_SKR folds
+rymxm calls 10
+MisterThee33 raises 40 to 60
+rymxm folds
+MisterThee33 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: MisterThee33 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698195401349005313-2-1675185064 - Holdem no limit (10/20) - 2023/01/31 17:11:04 UTC
+Table: 'Expresso Nitro(628222572)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: rymxm (280)
+Seat 3: MisterThee33 (320)
+*** ANTE/BLINDS ***
+MisterThee33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c Ah]
+*** PRE-FLOP *** 
+rymxm folds
+MisterThee33 calls 10
+_SKR raises 280 to 300 and is all-in
+MisterThee33 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698195401349005313-3-1675185073 - Holdem no limit (10/20) - 2023/01/31 17:11:13 UTC
+Table: 'Expresso Nitro(628222572)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: rymxm (280)
+Seat 3: MisterThee33 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+rymxm posts big blind 20
+Dealt to _SKR [7d Qd]
+*** PRE-FLOP *** 
+MisterThee33 calls 20
+_SKR raises 300 to 320 and is all-in
+rymxm calls 260 and is all-in
+MisterThee33 calls 280 and is all-in
+*** FLOP *** [5s Kh 3h]
+*** TURN *** [5s Kh 3h][Ac]
+*** RIVER *** [5s Kh 3h Ac][2d]
+*** SHOW DOWN ***
+MisterThee33 shows [8d Jd] (High card : Ace)
+_SKR shows [7d Qd] (High card : Ace)
+rymxm shows [As Tc] (One pair : Aces)
+rymxm collected 840 from main pot
+_SKR collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s Kh 3h Ac 2d]
+Seat 1: _SKR (small blind) showed [7d Qd] and won 60 with High card : Ace
+Seat 2: rymxm (big blind) showed [As Tc] and won 840 with One pair : Aces
+Seat 3: MisterThee33 (button) showed [8d Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698195401349005313-4-1675185097 - Holdem no limit (10/20) - 2023/01/31 17:11:37 UTC
+Table: 'Expresso Nitro(628222572)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (60)
+Seat 2: rymxm (840)
+*** ANTE/BLINDS ***
+rymxm posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7h 6h]
+*** PRE-FLOP *** 
+rymxm raises 820 to 840 and is all-in
+_SKR calls 40 and is all-in
+*** FLOP *** [6c Th 9c]
+*** TURN *** [6c Th 9c][5d]
+*** RIVER *** [6c Th 9c 5d][4c]
+*** SHOW DOWN ***
+_SKR shows [7h 6h] (One pair : 6)
+rymxm shows [Tc Kc] (Flush King high)
+rymxm collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c Th 9c 5d 4c]
+Seat 1: _SKR (big blind) showed [7h 6h] and lost with One pair : 6
+Seat 2: rymxm (small blind) (button) showed [Tc Kc] and won 900 with Flush King high
+
+

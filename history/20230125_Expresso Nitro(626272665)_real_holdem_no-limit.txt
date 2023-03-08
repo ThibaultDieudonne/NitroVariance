@@ -1,0 +1,65 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689820614553763841-1-1674653922 - Holdem no limit (10/20) - 2023/01/25 13:38:42 UTC
+Table: 'Expresso Nitro(626272665)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CallMUCKFrr (300)
+Seat 2: _SKR (300)
+Seat 3: Yodasheat (300)
+*** ANTE/BLINDS ***
+CallMUCKFrr posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 2d]
+*** PRE-FLOP *** 
+Yodasheat folds
+CallMUCKFrr folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689820614553763841-2-1674653927 - Holdem no limit (10/20) - 2023/01/25 13:38:47 UTC
+Table: 'Expresso Nitro(626272665)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CallMUCKFrr (290)
+Seat 2: _SKR (310)
+Seat 3: Yodasheat (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Yodasheat posts big blind 20
+Dealt to _SKR [5c 6c]
+*** PRE-FLOP *** 
+CallMUCKFrr folds
+_SKR folds
+Yodasheat collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Yodasheat (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689820614553763841-3-1674653936 - Holdem no limit (10/20) - 2023/01/25 13:38:56 UTC
+Table: 'Expresso Nitro(626272665)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CallMUCKFrr (290)
+Seat 2: _SKR (300)
+Seat 3: Yodasheat (310)
+*** ANTE/BLINDS ***
+Yodasheat posts small blind 10
+CallMUCKFrr posts big blind 20
+Dealt to _SKR [3s 3c]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Yodasheat calls 290
+CallMUCKFrr calls 270 and is all-in
+*** FLOP *** [8d 4d Kd]
+*** TURN *** [8d 4d Kd][Qc]
+*** RIVER *** [8d 4d Kd Qc][Td]
+*** SHOW DOWN ***
+CallMUCKFrr shows [Jc Jh] (One pair : Jacks)
+_SKR shows [3s 3c] (One pair : 3)
+Yodasheat shows [2s Ks] (One pair : Kings)
+Yodasheat collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [8d 4d Kd Qc Td]
+Seat 1: CallMUCKFrr (big blind) showed [Jc Jh] and lost with One pair : Jacks
+Seat 2: _SKR (button) showed [3s 3c] and lost with One pair : 3
+Seat 3: Yodasheat (small blind) showed [2s Ks] and won 890 with One pair : Kings
+
+

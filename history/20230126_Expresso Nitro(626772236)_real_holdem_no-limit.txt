@@ -1,0 +1,246 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691966255660793857-1-1674775479 - Holdem no limit (10/20) - 2023/01/26 23:24:39 UTC
+Table: 'Expresso Nitro(626772236)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Serpent-fin5 (300)
+Seat 3: Poker55522 (300)
+*** ANTE/BLINDS ***
+Poker55522 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs 9h]
+*** PRE-FLOP *** 
+Serpent-fin5 calls 20
+Poker55522 raises 280 to 300 and is all-in
+_SKR folds
+Serpent-fin5 folds
+Poker55522 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: Poker55522 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691966255660793857-2-1674775504 - Holdem no limit (10/20) - 2023/01/26 23:25:04 UTC
+Table: 'Expresso Nitro(626772236)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Serpent-fin5 (280)
+Seat 3: Poker55522 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Serpent-fin5 posts big blind 20
+Dealt to _SKR [Ks 3d]
+*** PRE-FLOP *** 
+Poker55522 folds
+_SKR calls 10
+Serpent-fin5 checks
+*** FLOP *** [8c 8s 9h]
+_SKR checks
+Serpent-fin5 checks
+*** TURN *** [8c 8s 9h][7c]
+_SKR checks
+Serpent-fin5 bets 260 and is all-in
+_SKR folds
+Serpent-fin5 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [8c 8s 9h 7c]
+Seat 2: Serpent-fin5 (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691966255660793857-3-1674775540 - Holdem no limit (15/30) - 2023/01/26 23:25:40 UTC
+Table: 'Expresso Nitro(626772236)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (260)
+Seat 2: Serpent-fin5 (300)
+Seat 3: Poker55522 (340)
+*** ANTE/BLINDS ***
+Serpent-fin5 posts small blind 15
+Poker55522 posts big blind 30
+Dealt to _SKR [3d Ac]
+*** PRE-FLOP *** 
+_SKR raises 230 to 260 and is all-in
+Serpent-fin5 folds
+Poker55522 raises 80 to 340 and is all-in
+*** FLOP *** [2c 7d 2d]
+*** TURN *** [2c 7d 2d][3c]
+*** RIVER *** [2c 7d 2d 3c][Kc]
+*** SHOW DOWN ***
+_SKR shows [3d Ac] (Two pairs : 3 and 2)
+Poker55522 shows [5s 6c] (One pair : 2)
+Poker55522 collected 80 from side pot 1
+_SKR collected 535 from main pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Board: [2c 7d 2d 3c Kc]
+Seat 1: _SKR (button) showed [3d Ac] and won 535 with Two pairs : 3 and 2
+Seat 3: Poker55522 (big blind) showed [5s 6c] and won 80 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691966255660793857-4-1674775560 - Holdem no limit (15/30) - 2023/01/26 23:26:00 UTC
+Table: 'Expresso Nitro(626772236)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (535)
+Seat 2: Serpent-fin5 (285)
+Seat 3: Poker55522 (80)
+*** ANTE/BLINDS ***
+Poker55522 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 4d]
+*** PRE-FLOP *** 
+Serpent-fin5 calls 30
+Poker55522 raises 50 to 80 and is all-in
+_SKR folds
+Serpent-fin5 calls 50
+*** FLOP *** [Ks Js 4c]
+*** TURN *** [Ks Js 4c][5s]
+*** RIVER *** [Ks Js 4c 5s][6d]
+*** SHOW DOWN ***
+Serpent-fin5 shows [Qs 9h] (High card : King)
+Poker55522 shows [Kd 3c] (One pair : Kings)
+Poker55522 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [Ks Js 4c 5s 6d]
+Seat 2: Serpent-fin5 (button) showed [Qs 9h] and lost with High card : King
+Seat 3: Poker55522 (small blind) showed [Kd 3c] and won 190 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691966255660793857-5-1674775595 - Holdem no limit (15/30) - 2023/01/26 23:26:35 UTC
+Table: 'Expresso Nitro(626772236)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (505)
+Seat 2: Serpent-fin5 (205)
+Seat 3: Poker55522 (190)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Serpent-fin5 posts big blind 30
+Dealt to _SKR [Qc 2c]
+*** PRE-FLOP *** 
+Poker55522 raises 40 to 70
+_SKR folds
+Serpent-fin5 folds
+Poker55522 collected 115 from pot
+*** SUMMARY ***
+Total pot 115 | No rake
+Seat 3: Poker55522 (button) won 115
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691966255660793857-6-1674775613 - Holdem no limit (20/40) - 2023/01/26 23:26:53 UTC
+Table: 'Expresso Nitro(626772236)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (490)
+Seat 2: Serpent-fin5 (175)
+Seat 3: Poker55522 (235)
+*** ANTE/BLINDS ***
+Serpent-fin5 posts small blind 20
+Poker55522 posts big blind 40
+Dealt to _SKR [Kd Tc]
+*** PRE-FLOP *** 
+_SKR raises 450 to 490 and is all-in
+Serpent-fin5 folds
+Poker55522 calls 195 and is all-in
+*** FLOP *** [Js 9h Th]
+*** TURN *** [Js 9h Th][4h]
+*** RIVER *** [Js 9h Th 4h][2c]
+*** SHOW DOWN ***
+_SKR shows [Kd Tc] (One pair : Tens)
+Poker55522 shows [Jc Ad] (One pair : Jacks)
+Poker55522 collected 490 from main pot
+_SKR collected 255 from side pot 1
+*** SUMMARY ***
+Total pot 745 | No rake
+Board: [Js 9h Th 4h 2c]
+Seat 1: _SKR (button) showed [Kd Tc] and won 255 with One pair : Tens
+Seat 3: Poker55522 (big blind) showed [Jc Ad] and won 490 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691966255660793857-7-1674775637 - Holdem no limit (20/40) - 2023/01/26 23:27:17 UTC
+Table: 'Expresso Nitro(626772236)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (255)
+Seat 2: Serpent-fin5 (155)
+Seat 3: Poker55522 (490)
+*** ANTE/BLINDS ***
+Poker55522 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9h 6d]
+*** PRE-FLOP *** 
+Serpent-fin5 folds
+Poker55522 raises 450 to 490 and is all-in
+_SKR folds
+Poker55522 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: Poker55522 (small blind) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691966255660793857-8-1674775662 - Holdem no limit (30/60) - 2023/01/26 23:27:42 UTC
+Table: 'Expresso Nitro(626772236)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (215)
+Seat 2: Serpent-fin5 (155)
+Seat 3: Poker55522 (530)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Serpent-fin5 posts big blind 60
+Dealt to _SKR [5c 8s]
+*** PRE-FLOP *** 
+Poker55522 raises 470 to 530 and is all-in
+_SKR folds
+Serpent-fin5 calls 95 and is all-in
+*** FLOP *** [Td Ad 4c]
+*** TURN *** [Td Ad 4c][7s]
+*** RIVER *** [Td Ad 4c 7s][Kd]
+*** SHOW DOWN ***
+Serpent-fin5 shows [Qc Js] (Straight Ace high)
+Poker55522 shows [8h 7h] (One pair : 7)
+Poker55522 collected 375 from side pot 1
+Serpent-fin5 collected 340 from main pot
+*** SUMMARY ***
+Total pot 715 | No rake
+Board: [Td Ad 4c 7s Kd]
+Seat 2: Serpent-fin5 (big blind) showed [Qc Js] and won 340 with Straight Ace high
+Seat 3: Poker55522 (button) showed [8h 7h] and won 375 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691966255660793857-9-1674775683 - Holdem no limit (30/60) - 2023/01/26 23:28:03 UTC
+Table: 'Expresso Nitro(626772236)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (185)
+Seat 2: Serpent-fin5 (340)
+Seat 3: Poker55522 (375)
+*** ANTE/BLINDS ***
+Serpent-fin5 posts small blind 30
+Poker55522 posts big blind 60
+Dealt to _SKR [8c 9d]
+*** PRE-FLOP *** 
+_SKR folds
+Serpent-fin5 folds
+Poker55522 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Poker55522 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691966255660793857-10-1674775695 - Holdem no limit (30/60) - 2023/01/26 23:28:15 UTC
+Table: 'Expresso Nitro(626772236)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (185)
+Seat 2: Serpent-fin5 (310)
+Seat 3: Poker55522 (405)
+*** ANTE/BLINDS ***
+Poker55522 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9s 5s]
+*** PRE-FLOP *** 
+Serpent-fin5 raises 120 to 180
+Poker55522 folds
+_SKR calls 120
+*** FLOP *** [4d 2d Qc]
+_SKR checks
+Serpent-fin5 checks
+*** TURN *** [4d 2d Qc][9d]
+_SKR bets 5 and is all-in
+Serpent-fin5 calls 5
+*** RIVER *** [4d 2d Qc 9d][5d]
+*** SHOW DOWN ***
+_SKR shows [9s 5s] (Two pairs : 9 and 5)
+Serpent-fin5 shows [5c 5h] (Trips of 5)
+Serpent-fin5 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [4d 2d Qc 9d 5d]
+Seat 1: _SKR (big blind) showed [9s 5s] and lost with Two pairs : 9 and 5
+Seat 2: Serpent-fin5 (button) showed [5c 5h] and won 400 with Trips of 5
+
+

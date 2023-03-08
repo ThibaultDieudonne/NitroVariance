@@ -1,0 +1,248 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698242590154686465-1-1675187066 - Holdem no limit (10/20) - 2023/01/31 17:44:26 UTC
+Table: 'Expresso Nitro(628233559)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Augustin57 (300)
+Seat 2: _SKR (300)
+Seat 3: Kek07 (300)
+*** ANTE/BLINDS ***
+Kek07 posts small blind 10
+Augustin57 posts big blind 20
+Dealt to _SKR [Ts 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Kek07 folds
+Augustin57 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Augustin57 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698242590154686465-2-1675187073 - Holdem no limit (10/20) - 2023/01/31 17:44:33 UTC
+Table: 'Expresso Nitro(628233559)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Augustin57 (310)
+Seat 2: _SKR (300)
+Seat 3: Kek07 (290)
+*** ANTE/BLINDS ***
+Augustin57 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3s Qs]
+*** PRE-FLOP *** 
+Kek07 folds
+Augustin57 calls 10
+_SKR checks
+*** FLOP *** [8d Qd Ah]
+Augustin57 checks
+_SKR checks
+*** TURN *** [8d Qd Ah][6h]
+Augustin57 checks
+_SKR checks
+*** RIVER *** [8d Qd Ah 6h][2c]
+Augustin57 checks
+_SKR checks
+*** SHOW DOWN ***
+Augustin57 shows [3d 9c] (High card : Ace)
+_SKR shows [3s Qs] (One pair : Queens)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [8d Qd Ah 6h 2c]
+Seat 1: Augustin57 (small blind) showed [3d 9c] and lost with High card : Ace
+Seat 2: _SKR (big blind) showed [3s Qs] and won 40 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698242590154686465-3-1675187109 - Holdem no limit (10/20) - 2023/01/31 17:45:09 UTC
+Table: 'Expresso Nitro(628233559)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Augustin57 (290)
+Seat 2: _SKR (320)
+Seat 3: Kek07 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Kek07 posts big blind 20
+Dealt to _SKR [9s 8h]
+*** PRE-FLOP *** 
+Augustin57 calls 20
+_SKR folds
+Kek07 checks
+*** FLOP *** [4h 5h Jd]
+Kek07 bets 50
+Augustin57 raises 220 to 270 and is all-in
+Kek07 calls 220 and is all-in
+*** TURN *** [4h 5h Jd][Js]
+*** RIVER *** [4h 5h Jd Js][5c]
+*** SHOW DOWN ***
+Augustin57 shows [Th Jc] (Full of Jacks and 5)
+Kek07 shows [8s Jh] (Full of Jacks and 5)
+Kek07 collected 295 from pot
+Augustin57 collected 295 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [4h 5h Jd Js 5c]
+Seat 1: Augustin57 (button) showed [Th Jc] and won 295 with Full of Jacks and 5
+Seat 3: Kek07 (big blind) showed [8s Jh] and won 295 with Full of Jacks and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698242590154686465-4-1675187132 - Holdem no limit (15/30) - 2023/01/31 17:45:32 UTC
+Table: 'Expresso Nitro(628233559)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Augustin57 (295)
+Seat 2: _SKR (310)
+Seat 3: Kek07 (295)
+*** ANTE/BLINDS ***
+Kek07 posts small blind 15
+Augustin57 posts big blind 30
+Dealt to _SKR [As Ad]
+*** PRE-FLOP *** 
+_SKR raises 280 to 310 and is all-in
+Kek07 folds
+Augustin57 folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 2: _SKR (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698242590154686465-5-1675187138 - Holdem no limit (15/30) - 2023/01/31 17:45:38 UTC
+Table: 'Expresso Nitro(628233559)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Augustin57 (265)
+Seat 2: _SKR (355)
+Seat 3: Kek07 (280)
+*** ANTE/BLINDS ***
+Augustin57 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ts 7h]
+*** PRE-FLOP *** 
+Kek07 raises 30 to 60
+Augustin57 raises 205 to 265 and is all-in
+_SKR folds
+Kek07 calls 205
+*** FLOP *** [Qd 9h Ac]
+*** TURN *** [Qd 9h Ac][Td]
+*** RIVER *** [Qd 9h Ac Td][As]
+*** SHOW DOWN ***
+Kek07 shows [Qc Kd] (Two pairs : Aces and Queens)
+Augustin57 shows [4d Ad] (Trips of Aces)
+Augustin57 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Qd 9h Ac Td As]
+Seat 1: Augustin57 (small blind) showed [4d Ad] and won 560 with Trips of Aces
+Seat 3: Kek07 (button) showed [Qc Kd] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698242590154686465-6-1675187155 - Holdem no limit (15/30) - 2023/01/31 17:45:55 UTC
+Table: 'Expresso Nitro(628233559)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Augustin57 (560)
+Seat 2: _SKR (325)
+Seat 3: Kek07 (15)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Kek07 posts big blind 15 and is all-in
+Dealt to _SKR [6s 6d]
+*** PRE-FLOP *** 
+Augustin57 folds
+*** FLOP *** [Td Jd Qc]
+*** TURN *** [Td Jd Qc][Ac]
+*** RIVER *** [Td Jd Qc Ac][3c]
+*** SHOW DOWN ***
+_SKR shows [6s 6d] (One pair : 6)
+Kek07 shows [Ts 8s] (One pair : Tens)
+Kek07 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [Td Jd Qc Ac 3c]
+Seat 2: _SKR (small blind) showed [6s 6d] and lost with One pair : 6
+Seat 3: Kek07 (big blind) showed [Ts 8s] and won 30 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698242590154686465-7-1675187167 - Holdem no limit (15/30) - 2023/01/31 17:46:07 UTC
+Table: 'Expresso Nitro(628233559)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Augustin57 (560)
+Seat 2: _SKR (310)
+Seat 3: Kek07 (30)
+*** ANTE/BLINDS ***
+Kek07 posts small blind 15
+Augustin57 posts big blind 30
+Dealt to _SKR [7c 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Kek07 calls 15 and is all-in
+*** FLOP *** [6h Kc 4h]
+*** TURN *** [6h Kc 4h][2d]
+*** RIVER *** [6h Kc 4h 2d][8d]
+*** SHOW DOWN ***
+Augustin57 shows [Ah 6c] (One pair : 6)
+Kek07 shows [8h As] (One pair : 8)
+Kek07 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6h Kc 4h 2d 8d]
+Seat 1: Augustin57 (big blind) showed [Ah 6c] and lost with One pair : 6
+Seat 3: Kek07 (small blind) showed [8h As] and won 60 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698242590154686465-8-1675187179 - Holdem no limit (15/30) - 2023/01/31 17:46:19 UTC
+Table: 'Expresso Nitro(628233559)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Augustin57 (530)
+Seat 2: _SKR (310)
+Seat 3: Kek07 (60)
+*** ANTE/BLINDS ***
+Augustin57 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3d Ad]
+*** PRE-FLOP *** 
+Kek07 raises 30 to 60 and is all-in
+Augustin57 folds
+_SKR raises 250 to 310 and is all-in
+*** FLOP *** [6c 7h Qc]
+*** TURN *** [6c 7h Qc][3s]
+*** RIVER *** [6c 7h Qc 3s][8s]
+*** SHOW DOWN ***
+Kek07 shows [Tc Kd] (High card : King)
+_SKR shows [3d Ad] (One pair : 3)
+_SKR collected 385 from pot
+*** SUMMARY ***
+Total pot 385 | No rake
+Board: [6c 7h Qc 3s 8s]
+Seat 2: _SKR (big blind) showed [3d Ad] and won 385 with One pair : 3
+Seat 3: Kek07 (button) showed [Tc Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698242590154686465-9-1675187200 - Holdem no limit (20/40) - 2023/01/31 17:46:40 UTC
+Table: 'Expresso Nitro(628233559)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Augustin57 (515)
+Seat 2: _SKR (385)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Augustin57 posts big blind 40
+Dealt to _SKR [7h Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Augustin57 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Augustin57 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698242590154686465-10-1675187203 - Holdem no limit (20/40) - 2023/01/31 17:46:43 UTC
+Table: 'Expresso Nitro(628233559)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Augustin57 (535)
+Seat 2: _SKR (365)
+*** ANTE/BLINDS ***
+Augustin57 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [As Js]
+*** PRE-FLOP *** 
+Augustin57 raises 495 to 535 and is all-in
+_SKR calls 325 and is all-in
+*** FLOP *** [4d 4h 2s]
+*** TURN *** [4d 4h 2s][Kh]
+*** RIVER *** [4d 4h 2s Kh][Qh]
+*** SHOW DOWN ***
+_SKR shows [As Js] (One pair : 4)
+Augustin57 shows [8c 8d] (Two pairs : 8 and 4)
+Augustin57 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 4h 2s Kh Qh]
+Seat 1: Augustin57 (small blind) (button) showed [8c 8d] and won 900 with Two pairs : 8 and 4
+Seat 2: _SKR (big blind) showed [As Js] and lost with One pair : 4
+
+

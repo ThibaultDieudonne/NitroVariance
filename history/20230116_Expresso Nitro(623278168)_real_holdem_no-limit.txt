@@ -1,0 +1,72 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676959347870793729-1-1673870334 - Holdem no limit (10/20) - 2023/01/16 11:58:54 UTC
+Table: 'Expresso Nitro(623278168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: F. Fognini (300)
+Seat 3: Al3kss (300)
+*** ANTE/BLINDS ***
+F. Fognini posts small blind 10
+Al3kss posts big blind 20
+Dealt to _SKR [6d Js]
+*** PRE-FLOP *** 
+_SKR folds
+F. Fognini folds
+Al3kss collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Al3kss (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676959347870793729-2-1673870340 - Holdem no limit (10/20) - 2023/01/16 11:59:00 UTC
+Table: 'Expresso Nitro(623278168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: F. Fognini (290)
+Seat 3: Al3kss (310)
+*** ANTE/BLINDS ***
+Al3kss posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qd Ad]
+*** PRE-FLOP *** 
+F. Fognini raises 22 to 42
+Al3kss folds
+_SKR raises 258 to 300 and is all-in
+F. Fognini calls 248 and is all-in
+*** FLOP *** [Kh 6h Jh]
+*** TURN *** [Kh 6h Jh][9h]
+*** RIVER *** [Kh 6h Jh 9h][7d]
+*** SHOW DOWN ***
+_SKR shows [Qd Ad] (High card : Ace)
+F. Fognini shows [4h Ah] (Flush Ace high)
+F. Fognini collected 590 from main pot
+_SKR collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kh 6h Jh 9h 7d]
+Seat 1: _SKR (big blind) showed [Qd Ad] and won 10 with High card : Ace
+Seat 2: F. Fognini (button) showed [4h Ah] and won 590 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676959347870793729-3-1673870358 - Holdem no limit (10/20) - 2023/01/16 11:59:18 UTC
+Table: 'Expresso Nitro(623278168)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (10)
+Seat 2: F. Fognini (590)
+Seat 3: Al3kss (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10 and is all-in
+F. Fognini posts big blind 20
+Dealt to _SKR [9c Ad]
+*** PRE-FLOP *** 
+Al3kss folds
+*** FLOP *** [6h Kc Jd]
+*** TURN *** [6h Kc Jd][Js]
+*** RIVER *** [6h Kc Jd Js][8h]
+*** SHOW DOWN ***
+_SKR shows [9c Ad] (One pair : Jacks)
+F. Fognini shows [Ks Td] (Two pairs : Kings and Jacks)
+F. Fognini collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [6h Kc Jd Js 8h]
+Seat 1: _SKR (small blind) showed [9c Ad] and lost with One pair : Jacks
+Seat 2: F. Fognini (big blind) showed [Ks Td] and won 30 with Two pairs : Kings and Jacks
+
+

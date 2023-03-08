@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698073372738191361-1-1675179253 - Holdem no limit (10/20) - 2023/01/31 15:34:13 UTC
+Table: 'Expresso Nitro(628194160)#0' 3-max (real money) Seat #1 is the button
+Seat 1: defunesdu62 (300)
+Seat 2: Heisenberg58 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Heisenberg58 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 7s]
+*** PRE-FLOP *** 
+defunesdu62 folds
+Heisenberg58 raises 20 to 40
+_SKR folds
+Heisenberg58 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Heisenberg58 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698073372738191361-2-1675179264 - Holdem no limit (10/20) - 2023/01/31 15:34:24 UTC
+Table: 'Expresso Nitro(628194160)#0' 3-max (real money) Seat #2 is the button
+Seat 1: defunesdu62 (300)
+Seat 2: Heisenberg58 (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+defunesdu62 posts big blind 20
+Dealt to _SKR [Ac 7h]
+*** PRE-FLOP *** 
+Heisenberg58 folds
+_SKR raises 260 to 280 and is all-in
+defunesdu62 raises 20 to 300 and is all-in
+*** FLOP *** [3h 4s Td]
+*** TURN *** [3h 4s Td][5s]
+*** RIVER *** [3h 4s Td 5s][8s]
+*** SHOW DOWN ***
+_SKR shows [Ac 7h] (High card : Ace)
+defunesdu62 shows [8h 2h] (One pair : 8)
+defunesdu62 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [3h 4s Td 5s 8s]
+Seat 1: defunesdu62 (big blind) showed [8h 2h] and won 580 with One pair : 8
+Seat 3: _SKR (small blind) showed [Ac 7h] and lost with High card : Ace
+
+

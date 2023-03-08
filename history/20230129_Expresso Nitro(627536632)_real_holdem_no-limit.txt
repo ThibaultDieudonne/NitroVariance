@@ -1,0 +1,73 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695249311481987073-1-1675002307 - Holdem no limit (10/20) - 2023/01/29 14:25:07 UTC
+Table: 'Expresso Nitro(627536632)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PPkaka (300)
+Seat 2: FCJ4 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+FCJ4 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 7s]
+*** PRE-FLOP *** 
+PPkaka folds
+FCJ4 calls 10
+_SKR raises 280 to 300 and is all-in
+FCJ4 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695249311481987073-2-1675002327 - Holdem no limit (10/20) - 2023/01/29 14:25:27 UTC
+Table: 'Expresso Nitro(627536632)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PPkaka (300)
+Seat 2: FCJ4 (280)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+PPkaka posts big blind 20
+Dealt to _SKR [Td Ah]
+*** PRE-FLOP *** 
+FCJ4 calls 20
+_SKR raises 300 to 320 and is all-in
+PPkaka folds
+FCJ4 calls 260 and is all-in
+*** FLOP *** [5c Jh 3c]
+*** TURN *** [5c Jh 3c][9d]
+*** RIVER *** [5c Jh 3c 9d][4d]
+*** SHOW DOWN ***
+FCJ4 shows [Kd 8c] (High card : King)
+_SKR shows [Td Ah] (High card : Ace)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5c Jh 3c 9d 4d]
+Seat 2: FCJ4 (button) showed [Kd 8c] and lost with High card : King
+Seat 3: _SKR (small blind) showed [Td Ah] and won 620 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695249311481987073-3-1675002346 - Holdem no limit (10/20) - 2023/01/29 14:25:46 UTC
+Table: 'Expresso Nitro(627536632)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PPkaka (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+PPkaka posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h As]
+*** PRE-FLOP *** 
+PPkaka raises 260 to 280 and is all-in
+_SKR calls 260
+*** FLOP *** [3h Ks Qh]
+*** TURN *** [3h Ks Qh][5d]
+*** RIVER *** [3h Ks Qh 5d][9d]
+*** SHOW DOWN ***
+PPkaka shows [Ah 4h] (High card : Ace)
+_SKR shows [9h As] (One pair : 9)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [3h Ks Qh 5d 9d]
+Seat 1: PPkaka (small blind) (button) showed [Ah 4h] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [9h As] and won 560 with One pair : 9
+
+

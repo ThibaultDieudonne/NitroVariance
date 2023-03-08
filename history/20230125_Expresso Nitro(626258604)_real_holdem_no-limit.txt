@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689760223018614785-1-1674650209 - Holdem no limit (10/20) - 2023/01/25 12:36:49 UTC
+Table: 'Expresso Nitro(626258604)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: galm (300)
+Seat 3: nawero (300)
+*** ANTE/BLINDS ***
+nawero posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d Qs]
+*** PRE-FLOP *** 
+galm calls 20
+nawero calls 10
+_SKR checks
+*** FLOP *** [4s 6d 5c]
+nawero bets 21
+_SKR folds
+galm calls 21
+*** TURN *** [4s 6d 5c][6s]
+nawero bets 20
+galm folds
+nawero collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [4s 6d 5c 6s]
+Seat 3: nawero (small blind) won 122
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689760223018614785-2-1674650239 - Holdem no limit (10/20) - 2023/01/25 12:37:19 UTC
+Table: 'Expresso Nitro(626258604)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: galm (259)
+Seat 3: nawero (361)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+galm posts big blind 20
+Dealt to _SKR [6c Ac]
+*** PRE-FLOP *** 
+nawero calls 20
+_SKR raises 260 to 280 and is all-in
+galm folds
+nawero calls 260
+*** FLOP *** [7d 3s 9s]
+*** TURN *** [7d 3s 9s][Qc]
+*** RIVER *** [7d 3s 9s Qc][3d]
+*** SHOW DOWN ***
+nawero shows [8c Ts] (One pair : 3)
+_SKR shows [6c Ac] (One pair : 3)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [7d 3s 9s Qc 3d]
+Seat 1: _SKR (small blind) showed [6c Ac] and won 580 with One pair : 3
+Seat 3: nawero (button) showed [8c Ts] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689760223018614785-3-1674650263 - Holdem no limit (10/20) - 2023/01/25 12:37:43 UTC
+Table: 'Expresso Nitro(626258604)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (580)
+Seat 2: galm (239)
+Seat 3: nawero (81)
+*** ANTE/BLINDS ***
+galm posts small blind 10
+nawero posts big blind 20
+Dealt to _SKR [As 3c]
+*** PRE-FLOP *** 
+_SKR raises 560 to 580 and is all-in
+galm folds
+nawero calls 61 and is all-in
+*** FLOP *** [5c 6c 9c]
+*** TURN *** [5c 6c 9c][5d]
+*** RIVER *** [5c 6c 9c 5d][8c]
+*** SHOW DOWN ***
+nawero shows [Ah 2s] (One pair : 5)
+_SKR shows [As 3c] (Flush 9 high)
+_SKR collected 671 from pot
+*** SUMMARY ***
+Total pot 671 | No rake
+Board: [5c 6c 9c 5d 8c]
+Seat 1: _SKR (button) showed [As 3c] and won 671 with Flush 9 high
+Seat 3: nawero (big blind) showed [Ah 2s] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689760223018614785-4-1674650277 - Holdem no limit (15/30) - 2023/01/25 12:37:57 UTC
+Table: 'Expresso Nitro(626258604)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (671)
+Seat 2: galm (229)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+galm posts big blind 30
+Dealt to _SKR [6d 6c]
+*** PRE-FLOP *** 
+_SKR raises 641 to 671 and is all-in
+galm calls 199 and is all-in
+*** FLOP *** [Ks 8c Td]
+*** TURN *** [Ks 8c Td][Qh]
+*** RIVER *** [Ks 8c Td Qh][5h]
+*** SHOW DOWN ***
+galm shows [Ac 3h] (High card : Ace)
+_SKR shows [6d 6c] (One pair : 6)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks 8c Td Qh 5h]
+Seat 1: _SKR (small blind) (button) showed [6d 6c] and won 900 with One pair : 6
+Seat 2: galm (big blind) showed [Ac 3h] and lost with High card : Ace
+
+

@@ -1,0 +1,383 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695294919739703297-1-1675004740 - Holdem no limit (10/20) - 2023/01/29 15:05:40 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LaQuica52 (300)
+Seat 2: Cosa_Nostraa (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LaQuica52 posts big blind 20
+Dealt to _SKR [Ts Td]
+*** PRE-FLOP *** 
+Cosa_Nostraa raises 280 to 300 and is all-in
+_SKR calls 290 and is all-in
+LaQuica52 folds
+*** FLOP *** [6h Jd 8s]
+*** TURN *** [6h Jd 8s][8c]
+*** RIVER *** [6h Jd 8s 8c][Ac]
+*** SHOW DOWN ***
+Cosa_Nostraa shows [9c 9h] (Two pairs : 9 and 8)
+_SKR shows [Ts Td] (Two pairs : Tens and 8)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [6h Jd 8s 8c Ac]
+Seat 2: Cosa_Nostraa (button) showed [9c 9h] and lost with Two pairs : 9 and 8
+Seat 3: _SKR (small blind) showed [Ts Td] and won 620 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695294919739703297-2-1675004756 - Holdem no limit (10/20) - 2023/01/29 15:05:56 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaQuica52 (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+LaQuica52 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc 9s]
+*** PRE-FLOP *** 
+LaQuica52 calls 10
+_SKR checks
+*** FLOP *** [3h 9d Kd]
+_SKR checks
+LaQuica52 checks
+*** TURN *** [3h 9d Kd][2d]
+_SKR bets 20
+LaQuica52 calls 20
+*** RIVER *** [3h 9d Kd 2d][Jd]
+_SKR checks
+LaQuica52 bets 28
+_SKR folds
+LaQuica52 collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [3h 9d Kd 2d Jd]
+Seat 1: LaQuica52 (small blind) (button) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695294919739703297-3-1675004784 - Holdem no limit (10/20) - 2023/01/29 15:06:24 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LaQuica52 (320)
+Seat 3: _SKR (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LaQuica52 posts big blind 20
+Dealt to _SKR [4d Ad]
+*** PRE-FLOP *** 
+_SKR raises 560 to 580 and is all-in
+LaQuica52 folds
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 3: _SKR (small blind) (button) won 600
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695294919739703297-4-1675004793 - Holdem no limit (10/20) - 2023/01/29 15:06:33 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaQuica52 (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+LaQuica52 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 9s]
+*** PRE-FLOP *** 
+LaQuica52 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695294919739703297-5-1675004796 - Holdem no limit (15/30) - 2023/01/29 15:06:36 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LaQuica52 (290)
+Seat 3: _SKR (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LaQuica52 posts big blind 30
+Dealt to _SKR [2h 5s]
+*** PRE-FLOP *** 
+_SKR folds
+LaQuica52 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: LaQuica52 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695294919739703297-6-1675004803 - Holdem no limit (15/30) - 2023/01/29 15:06:43 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaQuica52 (305)
+Seat 3: _SKR (595)
+*** ANTE/BLINDS ***
+LaQuica52 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh Kd]
+*** PRE-FLOP *** 
+LaQuica52 calls 15
+_SKR raises 45 to 75
+LaQuica52 calls 45
+*** FLOP *** [9h Js Td]
+_SKR bets 520 and is all-in
+LaQuica52 folds
+_SKR collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [9h Js Td]
+Seat 3: _SKR (big blind) won 670
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695294919739703297-7-1675004817 - Holdem no limit (15/30) - 2023/01/29 15:06:57 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LaQuica52 (230)
+Seat 3: _SKR (670)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LaQuica52 posts big blind 30
+Dealt to _SKR [7s 8d]
+*** PRE-FLOP *** 
+_SKR raises 640 to 670 and is all-in
+LaQuica52 folds
+_SKR collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 3: _SKR (small blind) (button) won 700
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695294919739703297-8-1675004825 - Holdem no limit (15/30) - 2023/01/29 15:07:05 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaQuica52 (200)
+Seat 3: _SKR (700)
+*** ANTE/BLINDS ***
+LaQuica52 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4d 5c]
+*** PRE-FLOP *** 
+LaQuica52 calls 15
+_SKR checks
+*** FLOP *** [4h Tc 2d]
+_SKR checks
+LaQuica52 checks
+*** TURN *** [4h Tc 2d][Qc]
+_SKR checks
+LaQuica52 checks
+*** RIVER *** [4h Tc 2d Qc][As]
+_SKR checks
+LaQuica52 bets 30
+_SKR calls 30
+*** SHOW DOWN ***
+LaQuica52 shows [7h 8d] (High card : Ace)
+_SKR shows [4d 5c] (One pair : 4)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4h Tc 2d Qc As]
+Seat 1: LaQuica52 (small blind) (button) showed [7h 8d] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [4d 5c] and won 120 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695294919739703297-9-1675004851 - Holdem no limit (15/30) - 2023/01/29 15:07:31 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LaQuica52 (140)
+Seat 3: _SKR (760)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LaQuica52 posts big blind 30
+Dealt to _SKR [Ad Td]
+*** PRE-FLOP *** 
+_SKR raises 730 to 760 and is all-in
+LaQuica52 calls 110 and is all-in
+*** FLOP *** [7c Qh 9d]
+*** TURN *** [7c Qh 9d][6h]
+*** RIVER *** [7c Qh 9d 6h][Kh]
+*** SHOW DOWN ***
+LaQuica52 shows [5s 5h] (One pair : 5)
+_SKR shows [Ad Td] (High card : Ace)
+_SKR collected 620 from side pot 1
+LaQuica52 collected 280 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c Qh 9d 6h Kh]
+Seat 1: LaQuica52 (big blind) showed [5s 5h] and won 280 with One pair : 5
+Seat 3: _SKR (small blind) (button) showed [Ad Td] and won 620 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695294919739703297-10-1675004863 - Holdem no limit (20/40) - 2023/01/29 15:07:43 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaQuica52 (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+LaQuica52 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Tc 7s]
+*** PRE-FLOP *** 
+LaQuica52 calls 20
+_SKR checks
+*** FLOP *** [Kh 9h 2c]
+_SKR checks
+LaQuica52 checks
+*** TURN *** [Kh 9h 2c][Th]
+_SKR checks
+LaQuica52 bets 40
+_SKR folds
+LaQuica52 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kh 9h 2c Th]
+Seat 1: LaQuica52 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695294919739703297-11-1675004877 - Holdem no limit (20/40) - 2023/01/29 15:07:57 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LaQuica52 (320)
+Seat 3: _SKR (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+LaQuica52 posts big blind 40
+Dealt to _SKR [7h 9c]
+*** PRE-FLOP *** 
+_SKR folds
+LaQuica52 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: LaQuica52 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695294919739703297-12-1675004882 - Holdem no limit (20/40) - 2023/01/29 15:08:02 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaQuica52 (340)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+LaQuica52 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3s 2d]
+*** PRE-FLOP *** 
+LaQuica52 calls 20
+_SKR checks
+*** FLOP *** [Kc 7d 7c]
+_SKR checks
+LaQuica52 bets 52
+_SKR folds
+LaQuica52 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Kc 7d 7c]
+Seat 1: LaQuica52 (small blind) (button) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695294919739703297-13-1675004890 - Holdem no limit (20/40) - 2023/01/29 15:08:10 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LaQuica52 (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+LaQuica52 posts big blind 40
+Dealt to _SKR [8d 3c]
+*** PRE-FLOP *** 
+_SKR folds
+LaQuica52 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: LaQuica52 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695294919739703297-14-1675004894 - Holdem no limit (20/40) - 2023/01/29 15:08:14 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaQuica52 (400)
+Seat 3: _SKR (500)
+*** ANTE/BLINDS ***
+LaQuica52 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2s Ks]
+*** PRE-FLOP *** 
+LaQuica52 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695294919739703297-15-1675004898 - Holdem no limit (20/40) - 2023/01/29 15:08:18 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LaQuica52 (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+LaQuica52 posts big blind 40
+Dealt to _SKR [5c 9h]
+*** PRE-FLOP *** 
+_SKR folds
+LaQuica52 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: LaQuica52 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695294919739703297-16-1675004901 - Holdem no limit (20/40) - 2023/01/29 15:08:21 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaQuica52 (400)
+Seat 3: _SKR (500)
+*** ANTE/BLINDS ***
+LaQuica52 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd 2c]
+*** PRE-FLOP *** 
+LaQuica52 calls 20
+_SKR checks
+*** FLOP *** [2h 3h 8h]
+_SKR checks
+LaQuica52 checks
+*** TURN *** [2h 3h 8h][Ac]
+_SKR checks
+LaQuica52 checks
+*** RIVER *** [2h 3h 8h Ac][9c]
+_SKR checks
+LaQuica52 bets 40
+_SKR folds
+LaQuica52 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2h 3h 8h Ac 9c]
+Seat 1: LaQuica52 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695294919739703297-17-1675004919 - Holdem no limit (30/60) - 2023/01/29 15:08:39 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LaQuica52 (440)
+Seat 3: _SKR (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+LaQuica52 posts big blind 60
+Dealt to _SKR [Js 6s]
+*** PRE-FLOP *** 
+_SKR raises 400 to 460 and is all-in
+LaQuica52 folds
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 3: _SKR (small blind) (button) won 520
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695294919739703297-18-1675004927 - Holdem no limit (30/60) - 2023/01/29 15:08:47 UTC
+Table: 'Expresso Nitro(627547251)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaQuica52 (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+LaQuica52 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kc Kd]
+*** PRE-FLOP *** 
+LaQuica52 calls 30
+_SKR raises 460 to 520 and is all-in
+LaQuica52 calls 320 and is all-in
+*** FLOP *** [Ac 8c Jc]
+*** TURN *** [Ac 8c Jc][4c]
+*** RIVER *** [Ac 8c Jc 4c][Jd]
+*** SHOW DOWN ***
+LaQuica52 shows [Jh 2c] (Flush Ace high)
+_SKR shows [Kc Kd] (Flush Ace high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 8c Jc 4c Jd]
+Seat 1: LaQuica52 (small blind) (button) showed [Jh 2c] and lost with Flush Ace high
+Seat 3: _SKR (big blind) showed [Kc Kd] and won 900 with Flush Ace high
+
+

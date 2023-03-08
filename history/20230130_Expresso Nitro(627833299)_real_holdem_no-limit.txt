@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696523486544789505-1-1675084986 - Holdem no limit (10/20) - 2023/01/30 13:23:06 UTC
+Table: 'Expresso Nitro(627833299)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: CT_Striker6 (300)
+Seat 3: LoPoTi_x (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+CT_Striker6 posts big blind 20
+Dealt to _SKR [7d Qc]
+*** PRE-FLOP *** 
+LoPoTi_x folds
+_SKR raises 20 to 40
+CT_Striker6 calls 20
+*** FLOP *** [9c 5s Ah]
+_SKR checks
+CT_Striker6 bets 80
+_SKR folds
+CT_Striker6 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [9c 5s Ah]
+Seat 2: CT_Striker6 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696523486544789505-2-1675085013 - Holdem no limit (10/20) - 2023/01/30 13:23:33 UTC
+Table: 'Expresso Nitro(627833299)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (260)
+Seat 2: CT_Striker6 (340)
+Seat 3: LoPoTi_x (300)
+*** ANTE/BLINDS ***
+CT_Striker6 posts small blind 10
+LoPoTi_x posts big blind 20
+Dealt to _SKR [9s As]
+*** PRE-FLOP *** 
+_SKR raises 240 to 260 and is all-in
+CT_Striker6 folds
+LoPoTi_x raises 40 to 300 and is all-in
+*** FLOP *** [8c 8d Qc]
+*** TURN *** [8c 8d Qc][Td]
+*** RIVER *** [8c 8d Qc Td][Kh]
+*** SHOW DOWN ***
+_SKR shows [9s As] (One pair : 8)
+LoPoTi_x shows [Js Jh] (Two pairs : Jacks and 8)
+LoPoTi_x collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [8c 8d Qc Td Kh]
+Seat 1: _SKR (button) showed [9s As] and lost with One pair : 8
+Seat 3: LoPoTi_x (big blind) showed [Js Jh] and won 570 with Two pairs : Jacks and 8
+
+

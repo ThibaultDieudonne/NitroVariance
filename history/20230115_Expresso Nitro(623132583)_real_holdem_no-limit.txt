@@ -1,0 +1,75 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676334065057005569-1-1673820396 - Holdem no limit (10/20) - 2023/01/15 22:06:36 UTC
+Table: 'Expresso Nitro(623132583)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: perdreamax (300)
+Seat 3: max2o (300)
+*** ANTE/BLINDS ***
+max2o posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h 6s]
+*** PRE-FLOP *** 
+perdreamax calls 20
+max2o folds
+_SKR checks
+*** FLOP *** [9c 2c 7d]
+_SKR checks
+perdreamax checks
+*** TURN *** [9c 2c 7d][5h]
+_SKR bets 33
+perdreamax folds
+_SKR collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [9c 2c 7d 5h]
+Seat 1: _SKR (big blind) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676334065057005569-2-1673820463 - Holdem no limit (15/30) - 2023/01/15 22:07:43 UTC
+Table: 'Expresso Nitro(623132583)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 2: perdreamax (280)
+Seat 3: max2o (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+perdreamax posts big blind 30
+Dealt to _SKR [7c 3h]
+*** PRE-FLOP *** 
+max2o raises 260 to 290 and is all-in
+_SKR folds
+perdreamax folds
+max2o collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | No rake
+Seat 3: max2o (button) won 335
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676334065057005569-3-1673820473 - Holdem no limit (15/30) - 2023/01/15 22:07:53 UTC
+Table: 'Expresso Nitro(623132583)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (315)
+Seat 2: perdreamax (250)
+Seat 3: max2o (335)
+*** ANTE/BLINDS ***
+perdreamax posts small blind 15
+max2o posts big blind 30
+Dealt to _SKR [4d 4c]
+*** PRE-FLOP *** 
+_SKR raises 285 to 315 and is all-in
+perdreamax calls 235 and is all-in
+max2o calls 285
+*** FLOP *** [8d 8s Jc]
+*** TURN *** [8d 8s Jc][2d]
+*** RIVER *** [8d 8s Jc 2d][Ac]
+*** SHOW DOWN ***
+_SKR shows [4d 4c] (Two pairs : 8 and 4)
+perdreamax shows [As 9c] (Two pairs : Aces and 8)
+max2o shows [Kd Jd] (Two pairs : Jacks and 8)
+max2o collected 130 from side pot 1
+perdreamax collected 750 from main pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [8d 8s Jc 2d Ac]
+Seat 1: _SKR (button) showed [4d 4c] and lost with Two pairs : 8 and 4
+Seat 2: perdreamax (small blind) showed [As 9c] and won 750 with Two pairs : Aces and 8
+Seat 3: max2o (big blind) showed [Kd Jd] and won 130 with Two pairs : Jacks and 8
+
+

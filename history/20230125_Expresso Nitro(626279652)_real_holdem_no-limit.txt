@@ -1,0 +1,125 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689850623490260993-1-1674655667 - Holdem no limit (10/20) - 2023/01/25 14:07:47 UTC
+Table: 'Expresso Nitro(626279652)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sodkdk (300)
+Seat 2: ambigrame (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Sodkdk posts small blind 10
+ambigrame posts big blind 20
+Dealt to _SKR [As 2c]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Sodkdk folds
+ambigrame folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689850623490260993-2-1674655679 - Holdem no limit (10/20) - 2023/01/25 14:07:59 UTC
+Table: 'Expresso Nitro(626279652)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sodkdk (290)
+Seat 2: ambigrame (280)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+ambigrame posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Ac]
+*** PRE-FLOP *** 
+Sodkdk folds
+ambigrame calls 10
+_SKR raises 310 to 330 and is all-in
+ambigrame folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: _SKR (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689850623490260993-3-1674655707 - Holdem no limit (10/20) - 2023/01/25 14:08:27 UTC
+Table: 'Expresso Nitro(626279652)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sodkdk (290)
+Seat 2: ambigrame (260)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Sodkdk posts big blind 20
+Dealt to _SKR [Th Ah]
+*** PRE-FLOP *** 
+ambigrame raises 240 to 260 and is all-in
+_SKR raises 90 to 350 and is all-in
+Sodkdk folds
+*** FLOP *** [Js 2c 4c]
+*** TURN *** [Js 2c 4c][Qd]
+*** RIVER *** [Js 2c 4c Qd][8d]
+*** SHOW DOWN ***
+ambigrame shows [5d 5c] (One pair : 5)
+_SKR shows [Th Ah] (High card : Ace)
+_SKR collected 90 from side pot 1
+ambigrame collected 540 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Js 2c 4c Qd 8d]
+Seat 2: ambigrame (button) showed [5d 5c] and won 540 with One pair : 5
+Seat 3: _SKR (small blind) showed [Th Ah] and won 90 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689850623490260993-4-1674655719 - Holdem no limit (10/20) - 2023/01/25 14:08:39 UTC
+Table: 'Expresso Nitro(626279652)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sodkdk (270)
+Seat 2: ambigrame (540)
+Seat 3: _SKR (90)
+*** ANTE/BLINDS ***
+Sodkdk posts small blind 10
+ambigrame posts big blind 20
+Dealt to _SKR [6c Kc]
+*** PRE-FLOP *** 
+_SKR raises 70 to 90 and is all-in
+Sodkdk folds
+ambigrame calls 70
+*** FLOP *** [Ac Kh 3s]
+*** TURN *** [Ac Kh 3s][7s]
+*** RIVER *** [Ac Kh 3s 7s][4d]
+*** SHOW DOWN ***
+ambigrame shows [2c Qs] (High card : Ace)
+_SKR shows [6c Kc] (One pair : Kings)
+_SKR collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [Ac Kh 3s 7s 4d]
+Seat 2: ambigrame (big blind) showed [2c Qs] and lost with High card : Ace
+Seat 3: _SKR (button) showed [6c Kc] and won 190 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689850623490260993-5-1674655733 - Holdem no limit (15/30) - 2023/01/25 14:08:53 UTC
+Table: 'Expresso Nitro(626279652)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sodkdk (260)
+Seat 2: ambigrame (450)
+Seat 3: _SKR (190)
+*** ANTE/BLINDS ***
+ambigrame posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qh 8s]
+*** PRE-FLOP *** 
+Sodkdk calls 30
+ambigrame calls 15
+_SKR raises 160 to 190 and is all-in
+Sodkdk raises 70 to 260 and is all-in
+ambigrame calls 230
+*** FLOP *** [3h As 6c]
+*** TURN *** [3h As 6c][2c]
+*** RIVER *** [3h As 6c 2c][2d]
+*** SHOW DOWN ***
+ambigrame shows [8d 9s] (One pair : 2)
+_SKR shows [Qh 8s] (One pair : 2)
+Sodkdk shows [Kd Ks] (Two pairs : Kings and 2)
+Sodkdk collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [3h As 6c 2c 2d]
+Seat 1: Sodkdk (button) showed [Kd Ks] and won 710 with Two pairs : Kings and 2
+Seat 2: ambigrame (small blind) showed [8d 9s] and lost with One pair : 2
+Seat 3: _SKR (big blind) showed [Qh 8s] and lost with One pair : 2
+
+

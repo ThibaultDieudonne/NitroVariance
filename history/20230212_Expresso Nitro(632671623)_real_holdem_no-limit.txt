@@ -1,0 +1,102 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717303929892241409-1-1676216634 - Holdem no limit (10/20) - 2023/02/12 15:43:54 UTC
+Table: 'Expresso Nitro(632671623)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HenryLeNain (300)
+Seat 2: _SKR (300)
+Seat 3: -Swampy06- (300)
+*** ANTE/BLINDS ***
+HenryLeNain posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d 4s]
+*** PRE-FLOP *** 
+-Swampy06- folds
+HenryLeNain calls 10
+_SKR checks
+*** FLOP *** [4c 7d Tc]
+HenryLeNain checks
+_SKR checks
+*** TURN *** [4c 7d Tc][3h]
+HenryLeNain checks
+_SKR checks
+*** RIVER *** [4c 7d Tc 3h][9d]
+HenryLeNain checks
+_SKR bets 20
+HenryLeNain folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [4c 7d Tc 3h 9d]
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717303929892241409-2-1676216681 - Holdem no limit (10/20) - 2023/02/12 15:44:41 UTC
+Table: 'Expresso Nitro(632671623)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HenryLeNain (280)
+Seat 2: _SKR (320)
+Seat 3: -Swampy06- (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+-Swampy06- posts big blind 20
+Dealt to _SKR [Ad Qc]
+*** PRE-FLOP *** 
+HenryLeNain folds
+_SKR raises 20 to 40
+-Swampy06- raises 260 to 300 and is all-in
+_SKR calls 260
+*** FLOP *** [2s Jh Th]
+*** TURN *** [2s Jh Th][7s]
+*** RIVER *** [2s Jh Th 7s][8s]
+*** SHOW DOWN ***
+_SKR shows [Ad Qc] (High card : Ace)
+-Swampy06- shows [Tc As] (One pair : Tens)
+-Swampy06- collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [2s Jh Th 7s 8s]
+Seat 2: _SKR (small blind) showed [Ad Qc] and lost with High card : Ace
+Seat 3: -Swampy06- (big blind) showed [Tc As] and won 600 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717303929892241409-3-1676216702 - Holdem no limit (15/30) - 2023/02/12 15:45:02 UTC
+Table: 'Expresso Nitro(632671623)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HenryLeNain (280)
+Seat 2: _SKR (20)
+Seat 3: -Swampy06- (600)
+*** ANTE/BLINDS ***
+-Swampy06- posts small blind 15
+HenryLeNain posts big blind 30
+Dealt to _SKR [6h 9s]
+*** PRE-FLOP *** 
+_SKR folds
+-Swampy06- folds
+HenryLeNain collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: HenryLeNain (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717303929892241409-4-1676216709 - Holdem no limit (15/30) - 2023/02/12 15:45:09 UTC
+Table: 'Expresso Nitro(632671623)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HenryLeNain (295)
+Seat 2: _SKR (20)
+Seat 3: -Swampy06- (585)
+*** ANTE/BLINDS ***
+HenryLeNain posts small blind 15
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [Ac Kd]
+*** PRE-FLOP *** 
+-Swampy06- folds
+HenryLeNain raises 40 to 60
+*** FLOP *** [Th Qh 9c]
+*** TURN *** [Th Qh 9c][8c]
+*** RIVER *** [Th Qh 9c 8c][4h]
+*** SHOW DOWN ***
+_SKR shows [Ac Kd] (High card : Ace)
+HenryLeNain shows [Jd 9s] (Straight Queen high)
+HenryLeNain collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Th Qh 9c 8c 4h]
+Seat 1: HenryLeNain (small blind) showed [Jd 9s] and won 80 with Straight Queen high
+Seat 2: _SKR (big blind) showed [Ac Kd] and lost with High card : Ace
+
+

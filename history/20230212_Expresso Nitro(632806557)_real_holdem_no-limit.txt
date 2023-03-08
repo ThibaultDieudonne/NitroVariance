@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717883467009359873-1-1676238765 - Holdem no limit (10/20) - 2023/02/12 21:52:45 UTC
+Table: 'Expresso Nitro(632806557)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Billyboy ced (300)
+Seat 3: GPS13 (300)
+*** ANTE/BLINDS ***
+GPS13 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s 4d]
+*** PRE-FLOP *** 
+Billyboy ced raises 280 to 300 and is all-in
+GPS13 folds
+_SKR folds
+Billyboy ced collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Billyboy ced (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717883467009359873-2-1676238783 - Holdem no limit (10/20) - 2023/02/12 21:53:03 UTC
+Table: 'Expresso Nitro(632806557)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Billyboy ced (330)
+Seat 3: GPS13 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Billyboy ced posts big blind 20
+Dealt to _SKR [Jc 7s]
+*** PRE-FLOP *** 
+GPS13 folds
+_SKR folds
+Billyboy ced collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Billyboy ced (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717883467009359873-3-1676238788 - Holdem no limit (10/20) - 2023/02/12 21:53:08 UTC
+Table: 'Expresso Nitro(632806557)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Billyboy ced (340)
+Seat 3: GPS13 (290)
+*** ANTE/BLINDS ***
+Billyboy ced posts small blind 10
+GPS13 posts big blind 20
+Dealt to _SKR [6c Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Billyboy ced raises 300 to 340 and is all-in
+GPS13 folds
+_SKR folds
+Billyboy ced collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 2: Billyboy ced (small blind) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717883467009359873-4-1676238807 - Holdem no limit (10/20) - 2023/02/12 21:53:27 UTC
+Table: 'Expresso Nitro(632806557)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (230)
+Seat 2: Billyboy ced (400)
+Seat 3: GPS13 (270)
+*** ANTE/BLINDS ***
+GPS13 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc Qs]
+*** PRE-FLOP *** 
+Billyboy ced folds
+GPS13 calls 10
+_SKR raises 210 to 230 and is all-in
+GPS13 folds
+_SKR collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 1: _SKR (big blind) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717883467009359873-5-1676238823 - Holdem no limit (15/30) - 2023/02/12 21:53:43 UTC
+Table: 'Expresso Nitro(632806557)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (250)
+Seat 2: Billyboy ced (400)
+Seat 3: GPS13 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Billyboy ced posts big blind 30
+Dealt to _SKR [8s Ac]
+*** PRE-FLOP *** 
+GPS13 raises 220 to 250 and is all-in
+_SKR calls 235 and is all-in
+Billyboy ced folds
+*** FLOP *** [Kc 4h 8d]
+*** TURN *** [Kc 4h 8d][6c]
+*** RIVER *** [Kc 4h 8d 6c][6h]
+*** SHOW DOWN ***
+_SKR shows [8s Ac] (Two pairs : 8 and 6)
+GPS13 shows [Kd Td] (Two pairs : Kings and 6)
+GPS13 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [Kc 4h 8d 6c 6h]
+Seat 1: _SKR (small blind) showed [8s Ac] and lost with Two pairs : 8 and 6
+Seat 3: GPS13 (button) showed [Kd Td] and won 530 with Two pairs : Kings and 6
+
+

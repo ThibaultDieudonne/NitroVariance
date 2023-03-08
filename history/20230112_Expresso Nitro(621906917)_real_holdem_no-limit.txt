@@ -1,0 +1,80 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671069869671186433-1-1673529605 - Holdem no limit (10/20) - 2023/01/12 13:20:05 UTC
+Table: 'Expresso Nitro(621906917)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Manueldp90 (300)
+Seat 2: _SKR (300)
+Seat 3: alkaponi (300)
+*** ANTE/BLINDS ***
+Manueldp90 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs 9c]
+*** PRE-FLOP *** 
+alkaponi folds
+Manueldp90 raises 280 to 300 and is all-in
+_SKR folds
+Manueldp90 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Manueldp90 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671069869671186433-2-1673529613 - Holdem no limit (10/20) - 2023/01/12 13:20:13 UTC
+Table: 'Expresso Nitro(621906917)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Manueldp90 (320)
+Seat 2: _SKR (280)
+Seat 3: alkaponi (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+alkaponi posts big blind 20
+Dealt to _SKR [Kc Qc]
+*** PRE-FLOP *** 
+Manueldp90 calls 20
+_SKR raises 260 to 280 and is all-in
+alkaponi calls 260
+Manueldp90 calls 260
+*** FLOP *** [5d 9c Tc]
+alkaponi bets 20 and is all-in
+Manueldp90 calls 20
+*** TURN *** [5d 9c Tc][6c]
+*** RIVER *** [5d 9c Tc 6c][4d]
+*** SHOW DOWN ***
+Manueldp90 shows [3c Js] (High card : Jack)
+_SKR shows [Kc Qc] (Flush King high)
+alkaponi shows [As 6h] (One pair : 6)
+alkaponi collected 40 from side pot 1
+_SKR collected 840 from main pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [5d 9c Tc 6c 4d]
+Seat 1: Manueldp90 (button) showed [3c Js] and lost with High card : Jack
+Seat 2: _SKR (small blind) showed [Kc Qc] and won 840 with Flush King high
+Seat 3: alkaponi (big blind) showed [As 6h] and won 40 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671069869671186433-3-1673529637 - Holdem no limit (10/20) - 2023/01/12 13:20:37 UTC
+Table: 'Expresso Nitro(621906917)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Manueldp90 (20)
+Seat 2: _SKR (840)
+Seat 3: alkaponi (40)
+*** ANTE/BLINDS ***
+alkaponi posts small blind 10
+Manueldp90 posts big blind 20 and is all-in
+Dealt to _SKR [Ah As]
+*** PRE-FLOP *** 
+_SKR raises 50 to 70
+alkaponi calls 30 and is all-in
+*** FLOP *** [Ts Jc Tc]
+*** TURN *** [Ts Jc Tc][5d]
+*** RIVER *** [Ts Jc Tc 5d][Ad]
+*** SHOW DOWN ***
+Manueldp90 shows [5h 2d] (Two pairs : Tens and 5)
+alkaponi shows [Qs Th] (Trips of Tens)
+_SKR shows [Ah As] (Full of Aces and Tens)
+_SKR collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [Ts Jc Tc 5d Ad]
+Seat 1: Manueldp90 (big blind) showed [5h 2d] and lost with Two pairs : Tens and 5
+Seat 2: _SKR (button) showed [Ah As] and won 130 with Full of Aces and Tens
+Seat 3: alkaponi (small blind) showed [Qs Th] and lost with Trips of Tens
+
+

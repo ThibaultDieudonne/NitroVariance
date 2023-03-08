@@ -1,0 +1,85 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671053243852783617-1-1673528743 - Holdem no limit (10/20) - 2023/01/12 13:05:43 UTC
+Table: 'Expresso Nitro(621903046)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TeddyL14 (300)
+Seat 2: _SKR (300)
+Seat 3: matusap (300)
+*** ANTE/BLINDS ***
+TeddyL14 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s Kh]
+*** PRE-FLOP *** 
+matusap folds
+TeddyL14 calls 10
+_SKR checks
+*** FLOP *** [7c Ah Jh]
+TeddyL14 bets 20
+_SKR folds
+TeddyL14 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7c Ah Jh]
+Seat 1: TeddyL14 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671053243852783617-2-1673528779 - Holdem no limit (10/20) - 2023/01/12 13:06:19 UTC
+Table: 'Expresso Nitro(621903046)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TeddyL14 (320)
+Seat 2: _SKR (280)
+Seat 3: matusap (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+matusap posts big blind 20
+Dealt to _SKR [Kd Kc]
+*** PRE-FLOP *** 
+TeddyL14 calls 20
+_SKR raises 40 to 60
+matusap calls 40
+TeddyL14 calls 40
+*** FLOP *** [9h 7d 5s]
+_SKR bets 90
+matusap folds
+TeddyL14 calls 90
+*** TURN *** [9h 7d 5s][8d]
+_SKR bets 130 and is all-in
+TeddyL14 calls 130
+*** RIVER *** [9h 7d 5s 8d][4d]
+*** SHOW DOWN ***
+TeddyL14 shows [7h Qd] (One pair : 7)
+_SKR shows [Kd Kc] (One pair : Kings)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9h 7d 5s 8d 4d]
+Seat 1: TeddyL14 (button) showed [7h Qd] and lost with One pair : 7
+Seat 2: _SKR (small blind) showed [Kd Kc] and won 620 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671053243852783617-3-1673528850 - Holdem no limit (15/30) - 2023/01/12 13:07:30 UTC
+Table: 'Expresso Nitro(621903046)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TeddyL14 (40)
+Seat 2: _SKR (620)
+Seat 3: matusap (240)
+*** ANTE/BLINDS ***
+matusap posts small blind 15
+TeddyL14 posts big blind 30
+Dealt to _SKR [Qs 9d]
+*** PRE-FLOP *** 
+_SKR raises 590 to 620 and is all-in
+matusap calls 225 and is all-in
+TeddyL14 calls 10 and is all-in
+*** FLOP *** [Kd 6s 9s]
+*** TURN *** [Kd 6s 9s][Ks]
+*** RIVER *** [Kd 6s 9s Ks][6d]
+*** SHOW DOWN ***
+TeddyL14 shows [Ts 5d] (Two pairs : Kings and 6)
+matusap shows [Qd Ah] (Two pairs : Kings and 6)
+_SKR shows [Qs 9d] (Two pairs : Kings and 9)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd 6s 9s Ks 6d]
+Seat 1: TeddyL14 (big blind) showed [Ts 5d] and lost with Two pairs : Kings and 6
+Seat 2: _SKR (button) showed [Qs 9d] and won 900 with Two pairs : Kings and 9
+Seat 3: matusap (small blind) showed [Qd Ah] and lost with Two pairs : Kings and 6
+
+

@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697294720937230337-1-1675116650 - Holdem no limit (10/20) - 2023/01/30 22:10:50 UTC
+Table: 'Expresso Nitro(628012866)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Sach76300 (300)
+Seat 3: Monshi1 (300)
+*** ANTE/BLINDS ***
+Sach76300 posts small blind 10
+Monshi1 posts big blind 20
+Dealt to _SKR [6c Td]
+*** PRE-FLOP *** 
+_SKR folds
+Sach76300 raises 40 to 60
+Monshi1 raises 240 to 300 and is all-in
+Sach76300 calls 240 and is all-in
+*** FLOP *** [Ac 3h 4h]
+*** TURN *** [Ac 3h 4h][Kh]
+*** RIVER *** [Ac 3h 4h Kh][7h]
+*** SHOW DOWN ***
+Monshi1 shows [Th Qh] (Flush King high)
+Sach76300 shows [As Ah] (Flush Ace high)
+Sach76300 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ac 3h 4h Kh 7h]
+Seat 2: Sach76300 (small blind) showed [As Ah] and won 600 with Flush Ace high
+Seat 3: Monshi1 (big blind) showed [Th Qh] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697294720937230337-2-1675116667 - Holdem no limit (10/20) - 2023/01/30 22:11:07 UTC
+Table: 'Expresso Nitro(628012866)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Sach76300 (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Sach76300 posts big blind 20
+Dealt to _SKR [7h Ac]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Sach76300 calls 280
+*** FLOP *** [Tc 4h Jd]
+*** TURN *** [Tc 4h Jd][Jh]
+*** RIVER *** [Tc 4h Jd Jh][Qs]
+*** SHOW DOWN ***
+_SKR shows [7h Ac] (One pair : Jacks)
+Sach76300 shows [Jc Td] (Full of Jacks and Tens)
+Sach76300 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Tc 4h Jd Jh Qs]
+Seat 1: _SKR (small blind) (button) showed [7h Ac] and lost with One pair : Jacks
+Seat 2: Sach76300 (big blind) showed [Jc Td] and won 600 with Full of Jacks and Tens
+
+

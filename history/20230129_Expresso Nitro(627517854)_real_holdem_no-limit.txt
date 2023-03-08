@@ -1,0 +1,65 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695168660586102785-1-1674997693 - Holdem no limit (10/20) - 2023/01/29 13:08:13 UTC
+Table: 'Expresso Nitro(627517854)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kariello (300)
+Seat 2: _SKR (300)
+Seat 3: SiLkiii (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+SiLkiii posts big blind 20
+Dealt to _SKR [5s 9c]
+*** PRE-FLOP *** 
+Kariello raises 30 to 50
+_SKR folds
+SiLkiii folds
+Kariello collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: Kariello (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695168660586102785-2-1674997713 - Holdem no limit (10/20) - 2023/01/29 13:08:33 UTC
+Table: 'Expresso Nitro(627517854)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kariello (330)
+Seat 2: _SKR (290)
+Seat 3: SiLkiii (280)
+*** ANTE/BLINDS ***
+SiLkiii posts small blind 10
+Kariello posts big blind 20
+Dealt to _SKR [9h 5h]
+*** PRE-FLOP *** 
+_SKR folds
+SiLkiii folds
+Kariello collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Kariello (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695168660586102785-3-1674997737 - Holdem no limit (10/20) - 2023/01/29 13:08:57 UTC
+Table: 'Expresso Nitro(627517854)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kariello (340)
+Seat 2: _SKR (290)
+Seat 3: SiLkiii (270)
+*** ANTE/BLINDS ***
+Kariello posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td Kh]
+*** PRE-FLOP *** 
+SiLkiii folds
+Kariello raises 40 to 60
+_SKR raises 230 to 290 and is all-in
+Kariello calls 230
+*** FLOP *** [As 9s 7d]
+*** TURN *** [As 9s 7d][5d]
+*** RIVER *** [As 9s 7d 5d][6s]
+*** SHOW DOWN ***
+_SKR shows [Td Kh] (High card : Ace)
+Kariello shows [Ah 4d] (One pair : Aces)
+Kariello collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [As 9s 7d 5d 6s]
+Seat 1: Kariello (small blind) showed [Ah 4d] and won 580 with One pair : Aces
+Seat 2: _SKR (big blind) showed [Td Kh] and lost with High card : Ace
+
+

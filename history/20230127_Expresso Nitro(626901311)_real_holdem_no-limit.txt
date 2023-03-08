@@ -1,0 +1,299 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692520628564525057-1-1674828674 - Holdem no limit (10/20) - 2023/01/27 14:11:14 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fredinked (300)
+Seat 2: _SKR (300)
+Seat 3: Kboum (300)
+*** ANTE/BLINDS ***
+Fredinked posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc Kc]
+*** PRE-FLOP *** 
+Kboum raises 280 to 300 and is all-in
+Fredinked calls 290 and is all-in
+_SKR folds
+*** FLOP *** [2h 3s 5h]
+*** TURN *** [2h 3s 5h][Ah]
+*** RIVER *** [2h 3s 5h Ah][9c]
+*** SHOW DOWN ***
+Kboum shows [Qs Td] (High card : Ace)
+Fredinked shows [As Qd] (One pair : Aces)
+Fredinked collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [2h 3s 5h Ah 9c]
+Seat 1: Fredinked (small blind) showed [As Qd] and won 620 with One pair : Aces
+Seat 3: Kboum (button) showed [Qs Td] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692520628564525057-2-1674828695 - Holdem no limit (10/20) - 2023/01/27 14:11:35 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Fredinked (620)
+Seat 2: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Fredinked posts big blind 20
+Dealt to _SKR [4h 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Fredinked collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Fredinked (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692520628564525057-3-1674828704 - Holdem no limit (10/20) - 2023/01/27 14:11:44 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fredinked (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+Fredinked posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h 5d]
+*** PRE-FLOP *** 
+Fredinked calls 10
+_SKR checks
+*** FLOP *** [Ts Qs Jh]
+_SKR checks
+Fredinked checks
+*** TURN *** [Ts Qs Jh][2h]
+_SKR checks
+Fredinked checks
+*** RIVER *** [Ts Qs Jh 2h][8c]
+_SKR checks
+Fredinked checks
+*** SHOW DOWN ***
+_SKR shows [4h 5d] (High card : Queen)
+Fredinked shows [6s Js] (One pair : Jacks)
+Fredinked collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ts Qs Jh 2h 8c]
+Seat 1: Fredinked (small blind) (button) showed [6s Js] and won 40 with One pair : Jacks
+Seat 2: _SKR (big blind) showed [4h 5d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692520628564525057-4-1674828729 - Holdem no limit (10/20) - 2023/01/27 14:12:09 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Fredinked (650)
+Seat 2: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Fredinked posts big blind 20
+Dealt to _SKR [Ad Ac]
+*** PRE-FLOP *** 
+_SKR calls 10
+Fredinked checks
+*** FLOP *** [Js 6s 3h]
+Fredinked checks
+_SKR bets 20
+Fredinked calls 20
+*** TURN *** [Js 6s 3h][9h]
+Fredinked checks
+_SKR bets 40
+Fredinked calls 40
+*** RIVER *** [Js 6s 3h 9h][7s]
+Fredinked checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Ad Ac] (One pair : Aces)
+Fredinked shows [6h Jh] (Two pairs : Jacks and 6)
+Fredinked collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Js 6s 3h 9h 7s]
+Seat 1: Fredinked (big blind) showed [6h Jh] and won 160 with Two pairs : Jacks and 6
+Seat 2: _SKR (small blind) (button) showed [Ad Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692520628564525057-5-1674828761 - Holdem no limit (15/30) - 2023/01/27 14:12:41 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fredinked (730)
+Seat 2: _SKR (170)
+*** ANTE/BLINDS ***
+Fredinked posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8s 7d]
+*** PRE-FLOP *** 
+Fredinked calls 15
+_SKR checks
+*** FLOP *** [Ks 9c 2c]
+_SKR checks
+Fredinked checks
+*** TURN *** [Ks 9c 2c][4h]
+_SKR checks
+Fredinked checks
+*** RIVER *** [Ks 9c 2c 4h][Tc]
+_SKR checks
+Fredinked checks
+*** SHOW DOWN ***
+_SKR shows [8s 7d] (High card : King)
+Fredinked shows [Jc 8d] (High card : King)
+Fredinked collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ks 9c 2c 4h Tc]
+Seat 1: Fredinked (small blind) (button) showed [Jc 8d] and won 60 with High card : King
+Seat 2: _SKR (big blind) showed [8s 7d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692520628564525057-6-1674828800 - Holdem no limit (20/40) - 2023/01/27 14:13:20 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Fredinked (760)
+Seat 2: _SKR (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Fredinked posts big blind 40
+Dealt to _SKR [Qs 5s]
+*** PRE-FLOP *** 
+_SKR raises 100 to 140 and is all-in
+Fredinked calls 100
+*** FLOP *** [8c 6h Kc]
+*** TURN *** [8c 6h Kc][3s]
+*** RIVER *** [8c 6h Kc 3s][Jh]
+*** SHOW DOWN ***
+Fredinked shows [7d 9c] (High card : King)
+_SKR shows [Qs 5s] (High card : King)
+_SKR collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [8c 6h Kc 3s Jh]
+Seat 1: Fredinked (big blind) showed [7d 9c] and lost with High card : King
+Seat 2: _SKR (small blind) (button) showed [Qs 5s] and won 280 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692520628564525057-7-1674828817 - Holdem no limit (20/40) - 2023/01/27 14:13:37 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fredinked (620)
+Seat 2: _SKR (280)
+*** ANTE/BLINDS ***
+Fredinked posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh 5c]
+*** PRE-FLOP *** 
+Fredinked calls 20
+_SKR checks
+*** FLOP *** [8d Qh Ks]
+_SKR checks
+Fredinked bets 40
+_SKR folds
+Fredinked collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8d Qh Ks]
+Seat 1: Fredinked (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692520628564525057-8-1674828830 - Holdem no limit (20/40) - 2023/01/27 14:13:50 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Fredinked (660)
+Seat 2: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Fredinked posts big blind 40
+Dealt to _SKR [3d 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Fredinked collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Fredinked (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692520628564525057-9-1674828833 - Holdem no limit (20/40) - 2023/01/27 14:13:53 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fredinked (680)
+Seat 2: _SKR (220)
+*** ANTE/BLINDS ***
+Fredinked posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s 2d]
+*** PRE-FLOP *** 
+Fredinked calls 20
+_SKR checks
+*** FLOP *** [Kd Td 7h]
+_SKR checks
+Fredinked checks
+*** TURN *** [Kd Td 7h][6d]
+_SKR checks
+Fredinked checks
+*** RIVER *** [Kd Td 7h 6d][Qd]
+_SKR checks
+Fredinked checks
+*** SHOW DOWN ***
+Fredinked shows [8c 4h] (High card : King)
+_SKR shows [4s 2d] (Flush King high)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kd Td 7h 6d Qd]
+Seat 1: Fredinked (small blind) (button) showed [8c 4h] and lost with High card : King
+Seat 2: _SKR (big blind) showed [4s 2d] and won 80 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692520628564525057-10-1674828864 - Holdem no limit (30/60) - 2023/01/27 14:14:24 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Fredinked (640)
+Seat 2: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Fredinked posts big blind 60
+Dealt to _SKR [8d 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Fredinked collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Fredinked (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692520628564525057-11-1674828868 - Holdem no limit (30/60) - 2023/01/27 14:14:28 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fredinked (670)
+Seat 2: _SKR (230)
+*** ANTE/BLINDS ***
+Fredinked posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2h Ks]
+*** PRE-FLOP *** 
+Fredinked calls 30
+_SKR raises 170 to 230 and is all-in
+Fredinked calls 170
+*** FLOP *** [2s Ad As]
+*** TURN *** [2s Ad As][6s]
+*** RIVER *** [2s Ad As 6s][Kh]
+*** SHOW DOWN ***
+Fredinked shows [9h 3h] (One pair : Aces)
+_SKR shows [2h Ks] (Two pairs : Aces and Kings)
+_SKR collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [2s Ad As 6s Kh]
+Seat 1: Fredinked (small blind) (button) showed [9h 3h] and lost with One pair : Aces
+Seat 2: _SKR (big blind) showed [2h Ks] and won 460 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692520628564525057-12-1674828883 - Holdem no limit (30/60) - 2023/01/27 14:14:43 UTC
+Table: 'Expresso Nitro(626901311)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Fredinked (440)
+Seat 2: _SKR (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Fredinked posts big blind 60
+Dealt to _SKR [7d 7s]
+*** PRE-FLOP *** 
+_SKR raises 400 to 460 and is all-in
+Fredinked calls 380 and is all-in
+*** FLOP *** [Jh 2c Kc]
+*** TURN *** [Jh 2c Kc][Jc]
+*** RIVER *** [Jh 2c Kc Jc][Qh]
+*** SHOW DOWN ***
+Fredinked shows [9s 8d] (One pair : Jacks)
+_SKR shows [7d 7s] (Two pairs : Jacks and 7)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh 2c Kc Jc Qh]
+Seat 1: Fredinked (big blind) showed [9s 8d] and lost with One pair : Jacks
+Seat 2: _SKR (small blind) (button) showed [7d 7s] and won 900 with Two pairs : Jacks and 7
+
+

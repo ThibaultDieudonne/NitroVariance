@@ -1,0 +1,30 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698268682081009665-1-1675188178 - Holdem no limit (10/20) - 2023/01/31 18:02:58 UTC
+Table: 'Expresso Nitro(628239634)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Karim bedda (300)
+Seat 2: _SKR (300)
+Seat 3: Cerf.Sage693 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cerf.Sage693 posts big blind 20
+Dealt to _SKR [4h 4d]
+*** PRE-FLOP *** 
+Karim bedda calls 20
+_SKR raises 280 to 300 and is all-in
+Cerf.Sage693 calls 280 and is all-in
+Karim bedda calls 280 and is all-in
+*** FLOP *** [Kd 8h 3c]
+*** TURN *** [Kd 8h 3c][6c]
+*** RIVER *** [Kd 8h 3c 6c][2s]
+*** SHOW DOWN ***
+Karim bedda shows [Qd Ah] (High card : Ace)
+_SKR shows [4h 4d] (One pair : 4)
+Cerf.Sage693 shows [Js 8d] (One pair : 8)
+Cerf.Sage693 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd 8h 3c 6c 2s]
+Seat 1: Karim bedda (button) showed [Qd Ah] and lost with High card : Ace
+Seat 2: _SKR (small blind) showed [4h 4d] and lost with One pair : 4
+Seat 3: Cerf.Sage693 (big blind) showed [Js 8d] and won 900 with One pair : 8
+
+

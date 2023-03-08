@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676961345030586369-1-1673870436 - Holdem no limit (10/20) - 2023/01/16 12:00:36 UTC
+Table: 'Expresso Nitro(623278633)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Barakacards (300)
+Seat 2: Whateverbro (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Whateverbro posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7h 3s]
+*** PRE-FLOP *** 
+Barakacards raises 30 to 50
+Whateverbro calls 40
+_SKR folds
+*** FLOP *** [4h Qc 9s]
+Whateverbro checks
+Barakacards checks
+*** TURN *** [4h Qc 9s][9h]
+Whateverbro checks
+Barakacards checks
+*** RIVER *** [4h Qc 9s 9h][3c]
+Whateverbro checks
+Barakacards checks
+*** SHOW DOWN ***
+Whateverbro shows [Jh 6c] (One pair : 9)
+Barakacards shows [Ac 8c] (One pair : 9)
+Barakacards collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4h Qc 9s 9h 3c]
+Seat 1: Barakacards (button) showed [Ac 8c] and won 120 with One pair : 9
+Seat 2: Whateverbro (small blind) showed [Jh 6c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676961345030586369-2-1673870463 - Holdem no limit (10/20) - 2023/01/16 12:01:03 UTC
+Table: 'Expresso Nitro(623278633)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Barakacards (370)
+Seat 2: Whateverbro (250)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Barakacards posts big blind 20
+Dealt to _SKR [Ts Qh]
+*** PRE-FLOP *** 
+Whateverbro raises 50 to 70
+_SKR folds
+Barakacards folds
+Whateverbro collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: Whateverbro (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676961345030586369-3-1673870473 - Holdem no limit (10/20) - 2023/01/16 12:01:13 UTC
+Table: 'Expresso Nitro(623278633)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Barakacards (350)
+Seat 2: Whateverbro (280)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Barakacards posts small blind 10
+Whateverbro posts big blind 20
+Dealt to _SKR [2d 2s]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Barakacards folds
+Whateverbro calls 250
+*** FLOP *** [Qh 9h Kh]
+*** TURN *** [Qh 9h Kh][4h]
+*** RIVER *** [Qh 9h Kh 4h][As]
+*** SHOW DOWN ***
+_SKR shows [2d 2s] (One pair : 2)
+Whateverbro shows [Ac Qd] (Two pairs : Aces and Queens)
+Whateverbro collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Qh 9h Kh 4h As]
+Seat 2: Whateverbro (big blind) showed [Ac Qd] and won 550 with Two pairs : Aces and Queens
+Seat 3: _SKR (button) showed [2d 2s] and lost with One pair : 2
+
+

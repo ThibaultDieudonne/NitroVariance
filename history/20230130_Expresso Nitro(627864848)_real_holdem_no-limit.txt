@@ -1,0 +1,400 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696658988468011009-1-1675092093 - Holdem no limit (10/20) - 2023/01/30 15:21:33 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 1: slimshott93 (300)
+Seat 2: _SKR (300)
+Seat 3: YUCK FOU 73 (300)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 10
+slimshott93 posts big blind 20
+Dealt to _SKR [4c Kd]
+*** PRE-FLOP *** 
+_SKR folds
+YUCK FOU 73 raises 20 to 40
+slimshott93 calls 20
+*** FLOP *** [2h 4s 3h]
+YUCK FOU 73 bets 30
+slimshott93 calls 30
+*** TURN *** [2h 4s 3h][6h]
+YUCK FOU 73 checks
+slimshott93 checks
+*** RIVER *** [2h 4s 3h 6h][Ad]
+YUCK FOU 73 bets 60
+slimshott93 raises 170 to 230 and is all-in
+YUCK FOU 73 calls 170 and is all-in
+*** SHOW DOWN ***
+slimshott93 shows [9h Qh] (Flush Queen high)
+YUCK FOU 73 shows [Th Kh] (Flush King high)
+YUCK FOU 73 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [2h 4s 3h 6h Ad]
+Seat 1: slimshott93 (big blind) showed [9h Qh] and lost with Flush Queen high
+Seat 3: YUCK FOU 73 (small blind) showed [Th Kh] and won 600 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696658988468011009-2-1675092126 - Holdem no limit (10/20) - 2023/01/30 15:22:06 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (300)
+Seat 3: YUCK FOU 73 (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+YUCK FOU 73 posts big blind 20
+Dealt to _SKR [Qs Qd]
+*** PRE-FLOP *** 
+_SKR raises 25 to 45
+YUCK FOU 73 folds
+_SKR collected 65 from pot
+*** SUMMARY ***
+Total pot 65 | No rake
+Seat 2: _SKR (small blind) (button) won 65
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696658988468011009-3-1675092135 - Holdem no limit (10/20) - 2023/01/30 15:22:15 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (320)
+Seat 3: YUCK FOU 73 (580)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks Jd]
+*** PRE-FLOP *** 
+YUCK FOU 73 calls 10
+_SKR raises 300 to 320 and is all-in
+YUCK FOU 73 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696658988468011009-4-1675092146 - Holdem no limit (10/20) - 2023/01/30 15:22:26 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (340)
+Seat 3: YUCK FOU 73 (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+YUCK FOU 73 posts big blind 20
+Dealt to _SKR [8h 8c]
+*** PRE-FLOP *** 
+_SKR raises 320 to 340 and is all-in
+YUCK FOU 73 calls 320
+*** FLOP *** [4h 2d 4d]
+*** TURN *** [4h 2d 4d][8d]
+*** RIVER *** [4h 2d 4d 8d][4s]
+*** SHOW DOWN ***
+YUCK FOU 73 shows [Ks 7s] (Trips of 4)
+_SKR shows [8h 8c] (Full of 8 and 4)
+_SKR collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [4h 2d 4d 8d 4s]
+Seat 2: _SKR (small blind) (button) showed [8h 8c] and won 680 with Full of 8 and 4
+Seat 3: YUCK FOU 73 (big blind) showed [Ks 7s] and lost with Trips of 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696658988468011009-5-1675092161 - Holdem no limit (15/30) - 2023/01/30 15:22:41 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (680)
+Seat 3: YUCK FOU 73 (220)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5h Ah]
+*** PRE-FLOP *** 
+YUCK FOU 73 raises 190 to 220 and is all-in
+_SKR calls 190
+*** FLOP *** [7d Qh Ts]
+*** TURN *** [7d Qh Ts][3c]
+*** RIVER *** [7d Qh Ts 3c][Jd]
+*** SHOW DOWN ***
+_SKR shows [5h Ah] (High card : Ace)
+YUCK FOU 73 shows [9h Kh] (Straight King high)
+YUCK FOU 73 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [7d Qh Ts 3c Jd]
+Seat 2: _SKR (big blind) showed [5h Ah] and lost with High card : Ace
+Seat 3: YUCK FOU 73 (small blind) (button) showed [9h Kh] and won 440 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696658988468011009-6-1675092179 - Holdem no limit (15/30) - 2023/01/30 15:22:59 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (460)
+Seat 3: YUCK FOU 73 (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+YUCK FOU 73 posts big blind 30
+Dealt to _SKR [Ah 5s]
+*** PRE-FLOP *** 
+_SKR raises 430 to 460 and is all-in
+YUCK FOU 73 folds
+_SKR collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Seat 2: _SKR (small blind) (button) won 490
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696658988468011009-7-1675092185 - Holdem no limit (15/30) - 2023/01/30 15:23:05 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (490)
+Seat 3: YUCK FOU 73 (410)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jh Kc]
+*** PRE-FLOP *** 
+YUCK FOU 73 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696658988468011009-8-1675092189 - Holdem no limit (15/30) - 2023/01/30 15:23:09 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (505)
+Seat 3: YUCK FOU 73 (395)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+YUCK FOU 73 posts big blind 30
+Dealt to _SKR [9d Ac]
+*** PRE-FLOP *** 
+_SKR raises 475 to 505 and is all-in
+YUCK FOU 73 folds
+_SKR collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Seat 2: _SKR (small blind) (button) won 535
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696658988468011009-9-1675092195 - Holdem no limit (15/30) - 2023/01/30 15:23:15 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (535)
+Seat 3: YUCK FOU 73 (365)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh 7d]
+*** PRE-FLOP *** 
+YUCK FOU 73 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696658988468011009-10-1675092199 - Holdem no limit (15/30) - 2023/01/30 15:23:19 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (550)
+Seat 3: YUCK FOU 73 (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+YUCK FOU 73 posts big blind 30
+Dealt to _SKR [3s Ts]
+*** PRE-FLOP *** 
+_SKR folds
+YUCK FOU 73 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: YUCK FOU 73 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696658988468011009-11-1675092206 - Holdem no limit (15/30) - 2023/01/30 15:23:26 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (535)
+Seat 3: YUCK FOU 73 (365)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 4c]
+*** PRE-FLOP *** 
+YUCK FOU 73 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696658988468011009-12-1675092210 - Holdem no limit (20/40) - 2023/01/30 15:23:30 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (550)
+Seat 3: YUCK FOU 73 (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+YUCK FOU 73 posts big blind 40
+Dealt to _SKR [Ks Tc]
+*** PRE-FLOP *** 
+_SKR raises 510 to 550 and is all-in
+YUCK FOU 73 folds
+_SKR collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 2: _SKR (small blind) (button) won 590
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696658988468011009-13-1675092218 - Holdem no limit (20/40) - 2023/01/30 15:23:38 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (590)
+Seat 3: YUCK FOU 73 (310)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac 9c]
+*** PRE-FLOP *** 
+YUCK FOU 73 raises 270 to 310 and is all-in
+_SKR calls 270
+*** FLOP *** [Qs 4s Kd]
+*** TURN *** [Qs 4s Kd][Ah]
+*** RIVER *** [Qs 4s Kd Ah][2s]
+*** SHOW DOWN ***
+_SKR shows [Ac 9c] (One pair : Aces)
+YUCK FOU 73 shows [5s 7s] (Flush Queen high)
+YUCK FOU 73 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qs 4s Kd Ah 2s]
+Seat 2: _SKR (big blind) showed [Ac 9c] and lost with One pair : Aces
+Seat 3: YUCK FOU 73 (small blind) (button) showed [5s 7s] and won 620 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696658988468011009-14-1675092230 - Holdem no limit (20/40) - 2023/01/30 15:23:50 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (280)
+Seat 3: YUCK FOU 73 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+YUCK FOU 73 posts big blind 40
+Dealt to _SKR [6h 7d]
+*** PRE-FLOP *** 
+_SKR folds
+YUCK FOU 73 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: YUCK FOU 73 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696658988468011009-15-1675092240 - Holdem no limit (20/40) - 2023/01/30 15:24:00 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (260)
+Seat 3: YUCK FOU 73 (640)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3s 5h]
+*** PRE-FLOP *** 
+YUCK FOU 73 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696658988468011009-16-1675092248 - Holdem no limit (20/40) - 2023/01/30 15:24:08 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (280)
+Seat 3: YUCK FOU 73 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+YUCK FOU 73 posts big blind 40
+Dealt to _SKR [Jc Kh]
+*** PRE-FLOP *** 
+_SKR raises 240 to 280 and is all-in
+YUCK FOU 73 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696658988468011009-17-1675092257 - Holdem no limit (20/40) - 2023/01/30 15:24:17 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (320)
+Seat 3: YUCK FOU 73 (580)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3s Jh]
+*** PRE-FLOP *** 
+YUCK FOU 73 raises 540 to 580 and is all-in
+_SKR folds
+YUCK FOU 73 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 3: YUCK FOU 73 (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696658988468011009-18-1675092262 - Holdem no limit (20/40) - 2023/01/30 15:24:22 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (280)
+Seat 3: YUCK FOU 73 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+YUCK FOU 73 posts big blind 40
+Dealt to _SKR [3d 9c]
+*** PRE-FLOP *** 
+_SKR folds
+YUCK FOU 73 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: YUCK FOU 73 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696658988468011009-19-1675092266 - Holdem no limit (20/40) - 2023/01/30 15:24:26 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (260)
+Seat 3: YUCK FOU 73 (640)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6s 3c]
+*** PRE-FLOP *** 
+YUCK FOU 73 raises 600 to 640 and is all-in
+_SKR folds
+YUCK FOU 73 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 3: YUCK FOU 73 (small blind) (button) won 680
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696658988468011009-20-1675092281 - Holdem no limit (30/60) - 2023/01/30 15:24:41 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (220)
+Seat 3: YUCK FOU 73 (680)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+YUCK FOU 73 posts big blind 60
+Dealt to _SKR [Js 2s]
+*** PRE-FLOP *** 
+_SKR raises 160 to 220 and is all-in
+YUCK FOU 73 folds
+_SKR collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: _SKR (small blind) (button) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696658988468011009-21-1675092294 - Holdem no limit (30/60) - 2023/01/30 15:24:54 UTC
+Table: 'Expresso Nitro(627864848)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (280)
+Seat 3: YUCK FOU 73 (620)
+*** ANTE/BLINDS ***
+YUCK FOU 73 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5s Ah]
+*** PRE-FLOP *** 
+YUCK FOU 73 raises 560 to 620 and is all-in
+_SKR calls 220 and is all-in
+*** FLOP *** [Td 5h Jd]
+*** TURN *** [Td 5h Jd][2h]
+*** RIVER *** [Td 5h Jd 2h][4h]
+*** SHOW DOWN ***
+_SKR shows [5s Ah] (One pair : 5)
+YUCK FOU 73 shows [Jc 3d] (One pair : Jacks)
+YUCK FOU 73 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td 5h Jd 2h 4h]
+Seat 2: _SKR (big blind) showed [5s Ah] and lost with One pair : 5
+Seat 3: YUCK FOU 73 (small blind) (button) showed [Jc 3d] and won 900 with One pair : Jacks
+
+

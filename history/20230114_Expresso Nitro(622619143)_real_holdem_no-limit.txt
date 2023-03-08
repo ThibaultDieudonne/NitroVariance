@@ -1,0 +1,405 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674128857048547329-1-1673702451 - Holdem no limit (10/20) - 2023/01/14 13:20:51 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jojobear (300)
+Seat 2: _SKR (300)
+Seat 3: Danzo.2k (300)
+*** ANTE/BLINDS ***
+Danzo.2k posts small blind 10
+jojobear posts big blind 20
+Dealt to _SKR [9s 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Danzo.2k folds
+jojobear collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: jojobear (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674128857048547329-2-1673702457 - Holdem no limit (10/20) - 2023/01/14 13:20:57 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jojobear (310)
+Seat 2: _SKR (300)
+Seat 3: Danzo.2k (290)
+*** ANTE/BLINDS ***
+jojobear posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 6h]
+*** PRE-FLOP *** 
+Danzo.2k calls 20
+jojobear calls 10
+_SKR checks
+*** FLOP *** [8h 2d 3h]
+jojobear checks
+_SKR checks
+Danzo.2k checks
+*** TURN *** [8h 2d 3h][Jc]
+jojobear checks
+_SKR bets 39
+Danzo.2k folds
+jojobear calls 39
+*** RIVER *** [8h 2d 3h Jc][9s]
+jojobear checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Js 6h] (One pair : Jacks)
+jojobear shows [8c Jd] (Two pairs : Jacks and 8)
+jojobear collected 138 from pot
+*** SUMMARY ***
+Total pot 138 | No rake
+Board: [8h 2d 3h Jc 9s]
+Seat 1: jojobear (small blind) showed [8c Jd] and won 138 with Two pairs : Jacks and 8
+Seat 2: _SKR (big blind) showed [Js 6h] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674128857048547329-3-1673702501 - Holdem no limit (10/20) - 2023/01/14 13:21:41 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jojobear (389)
+Seat 2: _SKR (241)
+Seat 3: Danzo.2k (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Danzo.2k posts big blind 20
+Dealt to _SKR [Ks 9d]
+*** PRE-FLOP *** 
+jojobear folds
+_SKR raises 221 to 241 and is all-in
+Danzo.2k calls 221
+*** FLOP *** [Ts 8d Kd]
+*** TURN *** [Ts 8d Kd][Js]
+*** RIVER *** [Ts 8d Kd Js][3d]
+*** SHOW DOWN ***
+Danzo.2k shows [9c Ah] (High card : Ace)
+_SKR shows [Ks 9d] (One pair : Kings)
+_SKR collected 482 from pot
+*** SUMMARY ***
+Total pot 482 | No rake
+Board: [Ts 8d Kd Js 3d]
+Seat 2: _SKR (small blind) showed [Ks 9d] and won 482 with One pair : Kings
+Seat 3: Danzo.2k (big blind) showed [9c Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674128857048547329-4-1673702517 - Holdem no limit (15/30) - 2023/01/14 13:21:57 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jojobear (389)
+Seat 2: _SKR (482)
+Seat 3: Danzo.2k (29)
+*** ANTE/BLINDS ***
+Danzo.2k posts small blind 15
+jojobear posts big blind 30
+Dealt to _SKR [9s Ts]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+Danzo.2k calls 14 and is all-in
+jojobear calls 30
+*** FLOP *** [3c Jc Qc]
+jojobear checks
+_SKR checks
+*** TURN *** [3c Jc Qc][Td]
+jojobear checks
+_SKR checks
+*** RIVER *** [3c Jc Qc Td][9d]
+jojobear bets 52
+_SKR folds
+*** SHOW DOWN ***
+Danzo.2k shows [5h 4h] (High card : Queen)
+jojobear shows [Tc Ks] (Straight King high)
+jojobear collected 201 from pot
+*** SUMMARY ***
+Total pot 201 | No rake
+Board: [3c Jc Qc Td 9d]
+Seat 1: jojobear (big blind) showed [Tc Ks] and won 201 with Straight King high
+Seat 3: Danzo.2k (small blind) showed [5h 4h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674128857048547329-5-1673702545 - Holdem no limit (15/30) - 2023/01/14 13:22:25 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jojobear (478)
+Seat 2: _SKR (422)
+*** ANTE/BLINDS ***
+jojobear posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8d Kc]
+*** PRE-FLOP *** 
+jojobear calls 15
+_SKR raises 30 to 60
+jojobear calls 30
+*** FLOP *** [2h 3s 6h]
+_SKR bets 60
+jojobear calls 60
+*** TURN *** [2h 3s 6h][7c]
+_SKR checks
+jojobear checks
+*** RIVER *** [2h 3s 6h 7c][8s]
+_SKR checks
+jojobear checks
+*** SHOW DOWN ***
+jojobear shows [Qh 9d] (High card : Queen)
+_SKR shows [8d Kc] (One pair : 8)
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [2h 3s 6h 7c 8s]
+Seat 1: jojobear (small blind) (button) showed [Qh 9d] and lost with High card : Queen
+Seat 2: _SKR (big blind) showed [8d Kc] and won 240 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674128857048547329-6-1673702574 - Holdem no limit (20/40) - 2023/01/14 13:22:54 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jojobear (358)
+Seat 2: _SKR (542)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+jojobear posts big blind 40
+Dealt to _SKR [5h 5s]
+*** PRE-FLOP *** 
+_SKR raises 502 to 542 and is all-in
+jojobear folds
+_SKR collected 582 from pot
+*** SUMMARY ***
+Total pot 582 | No rake
+Seat 2: _SKR (small blind) (button) won 582
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674128857048547329-7-1673702581 - Holdem no limit (20/40) - 2023/01/14 13:23:01 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jojobear (318)
+Seat 2: _SKR (582)
+*** ANTE/BLINDS ***
+jojobear posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd 2s]
+*** PRE-FLOP *** 
+jojobear calls 20
+_SKR checks
+*** FLOP *** [2c 8d 3s]
+_SKR checks
+jojobear checks
+*** TURN *** [2c 8d 3s][Qc]
+_SKR checks
+jojobear checks
+*** RIVER *** [2c 8d 3s Qc][6c]
+_SKR checks
+jojobear checks
+*** SHOW DOWN ***
+_SKR shows [Jd 2s] (One pair : 2)
+jojobear shows [Kh 6h] (One pair : 6)
+jojobear collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2c 8d 3s Qc 6c]
+Seat 1: jojobear (small blind) (button) showed [Kh 6h] and won 80 with One pair : 6
+Seat 2: _SKR (big blind) showed [Jd 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674128857048547329-8-1673702605 - Holdem no limit (20/40) - 2023/01/14 13:23:25 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jojobear (358)
+Seat 2: _SKR (542)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+jojobear posts big blind 40
+Dealt to _SKR [3d 7h]
+*** PRE-FLOP *** 
+_SKR folds
+jojobear collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: jojobear (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674128857048547329-9-1673702608 - Holdem no limit (20/40) - 2023/01/14 13:23:28 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jojobear (378)
+Seat 2: _SKR (522)
+*** ANTE/BLINDS ***
+jojobear posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh 8h]
+*** PRE-FLOP *** 
+jojobear calls 20
+_SKR checks
+*** FLOP *** [4h Qh 8d]
+_SKR checks
+jojobear checks
+*** TURN *** [4h Qh 8d][3s]
+_SKR bets 64
+jojobear folds
+_SKR collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | No rake
+Board: [4h Qh 8d 3s]
+Seat 2: _SKR (big blind) won 144
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674128857048547329-10-1673702627 - Holdem no limit (30/60) - 2023/01/14 13:23:47 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jojobear (338)
+Seat 2: _SKR (562)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+jojobear posts big blind 60
+Dealt to _SKR [Tc 9s]
+*** PRE-FLOP *** 
+_SKR raises 502 to 562 and is all-in
+jojobear folds
+_SKR collected 622 from pot
+*** SUMMARY ***
+Total pot 622 | No rake
+Seat 2: _SKR (small blind) (button) won 622
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674128857048547329-11-1673702633 - Holdem no limit (30/60) - 2023/01/14 13:23:53 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jojobear (278)
+Seat 2: _SKR (622)
+*** ANTE/BLINDS ***
+jojobear posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jh Js]
+*** PRE-FLOP *** 
+jojobear calls 30
+_SKR raises 562 to 622 and is all-in
+jojobear calls 218 and is all-in
+*** FLOP *** [5s 4c 2h]
+*** TURN *** [5s 4c 2h][3c]
+*** RIVER *** [5s 4c 2h 3c][9d]
+*** SHOW DOWN ***
+jojobear shows [Kd Kc] (One pair : Kings)
+_SKR shows [Jh Js] (One pair : Jacks)
+_SKR collected 344 from side pot 1
+jojobear collected 556 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s 4c 2h 3c 9d]
+Seat 1: jojobear (small blind) (button) showed [Kd Kc] and won 556 with One pair : Kings
+Seat 2: _SKR (big blind) showed [Jh Js] and won 344 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674128857048547329-12-1673702652 - Holdem no limit (30/60) - 2023/01/14 13:24:12 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jojobear (556)
+Seat 2: _SKR (344)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+jojobear posts big blind 60
+Dealt to _SKR [Js 5s]
+*** PRE-FLOP *** 
+_SKR raises 284 to 344 and is all-in
+jojobear calls 284
+*** FLOP *** [Qh 7c 4s]
+*** TURN *** [Qh 7c 4s][Tc]
+*** RIVER *** [Qh 7c 4s Tc][5c]
+*** SHOW DOWN ***
+jojobear shows [9h As] (High card : Ace)
+_SKR shows [Js 5s] (One pair : 5)
+_SKR collected 688 from pot
+*** SUMMARY ***
+Total pot 688 | No rake
+Board: [Qh 7c 4s Tc 5c]
+Seat 1: jojobear (big blind) showed [9h As] and lost with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [Js 5s] and won 688 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674128857048547329-13-1673702666 - Holdem no limit (30/60) - 2023/01/14 13:24:26 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jojobear (212)
+Seat 2: _SKR (688)
+*** ANTE/BLINDS ***
+jojobear posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8d Ah]
+*** PRE-FLOP *** 
+jojobear calls 30
+_SKR raises 628 to 688 and is all-in
+jojobear calls 152 and is all-in
+*** FLOP *** [6c 4c Kc]
+*** TURN *** [6c 4c Kc][9s]
+*** RIVER *** [6c 4c Kc 9s][Th]
+*** SHOW DOWN ***
+jojobear shows [As Ac] (One pair : Aces)
+_SKR shows [8d Ah] (High card : Ace)
+_SKR collected 476 from side pot 1
+jojobear collected 424 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c 4c Kc 9s Th]
+Seat 1: jojobear (small blind) (button) showed [As Ac] and won 424 with One pair : Aces
+Seat 2: _SKR (big blind) showed [8d Ah] and won 476 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674128857048547329-14-1673702681 - Holdem no limit (30/60) - 2023/01/14 13:24:41 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jojobear (424)
+Seat 2: _SKR (476)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+jojobear posts big blind 60
+Dealt to _SKR [6s 4c]
+*** PRE-FLOP *** 
+_SKR folds
+jojobear collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: jojobear (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674128857048547329-15-1673702684 - Holdem no limit (30/60) - 2023/01/14 13:24:44 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jojobear (454)
+Seat 2: _SKR (446)
+*** ANTE/BLINDS ***
+jojobear posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kh 6d]
+*** PRE-FLOP *** 
+jojobear folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2674128857048547329-16-1673702689 - Holdem no limit (40/80) - 2023/01/14 13:24:49 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jojobear (424)
+Seat 2: _SKR (476)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+jojobear posts big blind 80
+Dealt to _SKR [Js Th]
+*** PRE-FLOP *** 
+_SKR raises 396 to 476 and is all-in
+jojobear folds
+_SKR collected 556 from pot
+*** SUMMARY ***
+Total pot 556 | No rake
+Seat 2: _SKR (small blind) (button) won 556
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2674128857048547329-17-1673702694 - Holdem no limit (40/80) - 2023/01/14 13:24:54 UTC
+Table: 'Expresso Nitro(622619143)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jojobear (344)
+Seat 2: _SKR (556)
+*** ANTE/BLINDS ***
+jojobear posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Qh 7c]
+*** PRE-FLOP *** 
+jojobear calls 40
+_SKR raises 476 to 556 and is all-in
+jojobear calls 264 and is all-in
+*** FLOP *** [6c 2c 9c]
+*** TURN *** [6c 2c 9c][8c]
+*** RIVER *** [6c 2c 9c 8c][Ks]
+*** SHOW DOWN ***
+jojobear shows [As Qs] (High card : Ace)
+_SKR shows [Qh 7c] (Flush 9 high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c 2c 9c 8c Ks]
+Seat 1: jojobear (small blind) (button) showed [As Qs] and lost with High card : Ace
+Seat 2: _SKR (big blind) showed [Qh 7c] and won 900 with Flush 9 high
+
+

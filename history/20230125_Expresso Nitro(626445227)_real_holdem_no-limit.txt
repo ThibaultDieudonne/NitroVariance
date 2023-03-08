@@ -1,0 +1,103 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690561762700296193-1-1674685983 - Holdem no limit (10/20) - 2023/01/25 22:33:03 UTC
+Table: 'Expresso Nitro(626445227)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Cajaes22 (300)
+Seat 3: tictactoc30 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cajaes22 posts big blind 20
+Dealt to _SKR [5h 7s]
+*** PRE-FLOP *** 
+tictactoc30 calls 20
+_SKR folds
+Cajaes22 checks
+*** FLOP *** [9d 6h 9h]
+Cajaes22 checks
+tictactoc30 bets 280 and is all-in
+Cajaes22 folds
+tictactoc30 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [9d 6h 9h]
+Seat 3: tictactoc30 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690561762700296193-2-1674686002 - Holdem no limit (10/20) - 2023/01/25 22:33:22 UTC
+Table: 'Expresso Nitro(626445227)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Cajaes22 (280)
+Seat 3: tictactoc30 (330)
+*** ANTE/BLINDS ***
+Cajaes22 posts small blind 10
+tictactoc30 posts big blind 20
+Dealt to _SKR [3d 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Cajaes22 folds
+tictactoc30 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: tictactoc30 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690561762700296193-3-1674686011 - Holdem no limit (10/20) - 2023/01/25 22:33:31 UTC
+Table: 'Expresso Nitro(626445227)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Cajaes22 (270)
+Seat 3: tictactoc30 (340)
+*** ANTE/BLINDS ***
+tictactoc30 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h Qh]
+*** PRE-FLOP *** 
+Cajaes22 raises 20 to 40
+tictactoc30 folds
+_SKR calls 20
+*** FLOP *** [6s Qd 3s]
+_SKR checks
+Cajaes22 bets 50
+_SKR calls 50
+*** TURN *** [6s Qd 3s][3h]
+_SKR checks
+Cajaes22 bets 124
+_SKR raises 76 to 200 and is all-in
+Cajaes22 calls 56 and is all-in
+*** RIVER *** [6s Qd 3s 3h][5d]
+*** SHOW DOWN ***
+_SKR shows [4h Qh] (Two pairs : Queens and 3)
+Cajaes22 shows [Qc Tc] (Two pairs : Queens and 3)
+Cajaes22 collected 550 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [6s Qd 3s 3h 5d]
+Seat 1: _SKR (big blind) showed [4h Qh] and won 20 with Two pairs : Queens and 3
+Seat 2: Cajaes22 (button) showed [Qc Tc] and won 550 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690561762700296193-4-1674686048 - Holdem no limit (15/30) - 2023/01/25 22:34:08 UTC
+Table: 'Expresso Nitro(626445227)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (20)
+Seat 2: Cajaes22 (550)
+Seat 3: tictactoc30 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Cajaes22 posts big blind 30
+Dealt to _SKR [5s 9d]
+*** PRE-FLOP *** 
+tictactoc30 folds
+_SKR calls 5 and is all-in
+*** FLOP *** [8c Jh 7h]
+*** TURN *** [8c Jh 7h][7c]
+*** RIVER *** [8c Jh 7h 7c][4s]
+*** SHOW DOWN ***
+_SKR shows [5s 9d] (One pair : 7)
+Cajaes22 shows [2d 8h] (Two pairs : 8 and 7)
+Cajaes22 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [8c Jh 7h 7c 4s]
+Seat 1: _SKR (small blind) showed [5s 9d] and lost with One pair : 7
+Seat 2: Cajaes22 (big blind) showed [2d 8h] and won 50 with Two pairs : 8 and 7
+
+

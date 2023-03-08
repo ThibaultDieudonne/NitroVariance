@@ -1,0 +1,80 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717947706835206145-1-1676240841 - Holdem no limit (10/20) - 2023/02/12 22:27:21 UTC
+Table: 'Expresso Nitro(632821514)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Karimovitc (300)
+Seat 3: JOKERCRAZY (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Karimovitc posts big blind 20
+Dealt to _SKR [3h 8h]
+*** PRE-FLOP *** 
+JOKERCRAZY calls 20
+_SKR folds
+Karimovitc checks
+*** FLOP *** [Jd 5s 5c]
+Karimovitc checks
+JOKERCRAZY checks
+*** TURN *** [Jd 5s 5c][Js]
+Karimovitc checks
+JOKERCRAZY checks
+*** RIVER *** [Jd 5s 5c Js][7c]
+Karimovitc checks
+JOKERCRAZY checks
+*** SHOW DOWN ***
+JOKERCRAZY shows [8c Th] (Two pairs : Jacks and 5)
+Karimovitc shows [Ks 3d] (Two pairs : Jacks and 5)
+Karimovitc collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Jd 5s 5c Js 7c]
+Seat 2: Karimovitc (big blind) showed [Ks 3d] and won 50 with Two pairs : Jacks and 5
+Seat 3: JOKERCRAZY (button) showed [8c Th] and lost with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717947706835206145-2-1676240868 - Holdem no limit (10/20) - 2023/02/12 22:27:48 UTC
+Table: 'Expresso Nitro(632821514)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Karimovitc (330)
+Seat 3: JOKERCRAZY (280)
+*** ANTE/BLINDS ***
+Karimovitc posts small blind 10
+JOKERCRAZY posts big blind 20
+Dealt to _SKR [9d 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Karimovitc folds
+JOKERCRAZY collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: JOKERCRAZY (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717947706835206145-3-1676240877 - Holdem no limit (10/20) - 2023/02/12 22:27:57 UTC
+Table: 'Expresso Nitro(632821514)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Karimovitc (320)
+Seat 3: JOKERCRAZY (290)
+*** ANTE/BLINDS ***
+JOKERCRAZY posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts Ad]
+*** PRE-FLOP *** 
+Karimovitc calls 20
+JOKERCRAZY calls 10
+_SKR raises 270 to 290 and is all-in
+Karimovitc calls 270
+JOKERCRAZY folds
+*** FLOP *** [Kc 5d Jh]
+*** TURN *** [Kc 5d Jh][Kd]
+*** RIVER *** [Kc 5d Jh Kd][7s]
+*** SHOW DOWN ***
+_SKR shows [Ts Ad] (One pair : Kings)
+Karimovitc shows [Jc 9c] (Two pairs : Kings and Jacks)
+Karimovitc collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kc 5d Jh Kd 7s]
+Seat 1: _SKR (big blind) showed [Ts Ad] and lost with One pair : Kings
+Seat 2: Karimovitc (button) showed [Jc 9c] and won 600 with Two pairs : Kings and Jacks
+
+

@@ -1,0 +1,588 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676375167894028289-1-1673821829 - Holdem no limit (10/20) - 2023/01/15 22:30:29 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (300)
+Seat 2: _SKR (300)
+Seat 3: Tiboris (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Tiboris posts big blind 20
+Dealt to _SKR [Qd 8c]
+*** PRE-FLOP *** 
+Ozawod calls 20
+_SKR calls 10
+Tiboris checks
+*** FLOP *** [Jd Qh Qs]
+_SKR checks
+Tiboris checks
+Ozawod bets 20
+_SKR calls 20
+Tiboris folds
+*** TURN *** [Jd Qh Qs][As]
+_SKR checks
+Ozawod bets 30
+_SKR calls 30
+*** RIVER *** [Jd Qh Qs As][8s]
+_SKR checks
+Ozawod checks
+*** SHOW DOWN ***
+Ozawod shows [7h Kc] (One pair : Queens)
+_SKR shows [Qd 8c] (Full of Queens and 8)
+_SKR collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Jd Qh Qs As 8s]
+Seat 1: Ozawod (button) showed [7h Kc] and lost with One pair : Queens
+Seat 2: _SKR (small blind) showed [Qd 8c] and won 160 with Full of Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676375167894028289-2-1673821903 - Holdem no limit (15/30) - 2023/01/15 22:31:43 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (230)
+Seat 2: _SKR (390)
+Seat 3: Tiboris (280)
+*** ANTE/BLINDS ***
+Tiboris posts small blind 15
+Ozawod posts big blind 30
+Dealt to _SKR [9h Js]
+*** PRE-FLOP *** 
+_SKR folds
+Tiboris raises 60 to 90
+Ozawod folds
+Tiboris collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Tiboris (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676375167894028289-3-1673821911 - Holdem no limit (15/30) - 2023/01/15 22:31:51 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ozawod (200)
+Seat 2: _SKR (390)
+Seat 3: Tiboris (310)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8c 5d]
+*** PRE-FLOP *** 
+Tiboris folds
+Ozawod calls 15
+_SKR checks
+*** FLOP *** [7s Jd Ac]
+Ozawod checks
+_SKR checks
+*** TURN *** [7s Jd Ac][Th]
+Ozawod bets 30
+_SKR folds
+Ozawod collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [7s Jd Ac Th]
+Seat 1: Ozawod (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676375167894028289-4-1673821944 - Holdem no limit (15/30) - 2023/01/15 22:32:24 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (230)
+Seat 2: _SKR (360)
+Seat 3: Tiboris (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Tiboris posts big blind 30
+Dealt to _SKR [Qc 5c]
+*** PRE-FLOP *** 
+Ozawod folds
+_SKR calls 15
+Tiboris checks
+*** FLOP *** [2c Jh 4d]
+_SKR checks
+Tiboris checks
+*** TURN *** [2c Jh 4d][6s]
+_SKR checks
+Tiboris checks
+*** RIVER *** [2c Jh 4d 6s][Qs]
+_SKR bets 39
+Tiboris calls 39
+*** SHOW DOWN ***
+Tiboris shows [2h 3d] (One pair : 2)
+_SKR shows [Qc 5c] (One pair : Queens)
+_SKR collected 138 from pot
+*** SUMMARY ***
+Total pot 138 | No rake
+Board: [2c Jh 4d 6s Qs]
+Seat 2: _SKR (small blind) showed [Qc 5c] and won 138 with One pair : Queens
+Seat 3: Tiboris (big blind) showed [2h 3d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676375167894028289-5-1673822004 - Holdem no limit (20/40) - 2023/01/15 22:33:24 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (230)
+Seat 2: _SKR (429)
+Seat 3: Tiboris (241)
+*** ANTE/BLINDS ***
+Tiboris posts small blind 20
+Ozawod posts big blind 40
+Dealt to _SKR [Th Jc]
+*** PRE-FLOP *** 
+_SKR raises 389 to 429 and is all-in
+Tiboris folds
+Ozawod calls 190 and is all-in
+*** FLOP *** [2h Ah Td]
+*** TURN *** [2h Ah Td][5d]
+*** RIVER *** [2h Ah Td 5d][Qh]
+*** SHOW DOWN ***
+Ozawod shows [Kh 4h] (Flush Ace high)
+_SKR shows [Th Jc] (One pair : Tens)
+_SKR collected 199 from side pot 1
+Ozawod collected 480 from main pot
+*** SUMMARY ***
+Total pot 679 | No rake
+Board: [2h Ah Td 5d Qh]
+Seat 1: Ozawod (big blind) showed [Kh 4h] and won 480 with Flush Ace high
+Seat 2: _SKR (button) showed [Th Jc] and won 199 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676375167894028289-6-1673822023 - Holdem no limit (30/60) - 2023/01/15 22:33:43 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ozawod (480)
+Seat 2: _SKR (199)
+Seat 3: Tiboris (221)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [As Ac]
+*** PRE-FLOP *** 
+Tiboris calls 60
+Ozawod calls 30
+_SKR raises 139 to 199 and is all-in
+Tiboris raises 22 to 221 and is all-in
+Ozawod folds
+*** FLOP *** [Ts 6c 2d]
+*** TURN *** [Ts 6c 2d][Qc]
+*** RIVER *** [Ts 6c 2d Qc][9d]
+*** SHOW DOWN ***
+_SKR shows [As Ac] (One pair : Aces)
+Tiboris shows [5h Jh] (High card : Queen)
+Tiboris collected 22 from side pot 1
+_SKR collected 458 from main pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ts 6c 2d Qc 9d]
+Seat 2: _SKR (big blind) showed [As Ac] and won 458 with One pair : Aces
+Seat 3: Tiboris (button) showed [5h Jh] and won 22 with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676375167894028289-7-1673822045 - Holdem no limit (30/60) - 2023/01/15 22:34:05 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (420)
+Seat 2: _SKR (458)
+Seat 3: Tiboris (22)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Tiboris posts big blind 22 and is all-in
+Dealt to _SKR [2s Qd]
+*** PRE-FLOP *** 
+Ozawod calls 60
+_SKR folds
+*** FLOP *** [5s 5d Ad]
+*** TURN *** [5s 5d Ad][9d]
+*** RIVER *** [5s 5d Ad 9d][Qh]
+*** SHOW DOWN ***
+Tiboris shows [5c Kd] (Trips of 5)
+Ozawod shows [Td 6d] (Flush Ace high)
+Ozawod collected 112 from pot
+*** SUMMARY ***
+Total pot 112 | No rake
+Board: [5s 5d Ad 9d Qh]
+Seat 1: Ozawod (button) showed [Td 6d] and won 112 with Flush Ace high
+Seat 3: Tiboris (big blind) showed [5c Kd] and lost with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676375167894028289-8-1673822063 - Holdem no limit (30/60) - 2023/01/15 22:34:23 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (472)
+Seat 2: _SKR (428)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qd 6s]
+*** PRE-FLOP *** 
+Ozawod folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676375167894028289-9-1673822067 - Holdem no limit (40/80) - 2023/01/15 22:34:27 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (442)
+Seat 2: _SKR (458)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Ozawod posts big blind 80
+Dealt to _SKR [Ts 7d]
+*** PRE-FLOP *** 
+_SKR raises 378 to 458 and is all-in
+Ozawod folds
+_SKR collected 538 from pot
+*** SUMMARY ***
+Total pot 538 | No rake
+Seat 2: _SKR (small blind) (button) won 538
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676375167894028289-10-1673822074 - Holdem no limit (40/80) - 2023/01/15 22:34:34 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (362)
+Seat 2: _SKR (538)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [4h Kc]
+*** PRE-FLOP *** 
+Ozawod raises 80 to 160
+_SKR raises 378 to 538 and is all-in
+Ozawod calls 202 and is all-in
+*** FLOP *** [Th Jc Js]
+*** TURN *** [Th Jc Js][3c]
+*** RIVER *** [Th Jc Js 3c][9h]
+*** SHOW DOWN ***
+Ozawod shows [7d 7c] (Two pairs : Jacks and 7)
+_SKR shows [4h Kc] (One pair : Jacks)
+_SKR collected 176 from side pot 1
+Ozawod collected 724 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Th Jc Js 3c 9h]
+Seat 1: Ozawod (small blind) (button) showed [7d 7c] and won 724 with Two pairs : Jacks and 7
+Seat 2: _SKR (big blind) showed [4h Kc] and won 176 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676375167894028289-11-1673822094 - Holdem no limit (40/80) - 2023/01/15 22:34:54 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (724)
+Seat 2: _SKR (176)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Ozawod posts big blind 80
+Dealt to _SKR [6d 9h]
+*** PRE-FLOP *** 
+_SKR raises 96 to 176 and is all-in
+Ozawod folds
+_SKR collected 256 from pot
+*** SUMMARY ***
+Total pot 256 | No rake
+Seat 2: _SKR (small blind) (button) won 256
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676375167894028289-12-1673822099 - Holdem no limit (40/80) - 2023/01/15 22:34:59 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (644)
+Seat 2: _SKR (256)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [4h As]
+*** PRE-FLOP *** 
+Ozawod raises 80 to 160
+_SKR raises 96 to 256 and is all-in
+Ozawod calls 96
+*** FLOP *** [5d 3s 2h]
+*** TURN *** [5d 3s 2h][7d]
+*** RIVER *** [5d 3s 2h 7d][6h]
+*** SHOW DOWN ***
+Ozawod shows [Jd Qh] (High card : Queen)
+_SKR shows [4h As] (Straight 7 high)
+_SKR collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | No rake
+Board: [5d 3s 2h 7d 6h]
+Seat 1: Ozawod (small blind) (button) showed [Jd Qh] and lost with High card : Queen
+Seat 2: _SKR (big blind) showed [4h As] and won 512 with Straight 7 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676375167894028289-13-1673822116 - Holdem no limit (40/80) - 2023/01/15 22:35:16 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (388)
+Seat 2: _SKR (512)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Ozawod posts big blind 80
+Dealt to _SKR [Kh 4c]
+*** PRE-FLOP *** 
+_SKR raises 432 to 512 and is all-in
+Ozawod folds
+_SKR collected 592 from pot
+*** SUMMARY ***
+Total pot 592 | No rake
+Seat 2: _SKR (small blind) (button) won 592
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676375167894028289-14-1673822129 - Holdem no limit (50/100) - 2023/01/15 22:35:29 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (308)
+Seat 2: _SKR (592)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [3h Ts]
+*** PRE-FLOP *** 
+Ozawod raises 100 to 200
+_SKR folds
+Ozawod collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: Ozawod (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676375167894028289-15-1673822141 - Holdem no limit (50/100) - 2023/01/15 22:35:41 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (408)
+Seat 2: _SKR (492)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Ozawod posts big blind 100
+Dealt to _SKR [6s 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Ozawod collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Ozawod (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676375167894028289-16-1673822147 - Holdem no limit (50/100) - 2023/01/15 22:35:47 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (458)
+Seat 2: _SKR (442)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [6s Qs]
+*** PRE-FLOP *** 
+Ozawod folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676375167894028289-17-1673822150 - Holdem no limit (50/100) - 2023/01/15 22:35:50 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (408)
+Seat 2: _SKR (492)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Ozawod posts big blind 100
+Dealt to _SKR [3d 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Ozawod collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Ozawod (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676375167894028289-18-1673822163 - Holdem no limit (50/100) - 2023/01/15 22:36:03 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (458)
+Seat 2: _SKR (442)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [3s 5s]
+*** PRE-FLOP *** 
+Ozawod calls 50
+_SKR checks
+*** FLOP *** [Jd 9d 4s]
+_SKR checks
+Ozawod bets 100
+_SKR raises 242 to 342 and is all-in
+Ozawod folds
+_SKR collected 642 from pot
+*** SUMMARY ***
+Total pot 642 | No rake
+Board: [Jd 9d 4s]
+Seat 2: _SKR (big blind) won 642
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676375167894028289-19-1673822179 - Holdem no limit (50/100) - 2023/01/15 22:36:19 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (258)
+Seat 2: _SKR (642)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Ozawod posts big blind 100
+Dealt to _SKR [4c 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Ozawod collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Ozawod (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676375167894028289-20-1673822183 - Holdem no limit (50/100) - 2023/01/15 22:36:23 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (308)
+Seat 2: _SKR (592)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [Qc 4c]
+*** PRE-FLOP *** 
+Ozawod folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2676375167894028289-21-1673822187 - Holdem no limit (60/120) - 2023/01/15 22:36:27 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (258)
+Seat 2: _SKR (642)
+*** ANTE/BLINDS ***
+_SKR posts small blind 60
+Ozawod posts big blind 120
+Dealt to _SKR [Ts Td]
+*** PRE-FLOP *** 
+_SKR raises 522 to 642 and is all-in
+Ozawod calls 138 and is all-in
+*** FLOP *** [Jc 3s Ad]
+*** TURN *** [Jc 3s Ad][Ah]
+*** RIVER *** [Jc 3s Ad Ah][Jh]
+*** SHOW DOWN ***
+Ozawod shows [Kc 6h] (Two pairs : Aces and Jacks)
+_SKR shows [Ts Td] (Two pairs : Aces and Jacks)
+_SKR collected 384 from side pot 1
+Ozawod collected 516 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jc 3s Ad Ah Jh]
+Seat 1: Ozawod (big blind) showed [Kc 6h] and won 516 with Two pairs : Aces and Jacks
+Seat 2: _SKR (small blind) (button) showed [Ts Td] and won 384 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2676375167894028289-22-1673822203 - Holdem no limit (60/120) - 2023/01/15 22:36:43 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (516)
+Seat 2: _SKR (384)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 60
+_SKR posts big blind 120
+Dealt to _SKR [6d Kc]
+*** PRE-FLOP *** 
+Ozawod folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: _SKR (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2676375167894028289-23-1673822208 - Holdem no limit (60/120) - 2023/01/15 22:36:48 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (456)
+Seat 2: _SKR (444)
+*** ANTE/BLINDS ***
+_SKR posts small blind 60
+Ozawod posts big blind 120
+Dealt to _SKR [As 2h]
+*** PRE-FLOP *** 
+_SKR raises 324 to 444 and is all-in
+Ozawod folds
+_SKR collected 564 from pot
+*** SUMMARY ***
+Total pot 564 | No rake
+Seat 2: _SKR (small blind) (button) won 564
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2676375167894028289-24-1673822214 - Holdem no limit (60/120) - 2023/01/15 22:36:54 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (336)
+Seat 2: _SKR (564)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 60
+_SKR posts big blind 120
+Dealt to _SKR [Ac 5s]
+*** PRE-FLOP *** 
+Ozawod folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: _SKR (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2676375167894028289-25-1673822217 - Holdem no limit (60/120) - 2023/01/15 22:36:57 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (276)
+Seat 2: _SKR (624)
+*** ANTE/BLINDS ***
+_SKR posts small blind 60
+Ozawod posts big blind 120
+Dealt to _SKR [7h 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Ozawod collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: Ozawod (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2676375167894028289-26-1673822223 - Holdem no limit (60/120) - 2023/01/15 22:37:03 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (336)
+Seat 2: _SKR (564)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 60
+_SKR posts big blind 120
+Dealt to _SKR [Th 2d]
+*** PRE-FLOP *** 
+Ozawod folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: _SKR (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2676375167894028289-27-1673822227 - Holdem no limit (60/120) - 2023/01/15 22:37:07 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ozawod (276)
+Seat 2: _SKR (624)
+*** ANTE/BLINDS ***
+_SKR posts small blind 60
+Ozawod posts big blind 120
+Dealt to _SKR [7h Qh]
+*** PRE-FLOP *** 
+_SKR raises 504 to 624 and is all-in
+Ozawod folds
+_SKR collected 744 from pot
+*** SUMMARY ***
+Total pot 744 | No rake
+Seat 2: _SKR (small blind) (button) won 744
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2676375167894028289-28-1673822234 - Holdem no limit (60/120) - 2023/01/15 22:37:14 UTC
+Table: 'Expresso Nitro(623142153)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ozawod (156)
+Seat 2: _SKR (744)
+*** ANTE/BLINDS ***
+Ozawod posts small blind 60
+_SKR posts big blind 120
+Dealt to _SKR [Qd 2s]
+*** PRE-FLOP *** 
+Ozawod raises 36 to 156 and is all-in
+_SKR calls 36
+*** FLOP *** [Jd Kc Kh]
+*** TURN *** [Jd Kc Kh][Qs]
+*** RIVER *** [Jd Kc Kh Qs][Qh]
+*** SHOW DOWN ***
+Ozawod shows [Ah 8s] (Two pairs : Kings and Queens)
+_SKR shows [Qd 2s] (Full of Queens and Kings)
+_SKR collected 312 from pot
+*** SUMMARY ***
+Total pot 312 | No rake
+Board: [Jd Kc Kh Qs Qh]
+Seat 1: Ozawod (small blind) (button) showed [Ah 8s] and lost with Two pairs : Kings and Queens
+Seat 2: _SKR (big blind) showed [Qd 2s] and won 312 with Full of Queens and Kings
+
+

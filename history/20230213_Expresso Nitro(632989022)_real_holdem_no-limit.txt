@@ -1,0 +1,72 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718667148217024513-1-1676294404 - Holdem no limit (10/20) - 2023/02/13 13:20:04 UTC
+Table: 'Expresso Nitro(632989022)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lanos76 (300)
+Seat 2: HitMyHeart (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Lanos76 posts big blind 20
+Dealt to _SKR [Kc 5h]
+*** PRE-FLOP *** 
+HitMyHeart raises 280 to 300 and is all-in
+_SKR folds
+Lanos76 folds
+HitMyHeart collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: HitMyHeart (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718667148217024513-2-1676294411 - Holdem no limit (10/20) - 2023/02/13 13:20:11 UTC
+Table: 'Expresso Nitro(632989022)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lanos76 (280)
+Seat 2: HitMyHeart (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Lanos76 posts small blind 10
+HitMyHeart posts big blind 20
+Dealt to _SKR [2s 2c]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Lanos76 calls 270 and is all-in
+HitMyHeart folds
+*** FLOP *** [Tc 9c 2h]
+*** TURN *** [Tc 9c 2h][5d]
+*** RIVER *** [Tc 9c 2h 5d][3d]
+*** SHOW DOWN ***
+Lanos76 shows [Ac Jh] (High card : Ace)
+_SKR shows [2s 2c] (Trips of 2)
+_SKR collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Tc 9c 2h 5d 3d]
+Seat 1: Lanos76 (small blind) showed [Ac Jh] and lost with High card : Ace
+Seat 3: _SKR (button) showed [2s 2c] and won 590 with Trips of 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718667148217024513-3-1676294427 - Holdem no limit (10/20) - 2023/02/13 13:20:27 UTC
+Table: 'Expresso Nitro(632989022)#0' 3-max (real money) Seat #2 is the button
+Seat 2: HitMyHeart (310)
+Seat 3: _SKR (590)
+*** ANTE/BLINDS ***
+HitMyHeart posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c Ac]
+*** PRE-FLOP *** 
+HitMyHeart raises 20 to 40
+_SKR raises 550 to 590 and is all-in
+HitMyHeart calls 270 and is all-in
+*** FLOP *** [As 5s 3h]
+*** TURN *** [As 5s 3h][8s]
+*** RIVER *** [As 5s 3h 8s][6h]
+*** SHOW DOWN ***
+HitMyHeart shows [Kc 7d] (High card : Ace)
+_SKR shows [8c Ac] (Two pairs : Aces and 8)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As 5s 3h 8s 6h]
+Seat 2: HitMyHeart (small blind) (button) showed [Kc 7d] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [8c Ac] and won 900 with Two pairs : Aces and 8
+
+

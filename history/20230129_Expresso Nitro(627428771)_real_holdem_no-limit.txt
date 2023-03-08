@@ -1,0 +1,137 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694786052014473217-1-1674957148 - Holdem no limit (10/20) - 2023/01/29 01:52:28 UTC
+Table: 'Expresso Nitro(627428771)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Power-23 (300)
+Seat 3: Nave4321 (300)
+*** ANTE/BLINDS ***
+Power-23 posts small blind 10
+Nave4321 posts big blind 20
+Dealt to _SKR [6c 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Power-23 calls 10
+Nave4321 raises 280 to 300 and is all-in
+Power-23 folds
+Nave4321 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Nave4321 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694786052014473217-2-1674957156 - Holdem no limit (10/20) - 2023/01/29 01:52:36 UTC
+Table: 'Expresso Nitro(627428771)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Power-23 (280)
+Seat 3: Nave4321 (320)
+*** ANTE/BLINDS ***
+Nave4321 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 3s]
+*** PRE-FLOP *** 
+Power-23 raises 260 to 280 and is all-in
+Nave4321 folds
+_SKR folds
+Power-23 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: Power-23 (button) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694786052014473217-3-1674957166 - Holdem no limit (10/20) - 2023/01/29 01:52:46 UTC
+Table: 'Expresso Nitro(627428771)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Power-23 (310)
+Seat 3: Nave4321 (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Power-23 posts big blind 20
+Dealt to _SKR [8c Qc]
+*** PRE-FLOP *** 
+Nave4321 raises 290 to 310 and is all-in
+_SKR folds
+Power-23 calls 290 and is all-in
+*** FLOP *** [3d 6d Td]
+*** TURN *** [3d 6d Td][8h]
+*** RIVER *** [3d 6d Td 8h][5s]
+*** SHOW DOWN ***
+Power-23 shows [9s 9c] (One pair : 9)
+Nave4321 shows [5d 5c] (Trips of 5)
+Nave4321 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [3d 6d Td 8h 5s]
+Seat 2: Power-23 (big blind) showed [9s 9c] and lost with One pair : 9
+Seat 3: Nave4321 (button) showed [5d 5c] and won 630 with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694786052014473217-4-1674957179 - Holdem no limit (10/20) - 2023/01/29 01:52:59 UTC
+Table: 'Expresso Nitro(627428771)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 3: Nave4321 (630)
+*** ANTE/BLINDS ***
+Nave4321 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 8s]
+*** PRE-FLOP *** 
+Nave4321 calls 10
+_SKR checks
+*** FLOP *** [6s Ac 9d]
+_SKR checks
+Nave4321 checks
+*** TURN *** [6s Ac 9d][3d]
+_SKR checks
+Nave4321 checks
+*** RIVER *** [6s Ac 9d 3d][7c]
+_SKR bets 26
+Nave4321 folds
+_SKR collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [6s Ac 9d 3d 7c]
+Seat 1: _SKR (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694786052014473217-5-1674957205 - Holdem no limit (15/30) - 2023/01/29 01:53:25 UTC
+Table: 'Expresso Nitro(627428771)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 3: Nave4321 (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Nave4321 posts big blind 30
+Dealt to _SKR [6d Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Nave4321 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Nave4321 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694786052014473217-6-1674957210 - Holdem no limit (15/30) - 2023/01/29 01:53:30 UTC
+Table: 'Expresso Nitro(627428771)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (275)
+Seat 3: Nave4321 (625)
+*** ANTE/BLINDS ***
+Nave4321 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c Jc]
+*** PRE-FLOP *** 
+Nave4321 calls 15
+_SKR checks
+*** FLOP *** [Ks 8c 2c]
+_SKR checks
+Nave4321 bets 595 and is all-in
+_SKR calls 245 and is all-in
+*** TURN *** [Ks 8c 2c][2d]
+*** RIVER *** [Ks 8c 2c 2d][9h]
+*** SHOW DOWN ***
+_SKR shows [4c Jc] (One pair : 2)
+Nave4321 shows [6c Kc] (Two pairs : Kings and 2)
+Nave4321 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks 8c 2c 2d 9h]
+Seat 1: _SKR (big blind) showed [4c Jc] and lost with One pair : 2
+Seat 3: Nave4321 (small blind) (button) showed [6c Kc] and won 900 with Two pairs : Kings and 2
+
+

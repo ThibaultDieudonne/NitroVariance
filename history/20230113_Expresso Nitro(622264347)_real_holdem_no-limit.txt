@@ -1,0 +1,117 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672605019831795713-1-1673616202 - Holdem no limit (10/20) - 2023/01/13 13:23:22 UTC
+Table: 'Expresso Nitro(622264347)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YanXSP (300)
+Seat 2: _SKR (300)
+Seat 3: mikichou0218 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+mikichou0218 posts big blind 20
+Dealt to _SKR [2h 5d]
+*** PRE-FLOP *** 
+YanXSP folds
+_SKR folds
+mikichou0218 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: mikichou0218 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672605019831795713-2-1673616211 - Holdem no limit (10/20) - 2023/01/13 13:23:31 UTC
+Table: 'Expresso Nitro(622264347)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YanXSP (300)
+Seat 2: _SKR (290)
+Seat 3: mikichou0218 (310)
+*** ANTE/BLINDS ***
+mikichou0218 posts small blind 10
+YanXSP posts big blind 20
+Dealt to _SKR [Tc Jc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+mikichou0218 calls 30
+YanXSP folds
+*** FLOP *** [2h 5s Ah]
+mikichou0218 checks
+_SKR bets 45
+mikichou0218 calls 45
+*** TURN *** [2h 5s Ah][Td]
+mikichou0218 checks
+_SKR checks
+*** RIVER *** [2h 5s Ah Td][3s]
+mikichou0218 checks
+_SKR bets 67
+mikichou0218 calls 67
+*** SHOW DOWN ***
+_SKR shows [Tc Jc] (One pair : Tens)
+mikichou0218 shows [5d 3d] (Two pairs : 5 and 3)
+mikichou0218 collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [2h 5s Ah Td 3s]
+Seat 2: _SKR (button) showed [Tc Jc] and lost with One pair : Tens
+Seat 3: mikichou0218 (small blind) showed [5d 3d] and won 324 with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672605019831795713-3-1673616251 - Holdem no limit (10/20) - 2023/01/13 13:24:11 UTC
+Table: 'Expresso Nitro(622264347)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YanXSP (280)
+Seat 2: _SKR (138)
+Seat 3: mikichou0218 (482)
+*** ANTE/BLINDS ***
+YanXSP posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac Ks]
+*** PRE-FLOP *** 
+mikichou0218 folds
+YanXSP folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672605019831795713-4-1673616256 - Holdem no limit (10/20) - 2023/01/13 13:24:16 UTC
+Table: 'Expresso Nitro(622264347)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YanXSP (270)
+Seat 2: _SKR (148)
+Seat 3: mikichou0218 (482)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+mikichou0218 posts big blind 20
+Dealt to _SKR [9d Kc]
+*** PRE-FLOP *** 
+YanXSP folds
+_SKR raises 128 to 148 and is all-in
+mikichou0218 folds
+_SKR collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | No rake
+Seat 2: _SKR (small blind) won 168
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2672605019831795713-5-1673616270 - Holdem no limit (15/30) - 2023/01/13 13:24:30 UTC
+Table: 'Expresso Nitro(622264347)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YanXSP (270)
+Seat 2: _SKR (168)
+Seat 3: mikichou0218 (462)
+*** ANTE/BLINDS ***
+mikichou0218 posts small blind 15
+YanXSP posts big blind 30
+Dealt to _SKR [9s Ts]
+*** PRE-FLOP *** 
+_SKR raises 138 to 168 and is all-in
+mikichou0218 calls 153
+YanXSP folds
+*** FLOP *** [Ac 3c Js]
+*** TURN *** [Ac 3c Js][Ah]
+*** RIVER *** [Ac 3c Js Ah][4c]
+*** SHOW DOWN ***
+_SKR shows [9s Ts] (One pair : Aces)
+mikichou0218 shows [7h 7s] (Two pairs : Aces and 7)
+mikichou0218 collected 366 from pot
+*** SUMMARY ***
+Total pot 366 | No rake
+Board: [Ac 3c Js Ah 4c]
+Seat 2: _SKR (button) showed [9s Ts] and lost with One pair : Aces
+Seat 3: mikichou0218 (small blind) showed [7h 7s] and won 366 with Two pairs : Aces and 7
+
+

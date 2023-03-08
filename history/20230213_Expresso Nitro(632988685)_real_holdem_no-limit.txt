@@ -1,0 +1,273 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718665700813045761-1-1676294326 - Holdem no limit (10/20) - 2023/02/13 13:18:46 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Ketur78.63 (300)
+Seat 3: TORRETI (300)
+*** ANTE/BLINDS ***
+Ketur78.63 posts small blind 10
+TORRETI posts big blind 20
+Dealt to _SKR [3d Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Ketur78.63 raises 40 to 60
+TORRETI calls 40
+*** FLOP *** [Js 7h 5h]
+Ketur78.63 bets 120
+TORRETI calls 120
+*** TURN *** [Js 7h 5h][As]
+Ketur78.63 bets 120 and is all-in
+TORRETI folds
+Ketur78.63 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Js 7h 5h As]
+Seat 2: Ketur78.63 (small blind) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718665700813045761-2-1676294355 - Holdem no limit (10/20) - 2023/02/13 13:19:15 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Ketur78.63 (480)
+Seat 3: TORRETI (120)
+*** ANTE/BLINDS ***
+TORRETI posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 5h]
+*** PRE-FLOP *** 
+Ketur78.63 folds
+TORRETI calls 10
+_SKR checks
+*** FLOP *** [Ah 3h 2d]
+TORRETI checks
+_SKR checks
+*** TURN *** [Ah 3h 2d][2c]
+TORRETI checks
+_SKR bets 20
+TORRETI folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ah 3h 2d 2c]
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718665700813045761-3-1676294370 - Holdem no limit (10/20) - 2023/02/13 13:19:30 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: Ketur78.63 (480)
+Seat 3: TORRETI (100)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ketur78.63 posts big blind 20
+Dealt to _SKR [8c 2c]
+*** PRE-FLOP *** 
+TORRETI raises 80 to 100 and is all-in
+_SKR folds
+Ketur78.63 calls 80
+*** FLOP *** [Kh 2s 3s]
+*** TURN *** [Kh 2s 3s][Qc]
+*** RIVER *** [Kh 2s 3s Qc][2h]
+*** SHOW DOWN ***
+Ketur78.63 shows [Th 8s] (One pair : 2)
+TORRETI shows [Jh Ts] (One pair : 2)
+TORRETI collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Kh 2s 3s Qc 2h]
+Seat 2: Ketur78.63 (big blind) showed [Th 8s] and lost with One pair : 2
+Seat 3: TORRETI (button) showed [Jh Ts] and won 210 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718665700813045761-4-1676294388 - Holdem no limit (15/30) - 2023/02/13 13:19:48 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: Ketur78.63 (380)
+Seat 3: TORRETI (210)
+*** ANTE/BLINDS ***
+Ketur78.63 posts small blind 15
+TORRETI posts big blind 30
+Dealt to _SKR [8s 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Ketur78.63 raises 60 to 90
+TORRETI raises 120 to 210 and is all-in
+Ketur78.63 calls 120
+*** FLOP *** [8h Ks 2d]
+*** TURN *** [8h Ks 2d][Qh]
+*** RIVER *** [8h Ks 2d Qh][8d]
+*** SHOW DOWN ***
+Ketur78.63 shows [Ah 5c] (One pair : 8)
+TORRETI shows [Qs Ts] (Two pairs : Queens and 8)
+TORRETI collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [8h Ks 2d Qh 8d]
+Seat 2: Ketur78.63 (small blind) showed [Ah 5c] and lost with One pair : 8
+Seat 3: TORRETI (big blind) showed [Qs Ts] and won 420 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718665700813045761-5-1676294410 - Holdem no limit (15/30) - 2023/02/13 13:20:10 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: Ketur78.63 (170)
+Seat 3: TORRETI (420)
+*** ANTE/BLINDS ***
+TORRETI posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th Js]
+*** PRE-FLOP *** 
+Ketur78.63 raises 140 to 170 and is all-in
+TORRETI raises 250 to 420 and is all-in
+_SKR folds
+*** FLOP *** [Jd 3h 5s]
+*** TURN *** [Jd 3h 5s][5c]
+*** RIVER *** [Jd 3h 5s 5c][Kd]
+*** SHOW DOWN ***
+Ketur78.63 shows [Qc Ks] (Two pairs : Kings and 5)
+TORRETI shows [Qh Ac] (One pair : 5)
+TORRETI collected 250 from side pot 1
+Ketur78.63 collected 370 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Jd 3h 5s 5c Kd]
+Seat 2: Ketur78.63 (button) showed [Qc Ks] and won 370 with Two pairs : Kings and 5
+Seat 3: TORRETI (small blind) showed [Qh Ac] and won 250 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718665700813045761-6-1676294423 - Holdem no limit (15/30) - 2023/02/13 13:20:23 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Ketur78.63 (370)
+Seat 3: TORRETI (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Ketur78.63 posts big blind 30
+Dealt to _SKR [8d 7s]
+*** PRE-FLOP *** 
+TORRETI folds
+_SKR calls 15
+Ketur78.63 raises 340 to 370 and is all-in
+_SKR folds
+Ketur78.63 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 2: Ketur78.63 (big blind) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718665700813045761-7-1676294434 - Holdem no limit (15/30) - 2023/02/13 13:20:34 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (250)
+Seat 2: Ketur78.63 (400)
+Seat 3: TORRETI (250)
+*** ANTE/BLINDS ***
+Ketur78.63 posts small blind 15
+TORRETI posts big blind 30
+Dealt to _SKR [7s Jc]
+*** PRE-FLOP *** 
+_SKR folds
+Ketur78.63 raises 370 to 400 and is all-in
+TORRETI folds
+Ketur78.63 collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 2: Ketur78.63 (small blind) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718665700813045761-8-1676294445 - Holdem no limit (20/40) - 2023/02/13 13:20:45 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: Ketur78.63 (430)
+Seat 3: TORRETI (220)
+*** ANTE/BLINDS ***
+TORRETI posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ks Qs]
+*** PRE-FLOP *** 
+Ketur78.63 raises 390 to 430 and is all-in
+TORRETI calls 200 and is all-in
+_SKR calls 210 and is all-in
+*** FLOP *** [Kd 7h 2d]
+*** TURN *** [Kd 7h 2d][6h]
+*** RIVER *** [Kd 7h 2d 6h][Ts]
+*** SHOW DOWN ***
+TORRETI shows [5s Kh] (One pair : Kings)
+_SKR shows [Ks Qs] (One pair : Kings)
+Ketur78.63 shows [2h Ac] (One pair : 2)
+Ketur78.63 collected 180 from side pot 1
+_SKR collected 720 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd 7h 2d 6h Ts]
+Seat 1: _SKR (big blind) showed [Ks Qs] and won 720 with One pair : Kings
+Seat 2: Ketur78.63 (button) showed [2h Ac] and won 180 with One pair : 2
+Seat 3: TORRETI (small blind) showed [5s Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718665700813045761-9-1676294461 - Holdem no limit (20/40) - 2023/02/13 13:21:01 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (720)
+Seat 2: Ketur78.63 (180)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Ketur78.63 posts big blind 40
+Dealt to _SKR [Ks 6h]
+*** PRE-FLOP *** 
+_SKR raises 680 to 720 and is all-in
+Ketur78.63 calls 140 and is all-in
+*** FLOP *** [4d 6d Kd]
+*** TURN *** [4d 6d Kd][9s]
+*** RIVER *** [4d 6d Kd 9s][3d]
+*** SHOW DOWN ***
+_SKR shows [Ks 6h] (Two pairs : Kings and 6)
+Ketur78.63 shows [3s Jd] (Flush King high)
+Ketur78.63 collected 360 from main pot
+_SKR collected 540 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 6d Kd 9s 3d]
+Seat 1: _SKR (small blind) (button) showed [Ks 6h] and won 540 with Two pairs : Kings and 6
+Seat 2: Ketur78.63 (big blind) showed [3s Jd] and won 360 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718665700813045761-10-1676294474 - Holdem no limit (20/40) - 2023/02/13 13:21:14 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (540)
+Seat 2: Ketur78.63 (360)
+*** ANTE/BLINDS ***
+Ketur78.63 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3d 7h]
+*** PRE-FLOP *** 
+Ketur78.63 raises 320 to 360 and is all-in
+_SKR folds
+Ketur78.63 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 2: Ketur78.63 (small blind) (button) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718665700813045761-11-1676294479 - Holdem no limit (20/40) - 2023/02/13 13:21:19 UTC
+Table: 'Expresso Nitro(632988685)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (500)
+Seat 2: Ketur78.63 (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Ketur78.63 posts big blind 40
+Dealt to _SKR [Qs Js]
+*** PRE-FLOP *** 
+_SKR raises 460 to 500 and is all-in
+Ketur78.63 calls 360 and is all-in
+*** FLOP *** [Jh Kh 9c]
+*** TURN *** [Jh Kh 9c][Ac]
+*** RIVER *** [Jh Kh 9c Ac][3d]
+*** SHOW DOWN ***
+Ketur78.63 shows [5h Ts] (High card : Ace)
+_SKR shows [Qs Js] (One pair : Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh Kh 9c Ac 3d]
+Seat 1: _SKR (small blind) (button) showed [Qs Js] and won 900 with One pair : Jacks
+Seat 2: Ketur78.63 (big blind) showed [5h Ts] and lost with High card : Ace
+
+

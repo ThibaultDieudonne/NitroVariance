@@ -1,0 +1,215 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729175713419624449-1-1676904463 - Holdem no limit (10/20) - 2023/02/20 14:47:43 UTC
+Table: 'Expresso Nitro(635435738)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Youmdz (300)
+Seat 2: Djoollx (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Djoollx posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d 7h]
+*** PRE-FLOP *** 
+Youmdz calls 20
+Djoollx folds
+_SKR checks
+*** FLOP *** [9h Ac 5c]
+_SKR checks
+Youmdz bets 50
+_SKR folds
+Youmdz collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9h Ac 5c]
+Seat 1: Youmdz (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729175713419624449-2-1676904504 - Holdem no limit (10/20) - 2023/02/20 14:48:24 UTC
+Table: 'Expresso Nitro(635435738)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Youmdz (330)
+Seat 2: Djoollx (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Youmdz posts big blind 20
+Dealt to _SKR [3c Qc]
+*** PRE-FLOP *** 
+Djoollx raises 20 to 40
+_SKR folds
+Youmdz calls 20
+*** FLOP *** [6h Qd 4c]
+Youmdz checks
+Djoollx bets 59
+Youmdz folds
+Djoollx collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [6h Qd 4c]
+Seat 2: Djoollx (button) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729175713419624449-3-1676904532 - Holdem no limit (15/30) - 2023/02/20 14:48:52 UTC
+Table: 'Expresso Nitro(635435738)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Youmdz (290)
+Seat 2: Djoollx (340)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Youmdz posts small blind 15
+Djoollx posts big blind 30
+Dealt to _SKR [Ts Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Youmdz raises 60 to 90
+Djoollx calls 60
+*** FLOP *** [5c Kc Qs]
+Youmdz bets 200 and is all-in
+Djoollx calls 200
+*** TURN *** [5c Kc Qs][7s]
+*** RIVER *** [5c Kc Qs 7s][8h]
+*** SHOW DOWN ***
+Djoollx shows [Jc 6c] (High card : King)
+Youmdz shows [2c 2d] (One pair : 2)
+Youmdz collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5c Kc Qs 7s 8h]
+Seat 1: Youmdz (small blind) showed [2c 2d] and won 580 with One pair : 2
+Seat 2: Djoollx (big blind) showed [Jc 6c] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729175713419624449-4-1676904553 - Holdem no limit (15/30) - 2023/02/20 14:49:13 UTC
+Table: 'Expresso Nitro(635435738)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Youmdz (580)
+Seat 2: Djoollx (50)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Djoollx posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6d Qs]
+*** PRE-FLOP *** 
+Youmdz folds
+Djoollx raises 20 to 50 and is all-in
+_SKR calls 20
+*** FLOP *** [Kc 4h 7c]
+*** TURN *** [Kc 4h 7c][Jc]
+*** RIVER *** [Kc 4h 7c Jc][5d]
+*** SHOW DOWN ***
+_SKR shows [6d Qs] (High card : King)
+Djoollx shows [Ad Qc] (High card : Ace)
+Djoollx collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Kc 4h 7c Jc 5d]
+Seat 2: Djoollx (small blind) showed [Ad Qc] and won 100 with High card : Ace
+Seat 3: _SKR (big blind) showed [6d Qs] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729175713419624449-5-1676904568 - Holdem no limit (15/30) - 2023/02/20 14:49:28 UTC
+Table: 'Expresso Nitro(635435738)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Youmdz (580)
+Seat 2: Djoollx (100)
+Seat 3: _SKR (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Youmdz posts big blind 30
+Dealt to _SKR [Ts 4c]
+*** PRE-FLOP *** 
+Djoollx raises 70 to 100 and is all-in
+_SKR folds
+Youmdz calls 70
+*** FLOP *** [8s 4h 3h]
+*** TURN *** [8s 4h 3h][Qs]
+*** RIVER *** [8s 4h 3h Qs][7c]
+*** SHOW DOWN ***
+Youmdz shows [Kh Ac] (High card : Ace)
+Djoollx shows [7h 7s] (Trips of 7)
+Djoollx collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Board: [8s 4h 3h Qs 7c]
+Seat 1: Youmdz (big blind) showed [Kh Ac] and lost with High card : Ace
+Seat 2: Djoollx (button) showed [7h 7s] and won 215 with Trips of 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729175713419624449-6-1676904581 - Holdem no limit (20/40) - 2023/02/20 14:49:41 UTC
+Table: 'Expresso Nitro(635435738)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Youmdz (480)
+Seat 2: Djoollx (215)
+Seat 3: _SKR (205)
+*** ANTE/BLINDS ***
+Youmdz posts small blind 20
+Djoollx posts big blind 40
+Dealt to _SKR [2h Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Youmdz raises 80 to 120
+Djoollx folds
+Youmdz collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: Youmdz (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729175713419624449-7-1676904590 - Holdem no limit (20/40) - 2023/02/20 14:49:50 UTC
+Table: 'Expresso Nitro(635435738)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Youmdz (520)
+Seat 2: Djoollx (175)
+Seat 3: _SKR (205)
+*** ANTE/BLINDS ***
+Djoollx posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js 5h]
+*** PRE-FLOP *** 
+Youmdz folds
+Djoollx raises 135 to 175 and is all-in
+_SKR folds
+Djoollx collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Seat 2: Djoollx (small blind) won 215
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729175713419624449-8-1676904595 - Holdem no limit (20/40) - 2023/02/20 14:49:55 UTC
+Table: 'Expresso Nitro(635435738)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Youmdz (520)
+Seat 2: Djoollx (215)
+Seat 3: _SKR (165)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Youmdz posts big blind 40
+Dealt to _SKR [8s 2s]
+*** PRE-FLOP *** 
+Djoollx raises 175 to 215 and is all-in
+_SKR folds
+Youmdz folds
+Djoollx collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Seat 2: Djoollx (button) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729175713419624449-9-1676904601 - Holdem no limit (20/40) - 2023/02/20 14:50:01 UTC
+Table: 'Expresso Nitro(635435738)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Youmdz (480)
+Seat 2: Djoollx (275)
+Seat 3: _SKR (145)
+*** ANTE/BLINDS ***
+Youmdz posts small blind 20
+Djoollx posts big blind 40
+Dealt to _SKR [4c 4d]
+*** PRE-FLOP *** 
+_SKR raises 105 to 145 and is all-in
+Youmdz calls 125
+Djoollx folds
+*** FLOP *** [8d Ks As]
+*** TURN *** [8d Ks As][Kh]
+*** RIVER *** [8d Ks As Kh][9c]
+*** SHOW DOWN ***
+_SKR shows [4c 4d] (Two pairs : Kings and 4)
+Youmdz shows [9s Ts] (Two pairs : Kings and 9)
+Youmdz collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [8d Ks As Kh 9c]
+Seat 1: Youmdz (small blind) showed [9s Ts] and won 330 with Two pairs : Kings and 9
+Seat 3: _SKR (button) showed [4c 4d] and lost with Two pairs : Kings and 4
+
+

@@ -1,0 +1,69 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696635903018795009-1-1675090949 - Holdem no limit (10/20) - 2023/01/30 15:02:29 UTC
+Table: 'Expresso Nitro(627859473)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: FICKOU31 (300)
+Seat 3: ADROmax (300)
+*** ANTE/BLINDS ***
+FICKOU31 posts small blind 10
+ADROmax posts big blind 20
+Dealt to _SKR [4h 3d]
+*** PRE-FLOP *** 
+_SKR folds
+FICKOU31 calls 10
+ADROmax checks
+*** FLOP *** [7s Tc Jc]
+FICKOU31 bets 20
+ADROmax folds
+FICKOU31 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7s Tc Jc]
+Seat 2: FICKOU31 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696635903018795009-2-1675090960 - Holdem no limit (10/20) - 2023/01/30 15:02:40 UTC
+Table: 'Expresso Nitro(627859473)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: FICKOU31 (320)
+Seat 3: ADROmax (280)
+*** ANTE/BLINDS ***
+ADROmax posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc Qh]
+*** PRE-FLOP *** 
+FICKOU31 folds
+ADROmax raises 260 to 280 and is all-in
+_SKR folds
+ADROmax collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: ADROmax (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696635903018795009-3-1675090968 - Holdem no limit (10/20) - 2023/01/30 15:02:48 UTC
+Table: 'Expresso Nitro(627859473)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: FICKOU31 (320)
+Seat 3: ADROmax (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+FICKOU31 posts big blind 20
+Dealt to _SKR [As Th]
+*** PRE-FLOP *** 
+ADROmax raises 280 to 300 and is all-in
+_SKR calls 270 and is all-in
+FICKOU31 folds
+*** FLOP *** [8d Qs Td]
+*** TURN *** [8d Qs Td][Jd]
+*** RIVER *** [8d Qs Td Jd][3h]
+*** SHOW DOWN ***
+_SKR shows [As Th] (One pair : Tens)
+ADROmax shows [9c Jh] (Straight Queen high)
+ADROmax collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8d Qs Td Jd 3h]
+Seat 1: _SKR (small blind) showed [As Th] and lost with One pair : Tens
+Seat 3: ADROmax (button) showed [9c Jh] and won 600 with Straight Queen high
+
+

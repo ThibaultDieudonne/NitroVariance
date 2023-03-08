@@ -1,0 +1,251 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728636712203845633-1-1676860141 - Holdem no limit (10/20) - 2023/02/20 02:29:01 UTC
+Table: 'Expresso Nitro(635310242)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Raichonfab (300)
+Seat 3: luraa7 (300)
+*** ANTE/BLINDS ***
+Raichonfab posts small blind 10
+luraa7 posts big blind 20
+Dealt to _SKR [Ad Ts]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Raichonfab calls 30
+luraa7 folds
+*** FLOP *** [6d Th 7d]
+Raichonfab checks
+_SKR bets 50
+Raichonfab calls 50
+*** TURN *** [6d Th 7d][Kh]
+Raichonfab checks
+_SKR checks
+*** RIVER *** [6d Th 7d Kh][8c]
+Raichonfab checks
+_SKR checks
+*** SHOW DOWN ***
+Raichonfab shows [8h 3c] (One pair : 8)
+_SKR shows [Ad Ts] (One pair : Tens)
+_SKR collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [6d Th 7d Kh 8c]
+Seat 1: _SKR (button) showed [Ad Ts] and won 200 with One pair : Tens
+Seat 2: Raichonfab (small blind) showed [8h 3c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728636712203845633-2-1676860189 - Holdem no limit (10/20) - 2023/02/20 02:29:49 UTC
+Table: 'Expresso Nitro(635310242)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (410)
+Seat 2: Raichonfab (210)
+Seat 3: luraa7 (280)
+*** ANTE/BLINDS ***
+luraa7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts Qc]
+*** PRE-FLOP *** 
+Raichonfab calls 20
+luraa7 folds
+_SKR checks
+*** FLOP *** [Kc 9h 5s]
+_SKR checks
+Raichonfab checks
+*** TURN *** [Kc 9h 5s][8c]
+_SKR bets 33
+Raichonfab calls 33
+*** RIVER *** [Kc 9h 5s 8c][5c]
+_SKR bets 75
+Raichonfab calls 75
+*** SHOW DOWN ***
+_SKR shows [Ts Qc] (One pair : 5)
+Raichonfab shows [9s 4h] (Two pairs : 9 and 5)
+Raichonfab collected 266 from pot
+*** SUMMARY ***
+Total pot 266 | No rake
+Board: [Kc 9h 5s 8c 5c]
+Seat 1: _SKR (big blind) showed [Ts Qc] and lost with One pair : 5
+Seat 2: Raichonfab (button) showed [9s 4h] and won 266 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728636712203845633-3-1676860232 - Holdem no limit (15/30) - 2023/02/20 02:30:32 UTC
+Table: 'Expresso Nitro(635310242)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (282)
+Seat 2: Raichonfab (348)
+Seat 3: luraa7 (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Raichonfab posts big blind 30
+Dealt to _SKR [Kc 4h]
+*** PRE-FLOP *** 
+luraa7 raises 240 to 270 and is all-in
+_SKR folds
+Raichonfab calls 240
+*** FLOP *** [3s Qs Qd]
+*** TURN *** [3s Qs Qd][Jh]
+*** RIVER *** [3s Qs Qd Jh][Ah]
+*** SHOW DOWN ***
+Raichonfab shows [8h 8c] (Two pairs : Queens and 8)
+luraa7 shows [Kh Ac] (Two pairs : Aces and Queens)
+luraa7 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [3s Qs Qd Jh Ah]
+Seat 2: Raichonfab (big blind) showed [8h 8c] and lost with Two pairs : Queens and 8
+Seat 3: luraa7 (button) showed [Kh Ac] and won 555 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728636712203845633-4-1676860252 - Holdem no limit (15/30) - 2023/02/20 02:30:52 UTC
+Table: 'Expresso Nitro(635310242)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (267)
+Seat 2: Raichonfab (78)
+Seat 3: luraa7 (555)
+*** ANTE/BLINDS ***
+Raichonfab posts small blind 15
+luraa7 posts big blind 30
+Dealt to _SKR [8h Ks]
+*** PRE-FLOP *** 
+_SKR folds
+Raichonfab raises 48 to 78 and is all-in
+luraa7 calls 48
+*** FLOP *** [2c Th Jc]
+*** TURN *** [2c Th Jc][8c]
+*** RIVER *** [2c Th Jc 8c][Ad]
+*** SHOW DOWN ***
+luraa7 shows [4s 5d] (High card : Ace)
+Raichonfab shows [6c 9s] (High card : Ace)
+Raichonfab collected 156 from pot
+*** SUMMARY ***
+Total pot 156 | No rake
+Board: [2c Th Jc 8c Ad]
+Seat 2: Raichonfab (small blind) showed [6c 9s] and won 156 with High card : Ace
+Seat 3: luraa7 (big blind) showed [4s 5d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728636712203845633-5-1676860277 - Holdem no limit (20/40) - 2023/02/20 02:31:17 UTC
+Table: 'Expresso Nitro(635310242)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (267)
+Seat 2: Raichonfab (156)
+Seat 3: luraa7 (477)
+*** ANTE/BLINDS ***
+luraa7 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8h 3d]
+*** PRE-FLOP *** 
+Raichonfab calls 40
+luraa7 raises 437 to 477 and is all-in
+_SKR folds
+Raichonfab calls 116 and is all-in
+*** FLOP *** [8s Jc 7d]
+*** TURN *** [8s Jc 7d][5d]
+*** RIVER *** [8s Jc 7d 5d][Qh]
+*** SHOW DOWN ***
+Raichonfab shows [3c 7s] (One pair : 7)
+luraa7 shows [Ac Jh] (One pair : Jacks)
+luraa7 collected 673 from pot
+*** SUMMARY ***
+Total pot 673 | No rake
+Board: [8s Jc 7d 5d Qh]
+Seat 2: Raichonfab (button) showed [3c 7s] and lost with One pair : 7
+Seat 3: luraa7 (small blind) showed [Ac Jh] and won 673 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728636712203845633-6-1676860305 - Holdem no limit (20/40) - 2023/02/20 02:31:45 UTC
+Table: 'Expresso Nitro(635310242)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (227)
+Seat 3: luraa7 (673)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+luraa7 posts big blind 40
+Dealt to _SKR [6d 9h]
+*** PRE-FLOP *** 
+_SKR folds
+luraa7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: luraa7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728636712203845633-7-1676860312 - Holdem no limit (20/40) - 2023/02/20 02:31:52 UTC
+Table: 'Expresso Nitro(635310242)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (207)
+Seat 3: luraa7 (693)
+*** ANTE/BLINDS ***
+luraa7 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc Ah]
+*** PRE-FLOP *** 
+luraa7 raises 653 to 693 and is all-in
+_SKR calls 167 and is all-in
+*** FLOP *** [Js 2s 5d]
+*** TURN *** [Js 2s 5d][Kh]
+*** RIVER *** [Js 2s 5d Kh][As]
+*** SHOW DOWN ***
+_SKR shows [Kc Ah] (Two pairs : Aces and Kings)
+luraa7 shows [6h Qc] (High card : Ace)
+luraa7 collected 486 from side pot 1
+_SKR collected 414 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js 2s 5d Kh As]
+Seat 1: _SKR (big blind) showed [Kc Ah] and won 414 with Two pairs : Aces and Kings
+Seat 3: luraa7 (small blind) (button) showed [6h Qc] and won 486 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728636712203845633-8-1676860326 - Holdem no limit (30/60) - 2023/02/20 02:32:06 UTC
+Table: 'Expresso Nitro(635310242)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (414)
+Seat 3: luraa7 (486)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+luraa7 posts big blind 60
+Dealt to _SKR [Kc Ac]
+*** PRE-FLOP *** 
+_SKR raises 354 to 414 and is all-in
+luraa7 folds
+_SKR collected 474 from pot
+*** SUMMARY ***
+Total pot 474 | No rake
+Seat 1: _SKR (small blind) (button) won 474
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728636712203845633-9-1676860342 - Holdem no limit (30/60) - 2023/02/20 02:32:22 UTC
+Table: 'Expresso Nitro(635310242)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (474)
+Seat 3: luraa7 (426)
+*** ANTE/BLINDS ***
+luraa7 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jd Td]
+*** PRE-FLOP *** 
+luraa7 calls 30
+_SKR raises 414 to 474 and is all-in
+luraa7 folds
+_SKR collected 534 from pot
+*** SUMMARY ***
+Total pot 534 | No rake
+Seat 1: _SKR (big blind) won 534
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728636712203845633-10-1676860354 - Holdem no limit (30/60) - 2023/02/20 02:32:34 UTC
+Table: 'Expresso Nitro(635310242)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (534)
+Seat 3: luraa7 (366)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+luraa7 posts big blind 60
+Dealt to _SKR [Qh Kc]
+*** PRE-FLOP *** 
+_SKR raises 474 to 534 and is all-in
+luraa7 calls 306 and is all-in
+*** FLOP *** [Ts 6d Kh]
+*** TURN *** [Ts 6d Kh][2d]
+*** RIVER *** [Ts 6d Kh 2d][6h]
+*** SHOW DOWN ***
+luraa7 shows [Jc Qs] (One pair : 6)
+_SKR shows [Qh Kc] (Two pairs : Kings and 6)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts 6d Kh 2d 6h]
+Seat 1: _SKR (small blind) (button) showed [Qh Kc] and won 900 with Two pairs : Kings and 6
+Seat 3: luraa7 (big blind) showed [Jc Qs] and lost with One pair : 6
+
+

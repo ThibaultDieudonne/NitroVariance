@@ -1,0 +1,134 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689853376564297729-1-1674655809 - Holdem no limit (10/20) - 2023/01/25 14:10:09 UTC
+Table: 'Expresso Nitro(626280293)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: 1996AAdam (300)
+Seat 3: vuesurmer (300)
+*** ANTE/BLINDS ***
+1996AAdam posts small blind 10
+vuesurmer posts big blind 20
+Dealt to _SKR [Jd 2c]
+*** PRE-FLOP *** 
+_SKR folds
+1996AAdam folds
+vuesurmer collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: vuesurmer (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689853376564297729-2-1674655818 - Holdem no limit (10/20) - 2023/01/25 14:10:18 UTC
+Table: 'Expresso Nitro(626280293)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: 1996AAdam (290)
+Seat 3: vuesurmer (310)
+*** ANTE/BLINDS ***
+vuesurmer posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc 3h]
+*** PRE-FLOP *** 
+1996AAdam raises 20 to 40
+vuesurmer folds
+_SKR folds
+1996AAdam collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: 1996AAdam (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689853376564297729-3-1674655826 - Holdem no limit (10/20) - 2023/01/25 14:10:26 UTC
+Table: 'Expresso Nitro(626280293)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: 1996AAdam (320)
+Seat 3: vuesurmer (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+1996AAdam posts big blind 20
+Dealt to _SKR [5d 3s]
+*** PRE-FLOP *** 
+vuesurmer raises 20 to 40
+_SKR folds
+1996AAdam folds
+vuesurmer collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: vuesurmer (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689853376564297729-4-1674655832 - Holdem no limit (10/20) - 2023/01/25 14:10:32 UTC
+Table: 'Expresso Nitro(626280293)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: 1996AAdam (300)
+Seat 3: vuesurmer (330)
+*** ANTE/BLINDS ***
+1996AAdam posts small blind 10
+vuesurmer posts big blind 20
+Dealt to _SKR [Ks 9s]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+1996AAdam folds
+vuesurmer calls 20
+*** FLOP *** [9d Jd 3s]
+vuesurmer checks
+_SKR checks
+*** TURN *** [9d Jd 3s][Ts]
+vuesurmer checks
+_SKR bets 45
+vuesurmer folds
+_SKR collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [9d Jd 3s Ts]
+Seat 1: _SKR (button) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689853376564297729-5-1674655862 - Holdem no limit (10/20) - 2023/01/25 14:11:02 UTC
+Table: 'Expresso Nitro(626280293)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (320)
+Seat 2: 1996AAdam (290)
+Seat 3: vuesurmer (290)
+*** ANTE/BLINDS ***
+vuesurmer posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Js]
+*** PRE-FLOP *** 
+1996AAdam raises 20 to 40
+vuesurmer folds
+_SKR calls 20
+*** FLOP *** [2c 9s 9h]
+_SKR checks
+1996AAdam bets 31
+_SKR folds
+1996AAdam collected 121 from pot
+*** SUMMARY ***
+Total pot 121 | No rake
+Board: [2c 9s 9h]
+Seat 2: 1996AAdam (button) won 121
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689853376564297729-6-1674655884 - Holdem no limit (15/30) - 2023/01/25 14:11:24 UTC
+Table: 'Expresso Nitro(626280293)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: 1996AAdam (340)
+Seat 3: vuesurmer (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+1996AAdam posts big blind 30
+Dealt to _SKR [Jd 7d]
+*** PRE-FLOP *** 
+vuesurmer folds
+_SKR raises 250 to 280 and is all-in
+1996AAdam raises 60 to 340 and is all-in
+*** FLOP *** [9s 4c Kc]
+*** TURN *** [9s 4c Kc][2d]
+*** RIVER *** [9s 4c Kc 2d][As]
+*** SHOW DOWN ***
+_SKR shows [Jd 7d] (High card : Ace)
+1996AAdam shows [Kh Qd] (One pair : Kings)
+1996AAdam collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9s 4c Kc 2d As]
+Seat 1: _SKR (small blind) showed [Jd 7d] and lost with High card : Ace
+Seat 2: 1996AAdam (big blind) showed [Kh Qd] and won 620 with One pair : Kings
+
+

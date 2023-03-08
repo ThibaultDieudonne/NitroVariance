@@ -1,0 +1,45 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689774855972192257-1-1674651080 - Holdem no limit (10/20) - 2023/01/25 12:51:20 UTC
+Table: 'Expresso Nitro(626262011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Luporcino (300)
+Seat 2: _SKR (300)
+Seat 3: chetana87 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+chetana87 posts big blind 20
+Dealt to _SKR [4d Ts]
+*** PRE-FLOP *** 
+Luporcino folds
+_SKR folds
+chetana87 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: chetana87 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689774855972192257-2-1674651085 - Holdem no limit (10/20) - 2023/01/25 12:51:25 UTC
+Table: 'Expresso Nitro(626262011)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Luporcino (300)
+Seat 2: _SKR (290)
+Seat 3: chetana87 (310)
+*** ANTE/BLINDS ***
+chetana87 posts small blind 10
+Luporcino posts big blind 20
+Dealt to _SKR [Ad 4c]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+chetana87 calls 280
+Luporcino folds
+*** FLOP *** [Jc Js 6h]
+*** TURN *** [Jc Js 6h][2c]
+*** RIVER *** [Jc Js 6h 2c][Qd]
+*** SHOW DOWN ***
+_SKR shows [Ad 4c] (One pair : Jacks)
+chetana87 shows [As 2s] (Two pairs : Jacks and 2)
+chetana87 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jc Js 6h 2c Qd]
+Seat 2: _SKR (button) showed [Ad 4c] and lost with One pair : Jacks
+Seat 3: chetana87 (small blind) showed [As 2s] and won 600 with Two pairs : Jacks and 2
+
+

@@ -1,0 +1,407 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690599317894332417-1-1674687383 - Holdem no limit (10/20) - 2023/01/25 22:56:23 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bebechamel (300)
+Seat 2: _SKR (300)
+Seat 3: fornikator36 (300)
+*** ANTE/BLINDS ***
+bebechamel posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jh 9s]
+*** PRE-FLOP *** 
+fornikator36 folds
+bebechamel raises 280 to 300 and is all-in
+_SKR folds
+bebechamel collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: bebechamel (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690599317894332417-2-1674687391 - Holdem no limit (10/20) - 2023/01/25 22:56:31 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bebechamel (320)
+Seat 2: _SKR (280)
+Seat 3: fornikator36 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+fornikator36 posts big blind 20
+Dealt to _SKR [Qh 7c]
+*** PRE-FLOP *** 
+bebechamel raises 300 to 320 and is all-in
+_SKR folds
+fornikator36 calls 280 and is all-in
+*** FLOP *** [Qs Tc 2h]
+*** TURN *** [Qs Tc 2h][As]
+*** RIVER *** [Qs Tc 2h As][9h]
+*** SHOW DOWN ***
+bebechamel shows [4d Ad] (One pair : Aces)
+fornikator36 shows [Ah 8h] (One pair : Aces)
+fornikator36 collected 305 from main pot
+bebechamel collected 325 from side pot 1
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qs Tc 2h As 9h]
+Seat 1: bebechamel (button) showed [4d Ad] and won 325 with One pair : Aces
+Seat 3: fornikator36 (big blind) showed [Ah 8h] and won 305 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690599317894332417-3-1674687404 - Holdem no limit (10/20) - 2023/01/25 22:56:44 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bebechamel (325)
+Seat 2: _SKR (270)
+Seat 3: fornikator36 (305)
+*** ANTE/BLINDS ***
+fornikator36 posts small blind 10
+bebechamel posts big blind 20
+Dealt to _SKR [Kd Ad]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+fornikator36 calls 30
+bebechamel calls 20
+*** FLOP *** [6h Kc 4d]
+fornikator36 checks
+bebechamel checks
+_SKR bets 42
+fornikator36 calls 42
+bebechamel folds
+*** TURN *** [6h Kc 4d][Qs]
+fornikator36 checks
+_SKR bets 71
+fornikator36 raises 152 to 223 and is all-in
+_SKR calls 117 and is all-in
+*** RIVER *** [6h Kc 4d Qs][6d]
+*** SHOW DOWN ***
+_SKR shows [Kd Ad] (Two pairs : Kings and 6)
+fornikator36 shows [Ks Ts] (Two pairs : Kings and 6)
+fornikator36 collected 35 from side pot 1
+_SKR collected 580 from main pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Board: [6h Kc 4d Qs 6d]
+Seat 2: _SKR (button) showed [Kd Ad] and won 580 with Two pairs : Kings and 6
+Seat 3: fornikator36 (small blind) showed [Ks Ts] and won 35 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690599317894332417-4-1674687442 - Holdem no limit (15/30) - 2023/01/25 22:57:22 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bebechamel (285)
+Seat 2: _SKR (580)
+Seat 3: fornikator36 (35)
+*** ANTE/BLINDS ***
+bebechamel posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5d 7c]
+*** PRE-FLOP *** 
+fornikator36 raises 5 to 35 and is all-in
+bebechamel folds
+_SKR folds
+fornikator36 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: fornikator36 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690599317894332417-5-1674687454 - Holdem no limit (15/30) - 2023/01/25 22:57:34 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bebechamel (270)
+Seat 2: _SKR (550)
+Seat 3: fornikator36 (80)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+fornikator36 posts big blind 30
+Dealt to _SKR [7h Ts]
+*** PRE-FLOP *** 
+bebechamel folds
+_SKR folds
+fornikator36 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: fornikator36 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690599317894332417-6-1674687462 - Holdem no limit (15/30) - 2023/01/25 22:57:42 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bebechamel (270)
+Seat 2: _SKR (535)
+Seat 3: fornikator36 (95)
+*** ANTE/BLINDS ***
+fornikator36 posts small blind 15
+bebechamel posts big blind 30
+Dealt to _SKR [3c 6h]
+*** PRE-FLOP *** 
+_SKR folds
+fornikator36 folds
+bebechamel collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: bebechamel (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690599317894332417-7-1674687475 - Holdem no limit (15/30) - 2023/01/25 22:57:55 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bebechamel (285)
+Seat 2: _SKR (535)
+Seat 3: fornikator36 (80)
+*** ANTE/BLINDS ***
+bebechamel posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qs As]
+*** PRE-FLOP *** 
+fornikator36 folds
+bebechamel folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690599317894332417-8-1674687479 - Holdem no limit (15/30) - 2023/01/25 22:57:59 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bebechamel (270)
+Seat 2: _SKR (550)
+Seat 3: fornikator36 (80)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+fornikator36 posts big blind 30
+Dealt to _SKR [6s Jc]
+*** PRE-FLOP *** 
+bebechamel raises 60 to 90
+_SKR folds
+fornikator36 folds
+bebechamel collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 1: bebechamel (button) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690599317894332417-9-1674687504 - Holdem no limit (20/40) - 2023/01/25 22:58:24 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bebechamel (315)
+Seat 2: _SKR (535)
+Seat 3: fornikator36 (50)
+*** ANTE/BLINDS ***
+fornikator36 posts small blind 20
+bebechamel posts big blind 40
+Dealt to _SKR [Ks Jd]
+*** PRE-FLOP *** 
+_SKR raises 495 to 535 and is all-in
+fornikator36 calls 30 and is all-in
+bebechamel folds
+*** FLOP *** [7d 7h As]
+*** TURN *** [7d 7h As][Th]
+*** RIVER *** [7d 7h As Th][5h]
+*** SHOW DOWN ***
+_SKR shows [Ks Jd] (One pair : 7)
+fornikator36 shows [Jc Td] (Two pairs : Tens and 7)
+fornikator36 collected 140 from main pot
+_SKR collected 485 from side pot 1
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [7d 7h As Th 5h]
+Seat 2: _SKR (button) showed [Ks Jd] and won 485 with One pair : 7
+Seat 3: fornikator36 (small blind) showed [Jc Td] and won 140 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690599317894332417-10-1674687524 - Holdem no limit (20/40) - 2023/01/25 22:58:44 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bebechamel (275)
+Seat 2: _SKR (485)
+Seat 3: fornikator36 (140)
+*** ANTE/BLINDS ***
+bebechamel posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6s 9h]
+*** PRE-FLOP *** 
+fornikator36 folds
+bebechamel raises 235 to 275 and is all-in
+_SKR folds
+bebechamel collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 1: bebechamel (small blind) won 315
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690599317894332417-11-1674687538 - Holdem no limit (20/40) - 2023/01/25 22:58:58 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bebechamel (315)
+Seat 2: _SKR (445)
+Seat 3: fornikator36 (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+fornikator36 posts big blind 40
+Dealt to _SKR [Kd Ad]
+*** PRE-FLOP *** 
+bebechamel folds
+_SKR raises 405 to 445 and is all-in
+fornikator36 calls 100 and is all-in
+*** FLOP *** [Ah 5s Qs]
+*** TURN *** [Ah 5s Qs][As]
+*** RIVER *** [Ah 5s Qs As][6d]
+*** SHOW DOWN ***
+fornikator36 shows [Js Qc] (Two pairs : Aces and Queens)
+_SKR shows [Kd Ad] (Trips of Aces)
+_SKR collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Board: [Ah 5s Qs As 6d]
+Seat 2: _SKR (small blind) showed [Kd Ad] and won 585 with Trips of Aces
+Seat 3: fornikator36 (big blind) showed [Js Qc] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690599317894332417-12-1674687558 - Holdem no limit (20/40) - 2023/01/25 22:59:18 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bebechamel (315)
+Seat 2: _SKR (585)
+*** ANTE/BLINDS ***
+bebechamel posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qh 2s]
+*** PRE-FLOP *** 
+bebechamel folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690599317894332417-13-1674687569 - Holdem no limit (30/60) - 2023/01/25 22:59:29 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bebechamel (295)
+Seat 2: _SKR (605)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+bebechamel posts big blind 60
+Dealt to _SKR [6h 4c]
+*** PRE-FLOP *** 
+_SKR folds
+bebechamel collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: bebechamel (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690599317894332417-14-1674687585 - Holdem no limit (30/60) - 2023/01/25 22:59:45 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bebechamel (325)
+Seat 2: _SKR (575)
+*** ANTE/BLINDS ***
+bebechamel posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8h Ad]
+*** PRE-FLOP *** 
+bebechamel raises 265 to 325 and is all-in
+_SKR calls 265
+*** FLOP *** [4c 6d 6h]
+*** TURN *** [4c 6d 6h][2c]
+*** RIVER *** [4c 6d 6h 2c][Qs]
+*** SHOW DOWN ***
+_SKR shows [8h Ad] (One pair : 6)
+bebechamel shows [Kc Kh] (Two pairs : Kings and 6)
+bebechamel collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [4c 6d 6h 2c Qs]
+Seat 1: bebechamel (small blind) (button) showed [Kc Kh] and won 650 with Two pairs : Kings and 6
+Seat 2: _SKR (big blind) showed [8h Ad] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690599317894332417-15-1674687606 - Holdem no limit (30/60) - 2023/01/25 23:00:06 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bebechamel (650)
+Seat 2: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+bebechamel posts big blind 60
+Dealt to _SKR [Ts Ah]
+*** PRE-FLOP *** 
+_SKR raises 190 to 250 and is all-in
+bebechamel folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: _SKR (small blind) (button) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690599317894332417-16-1674687612 - Holdem no limit (30/60) - 2023/01/25 23:00:12 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bebechamel (590)
+Seat 2: _SKR (310)
+*** ANTE/BLINDS ***
+bebechamel posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9c 5d]
+*** PRE-FLOP *** 
+bebechamel folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690599317894332417-17-1674687615 - Holdem no limit (30/60) - 2023/01/25 23:00:15 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bebechamel (560)
+Seat 2: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+bebechamel posts big blind 60
+Dealt to _SKR [2c 4c]
+*** PRE-FLOP *** 
+_SKR folds
+bebechamel collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: bebechamel (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2690599317894332417-18-1674687619 - Holdem no limit (40/80) - 2023/01/25 23:00:19 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bebechamel (590)
+Seat 2: _SKR (310)
+*** ANTE/BLINDS ***
+bebechamel posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Qs 9s]
+*** PRE-FLOP *** 
+bebechamel raises 510 to 590 and is all-in
+_SKR calls 230 and is all-in
+*** FLOP *** [7s 2s 9c]
+*** TURN *** [7s 2s 9c][Ks]
+*** RIVER *** [7s 2s 9c Ks][8h]
+*** SHOW DOWN ***
+bebechamel shows [8c Ts] (One pair : 8)
+_SKR shows [Qs 9s] (Flush King high)
+_SKR collected 620 from main pot
+bebechamel collected 280 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s 2s 9c Ks 8h]
+Seat 1: bebechamel (small blind) (button) showed [8c Ts] and won 280 with One pair : 8
+Seat 2: _SKR (big blind) showed [Qs 9s] and won 620 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2690599317894332417-19-1674687638 - Holdem no limit (40/80) - 2023/01/25 23:00:38 UTC
+Table: 'Expresso Nitro(626453971)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bebechamel (280)
+Seat 2: _SKR (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+bebechamel posts big blind 80
+Dealt to _SKR [Ah 3c]
+*** PRE-FLOP *** 
+_SKR raises 540 to 620 and is all-in
+bebechamel calls 200 and is all-in
+*** FLOP *** [2h As Js]
+*** TURN *** [2h As Js][6h]
+*** RIVER *** [2h As Js 6h][5c]
+*** SHOW DOWN ***
+bebechamel shows [Kh 4d] (High card : Ace)
+_SKR shows [Ah 3c] (One pair : Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2h As Js 6h 5c]
+Seat 1: bebechamel (big blind) showed [Kh 4d] and lost with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [Ah 3c] and won 900 with One pair : Aces
+
+

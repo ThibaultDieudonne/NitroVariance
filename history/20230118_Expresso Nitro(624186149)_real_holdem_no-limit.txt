@@ -1,0 +1,344 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680859096571183105-1-1674082343 - Holdem no limit (10/20) - 2023/01/18 22:52:23 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MiMiSiQ (300)
+Seat 2: cooll (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+cooll posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d 2h]
+*** PRE-FLOP *** 
+MiMiSiQ raises 280 to 300 and is all-in
+cooll folds
+_SKR folds
+MiMiSiQ collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: MiMiSiQ (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680859096571183105-2-1674082352 - Holdem no limit (10/20) - 2023/01/18 22:52:32 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MiMiSiQ (330)
+Seat 2: cooll (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MiMiSiQ posts big blind 20
+Dealt to _SKR [5h 9d]
+*** PRE-FLOP *** 
+cooll folds
+_SKR folds
+MiMiSiQ collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: MiMiSiQ (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680859096571183105-3-1674082362 - Holdem no limit (10/20) - 2023/01/18 22:52:42 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MiMiSiQ (340)
+Seat 2: cooll (290)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+MiMiSiQ posts small blind 10
+cooll posts big blind 20
+Dealt to _SKR [Js Td]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+MiMiSiQ folds
+cooll folds
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: _SKR (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680859096571183105-4-1674082375 - Holdem no limit (10/20) - 2023/01/18 22:52:55 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MiMiSiQ (330)
+Seat 2: cooll (270)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+cooll posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd 8d]
+*** PRE-FLOP *** 
+MiMiSiQ raises 20 to 40
+cooll folds
+_SKR calls 20
+*** FLOP *** [4c 5d 7c]
+_SKR checks
+MiMiSiQ bets 32
+_SKR calls 32
+*** TURN *** [4c 5d 7c][8s]
+_SKR checks
+MiMiSiQ bets 39
+_SKR calls 39
+*** RIVER *** [4c 5d 7c 8s][Ks]
+_SKR checks
+MiMiSiQ bets 81
+_SKR calls 81
+*** SHOW DOWN ***
+MiMiSiQ shows [9c Qd] (High card : King)
+_SKR shows [Kd 8d] (Two pairs : Kings and 8)
+_SKR collected 394 from pot
+*** SUMMARY ***
+Total pot 394 | No rake
+Board: [4c 5d 7c 8s Ks]
+Seat 1: MiMiSiQ (button) showed [9c Qd] and lost with High card : King
+Seat 3: _SKR (big blind) showed [Kd 8d] and won 394 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680859096571183105-5-1674082458 - Holdem no limit (15/30) - 2023/01/18 22:54:18 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MiMiSiQ (138)
+Seat 2: cooll (260)
+Seat 3: _SKR (502)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+MiMiSiQ posts big blind 30
+Dealt to _SKR [Ad 6s]
+*** PRE-FLOP *** 
+cooll folds
+_SKR raises 472 to 502 and is all-in
+MiMiSiQ calls 108 and is all-in
+*** FLOP *** [9d 7d 3d]
+*** TURN *** [9d 7d 3d][2c]
+*** RIVER *** [9d 7d 3d 2c][Jh]
+*** SHOW DOWN ***
+MiMiSiQ shows [8c 9c] (One pair : 9)
+_SKR shows [Ad 6s] (High card : Ace)
+_SKR collected 364 from side pot 1
+MiMiSiQ collected 276 from main pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [9d 7d 3d 2c Jh]
+Seat 1: MiMiSiQ (big blind) showed [8c 9c] and won 276 with One pair : 9
+Seat 3: _SKR (small blind) showed [Ad 6s] and won 364 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680859096571183105-6-1674082474 - Holdem no limit (20/40) - 2023/01/18 22:54:34 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MiMiSiQ (276)
+Seat 2: cooll (260)
+Seat 3: _SKR (364)
+*** ANTE/BLINDS ***
+MiMiSiQ posts small blind 20
+cooll posts big blind 40
+Dealt to _SKR [Qs Ad]
+*** PRE-FLOP *** 
+_SKR raises 324 to 364 and is all-in
+MiMiSiQ folds
+cooll calls 220 and is all-in
+*** FLOP *** [9h 8c 3s]
+*** TURN *** [9h 8c 3s][2s]
+*** RIVER *** [9h 8c 3s 2s][Jc]
+*** SHOW DOWN ***
+cooll shows [Qc Jh] (One pair : Jacks)
+_SKR shows [Qs Ad] (High card : Ace)
+_SKR collected 104 from side pot 1
+cooll collected 540 from main pot
+*** SUMMARY ***
+Total pot 644 | No rake
+Board: [9h 8c 3s 2s Jc]
+Seat 2: cooll (big blind) showed [Qc Jh] and won 540 with One pair : Jacks
+Seat 3: _SKR (button) showed [Qs Ad] and won 104 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680859096571183105-7-1674082488 - Holdem no limit (20/40) - 2023/01/18 22:54:48 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MiMiSiQ (256)
+Seat 2: cooll (540)
+Seat 3: _SKR (104)
+*** ANTE/BLINDS ***
+cooll posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ad Ts]
+*** PRE-FLOP *** 
+MiMiSiQ raises 216 to 256 and is all-in
+cooll folds
+_SKR calls 64 and is all-in
+*** FLOP *** [Kh Jd 5h]
+*** TURN *** [Kh Jd 5h][Js]
+*** RIVER *** [Kh Jd 5h Js][Tc]
+*** SHOW DOWN ***
+MiMiSiQ shows [6d 6c] (Two pairs : Jacks and 6)
+_SKR shows [Ad Ts] (Two pairs : Jacks and Tens)
+_SKR collected 228 from main pot
+MiMiSiQ collected 152 from side pot 1
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Kh Jd 5h Js Tc]
+Seat 1: MiMiSiQ (button) showed [6d 6c] and won 152 with Two pairs : Jacks and 6
+Seat 3: _SKR (big blind) showed [Ad Ts] and won 228 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680859096571183105-8-1674082505 - Holdem no limit (20/40) - 2023/01/18 22:55:05 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MiMiSiQ (152)
+Seat 2: cooll (520)
+Seat 3: _SKR (228)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+MiMiSiQ posts big blind 40
+Dealt to _SKR [Js Jc]
+*** PRE-FLOP *** 
+cooll calls 40
+_SKR raises 188 to 228 and is all-in
+MiMiSiQ folds
+cooll folds
+_SKR collected 308 from pot
+*** SUMMARY ***
+Total pot 308 | No rake
+Seat 3: _SKR (small blind) won 308
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680859096571183105-9-1674082528 - Holdem no limit (30/60) - 2023/01/18 22:55:28 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MiMiSiQ (112)
+Seat 2: cooll (480)
+Seat 3: _SKR (308)
+*** ANTE/BLINDS ***
+MiMiSiQ posts small blind 30
+cooll posts big blind 60
+Dealt to _SKR [8h 7c]
+*** PRE-FLOP *** 
+_SKR folds
+MiMiSiQ raises 52 to 112 and is all-in
+cooll folds
+MiMiSiQ collected 172 from pot
+*** SUMMARY ***
+Total pot 172 | No rake
+Seat 1: MiMiSiQ (small blind) won 172
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680859096571183105-10-1674082541 - Holdem no limit (30/60) - 2023/01/18 22:55:41 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MiMiSiQ (172)
+Seat 2: cooll (420)
+Seat 3: _SKR (308)
+*** ANTE/BLINDS ***
+cooll posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qc 9h]
+*** PRE-FLOP *** 
+MiMiSiQ folds
+cooll folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680859096571183105-11-1674082550 - Holdem no limit (30/60) - 2023/01/18 22:55:50 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MiMiSiQ (172)
+Seat 2: cooll (390)
+Seat 3: _SKR (338)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+MiMiSiQ posts big blind 60
+Dealt to _SKR [Kc 6h]
+*** PRE-FLOP *** 
+cooll calls 60
+_SKR folds
+MiMiSiQ raises 112 to 172 and is all-in
+cooll calls 112
+*** FLOP *** [Qd As 7d]
+*** TURN *** [Qd As 7d][Ah]
+*** RIVER *** [Qd As 7d Ah][Jd]
+*** SHOW DOWN ***
+cooll shows [Ks 8h] (One pair : Aces)
+MiMiSiQ shows [7c 7s] (Full of 7 and Aces)
+MiMiSiQ collected 374 from pot
+*** SUMMARY ***
+Total pot 374 | No rake
+Board: [Qd As 7d Ah Jd]
+Seat 1: MiMiSiQ (big blind) showed [7c 7s] and won 374 with Full of 7 and Aces
+Seat 2: cooll (button) showed [Ks 8h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2680859096571183105-12-1674082585 - Holdem no limit (40/80) - 2023/01/18 22:56:25 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MiMiSiQ (374)
+Seat 2: cooll (218)
+Seat 3: _SKR (308)
+*** ANTE/BLINDS ***
+MiMiSiQ posts small blind 40
+cooll posts big blind 80
+Dealt to _SKR [9d Qs]
+*** PRE-FLOP *** 
+_SKR raises 228 to 308 and is all-in
+MiMiSiQ folds
+cooll calls 138 and is all-in
+*** FLOP *** [6h Ac 5s]
+*** TURN *** [6h Ac 5s][9h]
+*** RIVER *** [6h Ac 5s 9h][5c]
+*** SHOW DOWN ***
+cooll shows [4h Ad] (Two pairs : Aces and 5)
+_SKR shows [9d Qs] (Two pairs : 9 and 5)
+_SKR collected 90 from side pot 1
+cooll collected 476 from main pot
+*** SUMMARY ***
+Total pot 566 | No rake
+Board: [6h Ac 5s 9h 5c]
+Seat 2: cooll (big blind) showed [4h Ad] and won 476 with Two pairs : Aces and 5
+Seat 3: _SKR (button) showed [9d Qs] and won 90 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2680859096571183105-13-1674082598 - Holdem no limit (40/80) - 2023/01/18 22:56:38 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MiMiSiQ (334)
+Seat 2: cooll (476)
+Seat 3: _SKR (90)
+*** ANTE/BLINDS ***
+cooll posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [9h Th]
+*** PRE-FLOP *** 
+MiMiSiQ raises 254 to 334 and is all-in
+cooll folds
+_SKR calls 10 and is all-in
+*** FLOP *** [Td 5c 8h]
+*** TURN *** [Td 5c 8h][7c]
+*** RIVER *** [Td 5c 8h 7c][Jc]
+*** SHOW DOWN ***
+MiMiSiQ shows [4c Kh] (High card : King)
+_SKR shows [9h Th] (Straight Jack high)
+_SKR collected 220 from main pot
+MiMiSiQ collected 244 from side pot 1
+*** SUMMARY ***
+Total pot 464 | No rake
+Board: [Td 5c 8h 7c Jc]
+Seat 1: MiMiSiQ (button) showed [4c Kh] and won 244 with High card : King
+Seat 3: _SKR (big blind) showed [9h Th] and won 220 with Straight Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2680859096571183105-14-1674082614 - Holdem no limit (40/80) - 2023/01/18 22:56:54 UTC
+Table: 'Expresso Nitro(624186149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MiMiSiQ (244)
+Seat 2: cooll (436)
+Seat 3: _SKR (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+MiMiSiQ posts big blind 80
+Dealt to _SKR [Td Qc]
+*** PRE-FLOP *** 
+cooll folds
+_SKR raises 140 to 220 and is all-in
+MiMiSiQ raises 24 to 244 and is all-in
+*** FLOP *** [7s 8s 2d]
+*** TURN *** [7s 8s 2d][9c]
+*** RIVER *** [7s 8s 2d 9c][5c]
+*** SHOW DOWN ***
+_SKR shows [Td Qc] (High card : Queen)
+MiMiSiQ shows [8c Js] (One pair : 8)
+MiMiSiQ collected 464 from pot
+*** SUMMARY ***
+Total pot 464 | No rake
+Board: [7s 8s 2d 9c 5c]
+Seat 1: MiMiSiQ (big blind) showed [8c Js] and won 464 with One pair : 8
+Seat 3: _SKR (small blind) showed [Td Qc] and lost with High card : Queen
+
+

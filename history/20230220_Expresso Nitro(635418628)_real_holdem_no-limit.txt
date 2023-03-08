@@ -1,0 +1,87 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729102226529189889-1-1676900723 - Holdem no limit (10/20) - 2023/02/20 13:45:23 UTC
+Table: 'Expresso Nitro(635418628)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ted Bounty (300)
+Seat 2: _SKR (300)
+Seat 3: Fabienh1988 (300)
+*** ANTE/BLINDS ***
+Fabienh1988 posts small blind 10
+Ted Bounty posts big blind 20
+Dealt to _SKR [4d 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Fabienh1988 calls 10
+Ted Bounty checks
+*** FLOP *** [Ks Ts Ad]
+Fabienh1988 checks
+Ted Bounty checks
+*** TURN *** [Ks Ts Ad][8s]
+Fabienh1988 checks
+Ted Bounty bets 20
+Fabienh1988 calls 20
+*** RIVER *** [Ks Ts Ad 8s][8c]
+Fabienh1988 checks
+Ted Bounty checks
+*** SHOW DOWN ***
+Ted Bounty shows [Qc Th] (Two pairs : Tens and 8)
+Fabienh1988 shows [2c Kc] (Two pairs : Kings and 8)
+Fabienh1988 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ks Ts Ad 8s 8c]
+Seat 1: Ted Bounty (big blind) showed [Qc Th] and lost with Two pairs : Tens and 8
+Seat 3: Fabienh1988 (small blind) showed [2c Kc] and won 80 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729102226529189889-2-1676900761 - Holdem no limit (10/20) - 2023/02/20 13:46:01 UTC
+Table: 'Expresso Nitro(635418628)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ted Bounty (260)
+Seat 2: _SKR (300)
+Seat 3: Fabienh1988 (340)
+*** ANTE/BLINDS ***
+Ted Bounty posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc 8s]
+*** PRE-FLOP *** 
+Fabienh1988 folds
+Ted Bounty calls 10
+_SKR raises 30 to 50
+Ted Bounty folds
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: _SKR (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729102226529189889-3-1676900779 - Holdem no limit (15/30) - 2023/02/20 13:46:19 UTC
+Table: 'Expresso Nitro(635418628)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ted Bounty (240)
+Seat 2: _SKR (320)
+Seat 3: Fabienh1988 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Fabienh1988 posts big blind 30
+Dealt to _SKR [7c Qd]
+*** PRE-FLOP *** 
+Ted Bounty folds
+_SKR calls 15
+Fabienh1988 checks
+*** FLOP *** [Ts 9h 2c]
+_SKR bets 30
+Fabienh1988 calls 30
+*** TURN *** [Ts 9h 2c][Kd]
+_SKR bets 60
+Fabienh1988 calls 60
+*** RIVER *** [Ts 9h 2c Kd][9c]
+_SKR bets 200 and is all-in
+Fabienh1988 raises 20 to 220 and is all-in
+*** SHOW DOWN ***
+_SKR shows [7c Qd] (One pair : 9)
+Fabienh1988 shows [4h 4s] (Two pairs : 9 and 4)
+Fabienh1988 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Ts 9h 2c Kd 9c]
+Seat 2: _SKR (small blind) showed [7c Qd] and lost with One pair : 9
+Seat 3: Fabienh1988 (big blind) showed [4h 4s] and won 660 with Two pairs : 9 and 4
+
+

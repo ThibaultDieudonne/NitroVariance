@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661552174898610177-1-1673018644 - Holdem no limit (10/20) - 2023/01/06 15:24:04 UTC
+Table: 'Expresso Nitro(619690906)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Ghostx22 (300)
+Seat 3: Fanou_974 (300)
+*** ANTE/BLINDS ***
+Fanou_974 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 8d]
+*** PRE-FLOP *** 
+Ghostx22 calls 20
+Fanou_974 raises 280 to 300 and is all-in
+_SKR folds
+Ghostx22 folds
+Fanou_974 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: Fanou_974 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661552174898610177-2-1673018677 - Holdem no limit (10/20) - 2023/01/06 15:24:37 UTC
+Table: 'Expresso Nitro(619690906)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Ghostx22 (280)
+Seat 3: Fanou_974 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ghostx22 posts big blind 20
+Dealt to _SKR [7s 4d]
+*** PRE-FLOP *** 
+Fanou_974 raises 40 to 60
+_SKR folds
+Ghostx22 folds
+Fanou_974 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Fanou_974 (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661552174898610177-3-1673018697 - Holdem no limit (10/20) - 2023/01/06 15:24:57 UTC
+Table: 'Expresso Nitro(619690906)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Ghostx22 (260)
+Seat 3: Fanou_974 (370)
+*** ANTE/BLINDS ***
+Ghostx22 posts small blind 10
+Fanou_974 posts big blind 20
+Dealt to _SKR [Qh 9s]
+*** PRE-FLOP *** 
+_SKR folds
+Ghostx22 folds
+Fanou_974 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Fanou_974 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661552174898610177-4-1673018703 - Holdem no limit (15/30) - 2023/01/06 15:25:03 UTC
+Table: 'Expresso Nitro(619690906)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Ghostx22 (250)
+Seat 3: Fanou_974 (380)
+*** ANTE/BLINDS ***
+Fanou_974 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4d Jd]
+*** PRE-FLOP *** 
+Ghostx22 raises 220 to 250 and is all-in
+Fanou_974 raises 130 to 380 and is all-in
+_SKR folds
+*** FLOP *** [4c 9d 3h]
+*** TURN *** [4c 9d 3h][9c]
+*** RIVER *** [4c 9d 3h 9c][6s]
+*** SHOW DOWN ***
+Ghostx22 shows [Qc 7d] (One pair : 9)
+Fanou_974 shows [Ah Tc] (One pair : 9)
+Fanou_974 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [4c 9d 3h 9c 6s]
+Seat 2: Ghostx22 (button) showed [Qc 7d] and lost with One pair : 9
+Seat 3: Fanou_974 (small blind) showed [Ah Tc] and won 660 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661552174898610177-5-1673018723 - Holdem no limit (15/30) - 2023/01/06 15:25:23 UTC
+Table: 'Expresso Nitro(619690906)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (240)
+Seat 3: Fanou_974 (660)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Fanou_974 posts big blind 30
+Dealt to _SKR [4s Ah]
+*** PRE-FLOP *** 
+_SKR raises 210 to 240 and is all-in
+Fanou_974 calls 210
+*** FLOP *** [Ts 9h 8d]
+*** TURN *** [Ts 9h 8d][Th]
+*** RIVER *** [Ts 9h 8d Th][9c]
+*** SHOW DOWN ***
+_SKR shows [4s Ah] (Two pairs : Tens and 9)
+Fanou_974 shows [6c 7d] (Straight Ten high)
+Fanou_974 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ts 9h 8d Th 9c]
+Seat 1: _SKR (small blind) (button) showed [4s Ah] and lost with Two pairs : Tens and 9
+Seat 3: Fanou_974 (big blind) showed [6c 7d] and won 480 with Straight Ten high
+
+

@@ -1,0 +1,205 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676355479763943425-1-1673821123 - Holdem no limit (10/20) - 2023/01/15 22:18:43 UTC
+Table: 'Expresso Nitro(623137569)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DT-Boss55616 (300)
+Seat 2: khalidou-92 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+DT-Boss55616 posts big blind 20
+Dealt to _SKR [6c 6h]
+*** PRE-FLOP *** 
+khalidou-92 folds
+_SKR raises 280 to 300 and is all-in
+DT-Boss55616 calls 280 and is all-in
+*** FLOP *** [7s Kd 2h]
+*** TURN *** [7s Kd 2h][Jc]
+*** RIVER *** [7s Kd 2h Jc][3h]
+*** SHOW DOWN ***
+DT-Boss55616 shows [3d Qh] (One pair : 3)
+_SKR shows [6c 6h] (One pair : 6)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7s Kd 2h Jc 3h]
+Seat 1: DT-Boss55616 (big blind) showed [3d Qh] and lost with One pair : 3
+Seat 3: _SKR (small blind) showed [6c 6h] and won 600 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676355479763943425-2-1673821140 - Holdem no limit (10/20) - 2023/01/15 22:19:00 UTC
+Table: 'Expresso Nitro(623137569)#0' 3-max (real money) Seat #2 is the button
+Seat 2: khalidou-92 (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+khalidou-92 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5h 7s]
+*** PRE-FLOP *** 
+khalidou-92 calls 10
+_SKR checks
+*** FLOP *** [5s Qd Ks]
+_SKR checks
+khalidou-92 bets 20
+_SKR calls 20
+*** TURN *** [5s Qd Ks][5d]
+_SKR checks
+khalidou-92 bets 28
+_SKR calls 28
+*** RIVER *** [5s Qd Ks 5d][Js]
+_SKR checks
+khalidou-92 checks
+*** SHOW DOWN ***
+khalidou-92 shows [6d 8s] (One pair : 5)
+_SKR shows [5h 7s] (Trips of 5)
+_SKR collected 136 from pot
+*** SUMMARY ***
+Total pot 136 | No rake
+Board: [5s Qd Ks 5d Js]
+Seat 2: khalidou-92 (small blind) (button) showed [6d 8s] and lost with One pair : 5
+Seat 3: _SKR (big blind) showed [5h 7s] and won 136 with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676355479763943425-3-1673821166 - Holdem no limit (10/20) - 2023/01/15 22:19:26 UTC
+Table: 'Expresso Nitro(623137569)#0' 3-max (real money) Seat #3 is the button
+Seat 2: khalidou-92 (232)
+Seat 3: _SKR (668)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+khalidou-92 posts big blind 20
+Dealt to _SKR [9s 2s]
+*** PRE-FLOP *** 
+_SKR folds
+khalidou-92 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: khalidou-92 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676355479763943425-4-1673821182 - Holdem no limit (15/30) - 2023/01/15 22:19:42 UTC
+Table: 'Expresso Nitro(623137569)#0' 3-max (real money) Seat #2 is the button
+Seat 2: khalidou-92 (242)
+Seat 3: _SKR (658)
+*** ANTE/BLINDS ***
+khalidou-92 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6h Ah]
+*** PRE-FLOP *** 
+khalidou-92 raises 30 to 60
+_SKR raises 598 to 658 and is all-in
+khalidou-92 calls 182 and is all-in
+*** FLOP *** [3h Qc 3c]
+*** TURN *** [3h Qc 3c][7c]
+*** RIVER *** [3h Qc 3c 7c][5d]
+*** SHOW DOWN ***
+khalidou-92 shows [7s Ks] (Two pairs : 7 and 3)
+_SKR shows [6h Ah] (One pair : 3)
+_SKR collected 416 from side pot 1
+khalidou-92 collected 484 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3h Qc 3c 7c 5d]
+Seat 2: khalidou-92 (small blind) (button) showed [7s Ks] and won 484 with Two pairs : 7 and 3
+Seat 3: _SKR (big blind) showed [6h Ah] and won 416 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676355479763943425-5-1673821199 - Holdem no limit (15/30) - 2023/01/15 22:19:59 UTC
+Table: 'Expresso Nitro(623137569)#0' 3-max (real money) Seat #3 is the button
+Seat 2: khalidou-92 (484)
+Seat 3: _SKR (416)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+khalidou-92 posts big blind 30
+Dealt to _SKR [2h Ks]
+*** PRE-FLOP *** 
+_SKR folds
+khalidou-92 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: khalidou-92 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676355479763943425-6-1673821203 - Holdem no limit (15/30) - 2023/01/15 22:20:03 UTC
+Table: 'Expresso Nitro(623137569)#0' 3-max (real money) Seat #2 is the button
+Seat 2: khalidou-92 (499)
+Seat 3: _SKR (401)
+*** ANTE/BLINDS ***
+khalidou-92 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7d 4c]
+*** PRE-FLOP *** 
+khalidou-92 calls 15
+_SKR checks
+*** FLOP *** [6c 2c Tc]
+_SKR checks
+khalidou-92 bets 30
+_SKR folds
+khalidou-92 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6c 2c Tc]
+Seat 2: khalidou-92 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676355479763943425-7-1673821230 - Holdem no limit (15/30) - 2023/01/15 22:20:30 UTC
+Table: 'Expresso Nitro(623137569)#0' 3-max (real money) Seat #3 is the button
+Seat 2: khalidou-92 (529)
+Seat 3: _SKR (371)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+khalidou-92 posts big blind 30
+Dealt to _SKR [6h Ah]
+*** PRE-FLOP *** 
+_SKR raises 341 to 371 and is all-in
+khalidou-92 folds
+_SKR collected 401 from pot
+*** SUMMARY ***
+Total pot 401 | No rake
+Seat 3: _SKR (small blind) (button) won 401
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676355479763943425-8-1673821236 - Holdem no limit (15/30) - 2023/01/15 22:20:36 UTC
+Table: 'Expresso Nitro(623137569)#0' 3-max (real money) Seat #2 is the button
+Seat 2: khalidou-92 (499)
+Seat 3: _SKR (401)
+*** ANTE/BLINDS ***
+khalidou-92 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3h 6s]
+*** PRE-FLOP *** 
+khalidou-92 calls 15
+_SKR checks
+*** FLOP *** [Js 9h 3c]
+_SKR checks
+khalidou-92 bets 30
+_SKR folds
+khalidou-92 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Js 9h 3c]
+Seat 2: khalidou-92 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676355479763943425-9-1673821262 - Holdem no limit (20/40) - 2023/01/15 22:21:02 UTC
+Table: 'Expresso Nitro(623137569)#0' 3-max (real money) Seat #3 is the button
+Seat 2: khalidou-92 (529)
+Seat 3: _SKR (371)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+khalidou-92 posts big blind 40
+Dealt to _SKR [Jh Tc]
+*** PRE-FLOP *** 
+_SKR raises 331 to 371 and is all-in
+khalidou-92 raises 158 to 529 and is all-in
+*** FLOP *** [3h As Qd]
+*** TURN *** [3h As Qd][5s]
+*** RIVER *** [3h As Qd 5s][2d]
+*** SHOW DOWN ***
+_SKR shows [Jh Tc] (High card : Ace)
+khalidou-92 shows [8d 8c] (One pair : 8)
+khalidou-92 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3h As Qd 5s 2d]
+Seat 2: khalidou-92 (big blind) showed [8d 8c] and won 900 with One pair : 8
+Seat 3: _SKR (small blind) (button) showed [Jh Tc] and lost with High card : Ace
+
+

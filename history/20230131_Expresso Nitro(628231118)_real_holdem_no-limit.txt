@@ -1,0 +1,186 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698232106139516929-1-1675186615 - Holdem no limit (10/20) - 2023/01/31 17:36:55 UTC
+Table: 'Expresso Nitro(628231118)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Marcdu62 (300)
+Seat 3: Servelas (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Marcdu62 posts big blind 20
+Dealt to _SKR [5d 4d]
+*** PRE-FLOP *** 
+Servelas raises 280 to 300 and is all-in
+_SKR folds
+Marcdu62 folds
+Servelas collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Servelas (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698232106139516929-2-1675186626 - Holdem no limit (10/20) - 2023/01/31 17:37:06 UTC
+Table: 'Expresso Nitro(628231118)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Marcdu62 (280)
+Seat 3: Servelas (330)
+*** ANTE/BLINDS ***
+Marcdu62 posts small blind 10
+Servelas posts big blind 20
+Dealt to _SKR [Ts As]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Marcdu62 folds
+Servelas calls 270
+*** FLOP *** [2s 7d 4c]
+*** TURN *** [2s 7d 4c][Kc]
+*** RIVER *** [2s 7d 4c Kc][Qh]
+*** SHOW DOWN ***
+_SKR shows [Ts As] (High card : Ace)
+Servelas shows [Ad Td] (High card : Ace)
+Servelas collected 295 from pot
+_SKR collected 295 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [2s 7d 4c Kc Qh]
+Seat 1: _SKR (button) showed [Ts As] and won 295 with High card : Ace
+Seat 3: Servelas (big blind) showed [Ad Td] and won 295 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698232106139516929-3-1675186640 - Holdem no limit (10/20) - 2023/01/31 17:37:20 UTC
+Table: 'Expresso Nitro(628231118)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (295)
+Seat 2: Marcdu62 (270)
+Seat 3: Servelas (335)
+*** ANTE/BLINDS ***
+Servelas posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Tc]
+*** PRE-FLOP *** 
+Marcdu62 folds
+Servelas raises 315 to 335 and is all-in
+_SKR folds
+Servelas collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 3: Servelas (small blind) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698232106139516929-4-1675186650 - Holdem no limit (10/20) - 2023/01/31 17:37:30 UTC
+Table: 'Expresso Nitro(628231118)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (275)
+Seat 2: Marcdu62 (270)
+Seat 3: Servelas (355)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Marcdu62 posts big blind 20
+Dealt to _SKR [Kc 2d]
+*** PRE-FLOP *** 
+Servelas folds
+_SKR raises 255 to 275 and is all-in
+Marcdu62 calls 250 and is all-in
+*** FLOP *** [Ah 5h 4h]
+*** TURN *** [Ah 5h 4h][6d]
+*** RIVER *** [Ah 5h 4h 6d][Jd]
+*** SHOW DOWN ***
+_SKR shows [Kc 2d] (High card : Ace)
+Marcdu62 shows [2h 6h] (Flush Ace high)
+Marcdu62 collected 540 from main pot
+_SKR collected 5 from side pot 1
+*** SUMMARY ***
+Total pot 545 | No rake
+Board: [Ah 5h 4h 6d Jd]
+Seat 1: _SKR (small blind) showed [Kc 2d] and won 5 with High card : Ace
+Seat 2: Marcdu62 (big blind) showed [2h 6h] and won 540 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698232106139516929-5-1675186664 - Holdem no limit (10/20) - 2023/01/31 17:37:44 UTC
+Table: 'Expresso Nitro(628231118)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (5)
+Seat 2: Marcdu62 (540)
+Seat 3: Servelas (355)
+*** ANTE/BLINDS ***
+Marcdu62 posts small blind 10
+Servelas posts big blind 20
+Dealt to _SKR [Kd Js]
+*** PRE-FLOP *** 
+_SKR calls 5 and is all-in
+Marcdu62 raises 20 to 40
+Servelas calls 20
+*** FLOP *** [Ah Jh 7c]
+Marcdu62 checks
+Servelas checks
+*** TURN *** [Ah Jh 7c][Jc]
+Marcdu62 bets 20
+Servelas calls 20
+*** RIVER *** [Ah Jh 7c Jc][9d]
+Marcdu62 checks
+Servelas checks
+*** SHOW DOWN ***
+Marcdu62 shows [6c Qs] (One pair : Jacks)
+_SKR shows [Kd Js] (Trips of Jacks)
+Servelas shows [8d 7h] (Two pairs : Jacks and 7)
+Servelas collected 110 from side pot 1
+_SKR collected 15 from main pot
+*** SUMMARY ***
+Total pot 125 | No rake
+Board: [Ah Jh 7c Jc 9d]
+Seat 1: _SKR (button) showed [Kd Js] and won 15 with Trips of Jacks
+Seat 2: Marcdu62 (small blind) showed [6c Qs] and lost with One pair : Jacks
+Seat 3: Servelas (big blind) showed [8d 7h] and won 110 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698232106139516929-6-1675186693 - Holdem no limit (15/30) - 2023/01/31 17:38:13 UTC
+Table: 'Expresso Nitro(628231118)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (15)
+Seat 2: Marcdu62 (480)
+Seat 3: Servelas (405)
+*** ANTE/BLINDS ***
+Servelas posts small blind 15
+_SKR posts big blind 15 and is all-in
+Dealt to _SKR [Ks Ah]
+*** PRE-FLOP *** 
+Marcdu62 raises 45 to 60
+Servelas folds
+*** FLOP *** [6h 7s 5d]
+*** TURN *** [6h 7s 5d][6c]
+*** RIVER *** [6h 7s 5d 6c][Ad]
+*** SHOW DOWN ***
+_SKR shows [Ks Ah] (Two pairs : Aces and 6)
+Marcdu62 shows [As Qc] (Two pairs : Aces and 6)
+Marcdu62 collected 45 from side pot 1
+_SKR collected 45 from main pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6h 7s 5d 6c Ad]
+Seat 1: _SKR (big blind) showed [Ks Ah] and won 45 with Two pairs : Aces and 6
+Seat 2: Marcdu62 (button) showed [As Qc] and won 45 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698232106139516929-7-1675186705 - Holdem no limit (15/30) - 2023/01/31 17:38:25 UTC
+Table: 'Expresso Nitro(628231118)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (45)
+Seat 2: Marcdu62 (465)
+Seat 3: Servelas (390)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Marcdu62 posts big blind 30
+Dealt to _SKR [9h Ac]
+*** PRE-FLOP *** 
+Servelas raises 360 to 390 and is all-in
+_SKR calls 30 and is all-in
+Marcdu62 calls 360
+*** FLOP *** [6s Jh 6h]
+*** TURN *** [6s Jh 6h][Qs]
+*** RIVER *** [6s Jh 6h Qs][9c]
+*** SHOW DOWN ***
+_SKR shows [9h Ac] (Two pairs : 9 and 6)
+Marcdu62 shows [As Qd] (Two pairs : Queens and 6)
+Servelas shows [Tc Kh] (Straight King high)
+Servelas collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Board: [6s Jh 6h Qs 9c]
+Seat 1: _SKR (small blind) showed [9h Ac] and lost with Two pairs : 9 and 6
+Seat 2: Marcdu62 (big blind) showed [As Qd] and lost with Two pairs : Queens and 6
+Seat 3: Servelas (button) showed [Tc Kh] and won 825 with Straight King high
+
+

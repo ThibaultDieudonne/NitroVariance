@@ -1,0 +1,55 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734174806244065281-1-1677186955 - Holdem no limit (10/20) - 2023/02/23 21:15:55 UTC
+Table: 'Expresso Nitro(636599680)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nz0wzi (300)
+Seat 2: cosette446 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+cosette446 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh Ks]
+*** PRE-FLOP *** 
+Nz0wzi folds
+cosette446 calls 10
+_SKR raises 30 to 50
+cosette446 calls 30
+*** FLOP *** [Js 6s Td]
+cosette446 checks
+_SKR bets 50
+cosette446 folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Js 6s Td]
+Seat 3: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734174806244065281-2-1677186981 - Holdem no limit (10/20) - 2023/02/23 21:16:21 UTC
+Table: 'Expresso Nitro(636599680)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Nz0wzi (300)
+Seat 2: cosette446 (250)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Nz0wzi posts big blind 20
+Dealt to _SKR [8c As]
+*** PRE-FLOP *** 
+cosette446 calls 20
+_SKR raises 330 to 350 and is all-in
+Nz0wzi calls 280 and is all-in
+cosette446 calls 230 and is all-in
+*** FLOP *** [Js Ah Ac]
+*** TURN *** [Js Ah Ac][3d]
+*** RIVER *** [Js Ah Ac 3d][3c]
+*** SHOW DOWN ***
+Nz0wzi shows [Td Ks] (Two pairs : Aces and 3)
+cosette446 shows [Th Qh] (Two pairs : Aces and 3)
+_SKR shows [8c As] (Full of Aces and 3)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js Ah Ac 3d 3c]
+Seat 1: Nz0wzi (big blind) showed [Td Ks] and lost with Two pairs : Aces and 3
+Seat 2: cosette446 (button) showed [Th Qh] and lost with Two pairs : Aces and 3
+Seat 3: _SKR (small blind) showed [8c As] and won 900 with Full of Aces and 3
+
+

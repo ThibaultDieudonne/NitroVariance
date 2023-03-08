@@ -1,0 +1,72 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729119608261836801-1-1676901580 - Holdem no limit (10/20) - 2023/02/20 13:59:40 UTC
+Table: 'Expresso Nitro(635422675)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Mentality23 (300)
+Seat 2: _SKR (300)
+Seat 3: JoePesci63 (300)
+*** ANTE/BLINDS ***
+JoePesci63 posts small blind 10
+Mentality23 posts big blind 20
+Dealt to _SKR [4d Qd]
+*** PRE-FLOP *** 
+_SKR folds
+JoePesci63 folds
+Mentality23 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Mentality23 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729119608261836801-2-1676901587 - Holdem no limit (10/20) - 2023/02/20 13:59:47 UTC
+Table: 'Expresso Nitro(635422675)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mentality23 (310)
+Seat 2: _SKR (300)
+Seat 3: JoePesci63 (290)
+*** ANTE/BLINDS ***
+Mentality23 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jh Js]
+*** PRE-FLOP *** 
+JoePesci63 raises 20 to 40
+Mentality23 raises 270 to 310 and is all-in
+_SKR calls 280 and is all-in
+JoePesci63 calls 250 and is all-in
+*** FLOP *** [2h 3d 4c]
+*** TURN *** [2h 3d 4c][Kc]
+*** RIVER *** [2h 3d 4c Kc][7c]
+*** SHOW DOWN ***
+JoePesci63 shows [9s Ah] (High card : Ace)
+Mentality23 shows [9h Ad] (High card : Ace)
+_SKR shows [Jh Js] (One pair : Jacks)
+_SKR collected 890 from main pot
+Mentality23 collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2h 3d 4c Kc 7c]
+Seat 1: Mentality23 (small blind) showed [9h Ad] and won 10 with High card : Ace
+Seat 2: _SKR (big blind) showed [Jh Js] and won 890 with One pair : Jacks
+Seat 3: JoePesci63 (button) showed [9s Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729119608261836801-3-1676901621 - Holdem no limit (10/20) - 2023/02/20 14:00:21 UTC
+Table: 'Expresso Nitro(635422675)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Mentality23 (10)
+Seat 2: _SKR (890)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mentality23 posts big blind 10 and is all-in
+Dealt to _SKR [6d Kd]
+*** PRE-FLOP *** 
+*** FLOP *** [As 6c Kh]
+*** TURN *** [As 6c Kh][2d]
+*** RIVER *** [As 6c Kh 2d][Jh]
+*** SHOW DOWN ***
+Mentality23 shows [2h 6s] (Two pairs : 6 and 2)
+_SKR shows [6d Kd] (Two pairs : Kings and 6)
+_SKR collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | No rake
+Board: [As 6c Kh 2d Jh]
+Seat 1: Mentality23 (big blind) showed [2h 6s] and lost with Two pairs : 6 and 2
+Seat 2: _SKR (small blind) (button) showed [6d Kd] and won 20 with Two pairs : Kings and 6
+
+

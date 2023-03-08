@@ -1,0 +1,102 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694770456988221441-1-1674955818 - Holdem no limit (10/20) - 2023/01/29 01:30:18 UTC
+Table: 'Expresso Nitro(627425140)#0' 3-max (real money) Seat #3 is the button
+Seat 1: davido56130 (300)
+Seat 2: Sandaise (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+davido56130 posts small blind 10
+Sandaise posts big blind 20
+Dealt to _SKR [9s 6c]
+*** PRE-FLOP *** 
+_SKR folds
+davido56130 raises 280 to 300 and is all-in
+Sandaise folds
+davido56130 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: davido56130 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694770456988221441-2-1674955826 - Holdem no limit (10/20) - 2023/01/29 01:30:26 UTC
+Table: 'Expresso Nitro(627425140)#0' 3-max (real money) Seat #1 is the button
+Seat 1: davido56130 (320)
+Seat 2: Sandaise (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Sandaise posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js Qh]
+*** PRE-FLOP *** 
+davido56130 calls 20
+Sandaise folds
+_SKR raises 280 to 300 and is all-in
+davido56130 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694770456988221441-3-1674955838 - Holdem no limit (10/20) - 2023/01/29 01:30:38 UTC
+Table: 'Expresso Nitro(627425140)#0' 3-max (real money) Seat #2 is the button
+Seat 1: davido56130 (300)
+Seat 2: Sandaise (270)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+davido56130 posts big blind 20
+Dealt to _SKR [2s Tc]
+*** PRE-FLOP *** 
+Sandaise calls 20
+_SKR folds
+davido56130 checks
+*** FLOP *** [Js 3d 5d]
+davido56130 checks
+Sandaise bets 50
+davido56130 calls 50
+*** TURN *** [Js 3d 5d][Jd]
+davido56130 checks
+Sandaise checks
+*** RIVER *** [Js 3d 5d Jd][2d]
+davido56130 checks
+Sandaise checks
+*** SHOW DOWN ***
+davido56130 shows [4c 8s] (One pair : Jacks)
+Sandaise shows [Kc Ks] (Two pairs : Kings and Jacks)
+Sandaise collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Js 3d 5d Jd 2d]
+Seat 1: davido56130 (big blind) showed [4c 8s] and lost with One pair : Jacks
+Seat 2: Sandaise (button) showed [Kc Ks] and won 150 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694770456988221441-4-1674955873 - Holdem no limit (15/30) - 2023/01/29 01:31:13 UTC
+Table: 'Expresso Nitro(627425140)#0' 3-max (real money) Seat #3 is the button
+Seat 1: davido56130 (230)
+Seat 2: Sandaise (350)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+davido56130 posts small blind 15
+Sandaise posts big blind 30
+Dealt to _SKR [Ad Jh]
+*** PRE-FLOP *** 
+_SKR raises 290 to 320 and is all-in
+davido56130 calls 215 and is all-in
+Sandaise calls 290
+*** FLOP *** [9c 7c Jd]
+*** TURN *** [9c 7c Jd][9h]
+*** RIVER *** [9c 7c Jd 9h][8c]
+*** SHOW DOWN ***
+davido56130 shows [Kd Js] (Two pairs : Jacks and 9)
+_SKR shows [Ad Jh] (Two pairs : Jacks and 9)
+Sandaise shows [8s 8d] (Full of 8 and 9)
+Sandaise collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Board: [9c 7c Jd 9h 8c]
+Seat 1: davido56130 (small blind) showed [Kd Js] and lost with Two pairs : Jacks and 9
+Seat 2: Sandaise (big blind) showed [8s 8d] and won 870 with Full of 8 and 9
+Seat 3: _SKR (button) showed [Ad Jh] and lost with Two pairs : Jacks and 9
+
+

@@ -1,0 +1,423 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781428706836481-1-1676300052 - Holdem no limit (10/20) - 2023/02/13 14:54:12 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Baaakhaw (300)
+Seat 2: _SKR (300)
+Seat 3: marionJG (300)
+*** ANTE/BLINDS ***
+Baaakhaw posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 6s]
+*** PRE-FLOP *** 
+marionJG folds
+Baaakhaw raises 280 to 300 and is all-in
+_SKR calls 280 and is all-in
+*** FLOP *** [3h Kc Jh]
+*** TURN *** [3h Kc Jh][8h]
+*** RIVER *** [3h Kc Jh 8h][3c]
+*** SHOW DOWN ***
+Baaakhaw shows [5h As] (One pair : 3)
+_SKR shows [6d 6s] (Two pairs : 6 and 3)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3h Kc Jh 8h 3c]
+Seat 1: Baaakhaw (small blind) showed [5h As] and lost with One pair : 3
+Seat 2: _SKR (big blind) showed [6d 6s] and won 600 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781428706836481-2-1676300078 - Holdem no limit (10/20) - 2023/02/13 14:54:38 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (600)
+Seat 3: marionJG (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+marionJG posts big blind 20
+Dealt to _SKR [Jh Ac]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+marionJG folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781428706836481-3-1676300085 - Holdem no limit (10/20) - 2023/02/13 14:54:45 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: marionJG (280)
+*** ANTE/BLINDS ***
+marionJG posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7s 2s]
+*** PRE-FLOP *** 
+marionJG folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781428706836481-4-1676300088 - Holdem no limit (10/20) - 2023/02/13 14:54:48 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (630)
+Seat 3: marionJG (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+marionJG posts big blind 20
+Dealt to _SKR [3s 9h]
+*** PRE-FLOP *** 
+_SKR folds
+marionJG collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: marionJG (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781428706836481-5-1676300091 - Holdem no limit (10/20) - 2023/02/13 14:54:51 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: marionJG (280)
+*** ANTE/BLINDS ***
+marionJG posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c Td]
+*** PRE-FLOP *** 
+marionJG calls 10
+_SKR checks
+*** FLOP *** [2h 4s Jd]
+_SKR checks
+marionJG checks
+*** TURN *** [2h 4s Jd][8d]
+_SKR checks
+marionJG checks
+*** RIVER *** [2h 4s Jd 8d][As]
+_SKR checks
+marionJG checks
+*** SHOW DOWN ***
+_SKR shows [7c Td] (High card : Ace)
+marionJG shows [Qh 7h] (High card : Ace)
+marionJG collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2h 4s Jd 8d As]
+Seat 2: _SKR (big blind) showed [7c Td] and lost with High card : Ace
+Seat 3: marionJG (small blind) (button) showed [Qh 7h] and won 40 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718781428706836481-6-1676300129 - Holdem no limit (15/30) - 2023/02/13 14:55:29 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (600)
+Seat 3: marionJG (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+marionJG posts big blind 30
+Dealt to _SKR [Kc Tc]
+*** PRE-FLOP *** 
+_SKR raises 570 to 600 and is all-in
+marionJG folds
+_SKR collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 2: _SKR (small blind) (button) won 630
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718781428706836481-7-1676300136 - Holdem no limit (15/30) - 2023/02/13 14:55:36 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (630)
+Seat 3: marionJG (270)
+*** ANTE/BLINDS ***
+marionJG posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 8h]
+*** PRE-FLOP *** 
+marionJG calls 15
+_SKR checks
+*** FLOP *** [3s 2h Ts]
+_SKR checks
+marionJG bets 240 and is all-in
+_SKR folds
+marionJG collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [3s 2h Ts]
+Seat 3: marionJG (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718781428706836481-8-1676300152 - Holdem no limit (15/30) - 2023/02/13 14:55:52 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (600)
+Seat 3: marionJG (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+marionJG posts big blind 30
+Dealt to _SKR [3d Qd]
+*** PRE-FLOP *** 
+_SKR raises 570 to 600 and is all-in
+marionJG folds
+_SKR collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 2: _SKR (small blind) (button) won 630
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718781428706836481-9-1676300157 - Holdem no limit (15/30) - 2023/02/13 14:55:57 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (630)
+Seat 3: marionJG (270)
+*** ANTE/BLINDS ***
+marionJG posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2h 4h]
+*** PRE-FLOP *** 
+marionJG calls 15
+_SKR checks
+*** FLOP *** [2s 7s 9s]
+_SKR checks
+marionJG checks
+*** TURN *** [2s 7s 9s][Jd]
+_SKR checks
+marionJG checks
+*** RIVER *** [2s 7s 9s Jd][Qd]
+_SKR checks
+marionJG checks
+*** SHOW DOWN ***
+marionJG shows [6h 5d] (High card : Queen)
+_SKR shows [2h 4h] (One pair : 2)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2s 7s 9s Jd Qd]
+Seat 2: _SKR (big blind) showed [2h 4h] and won 60 with One pair : 2
+Seat 3: marionJG (small blind) (button) showed [6h 5d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-10-1676300191 - Holdem no limit (20/40) - 2023/02/13 14:56:31 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (660)
+Seat 3: marionJG (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+marionJG posts big blind 40
+Dealt to _SKR [9d As]
+*** PRE-FLOP *** 
+_SKR raises 620 to 660 and is all-in
+marionJG folds
+_SKR collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 2: _SKR (small blind) (button) won 700
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-11-1676300196 - Holdem no limit (20/40) - 2023/02/13 14:56:36 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (700)
+Seat 3: marionJG (200)
+*** ANTE/BLINDS ***
+marionJG posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5s 2h]
+*** PRE-FLOP *** 
+marionJG folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-12-1676300199 - Holdem no limit (20/40) - 2023/02/13 14:56:39 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (720)
+Seat 3: marionJG (180)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+marionJG posts big blind 40
+Dealt to _SKR [5c 8h]
+*** PRE-FLOP *** 
+_SKR folds
+marionJG collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: marionJG (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-13-1676300203 - Holdem no limit (20/40) - 2023/02/13 14:56:43 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (700)
+Seat 3: marionJG (200)
+*** ANTE/BLINDS ***
+marionJG posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2d 6h]
+*** PRE-FLOP *** 
+marionJG raises 160 to 200 and is all-in
+_SKR folds
+marionJG collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: marionJG (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-14-1676300206 - Holdem no limit (20/40) - 2023/02/13 14:56:46 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (660)
+Seat 3: marionJG (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+marionJG posts big blind 40
+Dealt to _SKR [8h 6d]
+*** PRE-FLOP *** 
+_SKR folds
+marionJG collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: marionJG (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-15-1676300210 - Holdem no limit (20/40) - 2023/02/13 14:56:50 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (640)
+Seat 3: marionJG (260)
+*** ANTE/BLINDS ***
+marionJG posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh 7s]
+*** PRE-FLOP *** 
+marionJG raises 220 to 260 and is all-in
+_SKR folds
+marionJG collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: marionJG (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-16-1676300214 - Holdem no limit (20/40) - 2023/02/13 14:56:54 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (600)
+Seat 3: marionJG (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+marionJG posts big blind 40
+Dealt to _SKR [4s 9h]
+*** PRE-FLOP *** 
+_SKR folds
+marionJG collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: marionJG (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-17-1676300217 - Holdem no limit (20/40) - 2023/02/13 14:56:57 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (580)
+Seat 3: marionJG (320)
+*** ANTE/BLINDS ***
+marionJG posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s 6d]
+*** PRE-FLOP *** 
+marionJG raises 280 to 320 and is all-in
+_SKR folds
+marionJG collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: marionJG (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-18-1676300221 - Holdem no limit (20/40) - 2023/02/13 14:57:01 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (540)
+Seat 3: marionJG (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+marionJG posts big blind 40
+Dealt to _SKR [4c 7s]
+*** PRE-FLOP *** 
+_SKR folds
+marionJG collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: marionJG (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-19-1676300224 - Holdem no limit (20/40) - 2023/02/13 14:57:04 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (520)
+Seat 3: marionJG (380)
+*** ANTE/BLINDS ***
+marionJG posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js 9c]
+*** PRE-FLOP *** 
+marionJG raises 340 to 380 and is all-in
+_SKR folds
+marionJG collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: marionJG (small blind) (button) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718781428706836481-20-1676300228 - Holdem no limit (20/40) - 2023/02/13 14:57:08 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (480)
+Seat 3: marionJG (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+marionJG posts big blind 40
+Dealt to _SKR [7c 2h]
+*** PRE-FLOP *** 
+_SKR folds
+marionJG collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: marionJG (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718781428706836481-21-1676300231 - Holdem no limit (30/60) - 2023/02/13 14:57:11 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (460)
+Seat 3: marionJG (440)
+*** ANTE/BLINDS ***
+marionJG posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qs Ts]
+*** PRE-FLOP *** 
+marionJG raises 380 to 440 and is all-in
+_SKR calls 380
+*** FLOP *** [7d 2d Kd]
+*** TURN *** [7d 2d Kd][3c]
+*** RIVER *** [7d 2d Kd 3c][9c]
+*** SHOW DOWN ***
+_SKR shows [Qs Ts] (High card : King)
+marionJG shows [4s 4d] (One pair : 4)
+marionJG collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [7d 2d Kd 3c 9c]
+Seat 2: _SKR (big blind) showed [Qs Ts] and lost with High card : King
+Seat 3: marionJG (small blind) (button) showed [4s 4d] and won 880 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718781428706836481-22-1676300242 - Holdem no limit (30/60) - 2023/02/13 14:57:22 UTC
+Table: 'Expresso Nitro(633015630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (20)
+Seat 3: marionJG (880)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20 and is all-in
+marionJG posts big blind 60
+Dealt to _SKR [Kc Qs]
+*** PRE-FLOP *** 
+*** FLOP *** [8h 5h 3h]
+*** TURN *** [8h 5h 3h][As]
+*** RIVER *** [8h 5h 3h As][Jh]
+*** SHOW DOWN ***
+_SKR shows [Kc Qs] (High card : Ace)
+marionJG shows [6d 2h] (Flush Jack high)
+marionJG collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8h 5h 3h As Jh]
+Seat 2: _SKR (small blind) (button) showed [Kc Qs] and lost with High card : Ace
+Seat 3: marionJG (big blind) showed [6d 2h] and won 80 with Flush Jack high
+
+

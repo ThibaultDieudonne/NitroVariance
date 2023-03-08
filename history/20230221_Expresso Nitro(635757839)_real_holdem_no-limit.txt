@@ -1,0 +1,77 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730559126680633345-1-1676985502 - Holdem no limit (10/20) - 2023/02/21 13:18:22 UTC
+Table: 'Expresso Nitro(635757839)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Likma9dz (300)
+Seat 2: Tryphon0 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Likma9dz posts big blind 20
+Dealt to _SKR [3s 6d]
+*** PRE-FLOP *** 
+Tryphon0 folds
+_SKR folds
+Likma9dz collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Likma9dz (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730559126680633345-2-1676985508 - Holdem no limit (10/20) - 2023/02/21 13:18:28 UTC
+Table: 'Expresso Nitro(635757839)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Likma9dz (310)
+Seat 2: Tryphon0 (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Likma9dz posts small blind 10
+Tryphon0 posts big blind 20
+Dealt to _SKR [2s Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Likma9dz calls 10
+Tryphon0 checks
+*** FLOP *** [5c 8d Qc]
+Likma9dz bets 20
+Tryphon0 folds
+Likma9dz collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [5c 8d Qc]
+Seat 1: Likma9dz (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730559126680633345-3-1676985532 - Holdem no limit (10/20) - 2023/02/21 13:18:52 UTC
+Table: 'Expresso Nitro(635757839)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Likma9dz (330)
+Seat 2: Tryphon0 (280)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Tryphon0 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd 3c]
+*** PRE-FLOP *** 
+Likma9dz calls 20
+Tryphon0 folds
+_SKR checks
+*** FLOP *** [8h 3d 5d]
+_SKR checks
+Likma9dz bets 33
+_SKR calls 33
+*** TURN *** [8h 3d 5d][Jc]
+_SKR checks
+Likma9dz bets 75
+_SKR calls 75
+*** RIVER *** [8h 3d 5d Jc][Qd]
+_SKR checks
+Likma9dz bets 173
+_SKR calls 162 and is all-in
+*** SHOW DOWN ***
+_SKR shows [Jd 3c] (Two pairs : Jacks and 3)
+Likma9dz shows [Qc Js] (Two pairs : Queens and Jacks)
+Likma9dz collected 601 from pot
+*** SUMMARY ***
+Total pot 601 | No rake
+Board: [8h 3d 5d Jc Qd]
+Seat 1: Likma9dz (button) showed [Qc Js] and won 601 with Two pairs : Queens and Jacks
+Seat 3: _SKR (big blind) showed [Jd 3c] and lost with Two pairs : Jacks and 3
+
+

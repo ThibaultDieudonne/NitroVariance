@@ -1,0 +1,57 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734188447060197377-1-1677187393 - Holdem no limit (10/20) - 2023/02/23 21:23:13 UTC
+Table: 'Expresso Nitro(636602856)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tof.974 (300)
+Seat 2: Culturomo (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Culturomo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 7d]
+*** PRE-FLOP *** 
+tof.974 calls 20
+Culturomo folds
+_SKR checks
+*** FLOP *** [6h 9s Kh]
+_SKR checks
+tof.974 bets 20
+_SKR folds
+tof.974 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [6h 9s Kh]
+Seat 1: tof.974 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734188447060197377-2-1677187424 - Holdem no limit (10/20) - 2023/02/23 21:23:44 UTC
+Table: 'Expresso Nitro(636602856)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tof.974 (330)
+Seat 2: Culturomo (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tof.974 posts big blind 20
+Dealt to _SKR [Ts Jh]
+*** PRE-FLOP *** 
+Culturomo folds
+_SKR calls 10
+tof.974 checks
+*** FLOP *** [Ah 5h 2d]
+_SKR bets 20
+tof.974 calls 20
+*** TURN *** [Ah 5h 2d][Kc]
+_SKR bets 52
+tof.974 calls 52
+*** RIVER *** [Ah 5h 2d Kc][9s]
+_SKR bets 188 and is all-in
+tof.974 calls 188
+*** SHOW DOWN ***
+_SKR shows [Ts Jh] (High card : Ace)
+tof.974 shows [Ac 3d] (One pair : Aces)
+tof.974 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Ah 5h 2d Kc 9s]
+Seat 1: tof.974 (big blind) showed [Ac 3d] and won 560 with One pair : Aces
+Seat 3: _SKR (small blind) showed [Ts Jh] and lost with High card : Ace
+
+

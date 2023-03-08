@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689765492943486977-1-1674650515 - Holdem no limit (10/20) - 2023/01/25 12:41:55 UTC
+Table: 'Expresso Nitro(626259831)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: MouVache512 (300)
+Seat 3: oxo95 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MouVache512 posts big blind 20
+Dealt to _SKR [9h Ts]
+*** PRE-FLOP *** 
+oxo95 calls 20
+_SKR folds
+MouVache512 checks
+*** FLOP *** [Ah 2h Jd]
+MouVache512 checks
+oxo95 bets 280 and is all-in
+MouVache512 calls 280 and is all-in
+*** TURN *** [Ah 2h Jd][Kc]
+*** RIVER *** [Ah 2h Jd Kc][Qs]
+*** SHOW DOWN ***
+oxo95 shows [9d Js] (One pair : Jacks)
+MouVache512 shows [Th 6h] (Straight Ace high)
+MouVache512 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Ah 2h Jd Kc Qs]
+Seat 2: MouVache512 (big blind) showed [Th 6h] and won 610 with Straight Ace high
+Seat 3: oxo95 (button) showed [9d Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689765492943486977-2-1674650535 - Holdem no limit (10/20) - 2023/01/25 12:42:15 UTC
+Table: 'Expresso Nitro(626259831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: MouVache512 (610)
+*** ANTE/BLINDS ***
+MouVache512 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5h 3d]
+*** PRE-FLOP *** 
+MouVache512 calls 10
+_SKR checks
+*** FLOP *** [Jc 2h Kc]
+_SKR checks
+MouVache512 checks
+*** TURN *** [Jc 2h Kc][Td]
+_SKR checks
+MouVache512 checks
+*** RIVER *** [Jc 2h Kc Td][4s]
+_SKR checks
+MouVache512 checks
+*** SHOW DOWN ***
+_SKR shows [5h 3d] (High card : King)
+MouVache512 shows [8d 7h] (High card : King)
+MouVache512 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Jc 2h Kc Td 4s]
+Seat 1: _SKR (big blind) showed [5h 3d] and lost with High card : King
+Seat 2: MouVache512 (small blind) (button) showed [8d 7h] and won 40 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689765492943486977-3-1674650591 - Holdem no limit (15/30) - 2023/01/25 12:43:11 UTC
+Table: 'Expresso Nitro(626259831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: MouVache512 (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+MouVache512 posts big blind 30
+Dealt to _SKR [7h Kc]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+MouVache512 folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: _SKR (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689765492943486977-4-1674650598 - Holdem no limit (15/30) - 2023/01/25 12:43:18 UTC
+Table: 'Expresso Nitro(626259831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: MouVache512 (600)
+*** ANTE/BLINDS ***
+MouVache512 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah 5c]
+*** PRE-FLOP *** 
+MouVache512 calls 15
+_SKR raises 270 to 300 and is all-in
+MouVache512 raises 270 to 570
+*** FLOP *** [Ts Kc Js]
+*** TURN *** [Ts Kc Js][2s]
+*** RIVER *** [Ts Kc Js 2s][2c]
+*** SHOW DOWN ***
+_SKR shows [Ah 5c] (One pair : 2)
+MouVache512 shows [Jh Ks] (Two pairs : Kings and Jacks)
+MouVache512 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Board: [Ts Kc Js 2s 2c]
+Seat 1: _SKR (big blind) showed [Ah 5c] and lost with One pair : 2
+Seat 2: MouVache512 (small blind) (button) showed [Jh Ks] and won 870 with Two pairs : Kings and Jacks
+
+

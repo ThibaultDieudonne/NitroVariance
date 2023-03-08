@@ -1,0 +1,359 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674114614936993793-1-1673701655 - Holdem no limit (10/20) - 2023/01/14 13:07:35 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aqmar.amqran (300)
+Seat 2: _SKR (300)
+Seat 3: MP Warrior63 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MP Warrior63 posts big blind 20
+Dealt to _SKR [6s Ts]
+*** PRE-FLOP *** 
+Aqmar.amqran raises 280 to 300 and is all-in
+_SKR folds
+MP Warrior63 folds
+Aqmar.amqran collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Aqmar.amqran (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674114614936993793-2-1673701662 - Holdem no limit (10/20) - 2023/01/14 13:07:42 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Aqmar.amqran (330)
+Seat 2: _SKR (290)
+Seat 3: MP Warrior63 (280)
+*** ANTE/BLINDS ***
+MP Warrior63 posts small blind 10
+Aqmar.amqran posts big blind 20
+Dealt to _SKR [Jh 6d]
+*** PRE-FLOP *** 
+_SKR folds
+MP Warrior63 folds
+Aqmar.amqran collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Aqmar.amqran (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674114614936993793-3-1673701671 - Holdem no limit (10/20) - 2023/01/14 13:07:51 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Aqmar.amqran (340)
+Seat 2: _SKR (290)
+Seat 3: MP Warrior63 (270)
+*** ANTE/BLINDS ***
+Aqmar.amqran posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d Qh]
+*** PRE-FLOP *** 
+MP Warrior63 folds
+Aqmar.amqran raises 320 to 340 and is all-in
+_SKR folds
+Aqmar.amqran collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: Aqmar.amqran (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674114614936993793-4-1673701677 - Holdem no limit (10/20) - 2023/01/14 13:07:57 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aqmar.amqran (360)
+Seat 2: _SKR (270)
+Seat 3: MP Warrior63 (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MP Warrior63 posts big blind 20
+Dealt to _SKR [8c 9c]
+*** PRE-FLOP *** 
+Aqmar.amqran folds
+_SKR calls 10
+MP Warrior63 checks
+*** FLOP *** [8h 7c 6d]
+_SKR bets 20
+MP Warrior63 calls 20
+*** TURN *** [8h 7c 6d][7h]
+_SKR checks
+MP Warrior63 checks
+*** RIVER *** [8h 7c 6d 7h][6s]
+_SKR checks
+MP Warrior63 checks
+*** SHOW DOWN ***
+MP Warrior63 shows [Td Js] (Two pairs : 7 and 6)
+_SKR shows [8c 9c] (Two pairs : 8 and 7)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8h 7c 6d 7h 6s]
+Seat 2: _SKR (small blind) showed [8c 9c] and won 80 with Two pairs : 8 and 7
+Seat 3: MP Warrior63 (big blind) showed [Td Js] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674114614936993793-5-1673701712 - Holdem no limit (15/30) - 2023/01/14 13:08:32 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Aqmar.amqran (360)
+Seat 2: _SKR (310)
+Seat 3: MP Warrior63 (230)
+*** ANTE/BLINDS ***
+MP Warrior63 posts small blind 15
+Aqmar.amqran posts big blind 30
+Dealt to _SKR [9d Qs]
+*** PRE-FLOP *** 
+_SKR folds
+MP Warrior63 calls 15
+Aqmar.amqran raises 330 to 360 and is all-in
+MP Warrior63 calls 200 and is all-in
+*** FLOP *** [Qc 2c Th]
+*** TURN *** [Qc 2c Th][Ts]
+*** RIVER *** [Qc 2c Th Ts][5h]
+*** SHOW DOWN ***
+MP Warrior63 shows [4d Ks] (One pair : Tens)
+Aqmar.amqran shows [Qd 7d] (Two pairs : Queens and Tens)
+Aqmar.amqran collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Qc 2c Th Ts 5h]
+Seat 1: Aqmar.amqran (big blind) showed [Qd 7d] and won 590 with Two pairs : Queens and Tens
+Seat 3: MP Warrior63 (small blind) showed [4d Ks] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674114614936993793-6-1673701745 - Holdem no limit (15/30) - 2023/01/14 13:09:05 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aqmar.amqran (590)
+Seat 2: _SKR (310)
+*** ANTE/BLINDS ***
+Aqmar.amqran posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 4h]
+*** PRE-FLOP *** 
+Aqmar.amqran folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674114614936993793-7-1673701750 - Holdem no limit (15/30) - 2023/01/14 13:09:10 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Aqmar.amqran (575)
+Seat 2: _SKR (325)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Aqmar.amqran posts big blind 30
+Dealt to _SKR [7d 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Aqmar.amqran collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Aqmar.amqran (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674114614936993793-8-1673701754 - Holdem no limit (15/30) - 2023/01/14 13:09:14 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aqmar.amqran (590)
+Seat 2: _SKR (310)
+*** ANTE/BLINDS ***
+Aqmar.amqran posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6c 3s]
+*** PRE-FLOP *** 
+Aqmar.amqran folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674114614936993793-9-1673701759 - Holdem no limit (15/30) - 2023/01/14 13:09:19 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Aqmar.amqran (575)
+Seat 2: _SKR (325)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Aqmar.amqran posts big blind 30
+Dealt to _SKR [9d 8s]
+*** PRE-FLOP *** 
+_SKR calls 15
+Aqmar.amqran raises 545 to 575 and is all-in
+_SKR folds
+Aqmar.amqran collected 605 from pot
+*** SUMMARY ***
+Total pot 605 | No rake
+Seat 1: Aqmar.amqran (big blind) won 605
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674114614936993793-10-1673701775 - Holdem no limit (20/40) - 2023/01/14 13:09:35 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aqmar.amqran (605)
+Seat 2: _SKR (295)
+*** ANTE/BLINDS ***
+Aqmar.amqran posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Th Jd]
+*** PRE-FLOP *** 
+Aqmar.amqran folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674114614936993793-11-1673701780 - Holdem no limit (20/40) - 2023/01/14 13:09:40 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Aqmar.amqran (585)
+Seat 2: _SKR (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Aqmar.amqran posts big blind 40
+Dealt to _SKR [Qh Jd]
+*** PRE-FLOP *** 
+_SKR raises 275 to 315 and is all-in
+Aqmar.amqran folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 2: _SKR (small blind) (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674114614936993793-12-1673701788 - Holdem no limit (20/40) - 2023/01/14 13:09:48 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aqmar.amqran (545)
+Seat 2: _SKR (355)
+*** ANTE/BLINDS ***
+Aqmar.amqran posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8s 9h]
+*** PRE-FLOP *** 
+Aqmar.amqran raises 505 to 545 and is all-in
+_SKR folds
+Aqmar.amqran collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Seat 1: Aqmar.amqran (small blind) (button) won 585
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674114614936993793-13-1673701802 - Holdem no limit (20/40) - 2023/01/14 13:10:02 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Aqmar.amqran (585)
+Seat 2: _SKR (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Aqmar.amqran posts big blind 40
+Dealt to _SKR [Jc 7s]
+*** PRE-FLOP *** 
+_SKR raises 275 to 315 and is all-in
+Aqmar.amqran folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 2: _SKR (small blind) (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674114614936993793-14-1673701809 - Holdem no limit (20/40) - 2023/01/14 13:10:09 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aqmar.amqran (545)
+Seat 2: _SKR (355)
+*** ANTE/BLINDS ***
+Aqmar.amqran posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qd 2d]
+*** PRE-FLOP *** 
+Aqmar.amqran folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674114614936993793-15-1673701813 - Holdem no limit (20/40) - 2023/01/14 13:10:13 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Aqmar.amqran (525)
+Seat 2: _SKR (375)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Aqmar.amqran posts big blind 40
+Dealt to _SKR [Th 8s]
+*** PRE-FLOP *** 
+_SKR calls 20
+Aqmar.amqran raises 485 to 525 and is all-in
+_SKR folds
+Aqmar.amqran collected 565 from pot
+*** SUMMARY ***
+Total pot 565 | No rake
+Seat 1: Aqmar.amqran (big blind) won 565
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674114614936993793-16-1673701828 - Holdem no limit (20/40) - 2023/01/14 13:10:28 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aqmar.amqran (565)
+Seat 2: _SKR (335)
+*** ANTE/BLINDS ***
+Aqmar.amqran posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc 4d]
+*** PRE-FLOP *** 
+Aqmar.amqran raises 525 to 565 and is all-in
+_SKR folds
+Aqmar.amqran collected 605 from pot
+*** SUMMARY ***
+Total pot 605 | No rake
+Seat 1: Aqmar.amqran (small blind) (button) won 605
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674114614936993793-17-1673701838 - Holdem no limit (30/60) - 2023/01/14 13:10:38 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Aqmar.amqran (605)
+Seat 2: _SKR (295)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Aqmar.amqran posts big blind 60
+Dealt to _SKR [3d Th]
+*** PRE-FLOP *** 
+_SKR folds
+Aqmar.amqran collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Aqmar.amqran (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674114614936993793-18-1673701844 - Holdem no limit (30/60) - 2023/01/14 13:10:44 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aqmar.amqran (635)
+Seat 2: _SKR (265)
+*** ANTE/BLINDS ***
+Aqmar.amqran posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c 8d]
+*** PRE-FLOP *** 
+Aqmar.amqran raises 575 to 635 and is all-in
+_SKR folds
+Aqmar.amqran collected 695 from pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Seat 1: Aqmar.amqran (small blind) (button) won 695
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674114614936993793-19-1673701858 - Holdem no limit (30/60) - 2023/01/14 13:10:58 UTC
+Table: 'Expresso Nitro(622615827)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Aqmar.amqran (695)
+Seat 2: _SKR (205)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Aqmar.amqran posts big blind 60
+Dealt to _SKR [7h Ah]
+*** PRE-FLOP *** 
+_SKR raises 145 to 205 and is all-in
+Aqmar.amqran calls 145
+*** FLOP *** [4d Qd 8d]
+*** TURN *** [4d Qd 8d][2d]
+*** RIVER *** [4d Qd 8d 2d][9s]
+*** SHOW DOWN ***
+_SKR shows [7h Ah] (High card : Ace)
+Aqmar.amqran shows [5d Kc] (Flush Queen high)
+Aqmar.amqran collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Board: [4d Qd 8d 2d 9s]
+Seat 1: Aqmar.amqran (big blind) showed [5d Kc] and won 410 with Flush Queen high
+Seat 2: _SKR (small blind) (button) showed [7h Ah] and lost with High card : Ace
+
+

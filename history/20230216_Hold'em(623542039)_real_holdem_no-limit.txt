@@ -1,0 +1,2244 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678092665186156548-1-1676575342 - Holdem no limit (25/100/200) - 2023/02/16 19:22:22 UTC
+Table: 'Hold'em(623542039)#003' 6-max (real money) Seat #1 is the button
+Seat 1: _SKR (20000)
+Seat 4: Ericounet52 (18838)
+Seat 5: LeRoiKong (11961)
+*** ANTE/BLINDS ***
+Ericounet52 posts ante 25
+LeRoiKong posts ante 25
+_SKR posts ante 25
+Ericounet52 posts small blind 100
+LeRoiKong posts big blind 200
+Dealt to _SKR [7d Ks]
+*** PRE-FLOP *** 
+_SKR raises 400 to 600
+Ericounet52 folds
+LeRoiKong calls 400
+*** FLOP *** [Kd Jc Jh]
+LeRoiKong checks
+_SKR checks
+*** TURN *** [Kd Jc Jh][8s]
+LeRoiKong checks
+_SKR bets 481
+LeRoiKong folds
+_SKR collected 1856 from pot
+*** SUMMARY ***
+Total pot 1856 | No rake
+Board: [Kd Jc Jh 8s]
+Seat 1: _SKR (button) won 1856
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678092665186156548-2-1676575394 - Holdem no limit (25/100/200) - 2023/02/16 19:23:14 UTC
+Table: 'Hold'em(623542039)#003' 6-max (real money) Seat #4 is the button
+Seat 1: _SKR (20750)
+Seat 3: Michou2014 (19150)
+Seat 4: Ericounet52 (18713)
+Seat 5: LeRoiKong (11336)
+*** ANTE/BLINDS ***
+LeRoiKong posts ante 25
+_SKR posts ante 25
+Michou2014 posts ante 25
+Ericounet52 posts ante 25
+LeRoiKong posts small blind 100
+_SKR posts big blind 200
+Dealt to _SKR [Jh Kd]
+*** PRE-FLOP *** 
+Michou2014 calls 200
+Ericounet52 folds
+LeRoiKong calls 100
+_SKR raises 600 to 800
+Michou2014 calls 600
+LeRoiKong folds
+*** FLOP *** [3s Ks 7c]
+_SKR bets 950
+Michou2014 calls 950
+*** TURN *** [3s Ks 7c][Ah]
+_SKR checks
+Michou2014 bets 1330
+_SKR calls 1330
+*** RIVER *** [3s Ks 7c Ah][8c]
+_SKR checks
+Michou2014 bets 3230
+_SKR calls 3230
+*** SHOW DOWN ***
+_SKR shows [Jh Kd] (One pair : Kings)
+Michou2014 shows [Kc 3c] (Two pairs : Kings and 3)
+Michou2014 collected 12920 from pot
+*** SUMMARY ***
+Total pot 12920 | No rake
+Board: [3s Ks 7c Ah 8c]
+Seat 1: _SKR (big blind) showed [Jh Kd] and lost with One pair : Kings
+Seat 3: Michou2014 showed [Kc 3c] and won 12920 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678092665186156548-3-1676575475 - Holdem no limit (25/100/200) - 2023/02/16 19:24:35 UTC
+Table: 'Hold'em(623542039)#003' 6-max (real money) Seat #5 is the button
+Seat 1: _SKR (14415)
+Seat 3: Michou2014 (25735)
+Seat 4: Ericounet52 (18688)
+Seat 5: LeRoiKong (11111)
+Seat 6: LA_RoKKA (20000)
+*** ANTE/BLINDS ***
+_SKR posts ante 25
+Michou2014 posts ante 25
+Ericounet52 posts ante 25
+LeRoiKong posts ante 25
+_SKR posts small blind 100
+Michou2014 posts big blind 200
+Dealt to _SKR [7d 4h]
+*** PRE-FLOP *** 
+Ericounet52 folds
+LeRoiKong raises 260 to 460
+_SKR folds
+Michou2014 folds
+LeRoiKong collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Seat 5: LeRoiKong (button) won 860
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678092665186156548-4-1676575489 - Holdem no limit (25/100/200) - 2023/02/16 19:24:49 UTC
+Table: 'Hold'em(623542039)#003' 6-max (real money) Seat #1 is the button
+Seat 1: _SKR (14290)
+Seat 3: Michou2014 (25510)
+Seat 4: Ericounet52 (18663)
+Seat 5: LeRoiKong (11486)
+Seat 6: LA_RoKKA (20000)
+*** ANTE/BLINDS ***
+Michou2014 posts ante 25
+Ericounet52 posts ante 25
+_SKR posts ante 25
+LeRoiKong posts ante 25
+LA_RoKKA posts ante 25
+Michou2014 posts small blind 100
+Ericounet52 posts big blind 200
+Dealt to _SKR [7s Tc]
+*** PRE-FLOP *** 
+LeRoiKong folds
+LA_RoKKA folds
+_SKR folds
+Michou2014 raises 300 to 500
+Ericounet52 calls 300
+*** FLOP *** [Ts Jc 3c]
+Michou2014 bets 494
+Ericounet52 calls 494
+*** TURN *** [Ts Jc 3c][7d]
+Michou2014 bets 1057
+Ericounet52 raises 16587 to 17644 and is all-in
+Michou2014 folds
+Ericounet52 collected 20814 from pot
+*** SUMMARY ***
+Total pot 20814 | No rake
+Board: [Ts Jc 3c 7d]
+Seat 4: Ericounet52 (big blind) won 20814
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678092665186156548-5-1676575544 - Holdem no limit (30/125/250) - 2023/02/16 19:25:44 UTC
+Table: 'Hold'em(623542039)#003' 6-max (real money) Seat #3 is the button
+Seat 1: _SKR (14265)
+Seat 3: Michou2014 (23434)
+Seat 4: Ericounet52 (20814)
+Seat 5: LeRoiKong (11461)
+Seat 6: LA_RoKKA (19975)
+*** ANTE/BLINDS ***
+Ericounet52 posts ante 30
+LeRoiKong posts ante 30
+_SKR posts ante 30
+Michou2014 posts ante 30
+LA_RoKKA posts ante 30
+Ericounet52 posts small blind 125
+LeRoiKong posts big blind 250
+Dealt to _SKR [Th 4c]
+*** PRE-FLOP *** 
+LA_RoKKA folds
+_SKR folds
+Michou2014 raises 375 to 625
+Ericounet52 folds
+LeRoiKong calls 375
+*** FLOP *** [7s Tc 8s]
+LeRoiKong checks
+Michou2014 checks
+*** TURN *** [7s Tc 8s][8c]
+LeRoiKong checks
+Michou2014 bets 763
+LeRoiKong calls 763
+*** RIVER *** [7s Tc 8s 8c][6h]
+LeRoiKong checks
+Michou2014 bets 1526
+LeRoiKong folds
+Michou2014 collected 4577 from pot
+*** SUMMARY ***
+Total pot 4577 | No rake
+Board: [7s Tc 8s 8c 6h]
+Seat 3: Michou2014 (button) won 4577
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678092665186156545-51-1676575637 - Holdem no limit (30/125/250) - 2023/02/16 19:27:17 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #6 is the button
+Seat 1: LECROQUIGNOL (18610)
+Seat 2: _SKR (14235)
+Seat 4: SunTzuuu (22460)
+Seat 5: Target Me (20230)
+Seat 6: Nuts-Sous-Ko (40794)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 30
+_SKR posts ante 30
+SunTzuuu posts ante 30
+Target Me posts ante 30
+Nuts-Sous-Ko posts ante 30
+LECROQUIGNOL posts small blind 125
+_SKR posts big blind 250
+Dealt to _SKR [5d Js]
+*** PRE-FLOP *** 
+SunTzuuu raises 500 to 750
+Target Me raises 2250 to 3000
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR folds
+SunTzuuu folds
+Target Me collected 4275 from pot
+*** SUMMARY ***
+Total pot 4275 | No rake
+Seat 5: Target Me won 4275
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678092665186156545-52-1676575663 - Holdem no limit (30/125/250) - 2023/02/16 19:27:43 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (18455)
+Seat 2: _SKR (13955)
+Seat 4: SunTzuuu (21680)
+Seat 5: Target Me (21475)
+Seat 6: Nuts-Sous-Ko (40764)
+*** ANTE/BLINDS ***
+_SKR posts ante 30
+SunTzuuu posts ante 30
+LECROQUIGNOL posts ante 30
+Target Me posts ante 30
+Nuts-Sous-Ko posts ante 30
+_SKR posts small blind 125
+SunTzuuu posts big blind 250
+Dealt to _SKR [Qh Ac]
+*** PRE-FLOP *** 
+Target Me folds
+Nuts-Sous-Ko raises 375 to 625
+LECROQUIGNOL folds
+_SKR raises 1650 to 2275
+SunTzuuu folds
+Nuts-Sous-Ko folds
+_SKR collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Seat 2: _SKR (small blind) won 3300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678092665186156545-53-1676575696 - Holdem no limit (30/125/250) - 2023/02/16 19:28:16 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (18425)
+Seat 2: _SKR (14950)
+Seat 4: SunTzuuu (21400)
+Seat 5: Target Me (21445)
+Seat 6: Nuts-Sous-Ko (40109)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 30
+Target Me posts ante 30
+LECROQUIGNOL posts ante 30
+_SKR posts ante 30
+Nuts-Sous-Ko posts ante 30
+SunTzuuu posts small blind 125
+Target Me posts big blind 250
+Dealt to _SKR [Ah 7c]
+*** PRE-FLOP *** 
+Nuts-Sous-Ko raises 375 to 625
+LECROQUIGNOL folds
+_SKR folds
+SunTzuuu folds
+Target Me calls 375
+*** FLOP *** [Kc 6s 5d]
+Target Me checks
+Nuts-Sous-Ko bets 534
+Target Me calls 534
+*** TURN *** [Kc 6s 5d][Jh]
+Target Me checks
+Nuts-Sous-Ko bets 1824
+Target Me folds
+Nuts-Sous-Ko collected 4417 from pot
+*** SUMMARY ***
+Total pot 4417 | No rake
+Board: [Kc 6s 5d Jh]
+Seat 6: Nuts-Sous-Ko won 4417
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678092665186156545-54-1676575755 - Holdem no limit (30/125/250) - 2023/02/16 19:29:15 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (18395)
+Seat 2: _SKR (14920)
+Seat 4: SunTzuuu (21245)
+Seat 5: Target Me (20256)
+Seat 6: Nuts-Sous-Ko (41513)
+*** ANTE/BLINDS ***
+Target Me posts ante 30
+Nuts-Sous-Ko posts ante 30
+LECROQUIGNOL posts ante 30
+_SKR posts ante 30
+SunTzuuu posts ante 30
+Target Me posts small blind 125
+Nuts-Sous-Ko posts big blind 250
+Dealt to _SKR [Kd 3s]
+*** PRE-FLOP *** 
+LECROQUIGNOL folds
+_SKR folds
+SunTzuuu raises 500 to 750
+Target Me folds
+Nuts-Sous-Ko folds
+SunTzuuu collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | No rake
+Seat 4: SunTzuuu (button) won 1275
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678092665186156545-55-1676575770 - Holdem no limit (30/125/250) - 2023/02/16 19:29:30 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (18365)
+Seat 2: _SKR (14890)
+Seat 4: SunTzuuu (21740)
+Seat 5: Target Me (20101)
+Seat 6: Nuts-Sous-Ko (41233)
+*** ANTE/BLINDS ***
+Nuts-Sous-Ko posts ante 30
+LECROQUIGNOL posts ante 30
+_SKR posts ante 30
+SunTzuuu posts ante 30
+Target Me posts ante 30
+Nuts-Sous-Ko posts small blind 125
+LECROQUIGNOL posts big blind 250
+Dealt to _SKR [Ks 3c]
+*** PRE-FLOP *** 
+_SKR folds
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko calls 125
+LECROQUIGNOL raises 625 to 875
+Nuts-Sous-Ko folds
+LECROQUIGNOL collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | No rake
+Seat 1: LECROQUIGNOL (big blind) won 1275
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678092665186156545-56-1676575787 - Holdem no limit (30/125/250) - 2023/02/16 19:29:47 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #6 is the button
+Seat 1: LECROQUIGNOL (18735)
+Seat 2: _SKR (14860)
+Seat 4: SunTzuuu (21710)
+Seat 5: Target Me (20071)
+Seat 6: Nuts-Sous-Ko (40953)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 30
+_SKR posts ante 30
+SunTzuuu posts ante 30
+Target Me posts ante 30
+Nuts-Sous-Ko posts ante 30
+LECROQUIGNOL posts small blind 125
+_SKR posts big blind 250
+Dealt to _SKR [7s Kh]
+*** PRE-FLOP *** 
+SunTzuuu folds
+Target Me raises 375 to 625
+Nuts-Sous-Ko calls 625
+LECROQUIGNOL raises 2275 to 2900
+_SKR folds
+Target Me folds
+Nuts-Sous-Ko calls 2275
+*** FLOP *** [6c 8h Td]
+LECROQUIGNOL bets 5460
+Nuts-Sous-Ko folds
+LECROQUIGNOL collected 12285 from pot
+*** SUMMARY ***
+Total pot 12285 | No rake
+Board: [6c 8h Td]
+Seat 1: LECROQUIGNOL (small blind) won 12285
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-57-1676575822 - Holdem no limit (35/150/300) - 2023/02/16 19:30:22 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (22630)
+Seat 2: _SKR (14580)
+Seat 4: SunTzuuu (21680)
+Seat 5: Target Me (19416)
+Seat 6: Nuts-Sous-Ko (38023)
+*** ANTE/BLINDS ***
+_SKR posts ante 35
+SunTzuuu posts ante 35
+LECROQUIGNOL posts ante 35
+Target Me posts ante 35
+Nuts-Sous-Ko posts ante 35
+_SKR posts small blind 150
+SunTzuuu posts big blind 300
+Dealt to _SKR [Jh 4s]
+*** PRE-FLOP *** 
+Target Me folds
+Nuts-Sous-Ko raises 450 to 750
+LECROQUIGNOL raises 1500 to 2250
+_SKR folds
+SunTzuuu folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL collected 3625 from pot
+*** SUMMARY ***
+Total pot 3625 | No rake
+Seat 1: LECROQUIGNOL (button) won 3625
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-58-1676575835 - Holdem no limit (35/150/300) - 2023/02/16 19:30:35 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (23970)
+Seat 2: _SKR (14395)
+Seat 4: SunTzuuu (21345)
+Seat 5: Target Me (19381)
+Seat 6: Nuts-Sous-Ko (37238)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 35
+Target Me posts ante 35
+LECROQUIGNOL posts ante 35
+_SKR posts ante 35
+Nuts-Sous-Ko posts ante 35
+SunTzuuu posts small blind 150
+Target Me posts big blind 300
+Dealt to _SKR [3c 4d]
+*** PRE-FLOP *** 
+Nuts-Sous-Ko raises 450 to 750
+LECROQUIGNOL folds
+_SKR folds
+SunTzuuu folds
+Target Me calls 450
+*** FLOP *** [6d 9s Kd]
+Target Me checks
+Nuts-Sous-Ko checks
+*** TURN *** [6d 9s Kd][9h]
+Target Me checks
+Nuts-Sous-Ko checks
+*** RIVER *** [6d 9s Kd 9h][2d]
+Target Me bets 913
+Nuts-Sous-Ko calls 913
+*** SHOW DOWN ***
+Target Me shows [7s 7c] (Two pairs : 9 and 7)
+Nuts-Sous-Ko shows [Ts Th] (Two pairs : Tens and 9)
+Nuts-Sous-Ko collected 3651 from pot
+*** SUMMARY ***
+Total pot 3651 | No rake
+Board: [6d 9s Kd 9h 2d]
+Seat 5: Target Me (big blind) showed [7s 7c] and lost with Two pairs : 9 and 7
+Seat 6: Nuts-Sous-Ko showed [Ts Th] and won 3651 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-59-1676575871 - Holdem no limit (35/150/300) - 2023/02/16 19:31:11 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (23935)
+Seat 2: _SKR (14360)
+Seat 4: SunTzuuu (21160)
+Seat 5: Target Me (17683)
+Seat 6: Nuts-Sous-Ko (39191)
+*** ANTE/BLINDS ***
+Target Me posts ante 35
+Nuts-Sous-Ko posts ante 35
+LECROQUIGNOL posts ante 35
+_SKR posts ante 35
+SunTzuuu posts ante 35
+Target Me posts small blind 150
+Nuts-Sous-Ko posts big blind 300
+Dealt to _SKR [Qd 5h]
+*** PRE-FLOP *** 
+LECROQUIGNOL folds
+_SKR folds
+SunTzuuu raises 600 to 900
+Target Me raises 2700 to 3600
+Nuts-Sous-Ko folds
+SunTzuuu folds
+Target Me collected 4975 from pot
+*** SUMMARY ***
+Total pot 4975 | No rake
+Seat 5: Target Me (small blind) won 4975
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-60-1676575903 - Holdem no limit (35/150/300) - 2023/02/16 19:31:43 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (23900)
+Seat 2: _SKR (14325)
+Seat 4: SunTzuuu (20225)
+Seat 5: Target Me (19023)
+Seat 6: Nuts-Sous-Ko (38856)
+*** ANTE/BLINDS ***
+Nuts-Sous-Ko posts ante 35
+LECROQUIGNOL posts ante 35
+_SKR posts ante 35
+SunTzuuu posts ante 35
+Target Me posts ante 35
+Nuts-Sous-Ko posts small blind 150
+LECROQUIGNOL posts big blind 300
+Dealt to _SKR [Jh 3d]
+*** PRE-FLOP *** 
+_SKR folds
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Seat 1: LECROQUIGNOL (big blind) won 625
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-61-1676575916 - Holdem no limit (35/150/300) - 2023/02/16 19:31:56 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #6 is the button
+Seat 1: LECROQUIGNOL (24190)
+Seat 2: _SKR (14290)
+Seat 4: SunTzuuu (20190)
+Seat 5: Target Me (18988)
+Seat 6: Nuts-Sous-Ko (38671)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 35
+_SKR posts ante 35
+SunTzuuu posts ante 35
+Target Me posts ante 35
+Nuts-Sous-Ko posts ante 35
+LECROQUIGNOL posts small blind 150
+_SKR posts big blind 300
+Dealt to _SKR [9c 8d]
+*** PRE-FLOP *** 
+SunTzuuu folds
+Target Me raises 450 to 750
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR calls 450
+*** FLOP *** [6s Js Kd]
+_SKR checks
+Target Me bets 639
+_SKR folds
+Target Me collected 2464 from pot
+*** SUMMARY ***
+Total pot 2464 | No rake
+Board: [6s Js Kd]
+Seat 5: Target Me won 2464
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-62-1676575940 - Holdem no limit (35/150/300) - 2023/02/16 19:32:20 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (24005)
+Seat 2: _SKR (13505)
+Seat 4: SunTzuuu (20155)
+Seat 5: Target Me (20028)
+Seat 6: Nuts-Sous-Ko (38636)
+*** ANTE/BLINDS ***
+_SKR posts ante 35
+SunTzuuu posts ante 35
+LECROQUIGNOL posts ante 35
+Target Me posts ante 35
+Nuts-Sous-Ko posts ante 35
+_SKR posts small blind 150
+SunTzuuu posts big blind 300
+Dealt to _SKR [Kd 4s]
+*** PRE-FLOP *** 
+Target Me folds
+Nuts-Sous-Ko raises 450 to 750
+LECROQUIGNOL folds
+_SKR folds
+SunTzuuu calls 450
+*** FLOP *** [8s Kc 6d]
+SunTzuuu checks
+Nuts-Sous-Ko checks
+*** TURN *** [8s Kc 6d][8c]
+SunTzuuu bets 639
+Nuts-Sous-Ko folds
+SunTzuuu collected 2464 from pot
+*** SUMMARY ***
+Total pot 2464 | No rake
+Board: [8s Kc 6d 8c]
+Seat 4: SunTzuuu (big blind) won 2464
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-63-1676575981 - Holdem no limit (35/150/300) - 2023/02/16 19:33:01 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (23970)
+Seat 2: _SKR (13320)
+Seat 4: SunTzuuu (21195)
+Seat 5: Target Me (19993)
+Seat 6: Nuts-Sous-Ko (37851)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 35
+Target Me posts ante 35
+LECROQUIGNOL posts ante 35
+_SKR posts ante 35
+Nuts-Sous-Ko posts ante 35
+SunTzuuu posts small blind 150
+Target Me posts big blind 300
+Dealt to _SKR [5h 4c]
+*** PRE-FLOP *** 
+Nuts-Sous-Ko folds
+LECROQUIGNOL raises 300 to 600
+_SKR folds
+SunTzuuu raises 1800 to 2400
+Target Me folds
+LECROQUIGNOL folds
+SunTzuuu collected 3475 from pot
+*** SUMMARY ***
+Total pot 3475 | No rake
+Seat 4: SunTzuuu (small blind) won 3475
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-64-1676576001 - Holdem no limit (35/150/300) - 2023/02/16 19:33:21 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (23335)
+Seat 2: _SKR (13285)
+Seat 4: SunTzuuu (22235)
+Seat 5: Target Me (19658)
+Seat 6: Nuts-Sous-Ko (37816)
+*** ANTE/BLINDS ***
+Target Me posts ante 35
+Nuts-Sous-Ko posts ante 35
+LECROQUIGNOL posts ante 35
+_SKR posts ante 35
+SunTzuuu posts ante 35
+Target Me posts small blind 150
+Nuts-Sous-Ko posts big blind 300
+Dealt to _SKR [7d Th]
+*** PRE-FLOP *** 
+LECROQUIGNOL folds
+_SKR folds
+SunTzuuu raises 600 to 900
+Target Me folds
+Nuts-Sous-Ko folds
+SunTzuuu collected 1525 from pot
+*** SUMMARY ***
+Total pot 1525 | No rake
+Seat 4: SunTzuuu (button) won 1525
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-65-1676576021 - Holdem no limit (35/150/300) - 2023/02/16 19:33:41 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (23300)
+Seat 2: _SKR (13250)
+Seat 4: SunTzuuu (22825)
+Seat 5: Target Me (19473)
+Seat 6: Nuts-Sous-Ko (37481)
+*** ANTE/BLINDS ***
+Nuts-Sous-Ko posts ante 35
+LECROQUIGNOL posts ante 35
+_SKR posts ante 35
+SunTzuuu posts ante 35
+Target Me posts ante 35
+Nuts-Sous-Ko posts small blind 150
+LECROQUIGNOL posts big blind 300
+Dealt to _SKR [9c 9d]
+*** PRE-FLOP *** 
+_SKR raises 375 to 675
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 2: _SKR won 1300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-66-1676576054 - Holdem no limit (35/150/300) - 2023/02/16 19:34:14 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #6 is the button
+Seat 1: LECROQUIGNOL (22965)
+Seat 2: _SKR (13840)
+Seat 4: SunTzuuu (22790)
+Seat 5: Target Me (19438)
+Seat 6: Nuts-Sous-Ko (37296)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 35
+_SKR posts ante 35
+SunTzuuu posts ante 35
+Target Me posts ante 35
+Nuts-Sous-Ko posts ante 35
+LECROQUIGNOL posts small blind 150
+_SKR posts big blind 300
+Dealt to _SKR [6d 7d]
+*** PRE-FLOP *** 
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko raises 450 to 750
+LECROQUIGNOL folds
+_SKR calls 450
+*** FLOP *** [Ts 4h 4c]
+_SKR checks
+Nuts-Sous-Ko bets 639
+_SKR folds
+Nuts-Sous-Ko collected 2464 from pot
+*** SUMMARY ***
+Total pot 2464 | No rake
+Board: [Ts 4h 4c]
+Seat 6: Nuts-Sous-Ko (button) won 2464
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678092665186156545-67-1676576101 - Holdem no limit (35/150/300) - 2023/02/16 19:35:01 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (22780)
+Seat 2: _SKR (13055)
+Seat 3: sakavin (20000)
+Seat 4: SunTzuuu (22755)
+Seat 5: Target Me (19403)
+Seat 6: Nuts-Sous-Ko (38336)
+*** ANTE/BLINDS ***
+_SKR posts ante 35
+sakavin posts ante 35
+LECROQUIGNOL posts ante 35
+SunTzuuu posts ante 35
+Target Me posts ante 35
+Nuts-Sous-Ko posts ante 35
+_SKR posts small blind 150
+sakavin posts big blind 300
+Dealt to _SKR [Js Qc]
+*** PRE-FLOP *** 
+SunTzuuu raises 600 to 900
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR folds
+sakavin folds
+SunTzuuu collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Seat 4: SunTzuuu won 1560
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678092665186156545-68-1676576141 - Holdem no limit (40/175/350) - 2023/02/16 19:35:41 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (22745)
+Seat 2: _SKR (12870)
+Seat 3: sakavin (19665)
+Seat 4: SunTzuuu (23380)
+Seat 5: Target Me (19368)
+Seat 6: Nuts-Sous-Ko (38301)
+*** ANTE/BLINDS ***
+sakavin posts ante 40
+SunTzuuu posts ante 40
+LECROQUIGNOL posts ante 40
+_SKR posts ante 40
+Target Me posts ante 40
+Nuts-Sous-Ko posts ante 40
+sakavin posts small blind 175
+SunTzuuu posts big blind 350
+Dealt to _SKR [5s Jd]
+*** PRE-FLOP *** 
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL raises 350 to 700
+_SKR folds
+sakavin folds
+SunTzuuu folds
+LECROQUIGNOL collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Seat 1: LECROQUIGNOL won 1465
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678092665186156545-69-1676576159 - Holdem no limit (40/175/350) - 2023/02/16 19:35:59 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #3 is the button
+Seat 1: LECROQUIGNOL (23470)
+Seat 2: _SKR (12830)
+Seat 3: sakavin (19450)
+Seat 4: SunTzuuu (22990)
+Seat 5: Target Me (19328)
+Seat 6: Nuts-Sous-Ko (38261)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 40
+Target Me posts ante 40
+LECROQUIGNOL posts ante 40
+_SKR posts ante 40
+sakavin posts ante 40
+Nuts-Sous-Ko posts ante 40
+SunTzuuu posts small blind 175
+Target Me posts big blind 350
+Dealt to _SKR [2d 6h]
+*** PRE-FLOP *** 
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR folds
+sakavin raises 525 to 875
+SunTzuuu folds
+Target Me calls 525
+*** FLOP *** [Kd 3s 8d]
+Target Me checks
+sakavin bets 758
+Target Me calls 758
+*** TURN *** [Kd 3s 8d][5d]
+Target Me checks
+sakavin checks
+*** RIVER *** [Kd 3s 8d 5d][3c]
+Target Me bets 2393
+sakavin calls 2393
+*** SHOW DOWN ***
+sakavin shows [Qs Qh] (Two pairs : Queens and 3)
+Target Me shows [8c Kh] (Two pairs : Kings and 8)
+Target Me collected 8467 from pot
+*** SUMMARY ***
+Total pot 8467 | No rake
+Board: [Kd 3s 8d 5d 3c]
+Seat 3: sakavin (button) showed [Qs Qh] and lost with Two pairs : Queens and 3
+Seat 5: Target Me (big blind) showed [8c Kh] and won 8467 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678092665186156545-70-1676576236 - Holdem no limit (40/175/350) - 2023/02/16 19:37:16 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (23430)
+Seat 2: _SKR (12790)
+Seat 3: sakavin (15384)
+Seat 4: SunTzuuu (22775)
+Seat 5: Target Me (23729)
+Seat 6: Nuts-Sous-Ko (38221)
+*** ANTE/BLINDS ***
+Target Me posts ante 40
+Nuts-Sous-Ko posts ante 40
+LECROQUIGNOL posts ante 40
+_SKR posts ante 40
+sakavin posts ante 40
+SunTzuuu posts ante 40
+Target Me posts small blind 175
+Nuts-Sous-Ko posts big blind 350
+Dealt to _SKR [Ts Td]
+*** PRE-FLOP *** 
+LECROQUIGNOL folds
+_SKR raises 438 to 788
+sakavin folds
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+_SKR collected 1553 from pot
+*** SUMMARY ***
+Total pot 1553 | No rake
+Seat 2: _SKR won 1553
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678092665186156545-71-1676576251 - Holdem no limit (40/175/350) - 2023/02/16 19:37:31 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (23390)
+Seat 2: _SKR (13515)
+Seat 3: sakavin (15344)
+Seat 4: SunTzuuu (22735)
+Seat 5: Target Me (23514)
+Seat 6: Nuts-Sous-Ko (37831)
+*** ANTE/BLINDS ***
+Nuts-Sous-Ko posts ante 40
+LECROQUIGNOL posts ante 40
+_SKR posts ante 40
+sakavin posts ante 40
+SunTzuuu posts ante 40
+Target Me posts ante 40
+Nuts-Sous-Ko posts small blind 175
+LECROQUIGNOL posts big blind 350
+Dealt to _SKR [6c Js]
+*** PRE-FLOP *** 
+_SKR folds
+sakavin folds
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 1: LECROQUIGNOL (big blind) won 765
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678092665186156545-72-1676576266 - Holdem no limit (40/175/350) - 2023/02/16 19:37:46 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #6 is the button
+Seat 1: LECROQUIGNOL (23765)
+Seat 2: _SKR (13475)
+Seat 3: sakavin (15304)
+Seat 4: SunTzuuu (22695)
+Seat 5: Target Me (23474)
+Seat 6: Nuts-Sous-Ko (37616)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 40
+_SKR posts ante 40
+sakavin posts ante 40
+SunTzuuu posts ante 40
+Target Me posts ante 40
+Nuts-Sous-Ko posts ante 40
+LECROQUIGNOL posts small blind 175
+_SKR posts big blind 350
+Dealt to _SKR [5s Kd]
+*** PRE-FLOP *** 
+sakavin folds
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL raises 700 to 1050
+_SKR calls 700
+*** FLOP *** [Ac 9d Jc]
+LECROQUIGNOL checks
+_SKR checks
+*** TURN *** [Ac 9d Jc][2d]
+LECROQUIGNOL checks
+_SKR checks
+*** RIVER *** [Ac 9d Jc 2d][9h]
+LECROQUIGNOL checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [5s Kd] (One pair : 9)
+LECROQUIGNOL shows [Qc Kh] (One pair : 9)
+LECROQUIGNOL collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Board: [Ac 9d Jc 2d 9h]
+Seat 1: LECROQUIGNOL (small blind) showed [Qc Kh] and won 2340 with One pair : 9
+Seat 2: _SKR (big blind) showed [5s Kd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678092665186156545-73-1676576338 - Holdem no limit (40/175/350) - 2023/02/16 19:38:58 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (25015)
+Seat 2: _SKR (12385)
+Seat 3: sakavin (15264)
+Seat 4: SunTzuuu (22655)
+Seat 5: Target Me (23434)
+Seat 6: Nuts-Sous-Ko (37576)
+*** ANTE/BLINDS ***
+_SKR posts ante 40
+sakavin posts ante 40
+LECROQUIGNOL posts ante 40
+SunTzuuu posts ante 40
+Target Me posts ante 40
+Nuts-Sous-Ko posts ante 40
+_SKR posts small blind 175
+sakavin posts big blind 350
+Dealt to _SKR [2h 5s]
+*** PRE-FLOP *** 
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR folds
+sakavin collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 3: sakavin (big blind) won 765
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678092665186156545-74-1676576358 - Holdem no limit (40/175/350) - 2023/02/16 19:39:18 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (24975)
+Seat 2: _SKR (12170)
+Seat 3: sakavin (15639)
+Seat 4: SunTzuuu (22615)
+Seat 5: Target Me (23394)
+Seat 6: Nuts-Sous-Ko (37536)
+*** ANTE/BLINDS ***
+sakavin posts ante 40
+SunTzuuu posts ante 40
+LECROQUIGNOL posts ante 40
+_SKR posts ante 40
+Target Me posts ante 40
+Nuts-Sous-Ko posts ante 40
+sakavin posts small blind 175
+SunTzuuu posts big blind 350
+Dealt to _SKR [Qc Qh]
+*** PRE-FLOP *** 
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR raises 438 to 788
+sakavin folds
+SunTzuuu folds
+_SKR collected 1553 from pot
+*** SUMMARY ***
+Total pot 1553 | No rake
+Seat 2: _SKR (button) won 1553
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678092665186156545-75-1676576369 - Holdem no limit (40/175/350) - 2023/02/16 19:39:29 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #3 is the button
+Seat 1: LECROQUIGNOL (24935)
+Seat 2: _SKR (12895)
+Seat 3: sakavin (15424)
+Seat 4: SunTzuuu (22225)
+Seat 5: Target Me (23354)
+Seat 6: Nuts-Sous-Ko (37496)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 40
+Target Me posts ante 40
+LECROQUIGNOL posts ante 40
+_SKR posts ante 40
+sakavin posts ante 40
+Nuts-Sous-Ko posts ante 40
+SunTzuuu posts small blind 175
+Target Me posts big blind 350
+Dealt to _SKR [6s 3d]
+*** PRE-FLOP *** 
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR folds
+sakavin folds
+SunTzuuu folds
+Target Me collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 5: Target Me (big blind) won 765
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678092665186156545-76-1676576388 - Holdem no limit (40/175/350) - 2023/02/16 19:39:48 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (24895)
+Seat 2: _SKR (12855)
+Seat 3: sakavin (15384)
+Seat 4: SunTzuuu (22010)
+Seat 5: Target Me (23729)
+Seat 6: Nuts-Sous-Ko (37456)
+*** ANTE/BLINDS ***
+Target Me posts ante 40
+Nuts-Sous-Ko posts ante 40
+LECROQUIGNOL posts ante 40
+_SKR posts ante 40
+sakavin posts ante 40
+SunTzuuu posts ante 40
+Target Me posts small blind 175
+Nuts-Sous-Ko posts big blind 350
+Dealt to _SKR [Kd 4d]
+*** PRE-FLOP *** 
+LECROQUIGNOL folds
+_SKR folds
+sakavin folds
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 6: Nuts-Sous-Ko (big blind) won 765
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678092665186156545-77-1676576398 - Holdem no limit (40/175/350) - 2023/02/16 19:39:58 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (24855)
+Seat 2: _SKR (12815)
+Seat 3: sakavin (15344)
+Seat 4: SunTzuuu (21970)
+Seat 5: Target Me (23514)
+Seat 6: Nuts-Sous-Ko (37831)
+*** ANTE/BLINDS ***
+Nuts-Sous-Ko posts ante 40
+LECROQUIGNOL posts ante 40
+_SKR posts ante 40
+sakavin posts ante 40
+SunTzuuu posts ante 40
+Target Me posts ante 40
+Nuts-Sous-Ko posts small blind 175
+LECROQUIGNOL posts big blind 350
+Dealt to _SKR [Js Kd]
+*** PRE-FLOP *** 
+_SKR folds
+sakavin folds
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 1: LECROQUIGNOL (big blind) won 765
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678092665186156545-78-1676576429 - Holdem no limit (50/200/400) - 2023/02/16 19:40:29 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #6 is the button
+Seat 1: LECROQUIGNOL (25230)
+Seat 2: _SKR (12775)
+Seat 3: sakavin (15304)
+Seat 4: SunTzuuu (21930)
+Seat 5: Target Me (23474)
+Seat 6: Nuts-Sous-Ko (37616)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 50
+_SKR posts ante 50
+sakavin posts ante 50
+SunTzuuu posts ante 50
+Target Me posts ante 50
+Nuts-Sous-Ko posts ante 50
+LECROQUIGNOL posts small blind 200
+_SKR posts big blind 400
+Dealt to _SKR [Qd Ts]
+*** PRE-FLOP *** 
+sakavin folds
+SunTzuuu folds
+Target Me raises 500 to 900
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR calls 500
+*** FLOP *** [9c Tc 9h]
+_SKR checks
+Target Me bets 805
+_SKR calls 805
+*** TURN *** [9c Tc 9h][6c]
+_SKR checks
+Target Me bets 2542
+_SKR calls 2542
+*** RIVER *** [9c Tc 9h 6c][Ad]
+_SKR checks
+Target Me checks
+*** SHOW DOWN ***
+_SKR shows [Qd Ts] (Two pairs : Tens and 9)
+Target Me shows [Ah Jc] (Two pairs : Aces and 9)
+Target Me collected 8994 from pot
+*** SUMMARY ***
+Total pot 8994 | No rake
+Board: [9c Tc 9h 6c Ad]
+Seat 2: _SKR (big blind) showed [Qd Ts] and lost with Two pairs : Tens and 9
+Seat 5: Target Me showed [Ah Jc] and won 8994 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678092665186156545-79-1676576502 - Holdem no limit (50/200/400) - 2023/02/16 19:41:42 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (24980)
+Seat 2: _SKR (8478)
+Seat 3: sakavin (15254)
+Seat 4: SunTzuuu (21880)
+Seat 5: Target Me (28171)
+Seat 6: Nuts-Sous-Ko (37566)
+*** ANTE/BLINDS ***
+_SKR posts ante 50
+sakavin posts ante 50
+LECROQUIGNOL posts ante 50
+SunTzuuu posts ante 50
+Target Me posts ante 50
+Nuts-Sous-Ko posts ante 50
+_SKR posts small blind 200
+sakavin posts big blind 400
+Dealt to _SKR [4h Jh]
+*** PRE-FLOP *** 
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko raises 600 to 1000
+LECROQUIGNOL folds
+_SKR folds
+sakavin folds
+Nuts-Sous-Ko collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 6: Nuts-Sous-Ko won 1900
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678092665186156545-80-1676576533 - Holdem no limit (50/200/400) - 2023/02/16 19:42:13 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (24930)
+Seat 2: _SKR (8228)
+Seat 3: sakavin (14804)
+Seat 4: SunTzuuu (21830)
+Seat 5: Target Me (28121)
+Seat 6: Nuts-Sous-Ko (38416)
+*** ANTE/BLINDS ***
+sakavin posts ante 50
+SunTzuuu posts ante 50
+LECROQUIGNOL posts ante 50
+_SKR posts ante 50
+Target Me posts ante 50
+Nuts-Sous-Ko posts ante 50
+sakavin posts small blind 200
+SunTzuuu posts big blind 400
+Dealt to _SKR [Kd Kh]
+*** PRE-FLOP *** 
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR raises 500 to 900
+sakavin folds
+SunTzuuu calls 500
+*** FLOP *** [3c 8c Qh]
+SunTzuuu checks
+_SKR bets 1495
+SunTzuuu folds
+_SKR collected 3795 from pot
+*** SUMMARY ***
+Total pot 3795 | No rake
+Board: [3c 8c Qh]
+Seat 2: _SKR (button) won 3795
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678092665186156545-81-1676576567 - Holdem no limit (50/200/400) - 2023/02/16 19:42:47 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #3 is the button
+Seat 1: LECROQUIGNOL (24880)
+Seat 2: _SKR (9578)
+Seat 3: sakavin (14554)
+Seat 4: SunTzuuu (20880)
+Seat 5: Target Me (28071)
+Seat 6: Nuts-Sous-Ko (38366)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 50
+Target Me posts ante 50
+LECROQUIGNOL posts ante 50
+_SKR posts ante 50
+sakavin posts ante 50
+Nuts-Sous-Ko posts ante 50
+SunTzuuu posts small blind 200
+Target Me posts big blind 400
+Dealt to _SKR [Kc 6c]
+*** PRE-FLOP *** 
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR folds
+sakavin folds
+SunTzuuu calls 200
+Target Me raises 1200 to 1600
+SunTzuuu calls 1200
+*** FLOP *** [4s 8s Kd]
+SunTzuuu checks
+Target Me checks
+*** TURN *** [4s 8s Kd][8h]
+SunTzuuu bets 1225
+Target Me folds
+SunTzuuu collected 4725 from pot
+*** SUMMARY ***
+Total pot 4725 | No rake
+Board: [4s 8s Kd 8h]
+Seat 4: SunTzuuu (small blind) won 4725
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678092665186156545-82-1676576641 - Holdem no limit (50/200/400) - 2023/02/16 19:44:01 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (24830)
+Seat 2: _SKR (9528)
+Seat 3: sakavin (14504)
+Seat 4: SunTzuuu (22730)
+Seat 5: Target Me (26421)
+Seat 6: Nuts-Sous-Ko (38316)
+*** ANTE/BLINDS ***
+Target Me posts ante 50
+Nuts-Sous-Ko posts ante 50
+LECROQUIGNOL posts ante 50
+_SKR posts ante 50
+sakavin posts ante 50
+SunTzuuu posts ante 50
+Target Me posts small blind 200
+Nuts-Sous-Ko posts big blind 400
+Dealt to _SKR [6s Qs]
+*** PRE-FLOP *** 
+LECROQUIGNOL folds
+_SKR folds
+sakavin raises 600 to 1000
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+sakavin collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 3: sakavin won 1900
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678092665186156545-83-1676576670 - Holdem no limit (50/200/400) - 2023/02/16 19:44:30 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (24780)
+Seat 2: _SKR (9478)
+Seat 3: sakavin (15354)
+Seat 4: SunTzuuu (22680)
+Seat 5: Target Me (26171)
+Seat 6: Nuts-Sous-Ko (37866)
+*** ANTE/BLINDS ***
+Nuts-Sous-Ko posts ante 50
+LECROQUIGNOL posts ante 50
+_SKR posts ante 50
+sakavin posts ante 50
+SunTzuuu posts ante 50
+Target Me posts ante 50
+Nuts-Sous-Ko posts small blind 200
+LECROQUIGNOL posts big blind 400
+Dealt to _SKR [7c Qh]
+*** PRE-FLOP *** 
+_SKR folds
+sakavin folds
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 1: LECROQUIGNOL (big blind) won 900
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678092665186156545-84-1676576687 - Holdem no limit (50/200/400) - 2023/02/16 19:44:47 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #6 is the button
+Seat 1: LECROQUIGNOL (25230)
+Seat 2: _SKR (9428)
+Seat 3: sakavin (15304)
+Seat 4: SunTzuuu (22630)
+Seat 5: Target Me (26121)
+Seat 6: Nuts-Sous-Ko (37616)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 50
+_SKR posts ante 50
+sakavin posts ante 50
+SunTzuuu posts ante 50
+Target Me posts ante 50
+Nuts-Sous-Ko posts ante 50
+LECROQUIGNOL posts small blind 200
+_SKR posts big blind 400
+Dealt to _SKR [Jd 7d]
+*** PRE-FLOP *** 
+sakavin folds
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 2: _SKR (big blind) won 900
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678092665186156545-85-1676576709 - Holdem no limit (60/250/500) - 2023/02/16 19:45:09 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (24980)
+Seat 2: _SKR (9878)
+Seat 3: sakavin (15254)
+Seat 4: SunTzuuu (22580)
+Seat 5: Target Me (26071)
+Seat 6: Nuts-Sous-Ko (37566)
+*** ANTE/BLINDS ***
+_SKR posts ante 60
+sakavin posts ante 60
+LECROQUIGNOL posts ante 60
+SunTzuuu posts ante 60
+Target Me posts ante 60
+Nuts-Sous-Ko posts ante 60
+_SKR posts small blind 250
+sakavin posts big blind 500
+Dealt to _SKR [2s Ks]
+*** PRE-FLOP *** 
+SunTzuuu folds
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL folds
+_SKR calls 250
+sakavin raises 1000 to 1500
+_SKR calls 1000
+*** FLOP *** [9h 9d 7s]
+_SKR checks
+sakavin bets 1176
+_SKR calls 1176
+*** TURN *** [9h 9d 7s][2h]
+_SKR checks
+sakavin bets 1999
+_SKR calls 1999
+*** RIVER *** [9h 9d 7s 2h][Kd]
+_SKR checks
+sakavin checks
+*** SHOW DOWN ***
+sakavin shows [Th Qh] (One pair : 9)
+_SKR shows [2s Ks] (Two pairs : Kings and 9)
+_SKR collected 9710 from pot
+*** SUMMARY ***
+Total pot 9710 | No rake
+Board: [9h 9d 7s 2h Kd]
+Seat 2: _SKR (small blind) showed [2s Ks] and won 9710 with Two pairs : Kings and 9
+Seat 3: sakavin (big blind) showed [Th Qh] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678092665186156545-86-1676576771 - Holdem no limit (60/250/500) - 2023/02/16 19:46:11 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (24920)
+Seat 2: _SKR (14853)
+Seat 3: sakavin (10519)
+Seat 4: SunTzuuu (22520)
+Seat 5: Target Me (26011)
+Seat 6: Nuts-Sous-Ko (37506)
+*** ANTE/BLINDS ***
+sakavin posts ante 60
+SunTzuuu posts ante 60
+LECROQUIGNOL posts ante 60
+_SKR posts ante 60
+Target Me posts ante 60
+Nuts-Sous-Ko posts ante 60
+sakavin posts small blind 250
+SunTzuuu posts big blind 500
+Dealt to _SKR [Jh Kc]
+*** PRE-FLOP *** 
+Target Me folds
+Nuts-Sous-Ko folds
+LECROQUIGNOL raises 500 to 1000
+_SKR raises 2000 to 3000
+sakavin folds
+SunTzuuu folds
+LECROQUIGNOL folds
+_SKR collected 5110 from pot
+*** SUMMARY ***
+Total pot 5110 | No rake
+Seat 2: _SKR (button) won 5110
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678092665186156545-87-1676576803 - Holdem no limit (60/250/500) - 2023/02/16 19:46:43 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #3 is the button
+Seat 1: LECROQUIGNOL (23860)
+Seat 2: _SKR (16903)
+Seat 3: sakavin (10209)
+Seat 4: SunTzuuu (21960)
+Seat 5: Target Me (25951)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 60
+Target Me posts ante 60
+LECROQUIGNOL posts ante 60
+_SKR posts ante 60
+sakavin posts ante 60
+SunTzuuu posts small blind 250
+Target Me posts big blind 500
+Dealt to _SKR [Ad Kd]
+*** PRE-FLOP *** 
+LECROQUIGNOL folds
+_SKR raises 625 to 1125
+sakavin folds
+SunTzuuu folds
+Target Me folds
+_SKR collected 2175 from pot
+*** SUMMARY ***
+Total pot 2175 | No rake
+Seat 2: _SKR won 2175
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678092665186156545-88-1676576830 - Holdem no limit (60/250/500) - 2023/02/16 19:47:10 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (23800)
+Seat 2: _SKR (17893)
+Seat 3: sakavin (10149)
+Seat 4: SunTzuuu (21650)
+Seat 5: Target Me (25391)
+*** ANTE/BLINDS ***
+Target Me posts ante 60
+LECROQUIGNOL posts ante 60
+_SKR posts ante 60
+sakavin posts ante 60
+SunTzuuu posts ante 60
+Target Me posts small blind 250
+LECROQUIGNOL posts big blind 500
+Dealt to _SKR [Jh Qc]
+*** PRE-FLOP *** 
+_SKR folds
+sakavin folds
+SunTzuuu folds
+Target Me calls 250
+LECROQUIGNOL checks
+*** FLOP *** [4h 9c Ks]
+Target Me bets 650
+LECROQUIGNOL folds
+Target Me collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [4h 9c Ks]
+Seat 5: Target Me (small blind) won 1950
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678092665186156545-89-1676576875 - Holdem no limit (60/250/500) - 2023/02/16 19:47:55 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (23240)
+Seat 2: _SKR (17833)
+Seat 3: sakavin (10089)
+Seat 4: SunTzuuu (21590)
+Seat 5: Target Me (26131)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 60
+_SKR posts ante 60
+sakavin posts ante 60
+SunTzuuu posts ante 60
+Target Me posts ante 60
+LECROQUIGNOL posts small blind 250
+_SKR posts big blind 500
+Dealt to _SKR [6s 8d]
+*** PRE-FLOP *** 
+sakavin raises 500 to 1000
+SunTzuuu folds
+Target Me folds
+LECROQUIGNOL folds
+_SKR folds
+sakavin collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | No rake
+Seat 3: sakavin won 2050
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678092665186156545-90-1676576890 - Holdem no limit (60/250/500) - 2023/02/16 19:48:10 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (22930)
+Seat 2: _SKR (17273)
+Seat 3: sakavin (11079)
+Seat 4: SunTzuuu (21530)
+Seat 5: Target Me (26071)
+*** ANTE/BLINDS ***
+_SKR posts ante 60
+sakavin posts ante 60
+LECROQUIGNOL posts ante 60
+SunTzuuu posts ante 60
+Target Me posts ante 60
+_SKR posts small blind 250
+sakavin posts big blind 500
+Dealt to _SKR [2d 3c]
+*** PRE-FLOP *** 
+SunTzuuu folds
+Target Me raises 625 to 1125
+LECROQUIGNOL raises 2625 to 3750
+_SKR folds
+sakavin folds
+Target Me calls 2625
+*** FLOP *** [7s 4c 4s]
+Target Me checks
+LECROQUIGNOL checks
+*** TURN *** [7s 4c 4s][9h]
+Target Me checks
+LECROQUIGNOL bets 8550
+Target Me folds
+LECROQUIGNOL collected 17100 from pot
+*** SUMMARY ***
+Total pot 17100 | No rake
+Board: [7s 4c 4s 9h]
+Seat 1: LECROQUIGNOL (button) won 17100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678092665186156545-91-1676576939 - Holdem no limit (60/250/500) - 2023/02/16 19:48:59 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (27670)
+Seat 2: _SKR (16963)
+Seat 3: sakavin (10519)
+Seat 4: SunTzuuu (21470)
+Seat 5: Target Me (22261)
+*** ANTE/BLINDS ***
+sakavin posts ante 60
+SunTzuuu posts ante 60
+LECROQUIGNOL posts ante 60
+_SKR posts ante 60
+Target Me posts ante 60
+sakavin posts small blind 250
+SunTzuuu posts big blind 500
+Dealt to _SKR [5s Jc]
+*** PRE-FLOP *** 
+Target Me folds
+LECROQUIGNOL raises 1000 to 1500
+_SKR folds
+sakavin folds
+SunTzuuu folds
+LECROQUIGNOL collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 1: LECROQUIGNOL won 2550
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678092665186156545-92-1676576952 - Holdem no limit (60/250/500) - 2023/02/16 19:49:12 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #3 is the button
+Seat 1: LECROQUIGNOL (28660)
+Seat 2: _SKR (16903)
+Seat 3: sakavin (10209)
+Seat 4: SunTzuuu (20910)
+Seat 5: Target Me (22201)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 60
+Target Me posts ante 60
+LECROQUIGNOL posts ante 60
+_SKR posts ante 60
+sakavin posts ante 60
+SunTzuuu posts small blind 250
+Target Me posts big blind 500
+Dealt to _SKR [2s 3s]
+*** PRE-FLOP *** 
+LECROQUIGNOL folds
+_SKR folds
+sakavin folds
+SunTzuuu folds
+Target Me collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 5: Target Me (big blind) won 1050
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678092665186156545-93-1676576970 - Holdem no limit (60/250/500) - 2023/02/16 19:49:30 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (28600)
+Seat 2: _SKR (16843)
+Seat 3: sakavin (10149)
+Seat 4: SunTzuuu (20600)
+Seat 5: Target Me (22691)
+*** ANTE/BLINDS ***
+Target Me posts ante 60
+LECROQUIGNOL posts ante 60
+_SKR posts ante 60
+sakavin posts ante 60
+SunTzuuu posts ante 60
+Target Me posts small blind 250
+LECROQUIGNOL posts big blind 500
+Dealt to _SKR [4s Jc]
+*** PRE-FLOP *** 
+_SKR folds
+sakavin folds
+SunTzuuu raises 500 to 1000
+Target Me folds
+LECROQUIGNOL folds
+SunTzuuu collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | No rake
+Seat 4: SunTzuuu (button) won 2050
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678092665186156545-94-1676576987 - Holdem no limit (60/250/500) - 2023/02/16 19:49:47 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (28040)
+Seat 2: _SKR (16783)
+Seat 3: sakavin (10089)
+Seat 4: SunTzuuu (21590)
+Seat 5: Target Me (22381)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 60
+_SKR posts ante 60
+sakavin posts ante 60
+SunTzuuu posts ante 60
+Target Me posts ante 60
+LECROQUIGNOL posts small blind 250
+_SKR posts big blind 500
+Dealt to _SKR [4h 7h]
+*** PRE-FLOP *** 
+sakavin folds
+SunTzuuu folds
+Target Me raises 625 to 1125
+LECROQUIGNOL folds
+_SKR calls 625
+*** FLOP *** [Qs 7d 4d]
+_SKR checks
+Target Me checks
+*** TURN *** [Qs 7d 4d][Td]
+_SKR bets 2240
+Target Me folds
+_SKR collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | No rake
+Board: [Qs 7d 4d Td]
+Seat 2: _SKR (big blind) won 5040
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678092665186156545-95-1676577018 - Holdem no limit (70/300/600) - 2023/02/16 19:50:18 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (27730)
+Seat 2: _SKR (18398)
+Seat 3: sakavin (10029)
+Seat 4: SunTzuuu (21530)
+Seat 5: Target Me (21196)
+*** ANTE/BLINDS ***
+_SKR posts ante 70
+sakavin posts ante 70
+LECROQUIGNOL posts ante 70
+SunTzuuu posts ante 70
+Target Me posts ante 70
+_SKR posts small blind 300
+sakavin posts big blind 600
+Dealt to _SKR [Kd 5s]
+*** PRE-FLOP *** 
+SunTzuuu raises 600 to 1200
+Target Me calls 1200
+LECROQUIGNOL folds
+_SKR folds
+sakavin calls 600
+*** FLOP *** [2d 3h Jc]
+sakavin checks
+SunTzuuu bets 1800
+Target Me folds
+sakavin folds
+SunTzuuu collected 6050 from pot
+*** SUMMARY ***
+Total pot 6050 | No rake
+Board: [2d 3h Jc]
+Seat 4: SunTzuuu won 6050
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678092665186156545-96-1676577058 - Holdem no limit (70/300/600) - 2023/02/16 19:50:58 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (27660)
+Seat 2: _SKR (18028)
+Seat 3: sakavin (8759)
+Seat 4: SunTzuuu (24510)
+Seat 5: Target Me (19926)
+*** ANTE/BLINDS ***
+sakavin posts ante 70
+SunTzuuu posts ante 70
+LECROQUIGNOL posts ante 70
+_SKR posts ante 70
+Target Me posts ante 70
+sakavin posts small blind 300
+SunTzuuu posts big blind 600
+Dealt to _SKR [5c Ah]
+*** PRE-FLOP *** 
+Target Me folds
+LECROQUIGNOL folds
+_SKR raises 750 to 1350
+sakavin folds
+SunTzuuu calls 750
+*** FLOP *** [8d 3s Kc]
+SunTzuuu checks
+_SKR bets 1173
+SunTzuuu calls 1173
+*** TURN *** [8d 3s Kc][Ts]
+SunTzuuu checks
+_SKR checks
+*** RIVER *** [8d 3s Kc Ts][Ad]
+SunTzuuu checks
+_SKR bets 2848
+SunTzuuu folds
+_SKR collected 8544 from pot
+*** SUMMARY ***
+Total pot 8544 | No rake
+Board: [8d 3s Kc Ts Ad]
+Seat 2: _SKR (button) won 8544
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678092665186156545-97-1676577174 - Holdem no limit (70/300/600) - 2023/02/16 19:52:54 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #3 is the button
+Seat 1: LECROQUIGNOL (27590)
+Seat 2: _SKR (21131)
+Seat 3: sakavin (8389)
+Seat 4: SunTzuuu (21917)
+Seat 5: Target Me (19856)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 70
+Target Me posts ante 70
+LECROQUIGNOL posts ante 70
+_SKR posts ante 70
+sakavin posts ante 70
+SunTzuuu posts small blind 300
+Target Me posts big blind 600
+Dealt to _SKR [9c Ts]
+*** PRE-FLOP *** 
+LECROQUIGNOL raises 1200 to 1800
+_SKR folds
+sakavin raises 6519 to 8319 and is all-in
+SunTzuuu folds
+Target Me folds
+LECROQUIGNOL calls 6519
+*** FLOP *** [Td 8h Js]
+*** TURN *** [Td 8h Js][8d]
+*** RIVER *** [Td 8h Js 8d][Qc]
+*** SHOW DOWN ***
+sakavin shows [Qd Jd] (Two pairs : Queens and Jacks)
+LECROQUIGNOL shows [9s 9h] (Straight Queen high)
+LECROQUIGNOL collected 17888 from pot
+*** SUMMARY ***
+Total pot 17888 | No rake
+Board: [Td 8h Js 8d Qc]
+Seat 1: LECROQUIGNOL showed [9s 9h] and won 17888 with Straight Queen high
+Seat 3: sakavin (button) showed [Qd Jd] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678092665186156545-98-1676577215 - Holdem no limit (70/300/600) - 2023/02/16 19:53:35 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (37089)
+Seat 2: _SKR (21061)
+Seat 4: SunTzuuu (21547)
+Seat 5: Target Me (19186)
+*** ANTE/BLINDS ***
+Target Me posts ante 70
+LECROQUIGNOL posts ante 70
+_SKR posts ante 70
+SunTzuuu posts ante 70
+Target Me posts small blind 300
+LECROQUIGNOL posts big blind 600
+Dealt to _SKR [Tc Ah]
+*** PRE-FLOP *** 
+_SKR raises 750 to 1350
+SunTzuuu folds
+Target Me folds
+LECROQUIGNOL folds
+_SKR collected 2530 from pot
+*** SUMMARY ***
+Total pot 2530 | No rake
+Seat 2: _SKR won 2530
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678092665186156545-99-1676577231 - Holdem no limit (70/300/600) - 2023/02/16 19:53:51 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (36419)
+Seat 2: _SKR (22171)
+Seat 4: SunTzuuu (21477)
+Seat 5: Target Me (18816)
+Seat 6: Cawin1max52 (20000)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 70
+_SKR posts ante 70
+SunTzuuu posts ante 70
+Target Me posts ante 70
+LECROQUIGNOL posts small blind 300
+_SKR posts big blind 600
+Dealt to _SKR [3d 8d]
+*** PRE-FLOP *** 
+SunTzuuu raises 600 to 1200
+Target Me folds
+LECROQUIGNOL folds
+_SKR folds
+SunTzuuu collected 2380 from pot
+*** SUMMARY ***
+Total pot 2380 | No rake
+Seat 4: SunTzuuu won 2380
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678092665186156545-100-1676577246 - Holdem no limit (70/300/600) - 2023/02/16 19:54:06 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (36049)
+Seat 2: _SKR (21501)
+Seat 4: SunTzuuu (22587)
+Seat 5: Target Me (18746)
+Seat 6: Cawin1max52 (20000)
+*** ANTE/BLINDS ***
+_SKR posts ante 70
+SunTzuuu posts ante 70
+LECROQUIGNOL posts ante 70
+Target Me posts ante 70
+Cawin1max52 posts ante 70
+_SKR posts small blind 300
+SunTzuuu posts big blind 600
+Dealt to _SKR [2s Kc]
+*** PRE-FLOP *** 
+Target Me folds
+Cawin1max52 calls 600
+LECROQUIGNOL folds
+_SKR folds
+SunTzuuu checks
+*** FLOP *** [7s 6c 3d]
+SunTzuuu checks
+Cawin1max52 checks
+*** TURN *** [7s 6c 3d][7c]
+SunTzuuu checks
+Cawin1max52 checks
+*** RIVER *** [7s 6c 3d 7c][Tc]
+SunTzuuu checks
+Cawin1max52 bets 600
+SunTzuuu folds
+Cawin1max52 collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Board: [7s 6c 3d 7c Tc]
+Seat 6: Cawin1max52 won 2450
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678092665186156545-101-1676577662 - Holdem no limit (80/350/700) - 2023/02/16 20:01:02 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (35979)
+Seat 2: _SKR (21131)
+Seat 3: La Jean Guil (20000)
+Seat 4: SunTzuuu (21917)
+Seat 5: Target Me (18676)
+Seat 6: Cawin1max52 (21180)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 80
+Target Me posts ante 80
+LECROQUIGNOL posts ante 80
+_SKR posts ante 80
+Cawin1max52 posts ante 80
+SunTzuuu posts small blind 350
+Target Me posts big blind 700
+Dealt to _SKR [Jc 6h]
+*** PRE-FLOP *** 
+Cawin1max52 folds
+LECROQUIGNOL folds
+_SKR folds
+SunTzuuu folds
+Target Me collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Seat 5: Target Me (big blind) won 1450
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678092665186156545-102-1676577681 - Holdem no limit (80/350/700) - 2023/02/16 20:01:21 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (35899)
+Seat 2: _SKR (21051)
+Seat 3: La Jean Guil (20000)
+Seat 4: SunTzuuu (21487)
+Seat 5: Target Me (19346)
+Seat 6: Cawin1max52 (21100)
+*** ANTE/BLINDS ***
+Target Me posts ante 80
+Cawin1max52 posts ante 80
+LECROQUIGNOL posts ante 80
+_SKR posts ante 80
+La Jean Guil posts ante 80
+SunTzuuu posts ante 80
+Target Me posts small blind 350
+Cawin1max52 posts big blind 700
+Dealt to _SKR [Kd 7s]
+*** PRE-FLOP *** 
+LECROQUIGNOL folds
+_SKR folds
+La Jean Guil folds
+SunTzuuu folds
+Target Me folds
+Cawin1max52 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 6: Cawin1max52 (big blind) won 1530
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678092665186156545-103-1676577702 - Holdem no limit (80/350/700) - 2023/02/16 20:01:42 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (35819)
+Seat 2: _SKR (20971)
+Seat 3: La Jean Guil (19920)
+Seat 4: SunTzuuu (21407)
+Seat 5: Target Me (18916)
+Seat 6: Cawin1max52 (21850)
+*** ANTE/BLINDS ***
+Cawin1max52 posts ante 80
+LECROQUIGNOL posts ante 80
+_SKR posts ante 80
+La Jean Guil posts ante 80
+SunTzuuu posts ante 80
+Target Me posts ante 80
+Cawin1max52 posts small blind 350
+LECROQUIGNOL posts big blind 700
+Dealt to _SKR [Qs Jh]
+*** PRE-FLOP *** 
+_SKR folds
+La Jean Guil folds
+SunTzuuu folds
+Target Me raises 875 to 1575
+Cawin1max52 folds
+LECROQUIGNOL calls 875
+*** FLOP *** [Jc 3h Jd]
+LECROQUIGNOL checks
+Target Me checks
+*** TURN *** [Jc 3h Jd][4s]
+LECROQUIGNOL checks
+Target Me checks
+*** RIVER *** [Jc 3h Jd 4s][5h]
+LECROQUIGNOL checks
+Target Me checks
+*** SHOW DOWN ***
+LECROQUIGNOL shows [Ks 6s] (One pair : Jacks)
+Target Me shows [Tc Ah] (One pair : Jacks)
+Target Me collected 3980 from pot
+*** SUMMARY ***
+Total pot 3980 | No rake
+Board: [Jc 3h Jd 4s 5h]
+Seat 1: LECROQUIGNOL (big blind) showed [Ks 6s] and lost with One pair : Jacks
+Seat 5: Target Me (button) showed [Tc Ah] and won 3980 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678092665186156545-104-1676577778 - Holdem no limit (80/350/700) - 2023/02/16 20:02:58 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #6 is the button
+Seat 1: LECROQUIGNOL (34164)
+Seat 2: _SKR (20891)
+Seat 3: La Jean Guil (19840)
+Seat 4: SunTzuuu (21327)
+Seat 5: Target Me (21241)
+Seat 6: Cawin1max52 (21420)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 80
+_SKR posts ante 80
+La Jean Guil posts ante 80
+SunTzuuu posts ante 80
+Target Me posts ante 80
+Cawin1max52 posts ante 80
+LECROQUIGNOL posts small blind 350
+_SKR posts big blind 700
+Dealt to _SKR [4d 6c]
+*** PRE-FLOP *** 
+La Jean Guil folds
+SunTzuuu folds
+Target Me folds
+Cawin1max52 folds
+LECROQUIGNOL raises 700 to 1400
+_SKR folds
+LECROQUIGNOL collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Seat 1: LECROQUIGNOL (small blind) won 2580
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678092665186156545-105-1676577796 - Holdem no limit (80/350/700) - 2023/02/16 20:03:16 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (35264)
+Seat 2: _SKR (20111)
+Seat 3: La Jean Guil (19760)
+Seat 4: SunTzuuu (21247)
+Seat 5: Target Me (21161)
+Seat 6: Cawin1max52 (21340)
+*** ANTE/BLINDS ***
+_SKR posts ante 80
+La Jean Guil posts ante 80
+LECROQUIGNOL posts ante 80
+SunTzuuu posts ante 80
+Target Me posts ante 80
+Cawin1max52 posts ante 80
+_SKR posts small blind 350
+La Jean Guil posts big blind 700
+Dealt to _SKR [7d Qh]
+*** PRE-FLOP *** 
+SunTzuuu folds
+Target Me folds
+Cawin1max52 raises 20560 to 21260 and is all-in
+LECROQUIGNOL folds
+_SKR folds
+La Jean Guil folds
+Cawin1max52 collected 22790 from pot
+*** SUMMARY ***
+Total pot 22790 | No rake
+Seat 6: Cawin1max52 won 22790
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678092665186156545-106-1676577815 - Holdem no limit (80/350/700) - 2023/02/16 20:03:35 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (35184)
+Seat 2: _SKR (19681)
+Seat 3: La Jean Guil (18980)
+Seat 4: SunTzuuu (21167)
+Seat 5: Target Me (21081)
+Seat 6: Cawin1max52 (22790)
+*** ANTE/BLINDS ***
+La Jean Guil posts ante 80
+SunTzuuu posts ante 80
+LECROQUIGNOL posts ante 80
+_SKR posts ante 80
+Target Me posts ante 80
+Cawin1max52 posts ante 80
+La Jean Guil posts small blind 350
+SunTzuuu posts big blind 700
+Dealt to _SKR [3c Ah]
+*** PRE-FLOP *** 
+Target Me folds
+Cawin1max52 folds
+LECROQUIGNOL folds
+_SKR raises 875 to 1575
+La Jean Guil folds
+SunTzuuu folds
+_SKR collected 3105 from pot
+*** SUMMARY ***
+Total pot 3105 | No rake
+Seat 2: _SKR (button) won 3105
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678092665186156545-107-1676577839 - Holdem no limit (80/350/700) - 2023/02/16 20:03:59 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #3 is the button
+Seat 1: LECROQUIGNOL (35104)
+Seat 2: _SKR (21131)
+Seat 3: La Jean Guil (18550)
+Seat 4: SunTzuuu (20387)
+Seat 5: Target Me (21001)
+Seat 6: Cawin1max52 (22710)
+*** ANTE/BLINDS ***
+SunTzuuu posts ante 80
+Target Me posts ante 80
+LECROQUIGNOL posts ante 80
+_SKR posts ante 80
+La Jean Guil posts ante 80
+Cawin1max52 posts ante 80
+SunTzuuu posts small blind 350
+Target Me posts big blind 700
+Dealt to _SKR [8h 4s]
+*** PRE-FLOP *** 
+Cawin1max52 folds
+LECROQUIGNOL folds
+_SKR folds
+La Jean Guil folds
+SunTzuuu raises 1750 to 2450
+Target Me folds
+SunTzuuu collected 3630 from pot
+*** SUMMARY ***
+Total pot 3630 | No rake
+Seat 4: SunTzuuu (small blind) won 3630
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678092665186156545-108-1676577854 - Holdem no limit (80/350/700) - 2023/02/16 20:04:14 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #4 is the button
+Seat 1: LECROQUIGNOL (35024)
+Seat 2: _SKR (21051)
+Seat 3: La Jean Guil (18470)
+Seat 4: SunTzuuu (21487)
+Seat 5: Target Me (20221)
+Seat 6: Cawin1max52 (22630)
+*** ANTE/BLINDS ***
+Target Me posts ante 80
+Cawin1max52 posts ante 80
+LECROQUIGNOL posts ante 80
+_SKR posts ante 80
+La Jean Guil posts ante 80
+SunTzuuu posts ante 80
+Target Me posts small blind 350
+Cawin1max52 posts big blind 700
+Dealt to _SKR [5h 4h]
+*** PRE-FLOP *** 
+LECROQUIGNOL folds
+_SKR folds
+La Jean Guil raises 1050 to 1750
+SunTzuuu folds
+Target Me folds
+Cawin1max52 calls 1050
+*** FLOP *** [Qd Kc 5d]
+Cawin1max52 checks
+La Jean Guil checks
+*** TURN *** [Qd Kc 5d][6c]
+Cawin1max52 checks
+La Jean Guil bets 1400
+Cawin1max52 calls 1400
+*** RIVER *** [Qd Kc 5d 6c][2h]
+Cawin1max52 checks
+La Jean Guil checks
+*** SHOW DOWN ***
+Cawin1max52 shows [3h 3s] (One pair : 3)
+La Jean Guil shows [Jh Jc] (One pair : Jacks)
+La Jean Guil collected 7130 from pot
+*** SUMMARY ***
+Total pot 7130 | No rake
+Board: [Qd Kc 5d 6c 2h]
+Seat 3: La Jean Guil showed [Jh Jc] and won 7130 with One pair : Jacks
+Seat 6: Cawin1max52 (big blind) showed [3h 3s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678092665186156545-109-1676577916 - Holdem no limit (80/350/700) - 2023/02/16 20:05:16 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #5 is the button
+Seat 1: LECROQUIGNOL (34944)
+Seat 2: _SKR (20971)
+Seat 3: La Jean Guil (22370)
+Seat 4: SunTzuuu (21407)
+Seat 5: Target Me (19791)
+Seat 6: Cawin1max52 (19400)
+*** ANTE/BLINDS ***
+Cawin1max52 posts ante 80
+LECROQUIGNOL posts ante 80
+_SKR posts ante 80
+La Jean Guil posts ante 80
+SunTzuuu posts ante 80
+Target Me posts ante 80
+Cawin1max52 posts small blind 350
+LECROQUIGNOL posts big blind 700
+Dealt to _SKR [6d 3s]
+*** PRE-FLOP *** 
+_SKR folds
+La Jean Guil calls 700
+SunTzuuu raises 2100 to 2800
+Target Me folds
+Cawin1max52 folds
+LECROQUIGNOL folds
+La Jean Guil calls 2100
+*** FLOP *** [8h Ac 6c]
+La Jean Guil checks
+SunTzuuu checks
+*** TURN *** [8h Ac 6c][Kc]
+La Jean Guil bets 1750
+SunTzuuu calls 1750
+*** RIVER *** [8h Ac 6c Kc][4h]
+La Jean Guil checks
+SunTzuuu checks
+*** SHOW DOWN ***
+La Jean Guil shows [9s Qs] (High card : Ace)
+SunTzuuu shows [Jc Js] (One pair : Jacks)
+SunTzuuu collected 10630 from pot
+*** SUMMARY ***
+Total pot 10630 | No rake
+Board: [8h Ac 6c Kc 4h]
+Seat 3: La Jean Guil showed [9s Qs] and lost with High card : Ace
+Seat 4: SunTzuuu showed [Jc Js] and won 10630 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678092665186156545-110-1676577982 - Holdem no limit (100/400/800) - 2023/02/16 20:06:22 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #6 is the button
+Seat 1: LECROQUIGNOL (34164)
+Seat 2: _SKR (20891)
+Seat 3: La Jean Guil (17740)
+Seat 4: SunTzuuu (27407)
+Seat 5: Target Me (19711)
+Seat 6: Cawin1max52 (18970)
+*** ANTE/BLINDS ***
+LECROQUIGNOL posts ante 100
+_SKR posts ante 100
+La Jean Guil posts ante 100
+SunTzuuu posts ante 100
+Target Me posts ante 100
+Cawin1max52 posts ante 100
+LECROQUIGNOL posts small blind 400
+_SKR posts big blind 800
+Dealt to _SKR [5c Qc]
+*** PRE-FLOP *** 
+La Jean Guil raises 800 to 1600
+SunTzuuu folds
+Target Me folds
+Cawin1max52 calls 1600
+LECROQUIGNOL folds
+_SKR calls 800
+*** FLOP *** [Kc Ah 7c]
+_SKR checks
+La Jean Guil checks
+Cawin1max52 checks
+*** TURN *** [Kc Ah 7c][6c]
+_SKR bets 4640
+La Jean Guil folds
+Cawin1max52 folds
+_SKR collected 10440 from pot
+*** SUMMARY ***
+Total pot 10440 | No rake
+Board: [Kc Ah 7c 6c]
+Seat 2: _SKR (big blind) won 10440
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678092665186156545-111-1676578055 - Holdem no limit (100/400/800) - 2023/02/16 20:07:35 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #1 is the button
+Seat 1: LECROQUIGNOL (33664)
+Seat 2: _SKR (24991)
+Seat 3: La Jean Guil (16040)
+Seat 5: Target Me (19611)
+Seat 6: Cawin1max52 (17270)
+*** ANTE/BLINDS ***
+_SKR posts ante 100
+La Jean Guil posts ante 100
+LECROQUIGNOL posts ante 100
+Target Me posts ante 100
+Cawin1max52 posts ante 100
+_SKR posts small blind 400
+La Jean Guil posts big blind 800
+Dealt to _SKR [7h 7c]
+*** PRE-FLOP *** 
+Target Me raises 1000 to 1800
+Cawin1max52 folds
+LECROQUIGNOL folds
+_SKR raises 23091 to 24891 and is all-in
+La Jean Guil folds
+Target Me calls 17711 and is all-in
+*** FLOP *** [5h Qs 3d]
+*** TURN *** [5h Qs 3d][2s]
+*** RIVER *** [5h Qs 3d 2s][Ac]
+*** SHOW DOWN ***
+_SKR shows [7h 7c] (One pair : 7)
+Target Me shows [9s 9c] (One pair : 9)
+Target Me collected 40322 from main pot
+_SKR collected 5380 from side pot 1
+*** SUMMARY ***
+Total pot 45702 | No rake
+Board: [5h Qs 3d 2s Ac]
+Seat 2: _SKR (small blind) showed [7h 7c] and won 5380 with One pair : 7
+Seat 5: Target Me showed [9s 9c] and won 40322 with One pair : 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678092665186156545-112-1676578080 - Holdem no limit (100/400/800) - 2023/02/16 20:08:00 UTC
+Table: 'Hold'em(623542039)#000' 6-max (real money) Seat #2 is the button
+Seat 1: LECROQUIGNOL (33564)
+Seat 2: _SKR (5380)
+Seat 3: La Jean Guil (15140)
+Seat 5: Target Me (40322)
+Seat 6: Cawin1max52 (17170)
+*** ANTE/BLINDS ***
+La Jean Guil posts ante 100
+Target Me posts ante 100
+LECROQUIGNOL posts ante 100
+_SKR posts ante 100
+Cawin1max52 posts ante 100
+La Jean Guil posts small blind 400
+Target Me posts big blind 800
+Dealt to _SKR [Kc 3c]
+*** PRE-FLOP *** 
+Cawin1max52 calls 800
+LECROQUIGNOL folds
+_SKR raises 4480 to 5280 and is all-in
+La Jean Guil raises 9760 to 15040 and is all-in
+Target Me folds
+Cawin1max52 raises 2030 to 17070 and is all-in
+*** FLOP *** [4s 7h 8s]
+*** TURN *** [4s 7h 8s][9s]
+*** RIVER *** [4s 7h 8s 9s][2s]
+*** SHOW DOWN ***
+_SKR shows [Kc 3c] (High card : King)
+La Jean Guil shows [Ts As] (Flush Ace high)
+Cawin1max52 shows [5h 4h] (One pair : 4)
+Cawin1max52 collected 2030 from side pot 1
+La Jean Guil collected 36660 from main pot
+*** SUMMARY ***
+Total pot 38690 | No rake
+Board: [4s 7h 8s 9s 2s]
+Seat 2: _SKR (button) showed [Kc 3c] and lost with High card : King
+Seat 3: La Jean Guil (small blind) showed [Ts As] and won 36660 with Flush Ace high
+Seat 6: Cawin1max52 showed [5h 4h] and won 2030 with One pair : 4
+
+

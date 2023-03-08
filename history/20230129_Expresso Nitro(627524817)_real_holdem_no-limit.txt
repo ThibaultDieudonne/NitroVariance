@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695198566443384833-1-1674999565 - Holdem no limit (10/20) - 2023/01/29 13:39:25 UTC
+Table: 'Expresso Nitro(627524817)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MC Maname62 (300)
+Seat 2: _SKR (300)
+Seat 3: tchill 45 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tchill 45 posts big blind 20
+Dealt to _SKR [2h 3s]
+*** PRE-FLOP *** 
+MC Maname62 folds
+_SKR folds
+tchill 45 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: tchill 45 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695198566443384833-2-1674999572 - Holdem no limit (10/20) - 2023/01/29 13:39:32 UTC
+Table: 'Expresso Nitro(627524817)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MC Maname62 (300)
+Seat 2: _SKR (290)
+Seat 3: tchill 45 (310)
+*** ANTE/BLINDS ***
+tchill 45 posts small blind 10
+MC Maname62 posts big blind 20
+Dealt to _SKR [Ts Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+tchill 45 calls 30
+MC Maname62 calls 20
+*** FLOP *** [Kh 6d 8h]
+tchill 45 checks
+MC Maname62 checks
+_SKR bets 42
+tchill 45 folds
+MC Maname62 calls 42
+*** TURN *** [Kh 6d 8h][6h]
+MC Maname62 checks
+_SKR bets 208 and is all-in
+MC Maname62 calls 208
+*** RIVER *** [Kh 6d 8h 6h][4d]
+*** SHOW DOWN ***
+_SKR shows [Ts Kc] (Two pairs : Kings and 6)
+MC Maname62 shows [7h Jh] (Flush King high)
+MC Maname62 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Kh 6d 8h 6h 4d]
+Seat 1: MC Maname62 (big blind) showed [7h Jh] and won 620 with Flush King high
+Seat 2: _SKR (button) showed [Ts Kc] and lost with Two pairs : Kings and 6
+
+

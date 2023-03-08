@@ -1,0 +1,322 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729166191477129217-1-1676903965 - Holdem no limit (10/20) - 2023/02/20 14:39:25 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: VDUB777 (300)
+Seat 3: Creature_859 (300)
+*** ANTE/BLINDS ***
+Creature_859 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h 3d]
+*** PRE-FLOP *** 
+VDUB777 calls 20
+Creature_859 calls 10
+_SKR checks
+*** FLOP *** [Qd Ac Kc]
+Creature_859 checks
+_SKR checks
+VDUB777 bets 60
+Creature_859 folds
+_SKR folds
+VDUB777 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qd Ac Kc]
+Seat 2: VDUB777 (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729166191477129217-2-1676903991 - Holdem no limit (10/20) - 2023/02/20 14:39:51 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: VDUB777 (340)
+Seat 3: Creature_859 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+VDUB777 posts big blind 20
+Dealt to _SKR [8d 7s]
+*** PRE-FLOP *** 
+Creature_859 calls 20
+_SKR folds
+VDUB777 checks
+*** FLOP *** [Js Ah 9c]
+VDUB777 checks
+Creature_859 checks
+*** TURN *** [Js Ah 9c][Ac]
+VDUB777 checks
+Creature_859 checks
+*** RIVER *** [Js Ah 9c Ac][Kc]
+VDUB777 checks
+Creature_859 checks
+*** SHOW DOWN ***
+VDUB777 shows [2h 3d] (One pair : Aces)
+Creature_859 shows [4h 6s] (One pair : Aces)
+Creature_859 collected 25 from pot
+VDUB777 collected 25 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Js Ah 9c Ac Kc]
+Seat 2: VDUB777 (big blind) showed [2h 3d] and won 25 with One pair : Aces
+Seat 3: Creature_859 (button) showed [4h 6s] and won 25 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729166191477129217-3-1676904008 - Holdem no limit (10/20) - 2023/02/20 14:40:08 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: VDUB777 (345)
+Seat 3: Creature_859 (285)
+*** ANTE/BLINDS ***
+VDUB777 posts small blind 10
+Creature_859 posts big blind 20
+Dealt to _SKR [4d Ks]
+*** PRE-FLOP *** 
+_SKR folds
+VDUB777 calls 10
+Creature_859 checks
+*** FLOP *** [Qc 6h 7s]
+VDUB777 checks
+Creature_859 checks
+*** TURN *** [Qc 6h 7s][Td]
+VDUB777 bets 40
+Creature_859 calls 40
+*** RIVER *** [Qc 6h 7s Td][Jh]
+VDUB777 bets 120
+Creature_859 calls 120
+*** SHOW DOWN ***
+Creature_859 shows [Qd 4c] (One pair : Queens)
+VDUB777 shows [Kh 9s] (Straight King high)
+VDUB777 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qc 6h 7s Td Jh]
+Seat 2: VDUB777 (small blind) showed [Kh 9s] and won 360 with Straight King high
+Seat 3: Creature_859 (big blind) showed [Qd 4c] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729166191477129217-4-1676904029 - Holdem no limit (15/30) - 2023/02/20 14:40:29 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: VDUB777 (525)
+Seat 3: Creature_859 (105)
+*** ANTE/BLINDS ***
+Creature_859 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd 4c]
+*** PRE-FLOP *** 
+VDUB777 folds
+Creature_859 calls 15
+_SKR raises 240 to 270 and is all-in
+Creature_859 calls 75 and is all-in
+*** FLOP *** [5c Ts 2c]
+*** TURN *** [5c Ts 2c][Tc]
+*** RIVER *** [5c Ts 2c Tc][Jd]
+*** SHOW DOWN ***
+_SKR shows [Kd 4c] (One pair : Tens)
+Creature_859 shows [2d Th] (Full of Tens and 2)
+Creature_859 collected 210 from main pot
+_SKR collected 165 from side pot 1
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [5c Ts 2c Tc Jd]
+Seat 1: _SKR (big blind) showed [Kd 4c] and won 165 with One pair : Tens
+Seat 3: Creature_859 (small blind) showed [2d Th] and won 210 with Full of Tens and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729166191477129217-5-1676904043 - Holdem no limit (15/30) - 2023/02/20 14:40:43 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (165)
+Seat 2: VDUB777 (525)
+Seat 3: Creature_859 (210)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+VDUB777 posts big blind 30
+Dealt to _SKR [Jc Tc]
+*** PRE-FLOP *** 
+Creature_859 calls 30
+_SKR raises 135 to 165 and is all-in
+VDUB777 calls 135
+Creature_859 calls 135
+*** FLOP *** [Qh 2s 4h]
+VDUB777 checks
+Creature_859 checks
+*** TURN *** [Qh 2s 4h][9c]
+VDUB777 bets 360 and is all-in
+Creature_859 calls 45 and is all-in
+*** RIVER *** [Qh 2s 4h 9c][Td]
+*** SHOW DOWN ***
+Creature_859 shows [7d 2c] (One pair : 2)
+_SKR shows [Jc Tc] (One pair : Tens)
+VDUB777 shows [Ks 9h] (One pair : 9)
+VDUB777 collected 405 from side pot 1
+_SKR collected 495 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qh 2s 4h 9c Td]
+Seat 1: _SKR (small blind) showed [Jc Tc] and won 495 with One pair : Tens
+Seat 2: VDUB777 (big blind) showed [Ks 9h] and won 405 with One pair : 9
+Seat 3: Creature_859 (button) showed [7d 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729166191477129217-6-1676904065 - Holdem no limit (15/30) - 2023/02/20 14:41:05 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (495)
+Seat 2: VDUB777 (405)
+*** ANTE/BLINDS ***
+VDUB777 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qs 3h]
+*** PRE-FLOP *** 
+VDUB777 raises 375 to 405 and is all-in
+_SKR folds
+VDUB777 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 2: VDUB777 (small blind) (button) won 435
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729166191477129217-7-1676904072 - Holdem no limit (15/30) - 2023/02/20 14:41:12 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (465)
+Seat 2: VDUB777 (435)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+VDUB777 posts big blind 30
+Dealt to _SKR [9c 7d]
+*** PRE-FLOP *** 
+_SKR folds
+VDUB777 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: VDUB777 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729166191477129217-8-1676904077 - Holdem no limit (15/30) - 2023/02/20 14:41:17 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (450)
+Seat 2: VDUB777 (450)
+*** ANTE/BLINDS ***
+VDUB777 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ts 3s]
+*** PRE-FLOP *** 
+VDUB777 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729166191477129217-9-1676904081 - Holdem no limit (20/40) - 2023/02/20 14:41:21 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (465)
+Seat 2: VDUB777 (435)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+VDUB777 posts big blind 40
+Dealt to _SKR [Qh 3s]
+*** PRE-FLOP *** 
+_SKR folds
+VDUB777 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: VDUB777 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729166191477129217-10-1676904084 - Holdem no limit (20/40) - 2023/02/20 14:41:24 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (445)
+Seat 2: VDUB777 (455)
+*** ANTE/BLINDS ***
+VDUB777 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js Qd]
+*** PRE-FLOP *** 
+VDUB777 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729166191477129217-11-1676904088 - Holdem no limit (20/40) - 2023/02/20 14:41:28 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (465)
+Seat 2: VDUB777 (435)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+VDUB777 posts big blind 40
+Dealt to _SKR [Jc Jh]
+*** PRE-FLOP *** 
+_SKR raises 425 to 465 and is all-in
+VDUB777 folds
+_SKR collected 505 from pot
+*** SUMMARY ***
+Total pot 505 | No rake
+Seat 1: _SKR (small blind) (button) won 505
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729166191477129217-12-1676904094 - Holdem no limit (20/40) - 2023/02/20 14:41:34 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (505)
+Seat 2: VDUB777 (395)
+*** ANTE/BLINDS ***
+VDUB777 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4h 6h]
+*** PRE-FLOP *** 
+VDUB777 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729166191477129217-13-1676904098 - Holdem no limit (20/40) - 2023/02/20 14:41:38 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (525)
+Seat 2: VDUB777 (375)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+VDUB777 posts big blind 40
+Dealt to _SKR [Qs Kd]
+*** PRE-FLOP *** 
+_SKR raises 485 to 525 and is all-in
+VDUB777 calls 335 and is all-in
+*** FLOP *** [6c Ac 8h]
+*** TURN *** [6c Ac 8h][5h]
+*** RIVER *** [6c Ac 8h 5h][6d]
+*** SHOW DOWN ***
+_SKR shows [Qs Kd] (One pair : 6)
+VDUB777 shows [2s Ad] (Two pairs : Aces and 6)
+VDUB777 collected 750 from main pot
+_SKR collected 150 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c Ac 8h 5h 6d]
+Seat 1: _SKR (small blind) (button) showed [Qs Kd] and won 150 with One pair : 6
+Seat 2: VDUB777 (big blind) showed [2s Ad] and won 750 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729166191477129217-14-1676904111 - Holdem no limit (20/40) - 2023/02/20 14:41:51 UTC
+Table: 'Expresso Nitro(635433521)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (150)
+Seat 2: VDUB777 (750)
+*** ANTE/BLINDS ***
+VDUB777 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s Kd]
+*** PRE-FLOP *** 
+VDUB777 raises 710 to 750 and is all-in
+_SKR calls 110 and is all-in
+*** FLOP *** [8c 3d 2d]
+*** TURN *** [8c 3d 2d][Ah]
+*** RIVER *** [8c 3d 2d Ah][Js]
+*** SHOW DOWN ***
+_SKR shows [7s Kd] (High card : Ace)
+VDUB777 shows [As 4s] (One pair : Aces)
+VDUB777 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8c 3d 2d Ah Js]
+Seat 1: _SKR (big blind) showed [7s Kd] and lost with High card : Ace
+Seat 2: VDUB777 (small blind) (button) showed [As 4s] and won 900 with One pair : Aces
+
+

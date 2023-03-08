@@ -1,0 +1,103 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730614024952610817-1-1676988713 - Holdem no limit (10/20) - 2023/02/21 14:11:53 UTC
+Table: 'Expresso Nitro(635770621)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ThorBoyo51 (300)
+Seat 2: Kayux (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+ThorBoyo51 posts small blind 10
+Kayux posts big blind 20
+Dealt to _SKR [2c Qc]
+*** PRE-FLOP *** 
+_SKR folds
+ThorBoyo51 folds
+Kayux collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Kayux (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730614024952610817-2-1676988731 - Holdem no limit (10/20) - 2023/02/21 14:12:11 UTC
+Table: 'Expresso Nitro(635770621)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ThorBoyo51 (290)
+Seat 2: Kayux (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Kayux posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s Qh]
+*** PRE-FLOP *** 
+ThorBoyo51 raises 20 to 40
+Kayux folds
+_SKR calls 20
+*** FLOP *** [Jc Qd Ah]
+_SKR checks
+ThorBoyo51 bets 30
+_SKR calls 30
+*** TURN *** [Jc Qd Ah][3s]
+_SKR checks
+ThorBoyo51 bets 40
+_SKR calls 40
+*** RIVER *** [Jc Qd Ah 3s][3h]
+_SKR checks
+ThorBoyo51 bets 81
+_SKR calls 81
+*** SHOW DOWN ***
+_SKR shows [4s Qh] (Two pairs : Queens and 3)
+ThorBoyo51 shows [Ad 8d] (Two pairs : Aces and 3)
+ThorBoyo51 collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | No rake
+Board: [Jc Qd Ah 3s 3h]
+Seat 1: ThorBoyo51 (button) showed [Ad 8d] and won 392 with Two pairs : Aces and 3
+Seat 3: _SKR (big blind) showed [4s Qh] and lost with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730614024952610817-3-1676988775 - Holdem no limit (15/30) - 2023/02/21 14:12:55 UTC
+Table: 'Expresso Nitro(635770621)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ThorBoyo51 (491)
+Seat 2: Kayux (300)
+Seat 3: _SKR (109)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ThorBoyo51 posts big blind 30
+Dealt to _SKR [2s 4s]
+*** PRE-FLOP *** 
+Kayux folds
+_SKR raises 79 to 109 and is all-in
+ThorBoyo51 folds
+_SKR collected 139 from pot
+*** SUMMARY ***
+Total pot 139 | No rake
+Seat 3: _SKR (small blind) won 139
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730614024952610817-4-1676988780 - Holdem no limit (15/30) - 2023/02/21 14:13:00 UTC
+Table: 'Expresso Nitro(635770621)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ThorBoyo51 (461)
+Seat 2: Kayux (300)
+Seat 3: _SKR (139)
+*** ANTE/BLINDS ***
+ThorBoyo51 posts small blind 15
+Kayux posts big blind 30
+Dealt to _SKR [As Qh]
+*** PRE-FLOP *** 
+_SKR raises 109 to 139 and is all-in
+ThorBoyo51 calls 124
+Kayux raises 161 to 300 and is all-in
+ThorBoyo51 calls 161
+*** FLOP *** [2c 9c 7d]
+*** TURN *** [2c 9c 7d][Kc]
+*** RIVER *** [2c 9c 7d Kc][7c]
+*** SHOW DOWN ***
+Kayux shows [Qd Kh] (Two pairs : Kings and 7)
+_SKR shows [As Qh] (One pair : 7)
+ThorBoyo51 shows [Kd Qc] (Flush King high)
+ThorBoyo51 collected 739 from pot
+*** SUMMARY ***
+Total pot 739 | No rake
+Board: [2c 9c 7d Kc 7c]
+Seat 1: ThorBoyo51 (small blind) showed [Kd Qc] and won 739 with Flush King high
+Seat 2: Kayux (big blind) showed [Qd Kh] and lost with Two pairs : Kings and 7
+Seat 3: _SKR (button) showed [As Qh] and lost with One pair : 7
+
+

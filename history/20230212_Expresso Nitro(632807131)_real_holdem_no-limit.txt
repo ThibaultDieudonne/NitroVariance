@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717885932320587777-1-1676238851 - Holdem no limit (10/20) - 2023/02/12 21:54:11 UTC
+Table: 'Expresso Nitro(632807131)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Mills38 (300)
+Seat 2: _SKR (300)
+Seat 3: shevabcn (300)
+*** ANTE/BLINDS ***
+shevabcn posts small blind 10
+Mills38 posts big blind 20
+Dealt to _SKR [3s 6c]
+*** PRE-FLOP *** 
+_SKR folds
+shevabcn raises 280 to 300 and is all-in
+Mills38 folds
+shevabcn collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: shevabcn (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717885932320587777-2-1676238876 - Holdem no limit (10/20) - 2023/02/12 21:54:36 UTC
+Table: 'Expresso Nitro(632807131)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mills38 (280)
+Seat 2: _SKR (300)
+Seat 3: shevabcn (320)
+*** ANTE/BLINDS ***
+Mills38 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s 5d]
+*** PRE-FLOP *** 
+shevabcn raises 20 to 40
+Mills38 calls 30
+_SKR raises 260 to 300 and is all-in
+shevabcn calls 260
+Mills38 calls 240 and is all-in
+*** FLOP *** [8h Qh 6s]
+*** TURN *** [8h Qh 6s][3d]
+*** RIVER *** [8h Qh 6s 3d][4d]
+*** SHOW DOWN ***
+_SKR shows [5s 5d] (One pair : 5)
+Mills38 shows [Kc Ks] (One pair : Kings)
+shevabcn shows [6d Jd] (One pair : 6)
+shevabcn collected 40 from side pot 1
+Mills38 collected 840 from main pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [8h Qh 6s 3d 4d]
+Seat 1: Mills38 (small blind) showed [Kc Ks] and won 840 with One pair : Kings
+Seat 2: _SKR (big blind) showed [5s 5d] and lost with One pair : 5
+Seat 3: shevabcn (button) showed [6d Jd] and won 40 with One pair : 6
+
+

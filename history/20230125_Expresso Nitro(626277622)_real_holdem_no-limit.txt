@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689841904706650113-1-1674655161 - Holdem no limit (10/20) - 2023/01/25 13:59:21 UTC
+Table: 'Expresso Nitro(626277622)#0' 3-max (real money) Seat #1 is the button
+Seat 1: GiovanAGGL (300)
+Seat 2: Salsaparasol (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Salsaparasol posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td 4s]
+*** PRE-FLOP *** 
+GiovanAGGL folds
+Salsaparasol calls 10
+_SKR checks
+*** FLOP *** [8c Qs Jc]
+Salsaparasol checks
+_SKR checks
+*** TURN *** [8c Qs Jc][Jh]
+Salsaparasol checks
+_SKR checks
+*** RIVER *** [8c Qs Jc Jh][Ts]
+Salsaparasol checks
+_SKR bets 20
+Salsaparasol folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [8c Qs Jc Jh Ts]
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689841904706650113-2-1674655207 - Holdem no limit (10/20) - 2023/01/25 14:00:07 UTC
+Table: 'Expresso Nitro(626277622)#0' 3-max (real money) Seat #2 is the button
+Seat 1: GiovanAGGL (300)
+Seat 2: Salsaparasol (280)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+GiovanAGGL posts big blind 20
+Dealt to _SKR [Tc Kh]
+*** PRE-FLOP *** 
+Salsaparasol folds
+_SKR raises 300 to 320 and is all-in
+GiovanAGGL calls 280 and is all-in
+*** FLOP *** [8c Qc 4c]
+*** TURN *** [8c Qc 4c][Qd]
+*** RIVER *** [8c Qc 4c Qd][3d]
+*** SHOW DOWN ***
+GiovanAGGL shows [3c 3h] (Full of 3 and Queens)
+_SKR shows [Tc Kh] (One pair : Queens)
+_SKR collected 20 from side pot 1
+GiovanAGGL collected 600 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8c Qc 4c Qd 3d]
+Seat 1: GiovanAGGL (big blind) showed [3c 3h] and won 600 with Full of 3 and Queens
+Seat 3: _SKR (small blind) showed [Tc Kh] and won 20 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689841904706650113-3-1674655226 - Holdem no limit (15/30) - 2023/01/25 14:00:26 UTC
+Table: 'Expresso Nitro(626277622)#0' 3-max (real money) Seat #3 is the button
+Seat 1: GiovanAGGL (600)
+Seat 2: Salsaparasol (280)
+Seat 3: _SKR (20)
+*** ANTE/BLINDS ***
+GiovanAGGL posts small blind 15
+Salsaparasol posts big blind 30
+Dealt to _SKR [8d 6s]
+*** PRE-FLOP *** 
+_SKR folds
+GiovanAGGL folds
+Salsaparasol collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Salsaparasol (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689841904706650113-4-1674655231 - Holdem no limit (15/30) - 2023/01/25 14:00:31 UTC
+Table: 'Expresso Nitro(626277622)#0' 3-max (real money) Seat #1 is the button
+Seat 1: GiovanAGGL (585)
+Seat 2: Salsaparasol (295)
+Seat 3: _SKR (20)
+*** ANTE/BLINDS ***
+Salsaparasol posts small blind 15
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [2c Qd]
+*** PRE-FLOP *** 
+GiovanAGGL calls 30
+Salsaparasol calls 15
+*** FLOP *** [2s 3h 5d]
+Salsaparasol checks
+GiovanAGGL checks
+*** TURN *** [2s 3h 5d][Ad]
+Salsaparasol checks
+GiovanAGGL bets 80
+Salsaparasol folds
+*** RIVER *** [2s 3h 5d Ad][7h]
+*** SHOW DOWN ***
+_SKR shows [2c Qd] (One pair : 2)
+GiovanAGGL shows [Ac 7d] (Two pairs : Aces and 7)
+GiovanAGGL collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [2s 3h 5d Ad 7h]
+Seat 1: GiovanAGGL (button) showed [Ac 7d] and won 160 with Two pairs : Aces and 7
+Seat 3: _SKR (big blind) showed [2c Qd] and lost with One pair : 2
+
+

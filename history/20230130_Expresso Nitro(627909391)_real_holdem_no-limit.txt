@@ -1,0 +1,201 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696850299196276737-1-1675100583 - Holdem no limit (10/20) - 2023/01/30 17:43:03 UTC
+Table: 'Expresso Nitro(627909391)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BC33150 (300)
+Seat 2: cochoa (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+cochoa posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d 3d]
+*** PRE-FLOP *** 
+BC33150 calls 20
+cochoa folds
+_SKR checks
+*** FLOP *** [Tc 3h 4c]
+_SKR checks
+BC33150 checks
+*** TURN *** [Tc 3h 4c][Ad]
+_SKR checks
+BC33150 checks
+*** RIVER *** [Tc 3h 4c Ad][4d]
+_SKR checks
+BC33150 checks
+*** SHOW DOWN ***
+BC33150 shows [9c Qs] (One pair : 4)
+_SKR shows [2d 3d] (Two pairs : 4 and 3)
+_SKR collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Tc 3h 4c Ad 4d]
+Seat 1: BC33150 (button) showed [9c Qs] and lost with One pair : 4
+Seat 3: _SKR (big blind) showed [2d 3d] and won 50 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696850299196276737-2-1675100630 - Holdem no limit (10/20) - 2023/01/30 17:43:50 UTC
+Table: 'Expresso Nitro(627909391)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BC33150 (280)
+Seat 2: cochoa (290)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+BC33150 posts big blind 20
+Dealt to _SKR [4s 5h]
+*** PRE-FLOP *** 
+cochoa raises 20 to 40
+_SKR folds
+BC33150 calls 20
+*** FLOP *** [5d 8d Th]
+BC33150 checks
+cochoa bets 31
+BC33150 calls 31
+*** TURN *** [5d 8d Th][3h]
+BC33150 checks
+cochoa checks
+*** RIVER *** [5d 8d Th 3h][Qh]
+BC33150 bets 20
+cochoa raises 199 to 219 and is all-in
+BC33150 calls 189 and is all-in
+*** SHOW DOWN ***
+BC33150 shows [Qc 8h] (Two pairs : Queens and 8)
+cochoa shows [Qd Jd] (One pair : Queens)
+cochoa collected 10 from side pot 1
+BC33150 collected 570 from main pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5d 8d Th 3h Qh]
+Seat 1: BC33150 (big blind) showed [Qc 8h] and won 570 with Two pairs : Queens and 8
+Seat 2: cochoa (button) showed [Qd Jd] and won 10 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696850299196276737-3-1675100687 - Holdem no limit (15/30) - 2023/01/30 17:44:47 UTC
+Table: 'Expresso Nitro(627909391)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BC33150 (570)
+Seat 2: cochoa (10)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+BC33150 posts small blind 15
+cochoa posts big blind 10 and is all-in
+Dealt to _SKR [4h Qs]
+*** PRE-FLOP *** 
+_SKR folds
+*** FLOP *** [Kc Th As]
+*** TURN *** [Kc Th As][3d]
+*** RIVER *** [Kc Th As 3d][Ah]
+*** SHOW DOWN ***
+cochoa shows [4c 2s] (One pair : Aces)
+BC33150 shows [2d 5d] (One pair : Aces)
+BC33150 collected 25 from pot
+*** SUMMARY ***
+Total pot 25 | No rake
+Board: [Kc Th As 3d Ah]
+Seat 1: BC33150 (small blind) showed [2d 5d] and won 25 with One pair : Aces
+Seat 2: cochoa (big blind) showed [4c 2s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696850299196276737-4-1675100699 - Holdem no limit (20/40) - 2023/01/30 17:44:59 UTC
+Table: 'Expresso Nitro(627909391)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BC33150 (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+BC33150 posts big blind 40
+Dealt to _SKR [Qc Tc]
+*** PRE-FLOP *** 
+_SKR raises 280 to 320 and is all-in
+BC33150 folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696850299196276737-5-1675100703 - Holdem no limit (20/40) - 2023/01/30 17:45:03 UTC
+Table: 'Expresso Nitro(627909391)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BC33150 (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+BC33150 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 9s]
+*** PRE-FLOP *** 
+BC33150 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696850299196276737-6-1675100706 - Holdem no limit (20/40) - 2023/01/30 17:45:06 UTC
+Table: 'Expresso Nitro(627909391)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BC33150 (520)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+BC33150 posts big blind 40
+Dealt to _SKR [7d 6s]
+*** PRE-FLOP *** 
+_SKR folds
+BC33150 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: BC33150 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696850299196276737-7-1675100713 - Holdem no limit (20/40) - 2023/01/30 17:45:13 UTC
+Table: 'Expresso Nitro(627909391)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BC33150 (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+BC33150 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8h Ts]
+*** PRE-FLOP *** 
+BC33150 raises 500 to 540 and is all-in
+_SKR folds
+BC33150 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 1: BC33150 (small blind) (button) won 580
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696850299196276737-8-1675100726 - Holdem no limit (20/40) - 2023/01/30 17:45:26 UTC
+Table: 'Expresso Nitro(627909391)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BC33150 (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+BC33150 posts big blind 40
+Dealt to _SKR [6s 5c]
+*** PRE-FLOP *** 
+_SKR folds
+BC33150 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: BC33150 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696850299196276737-9-1675100730 - Holdem no limit (20/40) - 2023/01/30 17:45:30 UTC
+Table: 'Expresso Nitro(627909391)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BC33150 (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+BC33150 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5h Ac]
+*** PRE-FLOP *** 
+BC33150 raises 560 to 600 and is all-in
+_SKR calls 260 and is all-in
+*** FLOP *** [Jh 2d 8h]
+*** TURN *** [Jh 2d 8h][6c]
+*** RIVER *** [Jh 2d 8h 6c][4s]
+*** SHOW DOWN ***
+_SKR shows [5h Ac] (High card : Ace)
+BC33150 shows [7d Ah] (High card : Ace)
+BC33150 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh 2d 8h 6c 4s]
+Seat 1: BC33150 (small blind) (button) showed [7d Ah] and won 900 with High card : Ace
+Seat 3: _SKR (big blind) showed [5h Ac] and lost with High card : Ace
+
+

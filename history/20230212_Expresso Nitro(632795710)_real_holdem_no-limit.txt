@@ -1,0 +1,187 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717836879499100161-1-1676237121 - Holdem no limit (10/20) - 2023/02/12 21:25:21 UTC
+Table: 'Expresso Nitro(632795710)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Elmoritoleon (300)
+Seat 2: _SKR (300)
+Seat 3: Elbolido74 (300)
+*** ANTE/BLINDS ***
+Elbolido74 posts small blind 10
+Elmoritoleon posts big blind 20
+Dealt to _SKR [6c 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Elbolido74 raises 280 to 300 and is all-in
+Elmoritoleon folds
+Elbolido74 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Elbolido74 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717836879499100161-2-1676237129 - Holdem no limit (10/20) - 2023/02/12 21:25:29 UTC
+Table: 'Expresso Nitro(632795710)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Elmoritoleon (280)
+Seat 2: _SKR (300)
+Seat 3: Elbolido74 (320)
+*** ANTE/BLINDS ***
+Elmoritoleon posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c 6c]
+*** PRE-FLOP *** 
+Elbolido74 folds
+Elmoritoleon calls 10
+_SKR checks
+*** FLOP *** [3c Jd 5c]
+Elmoritoleon checks
+_SKR bets 20
+Elmoritoleon folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3c Jd 5c]
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717836879499100161-3-1676237154 - Holdem no limit (10/20) - 2023/02/12 21:25:54 UTC
+Table: 'Expresso Nitro(632795710)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Elmoritoleon (260)
+Seat 2: _SKR (320)
+Seat 3: Elbolido74 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Elbolido74 posts big blind 20
+Dealt to _SKR [7c Jd]
+*** PRE-FLOP *** 
+Elmoritoleon folds
+_SKR calls 10
+Elbolido74 checks
+*** FLOP *** [4c 8c 5s]
+_SKR checks
+Elbolido74 checks
+*** TURN *** [4c 8c 5s][9s]
+_SKR checks
+Elbolido74 checks
+*** RIVER *** [4c 8c 5s 9s][Td]
+_SKR bets 32
+Elbolido74 calls 32
+*** SHOW DOWN ***
+Elbolido74 shows [3h Ts] (One pair : Tens)
+_SKR shows [7c Jd] (Straight Jack high)
+_SKR collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Board: [4c 8c 5s 9s Td]
+Seat 2: _SKR (small blind) showed [7c Jd] and won 104 with Straight Jack high
+Seat 3: Elbolido74 (big blind) showed [3h Ts] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717836879499100161-4-1676237210 - Holdem no limit (15/30) - 2023/02/12 21:26:50 UTC
+Table: 'Expresso Nitro(632795710)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Elmoritoleon (260)
+Seat 2: _SKR (372)
+Seat 3: Elbolido74 (268)
+*** ANTE/BLINDS ***
+Elbolido74 posts small blind 15
+Elmoritoleon posts big blind 30
+Dealt to _SKR [5h 5d]
+*** PRE-FLOP *** 
+_SKR raises 342 to 372 and is all-in
+Elbolido74 calls 253 and is all-in
+Elmoritoleon folds
+*** FLOP *** [9s 7s As]
+*** TURN *** [9s 7s As][Tc]
+*** RIVER *** [9s 7s As Tc][Td]
+*** SHOW DOWN ***
+_SKR shows [5h 5d] (Two pairs : Tens and 5)
+Elbolido74 shows [Jd Js] (Two pairs : Jacks and Tens)
+Elbolido74 collected 566 from main pot
+_SKR collected 104 from side pot 1
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [9s 7s As Tc Td]
+Seat 2: _SKR (button) showed [5h 5d] and won 104 with Two pairs : Tens and 5
+Seat 3: Elbolido74 (small blind) showed [Jd Js] and won 566 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717836879499100161-5-1676237230 - Holdem no limit (15/30) - 2023/02/12 21:27:10 UTC
+Table: 'Expresso Nitro(632795710)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Elmoritoleon (230)
+Seat 2: _SKR (104)
+Seat 3: Elbolido74 (566)
+*** ANTE/BLINDS ***
+Elmoritoleon posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd 6s]
+*** PRE-FLOP *** 
+Elbolido74 folds
+Elmoritoleon calls 15
+_SKR raises 74 to 104 and is all-in
+Elmoritoleon calls 74
+*** FLOP *** [2d Jh 4s]
+*** TURN *** [2d Jh 4s][4c]
+*** RIVER *** [2d Jh 4s 4c][As]
+*** SHOW DOWN ***
+Elmoritoleon shows [Td Jc] (Two pairs : Jacks and 4)
+_SKR shows [Jd 6s] (Two pairs : Jacks and 4)
+_SKR collected 104 from pot
+Elmoritoleon collected 104 from pot
+*** SUMMARY ***
+Total pot 208 | No rake
+Board: [2d Jh 4s 4c As]
+Seat 1: Elmoritoleon (small blind) showed [Td Jc] and won 104 with Two pairs : Jacks and 4
+Seat 2: _SKR (big blind) showed [Jd 6s] and won 104 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717836879499100161-6-1676237250 - Holdem no limit (20/40) - 2023/02/12 21:27:30 UTC
+Table: 'Expresso Nitro(632795710)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Elmoritoleon (230)
+Seat 2: _SKR (104)
+Seat 3: Elbolido74 (566)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Elbolido74 posts big blind 40
+Dealt to _SKR [Qc Qs]
+*** PRE-FLOP *** 
+Elmoritoleon folds
+_SKR raises 64 to 104 and is all-in
+Elbolido74 calls 64
+*** FLOP *** [7d 2s 2h]
+*** TURN *** [7d 2s 2h][5h]
+*** RIVER *** [7d 2s 2h 5h][9d]
+*** SHOW DOWN ***
+Elbolido74 shows [Th 6h] (One pair : 2)
+_SKR shows [Qc Qs] (Two pairs : Queens and 2)
+_SKR collected 208 from pot
+*** SUMMARY ***
+Total pot 208 | No rake
+Board: [7d 2s 2h 5h 9d]
+Seat 2: _SKR (small blind) showed [Qc Qs] and won 208 with Two pairs : Queens and 2
+Seat 3: Elbolido74 (big blind) showed [Th 6h] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717836879499100161-7-1676237269 - Holdem no limit (20/40) - 2023/02/12 21:27:49 UTC
+Table: 'Expresso Nitro(632795710)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Elmoritoleon (230)
+Seat 2: _SKR (208)
+Seat 3: Elbolido74 (462)
+*** ANTE/BLINDS ***
+Elbolido74 posts small blind 20
+Elmoritoleon posts big blind 40
+Dealt to _SKR [Kc Jh]
+*** PRE-FLOP *** 
+_SKR raises 168 to 208 and is all-in
+Elbolido74 folds
+Elmoritoleon raises 22 to 230 and is all-in
+*** FLOP *** [6c Kd Qs]
+*** TURN *** [6c Kd Qs][3c]
+*** RIVER *** [6c Kd Qs 3c][Tc]
+*** SHOW DOWN ***
+_SKR shows [Kc Jh] (One pair : Kings)
+Elmoritoleon shows [Th Qc] (Two pairs : Queens and Tens)
+Elmoritoleon collected 458 from pot
+*** SUMMARY ***
+Total pot 458 | No rake
+Board: [6c Kd Qs 3c Tc]
+Seat 1: Elmoritoleon (big blind) showed [Th Qc] and won 458 with Two pairs : Queens and Tens
+Seat 2: _SKR (button) showed [Kc Jh] and lost with One pair : Kings
+
+

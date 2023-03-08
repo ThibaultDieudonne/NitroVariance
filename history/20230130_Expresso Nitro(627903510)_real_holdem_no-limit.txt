@@ -1,0 +1,187 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696825040493608961-1-1675099548 - Holdem no limit (10/20) - 2023/01/30 17:25:48 UTC
+Table: 'Expresso Nitro(627903510)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jul51200 (300)
+Seat 2: _SKR (300)
+Seat 3: JB_Boss61206 (300)
+*** ANTE/BLINDS ***
+Jul51200 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h Jd]
+*** PRE-FLOP *** 
+JB_Boss61206 calls 20
+Jul51200 folds
+_SKR checks
+*** FLOP *** [Js 5s 4s]
+_SKR checks
+JB_Boss61206 checks
+*** TURN *** [Js 5s 4s][Qc]
+_SKR checks
+JB_Boss61206 bets 20
+_SKR calls 20
+*** RIVER *** [Js 5s 4s Qc][3c]
+_SKR checks
+JB_Boss61206 checks
+*** SHOW DOWN ***
+JB_Boss61206 shows [2d Jh] (One pair : Jacks)
+_SKR shows [8h Jd] (One pair : Jacks)
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Js 5s 4s Qc 3c]
+Seat 2: _SKR (big blind) showed [8h Jd] and won 90 with One pair : Jacks
+Seat 3: JB_Boss61206 (button) showed [2d Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696825040493608961-2-1675099605 - Holdem no limit (15/30) - 2023/01/30 17:26:45 UTC
+Table: 'Expresso Nitro(627903510)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jul51200 (290)
+Seat 2: _SKR (350)
+Seat 3: JB_Boss61206 (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+JB_Boss61206 posts big blind 30
+Dealt to _SKR [9d 9h]
+*** PRE-FLOP *** 
+Jul51200 folds
+_SKR raises 320 to 350 and is all-in
+JB_Boss61206 calls 230 and is all-in
+*** FLOP *** [8s 8d 4d]
+*** TURN *** [8s 8d 4d][Qc]
+*** RIVER *** [8s 8d 4d Qc][Ad]
+*** SHOW DOWN ***
+_SKR shows [9d 9h] (Two pairs : 9 and 8)
+JB_Boss61206 shows [2c Ac] (Two pairs : Aces and 8)
+JB_Boss61206 collected 520 from main pot
+_SKR collected 90 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [8s 8d 4d Qc Ad]
+Seat 2: _SKR (small blind) showed [9d 9h] and won 90 with Two pairs : 9 and 8
+Seat 3: JB_Boss61206 (big blind) showed [2c Ac] and won 520 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696825040493608961-3-1675099622 - Holdem no limit (15/30) - 2023/01/30 17:27:02 UTC
+Table: 'Expresso Nitro(627903510)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jul51200 (290)
+Seat 2: _SKR (90)
+Seat 3: JB_Boss61206 (520)
+*** ANTE/BLINDS ***
+JB_Boss61206 posts small blind 15
+Jul51200 posts big blind 30
+Dealt to _SKR [8s 6c]
+*** PRE-FLOP *** 
+_SKR folds
+JB_Boss61206 calls 15
+Jul51200 raises 260 to 290 and is all-in
+JB_Boss61206 folds
+Jul51200 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Jul51200 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696825040493608961-4-1675099637 - Holdem no limit (15/30) - 2023/01/30 17:27:17 UTC
+Table: 'Expresso Nitro(627903510)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jul51200 (320)
+Seat 2: _SKR (90)
+Seat 3: JB_Boss61206 (490)
+*** ANTE/BLINDS ***
+Jul51200 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Js 9c]
+*** PRE-FLOP *** 
+JB_Boss61206 folds
+Jul51200 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696825040493608961-5-1675099644 - Holdem no limit (15/30) - 2023/01/30 17:27:24 UTC
+Table: 'Expresso Nitro(627903510)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jul51200 (305)
+Seat 2: _SKR (105)
+Seat 3: JB_Boss61206 (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+JB_Boss61206 posts big blind 30
+Dealt to _SKR [Qd Ah]
+*** PRE-FLOP *** 
+Jul51200 folds
+_SKR raises 75 to 105 and is all-in
+JB_Boss61206 calls 75
+*** FLOP *** [8s 3h Jc]
+*** TURN *** [8s 3h Jc][Kh]
+*** RIVER *** [8s 3h Jc Kh][Ac]
+*** SHOW DOWN ***
+JB_Boss61206 shows [Js 2s] (One pair : Jacks)
+_SKR shows [Qd Ah] (One pair : Aces)
+_SKR collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [8s 3h Jc Kh Ac]
+Seat 2: _SKR (small blind) showed [Qd Ah] and won 210 with One pair : Aces
+Seat 3: JB_Boss61206 (big blind) showed [Js 2s] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696825040493608961-6-1675099659 - Holdem no limit (15/30) - 2023/01/30 17:27:39 UTC
+Table: 'Expresso Nitro(627903510)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jul51200 (305)
+Seat 2: _SKR (210)
+Seat 3: JB_Boss61206 (385)
+*** ANTE/BLINDS ***
+JB_Boss61206 posts small blind 15
+Jul51200 posts big blind 30
+Dealt to _SKR [4s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+JB_Boss61206 calls 15
+Jul51200 checks
+*** FLOP *** [Ks Qs 8d]
+JB_Boss61206 checks
+Jul51200 checks
+*** TURN *** [Ks Qs 8d][Tc]
+JB_Boss61206 checks
+Jul51200 bets 60
+JB_Boss61206 calls 60
+*** RIVER *** [Ks Qs 8d Tc][Ad]
+JB_Boss61206 bets 30
+Jul51200 raises 185 to 215 and is all-in
+JB_Boss61206 calls 185
+*** SHOW DOWN ***
+Jul51200 shows [5d 9s] (High card : Ace)
+JB_Boss61206 shows [Js 5c] (Straight Ace high)
+JB_Boss61206 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Ks Qs 8d Tc Ad]
+Seat 1: Jul51200 (big blind) showed [5d 9s] and lost with High card : Ace
+Seat 3: JB_Boss61206 (small blind) showed [Js 5c] and won 610 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696825040493608961-7-1675099686 - Holdem no limit (20/40) - 2023/01/30 17:28:06 UTC
+Table: 'Expresso Nitro(627903510)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (210)
+Seat 3: JB_Boss61206 (690)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+JB_Boss61206 posts big blind 40
+Dealt to _SKR [Jd 5h]
+*** PRE-FLOP *** 
+_SKR raises 170 to 210 and is all-in
+JB_Boss61206 calls 170
+*** FLOP *** [Qs Tc 4c]
+*** TURN *** [Qs Tc 4c][Kc]
+*** RIVER *** [Qs Tc 4c Kc][Qc]
+*** SHOW DOWN ***
+_SKR shows [Jd 5h] (One pair : Queens)
+JB_Boss61206 shows [Kd Ah] (Two pairs : Kings and Queens)
+JB_Boss61206 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Qs Tc 4c Kc Qc]
+Seat 2: _SKR (small blind) (button) showed [Jd 5h] and lost with One pair : Queens
+Seat 3: JB_Boss61206 (big blind) showed [Kd Ah] and won 420 with Two pairs : Kings and Queens
+
+

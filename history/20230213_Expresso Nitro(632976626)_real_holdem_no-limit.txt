@@ -1,0 +1,50 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718613907802423297-1-1676291677 - Holdem no limit (10/20) - 2023/02/13 12:34:37 UTC
+Table: 'Expresso Nitro(632976626)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tony2259 (300)
+Seat 2: _SKR (300)
+Seat 3: penabianca (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+penabianca posts big blind 20
+Dealt to _SKR [Kh Ac]
+*** PRE-FLOP *** 
+Tony2259 calls 20
+_SKR raises 280 to 300 and is all-in
+penabianca folds
+Tony2259 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718613907802423297-2-1676291697 - Holdem no limit (10/20) - 2023/02/13 12:34:57 UTC
+Table: 'Expresso Nitro(632976626)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tony2259 (280)
+Seat 2: _SKR (340)
+Seat 3: penabianca (280)
+*** ANTE/BLINDS ***
+penabianca posts small blind 10
+Tony2259 posts big blind 20
+Dealt to _SKR [Ks Ah]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+penabianca raises 240 to 280 and is all-in
+Tony2259 calls 260 and is all-in
+_SKR raises 60 to 340 and is all-in
+*** FLOP *** [9h 5c 6h]
+*** TURN *** [9h 5c 6h][7c]
+*** RIVER *** [9h 5c 6h 7c][Js]
+*** SHOW DOWN ***
+Tony2259 shows [Qc Ts] (High card : Queen)
+penabianca shows [Qd Ac] (High card : Ace)
+_SKR shows [Ks Ah] (High card : Ace)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9h 5c 6h 7c Js]
+Seat 1: Tony2259 (big blind) showed [Qc Ts] and lost with High card : Queen
+Seat 2: _SKR (button) showed [Ks Ah] and won 900 with High card : Ace
+Seat 3: penabianca (small blind) showed [Qd Ac] and lost with High card : Ace
+
+

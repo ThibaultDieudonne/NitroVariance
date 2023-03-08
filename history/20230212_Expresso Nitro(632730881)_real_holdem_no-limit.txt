@@ -1,0 +1,646 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717558441064267777-1-1676226903 - Holdem no limit (10/20) - 2023/02/12 18:35:03 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (300)
+Seat 2: _SKR (300)
+Seat 3: Toto.73000 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Toto.73000 posts big blind 20
+Dealt to _SKR [Ah 4h]
+*** PRE-FLOP *** 
+Starbutch33 folds
+_SKR raises 280 to 300 and is all-in
+Toto.73000 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717558441064267777-2-1676226916 - Holdem no limit (10/20) - 2023/02/12 18:35:16 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (300)
+Seat 2: _SKR (320)
+Seat 3: Toto.73000 (280)
+*** ANTE/BLINDS ***
+Toto.73000 posts small blind 10
+Starbutch33 posts big blind 20
+Dealt to _SKR [3s 5d]
+*** PRE-FLOP *** 
+_SKR folds
+Toto.73000 folds
+Starbutch33 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Starbutch33 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717558441064267777-3-1676226921 - Holdem no limit (10/20) - 2023/02/12 18:35:21 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Starbutch33 (310)
+Seat 2: _SKR (320)
+Seat 3: Toto.73000 (270)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah Jh]
+*** PRE-FLOP *** 
+Toto.73000 calls 20
+Starbutch33 calls 10
+_SKR raises 300 to 320 and is all-in
+Toto.73000 folds
+Starbutch33 folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: _SKR (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717558441064267777-4-1676226938 - Holdem no limit (10/20) - 2023/02/12 18:35:38 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (290)
+Seat 2: _SKR (360)
+Seat 3: Toto.73000 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Toto.73000 posts big blind 20
+Dealt to _SKR [3h 6s]
+*** PRE-FLOP *** 
+Starbutch33 calls 20
+_SKR folds
+Toto.73000 checks
+*** FLOP *** [3c 2h Kh]
+Toto.73000 checks
+Starbutch33 checks
+*** TURN *** [3c 2h Kh][Ac]
+Toto.73000 checks
+Starbutch33 checks
+*** RIVER *** [3c 2h Kh Ac][3d]
+Toto.73000 checks
+Starbutch33 checks
+*** SHOW DOWN ***
+Toto.73000 shows [8s Td] (One pair : 3)
+Starbutch33 shows [5c Js] (One pair : 3)
+Starbutch33 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [3c 2h Kh Ac 3d]
+Seat 1: Starbutch33 (button) showed [5c Js] and won 50 with One pair : 3
+Seat 3: Toto.73000 (big blind) showed [8s Td] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717558441064267777-5-1676226993 - Holdem no limit (15/30) - 2023/02/12 18:36:33 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (320)
+Seat 2: _SKR (350)
+Seat 3: Toto.73000 (230)
+*** ANTE/BLINDS ***
+Toto.73000 posts small blind 15
+Starbutch33 posts big blind 30
+Dealt to _SKR [9d 9s]
+*** PRE-FLOP *** 
+_SKR raises 320 to 350 and is all-in
+Toto.73000 calls 215 and is all-in
+Starbutch33 folds
+*** FLOP *** [Jd Jc 8h]
+*** TURN *** [Jd Jc 8h][8d]
+*** RIVER *** [Jd Jc 8h 8d][5c]
+*** SHOW DOWN ***
+Toto.73000 shows [6s Qs] (Two pairs : Jacks and 8)
+_SKR shows [9d 9s] (Two pairs : Jacks and 9)
+_SKR collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Jd Jc 8h 8d 5c]
+Seat 2: _SKR (button) showed [9d 9s] and won 610 with Two pairs : Jacks and 9
+Seat 3: Toto.73000 (small blind) showed [6s Qs] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717558441064267777-6-1676227008 - Holdem no limit (15/30) - 2023/02/12 18:36:48 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (290)
+Seat 2: _SKR (610)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ks 2d]
+*** PRE-FLOP *** 
+Starbutch33 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717558441064267777-7-1676227012 - Holdem no limit (15/30) - 2023/02/12 18:36:52 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (275)
+Seat 2: _SKR (625)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Starbutch33 posts big blind 30
+Dealt to _SKR [Qh 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Starbutch33 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Starbutch33 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717558441064267777-8-1676227022 - Holdem no limit (20/40) - 2023/02/12 18:37:02 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (290)
+Seat 2: _SKR (610)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5c 4d]
+*** PRE-FLOP *** 
+Starbutch33 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717558441064267777-9-1676227026 - Holdem no limit (20/40) - 2023/02/12 18:37:06 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (270)
+Seat 2: _SKR (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Starbutch33 posts big blind 40
+Dealt to _SKR [Qh 6s]
+*** PRE-FLOP *** 
+_SKR raises 590 to 630 and is all-in
+Starbutch33 folds
+_SKR collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 2: _SKR (small blind) (button) won 670
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717558441064267777-10-1676227032 - Holdem no limit (20/40) - 2023/02/12 18:37:12 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (230)
+Seat 2: _SKR (670)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c Qh]
+*** PRE-FLOP *** 
+Starbutch33 calls 20
+_SKR raises 630 to 670 and is all-in
+Starbutch33 folds
+_SKR collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Seat 2: _SKR (big blind) won 710
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717558441064267777-11-1676227040 - Holdem no limit (20/40) - 2023/02/12 18:37:20 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (190)
+Seat 2: _SKR (710)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Starbutch33 posts big blind 40
+Dealt to _SKR [7h 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Starbutch33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Starbutch33 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717558441064267777-12-1676227047 - Holdem no limit (20/40) - 2023/02/12 18:37:27 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (210)
+Seat 2: _SKR (690)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3s Th]
+*** PRE-FLOP *** 
+Starbutch33 raises 170 to 210 and is all-in
+_SKR folds
+Starbutch33 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 1: Starbutch33 (small blind) (button) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717558441064267777-13-1676227053 - Holdem no limit (20/40) - 2023/02/12 18:37:33 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (250)
+Seat 2: _SKR (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Starbutch33 posts big blind 40
+Dealt to _SKR [Kd 2c]
+*** PRE-FLOP *** 
+_SKR raises 610 to 650 and is all-in
+Starbutch33 calls 210 and is all-in
+*** FLOP *** [9d Jd 5d]
+*** TURN *** [9d Jd 5d][6c]
+*** RIVER *** [9d Jd 5d 6c][7c]
+*** SHOW DOWN ***
+Starbutch33 shows [Tc 9c] (One pair : 9)
+_SKR shows [Kd 2c] (High card : King)
+_SKR collected 400 from side pot 1
+Starbutch33 collected 500 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d Jd 5d 6c 7c]
+Seat 1: Starbutch33 (big blind) showed [Tc 9c] and won 500 with One pair : 9
+Seat 2: _SKR (small blind) (button) showed [Kd 2c] and won 400 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717558441064267777-14-1676227065 - Holdem no limit (20/40) - 2023/02/12 18:37:45 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (500)
+Seat 2: _SKR (400)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c 3c]
+*** PRE-FLOP *** 
+Starbutch33 calls 20
+_SKR checks
+*** FLOP *** [Kc 6c 3d]
+_SKR checks
+Starbutch33 checks
+*** TURN *** [Kc 6c 3d][Qc]
+_SKR bets 52
+Starbutch33 calls 52
+*** RIVER *** [Kc 6c 3d Qc][5c]
+_SKR checks
+Starbutch33 checks
+*** SHOW DOWN ***
+Starbutch33 shows [Jh Ah] (High card : Ace)
+_SKR shows [7c 3c] (Flush King high)
+_SKR collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [Kc 6c 3d Qc 5c]
+Seat 1: Starbutch33 (small blind) (button) showed [Jh Ah] and lost with High card : Ace
+Seat 2: _SKR (big blind) showed [7c 3c] and won 184 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717558441064267777-15-1676227085 - Holdem no limit (30/60) - 2023/02/12 18:38:05 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (408)
+Seat 2: _SKR (492)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Starbutch33 posts big blind 60
+Dealt to _SKR [9d Td]
+*** PRE-FLOP *** 
+_SKR raises 432 to 492 and is all-in
+Starbutch33 folds
+_SKR collected 552 from pot
+*** SUMMARY ***
+Total pot 552 | No rake
+Seat 2: _SKR (small blind) (button) won 552
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717558441064267777-16-1676227098 - Holdem no limit (30/60) - 2023/02/12 18:38:18 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (348)
+Seat 2: _SKR (552)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5c Kh]
+*** PRE-FLOP *** 
+Starbutch33 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717558441064267777-17-1676227102 - Holdem no limit (30/60) - 2023/02/12 18:38:22 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (318)
+Seat 2: _SKR (582)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Starbutch33 posts big blind 60
+Dealt to _SKR [Js Tc]
+*** PRE-FLOP *** 
+_SKR raises 522 to 582 and is all-in
+Starbutch33 calls 258 and is all-in
+*** FLOP *** [As Ah 4c]
+*** TURN *** [As Ah 4c][Qc]
+*** RIVER *** [As Ah 4c Qc][6c]
+*** SHOW DOWN ***
+Starbutch33 shows [Ad 7d] (Trips of Aces)
+_SKR shows [Js Tc] (One pair : Aces)
+_SKR collected 264 from side pot 1
+Starbutch33 collected 636 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As Ah 4c Qc 6c]
+Seat 1: Starbutch33 (big blind) showed [Ad 7d] and won 636 with Trips of Aces
+Seat 2: _SKR (small blind) (button) showed [Js Tc] and won 264 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717558441064267777-18-1676227114 - Holdem no limit (30/60) - 2023/02/12 18:38:34 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (636)
+Seat 2: _SKR (264)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kd 3c]
+*** PRE-FLOP *** 
+Starbutch33 calls 30
+_SKR raises 204 to 264 and is all-in
+Starbutch33 calls 204
+*** FLOP *** [Qc Th 5s]
+*** TURN *** [Qc Th 5s][6h]
+*** RIVER *** [Qc Th 5s 6h][Ks]
+*** SHOW DOWN ***
+Starbutch33 shows [Qd Js] (One pair : Queens)
+_SKR shows [Kd 3c] (One pair : Kings)
+_SKR collected 528 from pot
+*** SUMMARY ***
+Total pot 528 | No rake
+Board: [Qc Th 5s 6h Ks]
+Seat 1: Starbutch33 (small blind) (button) showed [Qd Js] and lost with One pair : Queens
+Seat 2: _SKR (big blind) showed [Kd 3c] and won 528 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717558441064267777-19-1676227129 - Holdem no limit (30/60) - 2023/02/12 18:38:49 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (372)
+Seat 2: _SKR (528)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Starbutch33 posts big blind 60
+Dealt to _SKR [6s Ah]
+*** PRE-FLOP *** 
+_SKR raises 468 to 528 and is all-in
+Starbutch33 calls 312 and is all-in
+*** FLOP *** [Td 7s 8s]
+*** TURN *** [Td 7s 8s][4d]
+*** RIVER *** [Td 7s 8s 4d][3c]
+*** SHOW DOWN ***
+Starbutch33 shows [Kd 8h] (One pair : 8)
+_SKR shows [6s Ah] (High card : Ace)
+_SKR collected 156 from side pot 1
+Starbutch33 collected 744 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td 7s 8s 4d 3c]
+Seat 1: Starbutch33 (big blind) showed [Kd 8h] and won 744 with One pair : 8
+Seat 2: _SKR (small blind) (button) showed [6s Ah] and won 156 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717558441064267777-20-1676227143 - Holdem no limit (40/80) - 2023/02/12 18:39:03 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (744)
+Seat 2: _SKR (156)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3d Th]
+*** PRE-FLOP *** 
+Starbutch33 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717558441064267777-21-1676227147 - Holdem no limit (40/80) - 2023/02/12 18:39:07 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (704)
+Seat 2: _SKR (196)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Starbutch33 posts big blind 80
+Dealt to _SKR [Qd Kd]
+*** PRE-FLOP *** 
+_SKR raises 116 to 196 and is all-in
+Starbutch33 folds
+_SKR collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | No rake
+Seat 2: _SKR (small blind) (button) won 276
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717558441064267777-22-1676227155 - Holdem no limit (40/80) - 2023/02/12 18:39:15 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (624)
+Seat 2: _SKR (276)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Th 5h]
+*** PRE-FLOP *** 
+Starbutch33 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717558441064267777-23-1676227159 - Holdem no limit (40/80) - 2023/02/12 18:39:19 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (584)
+Seat 2: _SKR (316)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Starbutch33 posts big blind 80
+Dealt to _SKR [8d 7h]
+*** PRE-FLOP *** 
+_SKR raises 236 to 316 and is all-in
+Starbutch33 folds
+_SKR collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Seat 2: _SKR (small blind) (button) won 396
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717558441064267777-24-1676227165 - Holdem no limit (40/80) - 2023/02/12 18:39:25 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (504)
+Seat 2: _SKR (396)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [9h 4c]
+*** PRE-FLOP *** 
+Starbutch33 calls 40
+_SKR checks
+*** FLOP *** [7s 7c 3h]
+_SKR checks
+Starbutch33 bets 80
+_SKR folds
+Starbutch33 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7s 7c 3h]
+Seat 1: Starbutch33 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717558441064267777-25-1676227192 - Holdem no limit (40/80) - 2023/02/12 18:39:52 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (584)
+Seat 2: _SKR (316)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Starbutch33 posts big blind 80
+Dealt to _SKR [9h 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Starbutch33 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Starbutch33 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717558441064267777-26-1676227197 - Holdem no limit (40/80) - 2023/02/12 18:39:57 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (624)
+Seat 2: _SKR (276)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3s 7s]
+*** PRE-FLOP *** 
+Starbutch33 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717558441064267777-27-1676227201 - Holdem no limit (50/100) - 2023/02/12 18:40:01 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (584)
+Seat 2: _SKR (316)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Starbutch33 posts big blind 100
+Dealt to _SKR [7s 7d]
+*** PRE-FLOP *** 
+_SKR raises 216 to 316 and is all-in
+Starbutch33 calls 216
+*** FLOP *** [Qh Ks 6c]
+*** TURN *** [Qh Ks 6c][Kd]
+*** RIVER *** [Qh Ks 6c Kd][5s]
+*** SHOW DOWN ***
+Starbutch33 shows [8d 9d] (One pair : Kings)
+_SKR shows [7s 7d] (Two pairs : Kings and 7)
+_SKR collected 632 from pot
+*** SUMMARY ***
+Total pot 632 | No rake
+Board: [Qh Ks 6c Kd 5s]
+Seat 1: Starbutch33 (big blind) showed [8d 9d] and lost with One pair : Kings
+Seat 2: _SKR (small blind) (button) showed [7s 7d] and won 632 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717558441064267777-28-1676227213 - Holdem no limit (50/100) - 2023/02/12 18:40:13 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (268)
+Seat 2: _SKR (632)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [6d Th]
+*** PRE-FLOP *** 
+Starbutch33 raises 168 to 268 and is all-in
+_SKR calls 168
+*** FLOP *** [5s 7d Kc]
+*** TURN *** [5s 7d Kc][Qc]
+*** RIVER *** [5s 7d Kc Qc][8h]
+*** SHOW DOWN ***
+_SKR shows [6d Th] (High card : King)
+Starbutch33 shows [3d Ks] (One pair : Kings)
+Starbutch33 collected 536 from pot
+*** SUMMARY ***
+Total pot 536 | No rake
+Board: [5s 7d Kc Qc 8h]
+Seat 1: Starbutch33 (small blind) (button) showed [3d Ks] and won 536 with One pair : Kings
+Seat 2: _SKR (big blind) showed [6d Th] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717558441064267777-29-1676227232 - Holdem no limit (50/100) - 2023/02/12 18:40:32 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (536)
+Seat 2: _SKR (364)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Starbutch33 posts big blind 100
+Dealt to _SKR [4s 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Starbutch33 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Starbutch33 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717558441064267777-30-1676227237 - Holdem no limit (50/100) - 2023/02/12 18:40:37 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (586)
+Seat 2: _SKR (314)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [6s 5c]
+*** PRE-FLOP *** 
+Starbutch33 folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717558441064267777-31-1676227240 - Holdem no limit (50/100) - 2023/02/12 18:40:40 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Starbutch33 (536)
+Seat 2: _SKR (364)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Starbutch33 posts big blind 100
+Dealt to _SKR [2h 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Starbutch33 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Starbutch33 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717558441064267777-32-1676227244 - Holdem no limit (50/100) - 2023/02/12 18:40:44 UTC
+Table: 'Expresso Nitro(632730881)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Starbutch33 (586)
+Seat 2: _SKR (314)
+*** ANTE/BLINDS ***
+Starbutch33 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [As 5h]
+*** PRE-FLOP *** 
+Starbutch33 calls 50
+_SKR raises 214 to 314 and is all-in
+Starbutch33 calls 214
+*** FLOP *** [9c 2h Kh]
+*** TURN *** [9c 2h Kh][Tc]
+*** RIVER *** [9c 2h Kh Tc][Td]
+*** SHOW DOWN ***
+_SKR shows [As 5h] (One pair : Tens)
+Starbutch33 shows [Qh Qd] (Two pairs : Queens and Tens)
+Starbutch33 collected 628 from pot
+*** SUMMARY ***
+Total pot 628 | No rake
+Board: [9c 2h Kh Tc Td]
+Seat 1: Starbutch33 (small blind) (button) showed [Qh Qd] and won 628 with Two pairs : Queens and Tens
+Seat 2: _SKR (big blind) showed [As 5h] and lost with One pair : Tens
+
+

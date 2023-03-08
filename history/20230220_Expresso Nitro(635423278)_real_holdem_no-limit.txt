@@ -1,0 +1,128 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729122198127116289-1-1676901701 - Holdem no limit (10/20) - 2023/02/20 14:01:41 UTC
+Table: 'Expresso Nitro(635423278)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: No One No O (300)
+Seat 3: Monelafoudre (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+No One No O posts big blind 20
+Dealt to _SKR [8d 7h]
+*** PRE-FLOP *** 
+Monelafoudre folds
+_SKR calls 10
+No One No O checks
+*** FLOP *** [Th 9h 9c]
+_SKR bets 20
+No One No O folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Th 9h 9c]
+Seat 1: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729122198127116289-2-1676901714 - Holdem no limit (10/20) - 2023/02/20 14:01:54 UTC
+Table: 'Expresso Nitro(635423278)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 2: No One No O (280)
+Seat 3: Monelafoudre (300)
+*** ANTE/BLINDS ***
+No One No O posts small blind 10
+Monelafoudre posts big blind 20
+Dealt to _SKR [7s Ks]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+No One No O folds
+Monelafoudre calls 20
+*** FLOP *** [5s Th 8d]
+Monelafoudre checks
+_SKR checks
+*** TURN *** [5s Th 8d][Qd]
+Monelafoudre bets 20
+_SKR folds
+Monelafoudre collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [5s Th 8d Qd]
+Seat 3: Monelafoudre (big blind) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729122198127116289-3-1676901732 - Holdem no limit (10/20) - 2023/02/20 14:02:12 UTC
+Table: 'Expresso Nitro(635423278)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (280)
+Seat 2: No One No O (270)
+Seat 3: Monelafoudre (350)
+*** ANTE/BLINDS ***
+Monelafoudre posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d Js]
+*** PRE-FLOP *** 
+No One No O calls 20
+Monelafoudre folds
+_SKR checks
+*** FLOP *** [8d Ts 6s]
+_SKR checks
+No One No O bets 20
+_SKR calls 20
+*** TURN *** [8d Ts 6s][Qh]
+_SKR checks
+No One No O bets 20
+_SKR calls 20
+*** RIVER *** [8d Ts 6s Qh][9h]
+_SKR checks
+No One No O bets 210 and is all-in
+_SKR calls 210
+*** SHOW DOWN ***
+No One No O shows [Qc 6d] (Two pairs : Queens and 6)
+_SKR shows [7d Js] (Straight Queen high)
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [8d Ts 6s Qh 9h]
+Seat 1: _SKR (big blind) showed [7d Js] and won 550 with Straight Queen high
+Seat 2: No One No O (button) showed [Qc 6d] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729122198127116289-4-1676901782 - Holdem no limit (15/30) - 2023/02/20 14:03:02 UTC
+Table: 'Expresso Nitro(635423278)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (560)
+Seat 3: Monelafoudre (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Monelafoudre posts big blind 30
+Dealt to _SKR [7c 5c]
+*** PRE-FLOP *** 
+_SKR calls 15
+Monelafoudre raises 45 to 75
+_SKR folds
+Monelafoudre collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: Monelafoudre (big blind) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729122198127116289-5-1676901795 - Holdem no limit (15/30) - 2023/02/20 14:03:15 UTC
+Table: 'Expresso Nitro(635423278)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (530)
+Seat 3: Monelafoudre (370)
+*** ANTE/BLINDS ***
+Monelafoudre posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad Qs]
+*** PRE-FLOP *** 
+Monelafoudre raises 340 to 370 and is all-in
+_SKR calls 340
+*** FLOP *** [Qd Ac 3d]
+*** TURN *** [Qd Ac 3d][3h]
+*** RIVER *** [Qd Ac 3d 3h][6c]
+*** SHOW DOWN ***
+Monelafoudre shows [5s 5h] (Two pairs : 5 and 3)
+_SKR shows [Ad Qs] (Two pairs : Aces and Queens)
+_SKR collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [Qd Ac 3d 3h 6c]
+Seat 1: _SKR (big blind) showed [Ad Qs] and won 740 with Two pairs : Aces and Queens
+Seat 3: Monelafoudre (small blind) (button) showed [5s 5h] and lost with Two pairs : 5 and 3
+
+

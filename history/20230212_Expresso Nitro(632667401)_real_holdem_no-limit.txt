@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717285796540317697-1-1676215733 - Holdem no limit (10/20) - 2023/02/12 15:28:53 UTC
+Table: 'Expresso Nitro(632667401)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: kisscool86 (300)
+Seat 3: nebon (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+kisscool86 posts big blind 20
+Dealt to _SKR [4s 5h]
+*** PRE-FLOP *** 
+nebon calls 20
+_SKR folds
+kisscool86 checks
+*** FLOP *** [Ks Ts 3d]
+kisscool86 checks
+nebon bets 20
+kisscool86 folds
+nebon collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Ks Ts 3d]
+Seat 3: nebon (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717285796540317697-2-1676215743 - Holdem no limit (10/20) - 2023/02/12 15:29:03 UTC
+Table: 'Expresso Nitro(632667401)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: kisscool86 (280)
+Seat 3: nebon (330)
+*** ANTE/BLINDS ***
+kisscool86 posts small blind 10
+nebon posts big blind 20
+Dealt to _SKR [Kh Jc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+kisscool86 folds
+nebon calls 20
+*** FLOP *** [7s 7c 9d]
+nebon checks
+_SKR checks
+*** TURN *** [7s 7c 9d][9c]
+nebon checks
+_SKR checks
+*** RIVER *** [7s 7c 9d 9c][Qs]
+nebon checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Kh Jc] (Two pairs : 9 and 7)
+nebon shows [Kd 5d] (Two pairs : 9 and 7)
+nebon collected 45 from pot
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [7s 7c 9d 9c Qs]
+Seat 1: _SKR (button) showed [Kh Jc] and won 45 with Two pairs : 9 and 7
+Seat 3: nebon (big blind) showed [Kd 5d] and won 45 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717285796540317697-3-1676215793 - Holdem no limit (15/30) - 2023/02/12 15:29:53 UTC
+Table: 'Expresso Nitro(632667401)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (295)
+Seat 2: kisscool86 (270)
+Seat 3: nebon (335)
+*** ANTE/BLINDS ***
+nebon posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc Kd]
+*** PRE-FLOP *** 
+kisscool86 raises 240 to 270 and is all-in
+nebon folds
+_SKR folds
+kisscool86 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 2: kisscool86 (button) won 315
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717285796540317697-4-1676215801 - Holdem no limit (15/30) - 2023/02/12 15:30:01 UTC
+Table: 'Expresso Nitro(632667401)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (265)
+Seat 2: kisscool86 (315)
+Seat 3: nebon (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+kisscool86 posts big blind 30
+Dealt to _SKR [4c 4h]
+*** PRE-FLOP *** 
+nebon folds
+_SKR raises 235 to 265 and is all-in
+kisscool86 calls 235
+*** FLOP *** [5s 8h Qc]
+*** TURN *** [5s 8h Qc][Kd]
+*** RIVER *** [5s 8h Qc Kd][5h]
+*** SHOW DOWN ***
+_SKR shows [4c 4h] (Two pairs : 5 and 4)
+kisscool86 shows [9d Qd] (Two pairs : Queens and 5)
+kisscool86 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [5s 8h Qc Kd 5h]
+Seat 1: _SKR (small blind) showed [4c 4h] and lost with Two pairs : 5 and 4
+Seat 2: kisscool86 (big blind) showed [9d Qd] and won 530 with Two pairs : Queens and 5
+
+

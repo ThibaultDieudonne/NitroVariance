@@ -1,0 +1,102 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661555572217741313-1-1673018806 - Holdem no limit (10/20) - 2023/01/06 15:26:46 UTC
+Table: 'Expresso Nitro(619691697)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: johnssase b (300)
+Seat 3: k-ristof31 (300)
+*** ANTE/BLINDS ***
+johnssase b posts small blind 10
+k-ristof31 posts big blind 20
+Dealt to _SKR [3s 3d]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+johnssase b calls 290 and is all-in
+k-ristof31 folds
+*** FLOP *** [9s Kd 8d]
+*** TURN *** [9s Kd 8d][4d]
+*** RIVER *** [9s Kd 8d 4d][Qh]
+*** SHOW DOWN ***
+johnssase b shows [5c Ac] (High card : Ace)
+_SKR shows [3s 3d] (One pair : 3)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9s Kd 8d 4d Qh]
+Seat 1: _SKR (button) showed [3s 3d] and won 620 with One pair : 3
+Seat 2: johnssase b (small blind) showed [5c Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661555572217741313-2-1673018822 - Holdem no limit (10/20) - 2023/01/06 15:27:02 UTC
+Table: 'Expresso Nitro(619691697)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (620)
+Seat 3: k-ristof31 (280)
+*** ANTE/BLINDS ***
+k-ristof31 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc 4d]
+*** PRE-FLOP *** 
+k-ristof31 raises 260 to 280 and is all-in
+_SKR folds
+k-ristof31 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: k-ristof31 (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661555572217741313-3-1673018829 - Holdem no limit (10/20) - 2023/01/06 15:27:09 UTC
+Table: 'Expresso Nitro(619691697)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 3: k-ristof31 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+k-ristof31 posts big blind 20
+Dealt to _SKR [3h Js]
+*** PRE-FLOP *** 
+_SKR folds
+k-ristof31 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: k-ristof31 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661555572217741313-4-1673018832 - Holdem no limit (10/20) - 2023/01/06 15:27:12 UTC
+Table: 'Expresso Nitro(619691697)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (590)
+Seat 3: k-ristof31 (310)
+*** ANTE/BLINDS ***
+k-ristof31 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 4c]
+*** PRE-FLOP *** 
+k-ristof31 raises 290 to 310 and is all-in
+_SKR folds
+k-ristof31 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: k-ristof31 (small blind) (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661555572217741313-5-1673018837 - Holdem no limit (10/20) - 2023/01/06 15:27:17 UTC
+Table: 'Expresso Nitro(619691697)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (570)
+Seat 3: k-ristof31 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+k-ristof31 posts big blind 20
+Dealt to _SKR [6s 6h]
+*** PRE-FLOP *** 
+_SKR raises 550 to 570 and is all-in
+k-ristof31 calls 310 and is all-in
+*** FLOP *** [6d 2s Kh]
+*** TURN *** [6d 2s Kh][3s]
+*** RIVER *** [6d 2s Kh 3s][4c]
+*** SHOW DOWN ***
+k-ristof31 shows [Ts 7s] (High card : King)
+_SKR shows [6s 6h] (Trips of 6)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 2s Kh 3s 4c]
+Seat 1: _SKR (small blind) (button) showed [6s 6h] and won 900 with Trips of 6
+Seat 3: k-ristof31 (big blind) showed [Ts 7s] and lost with High card : King
+
+

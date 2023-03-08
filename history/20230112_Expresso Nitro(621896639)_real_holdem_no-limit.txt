@@ -1,0 +1,389 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671025725997318145-1-1673527251 - Holdem no limit (10/20) - 2023/01/12 12:40:51 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: pouxloup (300)
+Seat 3: Minato_38 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+pouxloup posts big blind 20
+Dealt to _SKR [3d 7s]
+*** PRE-FLOP *** 
+Minato_38 calls 20
+_SKR folds
+pouxloup checks
+*** FLOP *** [Qc 4h Ad]
+pouxloup checks
+Minato_38 checks
+*** TURN *** [Qc 4h Ad][2h]
+pouxloup checks
+Minato_38 checks
+*** RIVER *** [Qc 4h Ad 2h][3s]
+pouxloup checks
+Minato_38 bets 33
+pouxloup folds
+Minato_38 collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [Qc 4h Ad 2h 3s]
+Seat 3: Minato_38 (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671025725997318145-2-1673527318 - Holdem no limit (15/30) - 2023/01/12 12:41:58 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: pouxloup (280)
+Seat 3: Minato_38 (330)
+*** ANTE/BLINDS ***
+pouxloup posts small blind 15
+Minato_38 posts big blind 30
+Dealt to _SKR [6c 2c]
+*** PRE-FLOP *** 
+_SKR folds
+pouxloup calls 15
+Minato_38 checks
+*** FLOP *** [7s 5d Qd]
+pouxloup checks
+Minato_38 checks
+*** TURN *** [7s 5d Qd][Qc]
+pouxloup bets 60
+Minato_38 folds
+pouxloup collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7s 5d Qd Qc]
+Seat 2: pouxloup (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671025725997318145-3-1673527342 - Holdem no limit (15/30) - 2023/01/12 12:42:22 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: pouxloup (310)
+Seat 3: Minato_38 (300)
+*** ANTE/BLINDS ***
+Minato_38 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7c 6h]
+*** PRE-FLOP *** 
+pouxloup calls 30
+Minato_38 folds
+_SKR checks
+*** FLOP *** [Kh Qs 9h]
+_SKR checks
+pouxloup checks
+*** TURN *** [Kh Qs 9h][Ts]
+_SKR checks
+pouxloup bets 280 and is all-in
+_SKR folds
+pouxloup collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Board: [Kh Qs 9h Ts]
+Seat 2: pouxloup (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671025725997318145-4-1673527374 - Holdem no limit (20/40) - 2023/01/12 12:42:54 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (260)
+Seat 2: pouxloup (355)
+Seat 3: Minato_38 (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+pouxloup posts big blind 40
+Dealt to _SKR [Jc 3h]
+*** PRE-FLOP *** 
+Minato_38 calls 40
+_SKR folds
+pouxloup checks
+*** FLOP *** [2c 5d 7d]
+pouxloup checks
+Minato_38 checks
+*** TURN *** [2c 5d 7d][Ts]
+pouxloup checks
+Minato_38 checks
+*** RIVER *** [2c 5d 7d Ts][6c]
+pouxloup checks
+Minato_38 bets 40
+pouxloup calls 40
+*** SHOW DOWN ***
+pouxloup shows [4s 6h] (One pair : 6)
+Minato_38 shows [7s Qc] (One pair : 7)
+Minato_38 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [2c 5d 7d Ts 6c]
+Seat 2: pouxloup (big blind) showed [4s 6h] and lost with One pair : 6
+Seat 3: Minato_38 (button) showed [7s Qc] and won 180 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671025725997318145-5-1673527412 - Holdem no limit (20/40) - 2023/01/12 12:43:32 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (240)
+Seat 2: pouxloup (275)
+Seat 3: Minato_38 (385)
+*** ANTE/BLINDS ***
+pouxloup posts small blind 20
+Minato_38 posts big blind 40
+Dealt to _SKR [2h 8s]
+*** PRE-FLOP *** 
+_SKR folds
+pouxloup calls 20
+Minato_38 checks
+*** FLOP *** [Js 8d 7h]
+pouxloup checks
+Minato_38 checks
+*** TURN *** [Js 8d 7h][5d]
+pouxloup checks
+Minato_38 checks
+*** RIVER *** [Js 8d 7h 5d][9d]
+pouxloup bets 235 and is all-in
+Minato_38 folds
+pouxloup collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [Js 8d 7h 5d 9d]
+Seat 2: pouxloup (small blind) won 315
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2671025725997318145-6-1673527446 - Holdem no limit (30/60) - 2023/01/12 12:44:06 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (240)
+Seat 2: pouxloup (315)
+Seat 3: Minato_38 (345)
+*** ANTE/BLINDS ***
+Minato_38 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ts Ks]
+*** PRE-FLOP *** 
+pouxloup calls 60
+Minato_38 folds
+_SKR raises 180 to 240 and is all-in
+pouxloup folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2671025725997318145-7-1673527475 - Holdem no limit (30/60) - 2023/01/12 12:44:35 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 2: pouxloup (255)
+Seat 3: Minato_38 (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+pouxloup posts big blind 60
+Dealt to _SKR [Th 2c]
+*** PRE-FLOP *** 
+Minato_38 calls 60
+_SKR folds
+pouxloup checks
+*** FLOP *** [9h As 8s]
+pouxloup checks
+Minato_38 checks
+*** TURN *** [9h As 8s][Qd]
+pouxloup checks
+Minato_38 bets 60
+pouxloup folds
+Minato_38 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [9h As 8s Qd]
+Seat 3: Minato_38 (button) won 210
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2671025725997318145-8-1673527506 - Holdem no limit (40/80) - 2023/01/12 12:45:06 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: pouxloup (195)
+Seat 3: Minato_38 (405)
+*** ANTE/BLINDS ***
+pouxloup posts small blind 40
+Minato_38 posts big blind 80
+Dealt to _SKR [Ac 9s]
+*** PRE-FLOP *** 
+_SKR raises 220 to 300 and is all-in
+pouxloup calls 155 and is all-in
+Minato_38 folds
+*** FLOP *** [Jc 4h 5s]
+*** TURN *** [Jc 4h 5s][Qh]
+*** RIVER *** [Jc 4h 5s Qh][Qs]
+*** SHOW DOWN ***
+_SKR shows [Ac 9s] (One pair : Queens)
+pouxloup shows [5d Ad] (Two pairs : Queens and 5)
+pouxloup collected 470 from main pot
+_SKR collected 105 from side pot 1
+*** SUMMARY ***
+Total pot 575 | No rake
+Board: [Jc 4h 5s Qh Qs]
+Seat 1: _SKR (button) showed [Ac 9s] and won 105 with One pair : Queens
+Seat 2: pouxloup (small blind) showed [5d Ad] and won 470 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2671025725997318145-9-1673527519 - Holdem no limit (40/80) - 2023/01/12 12:45:19 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (105)
+Seat 2: pouxloup (470)
+Seat 3: Minato_38 (325)
+*** ANTE/BLINDS ***
+Minato_38 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [6h Js]
+*** PRE-FLOP *** 
+pouxloup calls 80
+Minato_38 calls 40
+_SKR raises 25 to 105 and is all-in
+pouxloup calls 25
+Minato_38 calls 25
+*** FLOP *** [6s Qc 4h]
+Minato_38 checks
+pouxloup checks
+*** TURN *** [6s Qc 4h][8d]
+Minato_38 checks
+pouxloup checks
+*** RIVER *** [6s Qc 4h 8d][2s]
+Minato_38 checks
+pouxloup checks
+*** SHOW DOWN ***
+pouxloup shows [9h Ks] (High card : King)
+Minato_38 shows [Jh Td] (High card : Queen)
+_SKR shows [6h Js] (One pair : 6)
+_SKR collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [6s Qc 4h 8d 2s]
+Seat 1: _SKR (big blind) showed [6h Js] and won 315 with One pair : 6
+Seat 2: pouxloup (button) showed [9h Ks] and lost with High card : King
+Seat 3: Minato_38 (small blind) showed [Jh Td] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2671025725997318145-10-1673527559 - Holdem no limit (50/100) - 2023/01/12 12:45:59 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (315)
+Seat 2: pouxloup (365)
+Seat 3: Minato_38 (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+pouxloup posts big blind 100
+Dealt to _SKR [Js Qc]
+*** PRE-FLOP *** 
+Minato_38 folds
+_SKR raises 215 to 315 and is all-in
+pouxloup raises 50 to 365 and is all-in
+*** FLOP *** [4c Kd 8c]
+*** TURN *** [4c Kd 8c][Qs]
+*** RIVER *** [4c Kd 8c Qs][5c]
+*** SHOW DOWN ***
+_SKR shows [Js Qc] (One pair : Queens)
+pouxloup shows [7d 7h] (One pair : 7)
+pouxloup collected 50 from side pot 1
+_SKR collected 630 from main pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [4c Kd 8c Qs 5c]
+Seat 1: _SKR (small blind) showed [Js Qc] and won 630 with One pair : Queens
+Seat 2: pouxloup (big blind) showed [7d 7h] and won 50 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2671025725997318145-11-1673527578 - Holdem no limit (50/100) - 2023/01/12 12:46:18 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (630)
+Seat 2: pouxloup (50)
+Seat 3: Minato_38 (220)
+*** ANTE/BLINDS ***
+pouxloup posts small blind 50 and is all-in
+Minato_38 posts big blind 100
+Dealt to _SKR [Ks 8s]
+*** PRE-FLOP *** 
+_SKR raises 530 to 630 and is all-in
+Minato_38 calls 120 and is all-in
+*** FLOP *** [5d 6c 2d]
+*** TURN *** [5d 6c 2d][7s]
+*** RIVER *** [5d 6c 2d 7s][Jd]
+*** SHOW DOWN ***
+pouxloup shows [9h Td] (High card : Jack)
+_SKR shows [Ks 8s] (High card : King)
+Minato_38 shows [8h Js] (One pair : Jacks)
+Minato_38 collected 490 from main pot
+_SKR collected 410 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5d 6c 2d 7s Jd]
+Seat 1: _SKR (button) showed [Ks 8s] and won 410 with High card : King
+Seat 2: pouxloup (small blind) showed [9h Td] and lost with High card : Jack
+Seat 3: Minato_38 (big blind) showed [8h Js] and won 490 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2671025725997318145-12-1673527592 - Holdem no limit (50/100) - 2023/01/12 12:46:32 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (410)
+Seat 3: Minato_38 (490)
+*** ANTE/BLINDS ***
+Minato_38 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [3d 2c]
+*** PRE-FLOP *** 
+Minato_38 folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2671025725997318145-13-1673527596 - Holdem no limit (50/100) - 2023/01/12 12:46:36 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (460)
+Seat 3: Minato_38 (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Minato_38 posts big blind 100
+Dealt to _SKR [3h 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Minato_38 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: Minato_38 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2671025725997318145-14-1673527599 - Holdem no limit (50/100) - 2023/01/12 12:46:39 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (410)
+Seat 3: Minato_38 (490)
+*** ANTE/BLINDS ***
+Minato_38 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [6s 8s]
+*** PRE-FLOP *** 
+Minato_38 raises 390 to 490 and is all-in
+_SKR folds
+Minato_38 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 3: Minato_38 (small blind) (button) won 590
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2671025725997318145-15-1673527605 - Holdem no limit (50/100) - 2023/01/12 12:46:45 UTC
+Table: 'Expresso Nitro(621896639)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 3: Minato_38 (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Minato_38 posts big blind 100
+Dealt to _SKR [Qc 5h]
+*** PRE-FLOP *** 
+_SKR raises 210 to 310 and is all-in
+Minato_38 calls 210
+*** FLOP *** [4h 9h Js]
+*** TURN *** [4h 9h Js][7h]
+*** RIVER *** [4h 9h Js 7h][Kc]
+*** SHOW DOWN ***
+_SKR shows [Qc 5h] (High card : King)
+Minato_38 shows [Kd 3d] (One pair : Kings)
+Minato_38 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4h 9h Js 7h Kc]
+Seat 1: _SKR (small blind) (button) showed [Qc 5h] and lost with High card : King
+Seat 3: Minato_38 (big blind) showed [Kd 3d] and won 620 with One pair : Kings
+
+

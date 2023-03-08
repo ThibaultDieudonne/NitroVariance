@@ -1,0 +1,80 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729123237509201921-1-1676901789 - Holdem no limit (10/20) - 2023/02/20 14:03:09 UTC
+Table: 'Expresso Nitro(635423520)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: SophiaLillis (300)
+Seat 3: kevyn40100 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+SophiaLillis posts big blind 20
+Dealt to _SKR [6s 7h]
+*** PRE-FLOP *** 
+kevyn40100 calls 20
+_SKR folds
+SophiaLillis checks
+*** FLOP *** [8h 6h Ks]
+SophiaLillis checks
+kevyn40100 bets 280 and is all-in
+SophiaLillis folds
+kevyn40100 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [8h 6h Ks]
+Seat 3: kevyn40100 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729123237509201921-2-1676901813 - Holdem no limit (10/20) - 2023/02/20 14:03:33 UTC
+Table: 'Expresso Nitro(635423520)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: SophiaLillis (280)
+Seat 3: kevyn40100 (330)
+*** ANTE/BLINDS ***
+SophiaLillis posts small blind 10
+kevyn40100 posts big blind 20
+Dealt to _SKR [Jc Ac]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+SophiaLillis calls 30
+kevyn40100 calls 20
+*** FLOP *** [Ts 6h 8d]
+SophiaLillis checks
+kevyn40100 checks
+_SKR checks
+*** TURN *** [Ts 6h 8d][4s]
+SophiaLillis bets 40
+kevyn40100 folds
+_SKR folds
+SophiaLillis collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ts 6h 8d 4s]
+Seat 2: SophiaLillis (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729123237509201921-3-1676901846 - Holdem no limit (15/30) - 2023/02/20 14:04:06 UTC
+Table: 'Expresso Nitro(635423520)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: SophiaLillis (360)
+Seat 3: kevyn40100 (290)
+*** ANTE/BLINDS ***
+kevyn40100 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad 5d]
+*** PRE-FLOP *** 
+SophiaLillis folds
+kevyn40100 calls 15
+_SKR raises 220 to 250 and is all-in
+kevyn40100 calls 220
+*** FLOP *** [9c 6c 9d]
+*** TURN *** [9c 6c 9d][Kc]
+*** RIVER *** [9c 6c 9d Kc][8d]
+*** SHOW DOWN ***
+_SKR shows [Ad 5d] (One pair : 9)
+kevyn40100 shows [Qd 6s] (Two pairs : 9 and 6)
+kevyn40100 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [9c 6c 9d Kc 8d]
+Seat 1: _SKR (big blind) showed [Ad 5d] and lost with One pair : 9
+Seat 3: kevyn40100 (small blind) showed [Qd 6s] and won 500 with Two pairs : 9 and 6
+
+

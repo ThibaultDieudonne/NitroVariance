@@ -1,0 +1,169 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729130684982493185-1-1676902140 - Holdem no limit (10/20) - 2023/02/20 14:09:00 UTC
+Table: 'Expresso Nitro(635425254)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tmsm16 (300)
+Seat 2: BG_King31 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+tmsm16 posts small blind 10
+BG_King31 posts big blind 20
+Dealt to _SKR [Jh Qh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+tmsm16 calls 30
+BG_King31 calls 20
+*** FLOP *** [7d Ts Ac]
+tmsm16 checks
+BG_King31 checks
+_SKR checks
+*** TURN *** [7d Ts Ac][Tc]
+tmsm16 checks
+BG_King31 checks
+_SKR checks
+*** RIVER *** [7d Ts Ac Tc][Qs]
+tmsm16 checks
+BG_King31 checks
+_SKR bets 60
+tmsm16 folds
+BG_King31 folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [7d Ts Ac Tc Qs]
+Seat 3: _SKR (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729130684982493185-2-1676902191 - Holdem no limit (10/20) - 2023/02/20 14:09:51 UTC
+Table: 'Expresso Nitro(635425254)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tmsm16 (260)
+Seat 2: BG_King31 (260)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+BG_King31 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s Ah]
+*** PRE-FLOP *** 
+tmsm16 calls 20
+BG_King31 calls 10
+_SKR raises 360 to 380 and is all-in
+tmsm16 folds
+BG_King31 calls 240 and is all-in
+*** FLOP *** [Ks 7c Tc]
+*** TURN *** [Ks 7c Tc][4d]
+*** RIVER *** [Ks 7c Tc 4d][6c]
+*** SHOW DOWN ***
+BG_King31 shows [Ts Kd] (Two pairs : Kings and Tens)
+_SKR shows [5s Ah] (High card : Ace)
+_SKR collected 120 from side pot 1
+BG_King31 collected 540 from main pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Ks 7c Tc 4d 6c]
+Seat 2: BG_King31 (small blind) showed [Ts Kd] and won 540 with Two pairs : Kings and Tens
+Seat 3: _SKR (big blind) showed [5s Ah] and won 120 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729130684982493185-3-1676902217 - Holdem no limit (15/30) - 2023/02/20 14:10:17 UTC
+Table: 'Expresso Nitro(635425254)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tmsm16 (240)
+Seat 2: BG_King31 (540)
+Seat 3: _SKR (120)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+tmsm16 posts big blind 30
+Dealt to _SKR [8c Js]
+*** PRE-FLOP *** 
+BG_King31 calls 30
+_SKR folds
+tmsm16 checks
+*** FLOP *** [Jc 6h Th]
+tmsm16 bets 210 and is all-in
+BG_King31 calls 210
+*** TURN *** [Jc 6h Th][Kc]
+*** RIVER *** [Jc 6h Th Kc][4d]
+*** SHOW DOWN ***
+BG_King31 shows [Td 3h] (One pair : Tens)
+tmsm16 shows [Jd 2h] (One pair : Jacks)
+tmsm16 collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [Jc 6h Th Kc 4d]
+Seat 1: tmsm16 (big blind) showed [Jd 2h] and won 495 with One pair : Jacks
+Seat 2: BG_King31 (button) showed [Td 3h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729130684982493185-4-1676902247 - Holdem no limit (15/30) - 2023/02/20 14:10:47 UTC
+Table: 'Expresso Nitro(635425254)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tmsm16 (495)
+Seat 2: BG_King31 (300)
+Seat 3: _SKR (105)
+*** ANTE/BLINDS ***
+tmsm16 posts small blind 15
+BG_King31 posts big blind 30
+Dealt to _SKR [5c Ah]
+*** PRE-FLOP *** 
+_SKR raises 75 to 105 and is all-in
+tmsm16 folds
+BG_King31 folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: _SKR (button) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729130684982493185-5-1676902255 - Holdem no limit (15/30) - 2023/02/20 14:10:55 UTC
+Table: 'Expresso Nitro(635425254)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tmsm16 (480)
+Seat 2: BG_King31 (270)
+Seat 3: _SKR (150)
+*** ANTE/BLINDS ***
+BG_King31 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 8d]
+*** PRE-FLOP *** 
+tmsm16 folds
+BG_King31 calls 15
+_SKR checks
+*** FLOP *** [3c 4c Js]
+BG_King31 checks
+_SKR checks
+*** TURN *** [3c 4c Js][Kd]
+BG_King31 checks
+_SKR checks
+*** RIVER *** [3c 4c Js Kd][6d]
+BG_King31 bets 30
+_SKR folds
+BG_King31 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [3c 4c Js Kd 6d]
+Seat 2: BG_King31 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729130684982493185-6-1676902282 - Holdem no limit (20/40) - 2023/02/20 14:11:22 UTC
+Table: 'Expresso Nitro(635425254)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tmsm16 (480)
+Seat 2: BG_King31 (300)
+Seat 3: _SKR (120)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+tmsm16 posts big blind 40
+Dealt to _SKR [Jc 4c]
+*** PRE-FLOP *** 
+BG_King31 calls 40
+_SKR raises 80 to 120 and is all-in
+tmsm16 folds
+BG_King31 calls 80
+*** FLOP *** [7h Ac 8h]
+*** TURN *** [7h Ac 8h][Tc]
+*** RIVER *** [7h Ac 8h Tc][6s]
+*** SHOW DOWN ***
+_SKR shows [Jc 4c] (High card : Ace)
+BG_King31 shows [Ah 6h] (Two pairs : Aces and 6)
+BG_King31 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [7h Ac 8h Tc 6s]
+Seat 2: BG_King31 (button) showed [Ah 6h] and won 280 with Two pairs : Aces and 6
+Seat 3: _SKR (small blind) showed [Jc 4c] and lost with High card : Ace
+
+

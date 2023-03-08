@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691972294384812033-1-1674775776 - Holdem no limit (10/20) - 2023/01/26 23:29:36 UTC
+Table: 'Expresso Nitro(626773642)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: frudespensa (300)
+Seat 3: SmartGamer (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+frudespensa posts big blind 20
+Dealt to _SKR [3s Ah]
+*** PRE-FLOP *** 
+SmartGamer raises 40 to 60
+_SKR folds
+frudespensa folds
+SmartGamer collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: SmartGamer (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691972294384812033-2-1674775786 - Holdem no limit (10/20) - 2023/01/26 23:29:46 UTC
+Table: 'Expresso Nitro(626773642)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: frudespensa (280)
+Seat 3: SmartGamer (330)
+*** ANTE/BLINDS ***
+frudespensa posts small blind 10
+SmartGamer posts big blind 20
+Dealt to _SKR [5d Ah]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+frudespensa folds
+SmartGamer raises 40 to 330 and is all-in
+*** FLOP *** [9s 6c 3s]
+*** TURN *** [9s 6c 3s][3h]
+*** RIVER *** [9s 6c 3s 3h][8c]
+*** SHOW DOWN ***
+_SKR shows [5d Ah] (One pair : 3)
+SmartGamer shows [9c 9d] (Full of 9 and 3)
+SmartGamer collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [9s 6c 3s 3h 8c]
+Seat 1: _SKR (button) showed [5d Ah] and lost with One pair : 3
+Seat 3: SmartGamer (big blind) showed [9c 9d] and won 630 with Full of 9 and 3
+
+

@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690592411586920449-1-1674687132 - Holdem no limit (10/20) - 2023/01/25 22:52:12 UTC
+Table: 'Expresso Nitro(626452363)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lovely Liv (300)
+Seat 2: _SKR (300)
+Seat 3: bobtonton06 (300)
+*** ANTE/BLINDS ***
+bobtonton06 posts small blind 10
+Lovely Liv posts big blind 20
+Dealt to _SKR [Qc 3d]
+*** PRE-FLOP *** 
+_SKR folds
+bobtonton06 calls 10
+Lovely Liv checks
+*** FLOP *** [Kc 6h 9d]
+bobtonton06 checks
+Lovely Liv bets 26
+bobtonton06 folds
+Lovely Liv collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Kc 6h 9d]
+Seat 1: Lovely Liv (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690592411586920449-2-1674687148 - Holdem no limit (10/20) - 2023/01/25 22:52:28 UTC
+Table: 'Expresso Nitro(626452363)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lovely Liv (320)
+Seat 2: _SKR (300)
+Seat 3: bobtonton06 (280)
+*** ANTE/BLINDS ***
+Lovely Liv posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s 7s]
+*** PRE-FLOP *** 
+bobtonton06 folds
+Lovely Liv calls 10
+_SKR checks
+*** FLOP *** [3s 9d Kd]
+Lovely Liv checks
+_SKR checks
+*** TURN *** [3s 9d Kd][3c]
+Lovely Liv checks
+_SKR checks
+*** RIVER *** [3s 9d Kd 3c][6s]
+Lovely Liv checks
+_SKR bets 20
+Lovely Liv folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3s 9d Kd 3c 6s]
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690592411586920449-3-1674687183 - Holdem no limit (10/20) - 2023/01/25 22:53:03 UTC
+Table: 'Expresso Nitro(626452363)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lovely Liv (300)
+Seat 2: _SKR (320)
+Seat 3: bobtonton06 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+bobtonton06 posts big blind 20
+Dealt to _SKR [7s 7d]
+*** PRE-FLOP *** 
+Lovely Liv raises 280 to 300 and is all-in
+_SKR raises 20 to 320 and is all-in
+bobtonton06 folds
+*** FLOP *** [As 5h Th]
+*** TURN *** [As 5h Th][Ah]
+*** RIVER *** [As 5h Th Ah][Ac]
+*** SHOW DOWN ***
+Lovely Liv shows [Kc Qd] (Trips of Aces)
+_SKR shows [7s 7d] (Full of Aces and 7)
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [As 5h Th Ah Ac]
+Seat 1: Lovely Liv (button) showed [Kc Qd] and lost with Trips of Aces
+Seat 2: _SKR (small blind) showed [7s 7d] and won 640 with Full of Aces and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690592411586920449-4-1674687200 - Holdem no limit (15/30) - 2023/01/25 22:53:20 UTC
+Table: 'Expresso Nitro(626452363)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (640)
+Seat 3: bobtonton06 (260)
+*** ANTE/BLINDS ***
+bobtonton06 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad Qd]
+*** PRE-FLOP *** 
+bobtonton06 raises 230 to 260 and is all-in
+_SKR calls 230
+*** FLOP *** [2c 9c 3s]
+*** TURN *** [2c 9c 3s][Jh]
+*** RIVER *** [2c 9c 3s Jh][8c]
+*** SHOW DOWN ***
+bobtonton06 shows [7h Ah] (High card : Ace)
+_SKR shows [Ad Qd] (High card : Ace)
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [2c 9c 3s Jh 8c]
+Seat 2: _SKR (big blind) showed [Ad Qd] and won 520 with High card : Ace
+Seat 3: bobtonton06 (small blind) (button) showed [7h Ah] and lost with High card : Ace
+
+

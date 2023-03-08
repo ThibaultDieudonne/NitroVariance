@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717549095215431681-1-1676226614 - Holdem no limit (10/20) - 2023/02/12 18:30:14 UTC
+Table: 'Expresso Nitro(632728705)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cal1m3ro (300)
+Seat 2: Rosas.31 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 10
+Rosas.31 posts big blind 20
+Dealt to _SKR [8c Kd]
+*** PRE-FLOP *** 
+_SKR folds
+Cal1m3ro calls 10
+Rosas.31 checks
+*** FLOP *** [8h Js 7c]
+Cal1m3ro checks
+Rosas.31 checks
+*** TURN *** [8h Js 7c][5d]
+Cal1m3ro bets 20
+Rosas.31 calls 20
+*** RIVER *** [8h Js 7c 5d][8s]
+Cal1m3ro checks
+Rosas.31 bets 28
+Cal1m3ro calls 28
+*** SHOW DOWN ***
+Rosas.31 shows [Kh 5s] (Two pairs : 8 and 5)
+Cal1m3ro shows [7s Ks] (Two pairs : 8 and 7)
+Cal1m3ro collected 136 from pot
+*** SUMMARY ***
+Total pot 136 | No rake
+Board: [8h Js 7c 5d 8s]
+Seat 1: Cal1m3ro (small blind) showed [7s Ks] and won 136 with Two pairs : 8 and 7
+Seat 2: Rosas.31 (big blind) showed [Kh 5s] and lost with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717549095215431681-2-1676226634 - Holdem no limit (10/20) - 2023/02/12 18:30:34 UTC
+Table: 'Expresso Nitro(632728705)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cal1m3ro (368)
+Seat 2: Rosas.31 (232)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Rosas.31 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 6h]
+*** PRE-FLOP *** 
+Cal1m3ro folds
+Rosas.31 raises 212 to 232 and is all-in
+_SKR calls 212
+*** FLOP *** [Qh 9h 3s]
+*** TURN *** [Qh 9h 3s][4c]
+*** RIVER *** [Qh 9h 3s 4c][Ad]
+*** SHOW DOWN ***
+_SKR shows [6s 6h] (One pair : 6)
+Rosas.31 shows [3h As] (Two pairs : Aces and 3)
+Rosas.31 collected 464 from pot
+*** SUMMARY ***
+Total pot 464 | No rake
+Board: [Qh 9h 3s 4c Ad]
+Seat 2: Rosas.31 (small blind) showed [3h As] and won 464 with Two pairs : Aces and 3
+Seat 3: _SKR (big blind) showed [6s 6h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717549095215431681-3-1676226649 - Holdem no limit (10/20) - 2023/02/12 18:30:49 UTC
+Table: 'Expresso Nitro(632728705)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cal1m3ro (368)
+Seat 2: Rosas.31 (464)
+Seat 3: _SKR (68)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cal1m3ro posts big blind 20
+Dealt to _SKR [7c 5d]
+*** PRE-FLOP *** 
+Rosas.31 raises 444 to 464 and is all-in
+_SKR folds
+Cal1m3ro folds
+Rosas.31 collected 494 from pot
+*** SUMMARY ***
+Total pot 494 | No rake
+Seat 2: Rosas.31 (button) won 494
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717549095215431681-4-1676226656 - Holdem no limit (10/20) - 2023/02/12 18:30:56 UTC
+Table: 'Expresso Nitro(632728705)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cal1m3ro (348)
+Seat 2: Rosas.31 (494)
+Seat 3: _SKR (58)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 10
+Rosas.31 posts big blind 20
+Dealt to _SKR [Ac Th]
+*** PRE-FLOP *** 
+_SKR raises 38 to 58 and is all-in
+Cal1m3ro folds
+Rosas.31 calls 38
+*** FLOP *** [9d Qc Jh]
+*** TURN *** [9d Qc Jh][7d]
+*** RIVER *** [9d Qc Jh 7d][4d]
+*** SHOW DOWN ***
+_SKR shows [Ac Th] (High card : Ace)
+Rosas.31 shows [7s 3d] (One pair : 7)
+Rosas.31 collected 126 from pot
+*** SUMMARY ***
+Total pot 126 | No rake
+Board: [9d Qc Jh 7d 4d]
+Seat 2: Rosas.31 (big blind) showed [7s 3d] and won 126 with One pair : 7
+Seat 3: _SKR (button) showed [Ac Th] and lost with High card : Ace
+
+

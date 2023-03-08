@@ -1,0 +1,202 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718650075722022913-1-1676293483 - Holdem no limit (10/20) - 2023/02/13 13:04:43 UTC
+Table: 'Expresso Nitro(632985047)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: El_Rak (300)
+Seat 3: DRONIC6 (300)
+*** ANTE/BLINDS ***
+El_Rak posts small blind 10
+DRONIC6 posts big blind 20
+Dealt to _SKR [Tc Jc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+El_Rak folds
+DRONIC6 calls 20
+*** FLOP *** [8s Kd 3d]
+DRONIC6 checks
+_SKR checks
+*** TURN *** [8s Kd 3d][Qh]
+DRONIC6 checks
+_SKR bets 45
+DRONIC6 folds
+_SKR collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [8s Kd 3d Qh]
+Seat 1: _SKR (button) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718650075722022913-2-1676293510 - Holdem no limit (10/20) - 2023/02/13 13:05:10 UTC
+Table: 'Expresso Nitro(632985047)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (350)
+Seat 2: El_Rak (290)
+Seat 3: DRONIC6 (260)
+*** ANTE/BLINDS ***
+DRONIC6 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c 8d]
+*** PRE-FLOP *** 
+El_Rak raises 30 to 50
+DRONIC6 raises 210 to 260 and is all-in
+_SKR folds
+El_Rak folds
+DRONIC6 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: DRONIC6 (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718650075722022913-3-1676293532 - Holdem no limit (10/20) - 2023/02/13 13:05:32 UTC
+Table: 'Expresso Nitro(632985047)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 2: El_Rak (240)
+Seat 3: DRONIC6 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+El_Rak posts big blind 20
+Dealt to _SKR [9d Ks]
+*** PRE-FLOP *** 
+DRONIC6 raises 310 to 330 and is all-in
+_SKR folds
+El_Rak folds
+DRONIC6 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: DRONIC6 (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718650075722022913-4-1676293555 - Holdem no limit (15/30) - 2023/02/13 13:05:55 UTC
+Table: 'Expresso Nitro(632985047)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 2: El_Rak (220)
+Seat 3: DRONIC6 (360)
+*** ANTE/BLINDS ***
+El_Rak posts small blind 15
+DRONIC6 posts big blind 30
+Dealt to _SKR [2h Kd]
+*** PRE-FLOP *** 
+_SKR folds
+El_Rak calls 15
+DRONIC6 checks
+*** FLOP *** [3h Th Ah]
+El_Rak bets 30
+DRONIC6 calls 30
+*** TURN *** [3h Th Ah][6d]
+El_Rak bets 42
+DRONIC6 raises 258 to 300 and is all-in
+El_Rak calls 118 and is all-in
+*** RIVER *** [3h Th Ah 6d][7d]
+*** SHOW DOWN ***
+El_Rak shows [Ac 7c] (Two pairs : Aces and 7)
+DRONIC6 shows [6h Td] (Two pairs : Tens and 6)
+DRONIC6 collected 140 from side pot 1
+El_Rak collected 440 from main pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [3h Th Ah 6d 7d]
+Seat 2: El_Rak (small blind) showed [Ac 7c] and won 440 with Two pairs : Aces and 7
+Seat 3: DRONIC6 (big blind) showed [6h Td] and won 140 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718650075722022913-5-1676293601 - Holdem no limit (20/40) - 2023/02/13 13:06:41 UTC
+Table: 'Expresso Nitro(632985047)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (320)
+Seat 2: El_Rak (440)
+Seat 3: DRONIC6 (140)
+*** ANTE/BLINDS ***
+DRONIC6 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ah 7s]
+*** PRE-FLOP *** 
+El_Rak raises 400 to 440 and is all-in
+DRONIC6 calls 120 and is all-in
+_SKR folds
+*** FLOP *** [4c Jd 3h]
+*** TURN *** [4c Jd 3h][8c]
+*** RIVER *** [4c Jd 3h 8c][2s]
+*** SHOW DOWN ***
+El_Rak shows [As 2c] (One pair : 2)
+DRONIC6 shows [7c 7h] (One pair : 7)
+DRONIC6 collected 320 from main pot
+El_Rak collected 300 from side pot 1
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4c Jd 3h 8c 2s]
+Seat 2: El_Rak (button) showed [As 2c] and won 300 with One pair : 2
+Seat 3: DRONIC6 (small blind) showed [7c 7h] and won 320 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718650075722022913-6-1676293619 - Holdem no limit (20/40) - 2023/02/13 13:06:59 UTC
+Table: 'Expresso Nitro(632985047)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: El_Rak (300)
+Seat 3: DRONIC6 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+El_Rak posts big blind 40
+Dealt to _SKR [Qh Jh]
+*** PRE-FLOP *** 
+DRONIC6 calls 40
+_SKR raises 240 to 280 and is all-in
+El_Rak folds
+DRONIC6 calls 240
+*** FLOP *** [5s 2c 6c]
+*** TURN *** [5s 2c 6c][4c]
+*** RIVER *** [5s 2c 6c 4c][7d]
+*** SHOW DOWN ***
+DRONIC6 shows [9d Js] (High card : Jack)
+_SKR shows [Qh Jh] (High card : Queen)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [5s 2c 6c 4c 7d]
+Seat 1: _SKR (small blind) showed [Qh Jh] and won 600 with High card : Queen
+Seat 3: DRONIC6 (button) showed [9d Js] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718650075722022913-7-1676293641 - Holdem no limit (20/40) - 2023/02/13 13:07:21 UTC
+Table: 'Expresso Nitro(632985047)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 2: El_Rak (260)
+Seat 3: DRONIC6 (40)
+*** ANTE/BLINDS ***
+El_Rak posts small blind 20
+DRONIC6 posts big blind 40 and is all-in
+Dealt to _SKR [5s Th]
+*** PRE-FLOP *** 
+_SKR folds
+El_Rak folds
+DRONIC6 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: DRONIC6 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718650075722022913-8-1676293646 - Holdem no limit (20/40) - 2023/02/13 13:07:26 UTC
+Table: 'Expresso Nitro(632985047)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (600)
+Seat 2: El_Rak (240)
+Seat 3: DRONIC6 (60)
+*** ANTE/BLINDS ***
+DRONIC6 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc Qh]
+*** PRE-FLOP *** 
+El_Rak raises 200 to 240 and is all-in
+DRONIC6 calls 40 and is all-in
+_SKR raises 200 to 440
+*** FLOP *** [9s 2s 9c]
+*** TURN *** [9s 2s 9c][8s]
+*** RIVER *** [9s 2s 9c 8s][Ac]
+*** SHOW DOWN ***
+El_Rak shows [3d Kd] (One pair : 9)
+DRONIC6 shows [Tc 3h] (One pair : 9)
+_SKR shows [Kc Qh] (One pair : 9)
+_SKR collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [9s 2s 9c 8s Ac]
+Seat 1: _SKR (big blind) showed [Kc Qh] and won 740 with One pair : 9
+Seat 2: El_Rak (button) showed [3d Kd] and lost with One pair : 9
+Seat 3: DRONIC6 (small blind) showed [Tc 3h] and lost with One pair : 9
+
+

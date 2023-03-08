@@ -1,0 +1,158 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717701038273462273-1-1676232099 - Holdem no limit (10/20) - 2023/02/12 20:01:39 UTC
+Table: 'Expresso Nitro(632764082)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: thibaultd50 (300)
+Seat 3: elbemtp (300)
+*** ANTE/BLINDS ***
+elbemtp posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 3h]
+*** PRE-FLOP *** 
+thibaultd50 raises 280 to 300 and is all-in
+elbemtp calls 290 and is all-in
+_SKR folds
+*** FLOP *** [Kd 2d 9h]
+*** TURN *** [Kd 2d 9h][4c]
+*** RIVER *** [Kd 2d 9h 4c][6s]
+*** SHOW DOWN ***
+thibaultd50 shows [Td 8c] (High card : King)
+elbemtp shows [8h Kh] (One pair : Kings)
+elbemtp collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Kd 2d 9h 4c 6s]
+Seat 2: thibaultd50 (button) showed [Td 8c] and lost with High card : King
+Seat 3: elbemtp (small blind) showed [8h Kh] and won 620 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717701038273462273-2-1676232114 - Holdem no limit (10/20) - 2023/02/12 20:01:54 UTC
+Table: 'Expresso Nitro(632764082)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 3: elbemtp (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+elbemtp posts big blind 20
+Dealt to _SKR [9d Jc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+elbemtp calls 20
+*** FLOP *** [4s Qd 9s]
+elbemtp checks
+_SKR checks
+*** TURN *** [4s Qd 9s][2c]
+elbemtp checks
+_SKR checks
+*** RIVER *** [4s Qd 9s 2c][2s]
+elbemtp bets 20
+_SKR calls 20
+*** SHOW DOWN ***
+elbemtp shows [Ts 6c] (One pair : 2)
+_SKR shows [9d Jc] (Two pairs : 9 and 2)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4s Qd 9s 2c 2s]
+Seat 1: _SKR (small blind) (button) showed [9d Jc] and won 120 with Two pairs : 9 and 2
+Seat 3: elbemtp (big blind) showed [Ts 6c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717701038273462273-3-1676232148 - Holdem no limit (10/20) - 2023/02/12 20:02:28 UTC
+Table: 'Expresso Nitro(632764082)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (340)
+Seat 3: elbemtp (560)
+*** ANTE/BLINDS ***
+elbemtp posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c 8d]
+*** PRE-FLOP *** 
+elbemtp calls 10
+_SKR checks
+*** FLOP *** [Js 7s 7c]
+_SKR checks
+elbemtp checks
+*** TURN *** [Js 7s 7c][6c]
+_SKR checks
+elbemtp checks
+*** RIVER *** [Js 7s 7c 6c][5d]
+_SKR checks
+elbemtp checks
+*** SHOW DOWN ***
+_SKR shows [2c 8d] (One pair : 7)
+elbemtp shows [Th 3c] (One pair : 7)
+elbemtp collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Js 7s 7c 6c 5d]
+Seat 1: _SKR (big blind) showed [2c 8d] and lost with One pair : 7
+Seat 3: elbemtp (small blind) (button) showed [Th 3c] and won 40 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717701038273462273-4-1676232173 - Holdem no limit (15/30) - 2023/02/12 20:02:53 UTC
+Table: 'Expresso Nitro(632764082)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 3: elbemtp (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+elbemtp posts big blind 30
+Dealt to _SKR [8h Th]
+*** PRE-FLOP *** 
+_SKR calls 15
+elbemtp checks
+*** FLOP *** [9s 2s 2h]
+elbemtp checks
+_SKR bets 30
+elbemtp folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9s 2s 2h]
+Seat 1: _SKR (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717701038273462273-5-1676232197 - Holdem no limit (15/30) - 2023/02/12 20:03:17 UTC
+Table: 'Expresso Nitro(632764082)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (350)
+Seat 3: elbemtp (550)
+*** ANTE/BLINDS ***
+elbemtp posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc 3c]
+*** PRE-FLOP *** 
+elbemtp calls 15
+_SKR checks
+*** FLOP *** [Jc Kh 4s]
+_SKR checks
+elbemtp bets 30
+_SKR folds
+elbemtp collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Jc Kh 4s]
+Seat 3: elbemtp (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717701038273462273-6-1676232208 - Holdem no limit (15/30) - 2023/02/12 20:03:28 UTC
+Table: 'Expresso Nitro(632764082)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 3: elbemtp (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+elbemtp posts big blind 30
+Dealt to _SKR [Tc Ad]
+*** PRE-FLOP *** 
+_SKR raises 290 to 320 and is all-in
+elbemtp calls 290
+*** FLOP *** [7d 6s Ts]
+*** TURN *** [7d 6s Ts][8s]
+*** RIVER *** [7d 6s Ts 8s][4h]
+*** SHOW DOWN ***
+_SKR shows [Tc Ad] (One pair : Tens)
+elbemtp shows [5s Kd] (Straight 8 high)
+elbemtp collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [7d 6s Ts 8s 4h]
+Seat 1: _SKR (small blind) (button) showed [Tc Ad] and lost with One pair : Tens
+Seat 3: elbemtp (big blind) showed [5s Kd] and won 640 with Straight 8 high
+
+

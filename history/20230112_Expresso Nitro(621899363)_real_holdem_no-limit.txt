@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671037425488232449-1-1673527868 - Holdem no limit (10/20) - 2023/01/12 12:51:08 UTC
+Table: 'Expresso Nitro(621899363)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Pierrounche (300)
+Seat 3: BenjiDodow06 (300)
+*** ANTE/BLINDS ***
+Pierrounche posts small blind 10
+BenjiDodow06 posts big blind 20
+Dealt to _SKR [3s 8h]
+*** PRE-FLOP *** 
+_SKR folds
+Pierrounche calls 10
+BenjiDodow06 checks
+*** FLOP *** [4h 6s 2s]
+Pierrounche checks
+BenjiDodow06 checks
+*** TURN *** [4h 6s 2s][Jh]
+Pierrounche checks
+BenjiDodow06 checks
+*** RIVER *** [4h 6s 2s Jh][Ac]
+Pierrounche checks
+BenjiDodow06 checks
+*** SHOW DOWN ***
+BenjiDodow06 shows [Qc 8d] (High card : Ace)
+Pierrounche shows [9d Ks] (High card : Ace)
+Pierrounche collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [4h 6s 2s Jh Ac]
+Seat 2: Pierrounche (small blind) showed [9d Ks] and won 40 with High card : Ace
+Seat 3: BenjiDodow06 (big blind) showed [Qc 8d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671037425488232449-2-1673527889 - Holdem no limit (10/20) - 2023/01/12 12:51:29 UTC
+Table: 'Expresso Nitro(621899363)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Pierrounche (320)
+Seat 3: BenjiDodow06 (280)
+*** ANTE/BLINDS ***
+BenjiDodow06 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs As]
+*** PRE-FLOP *** 
+Pierrounche folds
+BenjiDodow06 calls 10
+_SKR raises 30 to 50
+BenjiDodow06 raises 230 to 280 and is all-in
+_SKR raises 20 to 300 and is all-in
+*** FLOP *** [6d 7h 3c]
+*** TURN *** [6d 7h 3c][Jd]
+*** RIVER *** [6d 7h 3c Jd][Jc]
+*** SHOW DOWN ***
+_SKR shows [Qs As] (One pair : Jacks)
+BenjiDodow06 shows [6h Qh] (Two pairs : Jacks and 6)
+BenjiDodow06 collected 560 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6d 7h 3c Jd Jc]
+Seat 1: _SKR (big blind) showed [Qs As] and won 20 with One pair : Jacks
+Seat 3: BenjiDodow06 (small blind) showed [6h Qh] and won 560 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671037425488232449-3-1673527909 - Holdem no limit (10/20) - 2023/01/12 12:51:49 UTC
+Table: 'Expresso Nitro(621899363)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (20)
+Seat 2: Pierrounche (320)
+Seat 3: BenjiDodow06 (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Pierrounche posts big blind 20
+Dealt to _SKR [Tc 4d]
+*** PRE-FLOP *** 
+BenjiDodow06 folds
+_SKR calls 10 and is all-in
+*** FLOP *** [7c 5d 8s]
+*** TURN *** [7c 5d 8s][9d]
+*** RIVER *** [7c 5d 8s 9d][Th]
+*** SHOW DOWN ***
+_SKR shows [Tc 4d] (One pair : Tens)
+Pierrounche shows [8d Js] (Straight Jack high)
+Pierrounche collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [7c 5d 8s 9d Th]
+Seat 1: _SKR (small blind) showed [Tc 4d] and lost with One pair : Tens
+Seat 2: Pierrounche (big blind) showed [8d Js] and won 40 with Straight Jack high
+
+

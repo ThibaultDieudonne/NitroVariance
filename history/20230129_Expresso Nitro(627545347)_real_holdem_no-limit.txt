@@ -1,0 +1,68 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695286742121971713-1-1675004314 - Holdem no limit (10/20) - 2023/01/29 14:58:34 UTC
+Table: 'Expresso Nitro(627545347)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Keshnal (300)
+Seat 2: _SKR (300)
+Seat 3: Tiltosaurus (300)
+*** ANTE/BLINDS ***
+Keshnal posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Th]
+*** PRE-FLOP *** 
+Tiltosaurus folds
+Keshnal calls 10
+_SKR checks
+*** FLOP *** [3c Ts 2d]
+Keshnal bets 20
+_SKR calls 20
+*** TURN *** [3c Ts 2d][9d]
+Keshnal checks
+_SKR bets 40
+Keshnal calls 40
+*** RIVER *** [3c Ts 2d 9d][2s]
+Keshnal checks
+_SKR bets 80
+Keshnal raises 140 to 220 and is all-in
+_SKR calls 140 and is all-in
+*** SHOW DOWN ***
+Keshnal shows [3h 6d] (Two pairs : 3 and 2)
+_SKR shows [9s Th] (Two pairs : Tens and 9)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3c Ts 2d 9d 2s]
+Seat 1: Keshnal (small blind) showed [3h 6d] and lost with Two pairs : 3 and 2
+Seat 2: _SKR (big blind) showed [9s Th] and won 600 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695286742121971713-2-1675004351 - Holdem no limit (10/20) - 2023/01/29 14:59:11 UTC
+Table: 'Expresso Nitro(627545347)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (600)
+Seat 3: Tiltosaurus (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Tiltosaurus posts big blind 20
+Dealt to _SKR [9s 6s]
+*** PRE-FLOP *** 
+_SKR calls 10
+Tiltosaurus checks
+*** FLOP *** [7h Tc 5d]
+Tiltosaurus bets 30
+_SKR calls 30
+*** TURN *** [7h Tc 5d][8s]
+Tiltosaurus bets 35
+_SKR calls 35
+*** RIVER *** [7h Tc 5d 8s][8h]
+Tiltosaurus bets 30
+_SKR raises 485 to 515 and is all-in
+Tiltosaurus calls 185 and is all-in
+*** SHOW DOWN ***
+Tiltosaurus shows [2d Ts] (Two pairs : Tens and 8)
+_SKR shows [9s 6s] (Straight Ten high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h Tc 5d 8s 8h]
+Seat 2: _SKR (small blind) (button) showed [9s 6s] and won 900 with Straight Ten high
+Seat 3: Tiltosaurus (big blind) showed [2d Ts] and lost with Two pairs : Tens and 8
+
+

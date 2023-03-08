@@ -1,0 +1,123 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677099179121049601-1-1673877077 - Holdem no limit (10/20) - 2023/01/16 13:51:17 UTC
+Table: 'Expresso Nitro(623310725)#0' 3-max (real money) Seat #1 is the button
+Seat 1: OSCAR0129 (300)
+Seat 2: amorphe-1781 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+amorphe-1781 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 8d]
+*** PRE-FLOP *** 
+OSCAR0129 raises 280 to 300 and is all-in
+amorphe-1781 folds
+_SKR folds
+OSCAR0129 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: OSCAR0129 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677099179121049601-2-1673877091 - Holdem no limit (10/20) - 2023/01/16 13:51:31 UTC
+Table: 'Expresso Nitro(623310725)#0' 3-max (real money) Seat #2 is the button
+Seat 1: OSCAR0129 (330)
+Seat 2: amorphe-1781 (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+OSCAR0129 posts big blind 20
+Dealt to _SKR [Jh 7c]
+*** PRE-FLOP *** 
+amorphe-1781 calls 20
+_SKR folds
+OSCAR0129 checks
+*** FLOP *** [5s 3c 7h]
+OSCAR0129 checks
+amorphe-1781 bets 270 and is all-in
+OSCAR0129 folds
+amorphe-1781 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [5s 3c 7h]
+Seat 2: amorphe-1781 (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677099179121049601-3-1673877104 - Holdem no limit (10/20) - 2023/01/16 13:51:44 UTC
+Table: 'Expresso Nitro(623310725)#0' 3-max (real money) Seat #3 is the button
+Seat 1: OSCAR0129 (310)
+Seat 2: amorphe-1781 (320)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+OSCAR0129 posts small blind 10
+amorphe-1781 posts big blind 20
+Dealt to _SKR [8s Jh]
+*** PRE-FLOP *** 
+_SKR folds
+OSCAR0129 calls 10
+amorphe-1781 checks
+*** FLOP *** [4h 6d 4d]
+OSCAR0129 checks
+amorphe-1781 checks
+*** TURN *** [4h 6d 4d][Ad]
+OSCAR0129 checks
+amorphe-1781 checks
+*** RIVER *** [4h 6d 4d Ad][Kd]
+OSCAR0129 bets 20
+amorphe-1781 calls 20
+*** SHOW DOWN ***
+amorphe-1781 shows [7h 6s] (Two pairs : 6 and 4)
+OSCAR0129 shows [Qc 9d] (Flush Ace high)
+OSCAR0129 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4h 6d 4d Ad Kd]
+Seat 1: OSCAR0129 (small blind) showed [Qc 9d] and won 80 with Flush Ace high
+Seat 2: amorphe-1781 (big blind) showed [7h 6s] and lost with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677099179121049601-4-1673877123 - Holdem no limit (10/20) - 2023/01/16 13:52:03 UTC
+Table: 'Expresso Nitro(623310725)#0' 3-max (real money) Seat #1 is the button
+Seat 1: OSCAR0129 (350)
+Seat 2: amorphe-1781 (280)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+amorphe-1781 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s Jd]
+*** PRE-FLOP *** 
+OSCAR0129 raises 330 to 350 and is all-in
+amorphe-1781 folds
+_SKR folds
+OSCAR0129 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 1: OSCAR0129 (button) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677099179121049601-5-1673877128 - Holdem no limit (10/20) - 2023/01/16 13:52:08 UTC
+Table: 'Expresso Nitro(623310725)#0' 3-max (real money) Seat #2 is the button
+Seat 1: OSCAR0129 (380)
+Seat 2: amorphe-1781 (270)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+OSCAR0129 posts big blind 20
+Dealt to _SKR [Ts Jc]
+*** PRE-FLOP *** 
+amorphe-1781 calls 20
+_SKR raises 230 to 250 and is all-in
+OSCAR0129 calls 230
+amorphe-1781 folds
+*** FLOP *** [Tc Qh 6s]
+*** TURN *** [Tc Qh 6s][Ad]
+*** RIVER *** [Tc Qh 6s Ad][2h]
+*** SHOW DOWN ***
+_SKR shows [Ts Jc] (One pair : Tens)
+OSCAR0129 shows [Kh Ks] (One pair : Kings)
+OSCAR0129 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Tc Qh 6s Ad 2h]
+Seat 1: OSCAR0129 (big blind) showed [Kh Ks] and won 520 with One pair : Kings
+Seat 3: _SKR (small blind) showed [Ts Jc] and lost with One pair : Tens
+
+

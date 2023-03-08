@@ -1,0 +1,220 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717611629939261441-1-1676228838 - Holdem no limit (10/20) - 2023/02/12 19:07:18 UTC
+Table: 'Expresso Nitro(632743265)#0' 3-max (real money) Seat #3 is the button
+Seat 1: mlk692 (300)
+Seat 2: _SKR (300)
+Seat 3: Venissians (300)
+*** ANTE/BLINDS ***
+mlk692 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s Jc]
+*** PRE-FLOP *** 
+Venissians raises 50 to 70
+mlk692 folds
+_SKR folds
+Venissians collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: Venissians (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717611629939261441-2-1676228849 - Holdem no limit (10/20) - 2023/02/12 19:07:29 UTC
+Table: 'Expresso Nitro(632743265)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mlk692 (290)
+Seat 2: _SKR (280)
+Seat 3: Venissians (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Venissians posts big blind 20
+Dealt to _SKR [Td Jd]
+*** PRE-FLOP *** 
+mlk692 raises 270 to 290 and is all-in
+_SKR folds
+Venissians calls 270
+*** FLOP *** [Jc Jh 3h]
+*** TURN *** [Jc Jh 3h][7h]
+*** RIVER *** [Jc Jh 3h 7h][Qh]
+*** SHOW DOWN ***
+Venissians shows [Kd 3d] (Two pairs : Jacks and 3)
+mlk692 shows [8c 9h] (Flush Queen high)
+mlk692 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Jc Jh 3h 7h Qh]
+Seat 1: mlk692 (button) showed [8c 9h] and won 590 with Flush Queen high
+Seat 3: Venissians (big blind) showed [Kd 3d] and lost with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717611629939261441-3-1676228865 - Holdem no limit (10/20) - 2023/02/12 19:07:45 UTC
+Table: 'Expresso Nitro(632743265)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mlk692 (590)
+Seat 2: _SKR (270)
+Seat 3: Venissians (40)
+*** ANTE/BLINDS ***
+Venissians posts small blind 10
+mlk692 posts big blind 20
+Dealt to _SKR [8c 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Venissians raises 20 to 40 and is all-in
+mlk692 calls 20
+*** FLOP *** [Kh 4d 6s]
+*** TURN *** [Kh 4d 6s][5h]
+*** RIVER *** [Kh 4d 6s 5h][9c]
+*** SHOW DOWN ***
+Venissians shows [Qs 3s] (High card : King)
+mlk692 shows [Js Jd] (One pair : Jacks)
+mlk692 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kh 4d 6s 5h 9c]
+Seat 1: mlk692 (big blind) showed [Js Jd] and won 80 with One pair : Jacks
+Seat 3: Venissians (small blind) showed [Qs 3s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717611629939261441-4-1676228886 - Holdem no limit (10/20) - 2023/02/12 19:08:06 UTC
+Table: 'Expresso Nitro(632743265)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mlk692 (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+mlk692 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c 4c]
+*** PRE-FLOP *** 
+mlk692 calls 10
+_SKR checks
+*** FLOP *** [Kc 2d Ad]
+_SKR checks
+mlk692 checks
+*** TURN *** [Kc 2d Ad][Qd]
+_SKR checks
+mlk692 checks
+*** RIVER *** [Kc 2d Ad Qd][Ts]
+_SKR checks
+mlk692 checks
+*** SHOW DOWN ***
+_SKR shows [2c 4c] (One pair : 2)
+mlk692 shows [6d Ks] (One pair : Kings)
+mlk692 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Kc 2d Ad Qd Ts]
+Seat 1: mlk692 (small blind) (button) showed [6d Ks] and won 40 with One pair : Kings
+Seat 2: _SKR (big blind) showed [2c 4c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717611629939261441-5-1676228916 - Holdem no limit (15/30) - 2023/02/12 19:08:36 UTC
+Table: 'Expresso Nitro(632743265)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mlk692 (650)
+Seat 2: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+mlk692 posts big blind 30
+Dealt to _SKR [3d 4c]
+*** PRE-FLOP *** 
+_SKR folds
+mlk692 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: mlk692 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717611629939261441-6-1676228922 - Holdem no limit (15/30) - 2023/02/12 19:08:42 UTC
+Table: 'Expresso Nitro(632743265)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mlk692 (665)
+Seat 2: _SKR (235)
+*** ANTE/BLINDS ***
+mlk692 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qd 4s]
+*** PRE-FLOP *** 
+mlk692 raises 635 to 665 and is all-in
+_SKR folds
+mlk692 collected 695 from pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Seat 1: mlk692 (small blind) (button) won 695
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717611629939261441-7-1676228929 - Holdem no limit (15/30) - 2023/02/12 19:08:49 UTC
+Table: 'Expresso Nitro(632743265)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mlk692 (695)
+Seat 2: _SKR (205)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+mlk692 posts big blind 30
+Dealt to _SKR [Jc 5d]
+*** PRE-FLOP *** 
+_SKR folds
+mlk692 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: mlk692 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717611629939261441-8-1676228933 - Holdem no limit (15/30) - 2023/02/12 19:08:53 UTC
+Table: 'Expresso Nitro(632743265)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mlk692 (710)
+Seat 2: _SKR (190)
+*** ANTE/BLINDS ***
+mlk692 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc Js]
+*** PRE-FLOP *** 
+mlk692 calls 15
+_SKR raises 160 to 190 and is all-in
+mlk692 calls 160
+*** FLOP *** [9h 6c Ac]
+*** TURN *** [9h 6c Ac][Kh]
+*** RIVER *** [9h 6c Ac Kh][3d]
+*** SHOW DOWN ***
+mlk692 shows [7s Tc] (High card : Ace)
+_SKR shows [Qc Js] (High card : Ace)
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [9h 6c Ac Kh 3d]
+Seat 1: mlk692 (small blind) (button) showed [7s Tc] and lost with High card : Ace
+Seat 2: _SKR (big blind) showed [Qc Js] and won 380 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717611629939261441-9-1676228949 - Holdem no limit (15/30) - 2023/02/12 19:09:09 UTC
+Table: 'Expresso Nitro(632743265)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mlk692 (520)
+Seat 2: _SKR (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+mlk692 posts big blind 30
+Dealt to _SKR [3s Qh]
+*** PRE-FLOP *** 
+_SKR folds
+mlk692 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: mlk692 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717611629939261441-10-1676228956 - Holdem no limit (20/40) - 2023/02/12 19:09:16 UTC
+Table: 'Expresso Nitro(632743265)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mlk692 (535)
+Seat 2: _SKR (365)
+*** ANTE/BLINDS ***
+mlk692 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qc Jh]
+*** PRE-FLOP *** 
+mlk692 raises 495 to 535 and is all-in
+_SKR calls 325 and is all-in
+*** FLOP *** [5s 3h Ad]
+*** TURN *** [5s 3h Ad][Ts]
+*** RIVER *** [5s 3h Ad Ts][8c]
+*** SHOW DOWN ***
+_SKR shows [Qc Jh] (High card : Ace)
+mlk692 shows [2d 4d] (Straight 5 high)
+mlk692 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s 3h Ad Ts 8c]
+Seat 1: mlk692 (small blind) (button) showed [2d 4d] and won 900 with Straight 5 high
+Seat 2: _SKR (big blind) showed [Qc Jh] and lost with High card : Ace
+
+

@@ -1,0 +1,141 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730609167344599041-1-1676988550 - Holdem no limit (10/20) - 2023/02/21 14:09:10 UTC
+Table: 'Expresso Nitro(635769490)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CoRupT (300)
+Seat 2: _Joli_Coeur_ (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_Joli_Coeur_ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3c 5h]
+*** PRE-FLOP *** 
+CoRupT calls 20
+_Joli_Coeur_ calls 10
+_SKR checks
+*** FLOP *** [Ac 8c Th]
+_Joli_Coeur_ checks
+_SKR checks
+CoRupT bets 30
+_Joli_Coeur_ calls 30
+_SKR folds
+*** TURN *** [Ac 8c Th][Js]
+_Joli_Coeur_ checks
+CoRupT bets 60
+_Joli_Coeur_ calls 60
+*** RIVER *** [Ac 8c Th Js][8s]
+_Joli_Coeur_ checks
+CoRupT bets 100
+_Joli_Coeur_ folds
+CoRupT collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Ac 8c Th Js 8s]
+Seat 1: CoRupT (button) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730609167344599041-2-1676988609 - Holdem no limit (15/30) - 2023/02/21 14:10:09 UTC
+Table: 'Expresso Nitro(635769490)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CoRupT (430)
+Seat 2: _Joli_Coeur_ (190)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+CoRupT posts big blind 30
+Dealt to _SKR [3s 2d]
+*** PRE-FLOP *** 
+_Joli_Coeur_ folds
+_SKR folds
+CoRupT collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: CoRupT (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730609167344599041-3-1676988614 - Holdem no limit (15/30) - 2023/02/21 14:10:14 UTC
+Table: 'Expresso Nitro(635769490)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CoRupT (445)
+Seat 2: _Joli_Coeur_ (190)
+Seat 3: _SKR (265)
+*** ANTE/BLINDS ***
+CoRupT posts small blind 15
+_Joli_Coeur_ posts big blind 30
+Dealt to _SKR [Kh 6s]
+*** PRE-FLOP *** 
+_SKR folds
+CoRupT calls 15
+_Joli_Coeur_ checks
+*** FLOP *** [5d 3s 3h]
+CoRupT bets 30
+_Joli_Coeur_ folds
+CoRupT collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5d 3s 3h]
+Seat 1: CoRupT (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2730609167344599041-4-1676988631 - Holdem no limit (15/30) - 2023/02/21 14:10:31 UTC
+Table: 'Expresso Nitro(635769490)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CoRupT (475)
+Seat 2: _Joli_Coeur_ (160)
+Seat 3: _SKR (265)
+*** ANTE/BLINDS ***
+_Joli_Coeur_ posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c 5s]
+*** PRE-FLOP *** 
+CoRupT calls 30
+_Joli_Coeur_ calls 15
+_SKR checks
+*** FLOP *** [2h 7d Kd]
+_Joli_Coeur_ checks
+_SKR checks
+CoRupT checks
+*** TURN *** [2h 7d Kd][2c]
+_Joli_Coeur_ checks
+_SKR checks
+CoRupT checks
+*** RIVER *** [2h 7d Kd 2c][6d]
+_Joli_Coeur_ checks
+_SKR checks
+CoRupT bets 30
+_Joli_Coeur_ raises 87 to 117
+_SKR folds
+CoRupT calls 87
+*** SHOW DOWN ***
+CoRupT shows [Js Ad] (One pair : 2)
+_Joli_Coeur_ shows [5d 3d] (Flush King high)
+_Joli_Coeur_ collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [2h 7d Kd 2c 6d]
+Seat 1: CoRupT (button) showed [Js Ad] and lost with One pair : 2
+Seat 2: _Joli_Coeur_ (small blind) showed [5d 3d] and won 324 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2730609167344599041-5-1676988705 - Holdem no limit (20/40) - 2023/02/21 14:11:45 UTC
+Table: 'Expresso Nitro(635769490)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CoRupT (328)
+Seat 2: _Joli_Coeur_ (337)
+Seat 3: _SKR (235)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+CoRupT posts big blind 40
+Dealt to _SKR [Js 8d]
+*** PRE-FLOP *** 
+_Joli_Coeur_ folds
+_SKR raises 195 to 235 and is all-in
+CoRupT raises 93 to 328 and is all-in
+*** FLOP *** [Kh 6d Qh]
+*** TURN *** [Kh 6d Qh][8c]
+*** RIVER *** [Kh 6d Qh 8c][5c]
+*** SHOW DOWN ***
+_SKR shows [Js 8d] (One pair : 8)
+CoRupT shows [Kd 5d] (Two pairs : Kings and 5)
+CoRupT collected 563 from pot
+*** SUMMARY ***
+Total pot 563 | No rake
+Board: [Kh 6d Qh 8c 5c]
+Seat 1: CoRupT (big blind) showed [Kd 5d] and won 563 with Two pairs : Kings and 5
+Seat 3: _SKR (small blind) showed [Js 8d] and lost with One pair : 8
+
+

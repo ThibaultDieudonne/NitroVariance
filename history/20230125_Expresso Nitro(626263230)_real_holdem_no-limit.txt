@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689780091537326081-1-1674651417 - Holdem no limit (10/20) - 2023/01/25 12:56:57 UTC
+Table: 'Expresso Nitro(626263230)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: siquieresnoh (300)
+Seat 3: chenicoooo (300)
+*** ANTE/BLINDS ***
+chenicoooo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c Jd]
+*** PRE-FLOP *** 
+siquieresnoh raises 280 to 300 and is all-in
+chenicoooo folds
+_SKR folds
+siquieresnoh collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: siquieresnoh (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689780091537326081-2-1674651425 - Holdem no limit (10/20) - 2023/01/25 12:57:05 UTC
+Table: 'Expresso Nitro(626263230)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: siquieresnoh (330)
+Seat 3: chenicoooo (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+siquieresnoh posts big blind 20
+Dealt to _SKR [5c Kh]
+*** PRE-FLOP *** 
+chenicoooo folds
+_SKR folds
+siquieresnoh collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: siquieresnoh (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689780091537326081-3-1674651429 - Holdem no limit (10/20) - 2023/01/25 12:57:09 UTC
+Table: 'Expresso Nitro(626263230)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: siquieresnoh (340)
+Seat 3: chenicoooo (290)
+*** ANTE/BLINDS ***
+siquieresnoh posts small blind 10
+chenicoooo posts big blind 20
+Dealt to _SKR [2s Jh]
+*** PRE-FLOP *** 
+_SKR folds
+siquieresnoh raises 320 to 340 and is all-in
+chenicoooo calls 270 and is all-in
+*** FLOP *** [3d Js 4s]
+*** TURN *** [3d Js 4s][Qd]
+*** RIVER *** [3d Js 4s Qd][2c]
+*** SHOW DOWN ***
+chenicoooo shows [Ah 6h] (High card : Ace)
+siquieresnoh shows [Qc As] (One pair : Queens)
+siquieresnoh collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [3d Js 4s Qd 2c]
+Seat 2: siquieresnoh (small blind) showed [Qc As] and won 630 with One pair : Queens
+Seat 3: chenicoooo (big blind) showed [Ah 6h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689780091537326081-4-1674651445 - Holdem no limit (10/20) - 2023/01/25 12:57:25 UTC
+Table: 'Expresso Nitro(626263230)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: siquieresnoh (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+siquieresnoh posts big blind 20
+Dealt to _SKR [7s 7h]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+siquieresnoh raises 360 to 630 and is all-in
+*** FLOP *** [3h Ac 6h]
+*** TURN *** [3h Ac 6h][8s]
+*** RIVER *** [3h Ac 6h 8s][Jh]
+*** SHOW DOWN ***
+_SKR shows [7s 7h] (One pair : 7)
+siquieresnoh shows [Jc 7c] (One pair : Jacks)
+siquieresnoh collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3h Ac 6h 8s Jh]
+Seat 1: _SKR (small blind) (button) showed [7s 7h] and lost with One pair : 7
+Seat 2: siquieresnoh (big blind) showed [Jc 7c] and won 900 with One pair : Jacks
+
+

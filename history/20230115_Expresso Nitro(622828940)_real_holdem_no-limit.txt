@@ -1,0 +1,382 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675029928302346241-1-1673740821 - Holdem no limit (10/20) - 2023/01/15 00:00:21 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Biboo1010 (300)
+Seat 2: Rosa8835RG (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Rosa8835RG posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h Jc]
+*** PRE-FLOP *** 
+Biboo1010 raises 50 to 70
+Rosa8835RG folds
+_SKR folds
+Biboo1010 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 1: Biboo1010 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675029928302346241-2-1673740830 - Holdem no limit (10/20) - 2023/01/15 00:00:30 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Biboo1010 (330)
+Seat 2: Rosa8835RG (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Biboo1010 posts big blind 20
+Dealt to _SKR [Js 3h]
+*** PRE-FLOP *** 
+Rosa8835RG calls 20
+_SKR folds
+Biboo1010 checks
+*** FLOP *** [Ks 3c 9h]
+Biboo1010 checks
+Rosa8835RG checks
+*** TURN *** [Ks 3c 9h][5c]
+Biboo1010 checks
+Rosa8835RG bets 50
+Biboo1010 calls 50
+*** RIVER *** [Ks 3c 9h 5c][5d]
+Biboo1010 bets 150
+Rosa8835RG calls 150
+*** SHOW DOWN ***
+Biboo1010 shows [Kc 7s] (Two pairs : Kings and 5)
+Rosa8835RG shows [Kd 9s] (Two pairs : Kings and 9)
+Rosa8835RG collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [Ks 3c 9h 5c 5d]
+Seat 1: Biboo1010 (big blind) showed [Kc 7s] and lost with Two pairs : Kings and 5
+Seat 2: Rosa8835RG (button) showed [Kd 9s] and won 450 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675029928302346241-3-1673740865 - Holdem no limit (10/20) - 2023/01/15 00:01:05 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Biboo1010 (110)
+Seat 2: Rosa8835RG (520)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Biboo1010 posts small blind 10
+Rosa8835RG posts big blind 20
+Dealt to _SKR [3c Tc]
+*** PRE-FLOP *** 
+_SKR folds
+Biboo1010 folds
+Rosa8835RG collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Rosa8835RG (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675029928302346241-4-1673740870 - Holdem no limit (10/20) - 2023/01/15 00:01:10 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Biboo1010 (100)
+Seat 2: Rosa8835RG (530)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Rosa8835RG posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jh Th]
+*** PRE-FLOP *** 
+Biboo1010 raises 80 to 100 and is all-in
+Rosa8835RG folds
+_SKR calls 80
+*** FLOP *** [7s Qh 4s]
+*** TURN *** [7s Qh 4s][As]
+*** RIVER *** [7s Qh 4s As][8d]
+*** SHOW DOWN ***
+_SKR shows [Jh Th] (High card : Ace)
+Biboo1010 shows [Tc Ts] (One pair : Tens)
+Biboo1010 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [7s Qh 4s As 8d]
+Seat 1: Biboo1010 (button) showed [Tc Ts] and won 210 with One pair : Tens
+Seat 3: _SKR (big blind) showed [Jh Th] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675029928302346241-5-1673740894 - Holdem no limit (15/30) - 2023/01/15 00:01:34 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Biboo1010 (210)
+Seat 2: Rosa8835RG (520)
+Seat 3: _SKR (170)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Biboo1010 posts big blind 30
+Dealt to _SKR [Qd Th]
+*** PRE-FLOP *** 
+Rosa8835RG calls 30
+_SKR raises 140 to 170 and is all-in
+Biboo1010 raises 40 to 210 and is all-in
+Rosa8835RG calls 180
+*** FLOP *** [Jc Kh Kd]
+*** TURN *** [Jc Kh Kd][4d]
+*** RIVER *** [Jc Kh Kd 4d][9s]
+*** SHOW DOWN ***
+Rosa8835RG shows [Ac 6s] (One pair : Kings)
+Biboo1010 shows [7c 7d] (Two pairs : Kings and 7)
+_SKR shows [Qd Th] (Straight King high)
+_SKR collected 510 from main pot
+Biboo1010 collected 80 from side pot 1
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Jc Kh Kd 4d 9s]
+Seat 1: Biboo1010 (big blind) showed [7c 7d] and won 80 with Two pairs : Kings and 7
+Seat 2: Rosa8835RG (button) showed [Ac 6s] and lost with One pair : Kings
+Seat 3: _SKR (small blind) showed [Qd Th] and won 510 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675029928302346241-6-1673740914 - Holdem no limit (15/30) - 2023/01/15 00:01:54 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Biboo1010 (80)
+Seat 2: Rosa8835RG (310)
+Seat 3: _SKR (510)
+*** ANTE/BLINDS ***
+Biboo1010 posts small blind 15
+Rosa8835RG posts big blind 30
+Dealt to _SKR [Th 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Biboo1010 calls 15
+Rosa8835RG checks
+*** FLOP *** [Kd Qs 9h]
+Biboo1010 bets 50 and is all-in
+Rosa8835RG calls 50
+*** TURN *** [Kd Qs 9h][8s]
+*** RIVER *** [Kd Qs 9h 8s][4c]
+*** SHOW DOWN ***
+Rosa8835RG shows [7h Ac] (High card : Ace)
+Biboo1010 shows [9d 7d] (One pair : 9)
+Biboo1010 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Kd Qs 9h 8s 4c]
+Seat 1: Biboo1010 (small blind) showed [9d 7d] and won 160 with One pair : 9
+Seat 2: Rosa8835RG (big blind) showed [7h Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675029928302346241-7-1673740944 - Holdem no limit (20/40) - 2023/01/15 00:02:24 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Biboo1010 (160)
+Seat 2: Rosa8835RG (230)
+Seat 3: _SKR (510)
+*** ANTE/BLINDS ***
+Rosa8835RG posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6h Kh]
+*** PRE-FLOP *** 
+Biboo1010 folds
+Rosa8835RG calls 20
+_SKR raises 470 to 510 and is all-in
+Rosa8835RG folds
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 3: _SKR (big blind) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675029928302346241-8-1673740957 - Holdem no limit (20/40) - 2023/01/15 00:02:37 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Biboo1010 (160)
+Seat 2: Rosa8835RG (190)
+Seat 3: _SKR (550)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Biboo1010 posts big blind 40
+Dealt to _SKR [Qs Jh]
+*** PRE-FLOP *** 
+Rosa8835RG folds
+_SKR raises 510 to 550 and is all-in
+Biboo1010 folds
+_SKR collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 3: _SKR (small blind) won 590
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675029928302346241-9-1673740965 - Holdem no limit (20/40) - 2023/01/15 00:02:45 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Biboo1010 (120)
+Seat 2: Rosa8835RG (190)
+Seat 3: _SKR (590)
+*** ANTE/BLINDS ***
+Biboo1010 posts small blind 20
+Rosa8835RG posts big blind 40
+Dealt to _SKR [4d Ts]
+*** PRE-FLOP *** 
+_SKR folds
+Biboo1010 raises 80 to 120 and is all-in
+Rosa8835RG folds
+Biboo1010 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: Biboo1010 (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675029928302346241-10-1673740973 - Holdem no limit (20/40) - 2023/01/15 00:02:53 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Biboo1010 (160)
+Seat 2: Rosa8835RG (150)
+Seat 3: _SKR (590)
+*** ANTE/BLINDS ***
+Rosa8835RG posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ah Tc]
+*** PRE-FLOP *** 
+Biboo1010 raises 120 to 160 and is all-in
+Rosa8835RG folds
+_SKR raises 430 to 590 and is all-in
+*** FLOP *** [8d 2h Jd]
+*** TURN *** [8d 2h Jd][5d]
+*** RIVER *** [8d 2h Jd 5d][2c]
+*** SHOW DOWN ***
+Biboo1010 shows [Th Kc] (One pair : 2)
+_SKR shows [Ah Tc] (One pair : 2)
+_SKR collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [8d 2h Jd 5d 2c]
+Seat 1: Biboo1010 (button) showed [Th Kc] and lost with One pair : 2
+Seat 3: _SKR (big blind) showed [Ah Tc] and won 770 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675029928302346241-11-1673740992 - Holdem no limit (20/40) - 2023/01/15 00:03:12 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Rosa8835RG (130)
+Seat 3: _SKR (770)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Rosa8835RG posts big blind 40
+Dealt to _SKR [5h 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Rosa8835RG collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Rosa8835RG (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675029928302346241-12-1673740996 - Holdem no limit (20/40) - 2023/01/15 00:03:16 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Rosa8835RG (150)
+Seat 3: _SKR (750)
+*** ANTE/BLINDS ***
+Rosa8835RG posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5s 4d]
+*** PRE-FLOP *** 
+Rosa8835RG raises 110 to 150 and is all-in
+_SKR folds
+Rosa8835RG collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Seat 2: Rosa8835RG (small blind) (button) won 190
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675029928302346241-13-1673741002 - Holdem no limit (30/60) - 2023/01/15 00:03:22 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Rosa8835RG (190)
+Seat 3: _SKR (710)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Rosa8835RG posts big blind 60
+Dealt to _SKR [7h 7c]
+*** PRE-FLOP *** 
+_SKR raises 650 to 710 and is all-in
+Rosa8835RG calls 130 and is all-in
+*** FLOP *** [Js Qh 9h]
+*** TURN *** [Js Qh 9h][Ks]
+*** RIVER *** [Js Qh 9h Ks][8h]
+*** SHOW DOWN ***
+Rosa8835RG shows [Ad 8s] (One pair : 8)
+_SKR shows [7h 7c] (One pair : 7)
+_SKR collected 520 from side pot 1
+Rosa8835RG collected 380 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js Qh 9h Ks 8h]
+Seat 2: Rosa8835RG (big blind) showed [Ad 8s] and won 380 with One pair : 8
+Seat 3: _SKR (small blind) (button) showed [7h 7c] and won 520 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675029928302346241-14-1673741016 - Holdem no limit (30/60) - 2023/01/15 00:03:36 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Rosa8835RG (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+Rosa8835RG posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2h Qs]
+*** PRE-FLOP *** 
+Rosa8835RG calls 30
+_SKR checks
+*** FLOP *** [Ad 5s Td]
+_SKR checks
+Rosa8835RG bets 120
+_SKR folds
+Rosa8835RG collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Ad 5s Td]
+Seat 2: Rosa8835RG (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675029928302346241-15-1673741029 - Holdem no limit (30/60) - 2023/01/15 00:03:49 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Rosa8835RG (440)
+Seat 3: _SKR (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Rosa8835RG posts big blind 60
+Dealt to _SKR [5c 6c]
+*** PRE-FLOP *** 
+_SKR raises 400 to 460 and is all-in
+Rosa8835RG folds
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 3: _SKR (small blind) (button) won 520
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675029928302346241-16-1673741033 - Holdem no limit (30/60) - 2023/01/15 00:03:53 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Rosa8835RG (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+Rosa8835RG posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [As 3s]
+*** PRE-FLOP *** 
+Rosa8835RG folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2675029928302346241-17-1673741037 - Holdem no limit (30/60) - 2023/01/15 00:03:57 UTC
+Table: 'Expresso Nitro(622828940)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Rosa8835RG (350)
+Seat 3: _SKR (550)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Rosa8835RG posts big blind 60
+Dealt to _SKR [Jd Jc]
+*** PRE-FLOP *** 
+_SKR raises 490 to 550 and is all-in
+Rosa8835RG calls 290 and is all-in
+*** FLOP *** [9s 4c 5h]
+*** TURN *** [9s 4c 5h][8s]
+*** RIVER *** [9s 4c 5h 8s][Td]
+*** SHOW DOWN ***
+Rosa8835RG shows [Qd Kc] (High card : King)
+_SKR shows [Jd Jc] (One pair : Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 4c 5h 8s Td]
+Seat 2: Rosa8835RG (big blind) showed [Qd Kc] and lost with High card : King
+Seat 3: _SKR (small blind) (button) showed [Jd Jc] and won 900 with One pair : Jacks
+
+

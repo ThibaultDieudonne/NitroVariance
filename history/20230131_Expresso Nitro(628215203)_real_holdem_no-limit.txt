@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698163751735001089-1-1675183630 - Holdem no limit (10/20) - 2023/01/31 16:47:10 UTC
+Table: 'Expresso Nitro(628215203)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zen_40859331 (300)
+Seat 2: _SKR (300)
+Seat 3: wptpoker (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+wptpoker posts big blind 20
+Dealt to _SKR [3s Ad]
+*** PRE-FLOP *** 
+zen_40859331 folds
+_SKR raises 280 to 300 and is all-in
+wptpoker folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698163751735001089-2-1675183644 - Holdem no limit (10/20) - 2023/01/31 16:47:24 UTC
+Table: 'Expresso Nitro(628215203)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zen_40859331 (300)
+Seat 2: _SKR (320)
+Seat 3: wptpoker (280)
+*** ANTE/BLINDS ***
+wptpoker posts small blind 10
+zen_40859331 posts big blind 20
+Dealt to _SKR [Th Ts]
+*** PRE-FLOP *** 
+_SKR raises 300 to 320 and is all-in
+wptpoker calls 270 and is all-in
+zen_40859331 calls 280 and is all-in
+*** FLOP *** [Kd 7d Ad]
+*** TURN *** [Kd 7d Ad][9c]
+*** RIVER *** [Kd 7d Ad 9c][Qc]
+*** SHOW DOWN ***
+zen_40859331 shows [Ah Qs] (Two pairs : Aces and Queens)
+_SKR shows [Th Ts] (One pair : Tens)
+wptpoker shows [9h 9d] (Trips of 9)
+wptpoker collected 840 from main pot
+_SKR collected 20 from side pot 2
+zen_40859331 collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd 7d Ad 9c Qc]
+Seat 1: zen_40859331 (big blind) showed [Ah Qs] and won 40 with Two pairs : Aces and Queens
+Seat 2: _SKR (button) showed [Th Ts] and won 20 with One pair : Tens
+Seat 3: wptpoker (small blind) showed [9h 9d] and won 840 with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698163751735001089-3-1675183660 - Holdem no limit (10/20) - 2023/01/31 16:47:40 UTC
+Table: 'Expresso Nitro(628215203)#0' 3-max (real money) Seat #3 is the button
+Seat 1: zen_40859331 (40)
+Seat 2: _SKR (20)
+Seat 3: wptpoker (840)
+*** ANTE/BLINDS ***
+zen_40859331 posts small blind 10
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [Jd Kh]
+*** PRE-FLOP *** 
+wptpoker folds
+zen_40859331 raises 20 to 40 and is all-in
+*** FLOP *** [Qh 4h 8s]
+*** TURN *** [Qh 4h 8s][As]
+*** RIVER *** [Qh 4h 8s As][8c]
+*** SHOW DOWN ***
+zen_40859331 shows [Js 7h] (One pair : 8)
+_SKR shows [Jd Kh] (One pair : 8)
+_SKR collected 40 from main pot
+zen_40859331 collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qh 4h 8s As 8c]
+Seat 1: zen_40859331 (small blind) showed [Js 7h] and won 20 with One pair : 8
+Seat 2: _SKR (big blind) showed [Jd Kh] and won 40 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698163751735001089-4-1675183672 - Holdem no limit (10/20) - 2023/01/31 16:47:52 UTC
+Table: 'Expresso Nitro(628215203)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zen_40859331 (20)
+Seat 2: _SKR (40)
+Seat 3: wptpoker (840)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+wptpoker posts big blind 20
+Dealt to _SKR [Jh 5c]
+*** PRE-FLOP *** 
+zen_40859331 calls 20 and is all-in
+_SKR raises 20 to 40 and is all-in
+wptpoker calls 20
+*** FLOP *** [3d Tc 4d]
+*** TURN *** [3d Tc 4d][Ah]
+*** RIVER *** [3d Tc 4d Ah][Qc]
+*** SHOW DOWN ***
+zen_40859331 shows [2c Js] (High card : Ace)
+_SKR shows [Jh 5c] (High card : Ace)
+wptpoker shows [8s Jc] (High card : Ace)
+wptpoker collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [3d Tc 4d Ah Qc]
+Seat 1: zen_40859331 (button) showed [2c Js] and lost with High card : Ace
+Seat 2: _SKR (small blind) showed [Jh 5c] and lost with High card : Ace
+Seat 3: wptpoker (big blind) showed [8s Jc] and won 100 with High card : Ace
+
+

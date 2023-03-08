@@ -1,0 +1,288 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689824832211648513-1-1674654189 - Holdem no limit (10/20) - 2023/01/25 13:43:09 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Milixe22 (300)
+Seat 2: bidou 78 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+bidou 78 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td 7h]
+*** PRE-FLOP *** 
+Milixe22 calls 20
+bidou 78 folds
+_SKR checks
+*** FLOP *** [Jh Jc Kc]
+_SKR checks
+Milixe22 checks
+*** TURN *** [Jh Jc Kc][Js]
+_SKR checks
+Milixe22 checks
+*** RIVER *** [Jh Jc Kc Js][Jd]
+_SKR checks
+Milixe22 checks
+*** SHOW DOWN ***
+Milixe22 shows [9c 9s] (Quads of Jacks)
+_SKR shows [Td 7h] (Quads of Jacks)
+_SKR collected 25 from pot
+Milixe22 collected 25 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Jh Jc Kc Js Jd]
+Seat 1: Milixe22 (button) showed [9c 9s] and won 25 with Quads of Jacks
+Seat 3: _SKR (big blind) showed [Td 7h] and won 25 with Quads of Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689824832211648513-2-1674654233 - Holdem no limit (10/20) - 2023/01/25 13:43:53 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Milixe22 (305)
+Seat 2: bidou 78 (290)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Milixe22 posts big blind 20
+Dealt to _SKR [Td Qc]
+*** PRE-FLOP *** 
+bidou 78 calls 20
+_SKR raises 285 to 305 and is all-in
+Milixe22 folds
+bidou 78 folds
+_SKR collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 3: _SKR (small blind) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689824832211648513-3-1674654247 - Holdem no limit (15/30) - 2023/01/25 13:44:07 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Milixe22 (285)
+Seat 2: bidou 78 (270)
+Seat 3: _SKR (345)
+*** ANTE/BLINDS ***
+Milixe22 posts small blind 15
+bidou 78 posts big blind 30
+Dealt to _SKR [3d Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Milixe22 calls 15
+bidou 78 checks
+*** FLOP *** [Ad 7c Ts]
+Milixe22 checks
+bidou 78 checks
+*** TURN *** [Ad 7c Ts][2c]
+Milixe22 checks
+bidou 78 checks
+*** RIVER *** [Ad 7c Ts 2c][9h]
+Milixe22 bets 60
+bidou 78 calls 60
+*** SHOW DOWN ***
+Milixe22 shows [Kc 8c] (High card : Ace)
+bidou 78 shows [Jh 9c] (One pair : 9)
+bidou 78 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ad 7c Ts 2c 9h]
+Seat 1: Milixe22 (small blind) showed [Kc 8c] and lost with High card : Ace
+Seat 2: bidou 78 (big blind) showed [Jh 9c] and won 180 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689824832211648513-4-1674654270 - Holdem no limit (15/30) - 2023/01/25 13:44:30 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Milixe22 (195)
+Seat 2: bidou 78 (360)
+Seat 3: _SKR (345)
+*** ANTE/BLINDS ***
+bidou 78 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6s 7s]
+*** PRE-FLOP *** 
+Milixe22 calls 30
+bidou 78 calls 15
+_SKR checks
+*** FLOP *** [Qd 9c 8s]
+bidou 78 checks
+_SKR checks
+Milixe22 checks
+*** TURN *** [Qd 9c 8s][5d]
+bidou 78 bets 90
+_SKR calls 90
+Milixe22 folds
+*** RIVER *** [Qd 9c 8s 5d][Ad]
+bidou 78 checks
+_SKR bets 225 and is all-in
+bidou 78 folds
+_SKR collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [Qd 9c 8s 5d Ad]
+Seat 3: _SKR (big blind) won 495
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689824832211648513-5-1674654312 - Holdem no limit (20/40) - 2023/01/25 13:45:12 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Milixe22 (165)
+Seat 2: bidou 78 (240)
+Seat 3: _SKR (495)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Milixe22 posts big blind 40
+Dealt to _SKR [Td Qc]
+*** PRE-FLOP *** 
+bidou 78 folds
+_SKR raises 455 to 495 and is all-in
+Milixe22 calls 125 and is all-in
+*** FLOP *** [7h Jh 7c]
+*** TURN *** [7h Jh 7c][Kh]
+*** RIVER *** [7h Jh 7c Kh][Kc]
+*** SHOW DOWN ***
+Milixe22 shows [6h As] (Two pairs : Kings and 7)
+_SKR shows [Td Qc] (Two pairs : Kings and 7)
+_SKR collected 330 from side pot 1
+Milixe22 collected 330 from main pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [7h Jh 7c Kh Kc]
+Seat 1: Milixe22 (big blind) showed [6h As] and won 330 with Two pairs : Kings and 7
+Seat 3: _SKR (small blind) showed [Td Qc] and won 330 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689824832211648513-6-1674654326 - Holdem no limit (20/40) - 2023/01/25 13:45:26 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Milixe22 (330)
+Seat 2: bidou 78 (240)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+Milixe22 posts small blind 20
+bidou 78 posts big blind 40
+Dealt to _SKR [8c 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Milixe22 calls 20
+bidou 78 checks
+*** FLOP *** [Jd 9h 2d]
+Milixe22 checks
+bidou 78 bets 200 and is all-in
+Milixe22 folds
+bidou 78 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Jd 9h 2d]
+Seat 2: bidou 78 (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689824832211648513-7-1674654344 - Holdem no limit (20/40) - 2023/01/25 13:45:44 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Milixe22 (290)
+Seat 2: bidou 78 (280)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+bidou 78 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3s 5d]
+*** PRE-FLOP *** 
+Milixe22 calls 40
+bidou 78 calls 20
+_SKR checks
+*** FLOP *** [7d Td 6c]
+bidou 78 bets 240 and is all-in
+_SKR folds
+Milixe22 calls 240
+*** TURN *** [7d Td 6c][Jh]
+*** RIVER *** [7d Td 6c Jh][5h]
+*** SHOW DOWN ***
+bidou 78 shows [8s 6s] (One pair : 6)
+Milixe22 shows [6h As] (One pair : 6)
+Milixe22 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7d Td 6c Jh 5h]
+Seat 1: Milixe22 (button) showed [6h As] and won 600 with One pair : 6
+Seat 2: bidou 78 (small blind) showed [8s 6s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689824832211648513-8-1674654385 - Holdem no limit (30/60) - 2023/01/25 13:46:25 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Milixe22 (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Milixe22 posts big blind 60
+Dealt to _SKR [Jc Kh]
+*** PRE-FLOP *** 
+_SKR raises 230 to 290 and is all-in
+Milixe22 folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: _SKR (small blind) (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689824832211648513-9-1674654402 - Holdem no limit (30/60) - 2023/01/25 13:46:42 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Milixe22 (550)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+Milixe22 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c 4c]
+*** PRE-FLOP *** 
+Milixe22 calls 30
+_SKR checks
+*** FLOP *** [8s 7h 9s]
+_SKR checks
+Milixe22 checks
+*** TURN *** [8s 7h 9s][Qh]
+_SKR checks
+Milixe22 checks
+*** RIVER *** [8s 7h 9s Qh][6d]
+_SKR checks
+Milixe22 bets 120
+_SKR folds
+Milixe22 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8s 7h 9s Qh 6d]
+Seat 1: Milixe22 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2689824832211648513-10-1674654448 - Holdem no limit (40/80) - 2023/01/25 13:47:28 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Milixe22 (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Milixe22 posts big blind 80
+Dealt to _SKR [6c 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Milixe22 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Milixe22 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2689824832211648513-11-1674654451 - Holdem no limit (40/80) - 2023/01/25 13:47:31 UTC
+Table: 'Expresso Nitro(626273647)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Milixe22 (650)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+Milixe22 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Qh Qc]
+*** PRE-FLOP *** 
+Milixe22 calls 40
+_SKR raises 170 to 250 and is all-in
+Milixe22 calls 170
+*** FLOP *** [Jc 7c Td]
+*** TURN *** [Jc 7c Td][Jd]
+*** RIVER *** [Jc 7c Td Jd][2d]
+*** SHOW DOWN ***
+_SKR shows [Qh Qc] (Two pairs : Queens and Jacks)
+Milixe22 shows [Ts Th] (Full of Tens and Jacks)
+Milixe22 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Jc 7c Td Jd 2d]
+Seat 1: Milixe22 (small blind) (button) showed [Ts Th] and won 500 with Full of Tens and Jacks
+Seat 3: _SKR (big blind) showed [Qh Qc] and lost with Two pairs : Queens and Jacks
+
+

@@ -1,0 +1,447 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689877522870435841-1-1674657198 - Holdem no limit (10/20) - 2023/01/25 14:33:18 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Annaduch (300)
+Seat 3: samuelsim (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Annaduch posts big blind 20
+Dealt to _SKR [9h 3h]
+*** PRE-FLOP *** 
+samuelsim calls 20
+_SKR folds
+Annaduch checks
+*** FLOP *** [Ah 2s 5d]
+Annaduch bets 20
+samuelsim calls 20
+*** TURN *** [Ah 2s 5d][3c]
+Annaduch bets 59
+samuelsim calls 59
+*** RIVER *** [Ah 2s 5d 3c][4d]
+Annaduch bets 201 and is all-in
+samuelsim calls 201 and is all-in
+*** SHOW DOWN ***
+Annaduch shows [5c Jc] (Straight 5 high)
+samuelsim shows [Th As] (Straight 5 high)
+samuelsim collected 305 from pot
+Annaduch collected 305 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Ah 2s 5d 3c 4d]
+Seat 2: Annaduch (big blind) showed [5c Jc] and won 305 with Straight 5 high
+Seat 3: samuelsim (button) showed [Th As] and won 305 with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689877522870435841-2-1674657225 - Holdem no limit (10/20) - 2023/01/25 14:33:45 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Annaduch (305)
+Seat 3: samuelsim (305)
+*** ANTE/BLINDS ***
+Annaduch posts small blind 10
+samuelsim posts big blind 20
+Dealt to _SKR [6d Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Annaduch calls 10
+samuelsim checks
+*** FLOP *** [4d 9c 8h]
+Annaduch checks
+samuelsim checks
+*** TURN *** [4d 9c 8h][3c]
+Annaduch checks
+samuelsim checks
+*** RIVER *** [4d 9c 8h 3c][Ks]
+Annaduch checks
+samuelsim bets 20
+Annaduch calls 20
+*** SHOW DOWN ***
+Annaduch shows [Tc 5h] (High card : King)
+samuelsim shows [2c Qs] (High card : King)
+samuelsim collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4d 9c 8h 3c Ks]
+Seat 2: Annaduch (small blind) showed [Tc 5h] and lost with High card : King
+Seat 3: samuelsim (big blind) showed [2c Qs] and won 80 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689877522870435841-3-1674657260 - Holdem no limit (15/30) - 2023/01/25 14:34:20 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Annaduch (265)
+Seat 3: samuelsim (345)
+*** ANTE/BLINDS ***
+samuelsim posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6d Th]
+*** PRE-FLOP *** 
+Annaduch calls 30
+samuelsim calls 15
+_SKR checks
+*** FLOP *** [Qs Qd Ad]
+samuelsim checks
+_SKR checks
+Annaduch checks
+*** TURN *** [Qs Qd Ad][5h]
+samuelsim checks
+_SKR checks
+Annaduch checks
+*** RIVER *** [Qs Qd Ad 5h][6c]
+samuelsim checks
+_SKR checks
+Annaduch checks
+*** SHOW DOWN ***
+Annaduch shows [9s Tc] (One pair : Queens)
+_SKR shows [6d Th] (Two pairs : Queens and 6)
+samuelsim shows [Kh 6h] (Two pairs : Queens and 6)
+samuelsim collected 45 from pot
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qs Qd Ad 5h 6c]
+Seat 1: _SKR (big blind) showed [6d Th] and won 45 with Two pairs : Queens and 6
+Seat 2: Annaduch (button) showed [9s Tc] and lost with One pair : Queens
+Seat 3: samuelsim (small blind) showed [Kh 6h] and won 45 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689877522870435841-4-1674657315 - Holdem no limit (20/40) - 2023/01/25 14:35:15 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (305)
+Seat 2: Annaduch (235)
+Seat 3: samuelsim (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Annaduch posts big blind 40
+Dealt to _SKR [7c Ad]
+*** PRE-FLOP *** 
+samuelsim folds
+_SKR raises 265 to 305 and is all-in
+Annaduch folds
+_SKR collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 1: _SKR (small blind) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689877522870435841-5-1674657324 - Holdem no limit (20/40) - 2023/01/25 14:35:24 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (345)
+Seat 2: Annaduch (195)
+Seat 3: samuelsim (360)
+*** ANTE/BLINDS ***
+Annaduch posts small blind 20
+samuelsim posts big blind 40
+Dealt to _SKR [6d Ah]
+*** PRE-FLOP *** 
+_SKR raises 305 to 345 and is all-in
+Annaduch calls 175 and is all-in
+samuelsim folds
+*** FLOP *** [7h Ad Kc]
+*** TURN *** [7h Ad Kc][Jc]
+*** RIVER *** [7h Ad Kc Jc][7c]
+*** SHOW DOWN ***
+Annaduch shows [2s 2d] (Two pairs : 7 and 2)
+_SKR shows [6d Ah] (Two pairs : Aces and 7)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [7h Ad Kc Jc 7c]
+Seat 1: _SKR (button) showed [6d Ah] and won 580 with Two pairs : Aces and 7
+Seat 2: Annaduch (small blind) showed [2s 2d] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689877522870435841-6-1674657344 - Holdem no limit (20/40) - 2023/01/25 14:35:44 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (580)
+Seat 3: samuelsim (320)
+*** ANTE/BLINDS ***
+samuelsim posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qs 7h]
+*** PRE-FLOP *** 
+samuelsim raises 80 to 120
+_SKR calls 80
+*** FLOP *** [8h 6c 7d]
+_SKR checks
+samuelsim checks
+*** TURN *** [8h 6c 7d][Kc]
+_SKR checks
+samuelsim checks
+*** RIVER *** [8h 6c 7d Kc][2c]
+_SKR checks
+samuelsim bets 156
+_SKR calls 156
+*** SHOW DOWN ***
+_SKR shows [Qs 7h] (One pair : 7)
+samuelsim shows [Jc Ac] (Flush Ace high)
+samuelsim collected 552 from pot
+*** SUMMARY ***
+Total pot 552 | No rake
+Board: [8h 6c 7d Kc 2c]
+Seat 1: _SKR (big blind) showed [Qs 7h] and lost with One pair : 7
+Seat 3: samuelsim (small blind) (button) showed [Jc Ac] and won 552 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689877522870435841-7-1674657376 - Holdem no limit (30/60) - 2023/01/25 14:36:16 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (304)
+Seat 3: samuelsim (596)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+samuelsim posts big blind 60
+Dealt to _SKR [9c 3h]
+*** PRE-FLOP *** 
+_SKR folds
+samuelsim collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: samuelsim (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689877522870435841-8-1674657387 - Holdem no limit (30/60) - 2023/01/25 14:36:27 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (274)
+Seat 3: samuelsim (626)
+*** ANTE/BLINDS ***
+samuelsim posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9s 4h]
+*** PRE-FLOP *** 
+samuelsim calls 30
+_SKR checks
+*** FLOP *** [9d Kc Ks]
+_SKR checks
+samuelsim checks
+*** TURN *** [9d Kc Ks][Th]
+_SKR checks
+samuelsim bets 60
+_SKR folds
+samuelsim collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9d Kc Ks Th]
+Seat 3: samuelsim (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689877522870435841-9-1674657420 - Holdem no limit (30/60) - 2023/01/25 14:37:00 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (214)
+Seat 3: samuelsim (686)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+samuelsim posts big blind 60
+Dealt to _SKR [Td Qd]
+*** PRE-FLOP *** 
+_SKR raises 154 to 214 and is all-in
+samuelsim calls 154
+*** FLOP *** [Ad 8s Th]
+*** TURN *** [Ad 8s Th][3d]
+*** RIVER *** [Ad 8s Th 3d][5s]
+*** SHOW DOWN ***
+samuelsim shows [4h 3h] (One pair : 3)
+_SKR shows [Td Qd] (One pair : Tens)
+_SKR collected 428 from pot
+*** SUMMARY ***
+Total pot 428 | No rake
+Board: [Ad 8s Th 3d 5s]
+Seat 1: _SKR (small blind) (button) showed [Td Qd] and won 428 with One pair : Tens
+Seat 3: samuelsim (big blind) showed [4h 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2689877522870435841-10-1674657445 - Holdem no limit (40/80) - 2023/01/25 14:37:25 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (428)
+Seat 3: samuelsim (472)
+*** ANTE/BLINDS ***
+samuelsim posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Tc 4h]
+*** PRE-FLOP *** 
+samuelsim calls 40
+_SKR checks
+*** FLOP *** [8c 9c 3c]
+_SKR checks
+samuelsim bets 80
+_SKR folds
+samuelsim collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8c 9c 3c]
+Seat 3: samuelsim (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2689877522870435841-11-1674657469 - Holdem no limit (40/80) - 2023/01/25 14:37:49 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (348)
+Seat 3: samuelsim (552)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+samuelsim posts big blind 80
+Dealt to _SKR [Td 9h]
+*** PRE-FLOP *** 
+_SKR raises 268 to 348 and is all-in
+samuelsim folds
+_SKR collected 428 from pot
+*** SUMMARY ***
+Total pot 428 | No rake
+Seat 1: _SKR (small blind) (button) won 428
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2689877522870435841-12-1674657475 - Holdem no limit (40/80) - 2023/01/25 14:37:55 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (428)
+Seat 3: samuelsim (472)
+*** ANTE/BLINDS ***
+samuelsim posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Qd Ac]
+*** PRE-FLOP *** 
+samuelsim calls 40
+_SKR raises 348 to 428 and is all-in
+samuelsim calls 348
+*** FLOP *** [Ah 9s 7s]
+*** TURN *** [Ah 9s 7s][Qc]
+*** RIVER *** [Ah 9s 7s Qc][Qs]
+*** SHOW DOWN ***
+samuelsim shows [Qh 7h] (Full of Queens and 7)
+_SKR shows [Qd Ac] (Full of Queens and Aces)
+_SKR collected 856 from pot
+*** SUMMARY ***
+Total pot 856 | No rake
+Board: [Ah 9s 7s Qc Qs]
+Seat 1: _SKR (big blind) showed [Qd Ac] and won 856 with Full of Queens and Aces
+Seat 3: samuelsim (small blind) (button) showed [Qh 7h] and lost with Full of Queens and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2689877522870435841-13-1674657490 - Holdem no limit (40/80) - 2023/01/25 14:38:10 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (856)
+Seat 3: samuelsim (44)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+samuelsim posts big blind 44 and is all-in
+Dealt to _SKR [Jh Ks]
+*** PRE-FLOP *** 
+_SKR calls 40
+*** FLOP *** [2d 7c 4s]
+*** TURN *** [2d 7c 4s][Ah]
+*** RIVER *** [2d 7c 4s Ah][9s]
+*** SHOW DOWN ***
+_SKR shows [Jh Ks] (High card : Ace)
+samuelsim shows [Jc 2c] (One pair : 2)
+samuelsim collected 88 from main pot
+_SKR collected 36 from side pot 1
+*** SUMMARY ***
+Total pot 124 | No rake
+Board: [2d 7c 4s Ah 9s]
+Seat 1: _SKR (small blind) (button) showed [Jh Ks] and won 36 with High card : Ace
+Seat 3: samuelsim (big blind) showed [Jc 2c] and won 88 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2689877522870435841-14-1674657500 - Holdem no limit (50/100) - 2023/01/25 14:38:20 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (812)
+Seat 3: samuelsim (88)
+*** ANTE/BLINDS ***
+samuelsim posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [Td As]
+*** PRE-FLOP *** 
+samuelsim calls 38 and is all-in
+*** FLOP *** [9s 5c Tc]
+*** TURN *** [9s 5c Tc][Qs]
+*** RIVER *** [9s 5c Tc Qs][Jc]
+*** SHOW DOWN ***
+_SKR shows [Td As] (One pair : Tens)
+samuelsim shows [Jh 3h] (One pair : Jacks)
+samuelsim collected 176 from main pot
+_SKR collected 12 from side pot 1
+*** SUMMARY ***
+Total pot 188 | No rake
+Board: [9s 5c Tc Qs Jc]
+Seat 1: _SKR (big blind) showed [Td As] and won 12 with One pair : Tens
+Seat 3: samuelsim (small blind) (button) showed [Jh 3h] and won 176 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2689877522870435841-15-1674657510 - Holdem no limit (50/100) - 2023/01/25 14:38:30 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (724)
+Seat 3: samuelsim (176)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+samuelsim posts big blind 100
+Dealt to _SKR [4s Js]
+*** PRE-FLOP *** 
+_SKR raises 624 to 724 and is all-in
+samuelsim calls 76 and is all-in
+*** FLOP *** [6h 5h 3s]
+*** TURN *** [6h 5h 3s][2h]
+*** RIVER *** [6h 5h 3s 2h][4d]
+*** SHOW DOWN ***
+_SKR shows [4s Js] (Straight 6 high)
+samuelsim shows [7c 9d] (Straight 7 high)
+samuelsim collected 352 from main pot
+_SKR collected 548 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6h 5h 3s 2h 4d]
+Seat 1: _SKR (small blind) (button) showed [4s Js] and won 548 with Straight 6 high
+Seat 3: samuelsim (big blind) showed [7c 9d] and won 352 with Straight 7 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2689877522870435841-16-1674657521 - Holdem no limit (50/100) - 2023/01/25 14:38:41 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (548)
+Seat 3: samuelsim (352)
+*** ANTE/BLINDS ***
+samuelsim posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [7h Ts]
+*** PRE-FLOP *** 
+samuelsim calls 50
+_SKR checks
+*** FLOP *** [7s Qs Js]
+_SKR checks
+samuelsim bets 100
+_SKR raises 348 to 448 and is all-in
+samuelsim calls 152 and is all-in
+*** TURN *** [7s Qs Js][8c]
+*** RIVER *** [7s Qs Js 8c][Td]
+*** SHOW DOWN ***
+_SKR shows [7h Ts] (Two pairs : Tens and 7)
+samuelsim shows [8h Qd] (Two pairs : Queens and 8)
+samuelsim collected 704 from main pot
+_SKR collected 196 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s Qs Js 8c Td]
+Seat 1: _SKR (big blind) showed [7h Ts] and won 196 with Two pairs : Tens and 7
+Seat 3: samuelsim (small blind) (button) showed [8h Qd] and won 704 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2689877522870435841-17-1674657538 - Holdem no limit (50/100) - 2023/01/25 14:38:58 UTC
+Table: 'Expresso Nitro(626285915)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (196)
+Seat 3: samuelsim (704)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+samuelsim posts big blind 100
+Dealt to _SKR [Jh Ts]
+*** PRE-FLOP *** 
+_SKR raises 96 to 196 and is all-in
+samuelsim calls 96
+*** FLOP *** [Qd Qs 4h]
+*** TURN *** [Qd Qs 4h][Jd]
+*** RIVER *** [Qd Qs 4h Jd][Td]
+*** SHOW DOWN ***
+_SKR shows [Jh Ts] (Two pairs : Queens and Jacks)
+samuelsim shows [3d 5d] (Flush Queen high)
+samuelsim collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | No rake
+Board: [Qd Qs 4h Jd Td]
+Seat 1: _SKR (small blind) (button) showed [Jh Ts] and lost with Two pairs : Queens and Jacks
+Seat 3: samuelsim (big blind) showed [3d 5d] and won 392 with Flush Queen high
+
+

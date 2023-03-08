@@ -1,0 +1,280 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671077068036374529-1-1673529957 - Holdem no limit (10/20) - 2023/01/12 13:25:57 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: smol nezuko (300)
+Seat 3: Burbe80 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+smol nezuko posts big blind 20
+Dealt to _SKR [2d 7h]
+*** PRE-FLOP *** 
+Burbe80 folds
+_SKR folds
+smol nezuko collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: smol nezuko (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671077068036374529-2-1673529961 - Holdem no limit (10/20) - 2023/01/12 13:26:01 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: smol nezuko (310)
+Seat 3: Burbe80 (300)
+*** ANTE/BLINDS ***
+smol nezuko posts small blind 10
+Burbe80 posts big blind 20
+Dealt to _SKR [8c 8d]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+smol nezuko raises 20 to 310 and is all-in
+Burbe80 folds
+*** FLOP *** [7c 6s 5h]
+*** TURN *** [7c 6s 5h][9c]
+*** RIVER *** [7c 6s 5h 9c][5c]
+*** SHOW DOWN ***
+_SKR shows [8c 8d] (Straight 9 high)
+smol nezuko shows [Js Ac] (One pair : 5)
+smol nezuko collected 20 from side pot 1
+_SKR collected 600 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [7c 6s 5h 9c 5c]
+Seat 1: _SKR (button) showed [8c 8d] and won 600 with Straight 9 high
+Seat 2: smol nezuko (small blind) showed [Js Ac] and won 20 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671077068036374529-3-1673530003 - Holdem no limit (10/20) - 2023/01/12 13:26:43 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (600)
+Seat 2: smol nezuko (20)
+Seat 3: Burbe80 (280)
+*** ANTE/BLINDS ***
+Burbe80 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c 4s]
+*** PRE-FLOP *** 
+smol nezuko calls 20 and is all-in
+Burbe80 calls 10
+_SKR checks
+*** FLOP *** [6s 8d Jh]
+Burbe80 bets 20
+_SKR calls 20
+*** TURN *** [6s 8d Jh][5c]
+Burbe80 bets 20
+_SKR calls 20
+*** RIVER *** [6s 8d Jh 5c][Ad]
+Burbe80 bets 49
+_SKR folds
+*** SHOW DOWN ***
+smol nezuko shows [Kh Ac] (One pair : Aces)
+Burbe80 shows [Ks Jd] (One pair : Jacks)
+Burbe80 collected 129 from side pot 1
+smol nezuko collected 60 from main pot
+*** SUMMARY ***
+Total pot 189 | No rake
+Board: [6s 8d Jh 5c Ad]
+Seat 2: smol nezuko (button) showed [Kh Ac] and won 60 with One pair : Aces
+Seat 3: Burbe80 (small blind) showed [Ks Jd] and won 129 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671077068036374529-4-1673530021 - Holdem no limit (15/30) - 2023/01/12 13:27:01 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (540)
+Seat 2: smol nezuko (60)
+Seat 3: Burbe80 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+smol nezuko posts big blind 30
+Dealt to _SKR [Qs Jc]
+*** PRE-FLOP *** 
+Burbe80 calls 30
+_SKR calls 15
+smol nezuko raises 30 to 60 and is all-in
+Burbe80 calls 30
+_SKR calls 30
+*** FLOP *** [9s Ah 2h]
+_SKR checks
+Burbe80 bets 30
+_SKR folds
+*** TURN *** [9s Ah 2h][As]
+*** RIVER *** [9s Ah 2h As][4c]
+*** SHOW DOWN ***
+smol nezuko shows [Td Qh] (One pair : Aces)
+Burbe80 shows [Js 4h] (Two pairs : Aces and 4)
+Burbe80 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [9s Ah 2h As 4c]
+Seat 2: smol nezuko (big blind) showed [Td Qh] and lost with One pair : Aces
+Seat 3: Burbe80 (button) showed [Js 4h] and won 210 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671077068036374529-5-1673530046 - Holdem no limit (15/30) - 2023/01/12 13:27:26 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (480)
+Seat 3: Burbe80 (420)
+*** ANTE/BLINDS ***
+Burbe80 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3d 4d]
+*** PRE-FLOP *** 
+Burbe80 calls 15
+_SKR checks
+*** FLOP *** [2d 9s Th]
+_SKR checks
+Burbe80 bets 30
+_SKR folds
+Burbe80 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [2d 9s Th]
+Seat 3: Burbe80 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671077068036374529-6-1673530063 - Holdem no limit (15/30) - 2023/01/12 13:27:43 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (450)
+Seat 3: Burbe80 (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Burbe80 posts big blind 30
+Dealt to _SKR [Ts 9c]
+*** PRE-FLOP *** 
+_SKR calls 15
+Burbe80 raises 30 to 60
+_SKR calls 30
+*** FLOP *** [Qh 7h 4c]
+Burbe80 bets 30
+_SKR folds
+Burbe80 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Qh 7h 4c]
+Seat 3: Burbe80 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671077068036374529-7-1673530080 - Holdem no limit (20/40) - 2023/01/12 13:28:00 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (390)
+Seat 3: Burbe80 (510)
+*** ANTE/BLINDS ***
+Burbe80 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9s 4d]
+*** PRE-FLOP *** 
+Burbe80 calls 20
+_SKR checks
+*** FLOP *** [Qd Qs 3d]
+_SKR checks
+Burbe80 checks
+*** TURN *** [Qd Qs 3d][Kc]
+_SKR checks
+Burbe80 bets 40
+_SKR folds
+Burbe80 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qd Qs 3d Kc]
+Seat 3: Burbe80 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671077068036374529-8-1673530098 - Holdem no limit (20/40) - 2023/01/12 13:28:18 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (350)
+Seat 3: Burbe80 (550)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Burbe80 posts big blind 40
+Dealt to _SKR [4s 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Burbe80 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Burbe80 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671077068036374529-9-1673530104 - Holdem no limit (20/40) - 2023/01/12 13:28:24 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 3: Burbe80 (570)
+*** ANTE/BLINDS ***
+Burbe80 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc 7c]
+*** PRE-FLOP *** 
+Burbe80 calls 20
+_SKR raises 290 to 330 and is all-in
+Burbe80 calls 290
+*** FLOP *** [5h 6c 2s]
+*** TURN *** [5h 6c 2s][9c]
+*** RIVER *** [5h 6c 2s 9c][8d]
+*** SHOW DOWN ***
+Burbe80 shows [6d Qh] (One pair : 6)
+_SKR shows [Kc 7c] (Straight 9 high)
+_SKR collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [5h 6c 2s 9c 8d]
+Seat 1: _SKR (big blind) showed [Kc 7c] and won 660 with Straight 9 high
+Seat 3: Burbe80 (small blind) (button) showed [6d Qh] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671077068036374529-10-1673530124 - Holdem no limit (20/40) - 2023/01/12 13:28:44 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (660)
+Seat 3: Burbe80 (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Burbe80 posts big blind 40
+Dealt to _SKR [Js 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Burbe80 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Burbe80 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671077068036374529-11-1673530129 - Holdem no limit (20/40) - 2023/01/12 13:28:49 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (640)
+Seat 3: Burbe80 (260)
+*** ANTE/BLINDS ***
+Burbe80 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh 3d]
+*** PRE-FLOP *** 
+Burbe80 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2671077068036374529-12-1673530133 - Holdem no limit (30/60) - 2023/01/12 13:28:53 UTC
+Table: 'Expresso Nitro(621908593)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (660)
+Seat 3: Burbe80 (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Burbe80 posts big blind 60
+Dealt to _SKR [6s 6c]
+*** PRE-FLOP *** 
+_SKR raises 600 to 660 and is all-in
+Burbe80 calls 180 and is all-in
+*** FLOP *** [4h Ts Jh]
+*** TURN *** [4h Ts Jh][Jd]
+*** RIVER *** [4h Ts Jh Jd][Kd]
+*** SHOW DOWN ***
+Burbe80 shows [Qc 6h] (One pair : Jacks)
+_SKR shows [6s 6c] (Two pairs : Jacks and 6)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h Ts Jh Jd Kd]
+Seat 1: _SKR (small blind) (button) showed [6s 6c] and won 900 with Two pairs : Jacks and 6
+Seat 3: Burbe80 (big blind) showed [Qc 6h] and lost with One pair : Jacks
+
+

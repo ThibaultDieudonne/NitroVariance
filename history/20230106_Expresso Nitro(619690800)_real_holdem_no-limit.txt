@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661551719632076801-1-1673018619 - Holdem no limit (10/20) - 2023/01/06 15:23:39 UTC
+Table: 'Expresso Nitro(619690800)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ben McPich (300)
+Seat 2: X.x.MAXI.x.X (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+X.x.MAXI.x.X posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5c Qd]
+*** PRE-FLOP *** 
+Ben McPich folds
+X.x.MAXI.x.X calls 10
+_SKR checks
+*** FLOP *** [Th 2s Kd]
+X.x.MAXI.x.X checks
+_SKR checks
+*** TURN *** [Th 2s Kd][4c]
+X.x.MAXI.x.X checks
+_SKR checks
+*** RIVER *** [Th 2s Kd 4c][Qs]
+X.x.MAXI.x.X checks
+_SKR bets 20
+X.x.MAXI.x.X folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Th 2s Kd 4c Qs]
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661551719632076801-2-1673018652 - Holdem no limit (10/20) - 2023/01/06 15:24:12 UTC
+Table: 'Expresso Nitro(619690800)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ben McPich (300)
+Seat 2: X.x.MAXI.x.X (280)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ben McPich posts big blind 20
+Dealt to _SKR [8c 5h]
+*** PRE-FLOP *** 
+X.x.MAXI.x.X folds
+_SKR folds
+Ben McPich collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Ben McPich (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661551719632076801-3-1673018656 - Holdem no limit (10/20) - 2023/01/06 15:24:16 UTC
+Table: 'Expresso Nitro(619690800)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ben McPich (310)
+Seat 2: X.x.MAXI.x.X (280)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+Ben McPich posts small blind 10
+X.x.MAXI.x.X posts big blind 20
+Dealt to _SKR [Ts Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Ben McPich folds
+X.x.MAXI.x.X calls 20
+*** FLOP *** [As Qc Jc]
+X.x.MAXI.x.X bets 20
+_SKR raises 33 to 53
+X.x.MAXI.x.X calls 33
+*** TURN *** [As Qc Jc][Qs]
+X.x.MAXI.x.X checks
+_SKR bets 69
+X.x.MAXI.x.X raises 118 to 187 and is all-in
+_SKR calls 118
+*** RIVER *** [As Qc Jc Qs][2c]
+*** SHOW DOWN ***
+X.x.MAXI.x.X shows [Qh 9d] (Trips of Queens)
+_SKR shows [Ts Kc] (Straight Ace high)
+_SKR collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [As Qc Jc Qs 2c]
+Seat 2: X.x.MAXI.x.X (big blind) showed [Qh 9d] and lost with Trips of Queens
+Seat 3: _SKR (button) showed [Ts Kc] and won 570 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661551719632076801-4-1673018685 - Holdem no limit (15/30) - 2023/01/06 15:24:45 UTC
+Table: 'Expresso Nitro(619690800)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ben McPich (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Ben McPich posts big blind 30
+Dealt to _SKR [4s 4h]
+*** PRE-FLOP *** 
+_SKR raises 570 to 600 and is all-in
+Ben McPich calls 270 and is all-in
+*** FLOP *** [Qc 7d 5h]
+*** TURN *** [Qc 7d 5h][Ts]
+*** RIVER *** [Qc 7d 5h Ts][4c]
+*** SHOW DOWN ***
+Ben McPich shows [As Td] (One pair : Tens)
+_SKR shows [4s 4h] (Trips of 4)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc 7d 5h Ts 4c]
+Seat 1: Ben McPich (big blind) showed [As Td] and lost with One pair : Tens
+Seat 3: _SKR (small blind) (button) showed [4s 4h] and won 900 with Trips of 4
+
+

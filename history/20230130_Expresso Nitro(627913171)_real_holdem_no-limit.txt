@@ -1,0 +1,197 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696866534172655617-1-1675101242 - Holdem no limit (10/20) - 2023/01/30 17:54:02 UTC
+Table: 'Expresso Nitro(627913171)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Khennoussi M (300)
+Seat 3: CastoDrama75 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Khennoussi M posts big blind 20
+Dealt to _SKR [Jh Tc]
+*** PRE-FLOP *** 
+CastoDrama75 raises 280 to 300 and is all-in
+_SKR folds
+Khennoussi M folds
+CastoDrama75 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: CastoDrama75 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696866534172655617-2-1675101252 - Holdem no limit (10/20) - 2023/01/30 17:54:12 UTC
+Table: 'Expresso Nitro(627913171)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Khennoussi M (280)
+Seat 3: CastoDrama75 (330)
+*** ANTE/BLINDS ***
+Khennoussi M posts small blind 10
+CastoDrama75 posts big blind 20
+Dealt to _SKR [3h 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Khennoussi M folds
+CastoDrama75 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: CastoDrama75 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696866534172655617-3-1675101257 - Holdem no limit (10/20) - 2023/01/30 17:54:17 UTC
+Table: 'Expresso Nitro(627913171)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Khennoussi M (270)
+Seat 3: CastoDrama75 (340)
+*** ANTE/BLINDS ***
+CastoDrama75 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s 5s]
+*** PRE-FLOP *** 
+Khennoussi M calls 20
+CastoDrama75 calls 10
+_SKR checks
+*** FLOP *** [9s 4c Js]
+CastoDrama75 checks
+_SKR checks
+Khennoussi M checks
+*** TURN *** [9s 4c Js][6d]
+CastoDrama75 checks
+_SKR bets 48
+Khennoussi M raises 48 to 96
+CastoDrama75 folds
+_SKR calls 48
+*** RIVER *** [9s 4c Js 6d][Td]
+_SKR checks
+Khennoussi M bets 154 and is all-in
+_SKR folds
+Khennoussi M collected 406 from pot
+*** SUMMARY ***
+Total pot 406 | No rake
+Board: [9s 4c Js 6d Td]
+Seat 2: Khennoussi M (button) won 406
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696866534172655617-4-1675101321 - Holdem no limit (15/30) - 2023/01/30 17:55:21 UTC
+Table: 'Expresso Nitro(627913171)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (174)
+Seat 2: Khennoussi M (406)
+Seat 3: CastoDrama75 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Khennoussi M posts big blind 30
+Dealt to _SKR [5h Ac]
+*** PRE-FLOP *** 
+CastoDrama75 folds
+_SKR raises 144 to 174 and is all-in
+Khennoussi M calls 144
+*** FLOP *** [9s Js 3d]
+*** TURN *** [9s Js 3d][Th]
+*** RIVER *** [9s Js 3d Th][Qc]
+*** SHOW DOWN ***
+_SKR shows [5h Ac] (High card : Ace)
+Khennoussi M shows [Ah 6s] (High card : Ace)
+Khennoussi M collected 174 from pot
+_SKR collected 174 from pot
+*** SUMMARY ***
+Total pot 348 | No rake
+Board: [9s Js 3d Th Qc]
+Seat 1: _SKR (small blind) showed [5h Ac] and won 174 with High card : Ace
+Seat 2: Khennoussi M (big blind) showed [Ah 6s] and won 174 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696866534172655617-5-1675101337 - Holdem no limit (15/30) - 2023/01/30 17:55:37 UTC
+Table: 'Expresso Nitro(627913171)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (174)
+Seat 2: Khennoussi M (406)
+Seat 3: CastoDrama75 (320)
+*** ANTE/BLINDS ***
+Khennoussi M posts small blind 15
+CastoDrama75 posts big blind 30
+Dealt to _SKR [As Ah]
+*** PRE-FLOP *** 
+_SKR raises 144 to 174 and is all-in
+Khennoussi M folds
+CastoDrama75 raises 146 to 320 and is all-in
+*** FLOP *** [Js Ks 7s]
+*** TURN *** [Js Ks 7s][4s]
+*** RIVER *** [Js Ks 7s 4s][3c]
+*** SHOW DOWN ***
+_SKR shows [As Ah] (Flush Ace high)
+CastoDrama75 shows [Ac Tc] (High card : Ace)
+CastoDrama75 collected 146 from side pot 1
+_SKR collected 363 from main pot
+*** SUMMARY ***
+Total pot 509 | No rake
+Board: [Js Ks 7s 4s 3c]
+Seat 1: _SKR (button) showed [As Ah] and won 363 with Flush Ace high
+Seat 3: CastoDrama75 (big blind) showed [Ac Tc] and won 146 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696866534172655617-6-1675101352 - Holdem no limit (15/30) - 2023/01/30 17:55:52 UTC
+Table: 'Expresso Nitro(627913171)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (363)
+Seat 2: Khennoussi M (391)
+Seat 3: CastoDrama75 (146)
+*** ANTE/BLINDS ***
+CastoDrama75 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8s Tc]
+*** PRE-FLOP *** 
+Khennoussi M calls 30
+CastoDrama75 raises 116 to 146 and is all-in
+_SKR folds
+Khennoussi M calls 116
+*** FLOP *** [3c 2s 7d]
+*** TURN *** [3c 2s 7d][7s]
+*** RIVER *** [3c 2s 7d 7s][Td]
+*** SHOW DOWN ***
+CastoDrama75 shows [Js Qs] (One pair : 7)
+Khennoussi M shows [3h Qd] (Two pairs : 7 and 3)
+Khennoussi M collected 322 from pot
+*** SUMMARY ***
+Total pot 322 | No rake
+Board: [3c 2s 7d 7s Td]
+Seat 2: Khennoussi M (button) showed [3h Qd] and won 322 with Two pairs : 7 and 3
+Seat 3: CastoDrama75 (small blind) showed [Js Qs] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696866534172655617-7-1675101370 - Holdem no limit (20/40) - 2023/01/30 17:56:10 UTC
+Table: 'Expresso Nitro(627913171)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (333)
+Seat 2: Khennoussi M (567)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Khennoussi M posts big blind 40
+Dealt to _SKR [Kd 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Khennoussi M collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Khennoussi M (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696866534172655617-8-1675101379 - Holdem no limit (20/40) - 2023/01/30 17:56:19 UTC
+Table: 'Expresso Nitro(627913171)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (313)
+Seat 2: Khennoussi M (587)
+*** ANTE/BLINDS ***
+Khennoussi M posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4d Ac]
+*** PRE-FLOP *** 
+Khennoussi M calls 20
+_SKR raises 273 to 313 and is all-in
+Khennoussi M calls 273
+*** FLOP *** [7s 5d 9s]
+*** TURN *** [7s 5d 9s][8c]
+*** RIVER *** [7s 5d 9s 8c][Kc]
+*** SHOW DOWN ***
+_SKR shows [4d Ac] (High card : Ace)
+Khennoussi M shows [5h 5s] (Trips of 5)
+Khennoussi M collected 626 from pot
+*** SUMMARY ***
+Total pot 626 | No rake
+Board: [7s 5d 9s 8c Kc]
+Seat 1: _SKR (big blind) showed [4d Ac] and lost with High card : Ace
+Seat 2: Khennoussi M (small blind) (button) showed [5h 5s] and won 626 with Trips of 5
+
+

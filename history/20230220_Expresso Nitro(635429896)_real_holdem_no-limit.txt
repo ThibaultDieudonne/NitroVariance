@@ -1,0 +1,30 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729150622220681217-1-1676903154 - Holdem no limit (10/20) - 2023/02/20 14:25:54 UTC
+Table: 'Expresso Nitro(635429896)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rom 60200 (300)
+Seat 2: _SKR (300)
+Seat 3: Lesbroufance (300)
+*** ANTE/BLINDS ***
+Rom 60200 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad Kh]
+*** PRE-FLOP *** 
+Lesbroufance calls 20
+Rom 60200 raises 280 to 300 and is all-in
+_SKR calls 280 and is all-in
+Lesbroufance calls 280 and is all-in
+*** FLOP *** [Qc Qs 6s]
+*** TURN *** [Qc Qs 6s][7h]
+*** RIVER *** [Qc Qs 6s 7h][4h]
+*** SHOW DOWN ***
+Rom 60200 shows [As 8d] (One pair : Queens)
+Lesbroufance shows [9c Tc] (One pair : Queens)
+_SKR shows [Ad Kh] (One pair : Queens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc Qs 6s 7h 4h]
+Seat 1: Rom 60200 (small blind) showed [As 8d] and lost with One pair : Queens
+Seat 2: _SKR (big blind) showed [Ad Kh] and won 900 with One pair : Queens
+Seat 3: Lesbroufance (button) showed [9c Tc] and lost with One pair : Queens
+
+

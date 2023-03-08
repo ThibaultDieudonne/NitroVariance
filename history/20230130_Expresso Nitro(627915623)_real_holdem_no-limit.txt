@@ -1,0 +1,80 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696877065432465409-1-1675101645 - Holdem no limit (10/20) - 2023/01/30 18:00:45 UTC
+Table: 'Expresso Nitro(627915623)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cal1m3ro (300)
+Seat 2: Khennoussi M (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cal1m3ro posts big blind 20
+Dealt to _SKR [5s Kh]
+*** PRE-FLOP *** 
+Khennoussi M calls 20
+_SKR folds
+Cal1m3ro checks
+*** FLOP *** [Qh Ks 9h]
+Cal1m3ro checks
+Khennoussi M checks
+*** TURN *** [Qh Ks 9h][8h]
+Cal1m3ro checks
+Khennoussi M bets 20
+Cal1m3ro folds
+Khennoussi M collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Qh Ks 9h 8h]
+Seat 2: Khennoussi M (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696877065432465409-2-1675101665 - Holdem no limit (10/20) - 2023/01/30 18:01:05 UTC
+Table: 'Expresso Nitro(627915623)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cal1m3ro (280)
+Seat 2: Khennoussi M (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Cal1m3ro posts small blind 10
+Khennoussi M posts big blind 20
+Dealt to _SKR [6s 9s]
+*** PRE-FLOP *** 
+_SKR folds
+Cal1m3ro calls 10
+Khennoussi M raises 20 to 40
+Cal1m3ro calls 20
+*** FLOP *** [4c Ks 4h]
+Cal1m3ro checks
+Khennoussi M bets 80
+Cal1m3ro folds
+Khennoussi M collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [4c Ks 4h]
+Seat 2: Khennoussi M (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696877065432465409-3-1675101686 - Holdem no limit (10/20) - 2023/01/30 18:01:26 UTC
+Table: 'Expresso Nitro(627915623)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cal1m3ro (240)
+Seat 2: Khennoussi M (370)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Khennoussi M posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qd Ah]
+*** PRE-FLOP *** 
+Cal1m3ro folds
+Khennoussi M calls 10
+_SKR raises 270 to 290 and is all-in
+Khennoussi M calls 270
+*** FLOP *** [2s Qs Td]
+*** TURN *** [2s Qs Td][2h]
+*** RIVER *** [2s Qs Td 2h][6c]
+*** SHOW DOWN ***
+_SKR shows [Qd Ah] (Two pairs : Queens and 2)
+Khennoussi M shows [Kh Kd] (Two pairs : Kings and 2)
+Khennoussi M collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [2s Qs Td 2h 6c]
+Seat 2: Khennoussi M (small blind) showed [Kh Kd] and won 580 with Two pairs : Kings and 2
+Seat 3: _SKR (big blind) showed [Qd Ah] and lost with Two pairs : Queens and 2
+
+

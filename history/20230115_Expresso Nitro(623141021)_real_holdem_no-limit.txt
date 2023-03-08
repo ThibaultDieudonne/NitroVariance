@@ -1,0 +1,31 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676370305991049217-1-1673821648 - Holdem no limit (10/20) - 2023/01/15 22:27:28 UTC
+Table: 'Expresso Nitro(623141021)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Manolo3109 (300)
+Seat 2: _SKR (300)
+Seat 3: OUSHKA 1975 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+OUSHKA 1975 posts big blind 20
+Dealt to _SKR [Ah Kd]
+*** PRE-FLOP *** 
+Manolo3109 calls 20
+_SKR raises 40 to 60
+OUSHKA 1975 raises 240 to 300 and is all-in
+Manolo3109 calls 280 and is all-in
+_SKR calls 240 and is all-in
+*** FLOP *** [As 8h 6d]
+*** TURN *** [As 8h 6d][2s]
+*** RIVER *** [As 8h 6d 2s][2d]
+*** SHOW DOWN ***
+Manolo3109 shows [Tc Qs] (One pair : 2)
+OUSHKA 1975 shows [Jc 5h] (One pair : 2)
+_SKR shows [Ah Kd] (Two pairs : Aces and 2)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As 8h 6d 2s 2d]
+Seat 1: Manolo3109 (button) showed [Tc Qs] and lost with One pair : 2
+Seat 2: _SKR (small blind) showed [Ah Kd] and won 900 with Two pairs : Aces and 2
+Seat 3: OUSHKA 1975 (big blind) showed [Jc 5h] and lost with One pair : 2
+
+

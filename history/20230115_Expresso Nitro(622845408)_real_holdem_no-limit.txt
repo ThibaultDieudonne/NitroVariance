@@ -1,0 +1,28 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675100657823776769-1-1673744399 - Holdem no limit (10/20) - 2023/01/15 00:59:59 UTC
+Table: 'Expresso Nitro(622845408)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: martiniflush (300)
+Seat 3: F. Fognini (300)
+*** ANTE/BLINDS ***
+F. Fognini posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs Kc]
+*** PRE-FLOP *** 
+martiniflush raises 20 to 40
+F. Fognini raises 260 to 300 and is all-in
+_SKR calls 280 and is all-in
+martiniflush folds
+*** FLOP *** [3s 4c 7h]
+*** TURN *** [3s 4c 7h][6h]
+*** RIVER *** [3s 4c 7h 6h][Jc]
+*** SHOW DOWN ***
+_SKR shows [Qs Kc] (High card : King)
+F. Fognini shows [8c As] (High card : Ace)
+F. Fognini collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [3s 4c 7h 6h Jc]
+Seat 1: _SKR (big blind) showed [Qs Kc] and lost with High card : King
+Seat 3: F. Fognini (small blind) showed [8c As] and won 640 with High card : Ace
+
+

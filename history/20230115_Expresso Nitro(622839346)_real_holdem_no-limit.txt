@@ -1,0 +1,115 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675074621732028417-1-1673743168 - Holdem no limit (10/20) - 2023/01/15 00:39:28 UTC
+Table: 'Expresso Nitro(622839346)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Tiloo35310 (300)
+Seat 3: matoufdepoil (300)
+*** ANTE/BLINDS ***
+Tiloo35310 posts small blind 10
+matoufdepoil posts big blind 20
+Dealt to _SKR [6s Ad]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Tiloo35310 calls 290 and is all-in
+matoufdepoil folds
+*** FLOP *** [8c 5s Qc]
+*** TURN *** [8c 5s Qc][5d]
+*** RIVER *** [8c 5s Qc 5d][2h]
+*** SHOW DOWN ***
+Tiloo35310 shows [9d Kd] (One pair : 5)
+_SKR shows [6s Ad] (One pair : 5)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8c 5s Qc 5d 2h]
+Seat 1: _SKR (button) showed [6s Ad] and won 620 with One pair : 5
+Seat 2: Tiloo35310 (small blind) showed [9d Kd] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675074621732028417-2-1673743198 - Holdem no limit (10/20) - 2023/01/15 00:39:58 UTC
+Table: 'Expresso Nitro(622839346)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (620)
+Seat 3: matoufdepoil (280)
+*** ANTE/BLINDS ***
+matoufdepoil posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h Td]
+*** PRE-FLOP *** 
+matoufdepoil calls 10
+_SKR checks
+*** FLOP *** [3h Jd 4s]
+_SKR checks
+matoufdepoil checks
+*** TURN *** [3h Jd 4s][Th]
+_SKR checks
+matoufdepoil checks
+*** RIVER *** [3h Jd 4s Th][Ac]
+_SKR checks
+matoufdepoil checks
+*** SHOW DOWN ***
+matoufdepoil shows [2s Kh] (High card : Ace)
+_SKR shows [4h Td] (Two pairs : Tens and 4)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [3h Jd 4s Th Ac]
+Seat 1: _SKR (big blind) showed [4h Td] and won 40 with Two pairs : Tens and 4
+Seat 3: matoufdepoil (small blind) (button) showed [2s Kh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675074621732028417-3-1673743250 - Holdem no limit (15/30) - 2023/01/15 00:40:50 UTC
+Table: 'Expresso Nitro(622839346)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (640)
+Seat 3: matoufdepoil (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+matoufdepoil posts big blind 30
+Dealt to _SKR [6s 3s]
+*** PRE-FLOP *** 
+_SKR folds
+matoufdepoil collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: matoufdepoil (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675074621732028417-4-1673743253 - Holdem no limit (15/30) - 2023/01/15 00:40:53 UTC
+Table: 'Expresso Nitro(622839346)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (625)
+Seat 3: matoufdepoil (275)
+*** ANTE/BLINDS ***
+matoufdepoil posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7c Ah]
+*** PRE-FLOP *** 
+matoufdepoil folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675074621732028417-5-1673743258 - Holdem no limit (15/30) - 2023/01/15 00:40:58 UTC
+Table: 'Expresso Nitro(622839346)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (640)
+Seat 3: matoufdepoil (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+matoufdepoil posts big blind 30
+Dealt to _SKR [Jc Qh]
+*** PRE-FLOP *** 
+_SKR raises 610 to 640 and is all-in
+matoufdepoil calls 230 and is all-in
+*** FLOP *** [Qd Ad Qs]
+*** TURN *** [Qd Ad Qs][Ah]
+*** RIVER *** [Qd Ad Qs Ah][5c]
+*** SHOW DOWN ***
+matoufdepoil shows [Th 7s] (Two pairs : Aces and Queens)
+_SKR shows [Jc Qh] (Full of Queens and Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd Ad Qs Ah 5c]
+Seat 1: _SKR (small blind) (button) showed [Jc Qh] and won 900 with Full of Queens and Aces
+Seat 3: matoufdepoil (big blind) showed [Th 7s] and lost with Two pairs : Aces and Queens
+
+

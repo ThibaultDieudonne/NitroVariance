@@ -1,0 +1,9 @@
+bin/
+obj/
+__pycache__/
+.ipynb_checkpoints/
+subfiles/
+*.depend
+*.layout
+*.bat
+*.dat

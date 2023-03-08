@@ -1,0 +1,144 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694796085058076673-1-1674958125 - Holdem no limit (10/20) - 2023/01/29 02:08:45 UTC
+Table: 'Expresso Nitro(627431107)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Gdnantoine (300)
+Seat 3: KamsD922 (300)
+*** ANTE/BLINDS ***
+KamsD922 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c 3h]
+*** PRE-FLOP *** 
+Gdnantoine raises 280 to 300 and is all-in
+KamsD922 folds
+_SKR folds
+Gdnantoine collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Gdnantoine (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694796085058076673-2-1674958143 - Holdem no limit (10/20) - 2023/01/29 02:09:03 UTC
+Table: 'Expresso Nitro(627431107)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Gdnantoine (330)
+Seat 3: KamsD922 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Gdnantoine posts big blind 20
+Dealt to _SKR [5s As]
+*** PRE-FLOP *** 
+KamsD922 folds
+_SKR raises 260 to 280 and is all-in
+Gdnantoine calls 260
+*** FLOP *** [2s 3c 7d]
+*** TURN *** [2s 3c 7d][8c]
+*** RIVER *** [2s 3c 7d 8c][5d]
+*** SHOW DOWN ***
+Gdnantoine shows [Kc 2h] (One pair : 2)
+_SKR shows [5s As] (One pair : 5)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [2s 3c 7d 8c 5d]
+Seat 1: _SKR (small blind) showed [5s As] and won 560 with One pair : 5
+Seat 2: Gdnantoine (big blind) showed [Kc 2h] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694796085058076673-3-1674958163 - Holdem no limit (10/20) - 2023/01/29 02:09:23 UTC
+Table: 'Expresso Nitro(627431107)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (560)
+Seat 2: Gdnantoine (50)
+Seat 3: KamsD922 (290)
+*** ANTE/BLINDS ***
+Gdnantoine posts small blind 10
+KamsD922 posts big blind 20
+Dealt to _SKR [6d 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Gdnantoine raises 30 to 50 and is all-in
+KamsD922 calls 30
+*** FLOP *** [9h 8h 9d]
+*** TURN *** [9h 8h 9d][2c]
+*** RIVER *** [9h 8h 9d 2c][4c]
+*** SHOW DOWN ***
+Gdnantoine shows [Kd 6h] (One pair : 9)
+KamsD922 shows [2s 3c] (Two pairs : 9 and 2)
+KamsD922 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9h 8h 9d 2c 4c]
+Seat 2: Gdnantoine (small blind) showed [Kd 6h] and lost with One pair : 9
+Seat 3: KamsD922 (big blind) showed [2s 3c] and won 100 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694796085058076673-4-1674958178 - Holdem no limit (10/20) - 2023/01/29 02:09:38 UTC
+Table: 'Expresso Nitro(627431107)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (560)
+Seat 3: KamsD922 (340)
+*** ANTE/BLINDS ***
+KamsD922 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d 8d]
+*** PRE-FLOP *** 
+KamsD922 calls 10
+_SKR checks
+*** FLOP *** [4d 9d 7h]
+_SKR checks
+KamsD922 bets 26
+_SKR raises 514 to 540 and is all-in
+KamsD922 calls 294 and is all-in
+*** TURN *** [4d 9d 7h][2s]
+*** RIVER *** [4d 9d 7h 2s][Js]
+*** SHOW DOWN ***
+_SKR shows [3d 8d] (High card : Jack)
+KamsD922 shows [8c 6s] (High card : Jack)
+KamsD922 collected 680 from main pot
+_SKR collected 220 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 9d 7h 2s Js]
+Seat 1: _SKR (big blind) showed [3d 8d] and won 220 with High card : Jack
+Seat 3: KamsD922 (small blind) (button) showed [8c 6s] and won 680 with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694796085058076673-5-1674958198 - Holdem no limit (15/30) - 2023/01/29 02:09:58 UTC
+Table: 'Expresso Nitro(627431107)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (220)
+Seat 3: KamsD922 (680)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+KamsD922 posts big blind 30
+Dealt to _SKR [3s 7h]
+*** PRE-FLOP *** 
+_SKR folds
+KamsD922 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: KamsD922 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694796085058076673-6-1674958202 - Holdem no limit (15/30) - 2023/01/29 02:10:02 UTC
+Table: 'Expresso Nitro(627431107)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (205)
+Seat 3: KamsD922 (695)
+*** ANTE/BLINDS ***
+KamsD922 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th 9h]
+*** PRE-FLOP *** 
+KamsD922 raises 665 to 695 and is all-in
+_SKR calls 175 and is all-in
+*** FLOP *** [Ah 2d 8s]
+*** TURN *** [Ah 2d 8s][6c]
+*** RIVER *** [Ah 2d 8s 6c][Js]
+*** SHOW DOWN ***
+_SKR shows [Th 9h] (High card : Ace)
+KamsD922 shows [3h Jd] (One pair : Jacks)
+KamsD922 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ah 2d 8s 6c Js]
+Seat 1: _SKR (big blind) showed [Th 9h] and lost with High card : Ace
+Seat 3: KamsD922 (small blind) (button) showed [3h Jd] and won 900 with One pair : Jacks
+
+

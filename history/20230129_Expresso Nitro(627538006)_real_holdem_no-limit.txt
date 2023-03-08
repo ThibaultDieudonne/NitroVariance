@@ -1,0 +1,296 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695255212767051777-1-1675002632 - Holdem no limit (10/20) - 2023/01/29 14:30:32 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Marc13016 (300)
+Seat 2: _SKR (300)
+Seat 3: dagodallas (300)
+*** ANTE/BLINDS ***
+dagodallas posts small blind 10
+Marc13016 posts big blind 20
+Dealt to _SKR [6s 9c]
+*** PRE-FLOP *** 
+_SKR folds
+dagodallas calls 10
+Marc13016 checks
+*** FLOP *** [Qh 8d 6c]
+dagodallas checks
+Marc13016 checks
+*** TURN *** [Qh 8d 6c][Tc]
+dagodallas bets 20
+Marc13016 calls 20
+*** RIVER *** [Qh 8d 6c Tc][Qc]
+dagodallas bets 28
+Marc13016 folds
+dagodallas collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [Qh 8d 6c Tc Qc]
+Seat 3: dagodallas (small blind) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695255212767051777-2-1675002661 - Holdem no limit (10/20) - 2023/01/29 14:31:01 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Marc13016 (260)
+Seat 2: _SKR (300)
+Seat 3: dagodallas (340)
+*** ANTE/BLINDS ***
+Marc13016 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c Qh]
+*** PRE-FLOP *** 
+dagodallas calls 20
+Marc13016 calls 10
+_SKR checks
+*** FLOP *** [8s 8d Jd]
+Marc13016 checks
+_SKR checks
+dagodallas checks
+*** TURN *** [8s 8d Jd][9d]
+Marc13016 checks
+_SKR checks
+dagodallas checks
+*** RIVER *** [8s 8d Jd 9d][Ks]
+Marc13016 bets 60
+_SKR folds
+dagodallas calls 60
+*** SHOW DOWN ***
+dagodallas shows [Kc 3c] (Two pairs : Kings and 8)
+Marc13016 shows [Qc Tc] (Straight King high)
+Marc13016 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [8s 8d Jd 9d Ks]
+Seat 1: Marc13016 (small blind) showed [Qc Tc] and won 180 with Straight King high
+Seat 3: dagodallas (button) showed [Kc 3c] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695255212767051777-3-1675002710 - Holdem no limit (15/30) - 2023/01/29 14:31:50 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Marc13016 (360)
+Seat 2: _SKR (280)
+Seat 3: dagodallas (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+dagodallas posts big blind 30
+Dealt to _SKR [2s Kc]
+*** PRE-FLOP *** 
+Marc13016 calls 30
+_SKR raises 250 to 280 and is all-in
+dagodallas folds
+Marc13016 calls 250
+*** FLOP *** [6c Qh 6d]
+*** TURN *** [6c Qh 6d][Kd]
+*** RIVER *** [6c Qh 6d Kd][3c]
+*** SHOW DOWN ***
+Marc13016 shows [8d Qd] (Two pairs : Queens and 6)
+_SKR shows [2s Kc] (Two pairs : Kings and 6)
+_SKR collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [6c Qh 6d Kd 3c]
+Seat 1: Marc13016 (button) showed [8d Qd] and lost with Two pairs : Queens and 6
+Seat 2: _SKR (small blind) showed [2s Kc] and won 590 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695255212767051777-4-1675002737 - Holdem no limit (15/30) - 2023/01/29 14:32:17 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Marc13016 (80)
+Seat 2: _SKR (590)
+Seat 3: dagodallas (230)
+*** ANTE/BLINDS ***
+dagodallas posts small blind 15
+Marc13016 posts big blind 30
+Dealt to _SKR [Jh Td]
+*** PRE-FLOP *** 
+_SKR folds
+dagodallas calls 15
+Marc13016 raises 50 to 80 and is all-in
+dagodallas calls 50
+*** FLOP *** [Qh Jd Kd]
+*** TURN *** [Qh Jd Kd][6d]
+*** RIVER *** [Qh Jd Kd 6d][As]
+*** SHOW DOWN ***
+dagodallas shows [5c 4d] (High card : Ace)
+Marc13016 shows [Ks 2d] (One pair : Kings)
+Marc13016 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Qh Jd Kd 6d As]
+Seat 1: Marc13016 (big blind) showed [Ks 2d] and won 160 with One pair : Kings
+Seat 3: dagodallas (small blind) showed [5c 4d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695255212767051777-5-1675002753 - Holdem no limit (20/40) - 2023/01/29 14:32:33 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Marc13016 (160)
+Seat 2: _SKR (590)
+Seat 3: dagodallas (150)
+*** ANTE/BLINDS ***
+Marc13016 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6c Qs]
+*** PRE-FLOP *** 
+dagodallas calls 40
+Marc13016 raises 120 to 160 and is all-in
+_SKR folds
+dagodallas folds
+Marc13016 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: Marc13016 (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695255212767051777-6-1675002771 - Holdem no limit (20/40) - 2023/01/29 14:32:51 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Marc13016 (240)
+Seat 2: _SKR (550)
+Seat 3: dagodallas (110)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+dagodallas posts big blind 40
+Dealt to _SKR [Kc 5c]
+*** PRE-FLOP *** 
+Marc13016 raises 200 to 240 and is all-in
+_SKR folds
+dagodallas calls 70 and is all-in
+*** FLOP *** [7s 3c Qh]
+*** TURN *** [7s 3c Qh][9d]
+*** RIVER *** [7s 3c Qh 9d][8d]
+*** SHOW DOWN ***
+dagodallas shows [4d Jd] (High card : Queen)
+Marc13016 shows [Ah 6h] (High card : Ace)
+Marc13016 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Board: [7s 3c Qh 9d 8d]
+Seat 1: Marc13016 (button) showed [Ah 6h] and won 370 with High card : Ace
+Seat 3: dagodallas (big blind) showed [4d Jd] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695255212767051777-7-1675002788 - Holdem no limit (20/40) - 2023/01/29 14:33:08 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Marc13016 (370)
+Seat 2: _SKR (530)
+*** ANTE/BLINDS ***
+Marc13016 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8c 3c]
+*** PRE-FLOP *** 
+Marc13016 raises 330 to 370 and is all-in
+_SKR folds
+Marc13016 collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 1: Marc13016 (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695255212767051777-8-1675002803 - Holdem no limit (20/40) - 2023/01/29 14:33:23 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Marc13016 (410)
+Seat 2: _SKR (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Marc13016 posts big blind 40
+Dealt to _SKR [2h 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Marc13016 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Marc13016 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695255212767051777-9-1675002806 - Holdem no limit (20/40) - 2023/01/29 14:33:26 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Marc13016 (430)
+Seat 2: _SKR (470)
+*** ANTE/BLINDS ***
+Marc13016 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qs 9s]
+*** PRE-FLOP *** 
+Marc13016 raises 390 to 430 and is all-in
+_SKR folds
+Marc13016 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 1: Marc13016 (small blind) (button) won 470
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695255212767051777-10-1675002812 - Holdem no limit (30/60) - 2023/01/29 14:33:32 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Marc13016 (470)
+Seat 2: _SKR (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Marc13016 posts big blind 60
+Dealt to _SKR [Ks Kh]
+*** PRE-FLOP *** 
+_SKR calls 30
+Marc13016 checks
+*** FLOP *** [Qc Ts 3h]
+Marc13016 bets 410 and is all-in
+_SKR calls 370 and is all-in
+*** TURN *** [Qc Ts 3h][7d]
+*** RIVER *** [Qc Ts 3h 7d][5h]
+*** SHOW DOWN ***
+Marc13016 shows [Th 2c] (One pair : Tens)
+_SKR shows [Ks Kh] (One pair : Kings)
+_SKR collected 860 from main pot
+Marc13016 collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc Ts 3h 7d 5h]
+Seat 1: Marc13016 (big blind) showed [Th 2c] and won 40 with One pair : Tens
+Seat 2: _SKR (small blind) (button) showed [Ks Kh] and won 860 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695255212767051777-11-1675002825 - Holdem no limit (30/60) - 2023/01/29 14:33:45 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Marc13016 (40)
+Seat 2: _SKR (860)
+*** ANTE/BLINDS ***
+Marc13016 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8s Ac]
+*** PRE-FLOP *** 
+Marc13016 calls 10 and is all-in
+*** FLOP *** [6c 4s Kh]
+*** TURN *** [6c 4s Kh][7s]
+*** RIVER *** [6c 4s Kh 7s][Js]
+*** SHOW DOWN ***
+Marc13016 shows [8d Kc] (One pair : Kings)
+_SKR shows [8s Ac] (High card : Ace)
+_SKR collected 20 from side pot 1
+Marc13016 collected 80 from main pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [6c 4s Kh 7s Js]
+Seat 1: Marc13016 (small blind) (button) showed [8d Kc] and won 80 with One pair : Kings
+Seat 2: _SKR (big blind) showed [8s Ac] and won 20 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2695255212767051777-12-1675002834 - Holdem no limit (30/60) - 2023/01/29 14:33:54 UTC
+Table: 'Expresso Nitro(627538006)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Marc13016 (80)
+Seat 2: _SKR (820)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Marc13016 posts big blind 60
+Dealt to _SKR [Ks 6h]
+*** PRE-FLOP *** 
+_SKR raises 60 to 120
+Marc13016 calls 20 and is all-in
+*** FLOP *** [Kd Qc Td]
+*** TURN *** [Kd Qc Td][Qs]
+*** RIVER *** [Kd Qc Td Qs][Qh]
+*** SHOW DOWN ***
+Marc13016 shows [Ah 8c] (Trips of Queens)
+_SKR shows [Ks 6h] (Full of Queens and Kings)
+_SKR collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Kd Qc Td Qs Qh]
+Seat 1: Marc13016 (big blind) showed [Ah 8c] and lost with Trips of Queens
+Seat 2: _SKR (small blind) (button) showed [Ks 6h] and won 200 with Full of Queens and Kings
+
+

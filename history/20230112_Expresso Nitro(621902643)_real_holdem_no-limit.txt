@@ -1,0 +1,141 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671051512980963329-1-1673528628 - Holdem no limit (10/20) - 2023/01/12 13:03:48 UTC
+Table: 'Expresso Nitro(621902643)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: fruuddd (300)
+Seat 3: 0nlyluck (300)
+*** ANTE/BLINDS ***
+fruuddd posts small blind 10
+0nlyluck posts big blind 20
+Dealt to _SKR [5h 2h]
+*** PRE-FLOP *** 
+_SKR folds
+fruuddd calls 10
+0nlyluck checks
+*** FLOP *** [Qc Jd 3h]
+fruuddd checks
+0nlyluck checks
+*** TURN *** [Qc Jd 3h][4c]
+fruuddd checks
+0nlyluck bets 26
+fruuddd folds
+0nlyluck collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Qc Jd 3h 4c]
+Seat 3: 0nlyluck (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671051512980963329-2-1673528654 - Holdem no limit (10/20) - 2023/01/12 13:04:14 UTC
+Table: 'Expresso Nitro(621902643)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: fruuddd (280)
+Seat 3: 0nlyluck (320)
+*** ANTE/BLINDS ***
+0nlyluck posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s 6c]
+*** PRE-FLOP *** 
+fruuddd calls 20
+0nlyluck folds
+_SKR checks
+*** FLOP *** [3c As Qs]
+_SKR checks
+fruuddd checks
+*** TURN *** [3c As Qs][Kc]
+_SKR bets 33
+fruuddd folds
+_SKR collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [3c As Qs Kc]
+Seat 1: _SKR (big blind) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671051512980963329-3-1673528683 - Holdem no limit (10/20) - 2023/01/12 13:04:43 UTC
+Table: 'Expresso Nitro(621902643)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 2: fruuddd (260)
+Seat 3: 0nlyluck (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+fruuddd posts big blind 20
+Dealt to _SKR [7h Ks]
+*** PRE-FLOP *** 
+0nlyluck folds
+_SKR raises 310 to 330 and is all-in
+fruuddd calls 240 and is all-in
+*** FLOP *** [Jc Qh 6d]
+*** TURN *** [Jc Qh 6d][3c]
+*** RIVER *** [Jc Qh 6d 3c][5h]
+*** SHOW DOWN ***
+_SKR shows [7h Ks] (High card : King)
+fruuddd shows [3d 3h] (Trips of 3)
+fruuddd collected 520 from main pot
+_SKR collected 70 from side pot 1
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Jc Qh 6d 3c 5h]
+Seat 1: _SKR (small blind) showed [7h Ks] and won 70 with High card : King
+Seat 2: fruuddd (big blind) showed [3d 3h] and won 520 with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671051512980963329-4-1673528698 - Holdem no limit (15/30) - 2023/01/12 13:04:58 UTC
+Table: 'Expresso Nitro(621902643)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (70)
+Seat 2: fruuddd (520)
+Seat 3: 0nlyluck (310)
+*** ANTE/BLINDS ***
+fruuddd posts small blind 15
+0nlyluck posts big blind 30
+Dealt to _SKR [2s 7h]
+*** PRE-FLOP *** 
+_SKR folds
+fruuddd calls 15
+0nlyluck checks
+*** FLOP *** [6d 3s 5s]
+fruuddd checks
+0nlyluck checks
+*** TURN *** [6d 3s 5s][4d]
+fruuddd checks
+0nlyluck checks
+*** RIVER *** [6d 3s 5s 4d][Td]
+fruuddd checks
+0nlyluck checks
+*** SHOW DOWN ***
+0nlyluck shows [Js 8d] (High card : Jack)
+fruuddd shows [8h Tc] (One pair : Tens)
+fruuddd collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6d 3s 5s 4d Td]
+Seat 2: fruuddd (small blind) showed [8h Tc] and won 60 with One pair : Tens
+Seat 3: 0nlyluck (big blind) showed [Js 8d] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671051512980963329-5-1673528725 - Holdem no limit (15/30) - 2023/01/12 13:05:25 UTC
+Table: 'Expresso Nitro(621902643)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (70)
+Seat 2: fruuddd (550)
+Seat 3: 0nlyluck (280)
+*** ANTE/BLINDS ***
+0nlyluck posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h 8c]
+*** PRE-FLOP *** 
+fruuddd folds
+0nlyluck raises 250 to 280 and is all-in
+_SKR calls 40 and is all-in
+*** FLOP *** [Qd 6d 9c]
+*** TURN *** [Qd 6d 9c][3d]
+*** RIVER *** [Qd 6d 9c 3d][Tc]
+*** SHOW DOWN ***
+_SKR shows [9h 8c] (One pair : 9)
+0nlyluck shows [Jc Td] (One pair : Tens)
+0nlyluck collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [Qd 6d 9c 3d Tc]
+Seat 1: _SKR (big blind) showed [9h 8c] and lost with One pair : 9
+Seat 3: 0nlyluck (small blind) showed [Jc Td] and won 350 with One pair : Tens
+
+

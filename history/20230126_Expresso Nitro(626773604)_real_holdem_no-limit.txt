@@ -1,0 +1,122 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691972131176054785-1-1674775766 - Holdem no limit (10/20) - 2023/01/26 23:29:26 UTC
+Table: 'Expresso Nitro(626773604)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: LB_Fishblind (300)
+Seat 3: THE X-MEN (300)
+*** ANTE/BLINDS ***
+LB_Fishblind posts small blind 10
+THE X-MEN posts big blind 20
+Dealt to _SKR [2d Ac]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+LB_Fishblind folds
+THE X-MEN folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691972131176054785-2-1674775774 - Holdem no limit (10/20) - 2023/01/26 23:29:34 UTC
+Table: 'Expresso Nitro(626773604)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (330)
+Seat 2: LB_Fishblind (290)
+Seat 3: THE X-MEN (280)
+*** ANTE/BLINDS ***
+THE X-MEN posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c 9c]
+*** PRE-FLOP *** 
+LB_Fishblind folds
+THE X-MEN folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691972131176054785-3-1674775780 - Holdem no limit (10/20) - 2023/01/26 23:29:40 UTC
+Table: 'Expresso Nitro(626773604)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (340)
+Seat 2: LB_Fishblind (290)
+Seat 3: THE X-MEN (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LB_Fishblind posts big blind 20
+Dealt to _SKR [9s Tc]
+*** PRE-FLOP *** 
+THE X-MEN raises 50 to 70
+_SKR folds
+LB_Fishblind calls 50
+*** FLOP *** [7c 7s 4s]
+LB_Fishblind checks
+THE X-MEN bets 98
+LB_Fishblind folds
+THE X-MEN collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [7c 7s 4s]
+Seat 3: THE X-MEN (button) won 248
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691972131176054785-4-1674775801 - Holdem no limit (10/20) - 2023/01/26 23:30:01 UTC
+Table: 'Expresso Nitro(626773604)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (330)
+Seat 2: LB_Fishblind (220)
+Seat 3: THE X-MEN (350)
+*** ANTE/BLINDS ***
+LB_Fishblind posts small blind 10
+THE X-MEN posts big blind 20
+Dealt to _SKR [Td 3h]
+*** PRE-FLOP *** 
+_SKR folds
+LB_Fishblind raises 40 to 60
+THE X-MEN raises 120 to 180
+LB_Fishblind calls 120
+*** FLOP *** [5s Js 5c]
+LB_Fishblind bets 40 and is all-in
+THE X-MEN raises 130 to 170 and is all-in
+*** TURN *** [5s Js 5c][Jd]
+*** RIVER *** [5s Js 5c Jd][2c]
+*** SHOW DOWN ***
+LB_Fishblind shows [Jh Tc] (Full of Jacks and 5)
+THE X-MEN shows [Qs 6c] (Two pairs : Jacks and 5)
+THE X-MEN collected 130 from side pot 1
+LB_Fishblind collected 440 from main pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [5s Js 5c Jd 2c]
+Seat 2: LB_Fishblind (small blind) showed [Jh Tc] and won 440 with Full of Jacks and 5
+Seat 3: THE X-MEN (big blind) showed [Qs 6c] and won 130 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691972131176054785-5-1674775829 - Holdem no limit (15/30) - 2023/01/26 23:30:29 UTC
+Table: 'Expresso Nitro(626773604)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (330)
+Seat 2: LB_Fishblind (440)
+Seat 3: THE X-MEN (130)
+*** ANTE/BLINDS ***
+THE X-MEN posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd Th]
+*** PRE-FLOP *** 
+LB_Fishblind raises 45 to 75
+THE X-MEN raises 55 to 130 and is all-in
+_SKR raises 200 to 330 and is all-in
+LB_Fishblind calls 255
+*** FLOP *** [Qh 8c Tc]
+*** TURN *** [Qh 8c Tc][As]
+*** RIVER *** [Qh 8c Tc As][2d]
+*** SHOW DOWN ***
+_SKR shows [Kd Th] (One pair : Tens)
+THE X-MEN shows [7d 8h] (One pair : 8)
+LB_Fishblind shows [Jc 9c] (Straight Queen high)
+LB_Fishblind collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [Qh 8c Tc As 2d]
+Seat 1: _SKR (big blind) showed [Kd Th] and lost with One pair : Tens
+Seat 2: LB_Fishblind (button) showed [Jc 9c] and won 790 with Straight Queen high
+Seat 3: THE X-MEN (small blind) showed [7d 8h] and lost with One pair : 8
+
+

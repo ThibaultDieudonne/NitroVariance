@@ -1,0 +1,83 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673237329212080129-1-1673643764 - Holdem no limit (10/20) - 2023/01/13 21:02:44 UTC
+Table: 'Expresso Nitro(622411568)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tovicioso (300)
+Seat 2: _SKR (300)
+Seat 3: Odessa (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Odessa posts big blind 20
+Dealt to _SKR [6c Ac]
+*** PRE-FLOP *** 
+Tovicioso raises 20 to 40
+_SKR raises 260 to 300 and is all-in
+Odessa folds
+Tovicioso folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: _SKR (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673237329212080129-2-1673643776 - Holdem no limit (10/20) - 2023/01/13 21:02:56 UTC
+Table: 'Expresso Nitro(622411568)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tovicioso (260)
+Seat 2: _SKR (360)
+Seat 3: Odessa (280)
+*** ANTE/BLINDS ***
+Odessa posts small blind 10
+Tovicioso posts big blind 20
+Dealt to _SKR [Ac Ah]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Odessa raises 240 to 280 and is all-in
+Tovicioso folds
+_SKR calls 240
+*** FLOP *** [3d 7d 4h]
+*** TURN *** [3d 7d 4h][6d]
+*** RIVER *** [3d 7d 4h 6d][2s]
+*** SHOW DOWN ***
+Odessa shows [Ks Jd] (High card : King)
+_SKR shows [Ac Ah] (One pair : Aces)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [3d 7d 4h 6d 2s]
+Seat 2: _SKR (button) showed [Ac Ah] and won 580 with One pair : Aces
+Seat 3: Odessa (small blind) showed [Ks Jd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673237329212080129-3-1673643792 - Holdem no limit (10/20) - 2023/01/13 21:03:12 UTC
+Table: 'Expresso Nitro(622411568)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tovicioso (240)
+Seat 2: _SKR (660)
+*** ANTE/BLINDS ***
+Tovicioso posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jh 9d]
+*** PRE-FLOP *** 
+Tovicioso calls 10
+_SKR checks
+*** FLOP *** [6s Qd Ts]
+_SKR checks
+Tovicioso bets 20
+_SKR calls 20
+*** TURN *** [6s Qd Ts][4c]
+_SKR checks
+Tovicioso bets 28
+_SKR calls 28
+*** RIVER *** [6s Qd Ts 4c][Kh]
+_SKR checks
+Tovicioso bets 136
+_SKR raises 456 to 592 and is all-in
+Tovicioso calls 36 and is all-in
+*** SHOW DOWN ***
+Tovicioso shows [4d Kc] (Two pairs : Kings and 4)
+_SKR shows [Jh 9d] (Straight King high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s Qd Ts 4c Kh]
+Seat 1: Tovicioso (small blind) (button) showed [4d Kc] and lost with Two pairs : Kings and 4
+Seat 2: _SKR (big blind) showed [Jh 9d] and won 900 with Straight King high
+
+

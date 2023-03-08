@@ -1,0 +1,108 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689778429384982529-1-1674651302 - Holdem no limit (10/20) - 2023/01/25 12:55:02 UTC
+Table: 'Expresso Nitro(626262843)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: dent95 (300)
+Seat 3: DHLmoneywar (300)
+*** ANTE/BLINDS ***
+dent95 posts small blind 10
+DHLmoneywar posts big blind 20
+Dealt to _SKR [7h Ah]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+dent95 folds
+DHLmoneywar calls 280 and is all-in
+*** FLOP *** [9s Jh 4h]
+*** TURN *** [9s Jh 4h][As]
+*** RIVER *** [9s Jh 4h As][6h]
+*** SHOW DOWN ***
+DHLmoneywar shows [Td Qs] (High card : Ace)
+_SKR shows [7h Ah] (Flush Ace high)
+_SKR collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [9s Jh 4h As 6h]
+Seat 1: _SKR (button) showed [7h Ah] and won 610 with Flush Ace high
+Seat 3: DHLmoneywar (big blind) showed [Td Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689778429384982529-2-1674651323 - Holdem no limit (10/20) - 2023/01/25 12:55:23 UTC
+Table: 'Expresso Nitro(626262843)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (610)
+Seat 2: dent95 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+dent95 posts big blind 20
+Dealt to _SKR [Qh Ah]
+*** PRE-FLOP *** 
+_SKR raises 590 to 610 and is all-in
+dent95 folds
+_SKR collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 1: _SKR (small blind) (button) won 630
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689778429384982529-3-1674651339 - Holdem no limit (10/20) - 2023/01/25 12:55:39 UTC
+Table: 'Expresso Nitro(626262843)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (630)
+Seat 2: dent95 (270)
+*** ANTE/BLINDS ***
+dent95 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d 6c]
+*** PRE-FLOP *** 
+dent95 calls 10
+_SKR checks
+*** FLOP *** [7d Qh 6d]
+_SKR checks
+dent95 bets 51
+_SKR folds
+dent95 collected 91 from pot
+*** SUMMARY ***
+Total pot 91 | No rake
+Board: [7d Qh 6d]
+Seat 2: dent95 (small blind) (button) won 91
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689778429384982529-4-1674651369 - Holdem no limit (15/30) - 2023/01/25 12:56:09 UTC
+Table: 'Expresso Nitro(626262843)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (610)
+Seat 2: dent95 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+dent95 posts big blind 30
+Dealt to _SKR [9d 6c]
+*** PRE-FLOP *** 
+_SKR folds
+dent95 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: dent95 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689778429384982529-5-1674651375 - Holdem no limit (15/30) - 2023/01/25 12:56:15 UTC
+Table: 'Expresso Nitro(626262843)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (595)
+Seat 2: dent95 (305)
+*** ANTE/BLINDS ***
+dent95 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc Kc]
+*** PRE-FLOP *** 
+dent95 calls 15
+_SKR raises 565 to 595 and is all-in
+dent95 calls 275 and is all-in
+*** FLOP *** [Ts 4c 2s]
+*** TURN *** [Ts 4c 2s][Kd]
+*** RIVER *** [Ts 4c 2s Kd][8s]
+*** SHOW DOWN ***
+dent95 shows [5c Qd] (High card : King)
+_SKR shows [Qc Kc] (One pair : Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts 4c 2s Kd 8s]
+Seat 1: _SKR (big blind) showed [Qc Kc] and won 900 with One pair : Kings
+Seat 2: dent95 (small blind) (button) showed [5c Qd] and lost with High card : King
+
+

@@ -1,0 +1,111 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690600035153870849-1-1674687406 - Holdem no limit (10/20) - 2023/01/25 22:56:46 UTC
+Table: 'Expresso Nitro(626454138)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ahmed0046 (300)
+Seat 2: Keiff52 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ahmed0046 posts big blind 20
+Dealt to _SKR [Kh 2h]
+*** PRE-FLOP *** 
+Keiff52 folds
+_SKR folds
+Ahmed0046 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Ahmed0046 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690600035153870849-2-1674687417 - Holdem no limit (10/20) - 2023/01/25 22:56:57 UTC
+Table: 'Expresso Nitro(626454138)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ahmed0046 (310)
+Seat 2: Keiff52 (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Ahmed0046 posts small blind 10
+Keiff52 posts big blind 20
+Dealt to _SKR [9h Tc]
+*** PRE-FLOP *** 
+_SKR folds
+Ahmed0046 calls 10
+Keiff52 checks
+*** FLOP *** [Kd 3h 8c]
+Ahmed0046 checks
+Keiff52 bets 26
+Ahmed0046 calls 26
+*** TURN *** [Kd 3h 8c][6c]
+Ahmed0046 checks
+Keiff52 bets 92
+Ahmed0046 folds
+Keiff52 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [Kd 3h 8c 6c]
+Seat 2: Keiff52 (big blind) won 184
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690600035153870849-3-1674687429 - Holdem no limit (10/20) - 2023/01/25 22:57:09 UTC
+Table: 'Expresso Nitro(626454138)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ahmed0046 (264)
+Seat 2: Keiff52 (346)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Keiff52 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s 7s]
+*** PRE-FLOP *** 
+Ahmed0046 raises 244 to 264 and is all-in
+Keiff52 folds
+_SKR folds
+Ahmed0046 collected 294 from pot
+*** SUMMARY ***
+Total pot 294 | No rake
+Seat 1: Ahmed0046 (button) won 294
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690600035153870849-4-1674687442 - Holdem no limit (10/20) - 2023/01/25 22:57:22 UTC
+Table: 'Expresso Nitro(626454138)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ahmed0046 (294)
+Seat 2: Keiff52 (336)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ahmed0046 posts big blind 20
+Dealt to _SKR [Td Kh]
+*** PRE-FLOP *** 
+Keiff52 raises 50 to 70
+_SKR folds
+Ahmed0046 folds
+Keiff52 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: Keiff52 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690600035153870849-5-1674687457 - Holdem no limit (10/20) - 2023/01/25 22:57:37 UTC
+Table: 'Expresso Nitro(626454138)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ahmed0046 (274)
+Seat 2: Keiff52 (366)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Ahmed0046 posts small blind 10
+Keiff52 posts big blind 20
+Dealt to _SKR [5h Ah]
+*** PRE-FLOP *** 
+_SKR raises 240 to 260 and is all-in
+Ahmed0046 folds
+Keiff52 raises 106 to 366 and is all-in
+*** FLOP *** [Ks 8c Td]
+*** TURN *** [Ks 8c Td][4h]
+*** RIVER *** [Ks 8c Td 4h][4s]
+*** SHOW DOWN ***
+_SKR shows [5h Ah] (One pair : 4)
+Keiff52 shows [Jh Tc] (Two pairs : Tens and 4)
+Keiff52 collected 636 from pot
+*** SUMMARY ***
+Total pot 636 | No rake
+Board: [Ks 8c Td 4h 4s]
+Seat 2: Keiff52 (big blind) showed [Jh Tc] and won 636 with Two pairs : Tens and 4
+Seat 3: _SKR (button) showed [5h Ah] and lost with One pair : 4
+
+

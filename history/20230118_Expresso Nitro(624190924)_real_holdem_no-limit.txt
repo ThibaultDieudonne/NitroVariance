@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680879605040021505-1-1674083079 - Holdem no limit (10/20) - 2023/01/18 23:04:39 UTC
+Table: 'Expresso Nitro(624190924)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kikouille10 (300)
+Seat 2: _SKR (300)
+Seat 3: Sorciers44 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Sorciers44 posts big blind 20
+Dealt to _SKR [3c 3d]
+*** PRE-FLOP *** 
+Kikouille10 calls 20
+_SKR raises 280 to 300 and is all-in
+Sorciers44 folds
+Kikouille10 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680879605040021505-2-1674083088 - Holdem no limit (10/20) - 2023/01/18 23:04:48 UTC
+Table: 'Expresso Nitro(624190924)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kikouille10 (280)
+Seat 2: _SKR (340)
+Seat 3: Sorciers44 (280)
+*** ANTE/BLINDS ***
+Sorciers44 posts small blind 10
+Kikouille10 posts big blind 20
+Dealt to _SKR [Th Ks]
+*** PRE-FLOP *** 
+_SKR raises 320 to 340 and is all-in
+Sorciers44 calls 270 and is all-in
+Kikouille10 folds
+*** FLOP *** [5d Ah Jd]
+*** TURN *** [5d Ah Jd][8h]
+*** RIVER *** [5d Ah Jd 8h][Qh]
+*** SHOW DOWN ***
+Sorciers44 shows [Kh Ad] (One pair : Aces)
+_SKR shows [Th Ks] (Straight Ace high)
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [5d Ah Jd 8h Qh]
+Seat 2: _SKR (button) showed [Th Ks] and won 640 with Straight Ace high
+Seat 3: Sorciers44 (small blind) showed [Kh Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680879605040021505-3-1674083102 - Holdem no limit (10/20) - 2023/01/18 23:05:02 UTC
+Table: 'Expresso Nitro(624190924)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kikouille10 (260)
+Seat 2: _SKR (640)
+*** ANTE/BLINDS ***
+Kikouille10 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h Qc]
+*** PRE-FLOP *** 
+Kikouille10 calls 10
+_SKR checks
+*** FLOP *** [Qd 5s 4s]
+_SKR checks
+Kikouille10 checks
+*** TURN *** [Qd 5s 4s][8h]
+_SKR bets 26
+Kikouille10 folds
+_SKR collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Qd 5s 4s 8h]
+Seat 2: _SKR (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680879605040021505-4-1674083119 - Holdem no limit (10/20) - 2023/01/18 23:05:19 UTC
+Table: 'Expresso Nitro(624190924)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kikouille10 (240)
+Seat 2: _SKR (660)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Kikouille10 posts big blind 20
+Dealt to _SKR [3d Th]
+*** PRE-FLOP *** 
+_SKR folds
+Kikouille10 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Kikouille10 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680879605040021505-5-1674083122 - Holdem no limit (10/20) - 2023/01/18 23:05:22 UTC
+Table: 'Expresso Nitro(624190924)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kikouille10 (250)
+Seat 2: _SKR (650)
+*** ANTE/BLINDS ***
+Kikouille10 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7h 7c]
+*** PRE-FLOP *** 
+Kikouille10 raises 230 to 250 and is all-in
+_SKR calls 230
+*** FLOP *** [6c 8c Th]
+*** TURN *** [6c 8c Th][8d]
+*** RIVER *** [6c 8c Th 8d][3s]
+*** SHOW DOWN ***
+Kikouille10 shows [As Kd] (One pair : 8)
+_SKR shows [7h 7c] (Two pairs : 8 and 7)
+_SKR collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [6c 8c Th 8d 3s]
+Seat 1: Kikouille10 (small blind) (button) showed [As Kd] and lost with One pair : 8
+Seat 2: _SKR (big blind) showed [7h 7c] and won 500 with Two pairs : 8 and 7
+
+

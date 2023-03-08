@@ -1,0 +1,277 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698163627180949505-1-1675183623 - Holdem no limit (10/20) - 2023/01/31 16:47:03 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Couzzi10 (300)
+Seat 2: _SKR (300)
+Seat 3: slap 47 (300)
+*** ANTE/BLINDS ***
+slap 47 posts small blind 10
+Couzzi10 posts big blind 20
+Dealt to _SKR [Qs 7d]
+*** PRE-FLOP *** 
+_SKR folds
+slap 47 calls 10
+Couzzi10 checks
+*** FLOP *** [Qd 6c 2s]
+slap 47 checks
+Couzzi10 checks
+*** TURN *** [Qd 6c 2s][9d]
+slap 47 checks
+Couzzi10 checks
+*** RIVER *** [Qd 6c 2s 9d][Td]
+slap 47 checks
+Couzzi10 checks
+*** SHOW DOWN ***
+Couzzi10 shows [5h 2d] (One pair : 2)
+slap 47 shows [2h 4h] (One pair : 2)
+slap 47 collected 20 from pot
+Couzzi10 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qd 6c 2s 9d Td]
+Seat 1: Couzzi10 (big blind) showed [5h 2d] and won 20 with One pair : 2
+Seat 3: slap 47 (small blind) showed [2h 4h] and won 20 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698163627180949505-2-1675183659 - Holdem no limit (10/20) - 2023/01/31 16:47:39 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Couzzi10 (300)
+Seat 2: _SKR (300)
+Seat 3: slap 47 (300)
+*** ANTE/BLINDS ***
+Couzzi10 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h 2h]
+*** PRE-FLOP *** 
+slap 47 calls 20
+Couzzi10 calls 10
+_SKR checks
+*** FLOP *** [8c 5d Qs]
+Couzzi10 checks
+_SKR checks
+slap 47 checks
+*** TURN *** [8c 5d Qs][5s]
+Couzzi10 checks
+_SKR checks
+slap 47 checks
+*** RIVER *** [8c 5d Qs 5s][3s]
+Couzzi10 checks
+_SKR checks
+slap 47 checks
+*** SHOW DOWN ***
+_SKR shows [3h 2h] (Two pairs : 5 and 3)
+slap 47 shows [6c 2s] (One pair : 5)
+Couzzi10 shows [3c Kc] (Two pairs : 5 and 3)
+Couzzi10 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [8c 5d Qs 5s 3s]
+Seat 1: Couzzi10 (small blind) showed [3c Kc] and won 60 with Two pairs : 5 and 3
+Seat 2: _SKR (big blind) showed [3h 2h] and lost with Two pairs : 5 and 3
+Seat 3: slap 47 (button) showed [6c 2s] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698163627180949505-3-1675183714 - Holdem no limit (15/30) - 2023/01/31 16:48:34 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Couzzi10 (340)
+Seat 2: _SKR (280)
+Seat 3: slap 47 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+slap 47 posts big blind 30
+Dealt to _SKR [Td Qc]
+*** PRE-FLOP *** 
+Couzzi10 calls 30
+_SKR raises 250 to 280 and is all-in
+slap 47 folds
+Couzzi10 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698163627180949505-4-1675183723 - Holdem no limit (15/30) - 2023/01/31 16:48:43 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Couzzi10 (310)
+Seat 2: _SKR (340)
+Seat 3: slap 47 (250)
+*** ANTE/BLINDS ***
+slap 47 posts small blind 15
+Couzzi10 posts big blind 30
+Dealt to _SKR [9h Qc]
+*** PRE-FLOP *** 
+_SKR folds
+slap 47 raises 30 to 60
+Couzzi10 raises 120 to 180
+slap 47 calls 120
+*** FLOP *** [2s 3d 7c]
+slap 47 bets 70 and is all-in
+Couzzi10 calls 70
+*** TURN *** [2s 3d 7c][4s]
+*** RIVER *** [2s 3d 7c 4s][4d]
+*** SHOW DOWN ***
+Couzzi10 shows [Ad 8h] (One pair : 4)
+slap 47 shows [5d As] (Straight 5 high)
+slap 47 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [2s 3d 7c 4s 4d]
+Seat 1: Couzzi10 (big blind) showed [Ad 8h] and lost with One pair : 4
+Seat 3: slap 47 (small blind) showed [5d As] and won 500 with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698163627180949505-5-1675183750 - Holdem no limit (20/40) - 2023/01/31 16:49:10 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Couzzi10 (60)
+Seat 2: _SKR (340)
+Seat 3: slap 47 (500)
+*** ANTE/BLINDS ***
+Couzzi10 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js Ks]
+*** PRE-FLOP *** 
+slap 47 calls 40
+Couzzi10 raises 20 to 60 and is all-in
+_SKR raises 280 to 340 and is all-in
+slap 47 folds
+*** FLOP *** [2s Ac Qc]
+*** TURN *** [2s Ac Qc][Jc]
+*** RIVER *** [2s Ac Qc Jc][6h]
+*** SHOW DOWN ***
+Couzzi10 shows [Ad Qs] (Two pairs : Aces and Queens)
+_SKR shows [Js Ks] (One pair : Jacks)
+_SKR collected 280 from side pot 1
+Couzzi10 collected 160 from main pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [2s Ac Qc Jc 6h]
+Seat 1: Couzzi10 (small blind) showed [Ad Qs] and won 160 with Two pairs : Aces and Queens
+Seat 2: _SKR (big blind) showed [Js Ks] and won 280 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698163627180949505-6-1675183769 - Holdem no limit (20/40) - 2023/01/31 16:49:29 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Couzzi10 (160)
+Seat 2: _SKR (280)
+Seat 3: slap 47 (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+slap 47 posts big blind 40
+Dealt to _SKR [Td Th]
+*** PRE-FLOP *** 
+Couzzi10 folds
+_SKR raises 240 to 280 and is all-in
+slap 47 folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _SKR (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698163627180949505-7-1675183778 - Holdem no limit (20/40) - 2023/01/31 16:49:38 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Couzzi10 (160)
+Seat 2: _SKR (320)
+Seat 3: slap 47 (420)
+*** ANTE/BLINDS ***
+slap 47 posts small blind 20
+Couzzi10 posts big blind 40
+Dealt to _SKR [2c Jh]
+*** PRE-FLOP *** 
+_SKR folds
+slap 47 raises 40 to 80
+Couzzi10 folds
+slap 47 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: slap 47 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698163627180949505-8-1675183786 - Holdem no limit (20/40) - 2023/01/31 16:49:46 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Couzzi10 (120)
+Seat 2: _SKR (320)
+Seat 3: slap 47 (460)
+*** ANTE/BLINDS ***
+Couzzi10 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jc 4c]
+*** PRE-FLOP *** 
+slap 47 raises 40 to 80
+Couzzi10 raises 40 to 120 and is all-in
+_SKR folds
+slap 47 calls 40
+*** FLOP *** [2d 6h Jd]
+*** TURN *** [2d 6h Jd][8d]
+*** RIVER *** [2d 6h Jd 8d][8s]
+*** SHOW DOWN ***
+Couzzi10 shows [7h Ah] (One pair : 8)
+slap 47 shows [Kc As] (One pair : 8)
+slap 47 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [2d 6h Jd 8d 8s]
+Seat 1: Couzzi10 (small blind) showed [7h Ah] and lost with One pair : 8
+Seat 3: slap 47 (button) showed [Kc As] and won 280 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698163627180949505-9-1675183806 - Holdem no limit (30/60) - 2023/01/31 16:50:06 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (280)
+Seat 3: slap 47 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+slap 47 posts big blind 60
+Dealt to _SKR [5h Ac]
+*** PRE-FLOP *** 
+_SKR raises 220 to 280 and is all-in
+slap 47 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (small blind) (button) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698163627180949505-10-1675183813 - Holdem no limit (30/60) - 2023/01/31 16:50:13 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (340)
+Seat 3: slap 47 (560)
+*** ANTE/BLINDS ***
+slap 47 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ad 2c]
+*** PRE-FLOP *** 
+slap 47 calls 30
+_SKR raises 280 to 340 and is all-in
+slap 47 folds
+_SKR collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 2: _SKR (big blind) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698163627180949505-11-1675183824 - Holdem no limit (30/60) - 2023/01/31 16:50:24 UTC
+Table: 'Expresso Nitro(628215174)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (400)
+Seat 3: slap 47 (500)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+slap 47 posts big blind 60
+Dealt to _SKR [Kc 4s]
+*** PRE-FLOP *** 
+_SKR raises 340 to 400 and is all-in
+slap 47 calls 340
+*** FLOP *** [7c Ah 4c]
+*** TURN *** [7c Ah 4c][5h]
+*** RIVER *** [7c Ah 4c 5h][Qs]
+*** SHOW DOWN ***
+_SKR shows [Kc 4s] (One pair : 4)
+slap 47 shows [Js Qh] (One pair : Queens)
+slap 47 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [7c Ah 4c 5h Qs]
+Seat 2: _SKR (small blind) (button) showed [Kc 4s] and lost with One pair : 4
+Seat 3: slap 47 (big blind) showed [Js Qh] and won 800 with One pair : Queens
+
+

@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691959113130180609-1-1674775343 - Holdem no limit (10/20) - 2023/01/26 23:22:23 UTC
+Table: 'Expresso Nitro(626770573)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 1SALISSURE (300)
+Seat 2: DamienT60 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+1SALISSURE posts big blind 20
+Dealt to _SKR [6d 2h]
+*** PRE-FLOP *** 
+DamienT60 folds
+_SKR folds
+1SALISSURE collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: 1SALISSURE (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691959113130180609-2-1674775352 - Holdem no limit (10/20) - 2023/01/26 23:22:32 UTC
+Table: 'Expresso Nitro(626770573)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 1SALISSURE (310)
+Seat 2: DamienT60 (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+1SALISSURE posts small blind 10
+DamienT60 posts big blind 20
+Dealt to _SKR [Qc Th]
+*** PRE-FLOP *** 
+_SKR folds
+1SALISSURE calls 10
+DamienT60 checks
+*** FLOP *** [4s 7s 8d]
+1SALISSURE checks
+DamienT60 checks
+*** TURN *** [4s 7s 8d][Ac]
+1SALISSURE checks
+DamienT60 bets 40
+1SALISSURE folds
+DamienT60 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4s 7s 8d Ac]
+Seat 2: DamienT60 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691959113130180609-3-1674775399 - Holdem no limit (15/30) - 2023/01/26 23:23:19 UTC
+Table: 'Expresso Nitro(626770573)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 1SALISSURE (290)
+Seat 2: DamienT60 (320)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+DamienT60 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8s 2d]
+*** PRE-FLOP *** 
+1SALISSURE folds
+DamienT60 calls 15
+_SKR checks
+*** FLOP *** [2c 8c 9s]
+DamienT60 bets 60
+_SKR calls 60
+*** TURN *** [2c 8c 9s][6d]
+DamienT60 bets 63
+_SKR raises 137 to 200 and is all-in
+DamienT60 calls 137
+*** RIVER *** [2c 8c 9s 6d][Jd]
+*** SHOW DOWN ***
+DamienT60 shows [9h Kc] (One pair : 9)
+_SKR shows [8s 2d] (Two pairs : 8 and 2)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [2c 8c 9s 6d Jd]
+Seat 2: DamienT60 (small blind) showed [9h Kc] and lost with One pair : 9
+Seat 3: _SKR (big blind) showed [8s 2d] and won 580 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691959113130180609-4-1674775438 - Holdem no limit (15/30) - 2023/01/26 23:23:58 UTC
+Table: 'Expresso Nitro(626770573)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 1SALISSURE (290)
+Seat 2: DamienT60 (30)
+Seat 3: _SKR (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+1SALISSURE posts big blind 30
+Dealt to _SKR [6c As]
+*** PRE-FLOP *** 
+DamienT60 calls 30 and is all-in
+_SKR raises 550 to 580 and is all-in
+1SALISSURE calls 260 and is all-in
+*** FLOP *** [5h Kd 4s]
+*** TURN *** [5h Kd 4s][3s]
+*** RIVER *** [5h Kd 4s 3s][6s]
+*** SHOW DOWN ***
+1SALISSURE shows [Th Jc] (High card : King)
+DamienT60 shows [Qd 8h] (High card : King)
+_SKR shows [6c As] (One pair : 6)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h Kd 4s 3s 6s]
+Seat 1: 1SALISSURE (big blind) showed [Th Jc] and lost with High card : King
+Seat 2: DamienT60 (button) showed [Qd 8h] and lost with High card : King
+Seat 3: _SKR (small blind) showed [6c As] and won 900 with One pair : 6
+
+

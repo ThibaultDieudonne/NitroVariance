@@ -1,0 +1,315 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717717883135197185-1-1676232738 - Holdem no limit (10/20) - 2023/02/12 20:12:18 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: machine1377 (300)
+Seat 3: LA SOMTUEUSE (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+machine1377 posts big blind 20
+Dealt to _SKR [9s 9h]
+*** PRE-FLOP *** 
+LA SOMTUEUSE folds
+_SKR raises 280 to 300 and is all-in
+machine1377 calls 280 and is all-in
+*** FLOP *** [7d Jd Kc]
+*** TURN *** [7d Jd Kc][6c]
+*** RIVER *** [7d Jd Kc 6c][Qs]
+*** SHOW DOWN ***
+machine1377 shows [4s Ad] (High card : Ace)
+_SKR shows [9s 9h] (One pair : 9)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7d Jd Kc 6c Qs]
+Seat 1: _SKR (small blind) showed [9s 9h] and won 600 with One pair : 9
+Seat 2: machine1377 (big blind) showed [4s Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717717883135197185-2-1676232754 - Holdem no limit (10/20) - 2023/02/12 20:12:34 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (600)
+Seat 3: LA SOMTUEUSE (300)
+*** ANTE/BLINDS ***
+LA SOMTUEUSE posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h Ts]
+*** PRE-FLOP *** 
+LA SOMTUEUSE folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717717883135197185-3-1676232759 - Holdem no limit (10/20) - 2023/02/12 20:12:39 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (610)
+Seat 3: LA SOMTUEUSE (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LA SOMTUEUSE posts big blind 20
+Dealt to _SKR [4d As]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+LA SOMTUEUSE raises 250 to 290 and is all-in
+_SKR calls 250
+*** FLOP *** [5s Qc 3s]
+*** TURN *** [5s Qc 3s][Kh]
+*** RIVER *** [5s Qc 3s Kh][5h]
+*** SHOW DOWN ***
+_SKR shows [4d As] (One pair : 5)
+LA SOMTUEUSE shows [Tc Th] (Two pairs : Tens and 5)
+LA SOMTUEUSE collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5s Qc 3s Kh 5h]
+Seat 1: _SKR (small blind) (button) showed [4d As] and lost with One pair : 5
+Seat 3: LA SOMTUEUSE (big blind) showed [Tc Th] and won 580 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717717883135197185-4-1676232777 - Holdem no limit (10/20) - 2023/02/12 20:12:57 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 3: LA SOMTUEUSE (580)
+*** ANTE/BLINDS ***
+LA SOMTUEUSE posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad 6s]
+*** PRE-FLOP *** 
+LA SOMTUEUSE raises 560 to 580 and is all-in
+_SKR calls 300 and is all-in
+*** FLOP *** [2c 6c Ac]
+*** TURN *** [2c 6c Ac][7h]
+*** RIVER *** [2c 6c Ac 7h][9c]
+*** SHOW DOWN ***
+_SKR shows [Ad 6s] (Two pairs : Aces and 6)
+LA SOMTUEUSE shows [Kd 3s] (High card : Ace)
+LA SOMTUEUSE collected 260 from side pot 1
+_SKR collected 640 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2c 6c Ac 7h 9c]
+Seat 1: _SKR (big blind) showed [Ad 6s] and won 640 with Two pairs : Aces and 6
+Seat 3: LA SOMTUEUSE (small blind) (button) showed [Kd 3s] and won 260 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717717883135197185-5-1676232793 - Holdem no limit (10/20) - 2023/02/12 20:13:13 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (640)
+Seat 3: LA SOMTUEUSE (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LA SOMTUEUSE posts big blind 20
+Dealt to _SKR [As 8s]
+*** PRE-FLOP *** 
+_SKR raises 620 to 640 and is all-in
+LA SOMTUEUSE folds
+_SKR collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 1: _SKR (small blind) (button) won 660
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717717883135197185-6-1676232803 - Holdem no limit (15/30) - 2023/02/12 20:13:23 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (660)
+Seat 3: LA SOMTUEUSE (240)
+*** ANTE/BLINDS ***
+LA SOMTUEUSE posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th 6c]
+*** PRE-FLOP *** 
+LA SOMTUEUSE folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717717883135197185-7-1676232808 - Holdem no limit (15/30) - 2023/02/12 20:13:28 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (675)
+Seat 3: LA SOMTUEUSE (225)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LA SOMTUEUSE posts big blind 30
+Dealt to _SKR [9s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+LA SOMTUEUSE collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: LA SOMTUEUSE (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717717883135197185-8-1676232813 - Holdem no limit (15/30) - 2023/02/12 20:13:33 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (660)
+Seat 3: LA SOMTUEUSE (240)
+*** ANTE/BLINDS ***
+LA SOMTUEUSE posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5h 5d]
+*** PRE-FLOP *** 
+LA SOMTUEUSE folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717717883135197185-9-1676232820 - Holdem no limit (15/30) - 2023/02/12 20:13:40 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (675)
+Seat 3: LA SOMTUEUSE (225)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LA SOMTUEUSE posts big blind 30
+Dealt to _SKR [Kh Jd]
+*** PRE-FLOP *** 
+_SKR raises 645 to 675 and is all-in
+LA SOMTUEUSE folds
+_SKR collected 705 from pot
+*** SUMMARY ***
+Total pot 705 | No rake
+Seat 1: _SKR (small blind) (button) won 705
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717717883135197185-10-1676232826 - Holdem no limit (15/30) - 2023/02/12 20:13:46 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (705)
+Seat 3: LA SOMTUEUSE (195)
+*** ANTE/BLINDS ***
+LA SOMTUEUSE posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5c Qd]
+*** PRE-FLOP *** 
+LA SOMTUEUSE folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717717883135197185-11-1676232837 - Holdem no limit (15/30) - 2023/02/12 20:13:57 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (720)
+Seat 3: LA SOMTUEUSE (180)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LA SOMTUEUSE posts big blind 30
+Dealt to _SKR [4c 6d]
+*** PRE-FLOP *** 
+_SKR folds
+LA SOMTUEUSE collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: LA SOMTUEUSE (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717717883135197185-12-1676232843 - Holdem no limit (15/30) - 2023/02/12 20:14:03 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (705)
+Seat 3: LA SOMTUEUSE (195)
+*** ANTE/BLINDS ***
+LA SOMTUEUSE posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ts Ah]
+*** PRE-FLOP *** 
+LA SOMTUEUSE folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717717883135197185-13-1676232846 - Holdem no limit (15/30) - 2023/02/12 20:14:06 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (720)
+Seat 3: LA SOMTUEUSE (180)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+LA SOMTUEUSE posts big blind 30
+Dealt to _SKR [3c 3s]
+*** PRE-FLOP *** 
+_SKR raises 690 to 720 and is all-in
+LA SOMTUEUSE folds
+_SKR collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 1: _SKR (small blind) (button) won 750
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717717883135197185-14-1676232858 - Holdem no limit (20/40) - 2023/02/12 20:14:18 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (750)
+Seat 3: LA SOMTUEUSE (150)
+*** ANTE/BLINDS ***
+LA SOMTUEUSE posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9d 2h]
+*** PRE-FLOP *** 
+LA SOMTUEUSE folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717717883135197185-15-1676232862 - Holdem no limit (20/40) - 2023/02/12 20:14:22 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (770)
+Seat 3: LA SOMTUEUSE (130)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+LA SOMTUEUSE posts big blind 40
+Dealt to _SKR [3h 4c]
+*** PRE-FLOP *** 
+_SKR folds
+LA SOMTUEUSE collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: LA SOMTUEUSE (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717717883135197185-16-1676232865 - Holdem no limit (20/40) - 2023/02/12 20:14:25 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (750)
+Seat 3: LA SOMTUEUSE (150)
+*** ANTE/BLINDS ***
+LA SOMTUEUSE posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc 7c]
+*** PRE-FLOP *** 
+LA SOMTUEUSE folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717717883135197185-17-1676232870 - Holdem no limit (20/40) - 2023/02/12 20:14:30 UTC
+Table: 'Expresso Nitro(632768004)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (770)
+Seat 3: LA SOMTUEUSE (130)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+LA SOMTUEUSE posts big blind 40
+Dealt to _SKR [Kh Kd]
+*** PRE-FLOP *** 
+_SKR raises 730 to 770 and is all-in
+LA SOMTUEUSE calls 90 and is all-in
+*** FLOP *** [6d 7d 2h]
+*** TURN *** [6d 7d 2h][3c]
+*** RIVER *** [6d 7d 2h 3c][4d]
+*** SHOW DOWN ***
+LA SOMTUEUSE shows [Ac 4s] (One pair : 4)
+_SKR shows [Kh Kd] (One pair : Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 7d 2h 3c 4d]
+Seat 1: _SKR (small blind) (button) showed [Kh Kd] and won 900 with One pair : Kings
+Seat 3: LA SOMTUEUSE (big blind) showed [Ac 4s] and lost with One pair : 4
+
+

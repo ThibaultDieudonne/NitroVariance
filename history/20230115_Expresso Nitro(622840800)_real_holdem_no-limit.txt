@@ -1,0 +1,134 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675080866614476801-1-1673743283 - Holdem no limit (10/20) - 2023/01/15 00:41:23 UTC
+Table: 'Expresso Nitro(622840800)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Berkydelrifi (300)
+Seat 2: _SKR (300)
+Seat 3: Edortatu (300)
+*** ANTE/BLINDS ***
+Berkydelrifi posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs 5c]
+*** PRE-FLOP *** 
+Edortatu calls 20
+Berkydelrifi calls 10
+_SKR checks
+*** FLOP *** [Kh 9s 6s]
+Berkydelrifi checks
+_SKR checks
+Edortatu bets 60
+Berkydelrifi folds
+_SKR folds
+Edortatu collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kh 9s 6s]
+Seat 3: Edortatu (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675080866614476801-2-1673743313 - Holdem no limit (10/20) - 2023/01/15 00:41:53 UTC
+Table: 'Expresso Nitro(622840800)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Berkydelrifi (280)
+Seat 2: _SKR (280)
+Seat 3: Edortatu (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Edortatu posts big blind 20
+Dealt to _SKR [5d 7c]
+*** PRE-FLOP *** 
+Berkydelrifi calls 20
+_SKR folds
+Edortatu raises 320 to 340 and is all-in
+Berkydelrifi calls 260 and is all-in
+*** FLOP *** [8d 5c Kh]
+*** TURN *** [8d 5c Kh][Td]
+*** RIVER *** [8d 5c Kh Td][Tc]
+*** SHOW DOWN ***
+Berkydelrifi shows [9s Ts] (Trips of Tens)
+Edortatu shows [2s Ad] (One pair : Tens)
+Edortatu collected 60 from side pot 1
+Berkydelrifi collected 570 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [8d 5c Kh Td Tc]
+Seat 1: Berkydelrifi (button) showed [9s Ts] and won 570 with Trips of Tens
+Seat 3: Edortatu (big blind) showed [2s Ad] and won 60 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675080866614476801-3-1673743328 - Holdem no limit (10/20) - 2023/01/15 00:42:08 UTC
+Table: 'Expresso Nitro(622840800)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Berkydelrifi (570)
+Seat 2: _SKR (270)
+Seat 3: Edortatu (60)
+*** ANTE/BLINDS ***
+Edortatu posts small blind 10
+Berkydelrifi posts big blind 20
+Dealt to _SKR [Jd 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Edortatu raises 40 to 60 and is all-in
+Berkydelrifi calls 40
+*** FLOP *** [8d Qd 3c]
+*** TURN *** [8d Qd 3c][Ts]
+*** RIVER *** [8d Qd 3c Ts][2d]
+*** SHOW DOWN ***
+Berkydelrifi shows [6h Ks] (High card : King)
+Edortatu shows [Td Qc] (Two pairs : Queens and Tens)
+Edortatu collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8d Qd 3c Ts 2d]
+Seat 1: Berkydelrifi (big blind) showed [6h Ks] and lost with High card : King
+Seat 3: Edortatu (small blind) showed [Td Qc] and won 120 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675080866614476801-4-1673743343 - Holdem no limit (15/30) - 2023/01/15 00:42:23 UTC
+Table: 'Expresso Nitro(622840800)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Berkydelrifi (510)
+Seat 2: _SKR (270)
+Seat 3: Edortatu (120)
+*** ANTE/BLINDS ***
+Berkydelrifi posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4d 2s]
+*** PRE-FLOP *** 
+Edortatu raises 90 to 120 and is all-in
+Berkydelrifi calls 105
+_SKR folds
+*** FLOP *** [Ac 5h 9d]
+*** TURN *** [Ac 5h 9d][5d]
+*** RIVER *** [Ac 5h 9d 5d][8d]
+*** SHOW DOWN ***
+Edortatu shows [Kd Qc] (One pair : 5)
+Berkydelrifi shows [5s Kc] (Trips of 5)
+Berkydelrifi collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [Ac 5h 9d 5d 8d]
+Seat 1: Berkydelrifi (small blind) showed [5s Kc] and won 270 with Trips of 5
+Seat 3: Edortatu (button) showed [Kd Qc] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675080866614476801-5-1673743358 - Holdem no limit (15/30) - 2023/01/15 00:42:38 UTC
+Table: 'Expresso Nitro(622840800)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Berkydelrifi (660)
+Seat 2: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Berkydelrifi posts big blind 30
+Dealt to _SKR [Td Tc]
+*** PRE-FLOP *** 
+_SKR raises 210 to 240 and is all-in
+Berkydelrifi calls 210
+*** FLOP *** [2c 6h Qs]
+*** TURN *** [2c 6h Qs][8h]
+*** RIVER *** [2c 6h Qs 8h][2d]
+*** SHOW DOWN ***
+_SKR shows [Td Tc] (Two pairs : Tens and 2)
+Berkydelrifi shows [Ah Qc] (Two pairs : Queens and 2)
+Berkydelrifi collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [2c 6h Qs 8h 2d]
+Seat 1: Berkydelrifi (big blind) showed [Ah Qc] and won 480 with Two pairs : Queens and 2
+Seat 2: _SKR (small blind) (button) showed [Td Tc] and lost with Two pairs : Tens and 2
+
+

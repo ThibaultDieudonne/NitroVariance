@@ -1,0 +1,151 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654462236159901697-1-1672661923 - Holdem no limit (10/20) - 2023/01/02 12:18:43 UTC
+Table: 'Expresso Nitro(618040151)#0' 3-max (real money) Seat #1 is the button
+Seat 1: patapalo8 (300)
+Seat 2: _SKR (300)
+Seat 3: Wankerr (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Wankerr posts big blind 20
+Dealt to _SKR [Qc 6h]
+*** PRE-FLOP *** 
+patapalo8 folds
+_SKR folds
+Wankerr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Wankerr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654462236159901697-2-1672661929 - Holdem no limit (10/20) - 2023/01/02 12:18:49 UTC
+Table: 'Expresso Nitro(618040151)#0' 3-max (real money) Seat #2 is the button
+Seat 1: patapalo8 (300)
+Seat 2: _SKR (290)
+Seat 3: Wankerr (310)
+*** ANTE/BLINDS ***
+Wankerr posts small blind 10
+patapalo8 posts big blind 20
+Dealt to _SKR [Qc Qd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Wankerr folds
+patapalo8 calls 20
+*** FLOP *** [4h Tc 5d]
+patapalo8 bets 260 and is all-in
+_SKR calls 250 and is all-in
+*** TURN *** [4h Tc 5d][2c]
+*** RIVER *** [4h Tc 5d 2c][9h]
+*** SHOW DOWN ***
+patapalo8 shows [4c 7s] (One pair : 4)
+_SKR shows [Qc Qd] (One pair : Queens)
+_SKR collected 590 from main pot
+patapalo8 collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4h Tc 5d 2c 9h]
+Seat 1: patapalo8 (big blind) showed [4c 7s] and won 10 with One pair : 4
+Seat 2: _SKR (button) showed [Qc Qd] and won 590 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654462236159901697-3-1672661950 - Holdem no limit (10/20) - 2023/01/02 12:19:10 UTC
+Table: 'Expresso Nitro(618040151)#0' 3-max (real money) Seat #3 is the button
+Seat 1: patapalo8 (10)
+Seat 2: _SKR (590)
+Seat 3: Wankerr (300)
+*** ANTE/BLINDS ***
+patapalo8 posts small blind 10 and is all-in
+_SKR posts big blind 20
+Dealt to _SKR [Ac 5c]
+*** PRE-FLOP *** 
+Wankerr folds
+*** FLOP *** [Ts Ah 7c]
+*** TURN *** [Ts Ah 7c][6d]
+*** RIVER *** [Ts Ah 7c 6d][9d]
+*** SHOW DOWN ***
+patapalo8 shows [9s 6c] (Two pairs : 9 and 6)
+_SKR shows [Ac 5c] (One pair : Aces)
+_SKR collected 10 from side pot 1
+patapalo8 collected 20 from main pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [Ts Ah 7c 6d 9d]
+Seat 1: patapalo8 (small blind) showed [9s 6c] and won 20 with Two pairs : 9 and 6
+Seat 2: _SKR (big blind) showed [Ac 5c] and won 10 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654462236159901697-4-1672661960 - Holdem no limit (10/20) - 2023/01/02 12:19:20 UTC
+Table: 'Expresso Nitro(618040151)#0' 3-max (real money) Seat #1 is the button
+Seat 1: patapalo8 (20)
+Seat 2: _SKR (580)
+Seat 3: Wankerr (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Wankerr posts big blind 20
+Dealt to _SKR [Qs 4h]
+*** PRE-FLOP *** 
+patapalo8 folds
+_SKR folds
+Wankerr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Wankerr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654462236159901697-5-1672661966 - Holdem no limit (10/20) - 2023/01/02 12:19:26 UTC
+Table: 'Expresso Nitro(618040151)#0' 3-max (real money) Seat #2 is the button
+Seat 1: patapalo8 (20)
+Seat 2: _SKR (570)
+Seat 3: Wankerr (310)
+*** ANTE/BLINDS ***
+Wankerr posts small blind 10
+patapalo8 posts big blind 20 and is all-in
+Dealt to _SKR [8s Qh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Wankerr calls 30
+*** FLOP *** [Ac Jh Qc]
+Wankerr checks
+_SKR checks
+*** TURN *** [Ac Jh Qc][8h]
+Wankerr bets 20
+_SKR calls 20
+*** RIVER *** [Ac Jh Qc 8h][9s]
+Wankerr bets 20
+_SKR calls 20
+*** SHOW DOWN ***
+patapalo8 shows [6h 2h] (High card : Ace)
+Wankerr shows [As 7s] (One pair : Aces)
+_SKR shows [8s Qh] (Two pairs : Queens and 8)
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ac Jh Qc 8h 9s]
+Seat 1: patapalo8 (big blind) showed [6h 2h] and lost with High card : Ace
+Seat 2: _SKR (button) showed [8s Qh] and won 180 with Two pairs : Queens and 8
+Seat 3: Wankerr (small blind) showed [As 7s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2654462236159901697-6-1672662001 - Holdem no limit (15/30) - 2023/01/02 12:20:01 UTC
+Table: 'Expresso Nitro(618040151)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (670)
+Seat 3: Wankerr (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Wankerr posts big blind 30
+Dealt to _SKR [As 8s]
+*** PRE-FLOP *** 
+_SKR raises 640 to 670 and is all-in
+Wankerr calls 200 and is all-in
+*** FLOP *** [5h 4s 6h]
+*** TURN *** [5h 4s 6h][Ad]
+*** RIVER *** [5h 4s 6h Ad][3h]
+*** SHOW DOWN ***
+Wankerr shows [Qs Td] (High card : Ace)
+_SKR shows [As 8s] (One pair : Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h 4s 6h Ad 3h]
+Seat 2: _SKR (small blind) (button) showed [As 8s] and won 900 with One pair : Aces
+Seat 3: Wankerr (big blind) showed [Qs Td] and lost with High card : Ace
+
+

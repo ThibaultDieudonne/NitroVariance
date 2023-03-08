@@ -1,0 +1,133 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718612069556420609-1-1676291580 - Holdem no limit (10/20) - 2023/02/13 12:33:00 UTC
+Table: 'Expresso Nitro(632976198)#0' 3-max (real money) Seat #2 is the button
+Seat 1: genath26 (300)
+Seat 2: _SKR (300)
+Seat 3: Luna_1637 (300)
+*** ANTE/BLINDS ***
+Luna_1637 posts small blind 10
+genath26 posts big blind 20
+Dealt to _SKR [Qd 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Luna_1637 folds
+genath26 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: genath26 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718612069556420609-2-1676291588 - Holdem no limit (10/20) - 2023/02/13 12:33:08 UTC
+Table: 'Expresso Nitro(632976198)#0' 3-max (real money) Seat #3 is the button
+Seat 1: genath26 (310)
+Seat 2: _SKR (300)
+Seat 3: Luna_1637 (290)
+*** ANTE/BLINDS ***
+genath26 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qs Jh]
+*** PRE-FLOP *** 
+Luna_1637 folds
+genath26 calls 10
+_SKR checks
+*** FLOP *** [5c 5s Ac]
+genath26 checks
+_SKR checks
+*** TURN *** [5c 5s Ac][Ts]
+genath26 checks
+_SKR checks
+*** RIVER *** [5c 5s Ac Ts][Kd]
+genath26 checks
+_SKR bets 32
+genath26 folds
+_SKR collected 72 from pot
+*** SUMMARY ***
+Total pot 72 | No rake
+Board: [5c 5s Ac Ts Kd]
+Seat 2: _SKR (big blind) won 72
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718612069556420609-3-1676291620 - Holdem no limit (10/20) - 2023/02/13 12:33:40 UTC
+Table: 'Expresso Nitro(632976198)#0' 3-max (real money) Seat #1 is the button
+Seat 1: genath26 (290)
+Seat 2: _SKR (320)
+Seat 3: Luna_1637 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Luna_1637 posts big blind 20
+Dealt to _SKR [9h 8c]
+*** PRE-FLOP *** 
+genath26 folds
+_SKR folds
+Luna_1637 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Luna_1637 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718612069556420609-4-1676291627 - Holdem no limit (10/20) - 2023/02/13 12:33:47 UTC
+Table: 'Expresso Nitro(632976198)#0' 3-max (real money) Seat #2 is the button
+Seat 1: genath26 (290)
+Seat 2: _SKR (310)
+Seat 3: Luna_1637 (300)
+*** ANTE/BLINDS ***
+Luna_1637 posts small blind 10
+genath26 posts big blind 20
+Dealt to _SKR [Ac Tc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Luna_1637 folds
+genath26 calls 20
+*** FLOP *** [5d Qh 7s]
+genath26 bets 20
+_SKR calls 20
+*** TURN *** [5d Qh 7s][2d]
+genath26 checks
+_SKR checks
+*** RIVER *** [5d Qh 7s 2d][Js]
+genath26 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Ac Tc] (High card : Ace)
+genath26 shows [Ad Qd] (One pair : Queens)
+genath26 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [5d Qh 7s 2d Js]
+Seat 1: genath26 (big blind) showed [Ad Qd] and won 130 with One pair : Queens
+Seat 2: _SKR (button) showed [Ac Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718612069556420609-5-1676291664 - Holdem no limit (15/30) - 2023/02/13 12:34:24 UTC
+Table: 'Expresso Nitro(632976198)#0' 3-max (real money) Seat #3 is the button
+Seat 1: genath26 (360)
+Seat 2: _SKR (250)
+Seat 3: Luna_1637 (290)
+*** ANTE/BLINDS ***
+genath26 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd Qs]
+*** PRE-FLOP *** 
+Luna_1637 calls 30
+genath26 calls 15
+_SKR raises 220 to 250 and is all-in
+Luna_1637 calls 220
+genath26 calls 220
+*** FLOP *** [2h Ah Kh]
+genath26 checks
+Luna_1637 bets 40 and is all-in
+genath26 calls 40
+*** TURN *** [2h Ah Kh][9d]
+*** RIVER *** [2h Ah Kh 9d][Th]
+*** SHOW DOWN ***
+_SKR shows [Kd Qs] (One pair : Kings)
+Luna_1637 shows [8d Js] (High card : Ace)
+genath26 shows [Jc As] (One pair : Aces)
+genath26 collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Board: [2h Ah Kh 9d Th]
+Seat 1: genath26 (small blind) showed [Jc As] and won 830 with One pair : Aces
+Seat 2: _SKR (big blind) showed [Kd Qs] and lost with One pair : Kings
+Seat 3: Luna_1637 (button) showed [8d Js] and lost with High card : Ace
+
+

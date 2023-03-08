@@ -1,0 +1,525 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696649659799044097-1-1675091637 - Holdem no limit (10/20) - 2023/01/30 15:13:57 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Django1977 (300)
+Seat 3: Yerling (300)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 10
+Yerling posts big blind 20
+Dealt to _SKR [Ts 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Django1977 folds
+Yerling collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Yerling (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696649659799044097-2-1675091643 - Holdem no limit (10/20) - 2023/01/30 15:14:03 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Django1977 (290)
+Seat 3: Yerling (310)
+*** ANTE/BLINDS ***
+Yerling posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d Ac]
+*** PRE-FLOP *** 
+Django1977 folds
+Yerling raises 40 to 60
+_SKR raises 240 to 300 and is all-in
+Yerling folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: _SKR (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696649659799044097-3-1675091661 - Holdem no limit (10/20) - 2023/01/30 15:14:21 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (360)
+Seat 2: Django1977 (290)
+Seat 3: Yerling (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Django1977 posts big blind 20
+Dealt to _SKR [Qh Ah]
+*** PRE-FLOP *** 
+Yerling raises 230 to 250 and is all-in
+_SKR raises 110 to 360 and is all-in
+Django1977 folds
+*** FLOP *** [As Qc Kc]
+*** TURN *** [As Qc Kc][3d]
+*** RIVER *** [As Qc Kc 3d][Ad]
+*** SHOW DOWN ***
+Yerling shows [Jd 6d] (One pair : Aces)
+_SKR shows [Qh Ah] (Full of Aces and Queens)
+_SKR collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [As Qc Kc 3d Ad]
+Seat 1: _SKR (small blind) showed [Qh Ah] and won 630 with Full of Aces and Queens
+Seat 3: Yerling (button) showed [Jd 6d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696649659799044097-4-1675091678 - Holdem no limit (10/20) - 2023/01/30 15:14:38 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (630)
+Seat 2: Django1977 (270)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 9c]
+*** PRE-FLOP *** 
+Django1977 calls 10
+_SKR checks
+*** FLOP *** [2h 4h 3s]
+_SKR checks
+Django1977 checks
+*** TURN *** [2h 4h 3s][Th]
+_SKR checks
+Django1977 checks
+*** RIVER *** [2h 4h 3s Th][8d]
+_SKR bets 32
+Django1977 calls 32
+*** SHOW DOWN ***
+_SKR shows [Js 9c] (High card : Jack)
+Django1977 shows [Ah 2d] (One pair : 2)
+Django1977 collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Board: [2h 4h 3s Th 8d]
+Seat 1: _SKR (big blind) showed [Js 9c] and lost with High card : Jack
+Seat 2: Django1977 (small blind) (button) showed [Ah 2d] and won 104 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696649659799044097-5-1675091712 - Holdem no limit (15/30) - 2023/01/30 15:15:12 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (578)
+Seat 2: Django1977 (322)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Django1977 posts big blind 30
+Dealt to _SKR [Qc 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Django1977 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Django1977 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696649659799044097-6-1675091715 - Holdem no limit (15/30) - 2023/01/30 15:15:15 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (563)
+Seat 2: Django1977 (337)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2s 6c]
+*** PRE-FLOP *** 
+Django1977 calls 15
+_SKR checks
+*** FLOP *** [Ts Kd Kh]
+_SKR checks
+Django1977 checks
+*** TURN *** [Ts Kd Kh][Qs]
+_SKR checks
+Django1977 checks
+*** RIVER *** [Ts Kd Kh Qs][Qd]
+_SKR checks
+Django1977 bets 30
+_SKR folds
+Django1977 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ts Kd Kh Qs Qd]
+Seat 2: Django1977 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696649659799044097-7-1675091740 - Holdem no limit (15/30) - 2023/01/30 15:15:40 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (533)
+Seat 2: Django1977 (367)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Django1977 posts big blind 30
+Dealt to _SKR [Qc 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Django1977 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Django1977 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696649659799044097-8-1675091745 - Holdem no limit (15/30) - 2023/01/30 15:15:45 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (518)
+Seat 2: Django1977 (382)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5c 5s]
+*** PRE-FLOP *** 
+Django1977 calls 15
+_SKR raises 488 to 518 and is all-in
+Django1977 folds
+_SKR collected 548 from pot
+*** SUMMARY ***
+Total pot 548 | No rake
+Seat 1: _SKR (big blind) won 548
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696649659799044097-9-1675091754 - Holdem no limit (20/40) - 2023/01/30 15:15:54 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (548)
+Seat 2: Django1977 (352)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Django1977 posts big blind 40
+Dealt to _SKR [4c As]
+*** PRE-FLOP *** 
+_SKR raises 508 to 548 and is all-in
+Django1977 folds
+_SKR collected 588 from pot
+*** SUMMARY ***
+Total pot 588 | No rake
+Seat 1: _SKR (small blind) (button) won 588
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696649659799044097-10-1675091760 - Holdem no limit (20/40) - 2023/01/30 15:16:00 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (588)
+Seat 2: Django1977 (312)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3s 2h]
+*** PRE-FLOP *** 
+Django1977 calls 20
+_SKR checks
+*** FLOP *** [Ts Kc Ah]
+_SKR checks
+Django1977 checks
+*** TURN *** [Ts Kc Ah][6d]
+_SKR checks
+Django1977 checks
+*** RIVER *** [Ts Kc Ah 6d][6s]
+_SKR checks
+Django1977 bets 40
+_SKR folds
+Django1977 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ts Kc Ah 6d 6s]
+Seat 2: Django1977 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696649659799044097-11-1675091798 - Holdem no limit (20/40) - 2023/01/30 15:16:38 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (548)
+Seat 2: Django1977 (352)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Django1977 posts big blind 40
+Dealt to _SKR [Tc Kc]
+*** PRE-FLOP *** 
+_SKR raises 508 to 548 and is all-in
+Django1977 folds
+_SKR collected 588 from pot
+*** SUMMARY ***
+Total pot 588 | No rake
+Seat 1: _SKR (small blind) (button) won 588
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696649659799044097-12-1675091807 - Holdem no limit (20/40) - 2023/01/30 15:16:47 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (588)
+Seat 2: Django1977 (312)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c 2s]
+*** PRE-FLOP *** 
+Django1977 calls 20
+_SKR checks
+*** FLOP *** [Jc Th 3s]
+_SKR checks
+Django1977 checks
+*** TURN *** [Jc Th 3s][9d]
+_SKR checks
+Django1977 checks
+*** RIVER *** [Jc Th 3s 9d][Qh]
+_SKR checks
+Django1977 checks
+*** SHOW DOWN ***
+_SKR shows [7c 2s] (High card : Queen)
+Django1977 shows [8h 5d] (Straight Queen high)
+Django1977 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Jc Th 3s 9d Qh]
+Seat 1: _SKR (big blind) showed [7c 2s] and lost with High card : Queen
+Seat 2: Django1977 (small blind) (button) showed [8h 5d] and won 80 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696649659799044097-13-1675091844 - Holdem no limit (30/60) - 2023/01/30 15:17:24 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (548)
+Seat 2: Django1977 (352)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Django1977 posts big blind 60
+Dealt to _SKR [3d Tc]
+*** PRE-FLOP *** 
+_SKR folds
+Django1977 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Django1977 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696649659799044097-14-1675091847 - Holdem no limit (30/60) - 2023/01/30 15:17:27 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (518)
+Seat 2: Django1977 (382)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jc 4c]
+*** PRE-FLOP *** 
+Django1977 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696649659799044097-15-1675091852 - Holdem no limit (30/60) - 2023/01/30 15:17:32 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (548)
+Seat 2: Django1977 (352)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Django1977 posts big blind 60
+Dealt to _SKR [As 2d]
+*** PRE-FLOP *** 
+_SKR raises 488 to 548 and is all-in
+Django1977 folds
+_SKR collected 608 from pot
+*** SUMMARY ***
+Total pot 608 | No rake
+Seat 1: _SKR (small blind) (button) won 608
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696649659799044097-16-1675091858 - Holdem no limit (30/60) - 2023/01/30 15:17:38 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (608)
+Seat 2: Django1977 (292)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3d As]
+*** PRE-FLOP *** 
+Django1977 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696649659799044097-17-1675091862 - Holdem no limit (30/60) - 2023/01/30 15:17:42 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (638)
+Seat 2: Django1977 (262)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Django1977 posts big blind 60
+Dealt to _SKR [7c 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Django1977 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Django1977 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696649659799044097-18-1675091866 - Holdem no limit (30/60) - 2023/01/30 15:17:46 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (608)
+Seat 2: Django1977 (292)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qd 8d]
+*** PRE-FLOP *** 
+Django1977 calls 30
+_SKR raises 548 to 608 and is all-in
+Django1977 folds
+_SKR collected 668 from pot
+*** SUMMARY ***
+Total pot 668 | No rake
+Seat 1: _SKR (big blind) won 668
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696649659799044097-19-1675091877 - Holdem no limit (40/80) - 2023/01/30 15:17:57 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (668)
+Seat 2: Django1977 (232)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Django1977 posts big blind 80
+Dealt to _SKR [Ts Qc]
+*** PRE-FLOP *** 
+_SKR raises 588 to 668 and is all-in
+Django1977 calls 152 and is all-in
+*** FLOP *** [9d 3s Jd]
+*** TURN *** [9d 3s Jd][5s]
+*** RIVER *** [9d 3s Jd 5s][6h]
+*** SHOW DOWN ***
+_SKR shows [Ts Qc] (High card : Queen)
+Django1977 shows [Kh 7h] (High card : King)
+Django1977 collected 464 from main pot
+_SKR collected 436 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d 3s Jd 5s 6h]
+Seat 1: _SKR (small blind) (button) showed [Ts Qc] and won 436 with High card : Queen
+Seat 2: Django1977 (big blind) showed [Kh 7h] and won 464 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696649659799044097-20-1675091891 - Holdem no limit (40/80) - 2023/01/30 15:18:11 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (436)
+Seat 2: Django1977 (464)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3h Js]
+*** PRE-FLOP *** 
+Django1977 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696649659799044097-21-1675091896 - Holdem no limit (40/80) - 2023/01/30 15:18:16 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (476)
+Seat 2: Django1977 (424)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Django1977 posts big blind 80
+Dealt to _SKR [3c 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Django1977 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Django1977 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696649659799044097-22-1675091899 - Holdem no limit (40/80) - 2023/01/30 15:18:19 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (436)
+Seat 2: Django1977 (464)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [8c 4s]
+*** PRE-FLOP *** 
+Django1977 calls 40
+_SKR checks
+*** FLOP *** [Ad Js 8h]
+_SKR checks
+Django1977 checks
+*** TURN *** [Ad Js 8h][Qs]
+_SKR checks
+Django1977 bets 160
+_SKR folds
+Django1977 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Ad Js 8h Qs]
+Seat 2: Django1977 (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2696649659799044097-23-1675091929 - Holdem no limit (40/80) - 2023/01/30 15:18:49 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (356)
+Seat 2: Django1977 (544)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Django1977 posts big blind 80
+Dealt to _SKR [As 9d]
+*** PRE-FLOP *** 
+_SKR raises 276 to 356 and is all-in
+Django1977 folds
+_SKR collected 436 from pot
+*** SUMMARY ***
+Total pot 436 | No rake
+Seat 1: _SKR (small blind) (button) won 436
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2696649659799044097-24-1675091937 - Holdem no limit (50/100) - 2023/01/30 15:18:57 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (436)
+Seat 2: Django1977 (464)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [4c 3s]
+*** PRE-FLOP *** 
+Django1977 folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2696649659799044097-25-1675091943 - Holdem no limit (50/100) - 2023/01/30 15:19:03 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (486)
+Seat 2: Django1977 (414)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Django1977 posts big blind 100
+Dealt to _SKR [4d As]
+*** PRE-FLOP *** 
+_SKR raises 386 to 486 and is all-in
+Django1977 folds
+_SKR collected 586 from pot
+*** SUMMARY ***
+Total pot 586 | No rake
+Seat 1: _SKR (small blind) (button) won 586
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2696649659799044097-26-1675091948 - Holdem no limit (50/100) - 2023/01/30 15:19:08 UTC
+Table: 'Expresso Nitro(627862676)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (586)
+Seat 2: Django1977 (314)
+*** ANTE/BLINDS ***
+Django1977 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [Qc Jc]
+*** PRE-FLOP *** 
+Django1977 calls 50
+_SKR raises 486 to 586 and is all-in
+Django1977 calls 214 and is all-in
+*** FLOP *** [Ah Kh 2s]
+*** TURN *** [Ah Kh 2s][7s]
+*** RIVER *** [Ah Kh 2s 7s][8d]
+*** SHOW DOWN ***
+Django1977 shows [4s 6s] (High card : Ace)
+_SKR shows [Qc Jc] (High card : Ace)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ah Kh 2s 7s 8d]
+Seat 1: _SKR (big blind) showed [Qc Jc] and won 900 with High card : Ace
+Seat 2: Django1977 (small blind) (button) showed [4s 6s] and lost with High card : Ace
+
+

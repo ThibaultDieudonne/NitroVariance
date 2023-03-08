@@ -1,0 +1,287 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696603261267345409-1-1675089376 - Holdem no limit (10/20) - 2023/01/30 14:36:16 UTC
+Table: 'Expresso Nitro(627851873)#0' 3-max (real money) Seat #3 is the button
+Seat 1: David&jenny (300)
+Seat 2: lemulceo (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+David&jenny posts small blind 10
+lemulceo posts big blind 20
+Dealt to _SKR [4d 3s]
+*** PRE-FLOP *** 
+_SKR folds
+David&jenny calls 10
+lemulceo checks
+*** FLOP *** [Ts 6s Ks]
+David&jenny bets 26
+lemulceo folds
+David&jenny collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Ts 6s Ks]
+Seat 1: David&jenny (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696603261267345409-2-1675089387 - Holdem no limit (10/20) - 2023/01/30 14:36:27 UTC
+Table: 'Expresso Nitro(627851873)#0' 3-max (real money) Seat #1 is the button
+Seat 1: David&jenny (320)
+Seat 2: lemulceo (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+lemulceo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s 2d]
+*** PRE-FLOP *** 
+David&jenny calls 20
+lemulceo calls 10
+_SKR raises 280 to 300 and is all-in
+David&jenny folds
+lemulceo folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696603261267345409-3-1675089400 - Holdem no limit (10/20) - 2023/01/30 14:36:40 UTC
+Table: 'Expresso Nitro(627851873)#0' 3-max (real money) Seat #2 is the button
+Seat 1: David&jenny (300)
+Seat 2: lemulceo (260)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+David&jenny posts big blind 20
+Dealt to _SKR [Js 7s]
+*** PRE-FLOP *** 
+lemulceo folds
+_SKR calls 10
+David&jenny checks
+*** FLOP *** [8s Ad Jc]
+_SKR checks
+David&jenny checks
+*** TURN *** [8s Ad Jc][Qc]
+_SKR checks
+David&jenny bets 26
+_SKR calls 26
+*** RIVER *** [8s Ad Jc Qc][Ac]
+_SKR checks
+David&jenny bets 60
+_SKR folds
+David&jenny collected 152 from pot
+*** SUMMARY ***
+Total pot 152 | No rake
+Board: [8s Ad Jc Qc Ac]
+Seat 1: David&jenny (big blind) won 152
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696603261267345409-4-1675089422 - Holdem no limit (10/20) - 2023/01/30 14:37:02 UTC
+Table: 'Expresso Nitro(627851873)#0' 3-max (real money) Seat #3 is the button
+Seat 1: David&jenny (346)
+Seat 2: lemulceo (260)
+Seat 3: _SKR (294)
+*** ANTE/BLINDS ***
+David&jenny posts small blind 10
+lemulceo posts big blind 20
+Dealt to _SKR [Tc 3d]
+*** PRE-FLOP *** 
+_SKR folds
+David&jenny raises 40 to 60
+lemulceo calls 40
+*** FLOP *** [3h 6h 7c]
+David&jenny bets 78
+lemulceo calls 78
+*** TURN *** [3h 6h 7c][8s]
+David&jenny checks
+lemulceo checks
+*** RIVER *** [3h 6h 7c 8s][7h]
+David&jenny checks
+lemulceo checks
+*** SHOW DOWN ***
+lemulceo shows [Jc 2c] (One pair : 7)
+David&jenny shows [Kc Qs] (One pair : 7)
+David&jenny collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | No rake
+Board: [3h 6h 7c 8s 7h]
+Seat 1: David&jenny (small blind) showed [Kc Qs] and won 276 with One pair : 7
+Seat 2: lemulceo (big blind) showed [Jc 2c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696603261267345409-5-1675089450 - Holdem no limit (15/30) - 2023/01/30 14:37:30 UTC
+Table: 'Expresso Nitro(627851873)#0' 3-max (real money) Seat #1 is the button
+Seat 1: David&jenny (484)
+Seat 2: lemulceo (122)
+Seat 3: _SKR (294)
+*** ANTE/BLINDS ***
+lemulceo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc 2h]
+*** PRE-FLOP *** 
+David&jenny folds
+lemulceo calls 15
+_SKR checks
+*** FLOP *** [9c 7c 5c]
+lemulceo checks
+_SKR bets 30
+lemulceo calls 30
+*** TURN *** [9c 7c 5c][Qh]
+lemulceo checks
+_SKR bets 60
+lemulceo calls 60
+*** RIVER *** [9c 7c 5c Qh][9s]
+lemulceo checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Qc 2h] (Two pairs : Queens and 9)
+lemulceo shows [Qd Kc] (Two pairs : Queens and 9)
+lemulceo collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9c 7c 5c Qh 9s]
+Seat 2: lemulceo (small blind) showed [Qd Kc] and won 240 with Two pairs : Queens and 9
+Seat 3: _SKR (big blind) showed [Qc 2h] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696603261267345409-6-1675089481 - Holdem no limit (15/30) - 2023/01/30 14:38:01 UTC
+Table: 'Expresso Nitro(627851873)#0' 3-max (real money) Seat #2 is the button
+Seat 1: David&jenny (484)
+Seat 2: lemulceo (242)
+Seat 3: _SKR (174)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+David&jenny posts big blind 30
+Dealt to _SKR [2c Td]
+*** PRE-FLOP *** 
+lemulceo folds
+_SKR folds
+David&jenny collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: David&jenny (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696603261267345409-7-1675089486 - Holdem no limit (15/30) - 2023/01/30 14:38:06 UTC
+Table: 'Expresso Nitro(627851873)#0' 3-max (real money) Seat #3 is the button
+Seat 1: David&jenny (499)
+Seat 2: lemulceo (242)
+Seat 3: _SKR (159)
+*** ANTE/BLINDS ***
+David&jenny posts small blind 15
+lemulceo posts big blind 30
+Dealt to _SKR [7c 6h]
+*** PRE-FLOP *** 
+_SKR folds
+David&jenny calls 15
+lemulceo checks
+*** FLOP *** [6c 2c 5d]
+David&jenny checks
+lemulceo checks
+*** TURN *** [6c 2c 5d][Qc]
+David&jenny checks
+lemulceo checks
+*** RIVER *** [6c 2c 5d Qc][9h]
+David&jenny checks
+lemulceo checks
+*** SHOW DOWN ***
+lemulceo shows [Jh Kh] (High card : King)
+David&jenny shows [9c Kd] (One pair : 9)
+David&jenny collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6c 2c 5d Qc 9h]
+Seat 1: David&jenny (small blind) showed [9c Kd] and won 60 with One pair : 9
+Seat 2: lemulceo (big blind) showed [Jh Kh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696603261267345409-8-1675089516 - Holdem no limit (20/40) - 2023/01/30 14:38:36 UTC
+Table: 'Expresso Nitro(627851873)#0' 3-max (real money) Seat #1 is the button
+Seat 1: David&jenny (529)
+Seat 2: lemulceo (212)
+Seat 3: _SKR (159)
+*** ANTE/BLINDS ***
+lemulceo posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh 8c]
+*** PRE-FLOP *** 
+David&jenny raises 40 to 80
+lemulceo calls 60
+_SKR raises 79 to 159 and is all-in
+David&jenny calls 79
+lemulceo calls 79
+*** FLOP *** [6d 7h Kd]
+lemulceo checks
+David&jenny checks
+*** TURN *** [6d 7h Kd][6s]
+lemulceo checks
+David&jenny checks
+*** RIVER *** [6d 7h Kd 6s][Jc]
+lemulceo checks
+David&jenny checks
+*** SHOW DOWN ***
+David&jenny shows [Qc Th] (One pair : 6)
+lemulceo shows [Ac 2c] (One pair : 6)
+_SKR shows [Jh 8c] (Two pairs : Jacks and 6)
+_SKR collected 477 from pot
+*** SUMMARY ***
+Total pot 477 | No rake
+Board: [6d 7h Kd 6s Jc]
+Seat 1: David&jenny (button) showed [Qc Th] and lost with One pair : 6
+Seat 2: lemulceo (small blind) showed [Ac 2c] and lost with One pair : 6
+Seat 3: _SKR (big blind) showed [Jh 8c] and won 477 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696603261267345409-9-1675089549 - Holdem no limit (20/40) - 2023/01/30 14:39:09 UTC
+Table: 'Expresso Nitro(627851873)#0' 3-max (real money) Seat #2 is the button
+Seat 1: David&jenny (370)
+Seat 2: lemulceo (53)
+Seat 3: _SKR (477)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+David&jenny posts big blind 40
+Dealt to _SKR [Tc 3h]
+*** PRE-FLOP *** 
+lemulceo raises 13 to 53 and is all-in
+_SKR folds
+David&jenny calls 13
+*** FLOP *** [7h 4c 9d]
+*** TURN *** [7h 4c 9d][Kd]
+*** RIVER *** [7h 4c 9d Kd][5c]
+*** SHOW DOWN ***
+David&jenny shows [5d 6c] (One pair : 5)
+lemulceo shows [Ah 5h] (One pair : 5)
+lemulceo collected 126 from pot
+*** SUMMARY ***
+Total pot 126 | No rake
+Board: [7h 4c 9d Kd 5c]
+Seat 1: David&jenny (big blind) showed [5d 6c] and lost with One pair : 5
+Seat 2: lemulceo (button) showed [Ah 5h] and won 126 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696603261267345409-10-1675089568 - Holdem no limit (30/60) - 2023/01/30 14:39:28 UTC
+Table: 'Expresso Nitro(627851873)#0' 3-max (real money) Seat #3 is the button
+Seat 1: David&jenny (317)
+Seat 2: lemulceo (126)
+Seat 3: _SKR (457)
+*** ANTE/BLINDS ***
+David&jenny posts small blind 30
+lemulceo posts big blind 60
+Dealt to _SKR [3c Ah]
+*** PRE-FLOP *** 
+_SKR raises 397 to 457 and is all-in
+David&jenny calls 287 and is all-in
+lemulceo calls 66 and is all-in
+*** FLOP *** [3s 4h 8d]
+*** TURN *** [3s 4h 8d][8s]
+*** RIVER *** [3s 4h 8d 8s][Ks]
+*** SHOW DOWN ***
+David&jenny shows [As 5h] (One pair : 8)
+lemulceo shows [3h Qh] (Two pairs : 8 and 3)
+_SKR shows [3c Ah] (Two pairs : 8 and 3)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3s 4h 8d 8s Ks]
+Seat 1: David&jenny (small blind) showed [As 5h] and lost with One pair : 8
+Seat 2: lemulceo (big blind) showed [3h Qh] and lost with Two pairs : 8 and 3
+Seat 3: _SKR (button) showed [3c Ah] and won 900 with Two pairs : 8 and 3
+
+

@@ -1,0 +1,130 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698225766767788033-1-1675186338 - Holdem no limit (10/20) - 2023/01/31 17:32:18 UTC
+Table: 'Expresso Nitro(628229642)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Botafogo fas (300)
+Seat 3: Braquo-23 (300)
+*** ANTE/BLINDS ***
+Braquo-23 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Th]
+*** PRE-FLOP *** 
+Botafogo fas folds
+Braquo-23 raises 40 to 60
+_SKR folds
+Braquo-23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: Braquo-23 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698225766767788033-2-1675186355 - Holdem no limit (10/20) - 2023/01/31 17:32:35 UTC
+Table: 'Expresso Nitro(628229642)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Botafogo fas (300)
+Seat 3: Braquo-23 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Botafogo fas posts big blind 20
+Dealt to _SKR [7d 3s]
+*** PRE-FLOP *** 
+Braquo-23 raises 50 to 70
+_SKR folds
+Botafogo fas calls 50
+*** FLOP *** [2d Qh 9c]
+Botafogo fas checks
+Braquo-23 bets 150
+Botafogo fas raises 80 to 230 and is all-in
+Braquo-23 calls 80
+*** TURN *** [2d Qh 9c][7h]
+*** RIVER *** [2d Qh 9c 7h][Jc]
+*** SHOW DOWN ***
+Botafogo fas shows [5d Ah] (High card : Ace)
+Braquo-23 shows [Td Jd] (One pair : Jacks)
+Braquo-23 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [2d Qh 9c 7h Jc]
+Seat 2: Botafogo fas (big blind) showed [5d Ah] and lost with High card : Ace
+Seat 3: Braquo-23 (button) showed [Td Jd] and won 610 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698225766767788033-3-1675186383 - Holdem no limit (10/20) - 2023/01/31 17:33:03 UTC
+Table: 'Expresso Nitro(628229642)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 3: Braquo-23 (630)
+*** ANTE/BLINDS ***
+Braquo-23 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac As]
+*** PRE-FLOP *** 
+Braquo-23 calls 10
+_SKR raises 30 to 50
+Braquo-23 calls 30
+*** FLOP *** [Qh 6s 7c]
+_SKR checks
+Braquo-23 bets 65
+_SKR calls 65
+*** TURN *** [Qh 6s 7c][Tc]
+_SKR checks
+Braquo-23 bets 81
+_SKR calls 81
+*** RIVER *** [Qh 6s 7c Tc][Kc]
+_SKR checks
+Braquo-23 checks
+*** SHOW DOWN ***
+Braquo-23 shows [9c 7h] (One pair : 7)
+_SKR shows [Ac As] (One pair : Aces)
+_SKR collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | No rake
+Board: [Qh 6s 7c Tc Kc]
+Seat 1: _SKR (big blind) showed [Ac As] and won 392 with One pair : Aces
+Seat 3: Braquo-23 (small blind) (button) showed [9c 7h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698225766767788033-4-1675186443 - Holdem no limit (15/30) - 2023/01/31 17:34:03 UTC
+Table: 'Expresso Nitro(628229642)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (466)
+Seat 3: Braquo-23 (434)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Braquo-23 posts big blind 30
+Dealt to _SKR [7d Ks]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+Braquo-23 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698225766767788033-5-1675186455 - Holdem no limit (20/40) - 2023/01/31 17:34:15 UTC
+Table: 'Expresso Nitro(628229642)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (496)
+Seat 3: Braquo-23 (404)
+*** ANTE/BLINDS ***
+Braquo-23 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Th Qh]
+*** PRE-FLOP *** 
+Braquo-23 raises 80 to 120
+_SKR calls 80
+*** FLOP *** [5d Ts 5s]
+_SKR checks
+Braquo-23 bets 240
+_SKR raises 136 to 376 and is all-in
+Braquo-23 calls 44 and is all-in
+*** TURN *** [5d Ts 5s][6c]
+*** RIVER *** [5d Ts 5s 6c][7c]
+*** SHOW DOWN ***
+Braquo-23 shows [Ks Qd] (One pair : 5)
+_SKR shows [Th Qh] (Two pairs : Tens and 5)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5d Ts 5s 6c 7c]
+Seat 1: _SKR (big blind) showed [Th Qh] and won 900 with Two pairs : Tens and 5
+Seat 3: Braquo-23 (small blind) (button) showed [Ks Qd] and lost with One pair : 5
+
+

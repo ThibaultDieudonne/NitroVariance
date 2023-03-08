@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729162948776820737-1-1676903799 - Holdem no limit (10/20) - 2023/02/20 14:36:39 UTC
+Table: 'Expresso Nitro(635432766)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rupa1008 (300)
+Seat 2: reksneez (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Rupa1008 posts small blind 10
+reksneez posts big blind 20
+Dealt to _SKR [4d 8d]
+*** PRE-FLOP *** 
+_SKR folds
+Rupa1008 calls 10
+reksneez checks
+*** FLOP *** [9s 8h 3h]
+Rupa1008 checks
+reksneez checks
+*** TURN *** [9s 8h 3h][4s]
+Rupa1008 bets 20
+reksneez folds
+Rupa1008 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9s 8h 3h 4s]
+Seat 1: Rupa1008 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729162948776820737-2-1676903829 - Holdem no limit (10/20) - 2023/02/20 14:37:09 UTC
+Table: 'Expresso Nitro(635432766)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rupa1008 (320)
+Seat 2: reksneez (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+reksneez posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 2h]
+*** PRE-FLOP *** 
+Rupa1008 raises 20 to 40
+reksneez folds
+_SKR folds
+Rupa1008 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: Rupa1008 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729162948776820737-3-1676903839 - Holdem no limit (10/20) - 2023/02/20 14:37:19 UTC
+Table: 'Expresso Nitro(635432766)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rupa1008 (350)
+Seat 2: reksneez (270)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Rupa1008 posts big blind 20
+Dealt to _SKR [4h 6h]
+*** PRE-FLOP *** 
+reksneez folds
+_SKR calls 10
+Rupa1008 checks
+*** FLOP *** [Td 5c Kh]
+_SKR checks
+Rupa1008 bets 20
+_SKR folds
+Rupa1008 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Td 5c Kh]
+Seat 1: Rupa1008 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729162948776820737-4-1676903868 - Holdem no limit (15/30) - 2023/02/20 14:37:48 UTC
+Table: 'Expresso Nitro(635432766)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rupa1008 (370)
+Seat 2: reksneez (270)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Rupa1008 posts small blind 15
+reksneez posts big blind 30
+Dealt to _SKR [8c Kd]
+*** PRE-FLOP *** 
+_SKR raises 230 to 260 and is all-in
+Rupa1008 folds
+reksneez raises 10 to 270 and is all-in
+*** FLOP *** [6d Kh 2s]
+*** TURN *** [6d Kh 2s][Ah]
+*** RIVER *** [6d Kh 2s Ah][3s]
+*** SHOW DOWN ***
+_SKR shows [8c Kd] (One pair : Kings)
+reksneez shows [3d 3c] (Trips of 3)
+reksneez collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Board: [6d Kh 2s Ah 3s]
+Seat 2: reksneez (big blind) showed [3d 3c] and won 545 with Trips of 3
+Seat 3: _SKR (button) showed [8c Kd] and lost with One pair : Kings
+
+

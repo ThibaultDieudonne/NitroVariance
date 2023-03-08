@@ -1,0 +1,31 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690515265384349697-1-1674684429 - Holdem no limit (10/20) - 2023/01/25 22:07:09 UTC
+Table: 'Expresso Nitro(626434401)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Trickynstein (300)
+Seat 2: _SKR (300)
+Seat 3: Big Roger 13 (300)
+*** ANTE/BLINDS ***
+Trickynstein posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Ks]
+*** PRE-FLOP *** 
+Big Roger 13 folds
+Trickynstein raises 20 to 40
+_SKR calls 20
+*** FLOP *** [Jc Qc Ts]
+Trickynstein bets 52
+_SKR calls 52
+*** TURN *** [Jc Qc Ts][As]
+Trickynstein bets 208 and is all-in
+_SKR calls 208 and is all-in
+*** RIVER *** [Jc Qc Ts As][Qs]
+*** SHOW DOWN ***
+_SKR shows [8s Ks] (Flush Ace high)
+Trickynstein shows [Qh Jh] (Full of Queens and Jacks)
+Trickynstein collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jc Qc Ts As Qs]
+Seat 1: Trickynstein (small blind) showed [Qh Jh] and won 600 with Full of Queens and Jacks
+Seat 2: _SKR (big blind) showed [8s Ks] and lost with Flush Ace high
+
+

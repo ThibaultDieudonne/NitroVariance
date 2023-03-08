@@ -1,0 +1,119 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717878214264356865-1-1676238584 - Holdem no limit (10/20) - 2023/02/12 21:49:44 UTC
+Table: 'Expresso Nitro(632805334)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Rebss02 (300)
+Seat 3: _El Rey_ (300)
+*** ANTE/BLINDS ***
+Rebss02 posts small blind 10
+_El Rey_ posts big blind 20
+Dealt to _SKR [Qs 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Rebss02 raises 40 to 60
+_El Rey_ raises 240 to 300 and is all-in
+Rebss02 calls 240 and is all-in
+*** FLOP *** [8s 5d 7c]
+*** TURN *** [8s 5d 7c][Td]
+*** RIVER *** [8s 5d 7c Td][9s]
+*** SHOW DOWN ***
+Rebss02 shows [Qc As] (High card : Ace)
+_El Rey_ shows [8d 8h] (Trips of 8)
+_El Rey_ collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8s 5d 7c Td 9s]
+Seat 2: Rebss02 (small blind) showed [Qc As] and lost with High card : Ace
+Seat 3: _El Rey_ (big blind) showed [8d 8h] and won 600 with Trips of 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717878214264356865-2-1676238602 - Holdem no limit (10/20) - 2023/02/12 21:50:02 UTC
+Table: 'Expresso Nitro(632805334)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 3: _El Rey_ (600)
+*** ANTE/BLINDS ***
+_El Rey_ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 9d]
+*** PRE-FLOP *** 
+_El Rey_ calls 10
+_SKR checks
+*** FLOP *** [2d Kd 7h]
+_SKR checks
+_El Rey_ bets 40
+_SKR folds
+_El Rey_ collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2d Kd 7h]
+Seat 3: _El Rey_ (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717878214264356865-3-1676238617 - Holdem no limit (10/20) - 2023/02/12 21:50:17 UTC
+Table: 'Expresso Nitro(632805334)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 3: _El Rey_ (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+_El Rey_ posts big blind 20
+Dealt to _SKR [3h 6s]
+*** PRE-FLOP *** 
+_SKR folds
+_El Rey_ collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _El Rey_ (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717878214264356865-4-1676238621 - Holdem no limit (10/20) - 2023/02/12 21:50:21 UTC
+Table: 'Expresso Nitro(632805334)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 3: _El Rey_ (630)
+*** ANTE/BLINDS ***
+_El Rey_ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s 6h]
+*** PRE-FLOP *** 
+_El Rey_ calls 10
+_SKR checks
+*** FLOP *** [Kd Ad Ks]
+_SKR checks
+_El Rey_ checks
+*** TURN *** [Kd Ad Ks][Jd]
+_SKR checks
+_El Rey_ checks
+*** RIVER *** [Kd Ad Ks Jd][Ac]
+_SKR checks
+_El Rey_ bets 40
+_SKR folds
+_El Rey_ collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kd Ad Ks Jd Ac]
+Seat 3: _El Rey_ (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717878214264356865-5-1676238645 - Holdem no limit (15/30) - 2023/02/12 21:50:45 UTC
+Table: 'Expresso Nitro(632805334)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (250)
+Seat 3: _El Rey_ (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+_El Rey_ posts big blind 30
+Dealt to _SKR [Kd 3c]
+*** PRE-FLOP *** 
+_SKR raises 220 to 250 and is all-in
+_El Rey_ raises 400 to 650 and is all-in
+*** FLOP *** [6d 9d 6h]
+*** TURN *** [6d 9d 6h][As]
+*** RIVER *** [6d 9d 6h As][Jc]
+*** SHOW DOWN ***
+_SKR shows [Kd 3c] (One pair : 6)
+_El Rey_ shows [5h Ah] (Two pairs : Aces and 6)
+_El Rey_ collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 9d 6h As Jc]
+Seat 1: _SKR (small blind) (button) showed [Kd 3c] and lost with One pair : 6
+Seat 3: _El Rey_ (big blind) showed [5h Ah] and won 900 with Two pairs : Aces and 6
+
+

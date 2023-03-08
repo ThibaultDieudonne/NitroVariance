@@ -1,0 +1,340 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717248030892883969-1-1676213889 - Holdem no limit (10/20) - 2023/02/12 14:58:09 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: phenix_28 (300)
+Seat 3: lorenzo3130 (300)
+*** ANTE/BLINDS ***
+lorenzo3130 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 8s]
+*** PRE-FLOP *** 
+phenix_28 folds
+lorenzo3130 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717248030892883969-2-1676213898 - Holdem no limit (10/20) - 2023/02/12 14:58:18 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: phenix_28 (300)
+Seat 3: lorenzo3130 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+phenix_28 posts big blind 20
+Dealt to _SKR [3c 2d]
+*** PRE-FLOP *** 
+lorenzo3130 calls 20
+_SKR folds
+phenix_28 checks
+*** FLOP *** [Qc 3h 4h]
+phenix_28 checks
+lorenzo3130 checks
+*** TURN *** [Qc 3h 4h][Ac]
+phenix_28 checks
+lorenzo3130 checks
+*** RIVER *** [Qc 3h 4h Ac][7s]
+phenix_28 checks
+lorenzo3130 checks
+*** SHOW DOWN ***
+phenix_28 shows [Th 8d] (High card : Ace)
+lorenzo3130 shows [Qh Jh] (One pair : Queens)
+lorenzo3130 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Qc 3h 4h Ac 7s]
+Seat 2: phenix_28 (big blind) showed [Th 8d] and lost with High card : Ace
+Seat 3: lorenzo3130 (button) showed [Qh Jh] and won 50 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717248030892883969-3-1676213932 - Holdem no limit (10/20) - 2023/02/12 14:58:52 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: phenix_28 (280)
+Seat 3: lorenzo3130 (320)
+*** ANTE/BLINDS ***
+phenix_28 posts small blind 10
+lorenzo3130 posts big blind 20
+Dealt to _SKR [Qs Ac]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+phenix_28 folds
+lorenzo3130 calls 20
+*** FLOP *** [7c Ad Kc]
+lorenzo3130 checks
+_SKR bets 32
+lorenzo3130 folds
+_SKR collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [7c Ad Kc]
+Seat 1: _SKR (button) won 122
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717248030892883969-4-1676213971 - Holdem no limit (15/30) - 2023/02/12 14:59:31 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (350)
+Seat 2: phenix_28 (270)
+Seat 3: lorenzo3130 (280)
+*** ANTE/BLINDS ***
+lorenzo3130 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7h Ah]
+*** PRE-FLOP *** 
+phenix_28 folds
+lorenzo3130 calls 15
+_SKR raises 320 to 350 and is all-in
+lorenzo3130 calls 250 and is all-in
+*** FLOP *** [Jh 6d 5s]
+*** TURN *** [Jh 6d 5s][9s]
+*** RIVER *** [Jh 6d 5s 9s][2d]
+*** SHOW DOWN ***
+_SKR shows [7h Ah] (High card : Ace)
+lorenzo3130 shows [Qh Ad] (High card : Ace)
+lorenzo3130 collected 560 from main pot
+_SKR collected 70 from side pot 1
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Jh 6d 5s 9s 2d]
+Seat 1: _SKR (big blind) showed [7h Ah] and won 70 with High card : Ace
+Seat 3: lorenzo3130 (small blind) showed [Qh Ad] and won 560 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717248030892883969-5-1676213991 - Holdem no limit (15/30) - 2023/02/12 14:59:51 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (70)
+Seat 2: phenix_28 (270)
+Seat 3: lorenzo3130 (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+phenix_28 posts big blind 30
+Dealt to _SKR [2s 3h]
+*** PRE-FLOP *** 
+lorenzo3130 calls 30
+_SKR folds
+phenix_28 checks
+*** FLOP *** [7s 6d 5s]
+phenix_28 bets 30
+lorenzo3130 calls 30
+*** TURN *** [7s 6d 5s][Ah]
+phenix_28 checks
+lorenzo3130 checks
+*** RIVER *** [7s 6d 5s Ah][Tc]
+phenix_28 checks
+lorenzo3130 checks
+*** SHOW DOWN ***
+lorenzo3130 shows [3s 3c] (One pair : 3)
+phenix_28 shows [5h 8h] (One pair : 5)
+phenix_28 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [7s 6d 5s Ah Tc]
+Seat 2: phenix_28 (big blind) showed [5h 8h] and won 135 with One pair : 5
+Seat 3: lorenzo3130 (button) showed [3s 3c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717248030892883969-6-1676214024 - Holdem no limit (20/40) - 2023/02/12 15:00:24 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (55)
+Seat 2: phenix_28 (345)
+Seat 3: lorenzo3130 (500)
+*** ANTE/BLINDS ***
+phenix_28 posts small blind 20
+lorenzo3130 posts big blind 40
+Dealt to _SKR [4h 7d]
+*** PRE-FLOP *** 
+_SKR folds
+phenix_28 raises 80 to 120
+lorenzo3130 folds
+phenix_28 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: phenix_28 (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717248030892883969-7-1676214036 - Holdem no limit (20/40) - 2023/02/12 15:00:36 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (55)
+Seat 2: phenix_28 (385)
+Seat 3: lorenzo3130 (460)
+*** ANTE/BLINDS ***
+lorenzo3130 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3c 2s]
+*** PRE-FLOP *** 
+phenix_28 folds
+lorenzo3130 calls 20
+_SKR raises 15 to 55 and is all-in
+lorenzo3130 calls 15
+*** FLOP *** [8d 3d Ah]
+*** TURN *** [8d 3d Ah][3h]
+*** RIVER *** [8d 3d Ah 3h][6h]
+*** SHOW DOWN ***
+lorenzo3130 shows [9d Jc] (One pair : 3)
+_SKR shows [3c 2s] (Trips of 3)
+_SKR collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [8d 3d Ah 3h 6h]
+Seat 1: _SKR (big blind) showed [3c 2s] and won 110 with Trips of 3
+Seat 3: lorenzo3130 (small blind) showed [9d Jc] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717248030892883969-8-1676214058 - Holdem no limit (20/40) - 2023/02/12 15:00:58 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (110)
+Seat 2: phenix_28 (385)
+Seat 3: lorenzo3130 (405)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+phenix_28 posts big blind 40
+Dealt to _SKR [Kh Js]
+*** PRE-FLOP *** 
+lorenzo3130 calls 40
+_SKR raises 70 to 110 and is all-in
+phenix_28 folds
+lorenzo3130 calls 70
+*** FLOP *** [Qc 9h 8c]
+*** TURN *** [Qc 9h 8c][Ts]
+*** RIVER *** [Qc 9h 8c Ts][5c]
+*** SHOW DOWN ***
+lorenzo3130 shows [9d Qs] (Two pairs : Queens and 9)
+_SKR shows [Kh Js] (Straight King high)
+_SKR collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [Qc 9h 8c Ts 5c]
+Seat 1: _SKR (small blind) showed [Kh Js] and won 260 with Straight King high
+Seat 3: lorenzo3130 (button) showed [9d Qs] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717248030892883969-9-1676214081 - Holdem no limit (30/60) - 2023/02/12 15:01:21 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (260)
+Seat 2: phenix_28 (345)
+Seat 3: lorenzo3130 (295)
+*** ANTE/BLINDS ***
+phenix_28 posts small blind 30
+lorenzo3130 posts big blind 60
+Dealt to _SKR [6d Kd]
+*** PRE-FLOP *** 
+_SKR raises 200 to 260 and is all-in
+phenix_28 folds
+lorenzo3130 folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: _SKR (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717248030892883969-10-1676214095 - Holdem no limit (30/60) - 2023/02/12 15:01:35 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (350)
+Seat 2: phenix_28 (315)
+Seat 3: lorenzo3130 (235)
+*** ANTE/BLINDS ***
+lorenzo3130 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qd 4h]
+*** PRE-FLOP *** 
+phenix_28 raises 255 to 315 and is all-in
+lorenzo3130 folds
+_SKR folds
+phenix_28 collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Seat 2: phenix_28 (button) won 405
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717248030892883969-11-1676214109 - Holdem no limit (30/60) - 2023/02/12 15:01:49 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 2: phenix_28 (405)
+Seat 3: lorenzo3130 (205)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+phenix_28 posts big blind 60
+Dealt to _SKR [Kh Td]
+*** PRE-FLOP *** 
+lorenzo3130 folds
+_SKR raises 230 to 290 and is all-in
+phenix_28 folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: _SKR (small blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717248030892883969-12-1676214119 - Holdem no limit (30/60) - 2023/02/12 15:01:59 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (350)
+Seat 2: phenix_28 (345)
+Seat 3: lorenzo3130 (205)
+*** ANTE/BLINDS ***
+phenix_28 posts small blind 30
+lorenzo3130 posts big blind 60
+Dealt to _SKR [Kh 9c]
+*** PRE-FLOP *** 
+_SKR raises 290 to 350 and is all-in
+phenix_28 folds
+lorenzo3130 folds
+_SKR collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 1: _SKR (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717248030892883969-13-1676214147 - Holdem no limit (40/80) - 2023/02/12 15:02:27 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (440)
+Seat 2: phenix_28 (315)
+Seat 3: lorenzo3130 (145)
+*** ANTE/BLINDS ***
+lorenzo3130 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [8h Qh]
+*** PRE-FLOP *** 
+phenix_28 raises 235 to 315 and is all-in
+lorenzo3130 folds
+_SKR calls 235
+*** FLOP *** [3h 3s 4d]
+*** TURN *** [3h 3s 4d][Th]
+*** RIVER *** [3h 3s 4d Th][3c]
+*** SHOW DOWN ***
+phenix_28 shows [9c Jd] (Trips of 3)
+_SKR shows [8h Qh] (Trips of 3)
+_SKR collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [3h 3s 4d Th 3c]
+Seat 1: _SKR (big blind) showed [8h Qh] and won 670 with Trips of 3
+Seat 2: phenix_28 (button) showed [9c Jd] and lost with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717248030892883969-14-1676214167 - Holdem no limit (40/80) - 2023/02/12 15:02:47 UTC
+Table: 'Expresso Nitro(632658608)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (795)
+Seat 3: lorenzo3130 (105)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+lorenzo3130 posts big blind 80
+Dealt to _SKR [Kd Qh]
+*** PRE-FLOP *** 
+_SKR raises 715 to 795 and is all-in
+lorenzo3130 calls 25 and is all-in
+*** FLOP *** [7s 8h 5d]
+*** TURN *** [7s 8h 5d][4s]
+*** RIVER *** [7s 8h 5d 4s][Td]
+*** SHOW DOWN ***
+lorenzo3130 shows [2d 9d] (High card : Ten)
+_SKR shows [Kd Qh] (High card : King)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s 8h 5d 4s Td]
+Seat 1: _SKR (small blind) (button) showed [Kd Qh] and won 900 with High card : King
+Seat 3: lorenzo3130 (big blind) showed [2d 9d] and lost with High card : Ten
+
+

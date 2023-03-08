@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666582139947974657-1-1673283851 - Holdem no limit (10/20) - 2023/01/09 17:04:11 UTC
+Table: 'Expresso Nitro(620862036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: B. RODRIGUEZ (300)
+Seat 2: _SKR (300)
+Seat 3: Manava971 (300)
+*** ANTE/BLINDS ***
+B. RODRIGUEZ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d 6c]
+*** PRE-FLOP *** 
+Manava971 folds
+B. RODRIGUEZ folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666582139947974657-2-1673283857 - Holdem no limit (10/20) - 2023/01/09 17:04:17 UTC
+Table: 'Expresso Nitro(620862036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: B. RODRIGUEZ (290)
+Seat 2: _SKR (310)
+Seat 3: Manava971 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Manava971 posts big blind 20
+Dealt to _SKR [Qh 8d]
+*** PRE-FLOP *** 
+B. RODRIGUEZ raises 20 to 40
+_SKR folds
+Manava971 folds
+B. RODRIGUEZ collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: B. RODRIGUEZ (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666582139947974657-3-1673283872 - Holdem no limit (10/20) - 2023/01/09 17:04:32 UTC
+Table: 'Expresso Nitro(620862036)#0' 3-max (real money) Seat #2 is the button
+Seat 1: B. RODRIGUEZ (320)
+Seat 2: _SKR (300)
+Seat 3: Manava971 (280)
+*** ANTE/BLINDS ***
+Manava971 posts small blind 10
+B. RODRIGUEZ posts big blind 20
+Dealt to _SKR [Qd 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Manava971 calls 10
+B. RODRIGUEZ raises 300 to 320 and is all-in
+Manava971 calls 260 and is all-in
+*** FLOP *** [2d 6s Kd]
+*** TURN *** [2d 6s Kd][Jh]
+*** RIVER *** [2d 6s Kd Jh][4s]
+*** SHOW DOWN ***
+B. RODRIGUEZ shows [As 2h] (One pair : 2)
+Manava971 shows [Kc Td] (One pair : Kings)
+Manava971 collected 560 from main pot
+B. RODRIGUEZ collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [2d 6s Kd Jh 4s]
+Seat 1: B. RODRIGUEZ (big blind) showed [As 2h] and won 40 with One pair : 2
+Seat 3: Manava971 (small blind) showed [Kc Td] and won 560 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666582139947974657-4-1673283905 - Holdem no limit (10/20) - 2023/01/09 17:05:05 UTC
+Table: 'Expresso Nitro(620862036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: B. RODRIGUEZ (40)
+Seat 2: _SKR (300)
+Seat 3: Manava971 (560)
+*** ANTE/BLINDS ***
+B. RODRIGUEZ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s 6c]
+*** PRE-FLOP *** 
+Manava971 folds
+B. RODRIGUEZ raises 20 to 40 and is all-in
+_SKR folds
+B. RODRIGUEZ collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: B. RODRIGUEZ (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666582139947974657-5-1673283917 - Holdem no limit (15/30) - 2023/01/09 17:05:17 UTC
+Table: 'Expresso Nitro(620862036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: B. RODRIGUEZ (60)
+Seat 2: _SKR (280)
+Seat 3: Manava971 (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Manava971 posts big blind 30
+Dealt to _SKR [As Jh]
+*** PRE-FLOP *** 
+B. RODRIGUEZ folds
+_SKR raises 250 to 280 and is all-in
+Manava971 calls 250
+*** FLOP *** [9c Tc Kc]
+*** TURN *** [9c Tc Kc][6c]
+*** RIVER *** [9c Tc Kc 6c][Kd]
+*** SHOW DOWN ***
+_SKR shows [As Jh] (One pair : Kings)
+Manava971 shows [Qh Th] (Two pairs : Kings and Tens)
+Manava971 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9c Tc Kc 6c Kd]
+Seat 2: _SKR (small blind) showed [As Jh] and lost with One pair : Kings
+Seat 3: Manava971 (big blind) showed [Qh Th] and won 560 with Two pairs : Kings and Tens
+
+

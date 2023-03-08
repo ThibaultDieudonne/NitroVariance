@@ -1,0 +1,90 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696824881579819009-1-1675099553 - Holdem no limit (10/20) - 2023/01/30 17:25:53 UTC
+Table: 'Expresso Nitro(627903473)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: All_Might_91 (300)
+Seat 3: Sbrngvrs (300)
+*** ANTE/BLINDS ***
+Sbrngvrs posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac Ad]
+*** PRE-FLOP *** 
+All_Might_91 folds
+Sbrngvrs calls 10
+_SKR raises 25 to 45
+Sbrngvrs calls 25
+*** FLOP *** [8c 9s 6s]
+Sbrngvrs checks
+_SKR bets 45
+Sbrngvrs folds
+_SKR collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [8c 9s 6s]
+Seat 1: _SKR (big blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696824881579819009-2-1675099571 - Holdem no limit (10/20) - 2023/01/30 17:26:11 UTC
+Table: 'Expresso Nitro(627903473)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (345)
+Seat 2: All_Might_91 (300)
+Seat 3: Sbrngvrs (255)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+All_Might_91 posts big blind 20
+Dealt to _SKR [Qs Ks]
+*** PRE-FLOP *** 
+Sbrngvrs folds
+_SKR raises 20 to 40
+All_Might_91 calls 20
+*** FLOP *** [6s 5h 2s]
+_SKR bets 28
+All_Might_91 raises 28 to 56
+_SKR raises 249 to 305 and is all-in
+All_Might_91 calls 204 and is all-in
+*** TURN *** [6s 5h 2s][Ad]
+*** RIVER *** [6s 5h 2s Ad][4d]
+*** SHOW DOWN ***
+_SKR shows [Qs Ks] (High card : Ace)
+All_Might_91 shows [6d Qh] (One pair : 6)
+All_Might_91 collected 600 from main pot
+_SKR collected 45 from side pot 1
+*** SUMMARY ***
+Total pot 645 | No rake
+Board: [6s 5h 2s Ad 4d]
+Seat 1: _SKR (small blind) showed [Qs Ks] and won 45 with High card : Ace
+Seat 2: All_Might_91 (big blind) showed [6d Qh] and won 600 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696824881579819009-3-1675099592 - Holdem no limit (10/20) - 2023/01/30 17:26:32 UTC
+Table: 'Expresso Nitro(627903473)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (45)
+Seat 2: All_Might_91 (600)
+Seat 3: Sbrngvrs (255)
+*** ANTE/BLINDS ***
+All_Might_91 posts small blind 10
+Sbrngvrs posts big blind 20
+Dealt to _SKR [Qd 6d]
+*** PRE-FLOP *** 
+_SKR raises 25 to 45 and is all-in
+All_Might_91 calls 35
+Sbrngvrs calls 25
+*** FLOP *** [2d 4d Jh]
+All_Might_91 bets 20
+Sbrngvrs calls 20
+*** TURN *** [2d 4d Jh][4c]
+All_Might_91 bets 20
+Sbrngvrs calls 20
+*** RIVER *** [2d 4d Jh 4c][9c]
+All_Might_91 bets 75
+Sbrngvrs folds
+*** SHOW DOWN ***
+_SKR shows [Qd 6d] (One pair : 4)
+All_Might_91 shows [Qs 2s] (Two pairs : 4 and 2)
+All_Might_91 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Board: [2d 4d Jh 4c 9c]
+Seat 1: _SKR (button) showed [Qd 6d] and lost with One pair : 4
+Seat 2: All_Might_91 (small blind) showed [Qs 2s] and won 290 with Two pairs : 4 and 2
+
+

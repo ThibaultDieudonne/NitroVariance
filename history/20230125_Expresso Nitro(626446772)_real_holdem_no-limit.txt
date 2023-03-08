@@ -1,0 +1,251 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690568398424768513-1-1674686227 - Holdem no limit (10/20) - 2023/01/25 22:37:07 UTC
+Table: 'Expresso Nitro(626446772)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: STALO (300)
+Seat 3: Fish93460 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+STALO posts big blind 20
+Dealt to _SKR [Ks 3h]
+*** PRE-FLOP *** 
+Fish93460 folds
+_SKR folds
+STALO collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: STALO (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690568398424768513-2-1674686233 - Holdem no limit (10/20) - 2023/01/25 22:37:13 UTC
+Table: 'Expresso Nitro(626446772)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: STALO (310)
+Seat 3: Fish93460 (300)
+*** ANTE/BLINDS ***
+STALO posts small blind 10
+Fish93460 posts big blind 20
+Dealt to _SKR [Jc 6c]
+*** PRE-FLOP *** 
+_SKR folds
+STALO raises 20 to 40
+Fish93460 calls 20
+*** FLOP *** [2c 9h Td]
+STALO checks
+Fish93460 checks
+*** TURN *** [2c 9h Td][Ac]
+STALO checks
+Fish93460 bets 20
+STALO raises 250 to 270 and is all-in
+Fish93460 calls 240 and is all-in
+*** RIVER *** [2c 9h Td Ac][Jd]
+*** SHOW DOWN ***
+STALO shows [Ah Qd] (One pair : Aces)
+Fish93460 shows [9d Ts] (Two pairs : Tens and 9)
+Fish93460 collected 600 from main pot
+STALO collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [2c 9h Td Ac Jd]
+Seat 2: STALO (small blind) showed [Ah Qd] and won 10 with One pair : Aces
+Seat 3: Fish93460 (big blind) showed [9d Ts] and won 600 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690568398424768513-3-1674686264 - Holdem no limit (10/20) - 2023/01/25 22:37:44 UTC
+Table: 'Expresso Nitro(626446772)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: STALO (10)
+Seat 3: Fish93460 (600)
+*** ANTE/BLINDS ***
+Fish93460 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s Qd]
+*** PRE-FLOP *** 
+STALO calls 10 and is all-in
+Fish93460 calls 10
+_SKR checks
+*** FLOP *** [Th 2c Jh]
+Fish93460 checks
+_SKR checks
+*** TURN *** [Th 2c Jh][9c]
+Fish93460 checks
+_SKR checks
+*** RIVER *** [Th 2c Jh 9c][Qs]
+Fish93460 bets 20
+_SKR calls 20
+*** SHOW DOWN ***
+STALO shows [Td 7c] (One pair : Tens)
+Fish93460 shows [7d 2d] (One pair : 2)
+_SKR shows [5s Qd] (One pair : Queens)
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Th 2c Jh 9c Qs]
+Seat 1: _SKR (big blind) showed [5s Qd] and won 90 with One pair : Queens
+Seat 2: STALO (button) showed [Td 7c] and lost with One pair : Tens
+Seat 3: Fish93460 (small blind) showed [7d 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690568398424768513-4-1674686305 - Holdem no limit (15/30) - 2023/01/25 22:38:25 UTC
+Table: 'Expresso Nitro(626446772)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (340)
+Seat 3: Fish93460 (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Fish93460 posts big blind 30
+Dealt to _SKR [2s Jh]
+*** PRE-FLOP *** 
+_SKR folds
+Fish93460 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Fish93460 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690568398424768513-5-1674686313 - Holdem no limit (15/30) - 2023/01/25 22:38:33 UTC
+Table: 'Expresso Nitro(626446772)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (325)
+Seat 3: Fish93460 (575)
+*** ANTE/BLINDS ***
+Fish93460 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5c 4h]
+*** PRE-FLOP *** 
+Fish93460 calls 15
+_SKR checks
+*** FLOP *** [3h 8c 4c]
+_SKR checks
+Fish93460 bets 30
+_SKR calls 30
+*** TURN *** [3h 8c 4c][Qh]
+_SKR checks
+Fish93460 bets 30
+_SKR calls 30
+*** RIVER *** [3h 8c 4c Qh][5s]
+_SKR checks
+Fish93460 checks
+*** SHOW DOWN ***
+Fish93460 shows [6d 4d] (One pair : 4)
+_SKR shows [5c 4h] (Two pairs : 5 and 4)
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3h 8c 4c Qh 5s]
+Seat 1: _SKR (big blind) showed [5c 4h] and won 180 with Two pairs : 5 and 4
+Seat 3: Fish93460 (small blind) (button) showed [6d 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690568398424768513-6-1674686340 - Holdem no limit (15/30) - 2023/01/25 22:39:00 UTC
+Table: 'Expresso Nitro(626446772)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (415)
+Seat 3: Fish93460 (485)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Fish93460 posts big blind 30
+Dealt to _SKR [Ah Ks]
+*** PRE-FLOP *** 
+_SKR calls 15
+Fish93460 checks
+*** FLOP *** [7c 4c 9h]
+Fish93460 checks
+_SKR bets 30
+Fish93460 calls 30
+*** TURN *** [7c 4c 9h][6s]
+Fish93460 checks
+_SKR checks
+*** RIVER *** [7c 4c 9h 6s][9s]
+Fish93460 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [Ah Ks] (One pair : 9)
+Fish93460 shows [2c 4s] (Two pairs : 9 and 4)
+Fish93460 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7c 4c 9h 6s 9s]
+Seat 1: _SKR (small blind) (button) showed [Ah Ks] and lost with One pair : 9
+Seat 3: Fish93460 (big blind) showed [2c 4s] and won 120 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690568398424768513-7-1674686374 - Holdem no limit (20/40) - 2023/01/25 22:39:34 UTC
+Table: 'Expresso Nitro(626446772)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (355)
+Seat 3: Fish93460 (545)
+*** ANTE/BLINDS ***
+Fish93460 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8s 7h]
+*** PRE-FLOP *** 
+Fish93460 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690568398424768513-8-1674686378 - Holdem no limit (20/40) - 2023/01/25 22:39:38 UTC
+Table: 'Expresso Nitro(626446772)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (375)
+Seat 3: Fish93460 (525)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Fish93460 posts big blind 40
+Dealt to _SKR [Th Tc]
+*** PRE-FLOP *** 
+_SKR raises 335 to 375 and is all-in
+Fish93460 calls 335
+*** FLOP *** [Jc Js 9d]
+*** TURN *** [Jc Js 9d][Kd]
+*** RIVER *** [Jc Js 9d Kd][As]
+*** SHOW DOWN ***
+Fish93460 shows [5h 5s] (Two pairs : Jacks and 5)
+_SKR shows [Th Tc] (Two pairs : Jacks and Tens)
+_SKR collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [Jc Js 9d Kd As]
+Seat 1: _SKR (small blind) (button) showed [Th Tc] and won 750 with Two pairs : Jacks and Tens
+Seat 3: Fish93460 (big blind) showed [5h 5s] and lost with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690568398424768513-9-1674686402 - Holdem no limit (20/40) - 2023/01/25 22:40:02 UTC
+Table: 'Expresso Nitro(626446772)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (750)
+Seat 3: Fish93460 (150)
+*** ANTE/BLINDS ***
+Fish93460 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5d 4h]
+*** PRE-FLOP *** 
+Fish93460 raises 110 to 150 and is all-in
+_SKR folds
+Fish93460 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Seat 3: Fish93460 (small blind) (button) won 190
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690568398424768513-10-1674686407 - Holdem no limit (30/60) - 2023/01/25 22:40:07 UTC
+Table: 'Expresso Nitro(626446772)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (710)
+Seat 3: Fish93460 (190)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Fish93460 posts big blind 60
+Dealt to _SKR [3s 3c]
+*** PRE-FLOP *** 
+_SKR raises 650 to 710 and is all-in
+Fish93460 calls 130 and is all-in
+*** FLOP *** [Js Qd 9s]
+*** TURN *** [Js Qd 9s][8d]
+*** RIVER *** [Js Qd 9s 8d][2c]
+*** SHOW DOWN ***
+Fish93460 shows [Ks 7s] (High card : King)
+_SKR shows [3s 3c] (One pair : 3)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js Qd 9s 8d 2c]
+Seat 1: _SKR (small blind) (button) showed [3s 3c] and won 900 with One pair : 3
+Seat 3: Fish93460 (big blind) showed [Ks 7s] and lost with High card : King
+
+

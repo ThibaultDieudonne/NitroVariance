@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781647750168577-1-1676300084 - Holdem no limit (10/20) - 2023/02/13 14:54:44 UTC
+Table: 'Expresso Nitro(633015681)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MrBelik13 (300)
+Seat 2: VietFish (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+MrBelik13 posts small blind 10
+VietFish posts big blind 20
+Dealt to _SKR [Ad Qs]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+MrBelik13 calls 30
+VietFish calls 20
+*** FLOP *** [6c Tc 7d]
+MrBelik13 checks
+VietFish checks
+_SKR checks
+*** TURN *** [6c Tc 7d][8s]
+MrBelik13 checks
+VietFish checks
+_SKR checks
+*** RIVER *** [6c Tc 7d 8s][Th]
+MrBelik13 checks
+VietFish checks
+_SKR checks
+*** SHOW DOWN ***
+MrBelik13 shows [Jh 7s] (Two pairs : Tens and 7)
+_SKR shows [Ad Qs] (One pair : Tens)
+VietFish shows [9c 2c] (Straight Ten high)
+VietFish collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6c Tc 7d 8s Th]
+Seat 1: MrBelik13 (small blind) showed [Jh 7s] and lost with Two pairs : Tens and 7
+Seat 2: VietFish (big blind) showed [9c 2c] and won 120 with Straight Ten high
+Seat 3: _SKR (button) showed [Ad Qs] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781647750168577-2-1676300130 - Holdem no limit (10/20) - 2023/02/13 14:55:30 UTC
+Table: 'Expresso Nitro(633015681)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MrBelik13 (260)
+Seat 2: VietFish (380)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+VietFish posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 4s]
+*** PRE-FLOP *** 
+MrBelik13 calls 20
+VietFish raises 360 to 380 and is all-in
+_SKR folds
+MrBelik13 calls 240 and is all-in
+*** FLOP *** [2c Th Kd]
+*** TURN *** [2c Th Kd][Jh]
+*** RIVER *** [2c Th Kd Jh][Ad]
+*** SHOW DOWN ***
+MrBelik13 shows [Kc 4c] (One pair : Kings)
+VietFish shows [Ah 9s] (One pair : Aces)
+VietFish collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [2c Th Kd Jh Ad]
+Seat 1: MrBelik13 (button) showed [Kc 4c] and lost with One pair : Kings
+Seat 2: VietFish (small blind) showed [Ah 9s] and won 660 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718781647750168577-3-1676300147 - Holdem no limit (15/30) - 2023/02/13 14:55:47 UTC
+Table: 'Expresso Nitro(633015681)#0' 3-max (real money) Seat #3 is the button
+Seat 2: VietFish (660)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+VietFish posts big blind 30
+Dealt to _SKR [4c 7h]
+*** PRE-FLOP *** 
+_SKR folds
+VietFish collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: VietFish (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718781647750168577-4-1676300151 - Holdem no limit (15/30) - 2023/02/13 14:55:51 UTC
+Table: 'Expresso Nitro(633015681)#0' 3-max (real money) Seat #2 is the button
+Seat 2: VietFish (675)
+Seat 3: _SKR (225)
+*** ANTE/BLINDS ***
+VietFish posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ks 5s]
+*** PRE-FLOP *** 
+VietFish raises 645 to 675 and is all-in
+_SKR calls 195 and is all-in
+*** FLOP *** [2c 8h Jd]
+*** TURN *** [2c 8h Jd][Jc]
+*** RIVER *** [2c 8h Jd Jc][As]
+*** SHOW DOWN ***
+_SKR shows [Ks 5s] (One pair : Jacks)
+VietFish shows [Kc Th] (One pair : Jacks)
+VietFish collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2c 8h Jd Jc As]
+Seat 2: VietFish (small blind) (button) showed [Kc Th] and won 900 with One pair : Jacks
+Seat 3: _SKR (big blind) showed [Ks 5s] and lost with One pair : Jacks
+
+

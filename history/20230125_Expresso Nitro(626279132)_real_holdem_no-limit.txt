@@ -1,0 +1,136 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689848390107267073-1-1674655528 - Holdem no limit (10/20) - 2023/01/25 14:05:28 UTC
+Table: 'Expresso Nitro(626279132)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rusteen40 (300)
+Seat 2: Demo53 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Rusteen40 posts small blind 10
+Demo53 posts big blind 20
+Dealt to _SKR [Js 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Rusteen40 calls 10
+Demo53 checks
+*** FLOP *** [7c 2h Jd]
+Rusteen40 checks
+Demo53 bets 40
+Rusteen40 folds
+Demo53 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7c 2h Jd]
+Seat 2: Demo53 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689848390107267073-2-1674655547 - Holdem no limit (10/20) - 2023/01/25 14:05:47 UTC
+Table: 'Expresso Nitro(626279132)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rusteen40 (280)
+Seat 2: Demo53 (320)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Demo53 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc 8s]
+*** PRE-FLOP *** 
+Rusteen40 calls 20
+Demo53 calls 10
+_SKR checks
+*** FLOP *** [Th 6d 7c]
+Demo53 checks
+_SKR checks
+Rusteen40 bets 60
+Demo53 calls 60
+_SKR folds
+*** TURN *** [Th 6d 7c][9d]
+Demo53 checks
+Rusteen40 checks
+*** RIVER *** [Th 6d 7c 9d][4c]
+Demo53 checks
+Rusteen40 bets 117
+Demo53 folds
+Rusteen40 collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [Th 6d 7c 9d 4c]
+Seat 1: Rusteen40 (button) won 297
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689848390107267073-3-1674655583 - Holdem no limit (10/20) - 2023/01/25 14:06:23 UTC
+Table: 'Expresso Nitro(626279132)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rusteen40 (380)
+Seat 2: Demo53 (240)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Rusteen40 posts big blind 20
+Dealt to _SKR [Kc 8d]
+*** PRE-FLOP *** 
+Demo53 raises 220 to 240 and is all-in
+_SKR folds
+Rusteen40 folds
+Demo53 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: Demo53 (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689848390107267073-4-1674655591 - Holdem no limit (15/30) - 2023/01/25 14:06:31 UTC
+Table: 'Expresso Nitro(626279132)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rusteen40 (360)
+Seat 2: Demo53 (270)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Rusteen40 posts small blind 15
+Demo53 posts big blind 30
+Dealt to _SKR [6h Jc]
+*** PRE-FLOP *** 
+_SKR folds
+Rusteen40 calls 15
+Demo53 checks
+*** FLOP *** [5d 2h 8h]
+Rusteen40 checks
+Demo53 checks
+*** TURN *** [5d 2h 8h][Ts]
+Rusteen40 checks
+Demo53 bets 30
+Rusteen40 calls 30
+*** RIVER *** [5d 2h 8h Ts][Tc]
+Rusteen40 checks
+Demo53 bets 30
+Rusteen40 folds
+Demo53 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [5d 2h 8h Ts Tc]
+Seat 2: Demo53 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689848390107267073-5-1674655619 - Holdem no limit (15/30) - 2023/01/25 14:06:59 UTC
+Table: 'Expresso Nitro(626279132)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rusteen40 (300)
+Seat 2: Demo53 (330)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Demo53 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kd Th]
+*** PRE-FLOP *** 
+Rusteen40 calls 30
+Demo53 calls 15
+_SKR raises 240 to 270 and is all-in
+Rusteen40 calls 240
+Demo53 folds
+*** FLOP *** [Ac 8h 2s]
+*** TURN *** [Ac 8h 2s][As]
+*** RIVER *** [Ac 8h 2s As][Jh]
+*** SHOW DOWN ***
+_SKR shows [Kd Th] (One pair : Aces)
+Rusteen40 shows [Tc Ah] (Trips of Aces)
+Rusteen40 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Ac 8h 2s As Jh]
+Seat 1: Rusteen40 (button) showed [Tc Ah] and won 570 with Trips of Aces
+Seat 3: _SKR (big blind) showed [Kd Th] and lost with One pair : Aces
+
+

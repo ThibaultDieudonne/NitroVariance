@@ -1,0 +1,428 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488521216032769-1-1675082875 - Holdem no limit (10/20) - 2023/01/30 12:47:55 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ja zon (300)
+Seat 2: RomSC (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Ja zon posts small blind 10
+RomSC posts big blind 20
+Dealt to _SKR [As Kc]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Ja zon folds
+RomSC calls 280 and is all-in
+*** FLOP *** [6s 3d 6h]
+*** TURN *** [6s 3d 6h][8d]
+*** RIVER *** [6s 3d 6h 8d][8c]
+*** SHOW DOWN ***
+RomSC shows [Ts Ah] (Two pairs : 8 and 6)
+_SKR shows [As Kc] (Two pairs : 8 and 6)
+_SKR collected 305 from pot
+RomSC collected 305 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [6s 3d 6h 8d 8c]
+Seat 2: RomSC (big blind) showed [Ts Ah] and won 305 with Two pairs : 8 and 6
+Seat 3: _SKR (button) showed [As Kc] and won 305 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488521216032769-2-1675082887 - Holdem no limit (10/20) - 2023/01/30 12:48:07 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ja zon (290)
+Seat 2: RomSC (305)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+RomSC posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5h 9s]
+*** PRE-FLOP *** 
+Ja zon folds
+RomSC raises 20 to 40
+_SKR folds
+RomSC collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: RomSC (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488521216032769-3-1675082896 - Holdem no limit (10/20) - 2023/01/30 12:48:16 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ja zon (290)
+Seat 2: RomSC (325)
+Seat 3: _SKR (285)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ja zon posts big blind 20
+Dealt to _SKR [4c 3c]
+*** PRE-FLOP *** 
+RomSC raises 20 to 40
+_SKR folds
+Ja zon calls 20
+*** FLOP *** [9c Td 8d]
+Ja zon checks
+RomSC bets 20
+Ja zon calls 20
+*** TURN *** [9c Td 8d][6c]
+Ja zon checks
+RomSC bets 85
+Ja zon folds
+RomSC collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Board: [9c Td 8d 6c]
+Seat 2: RomSC (button) won 215
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488521216032769-4-1675082925 - Holdem no limit (10/20) - 2023/01/30 12:48:45 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ja zon (230)
+Seat 2: RomSC (395)
+Seat 3: _SKR (275)
+*** ANTE/BLINDS ***
+Ja zon posts small blind 10
+RomSC posts big blind 20
+Dealt to _SKR [Jc 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Ja zon calls 10
+RomSC raises 375 to 395 and is all-in
+Ja zon folds
+RomSC collected 415 from pot
+*** SUMMARY ***
+Total pot 415 | No rake
+Seat 2: RomSC (big blind) won 415
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696488521216032769-5-1675082938 - Holdem no limit (15/30) - 2023/01/30 12:48:58 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ja zon (210)
+Seat 2: RomSC (415)
+Seat 3: _SKR (275)
+*** ANTE/BLINDS ***
+RomSC posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd 8c]
+*** PRE-FLOP *** 
+Ja zon calls 30
+RomSC folds
+_SKR checks
+*** FLOP *** [Kd 6c 4d]
+_SKR checks
+Ja zon checks
+*** TURN *** [Kd 6c 4d][Jc]
+_SKR checks
+Ja zon checks
+*** RIVER *** [Kd 6c 4d Jc][2h]
+_SKR checks
+Ja zon checks
+*** SHOW DOWN ***
+Ja zon shows [Ts 3h] (High card : King)
+_SKR shows [Jd 8c] (One pair : Jacks)
+_SKR collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [Kd 6c 4d Jc 2h]
+Seat 1: Ja zon (button) showed [Ts 3h] and lost with High card : King
+Seat 3: _SKR (big blind) showed [Jd 8c] and won 75 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696488521216032769-6-1675082975 - Holdem no limit (15/30) - 2023/01/30 12:49:35 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ja zon (180)
+Seat 2: RomSC (400)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Ja zon posts big blind 30
+Dealt to _SKR [Kd 9c]
+*** PRE-FLOP *** 
+RomSC calls 30
+_SKR raises 290 to 320 and is all-in
+Ja zon folds
+RomSC folds
+_SKR collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: _SKR (small blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696488521216032769-7-1675082991 - Holdem no limit (20/40) - 2023/01/30 12:49:51 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ja zon (150)
+Seat 2: RomSC (370)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+Ja zon posts small blind 20
+RomSC posts big blind 40
+Dealt to _SKR [Ks 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Ja zon raises 110 to 150 and is all-in
+RomSC folds
+Ja zon collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Seat 1: Ja zon (small blind) won 190
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696488521216032769-8-1675083001 - Holdem no limit (20/40) - 2023/01/30 12:50:01 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ja zon (190)
+Seat 2: RomSC (330)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+RomSC posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7h 4h]
+*** PRE-FLOP *** 
+Ja zon folds
+RomSC folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696488521216032769-9-1675083005 - Holdem no limit (20/40) - 2023/01/30 12:50:05 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ja zon (190)
+Seat 2: RomSC (310)
+Seat 3: _SKR (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Ja zon posts big blind 40
+Dealt to _SKR [5h 6s]
+*** PRE-FLOP *** 
+RomSC calls 40
+_SKR folds
+Ja zon checks
+*** FLOP *** [4c 5d 2c]
+Ja zon bets 150 and is all-in
+RomSC raises 120 to 270 and is all-in
+*** TURN *** [4c 5d 2c][Ks]
+*** RIVER *** [4c 5d 2c Ks][Th]
+*** SHOW DOWN ***
+Ja zon shows [2s 7s] (One pair : 2)
+RomSC shows [Ac 4s] (One pair : 4)
+RomSC collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [4c 5d 2c Ks Th]
+Seat 1: Ja zon (big blind) showed [2s 7s] and lost with One pair : 2
+Seat 2: RomSC (button) showed [Ac 4s] and won 520 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696488521216032769-10-1675083022 - Holdem no limit (20/40) - 2023/01/30 12:50:22 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #2 is the button
+Seat 2: RomSC (520)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+RomSC posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5d 7h]
+*** PRE-FLOP *** 
+RomSC folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696488521216032769-11-1675083027 - Holdem no limit (20/40) - 2023/01/30 12:50:27 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #3 is the button
+Seat 2: RomSC (500)
+Seat 3: _SKR (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+RomSC posts big blind 40
+Dealt to _SKR [Ts 8c]
+*** PRE-FLOP *** 
+_SKR folds
+RomSC collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: RomSC (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696488521216032769-12-1675083031 - Holdem no limit (20/40) - 2023/01/30 12:50:31 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #2 is the button
+Seat 2: RomSC (520)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+RomSC posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac Tc]
+*** PRE-FLOP *** 
+RomSC calls 20
+_SKR raises 340 to 380 and is all-in
+RomSC folds
+_SKR collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: _SKR (big blind) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696488521216032769-13-1675083042 - Holdem no limit (20/40) - 2023/01/30 12:50:42 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #3 is the button
+Seat 2: RomSC (480)
+Seat 3: _SKR (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+RomSC posts big blind 40
+Dealt to _SKR [Ks Qh]
+*** PRE-FLOP *** 
+_SKR raises 380 to 420 and is all-in
+RomSC folds
+_SKR collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 3: _SKR (small blind) (button) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696488521216032769-14-1675083053 - Holdem no limit (30/60) - 2023/01/30 12:50:53 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #2 is the button
+Seat 2: RomSC (440)
+Seat 3: _SKR (460)
+*** ANTE/BLINDS ***
+RomSC posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ah 5s]
+*** PRE-FLOP *** 
+RomSC folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696488521216032769-15-1675083056 - Holdem no limit (30/60) - 2023/01/30 12:50:56 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #3 is the button
+Seat 2: RomSC (410)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+RomSC posts big blind 60
+Dealt to _SKR [9s Td]
+*** PRE-FLOP *** 
+_SKR raises 430 to 490 and is all-in
+RomSC folds
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 3: _SKR (small blind) (button) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696488521216032769-16-1675083069 - Holdem no limit (30/60) - 2023/01/30 12:51:09 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #2 is the button
+Seat 2: RomSC (350)
+Seat 3: _SKR (550)
+*** ANTE/BLINDS ***
+RomSC posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2d 6h]
+*** PRE-FLOP *** 
+RomSC folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696488521216032769-17-1675083072 - Holdem no limit (30/60) - 2023/01/30 12:51:12 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #3 is the button
+Seat 2: RomSC (320)
+Seat 3: _SKR (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+RomSC posts big blind 60
+Dealt to _SKR [5c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+RomSC collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: RomSC (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696488521216032769-18-1675083078 - Holdem no limit (30/60) - 2023/01/30 12:51:18 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #2 is the button
+Seat 2: RomSC (350)
+Seat 3: _SKR (550)
+*** ANTE/BLINDS ***
+RomSC posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5h 7c]
+*** PRE-FLOP *** 
+RomSC folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696488521216032769-19-1675083082 - Holdem no limit (30/60) - 2023/01/30 12:51:22 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #3 is the button
+Seat 2: RomSC (320)
+Seat 3: _SKR (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+RomSC posts big blind 60
+Dealt to _SKR [Th 5c]
+*** PRE-FLOP *** 
+_SKR folds
+RomSC collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: RomSC (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696488521216032769-20-1675083086 - Holdem no limit (30/60) - 2023/01/30 12:51:26 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #2 is the button
+Seat 2: RomSC (350)
+Seat 3: _SKR (550)
+*** ANTE/BLINDS ***
+RomSC posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3c 3d]
+*** PRE-FLOP *** 
+RomSC raises 290 to 350 and is all-in
+_SKR calls 290
+*** FLOP *** [Kc As 6d]
+*** TURN *** [Kc As 6d][Qh]
+*** RIVER *** [Kc As 6d Qh][5s]
+*** SHOW DOWN ***
+_SKR shows [3c 3d] (One pair : 3)
+RomSC shows [Jc Tc] (Straight Ace high)
+RomSC collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [Kc As 6d Qh 5s]
+Seat 2: RomSC (small blind) (button) showed [Jc Tc] and won 700 with Straight Ace high
+Seat 3: _SKR (big blind) showed [3c 3d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2696488521216032769-21-1675083103 - Holdem no limit (30/60) - 2023/01/30 12:51:43 UTC
+Table: 'Expresso Nitro(627825158)#0' 3-max (real money) Seat #3 is the button
+Seat 2: RomSC (700)
+Seat 3: _SKR (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+RomSC posts big blind 60
+Dealt to _SKR [7c 7s]
+*** PRE-FLOP *** 
+_SKR raises 140 to 200 and is all-in
+RomSC raises 500 to 700 and is all-in
+*** FLOP *** [Ac 6h Qd]
+*** TURN *** [Ac 6h Qd][8h]
+*** RIVER *** [Ac 6h Qd 8h][Kc]
+*** SHOW DOWN ***
+_SKR shows [7c 7s] (One pair : 7)
+RomSC shows [4s Kh] (One pair : Kings)
+RomSC collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 6h Qd 8h Kc]
+Seat 2: RomSC (big blind) showed [4s Kh] and won 900 with One pair : Kings
+Seat 3: _SKR (small blind) (button) showed [7c 7s] and lost with One pair : 7
+
+

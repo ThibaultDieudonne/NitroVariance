@@ -1,0 +1,136 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717282695573929985-1-1676215605 - Holdem no limit (10/20) - 2023/02/12 15:26:45 UTC
+Table: 'Expresso Nitro(632666679)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jeremy 27 (300)
+Seat 2: PILLET33 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+PILLET33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 9s]
+*** PRE-FLOP *** 
+Jeremy 27 raises 280 to 300 and is all-in
+PILLET33 folds
+_SKR folds
+Jeremy 27 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Jeremy 27 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717282695573929985-2-1676215626 - Holdem no limit (10/20) - 2023/02/12 15:27:06 UTC
+Table: 'Expresso Nitro(632666679)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jeremy 27 (330)
+Seat 2: PILLET33 (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Jeremy 27 posts big blind 20
+Dealt to _SKR [5s 8s]
+*** PRE-FLOP *** 
+PILLET33 folds
+_SKR folds
+Jeremy 27 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Jeremy 27 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717282695573929985-3-1676215636 - Holdem no limit (10/20) - 2023/02/12 15:27:16 UTC
+Table: 'Expresso Nitro(632666679)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jeremy 27 (340)
+Seat 2: PILLET33 (290)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Jeremy 27 posts small blind 10
+PILLET33 posts big blind 20
+Dealt to _SKR [7d Kd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Jeremy 27 raises 300 to 340 and is all-in
+PILLET33 folds
+_SKR folds
+Jeremy 27 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 1: Jeremy 27 (small blind) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717282695573929985-4-1676215657 - Holdem no limit (10/20) - 2023/02/12 15:27:37 UTC
+Table: 'Expresso Nitro(632666679)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jeremy 27 (400)
+Seat 2: PILLET33 (270)
+Seat 3: _SKR (230)
+*** ANTE/BLINDS ***
+PILLET33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9c 2d]
+*** PRE-FLOP *** 
+Jeremy 27 calls 20
+PILLET33 folds
+_SKR checks
+*** FLOP *** [4s 8h 5h]
+_SKR checks
+Jeremy 27 checks
+*** TURN *** [4s 8h 5h][4d]
+_SKR checks
+Jeremy 27 checks
+*** RIVER *** [4s 8h 5h 4d][9h]
+_SKR bets 33
+Jeremy 27 calls 33
+*** SHOW DOWN ***
+_SKR shows [9c 2d] (Two pairs : 9 and 4)
+Jeremy 27 shows [7s 6s] (Straight 9 high)
+Jeremy 27 collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | No rake
+Board: [4s 8h 5h 4d 9h]
+Seat 1: Jeremy 27 (button) showed [7s 6s] and won 116 with Straight 9 high
+Seat 3: _SKR (big blind) showed [9c 2d] and lost with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717282695573929985-5-1676215695 - Holdem no limit (15/30) - 2023/02/12 15:28:15 UTC
+Table: 'Expresso Nitro(632666679)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jeremy 27 (463)
+Seat 2: PILLET33 (260)
+Seat 3: _SKR (177)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Jeremy 27 posts big blind 30
+Dealt to _SKR [Ad 5d]
+*** PRE-FLOP *** 
+PILLET33 folds
+_SKR raises 147 to 177 and is all-in
+Jeremy 27 folds
+_SKR collected 207 from pot
+*** SUMMARY ***
+Total pot 207 | No rake
+Seat 3: _SKR (small blind) won 207
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717282695573929985-6-1676215714 - Holdem no limit (15/30) - 2023/02/12 15:28:34 UTC
+Table: 'Expresso Nitro(632666679)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jeremy 27 (433)
+Seat 2: PILLET33 (260)
+Seat 3: _SKR (207)
+*** ANTE/BLINDS ***
+Jeremy 27 posts small blind 15
+PILLET33 posts big blind 30
+Dealt to _SKR [4d Ad]
+*** PRE-FLOP *** 
+_SKR raises 177 to 207 and is all-in
+Jeremy 27 raises 226 to 433 and is all-in
+PILLET33 folds
+*** FLOP *** [3h 6s Jh]
+*** TURN *** [3h 6s Jh][Jd]
+*** RIVER *** [3h 6s Jh Jd][Ks]
+*** SHOW DOWN ***
+_SKR shows [4d Ad] (One pair : Jacks)
+Jeremy 27 shows [9h 6d] (Two pairs : Jacks and 6)
+Jeremy 27 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [3h 6s Jh Jd Ks]
+Seat 1: Jeremy 27 (small blind) showed [9h 6d] and won 670 with Two pairs : Jacks and 6
+Seat 3: _SKR (button) showed [4d Ad] and lost with One pair : Jacks
+
+

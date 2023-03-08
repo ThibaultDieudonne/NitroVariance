@@ -1,0 +1,187 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673187228418572289-1-1673643324 - Holdem no limit (10/20) - 2023/01/13 20:55:24 UTC
+Table: 'Expresso Nitro(622399903)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Chara (300)
+Seat 2: _SKR (300)
+Seat 3: CedricRama (300)
+*** ANTE/BLINDS ***
+CedricRama posts small blind 10
+Chara posts big blind 20
+Dealt to _SKR [5d 9s]
+*** PRE-FLOP *** 
+_SKR folds
+CedricRama calls 10
+Chara checks
+*** FLOP *** [5c 9d Ts]
+CedricRama bets 20
+Chara calls 20
+*** TURN *** [5c 9d Ts][3c]
+CedricRama checks
+Chara checks
+*** RIVER *** [5c 9d Ts 3c][Kc]
+CedricRama bets 20
+Chara calls 20
+*** SHOW DOWN ***
+CedricRama shows [6h 9h] (One pair : 9)
+Chara shows [Qc Ks] (One pair : Kings)
+Chara collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5c 9d Ts 3c Kc]
+Seat 1: Chara (big blind) showed [Qc Ks] and won 120 with One pair : Kings
+Seat 3: CedricRama (small blind) showed [6h 9h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673187228418572289-2-1673643348 - Holdem no limit (10/20) - 2023/01/13 20:55:48 UTC
+Table: 'Expresso Nitro(622399903)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chara (360)
+Seat 2: _SKR (300)
+Seat 3: CedricRama (240)
+*** ANTE/BLINDS ***
+Chara posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Jd]
+*** PRE-FLOP *** 
+CedricRama folds
+Chara calls 10
+_SKR checks
+*** FLOP *** [Qs Td 5c]
+Chara bets 20
+_SKR raises 30 to 50
+Chara calls 30
+*** TURN *** [Qs Td 5c][9h]
+Chara checks
+_SKR bets 49
+Chara calls 49
+*** RIVER *** [Qs Td 5c 9h][Ks]
+Chara checks
+_SKR bets 181 and is all-in
+Chara folds
+_SKR collected 419 from pot
+*** SUMMARY ***
+Total pot 419 | No rake
+Board: [Qs Td 5c 9h Ks]
+Seat 2: _SKR (big blind) won 419
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673187228418572289-3-1673643395 - Holdem no limit (15/30) - 2023/01/13 20:56:35 UTC
+Table: 'Expresso Nitro(622399903)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chara (241)
+Seat 2: _SKR (419)
+Seat 3: CedricRama (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+CedricRama posts big blind 30
+Dealt to _SKR [Qd Th]
+*** PRE-FLOP *** 
+Chara calls 30
+_SKR folds
+CedricRama checks
+*** FLOP *** [Jc Jh 6d]
+CedricRama checks
+Chara checks
+*** TURN *** [Jc Jh 6d][Qc]
+CedricRama checks
+Chara bets 30
+CedricRama calls 30
+*** RIVER *** [Jc Jh 6d Qc][8s]
+CedricRama checks
+Chara bets 30
+CedricRama folds
+Chara collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [Jc Jh 6d Qc 8s]
+Seat 1: Chara (button) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673187228418572289-4-1673643433 - Holdem no limit (15/30) - 2023/01/13 20:57:13 UTC
+Table: 'Expresso Nitro(622399903)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Chara (316)
+Seat 2: _SKR (404)
+Seat 3: CedricRama (180)
+*** ANTE/BLINDS ***
+CedricRama posts small blind 15
+Chara posts big blind 30
+Dealt to _SKR [2c Kc]
+*** PRE-FLOP *** 
+_SKR folds
+CedricRama calls 15
+Chara checks
+*** FLOP *** [6d 9d 8d]
+CedricRama bets 30
+Chara calls 30
+*** TURN *** [6d 9d 8d][6h]
+CedricRama bets 120 and is all-in
+Chara folds
+CedricRama collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [6d 9d 8d 6h]
+Seat 3: CedricRama (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673187228418572289-5-1673643465 - Holdem no limit (20/40) - 2023/01/13 20:57:45 UTC
+Table: 'Expresso Nitro(622399903)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chara (256)
+Seat 2: _SKR (404)
+Seat 3: CedricRama (240)
+*** ANTE/BLINDS ***
+Chara posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Td Js]
+*** PRE-FLOP *** 
+CedricRama folds
+Chara calls 20
+_SKR checks
+*** FLOP *** [9c 6h Ad]
+Chara checks
+_SKR checks
+*** TURN *** [9c 6h Ad][8h]
+Chara checks
+_SKR bets 52
+Chara raises 52 to 104
+_SKR calls 52
+*** RIVER *** [9c 6h Ad 8h][Tc]
+Chara bets 101
+_SKR calls 101
+*** SHOW DOWN ***
+_SKR shows [Td Js] (One pair : Tens)
+Chara shows [5d 7h] (Straight Ten high)
+Chara collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [9c 6h Ad 8h Tc]
+Seat 1: Chara (small blind) showed [5d 7h] and won 490 with Straight Ten high
+Seat 2: _SKR (big blind) showed [Td Js] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2673187228418572289-6-1673643543 - Holdem no limit (30/60) - 2023/01/13 20:59:03 UTC
+Table: 'Expresso Nitro(622399903)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chara (501)
+Seat 2: _SKR (159)
+Seat 3: CedricRama (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+CedricRama posts big blind 60
+Dealt to _SKR [Ac Qd]
+*** PRE-FLOP *** 
+Chara calls 60
+_SKR raises 99 to 159 and is all-in
+CedricRama calls 99
+Chara calls 99
+*** FLOP *** [3d 4h Tc]
+CedricRama bets 81 and is all-in
+Chara folds
+*** TURN *** [3d 4h Tc][Qc]
+*** RIVER *** [3d 4h Tc Qc][9d]
+*** SHOW DOWN ***
+_SKR shows [Ac Qd] (One pair : Queens)
+CedricRama shows [Ts Qh] (Two pairs : Queens and Tens)
+CedricRama collected 558 from pot
+*** SUMMARY ***
+Total pot 558 | No rake
+Board: [3d 4h Tc Qc 9d]
+Seat 2: _SKR (small blind) showed [Ac Qd] and lost with One pair : Queens
+Seat 3: CedricRama (big blind) showed [Ts Qh] and won 558 with Two pairs : Queens and Tens
+
+

@@ -1,0 +1,164 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781596210561025-1-1676300051 - Holdem no limit (10/20) - 2023/02/13 14:54:11 UTC
+Table: 'Expresso Nitro(633015669)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LordOvermain (300)
+Seat 2: _SKR (300)
+Seat 3: Mathieu6z (300)
+*** ANTE/BLINDS ***
+LordOvermain posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qd 4h]
+*** PRE-FLOP *** 
+Mathieu6z folds
+LordOvermain calls 10
+_SKR checks
+*** FLOP *** [Ks 7s 4s]
+LordOvermain checks
+_SKR checks
+*** TURN *** [Ks 7s 4s][Tc]
+LordOvermain checks
+_SKR checks
+*** RIVER *** [Ks 7s 4s Tc][Jh]
+LordOvermain checks
+_SKR checks
+*** SHOW DOWN ***
+LordOvermain shows [Ah 6s] (High card : Ace)
+_SKR shows [Qd 4h] (One pair : 4)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ks 7s 4s Tc Jh]
+Seat 1: LordOvermain (small blind) showed [Ah 6s] and lost with High card : Ace
+Seat 2: _SKR (big blind) showed [Qd 4h] and won 40 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781596210561025-2-1676300079 - Holdem no limit (10/20) - 2023/02/13 14:54:39 UTC
+Table: 'Expresso Nitro(633015669)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LordOvermain (280)
+Seat 2: _SKR (320)
+Seat 3: Mathieu6z (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mathieu6z posts big blind 20
+Dealt to _SKR [Js Ah]
+*** PRE-FLOP *** 
+LordOvermain folds
+_SKR raises 20 to 40
+Mathieu6z calls 20
+*** FLOP *** [8s 3d 4s]
+_SKR checks
+Mathieu6z bets 28
+_SKR calls 28
+*** TURN *** [8s 3d 4s][8c]
+_SKR checks
+Mathieu6z bets 48
+_SKR folds
+Mathieu6z collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [8s 3d 4s 8c]
+Seat 3: Mathieu6z (big blind) won 184
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718781596210561025-3-1676300101 - Holdem no limit (10/20) - 2023/02/13 14:55:01 UTC
+Table: 'Expresso Nitro(633015669)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LordOvermain (280)
+Seat 2: _SKR (252)
+Seat 3: Mathieu6z (368)
+*** ANTE/BLINDS ***
+Mathieu6z posts small blind 10
+LordOvermain posts big blind 20
+Dealt to _SKR [Ah Th]
+*** PRE-FLOP *** 
+_SKR raises 232 to 252 and is all-in
+Mathieu6z folds
+LordOvermain calls 232
+*** FLOP *** [Qh Ac 3h]
+*** TURN *** [Qh Ac 3h][8d]
+*** RIVER *** [Qh Ac 3h 8d][Kh]
+*** SHOW DOWN ***
+LordOvermain shows [Js Qc] (One pair : Queens)
+_SKR shows [Ah Th] (Flush Ace high)
+_SKR collected 514 from pot
+*** SUMMARY ***
+Total pot 514 | No rake
+Board: [Qh Ac 3h 8d Kh]
+Seat 1: LordOvermain (big blind) showed [Js Qc] and lost with One pair : Queens
+Seat 2: _SKR (button) showed [Ah Th] and won 514 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718781596210561025-4-1676300117 - Holdem no limit (15/30) - 2023/02/13 14:55:17 UTC
+Table: 'Expresso Nitro(633015669)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LordOvermain (28)
+Seat 2: _SKR (514)
+Seat 3: Mathieu6z (358)
+*** ANTE/BLINDS ***
+LordOvermain posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5s 9s]
+*** PRE-FLOP *** 
+Mathieu6z calls 30
+LordOvermain calls 13 and is all-in
+_SKR checks
+*** FLOP *** [Td 2d Ac]
+_SKR checks
+Mathieu6z bets 88
+_SKR folds
+*** TURN *** [Td 2d Ac][Kh]
+*** RIVER *** [Td 2d Ac Kh][Ad]
+*** SHOW DOWN ***
+LordOvermain shows [8s 5c] (One pair : Aces)
+Mathieu6z shows [7h 7d] (Two pairs : Aces and 7)
+Mathieu6z collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | No rake
+Board: [Td 2d Ac Kh Ad]
+Seat 1: LordOvermain (small blind) showed [8s 5c] and lost with One pair : Aces
+Seat 3: Mathieu6z (button) showed [7h 7d] and won 176 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718781596210561025-5-1676300155 - Holdem no limit (15/30) - 2023/02/13 14:55:55 UTC
+Table: 'Expresso Nitro(633015669)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (484)
+Seat 3: Mathieu6z (416)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mathieu6z posts big blind 30
+Dealt to _SKR [6s Kc]
+*** PRE-FLOP *** 
+_SKR raises 454 to 484 and is all-in
+Mathieu6z folds
+_SKR collected 514 from pot
+*** SUMMARY ***
+Total pot 514 | No rake
+Seat 2: _SKR (small blind) (button) won 514
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718781596210561025-6-1676300161 - Holdem no limit (15/30) - 2023/02/13 14:56:01 UTC
+Table: 'Expresso Nitro(633015669)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (514)
+Seat 3: Mathieu6z (386)
+*** ANTE/BLINDS ***
+Mathieu6z posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4s Qs]
+*** PRE-FLOP *** 
+Mathieu6z raises 30 to 60
+_SKR calls 30
+*** FLOP *** [As Js Ad]
+_SKR checks
+Mathieu6z bets 42
+_SKR raises 412 to 454 and is all-in
+Mathieu6z calls 284 and is all-in
+*** TURN *** [As Js Ad][Qd]
+*** RIVER *** [As Js Ad Qd][8h]
+*** SHOW DOWN ***
+Mathieu6z shows [4h Kh] (One pair : Aces)
+_SKR shows [4s Qs] (Two pairs : Aces and Queens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As Js Ad Qd 8h]
+Seat 2: _SKR (big blind) showed [4s Qs] and won 900 with Two pairs : Aces and Queens
+Seat 3: Mathieu6z (small blind) (button) showed [4h Kh] and lost with One pair : Aces
+
+

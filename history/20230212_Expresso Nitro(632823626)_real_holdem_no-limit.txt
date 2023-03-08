@@ -1,0 +1,484 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717956777806135297-1-1676241136 - Holdem no limit (10/20) - 2023/02/12 22:32:16 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pool-k (300)
+Seat 2: DonkeyKongg (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+DonkeyKongg posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc Jh]
+*** PRE-FLOP *** 
+pool-k raises 20 to 40
+DonkeyKongg folds
+_SKR calls 20
+*** FLOP *** [8c 5d 2s]
+_SKR checks
+pool-k bets 90
+_SKR folds
+pool-k collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [8c 5d 2s]
+Seat 1: pool-k (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717956777806135297-2-1676241154 - Holdem no limit (10/20) - 2023/02/12 22:32:34 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pool-k (350)
+Seat 2: DonkeyKongg (290)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+pool-k posts big blind 20
+Dealt to _SKR [5c Qs]
+*** PRE-FLOP *** 
+DonkeyKongg calls 20
+_SKR folds
+pool-k checks
+*** FLOP *** [6s 4c Ac]
+pool-k checks
+DonkeyKongg bets 20
+pool-k calls 20
+*** TURN *** [6s 4c Ac][4d]
+pool-k checks
+DonkeyKongg checks
+*** RIVER *** [6s 4c Ac 4d][8d]
+pool-k checks
+DonkeyKongg checks
+*** SHOW DOWN ***
+pool-k shows [2c 5s] (One pair : 4)
+DonkeyKongg shows [8s Js] (Two pairs : 8 and 4)
+DonkeyKongg collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6s 4c Ac 4d 8d]
+Seat 1: pool-k (big blind) showed [2c 5s] and lost with One pair : 4
+Seat 2: DonkeyKongg (button) showed [8s Js] and won 90 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717956777806135297-3-1676241178 - Holdem no limit (10/20) - 2023/02/12 22:32:58 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pool-k (310)
+Seat 2: DonkeyKongg (340)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+pool-k posts small blind 10
+DonkeyKongg posts big blind 20
+Dealt to _SKR [Ah 4s]
+*** PRE-FLOP *** 
+_SKR raises 230 to 250 and is all-in
+pool-k folds
+DonkeyKongg raises 90 to 340 and is all-in
+*** FLOP *** [3h Ad 7c]
+*** TURN *** [3h Ad 7c][5c]
+*** RIVER *** [3h Ad 7c 5c][8h]
+*** SHOW DOWN ***
+DonkeyKongg shows [Jd Js] (One pair : Jacks)
+_SKR shows [Ah 4s] (One pair : Aces)
+_SKR collected 510 from main pot
+DonkeyKongg collected 90 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3h Ad 7c 5c 8h]
+Seat 2: DonkeyKongg (big blind) showed [Jd Js] and won 90 with One pair : Jacks
+Seat 3: _SKR (button) showed [Ah 4s] and won 510 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717956777806135297-4-1676241191 - Holdem no limit (10/20) - 2023/02/12 22:33:11 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pool-k (300)
+Seat 2: DonkeyKongg (90)
+Seat 3: _SKR (510)
+*** ANTE/BLINDS ***
+DonkeyKongg posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3c Qc]
+*** PRE-FLOP *** 
+pool-k calls 20
+DonkeyKongg raises 70 to 90 and is all-in
+_SKR folds
+pool-k folds
+DonkeyKongg collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Seat 2: DonkeyKongg (small blind) won 130
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717956777806135297-5-1676241199 - Holdem no limit (15/30) - 2023/02/12 22:33:19 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pool-k (280)
+Seat 2: DonkeyKongg (130)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+pool-k posts big blind 30
+Dealt to _SKR [5d 2s]
+*** PRE-FLOP *** 
+DonkeyKongg folds
+_SKR folds
+pool-k collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: pool-k (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717956777806135297-6-1676241205 - Holdem no limit (15/30) - 2023/02/12 22:33:25 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pool-k (295)
+Seat 2: DonkeyKongg (130)
+Seat 3: _SKR (475)
+*** ANTE/BLINDS ***
+pool-k posts small blind 15
+DonkeyKongg posts big blind 30
+Dealt to _SKR [4c Ks]
+*** PRE-FLOP *** 
+_SKR folds
+pool-k raises 265 to 295 and is all-in
+DonkeyKongg folds
+pool-k collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 1: pool-k (small blind) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717956777806135297-7-1676241213 - Holdem no limit (15/30) - 2023/02/12 22:33:33 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pool-k (325)
+Seat 2: DonkeyKongg (100)
+Seat 3: _SKR (475)
+*** ANTE/BLINDS ***
+DonkeyKongg posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qd 8h]
+*** PRE-FLOP *** 
+pool-k folds
+DonkeyKongg folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717956777806135297-8-1676241218 - Holdem no limit (15/30) - 2023/02/12 22:33:38 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pool-k (325)
+Seat 2: DonkeyKongg (85)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+pool-k posts big blind 30
+Dealt to _SKR [Ac Js]
+*** PRE-FLOP *** 
+DonkeyKongg folds
+_SKR raises 460 to 490 and is all-in
+pool-k calls 295 and is all-in
+*** FLOP *** [9s Qh 7s]
+*** TURN *** [9s Qh 7s][8c]
+*** RIVER *** [9s Qh 7s 8c][Td]
+*** SHOW DOWN ***
+pool-k shows [Jh Qd] (Straight Queen high)
+_SKR shows [Ac Js] (Straight Queen high)
+_SKR collected 490 from side pot 1
+pool-k collected 325 from main pot
+*** SUMMARY ***
+Total pot 815 | No rake
+Board: [9s Qh 7s 8c Td]
+Seat 1: pool-k (big blind) showed [Jh Qd] and won 325 with Straight Queen high
+Seat 3: _SKR (small blind) showed [Ac Js] and won 490 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717956777806135297-9-1676241232 - Holdem no limit (15/30) - 2023/02/12 22:33:52 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pool-k (325)
+Seat 2: DonkeyKongg (85)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+pool-k posts small blind 15
+DonkeyKongg posts big blind 30
+Dealt to _SKR [4s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+pool-k folds
+DonkeyKongg collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: DonkeyKongg (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717956777806135297-10-1676241237 - Holdem no limit (15/30) - 2023/02/12 22:33:57 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pool-k (310)
+Seat 2: DonkeyKongg (100)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+DonkeyKongg posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3c 2d]
+*** PRE-FLOP *** 
+pool-k calls 30
+DonkeyKongg folds
+_SKR checks
+*** FLOP *** [6h 9c 6d]
+_SKR checks
+pool-k checks
+*** TURN *** [6h 9c 6d][Ks]
+_SKR checks
+pool-k checks
+*** RIVER *** [6h 9c 6d Ks][Kh]
+_SKR checks
+pool-k checks
+*** SHOW DOWN ***
+_SKR shows [3c 2d] (Two pairs : Kings and 6)
+pool-k shows [7s Qd] (Two pairs : Kings and 6)
+pool-k collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [6h 9c 6d Ks Kh]
+Seat 1: pool-k (button) showed [7s Qd] and won 75 with Two pairs : Kings and 6
+Seat 3: _SKR (big blind) showed [3c 2d] and lost with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717956777806135297-11-1676241257 - Holdem no limit (20/40) - 2023/02/12 22:34:17 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pool-k (355)
+Seat 2: DonkeyKongg (85)
+Seat 3: _SKR (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+pool-k posts big blind 40
+Dealt to _SKR [5c Kc]
+*** PRE-FLOP *** 
+DonkeyKongg raises 45 to 85 and is all-in
+_SKR folds
+pool-k calls 45
+*** FLOP *** [7s 6d Qh]
+*** TURN *** [7s 6d Qh][9c]
+*** RIVER *** [7s 6d Qh 9c][5d]
+*** SHOW DOWN ***
+pool-k shows [2s 2h] (One pair : 2)
+DonkeyKongg shows [9d Qs] (Two pairs : Queens and 9)
+DonkeyKongg collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [7s 6d Qh 9c 5d]
+Seat 1: pool-k (big blind) showed [2s 2h] and lost with One pair : 2
+Seat 2: DonkeyKongg (button) showed [9d Qs] and won 190 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717956777806135297-12-1676241271 - Holdem no limit (20/40) - 2023/02/12 22:34:31 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pool-k (270)
+Seat 2: DonkeyKongg (190)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+pool-k posts small blind 20
+DonkeyKongg posts big blind 40
+Dealt to _SKR [3d 6c]
+*** PRE-FLOP *** 
+_SKR folds
+pool-k calls 20
+DonkeyKongg raises 150 to 190 and is all-in
+pool-k folds
+DonkeyKongg collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Seat 2: DonkeyKongg (big blind) won 230
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717956777806135297-13-1676241278 - Holdem no limit (20/40) - 2023/02/12 22:34:38 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pool-k (230)
+Seat 2: DonkeyKongg (230)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+DonkeyKongg posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qh 8d]
+*** PRE-FLOP *** 
+pool-k folds
+DonkeyKongg raises 190 to 230 and is all-in
+_SKR folds
+DonkeyKongg collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: DonkeyKongg (small blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717956777806135297-14-1676241284 - Holdem no limit (20/40) - 2023/02/12 22:34:44 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pool-k (230)
+Seat 2: DonkeyKongg (270)
+Seat 3: _SKR (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+pool-k posts big blind 40
+Dealt to _SKR [Th 8s]
+*** PRE-FLOP *** 
+DonkeyKongg folds
+_SKR folds
+pool-k collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: pool-k (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717956777806135297-15-1676241290 - Holdem no limit (20/40) - 2023/02/12 22:34:50 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pool-k (250)
+Seat 2: DonkeyKongg (270)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+pool-k posts small blind 20
+DonkeyKongg posts big blind 40
+Dealt to _SKR [8c 4d]
+*** PRE-FLOP *** 
+_SKR folds
+pool-k calls 20
+DonkeyKongg raises 230 to 270 and is all-in
+pool-k folds
+DonkeyKongg collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: DonkeyKongg (big blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717956777806135297-16-1676241304 - Holdem no limit (20/40) - 2023/02/12 22:35:04 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pool-k (210)
+Seat 2: DonkeyKongg (310)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+DonkeyKongg posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5s 9s]
+*** PRE-FLOP *** 
+pool-k folds
+DonkeyKongg calls 20
+_SKR checks
+*** FLOP *** [As Jh 5d]
+DonkeyKongg bets 40
+_SKR folds
+DonkeyKongg collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [As Jh 5d]
+Seat 2: DonkeyKongg (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717956777806135297-17-1676241316 - Holdem no limit (30/60) - 2023/02/12 22:35:16 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pool-k (210)
+Seat 2: DonkeyKongg (350)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+pool-k posts big blind 60
+Dealt to _SKR [As Ad]
+*** PRE-FLOP *** 
+DonkeyKongg folds
+_SKR calls 30
+pool-k checks
+*** FLOP *** [9s Jc Th]
+_SKR bets 60
+pool-k folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9s Jc Th]
+Seat 3: _SKR (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717956777806135297-18-1676241325 - Holdem no limit (30/60) - 2023/02/12 22:35:25 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pool-k (150)
+Seat 2: DonkeyKongg (350)
+Seat 3: _SKR (400)
+*** ANTE/BLINDS ***
+pool-k posts small blind 30
+DonkeyKongg posts big blind 60
+Dealt to _SKR [4d 2s]
+*** PRE-FLOP *** 
+_SKR folds
+pool-k calls 30
+DonkeyKongg raises 290 to 350 and is all-in
+pool-k calls 90 and is all-in
+*** FLOP *** [6c Kd Ah]
+*** TURN *** [6c Kd Ah][3c]
+*** RIVER *** [6c Kd Ah 3c][5d]
+*** SHOW DOWN ***
+pool-k shows [Th Kc] (One pair : Kings)
+DonkeyKongg shows [Ks 6s] (Two pairs : Kings and 6)
+DonkeyKongg collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [6c Kd Ah 3c 5d]
+Seat 1: pool-k (small blind) showed [Th Kc] and lost with One pair : Kings
+Seat 2: DonkeyKongg (big blind) showed [Ks 6s] and won 500 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717956777806135297-19-1676241339 - Holdem no limit (30/60) - 2023/02/12 22:35:39 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #2 is the button
+Seat 2: DonkeyKongg (500)
+Seat 3: _SKR (400)
+*** ANTE/BLINDS ***
+DonkeyKongg posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9s 4c]
+*** PRE-FLOP *** 
+DonkeyKongg folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717956777806135297-20-1676241343 - Holdem no limit (30/60) - 2023/02/12 22:35:43 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #3 is the button
+Seat 2: DonkeyKongg (470)
+Seat 3: _SKR (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+DonkeyKongg posts big blind 60
+Dealt to _SKR [3d 3s]
+*** PRE-FLOP *** 
+_SKR raises 370 to 430 and is all-in
+DonkeyKongg raises 40 to 470 and is all-in
+*** FLOP *** [5s 2c 8c]
+*** TURN *** [5s 2c 8c][8h]
+*** RIVER *** [5s 2c 8c 8h][Jd]
+*** SHOW DOWN ***
+DonkeyKongg shows [Ad 7s] (One pair : 8)
+_SKR shows [3d 3s] (Two pairs : 8 and 3)
+_SKR collected 860 from main pot
+DonkeyKongg collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s 2c 8c 8h Jd]
+Seat 2: DonkeyKongg (big blind) showed [Ad 7s] and won 40 with One pair : 8
+Seat 3: _SKR (small blind) (button) showed [3d 3s] and won 860 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717956777806135297-21-1676241357 - Holdem no limit (30/60) - 2023/02/12 22:35:57 UTC
+Table: 'Expresso Nitro(632823626)#0' 3-max (real money) Seat #2 is the button
+Seat 2: DonkeyKongg (40)
+Seat 3: _SKR (860)
+*** ANTE/BLINDS ***
+DonkeyKongg posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [As 9h]
+*** PRE-FLOP *** 
+DonkeyKongg calls 10 and is all-in
+*** FLOP *** [6h 5d 4h]
+*** TURN *** [6h 5d 4h][7s]
+*** RIVER *** [6h 5d 4h 7s][5h]
+*** SHOW DOWN ***
+DonkeyKongg shows [9s Kh] (One pair : 5)
+_SKR shows [As 9h] (One pair : 5)
+_SKR collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [6h 5d 4h 7s 5h]
+Seat 2: DonkeyKongg (small blind) (button) showed [9s Kh] and lost with One pair : 5
+Seat 3: _SKR (big blind) showed [As 9h] and won 100 with One pair : 5
+
+

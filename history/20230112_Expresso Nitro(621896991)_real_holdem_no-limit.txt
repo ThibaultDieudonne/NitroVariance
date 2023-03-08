@@ -1,0 +1,187 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671027237825806337-1-1673527327 - Holdem no limit (10/20) - 2023/01/12 12:42:07 UTC
+Table: 'Expresso Nitro(621896991)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: tictac02 (300)
+Seat 3: Vi0507 (300)
+*** ANTE/BLINDS ***
+tictac02 posts small blind 10
+Vi0507 posts big blind 20
+Dealt to _SKR [Js 3s]
+*** PRE-FLOP *** 
+_SKR folds
+tictac02 calls 10
+Vi0507 checks
+*** FLOP *** [Kd Kh 8h]
+tictac02 checks
+Vi0507 checks
+*** TURN *** [Kd Kh 8h][Qd]
+tictac02 checks
+Vi0507 checks
+*** RIVER *** [Kd Kh 8h Qd][Kc]
+tictac02 checks
+Vi0507 checks
+*** SHOW DOWN ***
+Vi0507 shows [9s Th] (Trips of Kings)
+tictac02 shows [5d As] (Trips of Kings)
+tictac02 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Kd Kh 8h Qd Kc]
+Seat 2: tictac02 (small blind) showed [5d As] and won 40 with Trips of Kings
+Seat 3: Vi0507 (big blind) showed [9s Th] and lost with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671027237825806337-2-1673527364 - Holdem no limit (10/20) - 2023/01/12 12:42:44 UTC
+Table: 'Expresso Nitro(621896991)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: tictac02 (320)
+Seat 3: Vi0507 (280)
+*** ANTE/BLINDS ***
+Vi0507 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 2h]
+*** PRE-FLOP *** 
+tictac02 raises 300 to 320 and is all-in
+Vi0507 folds
+_SKR folds
+tictac02 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: tictac02 (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671027237825806337-3-1673527377 - Holdem no limit (10/20) - 2023/01/12 12:42:57 UTC
+Table: 'Expresso Nitro(621896991)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: tictac02 (350)
+Seat 3: Vi0507 (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tictac02 posts big blind 20
+Dealt to _SKR [7h 8d]
+*** PRE-FLOP *** 
+Vi0507 calls 20
+_SKR folds
+tictac02 checks
+*** FLOP *** [6s 3c As]
+tictac02 checks
+Vi0507 checks
+*** TURN *** [6s 3c As][7s]
+tictac02 checks
+Vi0507 checks
+*** RIVER *** [6s 3c As 7s][Tc]
+tictac02 checks
+Vi0507 bets 20
+tictac02 calls 20
+*** SHOW DOWN ***
+tictac02 shows [6h 9c] (One pair : 6)
+Vi0507 shows [Kc Td] (One pair : Tens)
+Vi0507 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6s 3c As 7s Tc]
+Seat 2: tictac02 (big blind) showed [6h 9c] and lost with One pair : 6
+Seat 3: Vi0507 (button) showed [Kc Td] and won 90 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671027237825806337-4-1673527412 - Holdem no limit (15/30) - 2023/01/12 12:43:32 UTC
+Table: 'Expresso Nitro(621896991)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: tictac02 (310)
+Seat 3: Vi0507 (320)
+*** ANTE/BLINDS ***
+tictac02 posts small blind 15
+Vi0507 posts big blind 30
+Dealt to _SKR [9d 4h]
+*** PRE-FLOP *** 
+_SKR folds
+tictac02 raises 280 to 310 and is all-in
+Vi0507 calls 280
+*** FLOP *** [Tc 7h 8s]
+*** TURN *** [Tc 7h 8s][Jh]
+*** RIVER *** [Tc 7h 8s Jh][4c]
+*** SHOW DOWN ***
+tictac02 shows [Qc Ad] (High card : Ace)
+Vi0507 shows [Qd Ah] (High card : Ace)
+Vi0507 collected 310 from pot
+tictac02 collected 310 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Tc 7h 8s Jh 4c]
+Seat 2: tictac02 (small blind) showed [Qc Ad] and won 310 with High card : Ace
+Seat 3: Vi0507 (big blind) showed [Qd Ah] and won 310 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671027237825806337-5-1673527426 - Holdem no limit (15/30) - 2023/01/12 12:43:46 UTC
+Table: 'Expresso Nitro(621896991)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: tictac02 (310)
+Seat 3: Vi0507 (320)
+*** ANTE/BLINDS ***
+Vi0507 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc Ac]
+*** PRE-FLOP *** 
+tictac02 folds
+Vi0507 calls 15
+_SKR raises 240 to 270 and is all-in
+Vi0507 folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: _SKR (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671027237825806337-6-1673527442 - Holdem no limit (15/30) - 2023/01/12 12:44:02 UTC
+Table: 'Expresso Nitro(621896991)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: tictac02 (310)
+Seat 3: Vi0507 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+tictac02 posts big blind 30
+Dealt to _SKR [Ad 7h]
+*** PRE-FLOP *** 
+Vi0507 calls 30
+_SKR raises 270 to 300 and is all-in
+tictac02 folds
+Vi0507 calls 260 and is all-in
+*** FLOP *** [Kh Jd 9h]
+*** TURN *** [Kh Jd 9h][2c]
+*** RIVER *** [Kh Jd 9h 2c][6h]
+*** SHOW DOWN ***
+Vi0507 shows [3c Th] (High card : King)
+_SKR shows [Ad 7h] (High card : Ace)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Kh Jd 9h 2c 6h]
+Seat 1: _SKR (small blind) showed [Ad 7h] and won 620 with High card : Ace
+Seat 3: Vi0507 (button) showed [3c Th] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2671027237825806337-7-1673527468 - Holdem no limit (20/40) - 2023/01/12 12:44:28 UTC
+Table: 'Expresso Nitro(621896991)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (620)
+Seat 2: tictac02 (280)
+*** ANTE/BLINDS ***
+tictac02 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ad 5c]
+*** PRE-FLOP *** 
+tictac02 raises 240 to 280 and is all-in
+_SKR calls 240
+*** FLOP *** [6h 6d 9s]
+*** TURN *** [6h 6d 9s][Ac]
+*** RIVER *** [6h 6d 9s Ac][7d]
+*** SHOW DOWN ***
+tictac02 shows [9c 8s] (Two pairs : 9 and 6)
+_SKR shows [Ad 5c] (Two pairs : Aces and 6)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6h 6d 9s Ac 7d]
+Seat 1: _SKR (big blind) showed [Ad 5c] and won 560 with Two pairs : Aces and 6
+Seat 2: tictac02 (small blind) (button) showed [9c 8s] and lost with Two pairs : 9 and 6
+
+

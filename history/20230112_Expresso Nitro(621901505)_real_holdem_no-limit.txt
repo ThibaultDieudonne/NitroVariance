@@ -1,0 +1,58 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671046625308180481-1-1673528348 - Holdem no limit (10/20) - 2023/01/12 12:59:08 UTC
+Table: 'Expresso Nitro(621901505)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Gradubide39 (300)
+Seat 3: Fanou_974 (300)
+*** ANTE/BLINDS ***
+Fanou_974 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s 4c]
+*** PRE-FLOP *** 
+Gradubide39 folds
+Fanou_974 calls 10
+_SKR checks
+*** FLOP *** [8h Kc 6h]
+Fanou_974 bets 20
+_SKR folds
+Fanou_974 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [8h Kc 6h]
+Seat 3: Fanou_974 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671046625308180481-2-1673528369 - Holdem no limit (10/20) - 2023/01/12 12:59:29 UTC
+Table: 'Expresso Nitro(621901505)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Gradubide39 (300)
+Seat 3: Fanou_974 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Gradubide39 posts big blind 20
+Dealt to _SKR [As Ad]
+*** PRE-FLOP *** 
+Fanou_974 calls 20
+_SKR raises 40 to 60
+Gradubide39 calls 40
+Fanou_974 calls 40
+*** FLOP *** [6s Tc 2s]
+_SKR bets 63
+Gradubide39 raises 177 to 240 and is all-in
+Fanou_974 raises 20 to 260 and is all-in
+_SKR calls 157 and is all-in
+*** TURN *** [6s Tc 2s][8h]
+*** RIVER *** [6s Tc 2s 8h][Ts]
+*** SHOW DOWN ***
+_SKR shows [As Ad] (Two pairs : Aces and Tens)
+Gradubide39 shows [Th 8c] (Full of Tens and 8)
+Fanou_974 shows [Kc 2d] (Two pairs : Tens and 2)
+Fanou_974 collected 20 from side pot 1
+Gradubide39 collected 880 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s Tc 2s 8h Ts]
+Seat 1: _SKR (small blind) showed [As Ad] and lost with Two pairs : Aces and Tens
+Seat 2: Gradubide39 (big blind) showed [Th 8c] and won 880 with Full of Tens and 8
+Seat 3: Fanou_974 (button) showed [Kc 2d] and won 20 with Two pairs : Tens and 2
+
+

@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696534795193679873-1-1675085622 - Holdem no limit (10/20) - 2023/01/30 13:33:42 UTC
+Table: 'Expresso Nitro(627835932)#0' 3-max (real money) Seat #2 is the button
+Seat 1: xjf38 (300)
+Seat 2: _SKR (300)
+Seat 3: TRISKELE56 (300)
+*** ANTE/BLINDS ***
+TRISKELE56 posts small blind 10
+xjf38 posts big blind 20
+Dealt to _SKR [6h Td]
+*** PRE-FLOP *** 
+_SKR folds
+TRISKELE56 calls 10
+xjf38 checks
+*** FLOP *** [9h 6c Kc]
+TRISKELE56 checks
+xjf38 checks
+*** TURN *** [9h 6c Kc][Ad]
+TRISKELE56 checks
+xjf38 checks
+*** RIVER *** [9h 6c Kc Ad][2h]
+TRISKELE56 checks
+xjf38 checks
+*** SHOW DOWN ***
+TRISKELE56 shows [Th 3d] (High card : Ace)
+xjf38 shows [Jd 2c] (One pair : 2)
+xjf38 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [9h 6c Kc Ad 2h]
+Seat 1: xjf38 (big blind) showed [Jd 2c] and won 40 with One pair : 2
+Seat 3: TRISKELE56 (small blind) showed [Th 3d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696534795193679873-2-1675085638 - Holdem no limit (10/20) - 2023/01/30 13:33:58 UTC
+Table: 'Expresso Nitro(627835932)#0' 3-max (real money) Seat #3 is the button
+Seat 1: xjf38 (320)
+Seat 2: _SKR (300)
+Seat 3: TRISKELE56 (280)
+*** ANTE/BLINDS ***
+xjf38 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 8d]
+*** PRE-FLOP *** 
+TRISKELE56 calls 20
+xjf38 calls 10
+_SKR checks
+*** FLOP *** [9h Qs Ac]
+xjf38 bets 60
+_SKR folds
+TRISKELE56 calls 60
+*** TURN *** [9h Qs Ac][3c]
+xjf38 bets 180
+TRISKELE56 calls 180
+*** RIVER *** [9h Qs Ac 3c][6c]
+xjf38 bets 60 and is all-in
+TRISKELE56 calls 20 and is all-in
+*** SHOW DOWN ***
+TRISKELE56 shows [7h Qd] (One pair : Queens)
+xjf38 shows [4d Ah] (One pair : Aces)
+xjf38 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9h Qs Ac 3c 6c]
+Seat 1: xjf38 (small blind) showed [4d Ah] and won 620 with One pair : Aces
+Seat 3: TRISKELE56 (button) showed [7h Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696534795193679873-3-1675085668 - Holdem no limit (10/20) - 2023/01/30 13:34:28 UTC
+Table: 'Expresso Nitro(627835932)#0' 3-max (real money) Seat #2 is the button
+Seat 1: xjf38 (620)
+Seat 2: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+xjf38 posts big blind 20
+Dealt to _SKR [4d 9c]
+*** PRE-FLOP *** 
+_SKR folds
+xjf38 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: xjf38 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696534795193679873-4-1675085672 - Holdem no limit (10/20) - 2023/01/30 13:34:32 UTC
+Table: 'Expresso Nitro(627835932)#0' 3-max (real money) Seat #1 is the button
+Seat 1: xjf38 (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+xjf38 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 9s]
+*** PRE-FLOP *** 
+xjf38 calls 10
+_SKR raises 250 to 270 and is all-in
+xjf38 calls 250
+*** FLOP *** [5c 8d 4d]
+*** TURN *** [5c 8d 4d][8c]
+*** RIVER *** [5c 8d 4d 8c][Qc]
+*** SHOW DOWN ***
+_SKR shows [Js 9s] (One pair : 8)
+xjf38 shows [Ks 4s] (Two pairs : 8 and 4)
+xjf38 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [5c 8d 4d 8c Qc]
+Seat 1: xjf38 (small blind) (button) showed [Ks 4s] and won 540 with Two pairs : 8 and 4
+Seat 2: _SKR (big blind) showed [Js 9s] and lost with One pair : 8
+
+

@@ -1,0 +1,114 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674134114088517633-1-1673702722 - Holdem no limit (10/20) - 2023/01/14 13:25:22 UTC
+Table: 'Expresso Nitro(622620367)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Abzalon40 (300)
+Seat 3: corm973 (300)
+*** ANTE/BLINDS ***
+corm973 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 2d]
+*** PRE-FLOP *** 
+Abzalon40 folds
+corm973 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674134114088517633-2-1673702736 - Holdem no limit (10/20) - 2023/01/14 13:25:36 UTC
+Table: 'Expresso Nitro(622620367)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: Abzalon40 (300)
+Seat 3: corm973 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Abzalon40 posts big blind 20
+Dealt to _SKR [7c Js]
+*** PRE-FLOP *** 
+corm973 folds
+_SKR folds
+Abzalon40 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Abzalon40 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674134114088517633-3-1673702745 - Holdem no limit (10/20) - 2023/01/14 13:25:45 UTC
+Table: 'Expresso Nitro(622620367)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Abzalon40 (310)
+Seat 3: corm973 (290)
+*** ANTE/BLINDS ***
+Abzalon40 posts small blind 10
+corm973 posts big blind 20
+Dealt to _SKR [3h Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Abzalon40 folds
+corm973 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: corm973 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674134114088517633-4-1673702756 - Holdem no limit (10/20) - 2023/01/14 13:25:56 UTC
+Table: 'Expresso Nitro(622620367)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Abzalon40 (300)
+Seat 3: corm973 (300)
+*** ANTE/BLINDS ***
+corm973 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc Th]
+*** PRE-FLOP *** 
+Abzalon40 calls 20
+corm973 folds
+_SKR checks
+*** FLOP *** [7s 6c Jc]
+_SKR checks
+Abzalon40 checks
+*** TURN *** [7s 6c Jc][6h]
+_SKR checks
+Abzalon40 checks
+*** RIVER *** [7s 6c Jc 6h][3h]
+_SKR checks
+Abzalon40 checks
+*** SHOW DOWN ***
+_SKR shows [Qc Th] (One pair : 6)
+Abzalon40 shows [Kh 2h] (One pair : 6)
+Abzalon40 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [7s 6c Jc 6h 3h]
+Seat 1: _SKR (big blind) showed [Qc Th] and lost with One pair : 6
+Seat 2: Abzalon40 (button) showed [Kh 2h] and won 50 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674134114088517633-5-1673702811 - Holdem no limit (15/30) - 2023/01/14 13:26:51 UTC
+Table: 'Expresso Nitro(622620367)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Abzalon40 (330)
+Seat 3: corm973 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Abzalon40 posts big blind 30
+Dealt to _SKR [Ah Qc]
+*** PRE-FLOP *** 
+corm973 folds
+_SKR raises 250 to 280 and is all-in
+Abzalon40 raises 50 to 330 and is all-in
+*** FLOP *** [4h 9s 5c]
+*** TURN *** [4h 9s 5c][7c]
+*** RIVER *** [4h 9s 5c 7c][3h]
+*** SHOW DOWN ***
+_SKR shows [Ah Qc] (High card : Ace)
+Abzalon40 shows [Tc Td] (One pair : Tens)
+Abzalon40 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [4h 9s 5c 7c 3h]
+Seat 1: _SKR (small blind) showed [Ah Qc] and lost with High card : Ace
+Seat 2: Abzalon40 (big blind) showed [Tc Td] and won 610 with One pair : Tens
+
+

@@ -1,0 +1,82 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691965890588573697-1-1674775459 - Holdem no limit (10/20) - 2023/01/26 23:24:19 UTC
+Table: 'Expresso Nitro(626772151)#0' 3-max (real money) Seat #2 is the button
+Seat 1: gota93 (300)
+Seat 2: _SKR (300)
+Seat 3: Pshikomantis (300)
+*** ANTE/BLINDS ***
+Pshikomantis posts small blind 10
+gota93 posts big blind 20
+Dealt to _SKR [Jd 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Pshikomantis folds
+gota93 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: gota93 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691965890588573697-2-1674775466 - Holdem no limit (10/20) - 2023/01/26 23:24:26 UTC
+Table: 'Expresso Nitro(626772151)#0' 3-max (real money) Seat #3 is the button
+Seat 1: gota93 (310)
+Seat 2: _SKR (300)
+Seat 3: Pshikomantis (290)
+*** ANTE/BLINDS ***
+gota93 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td Ad]
+*** PRE-FLOP *** 
+Pshikomantis raises 50 to 70
+gota93 calls 60
+_SKR raises 230 to 300 and is all-in
+Pshikomantis calls 220 and is all-in
+gota93 folds
+*** FLOP *** [Jh Ah 4c]
+*** TURN *** [Jh Ah 4c][8c]
+*** RIVER *** [Jh Ah 4c 8c][5h]
+*** SHOW DOWN ***
+_SKR shows [Td Ad] (One pair : Aces)
+Pshikomantis shows [Ac Jc] (Two pairs : Aces and Jacks)
+Pshikomantis collected 650 from main pot
+_SKR collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Jh Ah 4c 8c 5h]
+Seat 2: _SKR (big blind) showed [Td Ad] and won 10 with One pair : Aces
+Seat 3: Pshikomantis (button) showed [Ac Jc] and won 650 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691965890588573697-3-1674775489 - Holdem no limit (10/20) - 2023/01/26 23:24:49 UTC
+Table: 'Expresso Nitro(626772151)#0' 3-max (real money) Seat #1 is the button
+Seat 1: gota93 (240)
+Seat 2: _SKR (10)
+Seat 3: Pshikomantis (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10 and is all-in
+Pshikomantis posts big blind 20
+Dealt to _SKR [3h Td]
+*** PRE-FLOP *** 
+gota93 calls 20
+Pshikomantis checks
+*** FLOP *** [Qc 9d 3c]
+Pshikomantis checks
+gota93 checks
+*** TURN *** [Qc 9d 3c][Jd]
+Pshikomantis checks
+gota93 checks
+*** RIVER *** [Qc 9d 3c Jd][4h]
+Pshikomantis checks
+gota93 checks
+*** SHOW DOWN ***
+gota93 shows [6s 9h] (One pair : 9)
+_SKR shows [3h Td] (One pair : 3)
+Pshikomantis shows [7s 9c] (One pair : 9)
+Pshikomantis collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Qc 9d 3c Jd 4h]
+Seat 1: gota93 (button) showed [6s 9h] and lost with One pair : 9
+Seat 2: _SKR (small blind) showed [3h Td] and lost with One pair : 3
+Seat 3: Pshikomantis (big blind) showed [7s 9c] and won 50 with One pair : 9
+
+

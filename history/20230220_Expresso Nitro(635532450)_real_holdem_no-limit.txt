@@ -1,0 +1,99 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729591088296755201-1-1676921199 - Holdem no limit (10/20) - 2023/02/20 19:26:39 UTC
+Table: 'Expresso Nitro(635532450)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Iperion1 (300)
+Seat 2: _SKR (300)
+Seat 3: Michad (300)
+*** ANTE/BLINDS ***
+Iperion1 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh As]
+*** PRE-FLOP *** 
+Michad folds
+Iperion1 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729591088296755201-2-1676921204 - Holdem no limit (10/20) - 2023/02/20 19:26:44 UTC
+Table: 'Expresso Nitro(635532450)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Iperion1 (290)
+Seat 2: _SKR (310)
+Seat 3: Michad (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Michad posts big blind 20
+Dealt to _SKR [Ac Kc]
+*** PRE-FLOP *** 
+Iperion1 raises 20 to 40
+_SKR raises 270 to 310 and is all-in
+Michad folds
+Iperion1 calls 250 and is all-in
+*** FLOP *** [7d 5c 4c]
+*** TURN *** [7d 5c 4c][Qh]
+*** RIVER *** [7d 5c 4c Qh][4h]
+*** SHOW DOWN ***
+Iperion1 shows [Kh 8h] (One pair : 4)
+_SKR shows [Ac Kc] (One pair : 4)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [7d 5c 4c Qh 4h]
+Seat 1: Iperion1 (button) showed [Kh 8h] and lost with One pair : 4
+Seat 2: _SKR (small blind) showed [Ac Kc] and won 620 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729591088296755201-3-1676921221 - Holdem no limit (10/20) - 2023/02/20 19:27:01 UTC
+Table: 'Expresso Nitro(635532450)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: Michad (280)
+*** ANTE/BLINDS ***
+Michad posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc As]
+*** PRE-FLOP *** 
+Michad calls 10
+_SKR raises 30 to 50
+Michad calls 30
+*** FLOP *** [Qh Ac 6c]
+_SKR checks
+Michad bets 35
+_SKR calls 35
+*** TURN *** [Qh Ac 6c][5s]
+_SKR checks
+Michad bets 59
+_SKR raises 476 to 535 and is all-in
+Michad folds
+_SKR collected 764 from pot
+*** SUMMARY ***
+Total pot 764 | No rake
+Board: [Qh Ac 6c 5s]
+Seat 2: _SKR (big blind) won 764
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729591088296755201-4-1676921246 - Holdem no limit (10/20) - 2023/02/20 19:27:26 UTC
+Table: 'Expresso Nitro(635532450)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (764)
+Seat 3: Michad (136)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Michad posts big blind 20
+Dealt to _SKR [7d Ah]
+*** PRE-FLOP *** 
+_SKR raises 744 to 764 and is all-in
+Michad calls 116 and is all-in
+*** FLOP *** [6d 3d 2s]
+*** TURN *** [6d 3d 2s][Ac]
+*** RIVER *** [6d 3d 2s Ac][6h]
+*** SHOW DOWN ***
+Michad shows [Kh Jh] (One pair : 6)
+_SKR shows [7d Ah] (Two pairs : Aces and 6)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 3d 2s Ac 6h]
+Seat 2: _SKR (small blind) (button) showed [7d Ah] and won 900 with Two pairs : Aces and 6
+Seat 3: Michad (big blind) showed [Kh Jh] and lost with One pair : 6
+
+

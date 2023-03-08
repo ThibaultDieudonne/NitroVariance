@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680835001804652545-1-1674081484 - Holdem no limit (10/20) - 2023/01/18 22:38:04 UTC
+Table: 'Expresso Nitro(624180539)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Titou270801 (300)
+Seat 2: _SKR (300)
+Seat 3: Lp650500 (300)
+*** ANTE/BLINDS ***
+Lp650500 posts small blind 10
+Titou270801 posts big blind 20
+Dealt to _SKR [8c Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Lp650500 calls 10
+Titou270801 checks
+*** FLOP *** [3d 3s 6d]
+Lp650500 checks
+Titou270801 checks
+*** TURN *** [3d 3s 6d][8s]
+Lp650500 checks
+Titou270801 bets 20
+Lp650500 calls 20
+*** RIVER *** [3d 3s 6d 8s][Ah]
+Lp650500 bets 20
+Titou270801 folds
+Lp650500 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [3d 3s 6d 8s Ah]
+Seat 3: Lp650500 (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680835001804652545-2-1674081505 - Holdem no limit (10/20) - 2023/01/18 22:38:25 UTC
+Table: 'Expresso Nitro(624180539)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Titou270801 (260)
+Seat 2: _SKR (300)
+Seat 3: Lp650500 (340)
+*** ANTE/BLINDS ***
+Titou270801 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c 7h]
+*** PRE-FLOP *** 
+Lp650500 calls 20
+Titou270801 raises 40 to 60
+_SKR folds
+Lp650500 calls 40
+*** FLOP *** [8h Td As]
+Titou270801 checks
+Lp650500 checks
+*** TURN *** [8h Td As][8c]
+Titou270801 checks
+Lp650500 checks
+*** RIVER *** [8h Td As 8c][Qs]
+Titou270801 checks
+Lp650500 checks
+*** SHOW DOWN ***
+Titou270801 shows [5s 5h] (Two pairs : 8 and 5)
+Lp650500 shows [8d Kd] (Trips of 8)
+Lp650500 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [8h Td As 8c Qs]
+Seat 1: Titou270801 (small blind) showed [5s 5h] and lost with Two pairs : 8 and 5
+Seat 3: Lp650500 (button) showed [8d Kd] and won 140 with Trips of 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680835001804652545-3-1674081536 - Holdem no limit (10/20) - 2023/01/18 22:38:56 UTC
+Table: 'Expresso Nitro(624180539)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Titou270801 (200)
+Seat 2: _SKR (280)
+Seat 3: Lp650500 (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Lp650500 posts big blind 20
+Dealt to _SKR [Ad Qc]
+*** PRE-FLOP *** 
+Titou270801 folds
+_SKR raises 20 to 40
+Lp650500 calls 20
+*** FLOP *** [6s 7s As]
+_SKR bets 40
+Lp650500 calls 40
+*** TURN *** [6s 7s As][Td]
+_SKR bets 80
+Lp650500 raises 120 to 200
+_SKR calls 120 and is all-in
+*** RIVER *** [6s 7s As Td][7h]
+*** SHOW DOWN ***
+_SKR shows [Ad Qc] (Two pairs : Aces and 7)
+Lp650500 shows [9d 8s] (Straight Ten high)
+Lp650500 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6s 7s As Td 7h]
+Seat 2: _SKR (small blind) showed [Ad Qc] and lost with Two pairs : Aces and 7
+Seat 3: Lp650500 (big blind) showed [9d 8s] and won 560 with Straight Ten high
+
+

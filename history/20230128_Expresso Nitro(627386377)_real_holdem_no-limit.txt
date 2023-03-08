@@ -1,0 +1,282 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694603971170926593-1-1674946900 - Holdem no limit (10/20) - 2023/01/28 23:01:40 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 15 C 25 (300)
+Seat 2: scandalf9741 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+15 C 25 posts big blind 20
+Dealt to _SKR [Qc 4d]
+*** PRE-FLOP *** 
+scandalf9741 raises 280 to 300 and is all-in
+_SKR folds
+15 C 25 folds
+scandalf9741 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: scandalf9741 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694603971170926593-2-1674946913 - Holdem no limit (10/20) - 2023/01/28 23:01:53 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 15 C 25 (280)
+Seat 2: scandalf9741 (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+15 C 25 posts small blind 10
+scandalf9741 posts big blind 20
+Dealt to _SKR [Jd Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+15 C 25 raises 240 to 280 and is all-in
+scandalf9741 folds
+_SKR folds
+15 C 25 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: 15 C 25 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694603971170926593-3-1674946924 - Holdem no limit (10/20) - 2023/01/28 23:02:04 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 15 C 25 (340)
+Seat 2: scandalf9741 (310)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+scandalf9741 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Qh]
+*** PRE-FLOP *** 
+15 C 25 raises 20 to 40
+scandalf9741 folds
+_SKR calls 20
+*** FLOP *** [2h Jc 2c]
+_SKR checks
+15 C 25 checks
+*** TURN *** [2h Jc 2c][Th]
+_SKR bets 45
+15 C 25 calls 45
+*** RIVER *** [2h Jc 2c Th][Jd]
+_SKR bets 165 and is all-in
+15 C 25 folds
+_SKR collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Board: [2h Jc 2c Th Jd]
+Seat 3: _SKR (big blind) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694603971170926593-4-1674946951 - Holdem no limit (10/20) - 2023/01/28 23:02:31 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 15 C 25 (255)
+Seat 2: scandalf9741 (300)
+Seat 3: _SKR (345)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+15 C 25 posts big blind 20
+Dealt to _SKR [6s 8c]
+*** PRE-FLOP *** 
+scandalf9741 raises 40 to 60
+_SKR folds
+15 C 25 calls 40
+*** FLOP *** [Ks 6h 7d]
+15 C 25 checks
+scandalf9741 bets 20
+15 C 25 calls 20
+*** TURN *** [Ks 6h 7d][Th]
+15 C 25 checks
+scandalf9741 bets 30
+15 C 25 folds
+scandalf9741 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Ks 6h 7d Th]
+Seat 2: scandalf9741 (button) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694603971170926593-5-1674946978 - Holdem no limit (15/30) - 2023/01/28 23:02:58 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 15 C 25 (175)
+Seat 2: scandalf9741 (390)
+Seat 3: _SKR (335)
+*** ANTE/BLINDS ***
+15 C 25 posts small blind 15
+scandalf9741 posts big blind 30
+Dealt to _SKR [Kd 6s]
+*** PRE-FLOP *** 
+_SKR raises 305 to 335 and is all-in
+15 C 25 calls 160 and is all-in
+scandalf9741 folds
+*** FLOP *** [7s 8c 2d]
+*** TURN *** [7s 8c 2d][7c]
+*** RIVER *** [7s 8c 2d 7c][2s]
+*** SHOW DOWN ***
+15 C 25 shows [5s Ks] (Two pairs : 7 and 2)
+_SKR shows [Kd 6s] (Two pairs : 7 and 2)
+_SKR collected 350 from side pot 1
+15 C 25 collected 190 from main pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [7s 8c 2d 7c 2s]
+Seat 1: 15 C 25 (small blind) showed [5s Ks] and won 190 with Two pairs : 7 and 2
+Seat 3: _SKR (button) showed [Kd 6s] and won 350 with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694603971170926593-6-1674946996 - Holdem no limit (15/30) - 2023/01/28 23:03:16 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 15 C 25 (190)
+Seat 2: scandalf9741 (360)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+scandalf9741 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9s Th]
+*** PRE-FLOP *** 
+15 C 25 folds
+scandalf9741 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694603971170926593-7-1674947003 - Holdem no limit (15/30) - 2023/01/28 23:03:23 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 15 C 25 (190)
+Seat 2: scandalf9741 (345)
+Seat 3: _SKR (365)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+15 C 25 posts big blind 30
+Dealt to _SKR [9h Ks]
+*** PRE-FLOP *** 
+scandalf9741 raises 315 to 345 and is all-in
+_SKR folds
+15 C 25 calls 160 and is all-in
+*** FLOP *** [2h 9s 2s]
+*** TURN *** [2h 9s 2s][8c]
+*** RIVER *** [2h 9s 2s 8c][Qs]
+*** SHOW DOWN ***
+15 C 25 shows [4c Ah] (One pair : 2)
+scandalf9741 shows [5h 6h] (One pair : 2)
+scandalf9741 collected 155 from side pot 1
+15 C 25 collected 395 from main pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [2h 9s 2s 8c Qs]
+Seat 1: 15 C 25 (big blind) showed [4c Ah] and won 395 with One pair : 2
+Seat 2: scandalf9741 (button) showed [5h 6h] and won 155 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2694603971170926593-8-1674947018 - Holdem no limit (20/40) - 2023/01/28 23:03:38 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 15 C 25 (395)
+Seat 2: scandalf9741 (155)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+15 C 25 posts small blind 20
+scandalf9741 posts big blind 40
+Dealt to _SKR [2h Ks]
+*** PRE-FLOP *** 
+_SKR folds
+15 C 25 raises 355 to 395 and is all-in
+scandalf9741 calls 115 and is all-in
+*** FLOP *** [8s Js 2s]
+*** TURN *** [8s Js 2s][8h]
+*** RIVER *** [8s Js 2s 8h][7s]
+*** SHOW DOWN ***
+15 C 25 shows [4c Kh] (One pair : 8)
+scandalf9741 shows [5d 5h] (Two pairs : 8 and 5)
+scandalf9741 collected 310 from main pot
+15 C 25 collected 240 from side pot 1
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [8s Js 2s 8h 7s]
+Seat 1: 15 C 25 (small blind) showed [4c Kh] and won 240 with One pair : 8
+Seat 2: scandalf9741 (big blind) showed [5d 5h] and won 310 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2694603971170926593-9-1674947033 - Holdem no limit (20/40) - 2023/01/28 23:03:53 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 15 C 25 (240)
+Seat 2: scandalf9741 (310)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+scandalf9741 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jc Kh]
+*** PRE-FLOP *** 
+15 C 25 raises 200 to 240 and is all-in
+scandalf9741 folds
+_SKR calls 200
+*** FLOP *** [2d Jd 5d]
+*** TURN *** [2d Jd 5d][8d]
+*** RIVER *** [2d Jd 5d 8d][Td]
+*** SHOW DOWN ***
+15 C 25 shows [3h Ah] (Flush Jack high)
+_SKR shows [Jc Kh] (Flush Jack high)
+_SKR collected 250 from pot
+15 C 25 collected 250 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [2d Jd 5d 8d Td]
+Seat 1: 15 C 25 (button) showed [3h Ah] and won 250 with Flush Jack high
+Seat 3: _SKR (big blind) showed [Jc Kh] and won 250 with Flush Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2694603971170926593-10-1674947046 - Holdem no limit (20/40) - 2023/01/28 23:04:06 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 15 C 25 (250)
+Seat 2: scandalf9741 (290)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+15 C 25 posts big blind 40
+Dealt to _SKR [Ts Ac]
+*** PRE-FLOP *** 
+scandalf9741 raises 250 to 290 and is all-in
+_SKR raises 70 to 360 and is all-in
+15 C 25 calls 210 and is all-in
+*** FLOP *** [Td 7h 3d]
+*** TURN *** [Td 7h 3d][9d]
+*** RIVER *** [Td 7h 3d 9d][Js]
+*** SHOW DOWN ***
+15 C 25 shows [Tc Kd] (One pair : Tens)
+scandalf9741 shows [8h Ad] (Straight Jack high)
+_SKR shows [Ts Ac] (One pair : Tens)
+_SKR collected 70 from side pot 1
+scandalf9741 collected 830 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td 7h 3d 9d Js]
+Seat 1: 15 C 25 (big blind) showed [Tc Kd] and lost with One pair : Tens
+Seat 2: scandalf9741 (button) showed [8h Ad] and won 830 with Straight Jack high
+Seat 3: _SKR (small blind) showed [Ts Ac] and won 70 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2694603971170926593-11-1674947065 - Holdem no limit (20/40) - 2023/01/28 23:04:25 UTC
+Table: 'Expresso Nitro(627386377)#0' 3-max (real money) Seat #2 is the button
+Seat 2: scandalf9741 (830)
+Seat 3: _SKR (70)
+*** ANTE/BLINDS ***
+scandalf9741 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6c 3h]
+*** PRE-FLOP *** 
+scandalf9741 calls 20
+_SKR raises 30 to 70 and is all-in
+scandalf9741 calls 30
+*** FLOP *** [6d 5h 4d]
+*** TURN *** [6d 5h 4d][Jd]
+*** RIVER *** [6d 5h 4d Jd][Td]
+*** SHOW DOWN ***
+_SKR shows [6c 3h] (One pair : 6)
+scandalf9741 shows [6h 8h] (One pair : 6)
+scandalf9741 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6d 5h 4d Jd Td]
+Seat 2: scandalf9741 (small blind) (button) showed [6h 8h] and won 140 with One pair : 6
+Seat 3: _SKR (big blind) showed [6c 3h] and lost with One pair : 6
+
+

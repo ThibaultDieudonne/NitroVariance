@@ -1,0 +1,231 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692553158646824961-1-1674830338 - Holdem no limit (10/20) - 2023/01/27 14:38:58 UTC
+Table: 'Expresso Nitro(626908885)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Chachof (300)
+Seat 2: _SKR (300)
+Seat 3: BRM1CAVE (300)
+*** ANTE/BLINDS ***
+BRM1CAVE posts small blind 10
+Chachof posts big blind 20
+Dealt to _SKR [3d 7s]
+*** PRE-FLOP *** 
+_SKR folds
+BRM1CAVE raises 30 to 50
+Chachof raises 30 to 80
+BRM1CAVE calls 30
+*** FLOP *** [8c 9d 4c]
+BRM1CAVE checks
+Chachof bets 20
+BRM1CAVE calls 20
+*** TURN *** [8c 9d 4c][6c]
+BRM1CAVE checks
+Chachof bets 20
+BRM1CAVE calls 20
+*** RIVER *** [8c 9d 4c 6c][Qs]
+BRM1CAVE checks
+Chachof bets 20
+BRM1CAVE calls 20
+*** SHOW DOWN ***
+BRM1CAVE shows [As 4s] (One pair : 4)
+Chachof shows [Th 7h] (Straight Ten high)
+Chachof collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [8c 9d 4c 6c Qs]
+Seat 1: Chachof (big blind) showed [Th 7h] and won 280 with Straight Ten high
+Seat 3: BRM1CAVE (small blind) showed [As 4s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692553158646824961-2-1674830379 - Holdem no limit (10/20) - 2023/01/27 14:39:39 UTC
+Table: 'Expresso Nitro(626908885)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chachof (440)
+Seat 2: _SKR (300)
+Seat 3: BRM1CAVE (160)
+*** ANTE/BLINDS ***
+Chachof posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad Qd]
+*** PRE-FLOP *** 
+BRM1CAVE folds
+Chachof raises 20 to 40
+_SKR raises 260 to 300 and is all-in
+Chachof calls 260
+*** FLOP *** [Js 5h Jc]
+*** TURN *** [Js 5h Jc][Th]
+*** RIVER *** [Js 5h Jc Th][3h]
+*** SHOW DOWN ***
+Chachof shows [6c Ks] (One pair : Jacks)
+_SKR shows [Ad Qd] (One pair : Jacks)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Js 5h Jc Th 3h]
+Seat 1: Chachof (small blind) showed [6c Ks] and lost with One pair : Jacks
+Seat 2: _SKR (big blind) showed [Ad Qd] and won 600 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692553158646824961-3-1674830403 - Holdem no limit (15/30) - 2023/01/27 14:40:03 UTC
+Table: 'Expresso Nitro(626908885)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chachof (140)
+Seat 2: _SKR (600)
+Seat 3: BRM1CAVE (160)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+BRM1CAVE posts big blind 30
+Dealt to _SKR [Tc Kh]
+*** PRE-FLOP *** 
+Chachof calls 30
+_SKR raises 570 to 600 and is all-in
+BRM1CAVE calls 130 and is all-in
+Chachof calls 110 and is all-in
+*** FLOP *** [As 9h Qs]
+*** TURN *** [As 9h Qs][3d]
+*** RIVER *** [As 9h Qs 3d][7s]
+*** SHOW DOWN ***
+Chachof shows [Qh Qd] (Trips of Queens)
+_SKR shows [Tc Kh] (High card : Ace)
+BRM1CAVE shows [Ac Ks] (One pair : Aces)
+BRM1CAVE collected 40 from side pot 1
+_SKR collected 440 from side pot 2
+Chachof collected 420 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As 9h Qs 3d 7s]
+Seat 1: Chachof (button) showed [Qh Qd] and won 420 with Trips of Queens
+Seat 2: _SKR (small blind) showed [Tc Kh] and won 440 with High card : Ace
+Seat 3: BRM1CAVE (big blind) showed [Ac Ks] and won 40 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692553158646824961-4-1674830420 - Holdem no limit (15/30) - 2023/01/27 14:40:20 UTC
+Table: 'Expresso Nitro(626908885)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Chachof (420)
+Seat 2: _SKR (440)
+Seat 3: BRM1CAVE (40)
+*** ANTE/BLINDS ***
+BRM1CAVE posts small blind 15
+Chachof posts big blind 30
+Dealt to _SKR [4s Kd]
+*** PRE-FLOP *** 
+_SKR folds
+BRM1CAVE raises 10 to 40 and is all-in
+Chachof calls 10
+*** FLOP *** [8d Jd 2h]
+*** TURN *** [8d Jd 2h][8s]
+*** RIVER *** [8d Jd 2h 8s][Ks]
+*** SHOW DOWN ***
+Chachof shows [9h 6c] (One pair : 8)
+BRM1CAVE shows [7s 2c] (Two pairs : 8 and 2)
+BRM1CAVE collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8d Jd 2h 8s Ks]
+Seat 1: Chachof (big blind) showed [9h 6c] and lost with One pair : 8
+Seat 3: BRM1CAVE (small blind) showed [7s 2c] and won 80 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692553158646824961-5-1674830437 - Holdem no limit (15/30) - 2023/01/27 14:40:37 UTC
+Table: 'Expresso Nitro(626908885)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chachof (380)
+Seat 2: _SKR (440)
+Seat 3: BRM1CAVE (80)
+*** ANTE/BLINDS ***
+Chachof posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 8h]
+*** PRE-FLOP *** 
+BRM1CAVE folds
+Chachof calls 15
+_SKR checks
+*** FLOP *** [2h 7c 3c]
+Chachof checks
+_SKR checks
+*** TURN *** [2h 7c 3c][Qc]
+Chachof bets 30
+_SKR folds
+Chachof collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [2h 7c 3c Qc]
+Seat 1: Chachof (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692553158646824961-6-1674830468 - Holdem no limit (20/40) - 2023/01/27 14:41:08 UTC
+Table: 'Expresso Nitro(626908885)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chachof (410)
+Seat 2: _SKR (410)
+Seat 3: BRM1CAVE (80)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+BRM1CAVE posts big blind 40
+Dealt to _SKR [2c Ac]
+*** PRE-FLOP *** 
+Chachof calls 40
+_SKR raises 370 to 410 and is all-in
+BRM1CAVE calls 40 and is all-in
+Chachof folds
+*** FLOP *** [9c 6h 9d]
+*** TURN *** [9c 6h 9d][3c]
+*** RIVER *** [9c 6h 9d 3c][2h]
+*** SHOW DOWN ***
+_SKR shows [2c Ac] (Two pairs : 9 and 2)
+BRM1CAVE shows [5h 4c] (Straight 6 high)
+BRM1CAVE collected 200 from main pot
+_SKR collected 330 from side pot 1
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [9c 6h 9d 3c 2h]
+Seat 2: _SKR (small blind) showed [2c Ac] and won 330 with Two pairs : 9 and 2
+Seat 3: BRM1CAVE (big blind) showed [5h 4c] and won 200 with Straight 6 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692553158646824961-7-1674830487 - Holdem no limit (20/40) - 2023/01/27 14:41:27 UTC
+Table: 'Expresso Nitro(626908885)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Chachof (370)
+Seat 2: _SKR (330)
+Seat 3: BRM1CAVE (200)
+*** ANTE/BLINDS ***
+BRM1CAVE posts small blind 20
+Chachof posts big blind 40
+Dealt to _SKR [6h 2d]
+*** PRE-FLOP *** 
+_SKR folds
+BRM1CAVE raises 160 to 200 and is all-in
+Chachof folds
+BRM1CAVE collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: BRM1CAVE (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692553158646824961-8-1674830494 - Holdem no limit (20/40) - 2023/01/27 14:41:34 UTC
+Table: 'Expresso Nitro(626908885)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chachof (330)
+Seat 2: _SKR (330)
+Seat 3: BRM1CAVE (240)
+*** ANTE/BLINDS ***
+Chachof posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6d 6h]
+*** PRE-FLOP *** 
+BRM1CAVE raises 200 to 240 and is all-in
+Chachof calls 220
+_SKR calls 200
+*** FLOP *** [Qs 3d 7c]
+Chachof bets 40
+_SKR raises 40 to 80
+Chachof raises 10 to 90 and is all-in
+_SKR calls 10 and is all-in
+*** TURN *** [Qs 3d 7c][Ah]
+*** RIVER *** [Qs 3d 7c Ah][7h]
+*** SHOW DOWN ***
+_SKR shows [6d 6h] (Two pairs : 7 and 6)
+BRM1CAVE shows [Kh Ts] (One pair : 7)
+Chachof shows [Tc Qc] (Two pairs : Queens and 7)
+Chachof collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qs 3d 7c Ah 7h]
+Seat 1: Chachof (small blind) showed [Tc Qc] and won 900 with Two pairs : Queens and 7
+Seat 2: _SKR (big blind) showed [6d 6h] and lost with Two pairs : 7 and 6
+Seat 3: BRM1CAVE (button) showed [Kh Ts] and lost with One pair : 7
+
+

@@ -1,0 +1,78 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680054370023768065-1-1674049956 - Holdem no limit (10/20) - 2023/01/18 13:52:36 UTC
+Table: 'Expresso Nitro(623998784)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Yak321333883 (300)
+Seat 2: _SKR (300)
+Seat 3: Karim7501792 (300)
+*** ANTE/BLINDS ***
+Karim7501792 posts small blind 10
+Yak321333883 posts big blind 20
+Dealt to _SKR [2h Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Karim7501792 raises 280 to 300 and is all-in
+Yak321333883 folds
+Karim7501792 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Karim7501792 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680054370023768065-2-1674049961 - Holdem no limit (10/20) - 2023/01/18 13:52:41 UTC
+Table: 'Expresso Nitro(623998784)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Yak321333883 (280)
+Seat 2: _SKR (300)
+Seat 3: Karim7501792 (320)
+*** ANTE/BLINDS ***
+Yak321333883 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7s 2s]
+*** PRE-FLOP *** 
+Karim7501792 raises 300 to 320 and is all-in
+Yak321333883 calls 270 and is all-in
+_SKR folds
+*** FLOP *** [Tc 5s Ts]
+*** TURN *** [Tc 5s Ts][Qd]
+*** RIVER *** [Tc 5s Ts Qd][Jh]
+*** SHOW DOWN ***
+Yak321333883 shows [As Jc] (Two pairs : Jacks and Tens)
+Karim7501792 shows [3d 5d] (Two pairs : Tens and 5)
+Karim7501792 collected 40 from side pot 1
+Yak321333883 collected 580 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Tc 5s Ts Qd Jh]
+Seat 1: Yak321333883 (small blind) showed [As Jc] and won 580 with Two pairs : Jacks and Tens
+Seat 3: Karim7501792 (button) showed [3d 5d] and won 40 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680054370023768065-3-1674049972 - Holdem no limit (10/20) - 2023/01/18 13:52:52 UTC
+Table: 'Expresso Nitro(623998784)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yak321333883 (580)
+Seat 2: _SKR (280)
+Seat 3: Karim7501792 (40)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Karim7501792 posts big blind 20
+Dealt to _SKR [Qd Kc]
+*** PRE-FLOP *** 
+Yak321333883 calls 20
+_SKR raises 260 to 280 and is all-in
+Karim7501792 calls 20 and is all-in
+Yak321333883 calls 260
+*** FLOP *** [6d 4c 7s]
+*** TURN *** [6d 4c 7s][2s]
+*** RIVER *** [6d 4c 7s 2s][8d]
+*** SHOW DOWN ***
+_SKR shows [Qd Kc] (High card : King)
+Yak321333883 shows [Ah Td] (High card : Ace)
+Karim7501792 shows [Kd 7h] (One pair : 7)
+Karim7501792 collected 120 from main pot
+Yak321333883 collected 480 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6d 4c 7s 2s 8d]
+Seat 1: Yak321333883 (button) showed [Ah Td] and won 480 with High card : Ace
+Seat 2: _SKR (small blind) showed [Qd Kc] and lost with High card : King
+Seat 3: Karim7501792 (big blind) showed [Kd 7h] and won 120 with One pair : 7
+
+

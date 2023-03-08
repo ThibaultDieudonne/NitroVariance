@@ -1,0 +1,363 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691962175441862657-1-1674775284 - Holdem no limit (10/20) - 2023/01/26 23:21:24 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Gilberto Jr (300)
+Seat 3: melic11 (300)
+*** ANTE/BLINDS ***
+melic11 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc 3h]
+*** PRE-FLOP *** 
+Gilberto Jr raises 280 to 300 and is all-in
+melic11 folds
+_SKR folds
+Gilberto Jr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Gilberto Jr (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691962175441862657-2-1674775294 - Holdem no limit (10/20) - 2023/01/26 23:21:34 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Gilberto Jr (330)
+Seat 3: melic11 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Gilberto Jr posts big blind 20
+Dealt to _SKR [Ks 7h]
+*** PRE-FLOP *** 
+melic11 raises 270 to 290 and is all-in
+_SKR folds
+Gilberto Jr folds
+melic11 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: melic11 (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691962175441862657-3-1674775306 - Holdem no limit (10/20) - 2023/01/26 23:21:46 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Gilberto Jr (310)
+Seat 3: melic11 (320)
+*** ANTE/BLINDS ***
+Gilberto Jr posts small blind 10
+melic11 posts big blind 20
+Dealt to _SKR [Ks 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Gilberto Jr calls 10
+melic11 checks
+*** FLOP *** [Kd 7s 4h]
+Gilberto Jr checks
+melic11 checks
+*** TURN *** [Kd 7s 4h][5h]
+Gilberto Jr bets 20
+melic11 calls 20
+*** RIVER *** [Kd 7s 4h 5h][Jd]
+Gilberto Jr checks
+melic11 checks
+*** SHOW DOWN ***
+melic11 shows [2s 3s] (High card : King)
+Gilberto Jr shows [6s 5d] (One pair : 5)
+Gilberto Jr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kd 7s 4h 5h Jd]
+Seat 2: Gilberto Jr (small blind) showed [6s 5d] and won 80 with One pair : 5
+Seat 3: melic11 (big blind) showed [2s 3s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691962175441862657-4-1674775349 - Holdem no limit (15/30) - 2023/01/26 23:22:29 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Gilberto Jr (350)
+Seat 3: melic11 (280)
+*** ANTE/BLINDS ***
+melic11 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qd 5c]
+*** PRE-FLOP *** 
+Gilberto Jr calls 30
+melic11 folds
+_SKR checks
+*** FLOP *** [9h 5h Jc]
+_SKR checks
+Gilberto Jr bets 49
+_SKR calls 49
+*** TURN *** [9h 5h Jc][9s]
+_SKR checks
+Gilberto Jr checks
+*** RIVER *** [9h 5h Jc 9s][7s]
+_SKR checks
+Gilberto Jr checks
+*** SHOW DOWN ***
+Gilberto Jr shows [2d Ad] (One pair : 9)
+_SKR shows [Qd 5c] (Two pairs : 9 and 5)
+_SKR collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | No rake
+Board: [9h 5h Jc 9s 7s]
+Seat 1: _SKR (big blind) showed [Qd 5c] and won 173 with Two pairs : 9 and 5
+Seat 2: Gilberto Jr (button) showed [2d Ad] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691962175441862657-5-1674775400 - Holdem no limit (15/30) - 2023/01/26 23:23:20 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (364)
+Seat 2: Gilberto Jr (271)
+Seat 3: melic11 (265)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Gilberto Jr posts big blind 30
+Dealt to _SKR [2s 4h]
+*** PRE-FLOP *** 
+melic11 raises 235 to 265 and is all-in
+_SKR folds
+Gilberto Jr calls 235
+*** FLOP *** [Kc 2c Ac]
+*** TURN *** [Kc 2c Ac][Jh]
+*** RIVER *** [Kc 2c Ac Jh][Tc]
+*** SHOW DOWN ***
+Gilberto Jr shows [Ah Qh] (Straight Ace high)
+melic11 shows [7d 7c] (Flush Ace high)
+melic11 collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Board: [Kc 2c Ac Jh Tc]
+Seat 2: Gilberto Jr (big blind) showed [Ah Qh] and lost with Straight Ace high
+Seat 3: melic11 (button) showed [7d 7c] and won 545 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691962175441862657-6-1674775415 - Holdem no limit (20/40) - 2023/01/26 23:23:35 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (349)
+Seat 2: Gilberto Jr (6)
+Seat 3: melic11 (545)
+*** ANTE/BLINDS ***
+Gilberto Jr posts small blind 6 and is all-in
+melic11 posts big blind 40
+Dealt to _SKR [7h 6d]
+*** PRE-FLOP *** 
+_SKR folds
+*** FLOP *** [Qd 4d As]
+*** TURN *** [Qd 4d As][5s]
+*** RIVER *** [Qd 4d As 5s][9d]
+*** SHOW DOWN ***
+Gilberto Jr shows [9s Jh] (One pair : 9)
+melic11 shows [8d Qc] (One pair : Queens)
+melic11 collected 46 from pot
+*** SUMMARY ***
+Total pot 46 | No rake
+Board: [Qd 4d As 5s 9d]
+Seat 2: Gilberto Jr (small blind) showed [9s Jh] and lost with One pair : 9
+Seat 3: melic11 (big blind) showed [8d Qc] and won 46 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691962175441862657-7-1674775426 - Holdem no limit (20/40) - 2023/01/26 23:23:46 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (349)
+Seat 3: melic11 (551)
+*** ANTE/BLINDS ***
+melic11 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9s Js]
+*** PRE-FLOP *** 
+melic11 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691962175441862657-8-1674775430 - Holdem no limit (20/40) - 2023/01/26 23:23:50 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (369)
+Seat 3: melic11 (531)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+melic11 posts big blind 40
+Dealt to _SKR [8h 6c]
+*** PRE-FLOP *** 
+_SKR folds
+melic11 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: melic11 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691962175441862657-9-1674775433 - Holdem no limit (20/40) - 2023/01/26 23:23:53 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (349)
+Seat 3: melic11 (551)
+*** ANTE/BLINDS ***
+melic11 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9h 5h]
+*** PRE-FLOP *** 
+melic11 calls 20
+_SKR checks
+*** FLOP *** [5d 3h 9d]
+_SKR checks
+melic11 checks
+*** TURN *** [5d 3h 9d][8d]
+_SKR bets 64
+melic11 folds
+_SKR collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | No rake
+Board: [5d 3h 9d 8d]
+Seat 1: _SKR (big blind) won 144
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691962175441862657-10-1674775457 - Holdem no limit (20/40) - 2023/01/26 23:24:17 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (389)
+Seat 3: melic11 (511)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+melic11 posts big blind 40
+Dealt to _SKR [5c Ad]
+*** PRE-FLOP *** 
+_SKR raises 349 to 389 and is all-in
+melic11 folds
+_SKR collected 429 from pot
+*** SUMMARY ***
+Total pot 429 | No rake
+Seat 1: _SKR (small blind) (button) won 429
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691962175441862657-11-1674775463 - Holdem no limit (30/60) - 2023/01/26 23:24:23 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (429)
+Seat 3: melic11 (471)
+*** ANTE/BLINDS ***
+melic11 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5s 8c]
+*** PRE-FLOP *** 
+melic11 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691962175441862657-12-1674775466 - Holdem no limit (30/60) - 2023/01/26 23:24:26 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (459)
+Seat 3: melic11 (441)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+melic11 posts big blind 60
+Dealt to _SKR [2d 5c]
+*** PRE-FLOP *** 
+_SKR folds
+melic11 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: melic11 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691962175441862657-13-1674775470 - Holdem no limit (30/60) - 2023/01/26 23:24:30 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (429)
+Seat 3: melic11 (471)
+*** ANTE/BLINDS ***
+melic11 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2c Js]
+*** PRE-FLOP *** 
+melic11 raises 411 to 471 and is all-in
+_SKR folds
+melic11 collected 531 from pot
+*** SUMMARY ***
+Total pot 531 | No rake
+Seat 3: melic11 (small blind) (button) won 531
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691962175441862657-14-1674775474 - Holdem no limit (30/60) - 2023/01/26 23:24:34 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (369)
+Seat 3: melic11 (531)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+melic11 posts big blind 60
+Dealt to _SKR [Jc Kc]
+*** PRE-FLOP *** 
+_SKR raises 309 to 369 and is all-in
+melic11 calls 309
+*** FLOP *** [7c 7h As]
+*** TURN *** [7c 7h As][3s]
+*** RIVER *** [7c 7h As 3s][Js]
+*** SHOW DOWN ***
+melic11 shows [Tc 8c] (One pair : 7)
+_SKR shows [Jc Kc] (Two pairs : Jacks and 7)
+_SKR collected 738 from pot
+*** SUMMARY ***
+Total pot 738 | No rake
+Board: [7c 7h As 3s Js]
+Seat 1: _SKR (small blind) (button) showed [Jc Kc] and won 738 with Two pairs : Jacks and 7
+Seat 3: melic11 (big blind) showed [Tc 8c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691962175441862657-15-1674775487 - Holdem no limit (30/60) - 2023/01/26 23:24:47 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (738)
+Seat 3: melic11 (162)
+*** ANTE/BLINDS ***
+melic11 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c 3h]
+*** PRE-FLOP *** 
+melic11 raises 102 to 162 and is all-in
+_SKR folds
+melic11 collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Seat 3: melic11 (small blind) (button) won 222
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691962175441862657-16-1674775495 - Holdem no limit (30/60) - 2023/01/26 23:24:55 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (678)
+Seat 3: melic11 (222)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+melic11 posts big blind 60
+Dealt to _SKR [6c 9h]
+*** PRE-FLOP *** 
+_SKR raises 618 to 678 and is all-in
+melic11 folds
+_SKR collected 738 from pot
+*** SUMMARY ***
+Total pot 738 | No rake
+Seat 1: _SKR (small blind) (button) won 738
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691962175441862657-17-1674775501 - Holdem no limit (30/60) - 2023/01/26 23:25:01 UTC
+Table: 'Expresso Nitro(626771286)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (738)
+Seat 3: melic11 (162)
+*** ANTE/BLINDS ***
+melic11 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9s 3d]
+*** PRE-FLOP *** 
+melic11 raises 102 to 162 and is all-in
+_SKR calls 102
+*** FLOP *** [8s 8h 3s]
+*** TURN *** [8s 8h 3s][7c]
+*** RIVER *** [8s 8h 3s 7c][Jh]
+*** SHOW DOWN ***
+melic11 shows [9c Ac] (One pair : 8)
+_SKR shows [9s 3d] (Two pairs : 8 and 3)
+_SKR collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [8s 8h 3s 7c Jh]
+Seat 1: _SKR (big blind) showed [9s 3d] and won 324 with Two pairs : 8 and 3
+Seat 3: melic11 (small blind) (button) showed [9c Ac] and lost with One pair : 8
+
+

@@ -1,0 +1,71 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696597385752084481-1-1675089065 - Holdem no limit (10/20) - 2023/01/30 14:31:05 UTC
+Table: 'Expresso Nitro(627850505)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Heineken24 (300)
+Seat 2: _SKR (300)
+Seat 3: Netkus3391 (300)
+*** ANTE/BLINDS ***
+Netkus3391 posts small blind 10
+Heineken24 posts big blind 20
+Dealt to _SKR [8d 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Netkus3391 folds
+Heineken24 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Heineken24 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696597385752084481-2-1675089073 - Holdem no limit (10/20) - 2023/01/30 14:31:13 UTC
+Table: 'Expresso Nitro(627850505)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Heineken24 (310)
+Seat 2: _SKR (300)
+Seat 3: Netkus3391 (290)
+*** ANTE/BLINDS ***
+Heineken24 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 9s]
+*** PRE-FLOP *** 
+Netkus3391 raises 270 to 290 and is all-in
+Heineken24 folds
+_SKR raises 10 to 300 and is all-in
+*** FLOP *** [5s 2s Ac]
+*** TURN *** [5s 2s Ac][8h]
+*** RIVER *** [5s 2s Ac 8h][4h]
+*** SHOW DOWN ***
+_SKR shows [9d 9s] (One pair : 9)
+Netkus3391 shows [8d Ah] (Two pairs : Aces and 8)
+Netkus3391 collected 590 from main pot
+_SKR collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [5s 2s Ac 8h 4h]
+Seat 2: _SKR (big blind) showed [9d 9s] and won 10 with One pair : 9
+Seat 3: Netkus3391 (button) showed [8d Ah] and won 590 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696597385752084481-3-1675089085 - Holdem no limit (10/20) - 2023/01/30 14:31:25 UTC
+Table: 'Expresso Nitro(627850505)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Heineken24 (300)
+Seat 2: _SKR (10)
+Seat 3: Netkus3391 (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10 and is all-in
+Netkus3391 posts big blind 20
+Dealt to _SKR [8c Ts]
+*** PRE-FLOP *** 
+Heineken24 folds
+*** FLOP *** [Th Jd 8s]
+*** TURN *** [Th Jd 8s][9c]
+*** RIVER *** [Th Jd 8s 9c][5s]
+*** SHOW DOWN ***
+_SKR shows [8c Ts] (Two pairs : Tens and 8)
+Netkus3391 shows [Jc Jh] (Trips of Jacks)
+Netkus3391 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [Th Jd 8s 9c 5s]
+Seat 2: _SKR (small blind) showed [8c Ts] and lost with Two pairs : Tens and 8
+Seat 3: Netkus3391 (big blind) showed [Jc Jh] and won 30 with Trips of Jacks
+
+

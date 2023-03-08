@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695208831415222273-1-1675000021 - Holdem no limit (10/20) - 2023/01/29 13:47:01 UTC
+Table: 'Expresso Nitro(627527207)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: an0nio (300)
+Seat 3: smogogo007 (300)
+*** ANTE/BLINDS ***
+an0nio posts small blind 10
+smogogo007 posts big blind 20
+Dealt to _SKR [Td Js]
+*** PRE-FLOP *** 
+_SKR folds
+an0nio folds
+smogogo007 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: smogogo007 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695208831415222273-2-1675000030 - Holdem no limit (10/20) - 2023/01/29 13:47:10 UTC
+Table: 'Expresso Nitro(627527207)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: an0nio (290)
+Seat 3: smogogo007 (310)
+*** ANTE/BLINDS ***
+smogogo007 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc 2c]
+*** PRE-FLOP *** 
+an0nio folds
+smogogo007 raises 290 to 310 and is all-in
+_SKR folds
+smogogo007 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: smogogo007 (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695208831415222273-3-1675000039 - Holdem no limit (10/20) - 2023/01/29 13:47:19 UTC
+Table: 'Expresso Nitro(627527207)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: an0nio (290)
+Seat 3: smogogo007 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+an0nio posts big blind 20
+Dealt to _SKR [Td Qd]
+*** PRE-FLOP *** 
+smogogo007 folds
+_SKR raises 20 to 40
+an0nio calls 20
+*** FLOP *** [4s 7s 9h]
+_SKR checks
+an0nio bets 40
+_SKR folds
+an0nio collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4s 7s 9h]
+Seat 2: an0nio (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695208831415222273-4-1675000070 - Holdem no limit (10/20) - 2023/01/29 13:47:50 UTC
+Table: 'Expresso Nitro(627527207)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (240)
+Seat 2: an0nio (330)
+Seat 3: smogogo007 (330)
+*** ANTE/BLINDS ***
+an0nio posts small blind 10
+smogogo007 posts big blind 20
+Dealt to _SKR [Kc Qc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+an0nio folds
+smogogo007 raises 290 to 330 and is all-in
+_SKR calls 200 and is all-in
+*** FLOP *** [Ad 3h 5h]
+*** TURN *** [Ad 3h 5h][5c]
+*** RIVER *** [Ad 3h 5h 5c][8s]
+*** SHOW DOWN ***
+_SKR shows [Kc Qc] (One pair : 5)
+smogogo007 shows [Ah 9s] (Two pairs : Aces and 5)
+smogogo007 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Ad 3h 5h 5c 8s]
+Seat 1: _SKR (button) showed [Kc Qc] and lost with One pair : 5
+Seat 3: smogogo007 (big blind) showed [Ah 9s] and won 580 with Two pairs : Aces and 5
+
+

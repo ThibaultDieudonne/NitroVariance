@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677063887374778369-1-1673875486 - Holdem no limit (10/20) - 2023/01/16 13:24:46 UTC
+Table: 'Expresso Nitro(623302508)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Remyle (300)
+Seat 2: _SKR (300)
+Seat 3: plez14 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+plez14 posts big blind 20
+Dealt to _SKR [Jh 8s]
+*** PRE-FLOP *** 
+Remyle folds
+_SKR calls 10
+plez14 checks
+*** FLOP *** [9d 2h Tc]
+_SKR checks
+plez14 checks
+*** TURN *** [9d 2h Tc][7d]
+_SKR bets 20
+plez14 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9d 2h Tc 7d]
+Seat 2: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677063887374778369-2-1673875516 - Holdem no limit (10/20) - 2023/01/16 13:25:16 UTC
+Table: 'Expresso Nitro(623302508)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Remyle (300)
+Seat 2: _SKR (320)
+Seat 3: plez14 (280)
+*** ANTE/BLINDS ***
+plez14 posts small blind 10
+Remyle posts big blind 20
+Dealt to _SKR [Qs 2d]
+*** PRE-FLOP *** 
+_SKR folds
+plez14 calls 10
+Remyle raises 280 to 300 and is all-in
+plez14 folds
+Remyle collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Remyle (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677063887374778369-3-1673875529 - Holdem no limit (10/20) - 2023/01/16 13:25:29 UTC
+Table: 'Expresso Nitro(623302508)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Remyle (320)
+Seat 2: _SKR (320)
+Seat 3: plez14 (260)
+*** ANTE/BLINDS ***
+Remyle posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As Ac]
+*** PRE-FLOP *** 
+plez14 folds
+Remyle calls 10
+_SKR raises 30 to 50
+Remyle calls 30
+*** FLOP *** [6s 4c 5h]
+Remyle checks
+_SKR bets 50
+Remyle raises 200 to 250
+_SKR raises 20 to 270 and is all-in
+Remyle calls 20 and is all-in
+*** TURN *** [6s 4c 5h][2h]
+*** RIVER *** [6s 4c 5h 2h][Td]
+*** SHOW DOWN ***
+_SKR shows [As Ac] (One pair : Aces)
+Remyle shows [5c 3s] (Straight 6 high)
+Remyle collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [6s 4c 5h 2h Td]
+Seat 1: Remyle (small blind) showed [5c 3s] and won 640 with Straight 6 high
+Seat 2: _SKR (big blind) showed [As Ac] and lost with One pair : Aces
+
+

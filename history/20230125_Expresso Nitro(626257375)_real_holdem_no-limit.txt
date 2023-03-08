@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689754944503808001-1-1674649897 - Holdem no limit (10/20) - 2023/01/25 12:31:37 UTC
+Table: 'Expresso Nitro(626257375)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Biduchou54 (300)
+Seat 2: Mt74987 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Biduchou54 posts big blind 20
+Dealt to _SKR [8d 7s]
+*** PRE-FLOP *** 
+Mt74987 folds
+_SKR calls 10
+Biduchou54 raises 40 to 60
+_SKR folds
+Biduchou54 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: Biduchou54 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689754944503808001-2-1674649909 - Holdem no limit (10/20) - 2023/01/25 12:31:49 UTC
+Table: 'Expresso Nitro(626257375)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Biduchou54 (320)
+Seat 2: Mt74987 (300)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+Biduchou54 posts small blind 10
+Mt74987 posts big blind 20
+Dealt to _SKR [6s Ac]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+Biduchou54 raises 40 to 320 and is all-in
+Mt74987 folds
+*** FLOP *** [8s Kd As]
+*** TURN *** [8s Kd As][2s]
+*** RIVER *** [8s Kd As 2s][9d]
+*** SHOW DOWN ***
+_SKR shows [6s Ac] (One pair : Aces)
+Biduchou54 shows [Ks Kh] (Trips of Kings)
+Biduchou54 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8s Kd As 2s 9d]
+Seat 1: Biduchou54 (small blind) showed [Ks Kh] and won 620 with Trips of Kings
+Seat 3: _SKR (button) showed [6s Ac] and lost with One pair : Aces
+
+

@@ -1,0 +1,69 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696523709883088897-1-1675084984 - Holdem no limit (10/20) - 2023/01/30 13:23:04 UTC
+Table: 'Expresso Nitro(627833351)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Roro1506 (300)
+Seat 3: wptpoker (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Roro1506 posts big blind 20
+Dealt to _SKR [Qd Kd]
+*** PRE-FLOP *** 
+wptpoker folds
+_SKR raises 20 to 40
+Roro1506 calls 20
+*** FLOP *** [Kh Ad Jh]
+_SKR bets 28
+Roro1506 calls 28
+*** TURN *** [Kh Ad Jh][3c]
+_SKR checks
+Roro1506 bets 48
+_SKR calls 48
+*** RIVER *** [Kh Ad Jh 3c][8c]
+_SKR checks
+Roro1506 bets 151
+_SKR calls 151
+*** SHOW DOWN ***
+_SKR shows [Qd Kd] (One pair : Kings)
+Roro1506 shows [8s Ah] (Two pairs : Aces and 8)
+Roro1506 collected 534 from pot
+*** SUMMARY ***
+Total pot 534 | No rake
+Board: [Kh Ad Jh 3c 8c]
+Seat 1: _SKR (small blind) showed [Qd Kd] and lost with One pair : Kings
+Seat 2: Roro1506 (big blind) showed [8s Ah] and won 534 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696523709883088897-2-1675085043 - Holdem no limit (15/30) - 2023/01/30 13:24:03 UTC
+Table: 'Expresso Nitro(627833351)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (33)
+Seat 2: Roro1506 (567)
+Seat 3: wptpoker (300)
+*** ANTE/BLINDS ***
+Roro1506 posts small blind 15
+wptpoker posts big blind 30
+Dealt to _SKR [4c 4d]
+*** PRE-FLOP *** 
+_SKR raises 3 to 33 and is all-in
+Roro1506 calls 18
+wptpoker calls 3
+*** FLOP *** [2h Qc Ts]
+Roro1506 checks
+wptpoker checks
+*** TURN *** [2h Qc Ts][Qd]
+Roro1506 checks
+wptpoker checks
+*** RIVER *** [2h Qc Ts Qd][8d]
+Roro1506 checks
+wptpoker bets 35
+Roro1506 folds
+*** SHOW DOWN ***
+_SKR shows [4c 4d] (Two pairs : Queens and 4)
+wptpoker shows [8s Kh] (Two pairs : Queens and 8)
+wptpoker collected 134 from pot
+*** SUMMARY ***
+Total pot 134 | No rake
+Board: [2h Qc Ts Qd 8d]
+Seat 1: _SKR (button) showed [4c 4d] and lost with Two pairs : Queens and 4
+Seat 3: wptpoker (big blind) showed [8s Kh] and won 134 with Two pairs : Queens and 8
+
+

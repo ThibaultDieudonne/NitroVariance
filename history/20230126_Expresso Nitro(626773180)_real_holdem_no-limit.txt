@@ -1,0 +1,95 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691970310109921281-1-1674775679 - Holdem no limit (10/20) - 2023/01/26 23:27:59 UTC
+Table: 'Expresso Nitro(626773180)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Politou (300)
+Seat 3: metallica77 (300)
+*** ANTE/BLINDS ***
+metallica77 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d Kd]
+*** PRE-FLOP *** 
+Politou raises 20 to 40
+metallica77 folds
+_SKR calls 20
+*** FLOP *** [6h 3h 4s]
+_SKR checks
+Politou bets 50
+_SKR folds
+Politou collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6h 3h 4s]
+Seat 2: Politou (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691970310109921281-2-1674775698 - Holdem no limit (10/20) - 2023/01/26 23:28:18 UTC
+Table: 'Expresso Nitro(626773180)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (260)
+Seat 2: Politou (350)
+Seat 3: metallica77 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Politou posts big blind 20
+Dealt to _SKR [7s 2c]
+*** PRE-FLOP *** 
+metallica77 calls 20
+_SKR folds
+Politou checks
+*** FLOP *** [As 6c 2d]
+Politou checks
+metallica77 bets 50
+Politou folds
+metallica77 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [As 6c 2d]
+Seat 3: metallica77 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691970310109921281-3-1674775723 - Holdem no limit (10/20) - 2023/01/26 23:28:43 UTC
+Table: 'Expresso Nitro(626773180)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (250)
+Seat 2: Politou (330)
+Seat 3: metallica77 (320)
+*** ANTE/BLINDS ***
+Politou posts small blind 10
+metallica77 posts big blind 20
+Dealt to _SKR [Qh 9d]
+*** PRE-FLOP *** 
+_SKR folds
+Politou raises 310 to 330 and is all-in
+metallica77 folds
+Politou collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: Politou (small blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691970310109921281-4-1674775736 - Holdem no limit (15/30) - 2023/01/26 23:28:56 UTC
+Table: 'Expresso Nitro(626773180)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: Politou (350)
+Seat 3: metallica77 (300)
+*** ANTE/BLINDS ***
+metallica77 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7s Ah]
+*** PRE-FLOP *** 
+Politou raises 30 to 60
+metallica77 folds
+_SKR raises 190 to 250 and is all-in
+Politou calls 190
+*** FLOP *** [Jd 4s 9d]
+*** TURN *** [Jd 4s 9d][5h]
+*** RIVER *** [Jd 4s 9d 5h][2h]
+*** SHOW DOWN ***
+_SKR shows [7s Ah] (High card : Ace)
+Politou shows [Qc Jh] (One pair : Jacks)
+Politou collected 515 from pot
+*** SUMMARY ***
+Total pot 515 | No rake
+Board: [Jd 4s 9d 5h 2h]
+Seat 1: _SKR (big blind) showed [7s Ah] and lost with High card : Ace
+Seat 2: Politou (button) showed [Qc Jh] and won 515 with One pair : Jacks
+
+

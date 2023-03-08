@@ -1,0 +1,33 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729568127401590785-1-1676920395 - Holdem no limit (10/20) - 2023/02/20 19:13:15 UTC
+Table: 'Expresso Nitro(635527104)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Romain gand (300)
+Seat 2: LaPerfectvie (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Romain gand posts big blind 20
+Dealt to _SKR [Kh Qd]
+*** PRE-FLOP *** 
+LaPerfectvie folds
+_SKR raises 20 to 40
+Romain gand calls 20
+*** FLOP *** [Kc 6s 7d]
+_SKR bets 28
+Romain gand calls 28
+*** TURN *** [Kc 6s 7d][Ts]
+_SKR bets 68
+Romain gand calls 68
+*** RIVER *** [Kc 6s 7d Ts][Tc]
+_SKR bets 164 and is all-in
+Romain gand calls 164 and is all-in
+*** SHOW DOWN ***
+_SKR shows [Kh Qd] (Two pairs : Kings and Tens)
+Romain gand shows [8d Th] (Trips of Tens)
+Romain gand collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kc 6s 7d Ts Tc]
+Seat 1: Romain gand (big blind) showed [8d Th] and won 600 with Trips of Tens
+Seat 3: _SKR (small blind) showed [Kh Qd] and lost with Two pairs : Kings and Tens
+
+

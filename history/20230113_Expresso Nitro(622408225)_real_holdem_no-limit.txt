@@ -1,0 +1,334 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673222971136409601-1-1673643321 - Holdem no limit (10/20) - 2023/01/13 20:55:21 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Vassol89 (300)
+Seat 3: Mr Under Ev (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Vassol89 posts big blind 20
+Dealt to _SKR [Tc Qh]
+*** PRE-FLOP *** 
+Mr Under Ev folds
+_SKR raises 20 to 40
+Vassol89 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673222971136409601-2-1673643327 - Holdem no limit (10/20) - 2023/01/13 20:55:27 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 2: Vassol89 (280)
+Seat 3: Mr Under Ev (300)
+*** ANTE/BLINDS ***
+Vassol89 posts small blind 10
+Mr Under Ev posts big blind 20
+Dealt to _SKR [5h 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Vassol89 calls 10
+Mr Under Ev raises 280 to 300 and is all-in
+Vassol89 folds
+Mr Under Ev collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Mr Under Ev (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673222971136409601-3-1673643341 - Holdem no limit (10/20) - 2023/01/13 20:55:41 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (320)
+Seat 2: Vassol89 (260)
+Seat 3: Mr Under Ev (320)
+*** ANTE/BLINDS ***
+Mr Under Ev posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc 7s]
+*** PRE-FLOP *** 
+Vassol89 raises 240 to 260 and is all-in
+Mr Under Ev folds
+_SKR folds
+Vassol89 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 2: Vassol89 (button) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673222971136409601-4-1673643352 - Holdem no limit (10/20) - 2023/01/13 20:55:52 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Vassol89 (290)
+Seat 3: Mr Under Ev (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Vassol89 posts big blind 20
+Dealt to _SKR [9c 8c]
+*** PRE-FLOP *** 
+Mr Under Ev folds
+_SKR raises 20 to 40
+Vassol89 calls 20
+*** FLOP *** [3h 9s 3s]
+_SKR bets 40
+Vassol89 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3h 9s 3s]
+Seat 1: _SKR (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673222971136409601-5-1673643369 - Holdem no limit (10/20) - 2023/01/13 20:56:09 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (340)
+Seat 2: Vassol89 (250)
+Seat 3: Mr Under Ev (310)
+*** ANTE/BLINDS ***
+Vassol89 posts small blind 10
+Mr Under Ev posts big blind 20
+Dealt to _SKR [7s 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Vassol89 folds
+Mr Under Ev collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Mr Under Ev (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673222971136409601-6-1673643377 - Holdem no limit (15/30) - 2023/01/13 20:56:17 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (340)
+Seat 2: Vassol89 (240)
+Seat 3: Mr Under Ev (320)
+*** ANTE/BLINDS ***
+Mr Under Ev posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c 6s]
+*** PRE-FLOP *** 
+Vassol89 raises 210 to 240 and is all-in
+Mr Under Ev raises 80 to 320 and is all-in
+_SKR folds
+*** FLOP *** [7d 6d 8h]
+*** TURN *** [7d 6d 8h][Jh]
+*** RIVER *** [7d 6d 8h Jh][7c]
+*** SHOW DOWN ***
+Vassol89 shows [9h Kh] (One pair : 7)
+Mr Under Ev shows [Ac 6c] (Two pairs : 7 and 6)
+Mr Under Ev collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [7d 6d 8h Jh 7c]
+Seat 2: Vassol89 (button) showed [9h Kh] and lost with One pair : 7
+Seat 3: Mr Under Ev (small blind) showed [Ac 6c] and won 590 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673222971136409601-7-1673643395 - Holdem no limit (15/30) - 2023/01/13 20:56:35 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 3: Mr Under Ev (590)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mr Under Ev posts big blind 30
+Dealt to _SKR [Qh 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Mr Under Ev collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Mr Under Ev (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673222971136409601-8-1673643399 - Holdem no limit (15/30) - 2023/01/13 20:56:39 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (295)
+Seat 3: Mr Under Ev (605)
+*** ANTE/BLINDS ***
+Mr Under Ev posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3c 6s]
+*** PRE-FLOP *** 
+Mr Under Ev raises 575 to 605 and is all-in
+_SKR folds
+Mr Under Ev collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | No rake
+Seat 3: Mr Under Ev (small blind) (button) won 635
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673222971136409601-9-1673643405 - Holdem no limit (15/30) - 2023/01/13 20:56:45 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (265)
+Seat 3: Mr Under Ev (635)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mr Under Ev posts big blind 30
+Dealt to _SKR [9d 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Mr Under Ev collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Mr Under Ev (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673222971136409601-10-1673643409 - Holdem no limit (15/30) - 2023/01/13 20:56:49 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (250)
+Seat 3: Mr Under Ev (650)
+*** ANTE/BLINDS ***
+Mr Under Ev posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5h 7h]
+*** PRE-FLOP *** 
+Mr Under Ev raises 620 to 650 and is all-in
+_SKR folds
+Mr Under Ev collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 3: Mr Under Ev (small blind) (button) won 680
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673222971136409601-11-1673643418 - Holdem no limit (15/30) - 2023/01/13 20:56:58 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (220)
+Seat 3: Mr Under Ev (680)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mr Under Ev posts big blind 30
+Dealt to _SKR [8c 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Mr Under Ev collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Mr Under Ev (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673222971136409601-12-1673643422 - Holdem no limit (15/30) - 2023/01/13 20:57:02 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (205)
+Seat 3: Mr Under Ev (695)
+*** ANTE/BLINDS ***
+Mr Under Ev posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5d Ah]
+*** PRE-FLOP *** 
+Mr Under Ev calls 15
+_SKR raises 175 to 205 and is all-in
+Mr Under Ev folds
+_SKR collected 235 from pot
+*** SUMMARY ***
+Total pot 235 | No rake
+Seat 1: _SKR (big blind) won 235
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673222971136409601-13-1673643429 - Holdem no limit (15/30) - 2023/01/13 20:57:09 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (235)
+Seat 3: Mr Under Ev (665)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mr Under Ev posts big blind 30
+Dealt to _SKR [9d 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Mr Under Ev collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Mr Under Ev (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673222971136409601-14-1673643432 - Holdem no limit (15/30) - 2023/01/13 20:57:12 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (220)
+Seat 3: Mr Under Ev (680)
+*** ANTE/BLINDS ***
+Mr Under Ev posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4s Js]
+*** PRE-FLOP *** 
+Mr Under Ev raises 650 to 680 and is all-in
+_SKR folds
+Mr Under Ev collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Seat 3: Mr Under Ev (small blind) (button) won 710
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673222971136409601-15-1673643442 - Holdem no limit (20/40) - 2023/01/13 20:57:22 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (190)
+Seat 3: Mr Under Ev (710)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mr Under Ev posts big blind 40
+Dealt to _SKR [6h 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Mr Under Ev collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Mr Under Ev (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673222971136409601-16-1673643446 - Holdem no limit (20/40) - 2023/01/13 20:57:26 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (170)
+Seat 3: Mr Under Ev (730)
+*** ANTE/BLINDS ***
+Mr Under Ev posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s Jc]
+*** PRE-FLOP *** 
+Mr Under Ev raises 690 to 730 and is all-in
+_SKR folds
+Mr Under Ev collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Seat 3: Mr Under Ev (small blind) (button) won 770
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673222971136409601-17-1673643452 - Holdem no limit (20/40) - 2023/01/13 20:57:32 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (130)
+Seat 3: Mr Under Ev (770)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mr Under Ev posts big blind 40
+Dealt to _SKR [Qd 8d]
+*** PRE-FLOP *** 
+_SKR raises 90 to 130 and is all-in
+Mr Under Ev folds
+_SKR collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Seat 1: _SKR (small blind) (button) won 170
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2673222971136409601-18-1673643460 - Holdem no limit (20/40) - 2023/01/13 20:57:40 UTC
+Table: 'Expresso Nitro(622408225)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (170)
+Seat 3: Mr Under Ev (730)
+*** ANTE/BLINDS ***
+Mr Under Ev posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8d Qc]
+*** PRE-FLOP *** 
+Mr Under Ev raises 690 to 730 and is all-in
+_SKR calls 130 and is all-in
+*** FLOP *** [2h 7s Kh]
+*** TURN *** [2h 7s Kh][4h]
+*** RIVER *** [2h 7s Kh 4h][6h]
+*** SHOW DOWN ***
+_SKR shows [8d Qc] (High card : King)
+Mr Under Ev shows [9h Kd] (Flush King high)
+Mr Under Ev collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2h 7s Kh 4h 6h]
+Seat 1: _SKR (big blind) showed [8d Qc] and lost with High card : King
+Seat 3: Mr Under Ev (small blind) (button) showed [9h Kd] and won 900 with Flush King high
+
+

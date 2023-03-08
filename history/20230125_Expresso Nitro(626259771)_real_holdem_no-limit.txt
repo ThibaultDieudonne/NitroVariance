@@ -1,0 +1,120 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689765235245449217-1-1674650501 - Holdem no limit (10/20) - 2023/01/25 12:41:41 UTC
+Table: 'Expresso Nitro(626259771)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Biduchou54 (300)
+Seat 3: Babsinho65 (300)
+*** ANTE/BLINDS ***
+Babsinho65 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c Jc]
+*** PRE-FLOP *** 
+Biduchou54 folds
+Babsinho65 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689765235245449217-2-1674650511 - Holdem no limit (10/20) - 2023/01/25 12:41:51 UTC
+Table: 'Expresso Nitro(626259771)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: Biduchou54 (300)
+Seat 3: Babsinho65 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Biduchou54 posts big blind 20
+Dealt to _SKR [Ts Th]
+*** PRE-FLOP *** 
+Babsinho65 raises 50 to 70
+_SKR raises 240 to 310 and is all-in
+Biduchou54 folds
+Babsinho65 calls 220 and is all-in
+*** FLOP *** [Qc Ac 3h]
+*** TURN *** [Qc Ac 3h][Ks]
+*** RIVER *** [Qc Ac 3h Ks][4c]
+*** SHOW DOWN ***
+_SKR shows [Ts Th] (One pair : Tens)
+Babsinho65 shows [Tc Ah] (One pair : Aces)
+Babsinho65 collected 600 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qc Ac 3h Ks 4c]
+Seat 1: _SKR (small blind) showed [Ts Th] and won 20 with One pair : Tens
+Seat 3: Babsinho65 (button) showed [Tc Ah] and won 600 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689765235245449217-3-1674650532 - Holdem no limit (10/20) - 2023/01/25 12:42:12 UTC
+Table: 'Expresso Nitro(626259771)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (20)
+Seat 2: Biduchou54 (280)
+Seat 3: Babsinho65 (600)
+*** ANTE/BLINDS ***
+Biduchou54 posts small blind 10
+Babsinho65 posts big blind 20
+Dealt to _SKR [Jh Tc]
+*** PRE-FLOP *** 
+_SKR calls 20 and is all-in
+Biduchou54 raises 260 to 280 and is all-in
+Babsinho65 folds
+*** FLOP *** [7h 8d 4d]
+*** TURN *** [7h 8d 4d][9h]
+*** RIVER *** [7h 8d 4d 9h][8s]
+*** SHOW DOWN ***
+_SKR shows [Jh Tc] (Straight Jack high)
+Biduchou54 shows [Qc Jc] (One pair : 8)
+Biduchou54 collected 260 from side pot 1
+_SKR collected 60 from main pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [7h 8d 4d 9h 8s]
+Seat 1: _SKR (button) showed [Jh Tc] and won 60 with Straight Jack high
+Seat 2: Biduchou54 (small blind) showed [Qc Jc] and won 260 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689765235245449217-4-1674650551 - Holdem no limit (10/20) - 2023/01/25 12:42:31 UTC
+Table: 'Expresso Nitro(626259771)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (60)
+Seat 2: Biduchou54 (260)
+Seat 3: Babsinho65 (580)
+*** ANTE/BLINDS ***
+Babsinho65 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 4d]
+*** PRE-FLOP *** 
+Biduchou54 folds
+Babsinho65 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689765235245449217-5-1674650558 - Holdem no limit (15/30) - 2023/01/25 12:42:38 UTC
+Table: 'Expresso Nitro(626259771)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (70)
+Seat 2: Biduchou54 (260)
+Seat 3: Babsinho65 (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Biduchou54 posts big blind 30
+Dealt to _SKR [Th 7h]
+*** PRE-FLOP *** 
+Babsinho65 folds
+_SKR raises 40 to 70 and is all-in
+Biduchou54 raises 190 to 260 and is all-in
+*** FLOP *** [8h 9s Qh]
+*** TURN *** [8h 9s Qh][2d]
+*** RIVER *** [8h 9s Qh 2d][3d]
+*** SHOW DOWN ***
+_SKR shows [Th 7h] (High card : Queen)
+Biduchou54 shows [3c Ac] (One pair : 3)
+Biduchou54 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [8h 9s Qh 2d 3d]
+Seat 1: _SKR (small blind) showed [Th 7h] and lost with High card : Queen
+Seat 2: Biduchou54 (big blind) showed [3c Ac] and won 330 with One pair : 3
+
+

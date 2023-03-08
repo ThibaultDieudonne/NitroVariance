@@ -1,0 +1,99 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689766334757076993-1-1674650564 - Holdem no limit (10/20) - 2023/01/25 12:42:44 UTC
+Table: 'Expresso Nitro(626260027)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Michk (300)
+Seat 2: -lekamikaze- (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Michk posts big blind 20
+Dealt to _SKR [3d Tc]
+*** PRE-FLOP *** 
+-lekamikaze- calls 20
+_SKR folds
+Michk checks
+*** FLOP *** [8d Ad Jh]
+Michk bets 20
+-lekamikaze- folds
+Michk collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [8d Ad Jh]
+Seat 1: Michk (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689766334757076993-2-1674650597 - Holdem no limit (10/20) - 2023/01/25 12:43:17 UTC
+Table: 'Expresso Nitro(626260027)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Michk (330)
+Seat 2: -lekamikaze- (280)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Michk posts small blind 10
+-lekamikaze- posts big blind 20
+Dealt to _SKR [9c 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Michk folds
+-lekamikaze- collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: -lekamikaze- (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689766334757076993-3-1674650604 - Holdem no limit (10/20) - 2023/01/25 12:43:24 UTC
+Table: 'Expresso Nitro(626260027)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Michk (320)
+Seat 2: -lekamikaze- (290)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+-lekamikaze- posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d 7c]
+*** PRE-FLOP *** 
+Michk calls 20
+-lekamikaze- raises 20 to 40
+_SKR folds
+Michk calls 20
+*** FLOP *** [2s 6s 5c]
+-lekamikaze- bets 60
+Michk raises 60 to 120
+-lekamikaze- calls 60
+*** TURN *** [2s 6s 5c][8h]
+-lekamikaze- bets 130 and is all-in
+Michk calls 130
+*** RIVER *** [2s 6s 5c 8h][Ks]
+*** SHOW DOWN ***
+-lekamikaze- shows [9s Th] (High card : King)
+Michk shows [Jd 6d] (One pair : 6)
+Michk collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [2s 6s 5c 8h Ks]
+Seat 1: Michk (button) showed [Jd 6d] and won 600 with One pair : 6
+Seat 2: -lekamikaze- (small blind) showed [9s Th] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689766334757076993-4-1674650648 - Holdem no limit (15/30) - 2023/01/25 12:44:08 UTC
+Table: 'Expresso Nitro(626260027)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Michk (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Michk posts big blind 30
+Dealt to _SKR [Kc Th]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+Michk calls 240
+*** FLOP *** [Ah 6c 8s]
+*** TURN *** [Ah 6c 8s][Js]
+*** RIVER *** [Ah 6c 8s Js][Ts]
+*** SHOW DOWN ***
+_SKR shows [Kc Th] (One pair : Tens)
+Michk shows [Tc Td] (Trips of Tens)
+Michk collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Ah 6c 8s Js Ts]
+Seat 1: Michk (big blind) showed [Tc Td] and won 540 with Trips of Tens
+Seat 3: _SKR (small blind) (button) showed [Kc Th] and lost with One pair : Tens
+
+

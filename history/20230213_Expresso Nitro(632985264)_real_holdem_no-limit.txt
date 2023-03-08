@@ -1,0 +1,510 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718651007729926145-1-1676293545 - Holdem no limit (10/20) - 2023/02/13 13:05:45 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #1 is the button
+Seat 1: K-e-k-e (300)
+Seat 2: _SKR (300)
+Seat 3: Billy Girl18 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Billy Girl18 posts big blind 20
+Dealt to _SKR [Jh Kc]
+*** PRE-FLOP *** 
+K-e-k-e raises 20 to 40
+_SKR calls 30
+Billy Girl18 calls 20
+*** FLOP *** [6h Ks 5h]
+_SKR checks
+Billy Girl18 checks
+K-e-k-e checks
+*** TURN *** [6h Ks 5h][Qc]
+_SKR bets 60
+Billy Girl18 folds
+K-e-k-e calls 60
+*** RIVER *** [6h Ks 5h Qc][2s]
+_SKR bets 156
+K-e-k-e folds
+_SKR collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [6h Ks 5h Qc 2s]
+Seat 2: _SKR (small blind) won 396
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718651007729926145-2-1676293591 - Holdem no limit (10/20) - 2023/02/13 13:06:31 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 1: K-e-k-e (200)
+Seat 2: _SKR (440)
+Seat 3: Billy Girl18 (260)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 10
+K-e-k-e posts big blind 20
+Dealt to _SKR [3d 5d]
+*** PRE-FLOP *** 
+_SKR folds
+Billy Girl18 raises 20 to 40
+K-e-k-e folds
+Billy Girl18 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Billy Girl18 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718651007729926145-3-1676293601 - Holdem no limit (15/30) - 2023/02/13 13:06:41 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 1: K-e-k-e (180)
+Seat 2: _SKR (440)
+Seat 3: Billy Girl18 (280)
+*** ANTE/BLINDS ***
+K-e-k-e posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7c 5c]
+*** PRE-FLOP *** 
+Billy Girl18 calls 30
+K-e-k-e raises 150 to 180 and is all-in
+_SKR folds
+Billy Girl18 folds
+K-e-k-e collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: K-e-k-e (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718651007729926145-4-1676293613 - Holdem no limit (15/30) - 2023/02/13 13:06:53 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #1 is the button
+Seat 1: K-e-k-e (240)
+Seat 2: _SKR (410)
+Seat 3: Billy Girl18 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Billy Girl18 posts big blind 30
+Dealt to _SKR [6c 8d]
+*** PRE-FLOP *** 
+K-e-k-e calls 30
+_SKR folds
+Billy Girl18 checks
+*** FLOP *** [5c Th Tc]
+Billy Girl18 checks
+K-e-k-e checks
+*** TURN *** [5c Th Tc][Js]
+Billy Girl18 checks
+K-e-k-e checks
+*** RIVER *** [5c Th Tc Js][4h]
+Billy Girl18 bets 30
+K-e-k-e raises 77 to 107
+Billy Girl18 raises 77 to 184
+K-e-k-e calls 77
+*** SHOW DOWN ***
+K-e-k-e shows [8h Jh] (Two pairs : Jacks and Tens)
+Billy Girl18 shows [2c Td] (Trips of Tens)
+Billy Girl18 collected 443 from pot
+*** SUMMARY ***
+Total pot 443 | No rake
+Board: [5c Th Tc Js 4h]
+Seat 1: K-e-k-e (button) showed [8h Jh] and lost with Two pairs : Jacks and Tens
+Seat 3: Billy Girl18 (big blind) showed [2c Td] and won 443 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718651007729926145-5-1676293653 - Holdem no limit (15/30) - 2023/02/13 13:07:33 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 1: K-e-k-e (26)
+Seat 2: _SKR (395)
+Seat 3: Billy Girl18 (479)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 15
+K-e-k-e posts big blind 26 and is all-in
+Dealt to _SKR [Td 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Billy Girl18 raises 34 to 60
+*** FLOP *** [9s 8s Ah]
+*** TURN *** [9s 8s Ah][3c]
+*** RIVER *** [9s 8s Ah 3c][Jc]
+*** SHOW DOWN ***
+K-e-k-e shows [8h 4s] (One pair : 8)
+Billy Girl18 shows [As Jh] (Two pairs : Aces and Jacks)
+Billy Girl18 collected 86 from pot
+*** SUMMARY ***
+Total pot 86 | No rake
+Board: [9s 8s Ah 3c Jc]
+Seat 1: K-e-k-e (big blind) showed [8h 4s] and lost with One pair : 8
+Seat 3: Billy Girl18 (small blind) showed [As Jh] and won 86 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718651007729926145-6-1676293667 - Holdem no limit (20/40) - 2023/02/13 13:07:47 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (395)
+Seat 3: Billy Girl18 (505)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Billy Girl18 posts big blind 40
+Dealt to _SKR [7s 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Billy Girl18 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Billy Girl18 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718651007729926145-7-1676293670 - Holdem no limit (20/40) - 2023/02/13 13:07:50 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (375)
+Seat 3: Billy Girl18 (525)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ad 5c]
+*** PRE-FLOP *** 
+Billy Girl18 raises 40 to 80
+_SKR raises 295 to 375 and is all-in
+Billy Girl18 folds
+_SKR collected 455 from pot
+*** SUMMARY ***
+Total pot 455 | No rake
+Seat 2: _SKR (big blind) won 455
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718651007729926145-8-1676293679 - Holdem no limit (20/40) - 2023/02/13 13:07:59 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (455)
+Seat 3: Billy Girl18 (445)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Billy Girl18 posts big blind 40
+Dealt to _SKR [Ac Jd]
+*** PRE-FLOP *** 
+_SKR raises 415 to 455 and is all-in
+Billy Girl18 folds
+_SKR collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Seat 2: _SKR (small blind) (button) won 495
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718651007729926145-9-1676293689 - Holdem no limit (20/40) - 2023/02/13 13:08:09 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (495)
+Seat 3: Billy Girl18 (405)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5d 4c]
+*** PRE-FLOP *** 
+Billy Girl18 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718651007729926145-10-1676293693 - Holdem no limit (20/40) - 2023/02/13 13:08:13 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (515)
+Seat 3: Billy Girl18 (385)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Billy Girl18 posts big blind 40
+Dealt to _SKR [Th 9d]
+*** PRE-FLOP *** 
+_SKR calls 20
+Billy Girl18 checks
+*** FLOP *** [9s 6d 4d]
+Billy Girl18 checks
+_SKR bets 40
+Billy Girl18 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9s 6d 4d]
+Seat 2: _SKR (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718651007729926145-11-1676293708 - Holdem no limit (20/40) - 2023/02/13 13:08:28 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (555)
+Seat 3: Billy Girl18 (345)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9h Th]
+*** PRE-FLOP *** 
+Billy Girl18 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718651007729926145-12-1676293711 - Holdem no limit (20/40) - 2023/02/13 13:08:31 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (575)
+Seat 3: Billy Girl18 (325)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Billy Girl18 posts big blind 40
+Dealt to _SKR [6s 4s]
+*** PRE-FLOP *** 
+_SKR calls 20
+Billy Girl18 raises 285 to 325 and is all-in
+_SKR folds
+Billy Girl18 collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Seat 3: Billy Girl18 (big blind) won 365
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718651007729926145-13-1676293718 - Holdem no limit (20/40) - 2023/02/13 13:08:38 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (535)
+Seat 3: Billy Girl18 (365)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 5h]
+*** PRE-FLOP *** 
+Billy Girl18 raises 325 to 365 and is all-in
+_SKR folds
+Billy Girl18 collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Seat 3: Billy Girl18 (small blind) (button) won 405
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-14-1676293724 - Holdem no limit (30/60) - 2023/02/13 13:08:44 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (495)
+Seat 3: Billy Girl18 (405)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Billy Girl18 posts big blind 60
+Dealt to _SKR [6d 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Billy Girl18 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Billy Girl18 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-15-1676293728 - Holdem no limit (30/60) - 2023/02/13 13:08:48 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (465)
+Seat 3: Billy Girl18 (435)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9c Qh]
+*** PRE-FLOP *** 
+Billy Girl18 raises 375 to 435 and is all-in
+_SKR folds
+Billy Girl18 collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Seat 3: Billy Girl18 (small blind) (button) won 495
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-16-1676293735 - Holdem no limit (30/60) - 2023/02/13 13:08:55 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (405)
+Seat 3: Billy Girl18 (495)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Billy Girl18 posts big blind 60
+Dealt to _SKR [Kh 8h]
+*** PRE-FLOP *** 
+_SKR raises 345 to 405 and is all-in
+Billy Girl18 folds
+_SKR collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Seat 2: _SKR (small blind) (button) won 465
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-17-1676293742 - Holdem no limit (30/60) - 2023/02/13 13:09:02 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (465)
+Seat 3: Billy Girl18 (435)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Td 5d]
+*** PRE-FLOP *** 
+Billy Girl18 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-18-1676293747 - Holdem no limit (30/60) - 2023/02/13 13:09:07 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (495)
+Seat 3: Billy Girl18 (405)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Billy Girl18 posts big blind 60
+Dealt to _SKR [9s 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Billy Girl18 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Billy Girl18 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-19-1676293753 - Holdem no limit (30/60) - 2023/02/13 13:09:13 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (465)
+Seat 3: Billy Girl18 (435)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3d 8h]
+*** PRE-FLOP *** 
+Billy Girl18 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-20-1676293757 - Holdem no limit (30/60) - 2023/02/13 13:09:17 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (495)
+Seat 3: Billy Girl18 (405)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Billy Girl18 posts big blind 60
+Dealt to _SKR [9s 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Billy Girl18 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Billy Girl18 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-21-1676293760 - Holdem no limit (30/60) - 2023/02/13 13:09:20 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (465)
+Seat 3: Billy Girl18 (435)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [6h 9c]
+*** PRE-FLOP *** 
+Billy Girl18 raises 120 to 180
+_SKR folds
+Billy Girl18 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: Billy Girl18 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-22-1676293765 - Holdem no limit (30/60) - 2023/02/13 13:09:25 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (405)
+Seat 3: Billy Girl18 (495)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Billy Girl18 posts big blind 60
+Dealt to _SKR [5h 9c]
+*** PRE-FLOP *** 
+_SKR folds
+Billy Girl18 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Billy Girl18 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-23-1676293768 - Holdem no limit (30/60) - 2023/02/13 13:09:28 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (375)
+Seat 3: Billy Girl18 (525)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4d 8c]
+*** PRE-FLOP *** 
+Billy Girl18 raises 60 to 120
+_SKR folds
+Billy Girl18 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: Billy Girl18 (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-24-1676293774 - Holdem no limit (30/60) - 2023/02/13 13:09:34 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (315)
+Seat 3: Billy Girl18 (585)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Billy Girl18 posts big blind 60
+Dealt to _SKR [2c 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Billy Girl18 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Billy Girl18 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718651007729926145-25-1676293778 - Holdem no limit (30/60) - 2023/02/13 13:09:38 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (285)
+Seat 3: Billy Girl18 (615)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jc 9h]
+*** PRE-FLOP *** 
+Billy Girl18 raises 120 to 180
+_SKR folds
+Billy Girl18 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: Billy Girl18 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2718651007729926145-26-1676293782 - Holdem no limit (40/80) - 2023/02/13 13:09:42 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (225)
+Seat 3: Billy Girl18 (675)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Billy Girl18 posts big blind 80
+Dealt to _SKR [5c 7c]
+*** PRE-FLOP *** 
+_SKR raises 145 to 225 and is all-in
+Billy Girl18 folds
+_SKR collected 305 from pot
+*** SUMMARY ***
+Total pot 305 | No rake
+Seat 2: _SKR (small blind) (button) won 305
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2718651007729926145-27-1676293789 - Holdem no limit (40/80) - 2023/02/13 13:09:49 UTC
+Table: 'Expresso Nitro(632985264)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (305)
+Seat 3: Billy Girl18 (595)
+*** ANTE/BLINDS ***
+Billy Girl18 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3d Jd]
+*** PRE-FLOP *** 
+Billy Girl18 raises 240 to 320
+_SKR calls 225 and is all-in
+*** FLOP *** [Ks 6d 2h]
+*** TURN *** [Ks 6d 2h][Qs]
+*** RIVER *** [Ks 6d 2h Qs][Kd]
+*** SHOW DOWN ***
+_SKR shows [3d Jd] (One pair : Kings)
+Billy Girl18 shows [Qd 7d] (Two pairs : Kings and Queens)
+Billy Girl18 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [Ks 6d 2h Qs Kd]
+Seat 2: _SKR (big blind) showed [3d Jd] and lost with One pair : Kings
+Seat 3: Billy Girl18 (small blind) (button) showed [Qd 7d] and won 625 with Two pairs : Kings and Queens
+
+

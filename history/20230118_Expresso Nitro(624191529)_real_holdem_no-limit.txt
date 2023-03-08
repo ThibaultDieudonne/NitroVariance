@@ -1,0 +1,110 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680882203495235585-1-1674083189 - Holdem no limit (10/20) - 2023/01/18 23:06:29 UTC
+Table: 'Expresso Nitro(624191529)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CastoDrama75 (300)
+Seat 2: 86Zorro (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+86Zorro posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d Jc]
+*** PRE-FLOP *** 
+CastoDrama75 folds
+86Zorro raises 40 to 60
+_SKR folds
+86Zorro collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: 86Zorro (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680882203495235585-2-1674083205 - Holdem no limit (10/20) - 2023/01/18 23:06:45 UTC
+Table: 'Expresso Nitro(624191529)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CastoDrama75 (300)
+Seat 2: 86Zorro (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+CastoDrama75 posts big blind 20
+Dealt to _SKR [7d 4s]
+*** PRE-FLOP *** 
+86Zorro raises 50 to 70
+_SKR folds
+CastoDrama75 folds
+86Zorro collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: 86Zorro (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680882203495235585-3-1674083214 - Holdem no limit (10/20) - 2023/01/18 23:06:54 UTC
+Table: 'Expresso Nitro(624191529)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CastoDrama75 (280)
+Seat 2: 86Zorro (350)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+CastoDrama75 posts small blind 10
+86Zorro posts big blind 20
+Dealt to _SKR [Th 9d]
+*** PRE-FLOP *** 
+_SKR folds
+CastoDrama75 raises 260 to 280 and is all-in
+86Zorro calls 260
+*** FLOP *** [9s As 9h]
+*** TURN *** [9s As 9h][7s]
+*** RIVER *** [9s As 9h 7s][6h]
+*** SHOW DOWN ***
+86Zorro shows [Jc Tc] (One pair : 9)
+CastoDrama75 shows [7d Ad] (Two pairs : Aces and 9)
+CastoDrama75 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9s As 9h 7s 6h]
+Seat 1: CastoDrama75 (small blind) showed [7d Ad] and won 560 with Two pairs : Aces and 9
+Seat 2: 86Zorro (big blind) showed [Jc Tc] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680882203495235585-4-1674083244 - Holdem no limit (10/20) - 2023/01/18 23:07:24 UTC
+Table: 'Expresso Nitro(624191529)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CastoDrama75 (560)
+Seat 2: 86Zorro (70)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+86Zorro posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc Qs]
+*** PRE-FLOP *** 
+CastoDrama75 folds
+86Zorro folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680882203495235585-5-1674083289 - Holdem no limit (15/30) - 2023/01/18 23:08:09 UTC
+Table: 'Expresso Nitro(624191529)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CastoDrama75 (560)
+Seat 2: 86Zorro (60)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+CastoDrama75 posts big blind 30
+Dealt to _SKR [Th Ks]
+*** PRE-FLOP *** 
+86Zorro folds
+_SKR raises 250 to 280 and is all-in
+CastoDrama75 calls 250
+*** FLOP *** [3d Ad Kc]
+*** TURN *** [3d Ad Kc][3c]
+*** RIVER *** [3d Ad Kc 3c][2d]
+*** SHOW DOWN ***
+_SKR shows [Th Ks] (Two pairs : Kings and 3)
+CastoDrama75 shows [Ac 8h] (Two pairs : Aces and 3)
+CastoDrama75 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [3d Ad Kc 3c 2d]
+Seat 1: CastoDrama75 (big blind) showed [Ac 8h] and won 560 with Two pairs : Aces and 3
+Seat 3: _SKR (small blind) showed [Th Ks] and lost with Two pairs : Kings and 3
+
+

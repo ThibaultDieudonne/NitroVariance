@@ -1,0 +1,425 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698251072715096065-1-1675187433 - Holdem no limit (10/20) - 2023/01/31 17:50:33 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Eldine1314 (300)
+Seat 2: _SKR (300)
+Seat 3: Pier-Richard (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Pier-Richard posts big blind 20
+Dealt to _SKR [8d 7h]
+*** PRE-FLOP *** 
+Eldine1314 calls 20
+_SKR folds
+Pier-Richard checks
+*** FLOP *** [5d 2c 9c]
+Pier-Richard checks
+Eldine1314 bets 33
+Pier-Richard folds
+Eldine1314 collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [5d 2c 9c]
+Seat 1: Eldine1314 (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698251072715096065-2-1675187458 - Holdem no limit (10/20) - 2023/01/31 17:50:58 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Eldine1314 (330)
+Seat 2: _SKR (290)
+Seat 3: Pier-Richard (280)
+*** ANTE/BLINDS ***
+Pier-Richard posts small blind 10
+Eldine1314 posts big blind 20
+Dealt to _SKR [Qs 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Pier-Richard calls 10
+Eldine1314 checks
+*** FLOP *** [Jc 4c 3d]
+Pier-Richard checks
+Eldine1314 bets 20
+Pier-Richard calls 20
+*** TURN *** [Jc 4c 3d][6h]
+Pier-Richard checks
+Eldine1314 bets 20
+Pier-Richard calls 20
+*** RIVER *** [Jc 4c 3d 6h][4d]
+Pier-Richard checks
+Eldine1314 bets 42
+Pier-Richard calls 42
+*** SHOW DOWN ***
+Pier-Richard shows [7c 6c] (Two pairs : 6 and 4)
+Eldine1314 shows [Ts Jh] (Two pairs : Jacks and 4)
+Eldine1314 collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [Jc 4c 3d 6h 4d]
+Seat 1: Eldine1314 (big blind) showed [Ts Jh] and won 204 with Two pairs : Jacks and 4
+Seat 3: Pier-Richard (small blind) showed [7c 6c] and lost with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698251072715096065-3-1675187495 - Holdem no limit (15/30) - 2023/01/31 17:51:35 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Eldine1314 (432)
+Seat 2: _SKR (290)
+Seat 3: Pier-Richard (178)
+*** ANTE/BLINDS ***
+Eldine1314 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7s Ts]
+*** PRE-FLOP *** 
+Pier-Richard calls 30
+Eldine1314 calls 15
+_SKR checks
+*** FLOP *** [5s Ks Td]
+Eldine1314 checks
+_SKR checks
+Pier-Richard checks
+*** TURN *** [5s Ks Td][4h]
+Eldine1314 checks
+_SKR checks
+Pier-Richard checks
+*** RIVER *** [5s Ks Td 4h][2h]
+Eldine1314 checks
+_SKR checks
+Pier-Richard checks
+*** SHOW DOWN ***
+Eldine1314 shows [Qd Jh] (High card : King)
+Pier-Richard shows [2c 3c] (One pair : 2)
+_SKR shows [7s Ts] (One pair : Tens)
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5s Ks Td 4h 2h]
+Seat 1: Eldine1314 (small blind) showed [Qd Jh] and lost with High card : King
+Seat 2: _SKR (big blind) showed [7s Ts] and won 90 with One pair : Tens
+Seat 3: Pier-Richard (button) showed [2c 3c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698251072715096065-4-1675187534 - Holdem no limit (15/30) - 2023/01/31 17:52:14 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Eldine1314 (402)
+Seat 2: _SKR (350)
+Seat 3: Pier-Richard (148)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Pier-Richard posts big blind 30
+Dealt to _SKR [Jc Td]
+*** PRE-FLOP *** 
+Eldine1314 calls 30
+_SKR raises 320 to 350 and is all-in
+Pier-Richard folds
+Eldine1314 calls 320
+*** FLOP *** [Qd Ah 9s]
+*** TURN *** [Qd Ah 9s][Qh]
+*** RIVER *** [Qd Ah 9s Qh][Kd]
+*** SHOW DOWN ***
+Eldine1314 shows [Qc Ts] (Trips of Queens)
+_SKR shows [Jc Td] (Straight Ace high)
+_SKR collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [Qd Ah 9s Qh Kd]
+Seat 1: Eldine1314 (button) showed [Qc Ts] and lost with Trips of Queens
+Seat 2: _SKR (small blind) showed [Jc Td] and won 730 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698251072715096065-5-1675187557 - Holdem no limit (20/40) - 2023/01/31 17:52:37 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Eldine1314 (52)
+Seat 2: _SKR (730)
+Seat 3: Pier-Richard (118)
+*** ANTE/BLINDS ***
+Pier-Richard posts small blind 20
+Eldine1314 posts big blind 40
+Dealt to _SKR [7h 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Pier-Richard folds
+Eldine1314 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Eldine1314 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698251072715096065-6-1675187563 - Holdem no limit (20/40) - 2023/01/31 17:52:43 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Eldine1314 (72)
+Seat 2: _SKR (730)
+Seat 3: Pier-Richard (98)
+*** ANTE/BLINDS ***
+Eldine1314 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh Td]
+*** PRE-FLOP *** 
+Pier-Richard raises 58 to 98 and is all-in
+Eldine1314 calls 52 and is all-in
+_SKR calls 58
+*** FLOP *** [Kd Tc 6d]
+*** TURN *** [Kd Tc 6d][Qd]
+*** RIVER *** [Kd Tc 6d Qd][2h]
+*** SHOW DOWN ***
+_SKR shows [Jh Td] (One pair : Tens)
+Eldine1314 shows [Jd Ah] (Straight Ace high)
+Pier-Richard shows [2d 2s] (Trips of 2)
+Pier-Richard collected 52 from side pot 1
+Eldine1314 collected 216 from main pot
+*** SUMMARY ***
+Total pot 268 | No rake
+Board: [Kd Tc 6d Qd 2h]
+Seat 1: Eldine1314 (small blind) showed [Jd Ah] and won 216 with Straight Ace high
+Seat 2: _SKR (big blind) showed [Jh Td] and lost with One pair : Tens
+Seat 3: Pier-Richard (button) showed [2d 2s] and won 52 with Trips of 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698251072715096065-7-1675187582 - Holdem no limit (20/40) - 2023/01/31 17:53:02 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Eldine1314 (216)
+Seat 2: _SKR (632)
+Seat 3: Pier-Richard (52)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Pier-Richard posts big blind 40
+Dealt to _SKR [7d 9d]
+*** PRE-FLOP *** 
+Eldine1314 folds
+_SKR raises 40 to 80
+Pier-Richard calls 12 and is all-in
+*** FLOP *** [As 4s Ks]
+*** TURN *** [As 4s Ks][5c]
+*** RIVER *** [As 4s Ks 5c][Qh]
+*** SHOW DOWN ***
+_SKR shows [7d 9d] (High card : Ace)
+Pier-Richard shows [Jd 9h] (High card : Ace)
+Pier-Richard collected 104 from main pot
+_SKR collected 28 from side pot 1
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [As 4s Ks 5c Qh]
+Seat 2: _SKR (small blind) showed [7d 9d] and won 28 with High card : Ace
+Seat 3: Pier-Richard (big blind) showed [Jd 9h] and won 104 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698251072715096065-8-1675187597 - Holdem no limit (20/40) - 2023/01/31 17:53:17 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Eldine1314 (216)
+Seat 2: _SKR (580)
+Seat 3: Pier-Richard (104)
+*** ANTE/BLINDS ***
+Pier-Richard posts small blind 20
+Eldine1314 posts big blind 40
+Dealt to _SKR [6h 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Pier-Richard calls 20
+Eldine1314 checks
+*** FLOP *** [Kc 2d Jd]
+Pier-Richard checks
+Eldine1314 checks
+*** TURN *** [Kc 2d Jd][3d]
+Pier-Richard checks
+Eldine1314 checks
+*** RIVER *** [Kc 2d Jd 3d][7d]
+Pier-Richard checks
+Eldine1314 checks
+*** SHOW DOWN ***
+Pier-Richard shows [4c Tc] (High card : King)
+Eldine1314 shows [3h Qc] (One pair : 3)
+Eldine1314 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kc 2d Jd 3d 7d]
+Seat 1: Eldine1314 (big blind) showed [3h Qc] and won 80 with One pair : 3
+Seat 3: Pier-Richard (small blind) showed [4c Tc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698251072715096065-9-1675187625 - Holdem no limit (30/60) - 2023/01/31 17:53:45 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Eldine1314 (256)
+Seat 2: _SKR (580)
+Seat 3: Pier-Richard (64)
+*** ANTE/BLINDS ***
+Eldine1314 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jh Ah]
+*** PRE-FLOP *** 
+Pier-Richard raises 4 to 64 and is all-in
+Eldine1314 folds
+_SKR calls 4
+*** FLOP *** [7h Js 7d]
+*** TURN *** [7h Js 7d][7c]
+*** RIVER *** [7h Js 7d 7c][5d]
+*** SHOW DOWN ***
+_SKR shows [Jh Ah] (Full of 7 and Jacks)
+Pier-Richard shows [Ks Kc] (Full of 7 and Kings)
+Pier-Richard collected 158 from pot
+*** SUMMARY ***
+Total pot 158 | No rake
+Board: [7h Js 7d 7c 5d]
+Seat 2: _SKR (big blind) showed [Jh Ah] and lost with Full of 7 and Jacks
+Seat 3: Pier-Richard (button) showed [Ks Kc] and won 158 with Full of 7 and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698251072715096065-10-1675187641 - Holdem no limit (30/60) - 2023/01/31 17:54:01 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Eldine1314 (226)
+Seat 2: _SKR (516)
+Seat 3: Pier-Richard (158)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Pier-Richard posts big blind 60
+Dealt to _SKR [5h Qd]
+*** PRE-FLOP *** 
+Eldine1314 folds
+_SKR raises 456 to 516 and is all-in
+Pier-Richard folds
+_SKR collected 576 from pot
+*** SUMMARY ***
+Total pot 576 | No rake
+Seat 2: _SKR (small blind) won 576
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698251072715096065-11-1675187658 - Holdem no limit (30/60) - 2023/01/31 17:54:18 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Eldine1314 (226)
+Seat 2: _SKR (576)
+Seat 3: Pier-Richard (98)
+*** ANTE/BLINDS ***
+Pier-Richard posts small blind 30
+Eldine1314 posts big blind 60
+Dealt to _SKR [Ts Td]
+*** PRE-FLOP *** 
+_SKR raises 516 to 576 and is all-in
+Pier-Richard folds
+Eldine1314 calls 166 and is all-in
+*** FLOP *** [Qd 5h 8s]
+*** TURN *** [Qd 5h 8s][6h]
+*** RIVER *** [Qd 5h 8s 6h][As]
+*** SHOW DOWN ***
+Eldine1314 shows [3s 3h] (One pair : 3)
+_SKR shows [Ts Td] (One pair : Tens)
+_SKR collected 832 from pot
+*** SUMMARY ***
+Total pot 832 | No rake
+Board: [Qd 5h 8s 6h As]
+Seat 1: Eldine1314 (big blind) showed [3s 3h] and lost with One pair : 3
+Seat 2: _SKR (button) showed [Ts Td] and won 832 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698251072715096065-12-1675187680 - Holdem no limit (40/80) - 2023/01/31 17:54:40 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (832)
+Seat 3: Pier-Richard (68)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Pier-Richard posts big blind 68 and is all-in
+Dealt to _SKR [Js Qd]
+*** PRE-FLOP *** 
+_SKR calls 40
+*** FLOP *** [3h 9c 5s]
+*** TURN *** [3h 9c 5s][8c]
+*** RIVER *** [3h 9c 5s 8c][9d]
+*** SHOW DOWN ***
+_SKR shows [Js Qd] (One pair : 9)
+Pier-Richard shows [9s 4c] (Trips of 9)
+Pier-Richard collected 136 from main pot
+_SKR collected 12 from side pot 1
+*** SUMMARY ***
+Total pot 148 | No rake
+Board: [3h 9c 5s 8c 9d]
+Seat 2: _SKR (small blind) (button) showed [Js Qd] and won 12 with One pair : 9
+Seat 3: Pier-Richard (big blind) showed [9s 4c] and won 136 with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698251072715096065-13-1675187689 - Holdem no limit (40/80) - 2023/01/31 17:54:49 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (764)
+Seat 3: Pier-Richard (136)
+*** ANTE/BLINDS ***
+Pier-Richard posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Qd Jh]
+*** PRE-FLOP *** 
+Pier-Richard raises 56 to 136 and is all-in
+_SKR calls 56
+*** FLOP *** [7c Ks 4c]
+*** TURN *** [7c Ks 4c][2d]
+*** RIVER *** [7c Ks 4c 2d][5s]
+*** SHOW DOWN ***
+_SKR shows [Qd Jh] (High card : King)
+Pier-Richard shows [4s Kc] (Two pairs : Kings and 4)
+Pier-Richard collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | No rake
+Board: [7c Ks 4c 2d 5s]
+Seat 2: _SKR (big blind) showed [Qd Jh] and lost with High card : King
+Seat 3: Pier-Richard (small blind) (button) showed [4s Kc] and won 272 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698251072715096065-14-1675187705 - Holdem no limit (40/80) - 2023/01/31 17:55:05 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (628)
+Seat 3: Pier-Richard (272)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Pier-Richard posts big blind 80
+Dealt to _SKR [Ts 3h]
+*** PRE-FLOP *** 
+_SKR raises 548 to 628 and is all-in
+Pier-Richard calls 192 and is all-in
+*** FLOP *** [Tc Jc 7c]
+*** TURN *** [Tc Jc 7c][4h]
+*** RIVER *** [Tc Jc 7c 4h][7d]
+*** SHOW DOWN ***
+_SKR shows [Ts 3h] (Two pairs : Tens and 7)
+Pier-Richard shows [2s Js] (Two pairs : Jacks and 7)
+Pier-Richard collected 544 from main pot
+_SKR collected 356 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc Jc 7c 4h 7d]
+Seat 2: _SKR (small blind) (button) showed [Ts 3h] and won 356 with Two pairs : Tens and 7
+Seat 3: Pier-Richard (big blind) showed [2s Js] and won 544 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698251072715096065-15-1675187719 - Holdem no limit (40/80) - 2023/01/31 17:55:19 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (356)
+Seat 3: Pier-Richard (544)
+*** ANTE/BLINDS ***
+Pier-Richard posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Ks 7h]
+*** PRE-FLOP *** 
+Pier-Richard folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698251072715096065-16-1675187723 - Holdem no limit (40/80) - 2023/01/31 17:55:23 UTC
+Table: 'Expresso Nitro(628235534)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (396)
+Seat 3: Pier-Richard (504)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Pier-Richard posts big blind 80
+Dealt to _SKR [Tc 9c]
+*** PRE-FLOP *** 
+_SKR raises 316 to 396 and is all-in
+Pier-Richard calls 316
+*** FLOP *** [Ks 7d Ad]
+*** TURN *** [Ks 7d Ad][3h]
+*** RIVER *** [Ks 7d Ad 3h][Js]
+*** SHOW DOWN ***
+_SKR shows [Tc 9c] (High card : Ace)
+Pier-Richard shows [Qc 2c] (High card : Ace)
+Pier-Richard collected 792 from pot
+*** SUMMARY ***
+Total pot 792 | No rake
+Board: [Ks 7d Ad 3h Js]
+Seat 2: _SKR (small blind) (button) showed [Tc 9c] and lost with High card : Ace
+Seat 3: Pier-Richard (big blind) showed [Qc 2c] and won 792 with High card : Ace
+
+

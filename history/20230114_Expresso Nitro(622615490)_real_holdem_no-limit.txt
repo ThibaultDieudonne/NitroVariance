@@ -1,0 +1,361 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674113167533015041-1-1673701574 - Holdem no limit (10/20) - 2023/01/14 13:06:14 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: dave85190 (300)
+Seat 3: R0botik (300)
+*** ANTE/BLINDS ***
+dave85190 posts small blind 10
+R0botik posts big blind 20
+Dealt to _SKR [2s 3c]
+*** PRE-FLOP *** 
+_SKR folds
+dave85190 folds
+R0botik collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: R0botik (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674113167533015041-2-1673701588 - Holdem no limit (10/20) - 2023/01/14 13:06:28 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: dave85190 (290)
+Seat 3: R0botik (310)
+*** ANTE/BLINDS ***
+R0botik posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 9d]
+*** PRE-FLOP *** 
+dave85190 raises 270 to 290 and is all-in
+R0botik folds
+_SKR folds
+dave85190 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: dave85190 (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674113167533015041-3-1673701600 - Holdem no limit (10/20) - 2023/01/14 13:06:40 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: dave85190 (320)
+Seat 3: R0botik (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+dave85190 posts big blind 20
+Dealt to _SKR [5h Ah]
+*** PRE-FLOP *** 
+R0botik calls 20
+_SKR raises 260 to 280 and is all-in
+dave85190 folds
+R0botik folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: _SKR (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674113167533015041-4-1673701613 - Holdem no limit (10/20) - 2023/01/14 13:06:53 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (320)
+Seat 2: dave85190 (300)
+Seat 3: R0botik (280)
+*** ANTE/BLINDS ***
+dave85190 posts small blind 10
+R0botik posts big blind 20
+Dealt to _SKR [6s 4d]
+*** PRE-FLOP *** 
+_SKR folds
+dave85190 raises 280 to 300 and is all-in
+R0botik folds
+dave85190 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: dave85190 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674113167533015041-5-1673701621 - Holdem no limit (10/20) - 2023/01/14 13:07:01 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (320)
+Seat 2: dave85190 (320)
+Seat 3: R0botik (260)
+*** ANTE/BLINDS ***
+R0botik posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d 6h]
+*** PRE-FLOP *** 
+dave85190 calls 20
+R0botik calls 10
+_SKR checks
+*** FLOP *** [3h Jd Ah]
+R0botik checks
+_SKR checks
+dave85190 checks
+*** TURN *** [3h Jd Ah][6c]
+R0botik checks
+_SKR checks
+dave85190 checks
+*** RIVER *** [3h Jd Ah 6c][2h]
+R0botik checks
+_SKR checks
+dave85190 checks
+*** SHOW DOWN ***
+dave85190 shows [8s Ks] (High card : Ace)
+R0botik shows [Td 5d] (High card : Ace)
+_SKR shows [8d 6h] (One pair : 6)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3h Jd Ah 6c 2h]
+Seat 1: _SKR (big blind) showed [8d 6h] and won 60 with One pair : 6
+Seat 2: dave85190 (button) showed [8s Ks] and lost with High card : Ace
+Seat 3: R0botik (small blind) showed [Td 5d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674113167533015041-6-1673701671 - Holdem no limit (15/30) - 2023/01/14 13:07:51 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (360)
+Seat 2: dave85190 (300)
+Seat 3: R0botik (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+dave85190 posts big blind 30
+Dealt to _SKR [Tc 6c]
+*** PRE-FLOP *** 
+R0botik raises 30 to 60
+_SKR folds
+dave85190 folds
+R0botik collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: R0botik (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674113167533015041-7-1673701683 - Holdem no limit (15/30) - 2023/01/14 13:08:03 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (345)
+Seat 2: dave85190 (270)
+Seat 3: R0botik (285)
+*** ANTE/BLINDS ***
+dave85190 posts small blind 15
+R0botik posts big blind 30
+Dealt to _SKR [7d 7h]
+*** PRE-FLOP *** 
+_SKR raises 315 to 345 and is all-in
+dave85190 folds
+R0botik folds
+_SKR collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 1: _SKR (button) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674113167533015041-8-1673701698 - Holdem no limit (20/40) - 2023/01/14 13:08:18 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (390)
+Seat 2: dave85190 (255)
+Seat 3: R0botik (255)
+*** ANTE/BLINDS ***
+R0botik posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5h Kc]
+*** PRE-FLOP *** 
+dave85190 folds
+R0botik raises 60 to 100
+_SKR folds
+R0botik collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 3: R0botik (small blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674113167533015041-9-1673701708 - Holdem no limit (20/40) - 2023/01/14 13:08:28 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (350)
+Seat 2: dave85190 (255)
+Seat 3: R0botik (295)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+dave85190 posts big blind 40
+Dealt to _SKR [Jh 2s]
+*** PRE-FLOP *** 
+R0botik raises 255 to 295 and is all-in
+_SKR folds
+dave85190 calls 215 and is all-in
+*** FLOP *** [Qs 4c 5s]
+*** TURN *** [Qs 4c 5s][Ts]
+*** RIVER *** [Qs 4c 5s Ts][Js]
+*** SHOW DOWN ***
+dave85190 shows [9d 8s] (Flush Queen high)
+R0botik shows [8h Ah] (High card : Ace)
+R0botik collected 40 from side pot 1
+dave85190 collected 530 from main pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Qs 4c 5s Ts Js]
+Seat 2: dave85190 (big blind) showed [9d 8s] and won 530 with Flush Queen high
+Seat 3: R0botik (button) showed [8h Ah] and won 40 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674113167533015041-10-1673701722 - Holdem no limit (20/40) - 2023/01/14 13:08:42 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (330)
+Seat 2: dave85190 (530)
+Seat 3: R0botik (40)
+*** ANTE/BLINDS ***
+dave85190 posts small blind 20
+R0botik posts big blind 40 and is all-in
+Dealt to _SKR [2h 3c]
+*** PRE-FLOP *** 
+_SKR folds
+dave85190 calls 20
+*** FLOP *** [7c 6h Ac]
+*** TURN *** [7c 6h Ac][4c]
+*** RIVER *** [7c 6h Ac 4c][8d]
+*** SHOW DOWN ***
+dave85190 shows [2d Qc] (High card : Ace)
+R0botik shows [5d Jd] (Straight 8 high)
+R0botik collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7c 6h Ac 4c 8d]
+Seat 2: dave85190 (small blind) showed [2d Qc] and lost with High card : Ace
+Seat 3: R0botik (big blind) showed [5d Jd] and won 80 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2674113167533015041-11-1673701742 - Holdem no limit (20/40) - 2023/01/14 13:09:02 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (330)
+Seat 2: dave85190 (490)
+Seat 3: R0botik (80)
+*** ANTE/BLINDS ***
+R0botik posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2h Kc]
+*** PRE-FLOP *** 
+dave85190 raises 450 to 490 and is all-in
+R0botik calls 60 and is all-in
+_SKR folds
+*** FLOP *** [8h 7h 5h]
+*** TURN *** [8h 7h 5h][9h]
+*** RIVER *** [8h 7h 5h 9h][3s]
+*** SHOW DOWN ***
+dave85190 shows [Ts Ac] (High card : Ace)
+R0botik shows [3h 4h] (Flush 9 high)
+R0botik collected 200 from main pot
+dave85190 collected 410 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [8h 7h 5h 9h 3s]
+Seat 2: dave85190 (button) showed [Ts Ac] and won 410 with High card : Ace
+Seat 3: R0botik (small blind) showed [3h 4h] and won 200 with Flush 9 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674113167533015041-12-1673701757 - Holdem no limit (30/60) - 2023/01/14 13:09:17 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 2: dave85190 (410)
+Seat 3: R0botik (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+dave85190 posts big blind 60
+Dealt to _SKR [Jd 8c]
+*** PRE-FLOP *** 
+R0botik folds
+_SKR raises 230 to 290 and is all-in
+dave85190 folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: _SKR (small blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674113167533015041-13-1673701772 - Holdem no limit (30/60) - 2023/01/14 13:09:32 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (350)
+Seat 2: dave85190 (350)
+Seat 3: R0botik (200)
+*** ANTE/BLINDS ***
+dave85190 posts small blind 30
+R0botik posts big blind 60
+Dealt to _SKR [7s 2h]
+*** PRE-FLOP *** 
+_SKR folds
+dave85190 folds
+R0botik collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: R0botik (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674113167533015041-14-1673701785 - Holdem no limit (30/60) - 2023/01/14 13:09:45 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (350)
+Seat 2: dave85190 (320)
+Seat 3: R0botik (230)
+*** ANTE/BLINDS ***
+R0botik posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8d Qh]
+*** PRE-FLOP *** 
+dave85190 folds
+R0botik folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674113167533015041-15-1673701792 - Holdem no limit (30/60) - 2023/01/14 13:09:52 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (380)
+Seat 2: dave85190 (320)
+Seat 3: R0botik (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+dave85190 posts big blind 60
+Dealt to _SKR [Kc 3d]
+*** PRE-FLOP *** 
+R0botik folds
+_SKR raises 320 to 380 and is all-in
+dave85190 calls 260 and is all-in
+*** FLOP *** [4c 8h 3c]
+*** TURN *** [4c 8h 3c][6c]
+*** RIVER *** [4c 8h 3c 6c][Kh]
+*** SHOW DOWN ***
+dave85190 shows [7h 7d] (One pair : 7)
+_SKR shows [Kc 3d] (Two pairs : Kings and 3)
+_SKR collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [4c 8h 3c 6c Kh]
+Seat 1: _SKR (small blind) showed [Kc 3d] and won 700 with Two pairs : Kings and 3
+Seat 2: dave85190 (big blind) showed [7h 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2674113167533015041-16-1673701807 - Holdem no limit (30/60) - 2023/01/14 13:10:07 UTC
+Table: 'Expresso Nitro(622615490)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (700)
+Seat 3: R0botik (200)
+*** ANTE/BLINDS ***
+R0botik posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ac 7c]
+*** PRE-FLOP *** 
+R0botik calls 30
+_SKR raises 640 to 700 and is all-in
+R0botik calls 140 and is all-in
+*** FLOP *** [2s Qs 5h]
+*** TURN *** [2s Qs 5h][7h]
+*** RIVER *** [2s Qs 5h 7h][Th]
+*** SHOW DOWN ***
+R0botik shows [9d Jc] (High card : Queen)
+_SKR shows [Ac 7c] (One pair : 7)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2s Qs 5h 7h Th]
+Seat 1: _SKR (big blind) showed [Ac 7c] and won 900 with One pair : 7
+Seat 3: R0botik (small blind) (button) showed [9d Jc] and lost with High card : Queen
+
+

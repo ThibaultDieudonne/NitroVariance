@@ -1,0 +1,55 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730603759980773377-1-1676988120 - Holdem no limit (10/20) - 2023/02/21 14:02:00 UTC
+Table: 'Expresso Nitro(635768231)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jobred (300)
+Seat 2: _SKR (300)
+Seat 3: Jordan62160 (300)
+*** ANTE/BLINDS ***
+Jordan62160 posts small blind 10
+Jobred posts big blind 20
+Dealt to _SKR [8s 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Jordan62160 calls 10
+Jobred checks
+*** FLOP *** [3c 9h Ac]
+Jordan62160 checks
+Jobred bets 40
+Jordan62160 folds
+Jobred collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3c 9h Ac]
+Seat 1: Jobred (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730603759980773377-2-1676988135 - Holdem no limit (10/20) - 2023/02/21 14:02:15 UTC
+Table: 'Expresso Nitro(635768231)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jobred (320)
+Seat 2: _SKR (300)
+Seat 3: Jordan62160 (280)
+*** ANTE/BLINDS ***
+Jobred posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As Tc]
+*** PRE-FLOP *** 
+Jordan62160 raises 50 to 70
+Jobred calls 60
+_SKR raises 230 to 300 and is all-in
+Jordan62160 calls 210 and is all-in
+Jobred calls 230
+*** FLOP *** [8c Ts 6d]
+*** TURN *** [8c Ts 6d][Ks]
+*** RIVER *** [8c Ts 6d Ks][7d]
+*** SHOW DOWN ***
+_SKR shows [As Tc] (One pair : Tens)
+Jordan62160 shows [3d 3c] (One pair : 3)
+Jobred shows [Jd 9d] (Straight Jack high)
+Jobred collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [8c Ts 6d Ks 7d]
+Seat 1: Jobred (small blind) showed [Jd 9d] and won 880 with Straight Jack high
+Seat 2: _SKR (big blind) showed [As Tc] and lost with One pair : Tens
+Seat 3: Jordan62160 (button) showed [3d 3c] and lost with One pair : 3
+
+

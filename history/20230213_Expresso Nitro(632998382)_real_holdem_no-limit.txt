@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718707349110915073-1-1676296515 - Holdem no limit (10/20) - 2023/02/13 13:55:15 UTC
+Table: 'Expresso Nitro(632998382)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Schelton (300)
+Seat 3: Twinkye14 (300)
+*** ANTE/BLINDS ***
+Twinkye14 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d Ac]
+*** PRE-FLOP *** 
+Schelton calls 20
+Twinkye14 calls 10
+_SKR raises 280 to 300 and is all-in
+Schelton folds
+Twinkye14 calls 280 and is all-in
+*** FLOP *** [6h 5c 5h]
+*** TURN *** [6h 5c 5h][9h]
+*** RIVER *** [6h 5c 5h 9h][4c]
+*** SHOW DOWN ***
+Twinkye14 shows [Td Jd] (One pair : 5)
+_SKR shows [7d Ac] (One pair : 5)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [6h 5c 5h 9h 4c]
+Seat 1: _SKR (big blind) showed [7d Ac] and won 620 with One pair : 5
+Seat 3: Twinkye14 (small blind) showed [Td Jd] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718707349110915073-2-1676296532 - Holdem no limit (10/20) - 2023/02/13 13:55:32 UTC
+Table: 'Expresso Nitro(632998382)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (620)
+Seat 2: Schelton (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Schelton posts big blind 20
+Dealt to _SKR [3h 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Schelton collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Schelton (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718707349110915073-3-1676296536 - Holdem no limit (10/20) - 2023/02/13 13:55:36 UTC
+Table: 'Expresso Nitro(632998382)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (610)
+Seat 2: Schelton (290)
+*** ANTE/BLINDS ***
+Schelton posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d Qh]
+*** PRE-FLOP *** 
+Schelton calls 10
+_SKR checks
+*** FLOP *** [Qc 9h 7s]
+_SKR bets 20
+Schelton calls 20
+*** TURN *** [Qc 9h 7s][Td]
+_SKR bets 40
+Schelton folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qc 9h 7s Td]
+Seat 1: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718707349110915073-4-1676296559 - Holdem no limit (10/20) - 2023/02/13 13:55:59 UTC
+Table: 'Expresso Nitro(632998382)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (650)
+Seat 2: Schelton (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Schelton posts big blind 20
+Dealt to _SKR [Qh 7h]
+*** PRE-FLOP *** 
+_SKR raises 630 to 650 and is all-in
+Schelton folds
+_SKR collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 1: _SKR (small blind) (button) won 670
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718707349110915073-5-1676296565 - Holdem no limit (10/20) - 2023/02/13 13:56:05 UTC
+Table: 'Expresso Nitro(632998382)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (670)
+Seat 2: Schelton (230)
+*** ANTE/BLINDS ***
+Schelton posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [As 8d]
+*** PRE-FLOP *** 
+Schelton calls 10
+_SKR raises 650 to 670 and is all-in
+Schelton calls 210 and is all-in
+*** FLOP *** [6h 4c 3h]
+*** TURN *** [6h 4c 3h][Kc]
+*** RIVER *** [6h 4c 3h Kc][4d]
+*** SHOW DOWN ***
+Schelton shows [Qh 5h] (One pair : 4)
+_SKR shows [As 8d] (One pair : 4)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6h 4c 3h Kc 4d]
+Seat 1: _SKR (big blind) showed [As 8d] and won 900 with One pair : 4
+Seat 2: Schelton (small blind) (button) showed [Qh 5h] and lost with One pair : 4
+
+

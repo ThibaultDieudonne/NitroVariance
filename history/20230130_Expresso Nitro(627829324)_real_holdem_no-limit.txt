@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696506414049787905-1-1675083948 - Holdem no limit (10/20) - 2023/01/30 13:05:48 UTC
+Table: 'Expresso Nitro(627829324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Saaardi_TXOI (300)
+Seat 2: _SKR (300)
+Seat 3: MrJoyman (300)
+*** ANTE/BLINDS ***
+MrJoyman posts small blind 10
+Saaardi_TXOI posts big blind 20
+Dealt to _SKR [Ac 9h]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+MrJoyman folds
+Saaardi_TXOI folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696506414049787905-2-1675083961 - Holdem no limit (10/20) - 2023/01/30 13:06:01 UTC
+Table: 'Expresso Nitro(627829324)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Saaardi_TXOI (280)
+Seat 2: _SKR (330)
+Seat 3: MrJoyman (290)
+*** ANTE/BLINDS ***
+Saaardi_TXOI posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c Qd]
+*** PRE-FLOP *** 
+MrJoyman folds
+Saaardi_TXOI calls 10
+_SKR checks
+*** FLOP *** [7h Th Qs]
+Saaardi_TXOI checks
+_SKR bets 20
+Saaardi_TXOI calls 20
+*** TURN *** [7h Th Qs][2d]
+Saaardi_TXOI checks
+_SKR bets 40
+Saaardi_TXOI calls 40
+*** RIVER *** [7h Th Qs 2d][Tc]
+Saaardi_TXOI checks
+_SKR bets 104
+Saaardi_TXOI raises 96 to 200 and is all-in
+_SKR calls 96
+*** SHOW DOWN ***
+_SKR shows [2c Qd] (Two pairs : Queens and Tens)
+Saaardi_TXOI shows [Jd Td] (Trips of Tens)
+Saaardi_TXOI collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [7h Th Qs 2d Tc]
+Seat 1: Saaardi_TXOI (small blind) showed [Jd Td] and won 560 with Trips of Tens
+Seat 2: _SKR (big blind) showed [2c Qd] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696506414049787905-3-1675084027 - Holdem no limit (15/30) - 2023/01/30 13:07:07 UTC
+Table: 'Expresso Nitro(627829324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Saaardi_TXOI (560)
+Seat 2: _SKR (50)
+Seat 3: MrJoyman (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+MrJoyman posts big blind 30
+Dealt to _SKR [Qc 3c]
+*** PRE-FLOP *** 
+Saaardi_TXOI calls 30
+_SKR raises 20 to 50 and is all-in
+MrJoyman calls 20
+Saaardi_TXOI calls 20
+*** FLOP *** [Ad 2d 8h]
+MrJoyman bets 75
+Saaardi_TXOI calls 75
+*** TURN *** [Ad 2d 8h][9c]
+MrJoyman bets 150
+Saaardi_TXOI raises 285 to 435 and is all-in
+MrJoyman folds
+*** RIVER *** [Ad 2d 8h 9c][Tc]
+*** SHOW DOWN ***
+_SKR shows [Qc 3c] (High card : Ace)
+Saaardi_TXOI shows [7d Jd] (Straight Jack high)
+Saaardi_TXOI collected 885 from pot
+*** SUMMARY ***
+Total pot 885 | No rake
+Board: [Ad 2d 8h 9c Tc]
+Seat 1: Saaardi_TXOI (button) showed [7d Jd] and won 885 with Straight Jack high
+Seat 2: _SKR (small blind) showed [Qc 3c] and lost with High card : Ace
+
+

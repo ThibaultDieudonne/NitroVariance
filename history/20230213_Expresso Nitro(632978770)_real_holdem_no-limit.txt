@@ -1,0 +1,365 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718623116212305921-1-1676292146 - Holdem no limit (10/20) - 2023/02/13 12:42:26 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #2 is the button
+Seat 1: vanrechem (300)
+Seat 2: PivertVictor (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+vanrechem posts big blind 20
+Dealt to _SKR [Ah 4s]
+*** PRE-FLOP *** 
+PivertVictor raises 30 to 50
+_SKR folds
+vanrechem calls 30
+*** FLOP *** [4d 9c 5c]
+vanrechem checks
+PivertVictor bets 110
+vanrechem calls 110
+*** TURN *** [4d 9c 5c][5s]
+vanrechem checks
+PivertVictor bets 140 and is all-in
+vanrechem folds
+PivertVictor collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [4d 9c 5c 5s]
+Seat 2: PivertVictor (button) won 470
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718623116212305921-2-1676292165 - Holdem no limit (10/20) - 2023/02/13 12:42:45 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: vanrechem (140)
+Seat 2: PivertVictor (470)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+vanrechem posts small blind 10
+PivertVictor posts big blind 20
+Dealt to _SKR [8c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+vanrechem calls 10
+PivertVictor raises 450 to 470 and is all-in
+vanrechem calls 120 and is all-in
+*** FLOP *** [Jh 9d 7s]
+*** TURN *** [Jh 9d 7s][Kc]
+*** RIVER *** [Jh 9d 7s Kc][9c]
+*** SHOW DOWN ***
+vanrechem shows [Js 2h] (Two pairs : Jacks and 9)
+PivertVictor shows [Ah 3d] (One pair : 9)
+PivertVictor collected 330 from side pot 1
+vanrechem collected 280 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Jh 9d 7s Kc 9c]
+Seat 1: vanrechem (small blind) showed [Js 2h] and won 280 with Two pairs : Jacks and 9
+Seat 2: PivertVictor (big blind) showed [Ah 3d] and won 330 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718623116212305921-3-1676292184 - Holdem no limit (10/20) - 2023/02/13 12:43:04 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vanrechem (280)
+Seat 2: PivertVictor (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+PivertVictor posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts 4d]
+*** PRE-FLOP *** 
+vanrechem calls 20
+PivertVictor raises 60 to 80
+_SKR folds
+vanrechem raises 60 to 140
+PivertVictor raises 190 to 330 and is all-in
+vanrechem calls 140 and is all-in
+*** FLOP *** [Jd 7s Kc]
+*** TURN *** [Jd 7s Kc][3d]
+*** RIVER *** [Jd 7s Kc 3d][2h]
+*** SHOW DOWN ***
+vanrechem shows [9s 9d] (One pair : 9)
+PivertVictor shows [Ks Jc] (Two pairs : Kings and Jacks)
+PivertVictor collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Jd 7s Kc 3d 2h]
+Seat 1: vanrechem (button) showed [9s 9d] and lost with One pair : 9
+Seat 2: PivertVictor (small blind) showed [Ks Jc] and won 630 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718623116212305921-4-1676292206 - Holdem no limit (15/30) - 2023/02/13 12:43:26 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PivertVictor (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+PivertVictor posts big blind 30
+Dealt to _SKR [Js Th]
+*** PRE-FLOP *** 
+_SKR calls 15
+PivertVictor checks
+*** FLOP *** [5s 3s 8d]
+PivertVictor checks
+_SKR checks
+*** TURN *** [5s 3s 8d][Jc]
+PivertVictor checks
+_SKR bets 30
+PivertVictor folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5s 3s 8d Jc]
+Seat 3: _SKR (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718623116212305921-5-1676292241 - Holdem no limit (15/30) - 2023/02/13 12:44:01 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PivertVictor (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+PivertVictor posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h 5c]
+*** PRE-FLOP *** 
+PivertVictor folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718623116212305921-6-1676292246 - Holdem no limit (15/30) - 2023/02/13 12:44:06 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PivertVictor (585)
+Seat 3: _SKR (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+PivertVictor posts big blind 30
+Dealt to _SKR [Jc Qs]
+*** PRE-FLOP *** 
+_SKR raises 285 to 315 and is all-in
+PivertVictor folds
+_SKR collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 3: _SKR (small blind) (button) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718623116212305921-7-1676292254 - Holdem no limit (15/30) - 2023/02/13 12:44:14 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PivertVictor (555)
+Seat 3: _SKR (345)
+*** ANTE/BLINDS ***
+PivertVictor posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6h Td]
+*** PRE-FLOP *** 
+PivertVictor raises 525 to 555 and is all-in
+_SKR folds
+PivertVictor collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Seat 2: PivertVictor (small blind) (button) won 585
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718623116212305921-8-1676292261 - Holdem no limit (15/30) - 2023/02/13 12:44:21 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PivertVictor (585)
+Seat 3: _SKR (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+PivertVictor posts big blind 30
+Dealt to _SKR [2c Jd]
+*** PRE-FLOP *** 
+_SKR folds
+PivertVictor collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: PivertVictor (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718623116212305921-9-1676292265 - Holdem no limit (20/40) - 2023/02/13 12:44:25 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PivertVictor (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+PivertVictor posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Th Ah]
+*** PRE-FLOP *** 
+PivertVictor raises 560 to 600 and is all-in
+_SKR calls 260 and is all-in
+*** FLOP *** [As 2s 9h]
+*** TURN *** [As 2s 9h][Ts]
+*** RIVER *** [As 2s 9h Ts][6d]
+*** SHOW DOWN ***
+PivertVictor shows [7h Ad] (One pair : Aces)
+_SKR shows [Th Ah] (Two pairs : Aces and Tens)
+_SKR collected 600 from main pot
+PivertVictor collected 300 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As 2s 9h Ts 6d]
+Seat 2: PivertVictor (small blind) (button) showed [7h Ad] and won 300 with One pair : Aces
+Seat 3: _SKR (big blind) showed [Th Ah] and won 600 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718623116212305921-10-1676292277 - Holdem no limit (20/40) - 2023/02/13 12:44:37 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PivertVictor (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+PivertVictor posts big blind 40
+Dealt to _SKR [4c Qc]
+*** PRE-FLOP *** 
+_SKR calls 20
+PivertVictor checks
+*** FLOP *** [Ad Qs 8d]
+PivertVictor checks
+_SKR bets 40
+PivertVictor folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ad Qs 8d]
+Seat 3: _SKR (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718623116212305921-11-1676292293 - Holdem no limit (20/40) - 2023/02/13 12:44:53 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PivertVictor (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+PivertVictor posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qd 3s]
+*** PRE-FLOP *** 
+PivertVictor raises 220 to 260 and is all-in
+_SKR folds
+PivertVictor collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: PivertVictor (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718623116212305921-12-1676292303 - Holdem no limit (20/40) - 2023/02/13 12:45:03 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PivertVictor (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+PivertVictor posts big blind 40
+Dealt to _SKR [9d 4d]
+*** PRE-FLOP *** 
+_SKR folds
+PivertVictor collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: PivertVictor (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718623116212305921-13-1676292309 - Holdem no limit (20/40) - 2023/02/13 12:45:09 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PivertVictor (320)
+Seat 3: _SKR (580)
+*** ANTE/BLINDS ***
+PivertVictor posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5h Qd]
+*** PRE-FLOP *** 
+PivertVictor folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718623116212305921-14-1676292313 - Holdem no limit (20/40) - 2023/02/13 12:45:13 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PivertVictor (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+PivertVictor posts big blind 40
+Dealt to _SKR [2d Qs]
+*** PRE-FLOP *** 
+_SKR folds
+PivertVictor collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: PivertVictor (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718623116212305921-15-1676292318 - Holdem no limit (20/40) - 2023/02/13 12:45:18 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PivertVictor (320)
+Seat 3: _SKR (580)
+*** ANTE/BLINDS ***
+PivertVictor posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qs 2s]
+*** PRE-FLOP *** 
+PivertVictor folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718623116212305921-16-1676292323 - Holdem no limit (30/60) - 2023/02/13 12:45:23 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PivertVictor (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+PivertVictor posts big blind 60
+Dealt to _SKR [8c 5d]
+*** PRE-FLOP *** 
+_SKR folds
+PivertVictor collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: PivertVictor (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718623116212305921-17-1676292329 - Holdem no limit (30/60) - 2023/02/13 12:45:29 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PivertVictor (330)
+Seat 3: _SKR (570)
+*** ANTE/BLINDS ***
+PivertVictor posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c 5s]
+*** PRE-FLOP *** 
+PivertVictor folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718623116212305921-18-1676292332 - Holdem no limit (30/60) - 2023/02/13 12:45:32 UTC
+Table: 'Expresso Nitro(632978770)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PivertVictor (300)
+Seat 3: _SKR (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+PivertVictor posts big blind 60
+Dealt to _SKR [Qd 8s]
+*** PRE-FLOP *** 
+_SKR raises 60 to 120
+PivertVictor raises 180 to 300 and is all-in
+_SKR calls 180
+*** FLOP *** [Qh 9d Th]
+*** TURN *** [Qh 9d Th][Ks]
+*** RIVER *** [Qh 9d Th Ks][Qc]
+*** SHOW DOWN ***
+PivertVictor shows [Kd 8h] (Two pairs : Kings and Queens)
+_SKR shows [Qd 8s] (Trips of Queens)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qh 9d Th Ks Qc]
+Seat 2: PivertVictor (big blind) showed [Kd 8h] and lost with Two pairs : Kings and Queens
+Seat 3: _SKR (small blind) (button) showed [Qd 8s] and won 600 with Trips of Queens
+
+

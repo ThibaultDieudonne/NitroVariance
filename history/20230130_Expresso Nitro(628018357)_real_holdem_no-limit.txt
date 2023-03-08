@@ -1,0 +1,373 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697318304602652673-1-1675117451 - Holdem no limit (10/20) - 2023/01/30 22:24:11 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: baxter82 (300)
+Seat 3: nestaa7 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+baxter82 posts big blind 20
+Dealt to _SKR [4c 8c]
+*** PRE-FLOP *** 
+nestaa7 calls 20
+_SKR folds
+baxter82 checks
+*** FLOP *** [4d 9c Ad]
+baxter82 checks
+nestaa7 checks
+*** TURN *** [4d 9c Ad][8h]
+baxter82 checks
+nestaa7 checks
+*** RIVER *** [4d 9c Ad 8h][Qs]
+baxter82 checks
+nestaa7 checks
+*** SHOW DOWN ***
+nestaa7 shows [2c 3c] (High card : Ace)
+baxter82 shows [2d Jd] (High card : Ace)
+baxter82 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [4d 9c Ad 8h Qs]
+Seat 2: baxter82 (big blind) showed [2d Jd] and won 50 with High card : Ace
+Seat 3: nestaa7 (button) showed [2c 3c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697318304602652673-2-1675117484 - Holdem no limit (10/20) - 2023/01/30 22:24:44 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: baxter82 (330)
+Seat 3: nestaa7 (280)
+*** ANTE/BLINDS ***
+baxter82 posts small blind 10
+nestaa7 posts big blind 20
+Dealt to _SKR [Ks 8c]
+*** PRE-FLOP *** 
+_SKR folds
+baxter82 calls 10
+nestaa7 checks
+*** FLOP *** [9d 9h 3c]
+baxter82 checks
+nestaa7 bets 20
+baxter82 folds
+nestaa7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9d 9h 3c]
+Seat 3: nestaa7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697318304602652673-3-1675117505 - Holdem no limit (10/20) - 2023/01/30 22:25:05 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: baxter82 (310)
+Seat 3: nestaa7 (300)
+*** ANTE/BLINDS ***
+nestaa7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d Ad]
+*** PRE-FLOP *** 
+baxter82 folds
+nestaa7 calls 10
+_SKR raises 270 to 290 and is all-in
+nestaa7 folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 1: _SKR (big blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697318304602652673-4-1675117514 - Holdem no limit (15/30) - 2023/01/30 22:25:14 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: baxter82 (310)
+Seat 3: nestaa7 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+baxter82 posts big blind 30
+Dealt to _SKR [Td 3d]
+*** PRE-FLOP *** 
+nestaa7 calls 30
+_SKR folds
+baxter82 checks
+*** FLOP *** [7c Ts 5c]
+baxter82 bets 30
+nestaa7 calls 30
+*** TURN *** [7c Ts 5c][8c]
+baxter82 bets 47
+nestaa7 calls 47
+*** RIVER *** [7c Ts 5c 8c][Kd]
+baxter82 checks
+nestaa7 bets 149
+baxter82 folds
+nestaa7 collected 378 from pot
+*** SUMMARY ***
+Total pot 378 | No rake
+Board: [7c Ts 5c 8c Kd]
+Seat 3: nestaa7 (button) won 378
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697318304602652673-5-1675117547 - Holdem no limit (15/30) - 2023/01/30 22:25:47 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (295)
+Seat 2: baxter82 (203)
+Seat 3: nestaa7 (402)
+*** ANTE/BLINDS ***
+baxter82 posts small blind 15
+nestaa7 posts big blind 30
+Dealt to _SKR [Js 5d]
+*** PRE-FLOP *** 
+_SKR folds
+baxter82 raises 30 to 60
+nestaa7 calls 30
+*** FLOP *** [3s Ts 6d]
+baxter82 checks
+nestaa7 checks
+*** TURN *** [3s Ts 6d][2h]
+baxter82 checks
+nestaa7 checks
+*** RIVER *** [3s Ts 6d 2h][3c]
+baxter82 checks
+nestaa7 checks
+*** SHOW DOWN ***
+nestaa7 shows [Kh 9s] (One pair : 3)
+baxter82 shows [Ad Qs] (One pair : 3)
+baxter82 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3s Ts 6d 2h 3c]
+Seat 2: baxter82 (small blind) showed [Ad Qs] and won 120 with One pair : 3
+Seat 3: nestaa7 (big blind) showed [Kh 9s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2697318304602652673-6-1675117575 - Holdem no limit (20/40) - 2023/01/30 22:26:15 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (295)
+Seat 2: baxter82 (263)
+Seat 3: nestaa7 (342)
+*** ANTE/BLINDS ***
+nestaa7 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Td 9s]
+*** PRE-FLOP *** 
+baxter82 calls 40
+nestaa7 calls 20
+_SKR checks
+*** FLOP *** [3h 3c 4s]
+nestaa7 checks
+_SKR checks
+baxter82 checks
+*** TURN *** [3h 3c 4s][7c]
+nestaa7 checks
+_SKR checks
+baxter82 checks
+*** RIVER *** [3h 3c 4s 7c][7h]
+nestaa7 bets 78
+_SKR folds
+baxter82 folds
+nestaa7 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [3h 3c 4s 7c 7h]
+Seat 3: nestaa7 (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2697318304602652673-7-1675117616 - Holdem no limit (20/40) - 2023/01/30 22:26:56 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (255)
+Seat 2: baxter82 (223)
+Seat 3: nestaa7 (422)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+baxter82 posts big blind 40
+Dealt to _SKR [9h 2d]
+*** PRE-FLOP *** 
+nestaa7 calls 40
+_SKR folds
+baxter82 checks
+*** FLOP *** [Td Kc 7h]
+baxter82 checks
+nestaa7 bets 40
+baxter82 folds
+nestaa7 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Td Kc 7h]
+Seat 3: nestaa7 (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2697318304602652673-8-1675117631 - Holdem no limit (30/60) - 2023/01/30 22:27:11 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (235)
+Seat 2: baxter82 (183)
+Seat 3: nestaa7 (482)
+*** ANTE/BLINDS ***
+baxter82 posts small blind 30
+nestaa7 posts big blind 60
+Dealt to _SKR [Kc 5s]
+*** PRE-FLOP *** 
+_SKR folds
+baxter82 calls 30
+nestaa7 checks
+*** FLOP *** [2h Ts 5d]
+baxter82 bets 60
+nestaa7 calls 60
+*** TURN *** [2h Ts 5d][3c]
+baxter82 bets 63 and is all-in
+nestaa7 calls 63
+*** RIVER *** [2h Ts 5d 3c][Qh]
+*** SHOW DOWN ***
+baxter82 shows [Tc 9s] (One pair : Tens)
+nestaa7 shows [8h Qc] (One pair : Queens)
+nestaa7 collected 366 from pot
+*** SUMMARY ***
+Total pot 366 | No rake
+Board: [2h Ts 5d 3c Qh]
+Seat 2: baxter82 (small blind) showed [Tc 9s] and lost with One pair : Tens
+Seat 3: nestaa7 (big blind) showed [8h Qc] and won 366 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2697318304602652673-9-1675117655 - Holdem no limit (30/60) - 2023/01/30 22:27:35 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (235)
+Seat 3: nestaa7 (665)
+*** ANTE/BLINDS ***
+nestaa7 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jc 2c]
+*** PRE-FLOP *** 
+nestaa7 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2697318304602652673-10-1675117659 - Holdem no limit (30/60) - 2023/01/30 22:27:39 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (265)
+Seat 3: nestaa7 (635)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+nestaa7 posts big blind 60
+Dealt to _SKR [Kh 7c]
+*** PRE-FLOP *** 
+_SKR raises 205 to 265 and is all-in
+nestaa7 folds
+_SKR collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 1: _SKR (small blind) (button) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2697318304602652673-11-1675117664 - Holdem no limit (30/60) - 2023/01/30 22:27:44 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (325)
+Seat 3: nestaa7 (575)
+*** ANTE/BLINDS ***
+nestaa7 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2h 8s]
+*** PRE-FLOP *** 
+nestaa7 calls 30
+_SKR checks
+*** FLOP *** [6c Qd Ts]
+_SKR checks
+nestaa7 checks
+*** TURN *** [6c Qd Ts][Tc]
+_SKR checks
+nestaa7 bets 60
+_SKR folds
+nestaa7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6c Qd Ts Tc]
+Seat 3: nestaa7 (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2697318304602652673-12-1675117716 - Holdem no limit (40/80) - 2023/01/30 22:28:36 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (265)
+Seat 3: nestaa7 (635)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+nestaa7 posts big blind 80
+Dealt to _SKR [Qs 3h]
+*** PRE-FLOP *** 
+_SKR raises 185 to 265 and is all-in
+nestaa7 folds
+_SKR collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 1: _SKR (small blind) (button) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2697318304602652673-13-1675117722 - Holdem no limit (40/80) - 2023/01/30 22:28:42 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (345)
+Seat 3: nestaa7 (555)
+*** ANTE/BLINDS ***
+nestaa7 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [6s 9d]
+*** PRE-FLOP *** 
+nestaa7 calls 40
+_SKR checks
+*** FLOP *** [5c 2s 6c]
+_SKR checks
+nestaa7 bets 104
+_SKR raises 161 to 265 and is all-in
+nestaa7 calls 161
+*** TURN *** [5c 2s 6c][Ad]
+*** RIVER *** [5c 2s 6c Ad][6d]
+*** SHOW DOWN ***
+nestaa7 shows [Ah 8s] (Two pairs : Aces and 6)
+_SKR shows [6s 9d] (Trips of 6)
+_SKR collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [5c 2s 6c Ad 6d]
+Seat 1: _SKR (big blind) showed [6s 9d] and won 690 with Trips of 6
+Seat 3: nestaa7 (small blind) (button) showed [Ah 8s] and lost with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2697318304602652673-14-1675117746 - Holdem no limit (40/80) - 2023/01/30 22:29:06 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (690)
+Seat 3: nestaa7 (210)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+nestaa7 posts big blind 80
+Dealt to _SKR [8h 8s]
+*** PRE-FLOP *** 
+_SKR raises 610 to 690 and is all-in
+nestaa7 folds
+_SKR collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Seat 1: _SKR (small blind) (button) won 770
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 6 - HandId: #2697318304602652673-15-1675117756 - Holdem no limit (50/100) - 2023/01/30 22:29:16 UTC
+Table: 'Expresso Nitro(628018357)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (770)
+Seat 3: nestaa7 (130)
+*** ANTE/BLINDS ***
+nestaa7 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [Th Ah]
+*** PRE-FLOP *** 
+nestaa7 raises 30 to 130 and is all-in
+_SKR raises 640 to 770 and is all-in
+*** FLOP *** [9d Kh 6h]
+*** TURN *** [9d Kh 6h][3h]
+*** RIVER *** [9d Kh 6h 3h][7s]
+*** SHOW DOWN ***
+nestaa7 shows [Ac Tc] (High card : Ace)
+_SKR shows [Th Ah] (Flush Ace high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d Kh 6h 3h 7s]
+Seat 1: _SKR (big blind) showed [Th Ah] and won 900 with Flush Ace high
+Seat 3: nestaa7 (small blind) (button) showed [Ac Tc] and lost with High card : Ace
+
+

@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696502170622099457-1-1675083678 - Holdem no limit (10/20) - 2023/01/30 13:01:18 UTC
+Table: 'Expresso Nitro(627828336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Saitham (300)
+Seat 2: Moha60291 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Moha60291 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s 7s]
+*** PRE-FLOP *** 
+Saitham raises 280 to 300 and is all-in
+Moha60291 calls 290 and is all-in
+_SKR folds
+*** FLOP *** [7d 4s Tc]
+*** TURN *** [7d 4s Tc][4h]
+*** RIVER *** [7d 4s Tc 4h][Qh]
+*** SHOW DOWN ***
+Moha60291 shows [9d 9s] (Two pairs : 9 and 4)
+Saitham shows [Qd Kd] (Two pairs : Queens and 4)
+Saitham collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [7d 4s Tc 4h Qh]
+Seat 1: Saitham (button) showed [Qd Kd] and won 620 with Two pairs : Queens and 4
+Seat 2: Moha60291 (small blind) showed [9d 9s] and lost with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696502170622099457-2-1675083698 - Holdem no limit (10/20) - 2023/01/30 13:01:38 UTC
+Table: 'Expresso Nitro(627828336)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Saitham (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Saitham posts big blind 20
+Dealt to _SKR [5d 5c]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+Saitham folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: _SKR (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696502170622099457-3-1675083705 - Holdem no limit (10/20) - 2023/01/30 13:01:45 UTC
+Table: 'Expresso Nitro(627828336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Saitham (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Saitham posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d 4s]
+*** PRE-FLOP *** 
+Saitham calls 10
+_SKR checks
+*** FLOP *** [Kd Kc 3s]
+_SKR checks
+Saitham bets 20
+_SKR folds
+Saitham collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kd Kc 3s]
+Seat 1: Saitham (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696502170622099457-4-1675083718 - Holdem no limit (10/20) - 2023/01/30 13:01:58 UTC
+Table: 'Expresso Nitro(627828336)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Saitham (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Saitham posts big blind 20
+Dealt to _SKR [Kc 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Saitham collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Saitham (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696502170622099457-5-1675083723 - Holdem no limit (10/20) - 2023/01/30 13:02:03 UTC
+Table: 'Expresso Nitro(627828336)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Saitham (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Saitham posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh Ah]
+*** PRE-FLOP *** 
+Saitham raises 610 to 630 and is all-in
+_SKR calls 250 and is all-in
+*** FLOP *** [7c 6s 2c]
+*** TURN *** [7c 6s 2c][6d]
+*** RIVER *** [7c 6s 2c 6d][Jh]
+*** SHOW DOWN ***
+_SKR shows [Kh Ah] (One pair : 6)
+Saitham shows [Qc Jd] (Two pairs : Jacks and 6)
+Saitham collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c 6s 2c 6d Jh]
+Seat 1: Saitham (small blind) (button) showed [Qc Jd] and won 900 with Two pairs : Jacks and 6
+Seat 3: _SKR (big blind) showed [Kh Ah] and lost with One pair : 6
+
+

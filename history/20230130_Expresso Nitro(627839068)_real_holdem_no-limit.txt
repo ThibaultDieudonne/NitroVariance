@@ -1,0 +1,75 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696548264211120129-1-1675086376 - Holdem no limit (10/20) - 2023/01/30 13:46:16 UTC
+Table: 'Expresso Nitro(627839068)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Affif6 (300)
+Seat 2: Rassta79 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Affif6 posts big blind 20
+Dealt to _SKR [5h 4h]
+*** PRE-FLOP *** 
+Rassta79 folds
+_SKR folds
+Affif6 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Affif6 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696548264211120129-2-1675086382 - Holdem no limit (10/20) - 2023/01/30 13:46:22 UTC
+Table: 'Expresso Nitro(627839068)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Affif6 (310)
+Seat 2: Rassta79 (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Affif6 posts small blind 10
+Rassta79 posts big blind 20
+Dealt to _SKR [Ad 6h]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Affif6 calls 280
+Rassta79 calls 270
+*** FLOP *** [6d 2c 8s]
+Affif6 bets 20 and is all-in
+Rassta79 calls 10 and is all-in
+*** TURN *** [6d 2c 8s][9s]
+*** RIVER *** [6d 2c 8s 9s][3h]
+*** SHOW DOWN ***
+Rassta79 shows [Ts Qc] (High card : Queen)
+Affif6 shows [Kd Tc] (High card : King)
+_SKR shows [Ad 6h] (One pair : 6)
+_SKR collected 870 from main pot
+Affif6 collected 30 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 2c 8s 9s 3h]
+Seat 1: Affif6 (small blind) showed [Kd Tc] and won 30 with High card : King
+Seat 2: Rassta79 (big blind) showed [Ts Qc] and lost with High card : Queen
+Seat 3: _SKR (button) showed [Ad 6h] and won 870 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696548264211120129-3-1675086398 - Holdem no limit (10/20) - 2023/01/30 13:46:38 UTC
+Table: 'Expresso Nitro(627839068)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Affif6 (30)
+Seat 3: _SKR (870)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Affif6 posts big blind 20
+Dealt to _SKR [4s Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Affif6 calls 10 and is all-in
+*** FLOP *** [8d 4c Qc]
+*** TURN *** [8d 4c Qc][5s]
+*** RIVER *** [8d 4c Qc 5s][7h]
+*** SHOW DOWN ***
+Affif6 shows [9c Ts] (High card : Queen)
+_SKR shows [4s Kh] (One pair : 4)
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [8d 4c Qc 5s 7h]
+Seat 1: Affif6 (big blind) showed [9c Ts] and lost with High card : Queen
+Seat 3: _SKR (small blind) (button) showed [4s Kh] and won 70 with One pair : 4
+
+

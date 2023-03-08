@@ -1,0 +1,113 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695286394229620737-1-1675004291 - Holdem no limit (10/20) - 2023/01/29 14:58:11 UTC
+Table: 'Expresso Nitro(627545266)#0' 3-max (real money) Seat #1 is the button
+Seat 1: eduardo3310 (300)
+Seat 2: _SKR (300)
+Seat 3: Kakamimi69 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Kakamimi69 posts big blind 20
+Dealt to _SKR [Ah 5c]
+*** PRE-FLOP *** 
+eduardo3310 calls 20
+_SKR raises 280 to 300 and is all-in
+Kakamimi69 folds
+eduardo3310 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695286394229620737-2-1675004309 - Holdem no limit (10/20) - 2023/01/29 14:58:29 UTC
+Table: 'Expresso Nitro(627545266)#0' 3-max (real money) Seat #2 is the button
+Seat 1: eduardo3310 (280)
+Seat 2: _SKR (340)
+Seat 3: Kakamimi69 (280)
+*** ANTE/BLINDS ***
+Kakamimi69 posts small blind 10
+eduardo3310 posts big blind 20
+Dealt to _SKR [5c 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Kakamimi69 calls 10
+eduardo3310 checks
+*** FLOP *** [8s Kc Jd]
+Kakamimi69 bets 20
+eduardo3310 folds
+Kakamimi69 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [8s Kc Jd]
+Seat 3: Kakamimi69 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695286394229620737-3-1675004349 - Holdem no limit (15/30) - 2023/01/29 14:59:09 UTC
+Table: 'Expresso Nitro(627545266)#0' 3-max (real money) Seat #3 is the button
+Seat 1: eduardo3310 (260)
+Seat 2: _SKR (340)
+Seat 3: Kakamimi69 (300)
+*** ANTE/BLINDS ***
+eduardo3310 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Td Th]
+*** PRE-FLOP *** 
+Kakamimi69 calls 30
+eduardo3310 folds
+_SKR raises 310 to 340 and is all-in
+Kakamimi69 calls 270 and is all-in
+*** FLOP *** [6s 9h 2h]
+*** TURN *** [6s 9h 2h][6c]
+*** RIVER *** [6s 9h 2h 6c][8c]
+*** SHOW DOWN ***
+Kakamimi69 shows [Qc Jc] (One pair : 6)
+_SKR shows [Td Th] (Two pairs : Tens and 6)
+_SKR collected 655 from pot
+*** SUMMARY ***
+Total pot 655 | No rake
+Board: [6s 9h 2h 6c 8c]
+Seat 2: _SKR (big blind) showed [Td Th] and won 655 with Two pairs : Tens and 6
+Seat 3: Kakamimi69 (button) showed [Qc Jc] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695286394229620737-4-1675004374 - Holdem no limit (15/30) - 2023/01/29 14:59:34 UTC
+Table: 'Expresso Nitro(627545266)#0' 3-max (real money) Seat #2 is the button
+Seat 1: eduardo3310 (245)
+Seat 2: _SKR (655)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+eduardo3310 posts big blind 30
+Dealt to _SKR [6d Qc]
+*** PRE-FLOP *** 
+_SKR folds
+eduardo3310 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: eduardo3310 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695286394229620737-5-1675004378 - Holdem no limit (15/30) - 2023/01/29 14:59:38 UTC
+Table: 'Expresso Nitro(627545266)#0' 3-max (real money) Seat #1 is the button
+Seat 1: eduardo3310 (260)
+Seat 2: _SKR (640)
+*** ANTE/BLINDS ***
+eduardo3310 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc Th]
+*** PRE-FLOP *** 
+eduardo3310 calls 15
+_SKR raises 610 to 640 and is all-in
+eduardo3310 calls 230 and is all-in
+*** FLOP *** [9h Td 8c]
+*** TURN *** [9h Td 8c][4s]
+*** RIVER *** [9h Td 8c 4s][2c]
+*** SHOW DOWN ***
+eduardo3310 shows [4c Kh] (One pair : 4)
+_SKR shows [Tc Th] (Trips of Tens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9h Td 8c 4s 2c]
+Seat 1: eduardo3310 (small blind) (button) showed [4c Kh] and lost with One pair : 4
+Seat 2: _SKR (big blind) showed [Tc Th] and won 900 with Trips of Tens
+
+

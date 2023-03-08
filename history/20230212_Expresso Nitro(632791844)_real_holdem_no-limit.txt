@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717820275155533825-1-1676236508 - Holdem no limit (10/20) - 2023/02/12 21:15:08 UTC
+Table: 'Expresso Nitro(632791844)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Point point (300)
+Seat 3: minimaki46 (300)
+*** ANTE/BLINDS ***
+Point point posts small blind 10
+minimaki46 posts big blind 20
+Dealt to _SKR [Kh 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Point point folds
+minimaki46 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: minimaki46 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717820275155533825-2-1676236513 - Holdem no limit (10/20) - 2023/02/12 21:15:13 UTC
+Table: 'Expresso Nitro(632791844)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Point point (290)
+Seat 3: minimaki46 (310)
+*** ANTE/BLINDS ***
+minimaki46 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d 3h]
+*** PRE-FLOP *** 
+Point point folds
+minimaki46 calls 10
+_SKR raises 280 to 300 and is all-in
+minimaki46 raises 10 to 310 and is all-in
+*** FLOP *** [Ks 4d 7h]
+*** TURN *** [Ks 4d 7h][Jh]
+*** RIVER *** [Ks 4d 7h Jh][2s]
+*** SHOW DOWN ***
+_SKR shows [3d 3h] (One pair : 3)
+minimaki46 shows [As Ad] (One pair : Aces)
+minimaki46 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Ks 4d 7h Jh 2s]
+Seat 1: _SKR (big blind) showed [3d 3h] and lost with One pair : 3
+Seat 3: minimaki46 (small blind) showed [As Ad] and won 610 with One pair : Aces
+
+

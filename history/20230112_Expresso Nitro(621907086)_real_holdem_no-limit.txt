@@ -1,0 +1,87 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671070595520659457-1-1673529635 - Holdem no limit (10/20) - 2023/01/12 13:20:35 UTC
+Table: 'Expresso Nitro(621907086)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jaavito (300)
+Seat 2: Dikdik59 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Jaavito posts big blind 20
+Dealt to _SKR [4d 9s]
+*** PRE-FLOP *** 
+Dikdik59 calls 20
+_SKR folds
+Jaavito checks
+*** FLOP *** [Td Qd Jd]
+Jaavito checks
+Dikdik59 checks
+*** TURN *** [Td Qd Jd][8s]
+Jaavito bets 33
+Dikdik59 calls 33
+*** RIVER *** [Td Qd Jd 8s][8c]
+Jaavito checks
+Dikdik59 checks
+*** SHOW DOWN ***
+Jaavito shows [Jc Th] (Two pairs : Jacks and Tens)
+Dikdik59 shows [7c 8d] (Trips of 8)
+Dikdik59 collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | No rake
+Board: [Td Qd Jd 8s 8c]
+Seat 1: Jaavito (big blind) showed [Jc Th] and lost with Two pairs : Jacks and Tens
+Seat 2: Dikdik59 (button) showed [7c 8d] and won 116 with Trips of 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671070595520659457-2-1673529654 - Holdem no limit (10/20) - 2023/01/12 13:20:54 UTC
+Table: 'Expresso Nitro(621907086)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jaavito (247)
+Seat 2: Dikdik59 (363)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Jaavito posts small blind 10
+Dikdik59 posts big blind 20
+Dealt to _SKR [2s Ah]
+*** PRE-FLOP *** 
+_SKR folds
+Jaavito calls 10
+Dikdik59 checks
+*** FLOP *** [2d 5s As]
+Jaavito bets 26
+Dikdik59 folds
+Jaavito collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [2d 5s As]
+Seat 1: Jaavito (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671070595520659457-3-1673529666 - Holdem no limit (10/20) - 2023/01/12 13:21:06 UTC
+Table: 'Expresso Nitro(621907086)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jaavito (267)
+Seat 2: Dikdik59 (343)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Dikdik59 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd Ad]
+*** PRE-FLOP *** 
+Jaavito raises 247 to 267 and is all-in
+Dikdik59 calls 257
+_SKR raises 23 to 290 and is all-in
+Dikdik59 calls 23
+*** FLOP *** [2s 6d 5h]
+*** TURN *** [2s 6d 5h][2d]
+*** RIVER *** [2s 6d 5h 2d][Qh]
+*** SHOW DOWN ***
+_SKR shows [Kd Ad] (One pair : 2)
+Jaavito shows [Js Jh] (Two pairs : Jacks and 2)
+Dikdik59 shows [Th Tc] (Two pairs : Tens and 2)
+Dikdik59 collected 46 from side pot 1
+Jaavito collected 801 from main pot
+*** SUMMARY ***
+Total pot 847 | No rake
+Board: [2s 6d 5h 2d Qh]
+Seat 1: Jaavito (button) showed [Js Jh] and won 801 with Two pairs : Jacks and 2
+Seat 2: Dikdik59 (small blind) showed [Th Tc] and won 46 with Two pairs : Tens and 2
+Seat 3: _SKR (big blind) showed [Kd Ad] and lost with One pair : 2
+
+

@@ -1,0 +1,201 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695172229703925761-1-1674997908 - Holdem no limit (10/20) - 2023/01/29 13:11:48 UTC
+Table: 'Expresso Nitro(627518685)#0' 3-max (real money) Seat #1 is the button
+Seat 1: EL26220 (300)
+Seat 2: virgicola (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+virgicola posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c 8h]
+*** PRE-FLOP *** 
+EL26220 calls 20
+virgicola calls 10
+_SKR checks
+*** FLOP *** [Kc Kh 8c]
+virgicola checks
+_SKR checks
+EL26220 checks
+*** TURN *** [Kc Kh 8c][2h]
+virgicola checks
+_SKR checks
+EL26220 checks
+*** RIVER *** [Kc Kh 8c 2h][Td]
+virgicola checks
+_SKR checks
+EL26220 bets 21
+virgicola folds
+_SKR folds
+EL26220 collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [Kc Kh 8c 2h Td]
+Seat 1: EL26220 (button) won 81
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695172229703925761-2-1674997951 - Holdem no limit (10/20) - 2023/01/29 13:12:31 UTC
+Table: 'Expresso Nitro(627518685)#0' 3-max (real money) Seat #2 is the button
+Seat 1: EL26220 (340)
+Seat 2: virgicola (280)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+EL26220 posts big blind 20
+Dealt to _SKR [6c 8d]
+*** PRE-FLOP *** 
+virgicola raises 260 to 280 and is all-in
+_SKR folds
+EL26220 calls 260
+*** FLOP *** [Tc 4h 4s]
+*** TURN *** [Tc 4h 4s][Jd]
+*** RIVER *** [Tc 4h 4s Jd][7d]
+*** SHOW DOWN ***
+EL26220 shows [9s Ts] (Two pairs : Tens and 4)
+virgicola shows [4c Ah] (Trips of 4)
+virgicola collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Tc 4h 4s Jd 7d]
+Seat 1: EL26220 (big blind) showed [9s Ts] and lost with Two pairs : Tens and 4
+Seat 2: virgicola (button) showed [4c Ah] and won 570 with Trips of 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695172229703925761-3-1674997968 - Holdem no limit (15/30) - 2023/01/29 13:12:48 UTC
+Table: 'Expresso Nitro(627518685)#0' 3-max (real money) Seat #3 is the button
+Seat 1: EL26220 (60)
+Seat 2: virgicola (570)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+EL26220 posts small blind 15
+virgicola posts big blind 30
+Dealt to _SKR [5s 6s]
+*** PRE-FLOP *** 
+_SKR folds
+EL26220 calls 15
+virgicola raises 45 to 75
+EL26220 calls 30 and is all-in
+*** FLOP *** [5d 9d 2d]
+*** TURN *** [5d 9d 2d][Jh]
+*** RIVER *** [5d 9d 2d Jh][6c]
+*** SHOW DOWN ***
+EL26220 shows [7d 9c] (One pair : 9)
+virgicola shows [2c Kd] (One pair : 2)
+virgicola collected 15 from side pot 1
+EL26220 collected 120 from main pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [5d 9d 2d Jh 6c]
+Seat 1: EL26220 (small blind) showed [7d 9c] and won 120 with One pair : 9
+Seat 2: virgicola (big blind) showed [2c Kd] and won 15 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695172229703925761-4-1674997991 - Holdem no limit (15/30) - 2023/01/29 13:13:11 UTC
+Table: 'Expresso Nitro(627518685)#0' 3-max (real money) Seat #1 is the button
+Seat 1: EL26220 (120)
+Seat 2: virgicola (510)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+virgicola posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc Ac]
+*** PRE-FLOP *** 
+EL26220 raises 90 to 120 and is all-in
+virgicola folds
+_SKR calls 90
+*** FLOP *** [Ks 2c 2s]
+*** TURN *** [Ks 2c 2s][7h]
+*** RIVER *** [Ks 2c 2s 7h][Qh]
+*** SHOW DOWN ***
+EL26220 shows [Jh 3d] (One pair : 2)
+_SKR shows [Kc Ac] (Two pairs : Kings and 2)
+_SKR collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Board: [Ks 2c 2s 7h Qh]
+Seat 1: EL26220 (button) showed [Jh 3d] and lost with One pair : 2
+Seat 3: _SKR (big blind) showed [Kc Ac] and won 255 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695172229703925761-5-1674998009 - Holdem no limit (15/30) - 2023/01/29 13:13:29 UTC
+Table: 'Expresso Nitro(627518685)#0' 3-max (real money) Seat #3 is the button
+Seat 2: virgicola (495)
+Seat 3: _SKR (405)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+virgicola posts big blind 30
+Dealt to _SKR [Js 7s]
+*** PRE-FLOP *** 
+_SKR calls 15
+virgicola raises 465 to 495 and is all-in
+_SKR folds
+virgicola collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Seat 2: virgicola (big blind) won 525
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695172229703925761-6-1674998020 - Holdem no limit (15/30) - 2023/01/29 13:13:40 UTC
+Table: 'Expresso Nitro(627518685)#0' 3-max (real money) Seat #2 is the button
+Seat 2: virgicola (525)
+Seat 3: _SKR (375)
+*** ANTE/BLINDS ***
+virgicola posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th 6c]
+*** PRE-FLOP *** 
+virgicola folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695172229703925761-7-1674998024 - Holdem no limit (20/40) - 2023/01/29 13:13:44 UTC
+Table: 'Expresso Nitro(627518685)#0' 3-max (real money) Seat #3 is the button
+Seat 2: virgicola (510)
+Seat 3: _SKR (390)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+virgicola posts big blind 40
+Dealt to _SKR [Ks Qs]
+*** PRE-FLOP *** 
+_SKR raises 350 to 390 and is all-in
+virgicola calls 350
+*** FLOP *** [Jc 6c 6h]
+*** TURN *** [Jc 6c 6h][5s]
+*** RIVER *** [Jc 6c 6h 5s][Kc]
+*** SHOW DOWN ***
+virgicola shows [Kd 8c] (Two pairs : Kings and 6)
+_SKR shows [Ks Qs] (Two pairs : Kings and 6)
+_SKR collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Jc 6c 6h 5s Kc]
+Seat 2: virgicola (big blind) showed [Kd 8c] and lost with Two pairs : Kings and 6
+Seat 3: _SKR (small blind) (button) showed [Ks Qs] and won 780 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695172229703925761-8-1674998039 - Holdem no limit (20/40) - 2023/01/29 13:13:59 UTC
+Table: 'Expresso Nitro(627518685)#0' 3-max (real money) Seat #2 is the button
+Seat 2: virgicola (120)
+Seat 3: _SKR (780)
+*** ANTE/BLINDS ***
+virgicola posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kh 5d]
+*** PRE-FLOP *** 
+virgicola raises 80 to 120 and is all-in
+_SKR calls 80
+*** FLOP *** [5s 5c 6d]
+*** TURN *** [5s 5c 6d][9d]
+*** RIVER *** [5s 5c 6d 9d][Ac]
+*** SHOW DOWN ***
+virgicola shows [Jh 7s] (One pair : 5)
+_SKR shows [Kh 5d] (Trips of 5)
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5s 5c 6d 9d Ac]
+Seat 2: virgicola (small blind) (button) showed [Jh 7s] and lost with One pair : 5
+Seat 3: _SKR (big blind) showed [Kh 5d] and won 240 with Trips of 5
+
+

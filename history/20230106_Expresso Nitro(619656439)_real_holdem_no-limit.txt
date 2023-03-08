@@ -1,0 +1,118 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661404140260818945-1-1673011526 - Holdem no limit (10/20) - 2023/01/06 13:25:26 UTC
+Table: 'Expresso Nitro(619656439)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cobra8kai (300)
+Seat 2: Ev9cal5 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Ev9cal5 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 5c]
+*** PRE-FLOP *** 
+Cobra8kai calls 20
+Ev9cal5 calls 10
+_SKR checks
+*** FLOP *** [9h 3c 4h]
+Ev9cal5 bets 20
+_SKR folds
+Cobra8kai calls 20
+*** TURN *** [9h 3c 4h][4c]
+Ev9cal5 bets 35
+Cobra8kai folds
+Ev9cal5 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [9h 3c 4h 4c]
+Seat 2: Ev9cal5 (small blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661404140260818945-2-1673011548 - Holdem no limit (10/20) - 2023/01/06 13:25:48 UTC
+Table: 'Expresso Nitro(619656439)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cobra8kai (260)
+Seat 2: Ev9cal5 (360)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cobra8kai posts big blind 20
+Dealt to _SKR [2d 7d]
+*** PRE-FLOP *** 
+Ev9cal5 calls 20
+_SKR folds
+Cobra8kai checks
+*** FLOP *** [2c 3h 9c]
+Cobra8kai checks
+Ev9cal5 bets 20
+Cobra8kai raises 52 to 72
+Ev9cal5 raises 52 to 124
+Cobra8kai calls 52
+*** TURN *** [2c 3h 9c][4s]
+Cobra8kai checks
+Ev9cal5 bets 104
+Cobra8kai calls 104
+*** RIVER *** [2c 3h 9c 4s][Td]
+Cobra8kai checks
+Ev9cal5 bets 20
+Cobra8kai folds
+Ev9cal5 collected 526 from pot
+*** SUMMARY ***
+Total pot 526 | No rake
+Board: [2c 3h 9c 4s Td]
+Seat 2: Ev9cal5 (button) won 526
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661404140260818945-3-1673011571 - Holdem no limit (10/20) - 2023/01/06 13:26:11 UTC
+Table: 'Expresso Nitro(619656439)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cobra8kai (12)
+Seat 2: Ev9cal5 (618)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Cobra8kai posts small blind 10
+Ev9cal5 posts big blind 20
+Dealt to _SKR [9s Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Cobra8kai calls 2 and is all-in
+Ev9cal5 calls 20
+*** FLOP *** [3d 6d 4c]
+Ev9cal5 bets 20
+_SKR calls 20
+*** TURN *** [3d 6d 4c][4d]
+Ev9cal5 bets 46
+_SKR folds
+*** RIVER *** [3d 6d 4c 4d][5d]
+*** SHOW DOWN ***
+Cobra8kai shows [4h 7s] (Straight 7 high)
+Ev9cal5 shows [7d 8d] (Straight flush 8)
+Ev9cal5 collected 178 from pot
+*** SUMMARY ***
+Total pot 178 | No rake
+Board: [3d 6d 4c 4d 5d]
+Seat 1: Cobra8kai (small blind) showed [4h 7s] and lost with Straight 7 high
+Seat 2: Ev9cal5 (big blind) showed [7d 8d] and won 178 with Straight flush 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661404140260818945-4-1673011589 - Holdem no limit (15/30) - 2023/01/06 13:26:29 UTC
+Table: 'Expresso Nitro(619656439)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Ev9cal5 (690)
+Seat 3: _SKR (210)
+*** ANTE/BLINDS ***
+Ev9cal5 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc Ts]
+*** PRE-FLOP *** 
+Ev9cal5 calls 15
+_SKR raises 180 to 210 and is all-in
+Ev9cal5 calls 180
+*** FLOP *** [Jh Qd Ad]
+*** TURN *** [Jh Qd Ad][5h]
+*** RIVER *** [Jh Qd Ad 5h][8c]
+*** SHOW DOWN ***
+_SKR shows [Qc Ts] (One pair : Queens)
+Ev9cal5 shows [9d Ac] (One pair : Aces)
+Ev9cal5 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jh Qd Ad 5h 8c]
+Seat 2: Ev9cal5 (small blind) (button) showed [9d Ac] and won 420 with One pair : Aces
+Seat 3: _SKR (big blind) showed [Qc Ts] and lost with One pair : Queens
+
+

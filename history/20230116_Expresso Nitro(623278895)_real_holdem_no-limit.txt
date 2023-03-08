@@ -1,0 +1,418 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676962470312017921-1-1673870501 - Holdem no limit (10/20) - 2023/01/16 12:01:41 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tofmyla (300)
+Seat 2: _SKR (300)
+Seat 3: diram83 (300)
+*** ANTE/BLINDS ***
+diram83 posts small blind 10
+Tofmyla posts big blind 20
+Dealt to _SKR [9d 7h]
+*** PRE-FLOP *** 
+_SKR folds
+diram83 calls 10
+Tofmyla checks
+*** FLOP *** [4c 4h Tc]
+diram83 bets 280 and is all-in
+Tofmyla folds
+diram83 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [4c 4h Tc]
+Seat 3: diram83 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676962470312017921-2-1673870518 - Holdem no limit (10/20) - 2023/01/16 12:01:58 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Tofmyla (280)
+Seat 2: _SKR (300)
+Seat 3: diram83 (320)
+*** ANTE/BLINDS ***
+Tofmyla posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c 9s]
+*** PRE-FLOP *** 
+diram83 raises 300 to 320 and is all-in
+Tofmyla folds
+_SKR folds
+diram83 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: diram83 (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676962470312017921-3-1673870531 - Holdem no limit (10/20) - 2023/01/16 12:02:11 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tofmyla (270)
+Seat 2: _SKR (280)
+Seat 3: diram83 (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+diram83 posts big blind 20
+Dealt to _SKR [Js Tc]
+*** PRE-FLOP *** 
+Tofmyla raises 50 to 70
+_SKR folds
+diram83 calls 50
+*** FLOP *** [5d Jc 6d]
+diram83 checks
+Tofmyla checks
+*** TURN *** [5d Jc 6d][8c]
+diram83 checks
+Tofmyla bets 200 and is all-in
+diram83 calls 200
+*** RIVER *** [5d Jc 6d 8c][Kc]
+*** SHOW DOWN ***
+diram83 shows [8h Ac] (One pair : 8)
+Tofmyla shows [Jd Ad] (One pair : Jacks)
+Tofmyla collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [5d Jc 6d 8c Kc]
+Seat 1: Tofmyla (button) showed [Jd Ad] and won 550 with One pair : Jacks
+Seat 3: diram83 (big blind) showed [8h Ac] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676962470312017921-4-1673870555 - Holdem no limit (10/20) - 2023/01/16 12:02:35 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tofmyla (550)
+Seat 2: _SKR (270)
+Seat 3: diram83 (80)
+*** ANTE/BLINDS ***
+diram83 posts small blind 10
+Tofmyla posts big blind 20
+Dealt to _SKR [8s Ks]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+diram83 folds
+Tofmyla calls 20
+*** FLOP *** [2d Jh 5s]
+Tofmyla checks
+_SKR bets 32
+Tofmyla folds
+_SKR collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [2d Jh 5s]
+Seat 2: _SKR (button) won 122
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676962470312017921-5-1673870576 - Holdem no limit (15/30) - 2023/01/16 12:02:56 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Tofmyla (510)
+Seat 2: _SKR (320)
+Seat 3: diram83 (70)
+*** ANTE/BLINDS ***
+Tofmyla posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5h 3d]
+*** PRE-FLOP *** 
+diram83 raises 40 to 70 and is all-in
+Tofmyla raises 40 to 110
+_SKR folds
+*** FLOP *** [8h Ac Qh]
+*** TURN *** [8h Ac Qh][Tc]
+*** RIVER *** [8h Ac Qh Tc][5c]
+*** SHOW DOWN ***
+diram83 shows [2s 2d] (One pair : 2)
+Tofmyla shows [Jc Qc] (Flush Ace high)
+Tofmyla collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [8h Ac Qh Tc 5c]
+Seat 1: Tofmyla (small blind) showed [Jc Qc] and won 210 with Flush Ace high
+Seat 3: diram83 (button) showed [2s 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676962470312017921-6-1673870591 - Holdem no limit (15/30) - 2023/01/16 12:03:11 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tofmyla (610)
+Seat 2: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Tofmyla posts big blind 30
+Dealt to _SKR [6s 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Tofmyla collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Tofmyla (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676962470312017921-7-1673870595 - Holdem no limit (15/30) - 2023/01/16 12:03:15 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tofmyla (625)
+Seat 2: _SKR (275)
+*** ANTE/BLINDS ***
+Tofmyla posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h 2d]
+*** PRE-FLOP *** 
+Tofmyla calls 15
+_SKR checks
+*** FLOP *** [3c 6h 5h]
+_SKR checks
+Tofmyla bets 60
+_SKR folds
+Tofmyla collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3c 6h 5h]
+Seat 1: Tofmyla (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676962470312017921-8-1673870623 - Holdem no limit (20/40) - 2023/01/16 12:03:43 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tofmyla (655)
+Seat 2: _SKR (245)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Tofmyla posts big blind 40
+Dealt to _SKR [Ah 2s]
+*** PRE-FLOP *** 
+_SKR raises 205 to 245 and is all-in
+Tofmyla folds
+_SKR collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Seat 2: _SKR (small blind) (button) won 285
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676962470312017921-9-1673870632 - Holdem no limit (20/40) - 2023/01/16 12:03:52 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tofmyla (615)
+Seat 2: _SKR (285)
+*** ANTE/BLINDS ***
+Tofmyla posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qs 6s]
+*** PRE-FLOP *** 
+Tofmyla calls 20
+_SKR checks
+*** FLOP *** [6d Tc Ad]
+_SKR checks
+Tofmyla checks
+*** TURN *** [6d Tc Ad][5d]
+_SKR checks
+Tofmyla checks
+*** RIVER *** [6d Tc Ad 5d][Ah]
+_SKR checks
+Tofmyla bets 40
+_SKR folds
+Tofmyla collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6d Tc Ad 5d Ah]
+Seat 1: Tofmyla (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676962470312017921-10-1673870679 - Holdem no limit (30/60) - 2023/01/16 12:04:39 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tofmyla (655)
+Seat 2: _SKR (245)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Tofmyla posts big blind 60
+Dealt to _SKR [3h Td]
+*** PRE-FLOP *** 
+_SKR folds
+Tofmyla collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Tofmyla (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676962470312017921-11-1673870683 - Holdem no limit (30/60) - 2023/01/16 12:04:43 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tofmyla (685)
+Seat 2: _SKR (215)
+*** ANTE/BLINDS ***
+Tofmyla posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8h 4h]
+*** PRE-FLOP *** 
+Tofmyla raises 625 to 685 and is all-in
+_SKR calls 155 and is all-in
+*** FLOP *** [Qc 9h 8s]
+*** TURN *** [Qc 9h 8s][Qs]
+*** RIVER *** [Qc 9h 8s Qs][7h]
+*** SHOW DOWN ***
+Tofmyla shows [4c 4s] (Two pairs : Queens and 4)
+_SKR shows [8h 4h] (Two pairs : Queens and 8)
+_SKR collected 430 from main pot
+Tofmyla collected 470 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc 9h 8s Qs 7h]
+Seat 1: Tofmyla (small blind) (button) showed [4c 4s] and won 470 with Two pairs : Queens and 4
+Seat 2: _SKR (big blind) showed [8h 4h] and won 430 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676962470312017921-12-1673870696 - Holdem no limit (30/60) - 2023/01/16 12:04:56 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tofmyla (470)
+Seat 2: _SKR (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Tofmyla posts big blind 60
+Dealt to _SKR [5h 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Tofmyla collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Tofmyla (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676962470312017921-13-1673870700 - Holdem no limit (30/60) - 2023/01/16 12:05:00 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tofmyla (500)
+Seat 2: _SKR (400)
+*** ANTE/BLINDS ***
+Tofmyla posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c As]
+*** PRE-FLOP *** 
+Tofmyla calls 30
+_SKR raises 340 to 400 and is all-in
+Tofmyla folds
+_SKR collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 2: _SKR (big blind) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676962470312017921-14-1673870712 - Holdem no limit (30/60) - 2023/01/16 12:05:12 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tofmyla (440)
+Seat 2: _SKR (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Tofmyla posts big blind 60
+Dealt to _SKR [Kc 7c]
+*** PRE-FLOP *** 
+_SKR raises 400 to 460 and is all-in
+Tofmyla folds
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 2: _SKR (small blind) (button) won 520
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676962470312017921-15-1673870722 - Holdem no limit (30/60) - 2023/01/16 12:05:22 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tofmyla (380)
+Seat 2: _SKR (520)
+*** ANTE/BLINDS ***
+Tofmyla posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c Js]
+*** PRE-FLOP *** 
+Tofmyla raises 60 to 120
+_SKR calls 60
+*** FLOP *** [7d 4d 6h]
+_SKR checks
+Tofmyla bets 260 and is all-in
+_SKR folds
+Tofmyla collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [7d 4d 6h]
+Seat 1: Tofmyla (small blind) (button) won 500
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676962470312017921-16-1673870735 - Holdem no limit (30/60) - 2023/01/16 12:05:35 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tofmyla (500)
+Seat 2: _SKR (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Tofmyla posts big blind 60
+Dealt to _SKR [As Ah]
+*** PRE-FLOP *** 
+_SKR calls 30
+Tofmyla raises 120 to 180
+_SKR raises 220 to 400 and is all-in
+Tofmyla raises 100 to 500 and is all-in
+*** FLOP *** [8c Qc Ts]
+*** TURN *** [8c Qc Ts][2s]
+*** RIVER *** [8c Qc Ts 2s][9d]
+*** SHOW DOWN ***
+Tofmyla shows [2c Ac] (One pair : 2)
+_SKR shows [As Ah] (One pair : Aces)
+_SKR collected 800 from main pot
+Tofmyla collected 100 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8c Qc Ts 2s 9d]
+Seat 1: Tofmyla (big blind) showed [2c Ac] and won 100 with One pair : 2
+Seat 2: _SKR (small blind) (button) showed [As Ah] and won 800 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676962470312017921-17-1673870753 - Holdem no limit (40/80) - 2023/01/16 12:05:53 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tofmyla (100)
+Seat 2: _SKR (800)
+*** ANTE/BLINDS ***
+Tofmyla posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [7d 9h]
+*** PRE-FLOP *** 
+Tofmyla raises 20 to 100 and is all-in
+_SKR calls 20
+*** FLOP *** [7h 5d Jd]
+*** TURN *** [7h 5d Jd][Jh]
+*** RIVER *** [7h 5d Jd Jh][7c]
+*** SHOW DOWN ***
+_SKR shows [7d 9h] (Full of 7 and Jacks)
+Tofmyla shows [3c Jc] (Full of Jacks and 7)
+Tofmyla collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [7h 5d Jd Jh 7c]
+Seat 1: Tofmyla (small blind) (button) showed [3c Jc] and won 200 with Full of Jacks and 7
+Seat 2: _SKR (big blind) showed [7d 9h] and lost with Full of 7 and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676962470312017921-18-1673870767 - Holdem no limit (40/80) - 2023/01/16 12:06:07 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tofmyla (200)
+Seat 2: _SKR (700)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Tofmyla posts big blind 80
+Dealt to _SKR [4s Ts]
+*** PRE-FLOP *** 
+_SKR raises 620 to 700 and is all-in
+Tofmyla folds
+_SKR collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 2: _SKR (small blind) (button) won 780
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676962470312017921-19-1673870774 - Holdem no limit (40/80) - 2023/01/16 12:06:14 UTC
+Table: 'Expresso Nitro(623278895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tofmyla (120)
+Seat 2: _SKR (780)
+*** ANTE/BLINDS ***
+Tofmyla posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [5d 8h]
+*** PRE-FLOP *** 
+Tofmyla raises 40 to 120 and is all-in
+_SKR calls 40
+*** FLOP *** [Jc Ac Qd]
+*** TURN *** [Jc Ac Qd][4h]
+*** RIVER *** [Jc Ac Qd 4h][2h]
+*** SHOW DOWN ***
+Tofmyla shows [6c 7d] (High card : Ace)
+_SKR shows [5d 8h] (High card : Ace)
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jc Ac Qd 4h 2h]
+Seat 1: Tofmyla (small blind) (button) showed [6c 7d] and lost with High card : Ace
+Seat 2: _SKR (big blind) showed [5d 8h] and won 240 with High card : Ace
+
+

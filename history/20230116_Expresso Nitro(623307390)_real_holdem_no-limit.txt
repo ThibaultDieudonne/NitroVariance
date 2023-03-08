@@ -1,0 +1,118 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677084855405117441-1-1673876425 - Holdem no limit (10/20) - 2023/01/16 13:40:25 UTC
+Table: 'Expresso Nitro(623307390)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Galthran (300)
+Seat 3: Jackyz18 (300)
+*** ANTE/BLINDS ***
+Jackyz18 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js Qh]
+*** PRE-FLOP *** 
+Galthran folds
+Jackyz18 calls 10
+_SKR checks
+*** FLOP *** [Ks 3c 6s]
+Jackyz18 bets 20
+_SKR folds
+Jackyz18 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ks 3c 6s]
+Seat 3: Jackyz18 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677084855405117441-2-1673876444 - Holdem no limit (10/20) - 2023/01/16 13:40:44 UTC
+Table: 'Expresso Nitro(623307390)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Galthran (300)
+Seat 3: Jackyz18 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Galthran posts big blind 20
+Dealt to _SKR [Jc 5h]
+*** PRE-FLOP *** 
+Jackyz18 folds
+_SKR folds
+Galthran collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Galthran (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677084855405117441-3-1673876458 - Holdem no limit (10/20) - 2023/01/16 13:40:58 UTC
+Table: 'Expresso Nitro(623307390)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Galthran (310)
+Seat 3: Jackyz18 (320)
+*** ANTE/BLINDS ***
+Galthran posts small blind 10
+Jackyz18 posts big blind 20
+Dealt to _SKR [Kh 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Galthran raises 20 to 40
+Jackyz18 calls 20
+*** FLOP *** [5d 3h Ac]
+Galthran bets 20
+Jackyz18 calls 20
+*** TURN *** [5d 3h Ac][4h]
+Galthran bets 30
+Jackyz18 folds
+Galthran collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [5d 3h Ac 4h]
+Seat 2: Galthran (small blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677084855405117441-4-1673876499 - Holdem no limit (15/30) - 2023/01/16 13:41:39 UTC
+Table: 'Expresso Nitro(623307390)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Galthran (370)
+Seat 3: Jackyz18 (260)
+*** ANTE/BLINDS ***
+Jackyz18 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4s 9h]
+*** PRE-FLOP *** 
+Galthran folds
+Jackyz18 calls 15
+_SKR checks
+*** FLOP *** [8h 2c Kh]
+Jackyz18 bets 30
+_SKR folds
+Jackyz18 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [8h 2c Kh]
+Seat 3: Jackyz18 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677084855405117441-5-1673876518 - Holdem no limit (15/30) - 2023/01/16 13:41:58 UTC
+Table: 'Expresso Nitro(623307390)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (240)
+Seat 2: Galthran (370)
+Seat 3: Jackyz18 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Galthran posts big blind 30
+Dealt to _SKR [Tc Td]
+*** PRE-FLOP *** 
+Jackyz18 raises 30 to 60
+_SKR raises 180 to 240 and is all-in
+Galthran folds
+Jackyz18 raises 50 to 290 and is all-in
+*** FLOP *** [9h Ac 3d]
+*** TURN *** [9h Ac 3d][2c]
+*** RIVER *** [9h Ac 3d 2c][9c]
+*** SHOW DOWN ***
+_SKR shows [Tc Td] (Two pairs : Tens and 9)
+Jackyz18 shows [3h 3c] (Full of 3 and 9)
+Jackyz18 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9h Ac 3d 2c 9c]
+Seat 1: _SKR (small blind) showed [Tc Td] and lost with Two pairs : Tens and 9
+Seat 3: Jackyz18 (button) showed [3h 3c] and won 560 with Full of 3 and 9
+
+

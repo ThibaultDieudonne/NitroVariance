@@ -1,0 +1,454 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676293980127232001-1-1673819661 - Holdem no limit (10/20) - 2023/01/15 21:54:21 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Nico 7789 (300)
+Seat 3: PtitPicon (300)
+*** ANTE/BLINDS ***
+PtitPicon posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td 7h]
+*** PRE-FLOP *** 
+Nico 7789 calls 20
+PtitPicon calls 10
+_SKR checks
+*** FLOP *** [As 9h 3h]
+PtitPicon checks
+_SKR checks
+Nico 7789 bets 39
+PtitPicon folds
+_SKR folds
+Nico 7789 collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [As 9h 3h]
+Seat 2: Nico 7789 (button) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676293980127232001-2-1673819696 - Holdem no limit (10/20) - 2023/01/15 21:54:56 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Nico 7789 (340)
+Seat 3: PtitPicon (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Nico 7789 posts big blind 20
+Dealt to _SKR [As 7c]
+*** PRE-FLOP *** 
+PtitPicon raises 20 to 40
+_SKR folds
+Nico 7789 calls 20
+*** FLOP *** [3s Kd 7s]
+Nico 7789 checks
+PtitPicon checks
+*** TURN *** [3s Kd 7s][2c]
+Nico 7789 checks
+PtitPicon checks
+*** RIVER *** [3s Kd 7s 2c][Kh]
+Nico 7789 checks
+PtitPicon checks
+*** SHOW DOWN ***
+Nico 7789 shows [Js 5d] (One pair : Kings)
+PtitPicon shows [Qh Ah] (One pair : Kings)
+PtitPicon collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [3s Kd 7s 2c Kh]
+Seat 2: Nico 7789 (big blind) showed [Js 5d] and lost with One pair : Kings
+Seat 3: PtitPicon (button) showed [Qh Ah] and won 90 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676293980127232001-3-1673819728 - Holdem no limit (15/30) - 2023/01/15 21:55:28 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Nico 7789 (300)
+Seat 3: PtitPicon (330)
+*** ANTE/BLINDS ***
+Nico 7789 posts small blind 15
+PtitPicon posts big blind 30
+Dealt to _SKR [Jc 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Nico 7789 raises 270 to 300 and is all-in
+PtitPicon folds
+Nico 7789 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Nico 7789 (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676293980127232001-4-1673819737 - Holdem no limit (15/30) - 2023/01/15 21:55:37 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Nico 7789 (330)
+Seat 3: PtitPicon (300)
+*** ANTE/BLINDS ***
+PtitPicon posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5s As]
+*** PRE-FLOP *** 
+Nico 7789 calls 30
+PtitPicon calls 15
+_SKR raises 240 to 270 and is all-in
+Nico 7789 calls 240
+PtitPicon folds
+*** FLOP *** [9s Ks 4d]
+*** TURN *** [9s Ks 4d][4s]
+*** RIVER *** [9s Ks 4d 4s][7h]
+*** SHOW DOWN ***
+Nico 7789 shows [Qs Jh] (One pair : 4)
+_SKR shows [5s As] (Flush Ace high)
+_SKR collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [9s Ks 4d 4s 7h]
+Seat 1: _SKR (big blind) showed [5s As] and won 570 with Flush Ace high
+Seat 2: Nico 7789 (button) showed [Qs Jh] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676293980127232001-5-1673819761 - Holdem no limit (15/30) - 2023/01/15 21:56:01 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (570)
+Seat 2: Nico 7789 (60)
+Seat 3: PtitPicon (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Nico 7789 posts big blind 30
+Dealt to _SKR [4d 9s]
+*** PRE-FLOP *** 
+PtitPicon raises 30 to 60
+_SKR folds
+Nico 7789 calls 30 and is all-in
+*** FLOP *** [3c 3d 4s]
+*** TURN *** [3c 3d 4s][9h]
+*** RIVER *** [3c 3d 4s 9h][Jc]
+*** SHOW DOWN ***
+Nico 7789 shows [2s 8c] (One pair : 3)
+PtitPicon shows [7d Ah] (One pair : 3)
+PtitPicon collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [3c 3d 4s 9h Jc]
+Seat 2: Nico 7789 (big blind) showed [2s 8c] and lost with One pair : 3
+Seat 3: PtitPicon (button) showed [7d Ah] and won 135 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676293980127232001-6-1673819777 - Holdem no limit (20/40) - 2023/01/15 21:56:17 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (555)
+Seat 3: PtitPicon (345)
+*** ANTE/BLINDS ***
+PtitPicon posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2d 7h]
+*** PRE-FLOP *** 
+PtitPicon calls 20
+_SKR checks
+*** FLOP *** [2c Qc As]
+_SKR checks
+PtitPicon checks
+*** TURN *** [2c Qc As][5s]
+_SKR checks
+PtitPicon checks
+*** RIVER *** [2c Qc As 5s][9h]
+_SKR checks
+PtitPicon bets 52
+_SKR calls 52
+*** SHOW DOWN ***
+_SKR shows [2d 7h] (One pair : 2)
+PtitPicon shows [9c Ts] (One pair : 9)
+PtitPicon collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [2c Qc As 5s 9h]
+Seat 1: _SKR (big blind) showed [2d 7h] and lost with One pair : 2
+Seat 3: PtitPicon (small blind) (button) showed [9c Ts] and won 184 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676293980127232001-7-1673819809 - Holdem no limit (20/40) - 2023/01/15 21:56:49 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (463)
+Seat 3: PtitPicon (437)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+PtitPicon posts big blind 40
+Dealt to _SKR [6s 9h]
+*** PRE-FLOP *** 
+_SKR folds
+PtitPicon collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: PtitPicon (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676293980127232001-8-1673819813 - Holdem no limit (20/40) - 2023/01/15 21:56:53 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (443)
+Seat 3: PtitPicon (457)
+*** ANTE/BLINDS ***
+PtitPicon posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2h 5s]
+*** PRE-FLOP *** 
+PtitPicon calls 20
+_SKR checks
+*** FLOP *** [9c 5c 2s]
+_SKR checks
+PtitPicon bets 52
+_SKR raises 66 to 118
+PtitPicon calls 66
+*** TURN *** [9c 5c 2s][4h]
+_SKR bets 111
+PtitPicon folds
+_SKR collected 427 from pot
+*** SUMMARY ***
+Total pot 427 | No rake
+Board: [9c 5c 2s 4h]
+Seat 1: _SKR (big blind) won 427
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676293980127232001-9-1673819857 - Holdem no limit (30/60) - 2023/01/15 21:57:37 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (601)
+Seat 3: PtitPicon (299)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+PtitPicon posts big blind 60
+Dealt to _SKR [8d Js]
+*** PRE-FLOP *** 
+_SKR raises 541 to 601 and is all-in
+PtitPicon folds
+_SKR collected 661 from pot
+*** SUMMARY ***
+Total pot 661 | No rake
+Seat 1: _SKR (small blind) (button) won 661
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676293980127232001-10-1673819862 - Holdem no limit (30/60) - 2023/01/15 21:57:42 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (661)
+Seat 3: PtitPicon (239)
+*** ANTE/BLINDS ***
+PtitPicon posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9d 3d]
+*** PRE-FLOP *** 
+PtitPicon calls 30
+_SKR checks
+*** FLOP *** [Ks 7h Qs]
+_SKR checks
+PtitPicon checks
+*** TURN *** [Ks 7h Qs][5h]
+_SKR checks
+PtitPicon checks
+*** RIVER *** [Ks 7h Qs 5h][2h]
+_SKR checks
+PtitPicon checks
+*** SHOW DOWN ***
+_SKR shows [9d 3d] (High card : King)
+PtitPicon shows [8c Ts] (High card : King)
+PtitPicon collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ks 7h Qs 5h 2h]
+Seat 1: _SKR (big blind) showed [9d 3d] and lost with High card : King
+Seat 3: PtitPicon (small blind) (button) showed [8c Ts] and won 120 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676293980127232001-11-1673819891 - Holdem no limit (30/60) - 2023/01/15 21:58:11 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (601)
+Seat 3: PtitPicon (299)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+PtitPicon posts big blind 60
+Dealt to _SKR [7c 2h]
+*** PRE-FLOP *** 
+_SKR folds
+PtitPicon collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: PtitPicon (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676293980127232001-12-1673819895 - Holdem no limit (30/60) - 2023/01/15 21:58:15 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (571)
+Seat 3: PtitPicon (329)
+*** ANTE/BLINDS ***
+PtitPicon posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9c 6h]
+*** PRE-FLOP *** 
+PtitPicon calls 30
+_SKR checks
+*** FLOP *** [6c As 4c]
+_SKR checks
+PtitPicon checks
+*** TURN *** [6c As 4c][8s]
+_SKR checks
+PtitPicon checks
+*** RIVER *** [6c As 4c 8s][3h]
+_SKR checks
+PtitPicon checks
+*** SHOW DOWN ***
+PtitPicon shows [Kd 7s] (High card : Ace)
+_SKR shows [9c 6h] (One pair : 6)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6c As 4c 8s 3h]
+Seat 1: _SKR (big blind) showed [9c 6h] and won 120 with One pair : 6
+Seat 3: PtitPicon (small blind) (button) showed [Kd 7s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676293980127232001-13-1673819922 - Holdem no limit (40/80) - 2023/01/15 21:58:42 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (631)
+Seat 3: PtitPicon (269)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+PtitPicon posts big blind 80
+Dealt to _SKR [3d 5d]
+*** PRE-FLOP *** 
+_SKR folds
+PtitPicon collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: PtitPicon (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676293980127232001-14-1673819926 - Holdem no limit (40/80) - 2023/01/15 21:58:46 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (591)
+Seat 3: PtitPicon (309)
+*** ANTE/BLINDS ***
+PtitPicon posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [As Td]
+*** PRE-FLOP *** 
+PtitPicon raises 229 to 309 and is all-in
+_SKR raises 229 to 538
+*** FLOP *** [7d 9h Kh]
+*** TURN *** [7d 9h Kh][2h]
+*** RIVER *** [7d 9h Kh 2h][5s]
+*** SHOW DOWN ***
+_SKR shows [As Td] (High card : Ace)
+PtitPicon shows [6s 6c] (One pair : 6)
+PtitPicon collected 618 from main pot
+_SKR collected 229 from side pot 1
+*** SUMMARY ***
+Total pot 847 | No rake
+Board: [7d 9h Kh 2h 5s]
+Seat 1: _SKR (big blind) showed [As Td] and won 229 with High card : Ace
+Seat 3: PtitPicon (small blind) (button) showed [6s 6c] and won 618 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676293980127232001-15-1673819940 - Holdem no limit (40/80) - 2023/01/15 21:59:00 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (282)
+Seat 3: PtitPicon (618)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+PtitPicon posts big blind 80
+Dealt to _SKR [2s 3s]
+*** PRE-FLOP *** 
+_SKR folds
+PtitPicon collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: PtitPicon (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676293980127232001-16-1673819943 - Holdem no limit (40/80) - 2023/01/15 21:59:03 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (242)
+Seat 3: PtitPicon (658)
+*** ANTE/BLINDS ***
+PtitPicon posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [5s 2h]
+*** PRE-FLOP *** 
+PtitPicon raises 80 to 160
+_SKR folds
+PtitPicon collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: PtitPicon (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676293980127232001-17-1673819955 - Holdem no limit (40/80) - 2023/01/15 21:59:15 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (162)
+Seat 3: PtitPicon (738)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+PtitPicon posts big blind 80
+Dealt to _SKR [3d Qh]
+*** PRE-FLOP *** 
+_SKR raises 82 to 162 and is all-in
+PtitPicon folds
+_SKR collected 242 from pot
+*** SUMMARY ***
+Total pot 242 | No rake
+Seat 1: _SKR (small blind) (button) won 242
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676293980127232001-18-1673819963 - Holdem no limit (50/100) - 2023/01/15 21:59:23 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (242)
+Seat 3: PtitPicon (658)
+*** ANTE/BLINDS ***
+PtitPicon posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [Kc 8c]
+*** PRE-FLOP *** 
+PtitPicon folds
+_SKR collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: _SKR (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676293980127232001-19-1673819967 - Holdem no limit (50/100) - 2023/01/15 21:59:27 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (292)
+Seat 3: PtitPicon (608)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+PtitPicon posts big blind 100
+Dealt to _SKR [Ah 2s]
+*** PRE-FLOP *** 
+_SKR raises 192 to 292 and is all-in
+PtitPicon folds
+_SKR collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | No rake
+Seat 1: _SKR (small blind) (button) won 392
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676293980127232001-20-1673819974 - Holdem no limit (50/100) - 2023/01/15 21:59:34 UTC
+Table: 'Expresso Nitro(623123250)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (392)
+Seat 3: PtitPicon (508)
+*** ANTE/BLINDS ***
+PtitPicon posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [6h 6d]
+*** PRE-FLOP *** 
+PtitPicon raises 100 to 200
+_SKR raises 192 to 392 and is all-in
+PtitPicon calls 192
+*** FLOP *** [9s 2d 4s]
+*** TURN *** [9s 2d 4s][3h]
+*** RIVER *** [9s 2d 4s 3h][4h]
+*** SHOW DOWN ***
+_SKR shows [6h 6d] (Two pairs : 6 and 4)
+PtitPicon shows [9d Kd] (Two pairs : 9 and 4)
+PtitPicon collected 784 from pot
+*** SUMMARY ***
+Total pot 784 | No rake
+Board: [9s 2d 4s 3h 4h]
+Seat 1: _SKR (big blind) showed [6h 6d] and lost with Two pairs : 6 and 4
+Seat 3: PtitPicon (small blind) (button) showed [9d Kd] and won 784 with Two pairs : 9 and 4
+
+

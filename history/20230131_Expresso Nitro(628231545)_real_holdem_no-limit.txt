@@ -1,0 +1,365 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698233940090552321-1-1675186701 - Holdem no limit (10/20) - 2023/01/31 17:38:21 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lenahat (300)
+Seat 2: _SKR (300)
+Seat 3: Funzy57 (300)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 10
+lenahat posts big blind 20
+Dealt to _SKR [5c 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Funzy57 calls 10
+lenahat raises 280 to 300 and is all-in
+Funzy57 folds
+lenahat collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: lenahat (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698233940090552321-2-1675186713 - Holdem no limit (10/20) - 2023/01/31 17:38:33 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #3 is the button
+Seat 1: lenahat (320)
+Seat 2: _SKR (300)
+Seat 3: Funzy57 (280)
+*** ANTE/BLINDS ***
+lenahat posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h Jc]
+*** PRE-FLOP *** 
+Funzy57 raises 260 to 280 and is all-in
+lenahat raises 40 to 320 and is all-in
+_SKR folds
+*** FLOP *** [9c 6c Kh]
+*** TURN *** [9c 6c Kh][2s]
+*** RIVER *** [9c 6c Kh 2s][Td]
+*** SHOW DOWN ***
+lenahat shows [5h As] (High card : Ace)
+Funzy57 shows [6h Ad] (One pair : 6)
+Funzy57 collected 580 from main pot
+lenahat collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9c 6c Kh 2s Td]
+Seat 1: lenahat (small blind) showed [5h As] and won 40 with High card : Ace
+Seat 3: Funzy57 (button) showed [6h Ad] and won 580 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698233940090552321-3-1675186730 - Holdem no limit (10/20) - 2023/01/31 17:38:50 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lenahat (40)
+Seat 2: _SKR (280)
+Seat 3: Funzy57 (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Funzy57 posts big blind 20
+Dealt to _SKR [2s 5s]
+*** PRE-FLOP *** 
+lenahat raises 20 to 40 and is all-in
+_SKR folds
+Funzy57 calls 20
+*** FLOP *** [Td As Jh]
+*** TURN *** [Td As Jh][5c]
+*** RIVER *** [Td As Jh 5c][7h]
+*** SHOW DOWN ***
+Funzy57 shows [2h 4h] (High card : Ace)
+lenahat shows [Qh 4c] (High card : Ace)
+lenahat collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Td As Jh 5c 7h]
+Seat 1: lenahat (button) showed [Qh 4c] and won 90 with High card : Ace
+Seat 3: Funzy57 (big blind) showed [2h 4h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698233940090552321-4-1675186748 - Holdem no limit (10/20) - 2023/01/31 17:39:08 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lenahat (90)
+Seat 2: _SKR (270)
+Seat 3: Funzy57 (540)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 10
+lenahat posts big blind 20
+Dealt to _SKR [Kh Qd]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Funzy57 folds
+lenahat folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: _SKR (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698233940090552321-5-1675186755 - Holdem no limit (10/20) - 2023/01/31 17:39:15 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #3 is the button
+Seat 1: lenahat (70)
+Seat 2: _SKR (300)
+Seat 3: Funzy57 (530)
+*** ANTE/BLINDS ***
+lenahat posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qd 3c]
+*** PRE-FLOP *** 
+Funzy57 raises 510 to 530 and is all-in
+lenahat calls 60 and is all-in
+_SKR folds
+*** FLOP *** [5h 6d 9c]
+*** TURN *** [5h 6d 9c][7s]
+*** RIVER *** [5h 6d 9c 7s][4h]
+*** SHOW DOWN ***
+lenahat shows [Ah 7c] (One pair : 7)
+Funzy57 shows [Ts Ks] (High card : King)
+Funzy57 collected 460 from side pot 1
+lenahat collected 160 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5h 6d 9c 7s 4h]
+Seat 1: lenahat (small blind) showed [Ah 7c] and won 160 with One pair : 7
+Seat 3: Funzy57 (button) showed [Ts Ks] and won 460 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698233940090552321-6-1675186769 - Holdem no limit (15/30) - 2023/01/31 17:39:29 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lenahat (160)
+Seat 2: _SKR (280)
+Seat 3: Funzy57 (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Funzy57 posts big blind 30
+Dealt to _SKR [Qs 3c]
+*** PRE-FLOP *** 
+lenahat raises 130 to 160 and is all-in
+_SKR folds
+Funzy57 raises 300 to 460 and is all-in
+*** FLOP *** [Tc 3d 4s]
+*** TURN *** [Tc 3d 4s][8s]
+*** RIVER *** [Tc 3d 4s 8s][Ad]
+*** SHOW DOWN ***
+lenahat shows [6h 5d] (High card : Ace)
+Funzy57 shows [As Th] (Two pairs : Aces and Tens)
+Funzy57 collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | No rake
+Board: [Tc 3d 4s 8s Ad]
+Seat 1: lenahat (button) showed [6h 5d] and lost with High card : Ace
+Seat 3: Funzy57 (big blind) showed [As Th] and won 635 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698233940090552321-7-1675186789 - Holdem no limit (15/30) - 2023/01/31 17:39:49 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (265)
+Seat 3: Funzy57 (635)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7h Kc]
+*** PRE-FLOP *** 
+Funzy57 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698233940090552321-8-1675186793 - Holdem no limit (15/30) - 2023/01/31 17:39:53 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (280)
+Seat 3: Funzy57 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Funzy57 posts big blind 30
+Dealt to _SKR [9c 8d]
+*** PRE-FLOP *** 
+_SKR folds
+Funzy57 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Funzy57 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698233940090552321-9-1675186797 - Holdem no limit (15/30) - 2023/01/31 17:39:57 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (265)
+Seat 3: Funzy57 (635)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2h 6h]
+*** PRE-FLOP *** 
+Funzy57 raises 605 to 635 and is all-in
+_SKR folds
+Funzy57 collected 665 from pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Seat 3: Funzy57 (small blind) (button) won 665
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698233940090552321-10-1675186803 - Holdem no limit (15/30) - 2023/01/31 17:40:03 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (235)
+Seat 3: Funzy57 (665)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Funzy57 posts big blind 30
+Dealt to _SKR [4c 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Funzy57 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Funzy57 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698233940090552321-11-1675186813 - Holdem no limit (15/30) - 2023/01/31 17:40:13 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (220)
+Seat 3: Funzy57 (680)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th Tc]
+*** PRE-FLOP *** 
+Funzy57 raises 650 to 680 and is all-in
+_SKR calls 190 and is all-in
+*** FLOP *** [3s 4d Ts]
+*** TURN *** [3s 4d Ts][Ad]
+*** RIVER *** [3s 4d Ts Ad][Jc]
+*** SHOW DOWN ***
+_SKR shows [Th Tc] (Trips of Tens)
+Funzy57 shows [4h 8h] (One pair : 4)
+Funzy57 collected 460 from side pot 1
+_SKR collected 440 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3s 4d Ts Ad Jc]
+Seat 2: _SKR (big blind) showed [Th Tc] and won 440 with Trips of Tens
+Seat 3: Funzy57 (small blind) (button) showed [4h 8h] and won 460 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698233940090552321-12-1675186830 - Holdem no limit (20/40) - 2023/01/31 17:40:30 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (440)
+Seat 3: Funzy57 (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Funzy57 posts big blind 40
+Dealt to _SKR [8s 9s]
+*** PRE-FLOP *** 
+_SKR raises 400 to 440 and is all-in
+Funzy57 folds
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 2: _SKR (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698233940090552321-13-1675186836 - Holdem no limit (20/40) - 2023/01/31 17:40:36 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (480)
+Seat 3: Funzy57 (420)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4d Kd]
+*** PRE-FLOP *** 
+Funzy57 raises 380 to 420 and is all-in
+_SKR folds
+Funzy57 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 3: Funzy57 (small blind) (button) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698233940090552321-14-1675186847 - Holdem no limit (20/40) - 2023/01/31 17:40:47 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (440)
+Seat 3: Funzy57 (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Funzy57 posts big blind 40
+Dealt to _SKR [5d Ts]
+*** PRE-FLOP *** 
+_SKR folds
+Funzy57 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Funzy57 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698233940090552321-15-1675186851 - Holdem no limit (20/40) - 2023/01/31 17:40:51 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (420)
+Seat 3: Funzy57 (480)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s Js]
+*** PRE-FLOP *** 
+Funzy57 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698233940090552321-16-1675186860 - Holdem no limit (20/40) - 2023/01/31 17:41:00 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (440)
+Seat 3: Funzy57 (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Funzy57 posts big blind 40
+Dealt to _SKR [Qd 8h]
+*** PRE-FLOP *** 
+_SKR raises 400 to 440 and is all-in
+Funzy57 folds
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 2: _SKR (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698233940090552321-17-1675186868 - Holdem no limit (20/40) - 2023/01/31 17:41:08 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (480)
+Seat 3: Funzy57 (420)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7d 8d]
+*** PRE-FLOP *** 
+Funzy57 raises 380 to 420 and is all-in
+_SKR folds
+Funzy57 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 3: Funzy57 (small blind) (button) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698233940090552321-18-1675186881 - Holdem no limit (30/60) - 2023/01/31 17:41:21 UTC
+Table: 'Expresso Nitro(628231545)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (440)
+Seat 3: Funzy57 (460)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Funzy57 posts big blind 60
+Dealt to _SKR [Jd Kc]
+*** PRE-FLOP *** 
+_SKR raises 380 to 440 and is all-in
+Funzy57 raises 20 to 460 and is all-in
+*** FLOP *** [2s 6d Ad]
+*** TURN *** [2s 6d Ad][6h]
+*** RIVER *** [2s 6d Ad 6h][9d]
+*** SHOW DOWN ***
+_SKR shows [Jd Kc] (One pair : 6)
+Funzy57 shows [Kd Ks] (Two pairs : Kings and 6)
+Funzy57 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2s 6d Ad 6h 9d]
+Seat 2: _SKR (small blind) (button) showed [Jd Kc] and lost with One pair : 6
+Seat 3: Funzy57 (big blind) showed [Kd Ks] and won 900 with Two pairs : Kings and 6
+
+

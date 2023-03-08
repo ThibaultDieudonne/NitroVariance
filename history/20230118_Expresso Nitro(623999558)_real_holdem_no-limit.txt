@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680057694328455169-1-1674050139 - Holdem no limit (10/20) - 2023/01/18 13:55:39 UTC
+Table: 'Expresso Nitro(623999558)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Abbe Pierre (300)
+Seat 2: _SKR (300)
+Seat 3: ZuCeviche (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ZuCeviche posts big blind 20
+Dealt to _SKR [Js 7s]
+*** PRE-FLOP *** 
+Abbe Pierre folds
+_SKR raises 20 to 40
+ZuCeviche raises 260 to 300 and is all-in
+_SKR folds
+ZuCeviche collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: ZuCeviche (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680057694328455169-2-1674050152 - Holdem no limit (10/20) - 2023/01/18 13:55:52 UTC
+Table: 'Expresso Nitro(623999558)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Abbe Pierre (300)
+Seat 2: _SKR (260)
+Seat 3: ZuCeviche (340)
+*** ANTE/BLINDS ***
+ZuCeviche posts small blind 10
+Abbe Pierre posts big blind 20
+Dealt to _SKR [7h 7d]
+*** PRE-FLOP *** 
+_SKR raises 240 to 260 and is all-in
+ZuCeviche calls 250
+Abbe Pierre folds
+*** FLOP *** [Tc 3s 9s]
+*** TURN *** [Tc 3s 9s][5d]
+*** RIVER *** [Tc 3s 9s 5d][Qc]
+*** SHOW DOWN ***
+_SKR shows [7h 7d] (One pair : 7)
+ZuCeviche shows [8d 9h] (One pair : 9)
+ZuCeviche collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Tc 3s 9s 5d Qc]
+Seat 2: _SKR (button) showed [7h 7d] and lost with One pair : 7
+Seat 3: ZuCeviche (small blind) showed [8d 9h] and won 540 with One pair : 9
+
+

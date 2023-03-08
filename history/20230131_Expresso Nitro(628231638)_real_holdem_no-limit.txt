@@ -1,0 +1,52 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698234339522510849-1-1675186702 - Holdem no limit (10/20) - 2023/01/31 17:38:22 UTC
+Table: 'Expresso Nitro(628231638)#0' 3-max (real money) Seat #1 is the button
+Seat 1: RonnieCBeau (300)
+Seat 2: Cule21 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Cule21 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 3c]
+*** PRE-FLOP *** 
+RonnieCBeau raises 280 to 300 and is all-in
+Cule21 calls 290 and is all-in
+_SKR folds
+*** FLOP *** [Js 3h 7c]
+*** TURN *** [Js 3h 7c][3d]
+*** RIVER *** [Js 3h 7c 3d][3s]
+*** SHOW DOWN ***
+RonnieCBeau shows [2d Ah] (Trips of 3)
+Cule21 shows [Td Ts] (Full of 3 and Tens)
+Cule21 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Js 3h 7c 3d 3s]
+Seat 1: RonnieCBeau (button) showed [2d Ah] and lost with Trips of 3
+Seat 2: Cule21 (small blind) showed [Td Ts] and won 620 with Full of 3 and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698234339522510849-2-1675186725 - Holdem no limit (10/20) - 2023/01/31 17:38:45 UTC
+Table: 'Expresso Nitro(628231638)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Cule21 (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cule21 posts big blind 20
+Dealt to _SKR [8h 8c]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+Cule21 raises 340 to 620 and is all-in
+*** FLOP *** [Qs 4c Ah]
+*** TURN *** [Qs 4c Ah][Tc]
+*** RIVER *** [Qs 4c Ah Tc][Jd]
+*** SHOW DOWN ***
+_SKR shows [8h 8c] (One pair : 8)
+Cule21 shows [Th Jc] (Two pairs : Jacks and Tens)
+Cule21 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qs 4c Ah Tc Jd]
+Seat 2: Cule21 (big blind) showed [Th Jc] and won 900 with Two pairs : Jacks and Tens
+Seat 3: _SKR (small blind) (button) showed [8h 8c] and lost with One pair : 8
+
+

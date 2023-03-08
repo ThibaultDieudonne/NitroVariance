@@ -1,0 +1,30 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698139321961021441-1-1675182492 - Holdem no limit (10/20) - 2023/01/31 16:28:12 UTC
+Table: 'Expresso Nitro(628209515)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: ak47mp (300)
+Seat 3: Driksou (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ak47mp posts big blind 20
+Dealt to _SKR [Qs Ks]
+*** PRE-FLOP *** 
+Driksou calls 20
+_SKR raises 280 to 300 and is all-in
+ak47mp calls 280 and is all-in
+Driksou calls 280 and is all-in
+*** FLOP *** [4s 8c Th]
+*** TURN *** [4s 8c Th][3c]
+*** RIVER *** [4s 8c Th 3c][7c]
+*** SHOW DOWN ***
+_SKR shows [Qs Ks] (High card : King)
+ak47mp shows [3s Ah] (One pair : 3)
+Driksou shows [Ac 5c] (Flush Ace high)
+Driksou collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 8c Th 3c 7c]
+Seat 1: _SKR (small blind) showed [Qs Ks] and lost with High card : King
+Seat 2: ak47mp (big blind) showed [3s Ah] and lost with One pair : 3
+Seat 3: Driksou (button) showed [Ac 5c] and won 900 with Flush Ace high
+
+

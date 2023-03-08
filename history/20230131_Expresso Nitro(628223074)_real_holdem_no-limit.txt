@@ -1,0 +1,179 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698197557422587905-1-1675185124 - Holdem no limit (10/20) - 2023/01/31 17:12:04 UTC
+Table: 'Expresso Nitro(628223074)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: moh9307 (300)
+Seat 3: Yayal15 (300)
+*** ANTE/BLINDS ***
+Yayal15 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4d 8h]
+*** PRE-FLOP *** 
+moh9307 folds
+Yayal15 calls 10
+_SKR checks
+*** FLOP *** [9c 9d 6d]
+Yayal15 checks
+_SKR checks
+*** TURN *** [9c 9d 6d][Ah]
+Yayal15 checks
+_SKR checks
+*** RIVER *** [9c 9d 6d Ah][4s]
+Yayal15 checks
+_SKR checks
+*** SHOW DOWN ***
+Yayal15 shows [3s 5d] (One pair : 9)
+_SKR shows [4d 8h] (Two pairs : 9 and 4)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [9c 9d 6d Ah 4s]
+Seat 1: _SKR (big blind) showed [4d 8h] and won 40 with Two pairs : 9 and 4
+Seat 3: Yayal15 (small blind) showed [3s 5d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698197557422587905-2-1675185180 - Holdem no limit (15/30) - 2023/01/31 17:13:00 UTC
+Table: 'Expresso Nitro(628223074)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: moh9307 (300)
+Seat 3: Yayal15 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+moh9307 posts big blind 30
+Dealt to _SKR [4s 9h]
+*** PRE-FLOP *** 
+Yayal15 folds
+_SKR folds
+moh9307 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: moh9307 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698197557422587905-3-1675185194 - Holdem no limit (15/30) - 2023/01/31 17:13:14 UTC
+Table: 'Expresso Nitro(628223074)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (305)
+Seat 2: moh9307 (315)
+Seat 3: Yayal15 (280)
+*** ANTE/BLINDS ***
+moh9307 posts small blind 15
+Yayal15 posts big blind 30
+Dealt to _SKR [Kc Kh]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+moh9307 folds
+Yayal15 folds
+_SKR collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 1: _SKR (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698197557422587905-4-1675185210 - Holdem no limit (15/30) - 2023/01/31 17:13:30 UTC
+Table: 'Expresso Nitro(628223074)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (350)
+Seat 2: moh9307 (300)
+Seat 3: Yayal15 (250)
+*** ANTE/BLINDS ***
+Yayal15 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8h 8c]
+*** PRE-FLOP *** 
+moh9307 raises 270 to 300 and is all-in
+Yayal15 folds
+_SKR raises 50 to 350 and is all-in
+*** FLOP *** [Jh 9d Qh]
+*** TURN *** [Jh 9d Qh][Js]
+*** RIVER *** [Jh 9d Qh Js][6d]
+*** SHOW DOWN ***
+_SKR shows [8h 8c] (Two pairs : Jacks and 8)
+moh9307 shows [Kc Qd] (Two pairs : Queens and Jacks)
+moh9307 collected 615 from main pot
+_SKR collected 50 from side pot 1
+*** SUMMARY ***
+Total pot 665 | No rake
+Board: [Jh 9d Qh Js 6d]
+Seat 1: _SKR (big blind) showed [8h 8c] and won 50 with Two pairs : Jacks and 8
+Seat 2: moh9307 (button) showed [Kc Qd] and won 615 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698197557422587905-5-1675185226 - Holdem no limit (15/30) - 2023/01/31 17:13:46 UTC
+Table: 'Expresso Nitro(628223074)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (50)
+Seat 2: moh9307 (615)
+Seat 3: Yayal15 (235)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+moh9307 posts big blind 30
+Dealt to _SKR [Jh 9h]
+*** PRE-FLOP *** 
+Yayal15 raises 205 to 235 and is all-in
+_SKR folds
+moh9307 raises 380 to 615 and is all-in
+*** FLOP *** [5s Jd Kh]
+*** TURN *** [5s Jd Kh][Ah]
+*** RIVER *** [5s Jd Kh Ah][Qs]
+*** SHOW DOWN ***
+moh9307 shows [8d 8h] (One pair : 8)
+Yayal15 shows [Qc Ts] (Straight Ace high)
+Yayal15 collected 485 from main pot
+moh9307 collected 380 from side pot 1
+*** SUMMARY ***
+Total pot 865 | No rake
+Board: [5s Jd Kh Ah Qs]
+Seat 2: moh9307 (big blind) showed [8d 8h] and won 380 with One pair : 8
+Seat 3: Yayal15 (button) showed [Qc Ts] and won 485 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698197557422587905-6-1675185240 - Holdem no limit (20/40) - 2023/01/31 17:14:00 UTC
+Table: 'Expresso Nitro(628223074)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (35)
+Seat 2: moh9307 (380)
+Seat 3: Yayal15 (485)
+*** ANTE/BLINDS ***
+moh9307 posts small blind 20
+Yayal15 posts big blind 40
+Dealt to _SKR [5h 7d]
+*** PRE-FLOP *** 
+_SKR folds
+moh9307 raises 340 to 380 and is all-in
+Yayal15 calls 340
+*** FLOP *** [Tc 6s 9d]
+*** TURN *** [Tc 6s 9d][7h]
+*** RIVER *** [Tc 6s 9d 7h][Jh]
+*** SHOW DOWN ***
+Yayal15 shows [2d As] (High card : Ace)
+moh9307 shows [Th 5c] (One pair : Tens)
+moh9307 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [Tc 6s 9d 7h Jh]
+Seat 2: moh9307 (small blind) showed [Th 5c] and won 760 with One pair : Tens
+Seat 3: Yayal15 (big blind) showed [2d As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698197557422587905-7-1675185255 - Holdem no limit (20/40) - 2023/01/31 17:14:15 UTC
+Table: 'Expresso Nitro(628223074)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (35)
+Seat 2: moh9307 (760)
+Seat 3: Yayal15 (105)
+*** ANTE/BLINDS ***
+Yayal15 posts small blind 20
+_SKR posts big blind 35 and is all-in
+Dealt to _SKR [Jh 3h]
+*** PRE-FLOP *** 
+moh9307 folds
+Yayal15 raises 70 to 105 and is all-in
+*** FLOP *** [9s 8s 8d]
+*** TURN *** [9s 8s 8d][Tc]
+*** RIVER *** [9s 8s 8d Tc][6d]
+*** SHOW DOWN ***
+_SKR shows [Jh 3h] (One pair : 8)
+Yayal15 shows [Ts 9c] (Two pairs : Tens and 9)
+Yayal15 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [9s 8s 8d Tc 6d]
+Seat 1: _SKR (big blind) showed [Jh 3h] and lost with One pair : 8
+Seat 3: Yayal15 (small blind) showed [Ts 9c] and won 140 with Two pairs : Tens and 9
+
+

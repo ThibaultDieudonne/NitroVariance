@@ -1,0 +1,86 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698150381501808641-1-1675183025 - Holdem no limit (10/20) - 2023/01/31 16:37:05 UTC
+Table: 'Expresso Nitro(628212090)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Shimel85 (300)
+Seat 3: sicopat (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Shimel85 posts big blind 20
+Dealt to _SKR [Kc Qd]
+*** PRE-FLOP *** 
+sicopat raises 40 to 60
+_SKR folds
+Shimel85 calls 40
+*** FLOP *** [4h 4c 3c]
+Shimel85 bets 85
+sicopat raises 155 to 240 and is all-in
+Shimel85 calls 155 and is all-in
+*** TURN *** [4h 4c 3c][4s]
+*** RIVER *** [4h 4c 3c 4s][Ts]
+*** SHOW DOWN ***
+sicopat shows [Ah Qs] (Trips of 4)
+Shimel85 shows [Tc Js] (Full of 4 and Tens)
+Shimel85 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [4h 4c 3c 4s Ts]
+Seat 2: Shimel85 (big blind) showed [Tc Js] and won 610 with Full of 4 and Tens
+Seat 3: sicopat (button) showed [Ah Qs] and lost with Trips of 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698150381501808641-2-1675183065 - Holdem no limit (10/20) - 2023/01/31 16:37:45 UTC
+Table: 'Expresso Nitro(628212090)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Shimel85 (610)
+*** ANTE/BLINDS ***
+Shimel85 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh 3c]
+*** PRE-FLOP *** 
+Shimel85 calls 10
+_SKR checks
+*** FLOP *** [Ah 2s 9s]
+_SKR checks
+Shimel85 checks
+*** TURN *** [Ah 2s 9s][Qh]
+_SKR checks
+Shimel85 checks
+*** RIVER *** [Ah 2s 9s Qh][7s]
+_SKR checks
+Shimel85 checks
+*** SHOW DOWN ***
+_SKR shows [Kh 3c] (High card : Ace)
+Shimel85 shows [7h Ts] (One pair : 7)
+Shimel85 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ah 2s 9s Qh 7s]
+Seat 1: _SKR (big blind) showed [Kh 3c] and lost with High card : Ace
+Seat 2: Shimel85 (small blind) (button) showed [7h Ts] and won 40 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698150381501808641-3-1675183116 - Holdem no limit (15/30) - 2023/01/31 16:38:36 UTC
+Table: 'Expresso Nitro(628212090)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Shimel85 (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Shimel85 posts big blind 30
+Dealt to _SKR [Jc Ac]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+Shimel85 calls 240
+*** FLOP *** [4s Qh Tc]
+*** TURN *** [4s Qh Tc][3c]
+*** RIVER *** [4s Qh Tc 3c][9s]
+*** SHOW DOWN ***
+_SKR shows [Jc Ac] (High card : Ace)
+Shimel85 shows [Js Kc] (Straight King high)
+Shimel85 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [4s Qh Tc 3c 9s]
+Seat 1: _SKR (small blind) (button) showed [Jc Ac] and lost with High card : Ace
+Seat 2: Shimel85 (big blind) showed [Js Kc] and won 540 with Straight King high
+
+

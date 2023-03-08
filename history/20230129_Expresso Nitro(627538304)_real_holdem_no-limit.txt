@@ -1,0 +1,98 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695256492667305985-1-1675002711 - Holdem no limit (10/20) - 2023/01/29 14:31:51 UTC
+Table: 'Expresso Nitro(627538304)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carricondo M (300)
+Seat 2: Cr7enCrf (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Carricondo M posts small blind 10
+Cr7enCrf posts big blind 20
+Dealt to _SKR [3h Ts]
+*** PRE-FLOP *** 
+_SKR folds
+Carricondo M calls 10
+Cr7enCrf checks
+*** FLOP *** [Qc 8s 9d]
+Carricondo M bets 40
+Cr7enCrf folds
+Carricondo M collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qc 8s 9d]
+Seat 1: Carricondo M (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695256492667305985-2-1675002732 - Holdem no limit (10/20) - 2023/01/29 14:32:12 UTC
+Table: 'Expresso Nitro(627538304)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Carricondo M (320)
+Seat 2: Cr7enCrf (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Cr7enCrf posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 3c]
+*** PRE-FLOP *** 
+Carricondo M folds
+Cr7enCrf calls 10
+_SKR checks
+*** FLOP *** [Jc 2s 5s]
+Cr7enCrf checks
+_SKR checks
+*** TURN *** [Jc 2s 5s][7d]
+Cr7enCrf checks
+_SKR checks
+*** RIVER *** [Jc 2s 5s 7d][4h]
+Cr7enCrf checks
+_SKR bets 26
+Cr7enCrf folds
+_SKR collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Jc 2s 5s 7d 4h]
+Seat 3: _SKR (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695256492667305985-3-1675002765 - Holdem no limit (10/20) - 2023/01/29 14:32:45 UTC
+Table: 'Expresso Nitro(627538304)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Carricondo M (320)
+Seat 2: Cr7enCrf (260)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Carricondo M posts big blind 20
+Dealt to _SKR [8h 5d]
+*** PRE-FLOP *** 
+Cr7enCrf folds
+_SKR folds
+Carricondo M collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Carricondo M (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695256492667305985-4-1675002771 - Holdem no limit (15/30) - 2023/01/29 14:32:51 UTC
+Table: 'Expresso Nitro(627538304)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Carricondo M (330)
+Seat 2: Cr7enCrf (260)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+Carricondo M posts small blind 15
+Cr7enCrf posts big blind 30
+Dealt to _SKR [7s 7h]
+*** PRE-FLOP *** 
+_SKR raises 280 to 310 and is all-in
+Carricondo M raises 20 to 330 and is all-in
+Cr7enCrf folds
+*** FLOP *** [Th 4c Td]
+*** TURN *** [Th 4c Td][9s]
+*** RIVER *** [Th 4c Td 9s][9h]
+*** SHOW DOWN ***
+_SKR shows [7s 7h] (Two pairs : Tens and 9)
+Carricondo M shows [Ad 9d] (Full of 9 and Tens)
+Carricondo M collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Th 4c Td 9s 9h]
+Seat 1: Carricondo M (small blind) showed [Ad 9d] and won 670 with Full of 9 and Tens
+Seat 3: _SKR (button) showed [7s 7h] and lost with Two pairs : Tens and 9
+
+

@@ -1,0 +1,400 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698246369725906945-1-1675187237 - Holdem no limit (10/20) - 2023/01/31 17:47:17 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dedezevitch (300)
+Seat 2: vave1983 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Dedezevitch posts big blind 20
+Dealt to _SKR [5s 9s]
+*** PRE-FLOP *** 
+vave1983 folds
+_SKR folds
+Dedezevitch collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Dedezevitch (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698246369725906945-2-1675187254 - Holdem no limit (10/20) - 2023/01/31 17:47:34 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Dedezevitch (310)
+Seat 2: vave1983 (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Dedezevitch posts small blind 10
+vave1983 posts big blind 20
+Dealt to _SKR [2d 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Dedezevitch raises 30 to 50
+vave1983 raises 250 to 300 and is all-in
+Dedezevitch calls 250
+*** FLOP *** [As 7s Qc]
+*** TURN *** [As 7s Qc][Jd]
+*** RIVER *** [As 7s Qc Jd][Js]
+*** SHOW DOWN ***
+Dedezevitch shows [Tc Ts] (Two pairs : Jacks and Tens)
+vave1983 shows [Ac 2s] (Two pairs : Aces and Jacks)
+vave1983 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [As 7s Qc Jd Js]
+Seat 1: Dedezevitch (small blind) showed [Tc Ts] and lost with Two pairs : Jacks and Tens
+Seat 2: vave1983 (big blind) showed [Ac 2s] and won 600 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698246369725906945-3-1675187271 - Holdem no limit (10/20) - 2023/01/31 17:47:51 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dedezevitch (10)
+Seat 2: vave1983 (600)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+vave1983 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c 5d]
+*** PRE-FLOP *** 
+Dedezevitch calls 10 and is all-in
+vave1983 raises 580 to 600 and is all-in
+_SKR folds
+*** FLOP *** [5c 9h Ts]
+*** TURN *** [5c 9h Ts][8s]
+*** RIVER *** [5c 9h Ts 8s][6d]
+*** SHOW DOWN ***
+Dedezevitch shows [5h 7d] (Straight Ten high)
+vave1983 shows [8h As] (One pair : 8)
+vave1983 collected 600 from side pot 1
+Dedezevitch collected 30 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [5c 9h Ts 8s 6d]
+Seat 1: Dedezevitch (button) showed [5h 7d] and won 30 with Straight Ten high
+Seat 2: vave1983 (small blind) showed [8h As] and won 600 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698246369725906945-4-1675187284 - Holdem no limit (10/20) - 2023/01/31 17:48:04 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dedezevitch (30)
+Seat 2: vave1983 (600)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Dedezevitch posts big blind 20
+Dealt to _SKR [Kh Ah]
+*** PRE-FLOP *** 
+vave1983 folds
+_SKR raises 20 to 40
+Dedezevitch calls 10 and is all-in
+*** FLOP *** [3h 7d 2h]
+*** TURN *** [3h 7d 2h][5h]
+*** RIVER *** [3h 7d 2h 5h][7h]
+*** SHOW DOWN ***
+Dedezevitch shows [Qs Qc] (Two pairs : Queens and 7)
+_SKR shows [Kh Ah] (Flush Ace high)
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [3h 7d 2h 5h 7h]
+Seat 1: Dedezevitch (big blind) showed [Qs Qc] and lost with Two pairs : Queens and 7
+Seat 3: _SKR (small blind) showed [Kh Ah] and won 70 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698246369725906945-5-1675187300 - Holdem no limit (15/30) - 2023/01/31 17:48:20 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #2 is the button
+Seat 2: vave1983 (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+vave1983 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7d Jc]
+*** PRE-FLOP *** 
+vave1983 calls 15
+_SKR raises 270 to 300 and is all-in
+vave1983 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698246369725906945-6-1675187307 - Holdem no limit (15/30) - 2023/01/31 17:48:27 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #3 is the button
+Seat 2: vave1983 (570)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+vave1983 posts big blind 30
+Dealt to _SKR [Qc Jh]
+*** PRE-FLOP *** 
+_SKR raises 300 to 330 and is all-in
+vave1983 folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698246369725906945-7-1675187315 - Holdem no limit (15/30) - 2023/01/31 17:48:35 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #2 is the button
+Seat 2: vave1983 (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+vave1983 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc 2s]
+*** PRE-FLOP *** 
+vave1983 raises 510 to 540 and is all-in
+_SKR folds
+vave1983 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 2: vave1983 (small blind) (button) won 570
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698246369725906945-8-1675187321 - Holdem no limit (15/30) - 2023/01/31 17:48:41 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #3 is the button
+Seat 2: vave1983 (570)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+vave1983 posts big blind 30
+Dealt to _SKR [Js Qc]
+*** PRE-FLOP *** 
+_SKR raises 300 to 330 and is all-in
+vave1983 folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698246369725906945-9-1675187328 - Holdem no limit (15/30) - 2023/01/31 17:48:48 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #2 is the button
+Seat 2: vave1983 (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+vave1983 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7h Kc]
+*** PRE-FLOP *** 
+vave1983 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698246369725906945-10-1675187331 - Holdem no limit (15/30) - 2023/01/31 17:48:51 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #3 is the button
+Seat 2: vave1983 (525)
+Seat 3: _SKR (375)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+vave1983 posts big blind 30
+Dealt to _SKR [3d Ac]
+*** PRE-FLOP *** 
+_SKR raises 345 to 375 and is all-in
+vave1983 folds
+_SKR collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Seat 3: _SKR (small blind) (button) won 405
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698246369725906945-11-1675187336 - Holdem no limit (15/30) - 2023/01/31 17:48:56 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #2 is the button
+Seat 2: vave1983 (495)
+Seat 3: _SKR (405)
+*** ANTE/BLINDS ***
+vave1983 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc 5c]
+*** PRE-FLOP *** 
+vave1983 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698246369725906945-12-1675187340 - Holdem no limit (15/30) - 2023/01/31 17:49:00 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #3 is the button
+Seat 2: vave1983 (480)
+Seat 3: _SKR (420)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+vave1983 posts big blind 30
+Dealt to _SKR [Ah Td]
+*** PRE-FLOP *** 
+_SKR calls 15
+vave1983 checks
+*** FLOP *** [6d 5c 3d]
+vave1983 checks
+_SKR bets 30
+vave1983 raises 30 to 60
+_SKR folds
+vave1983 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [6d 5c 3d]
+Seat 2: vave1983 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698246369725906945-13-1675187352 - Holdem no limit (20/40) - 2023/01/31 17:49:12 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #2 is the button
+Seat 2: vave1983 (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+vave1983 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4h 7s]
+*** PRE-FLOP *** 
+vave1983 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698246369725906945-14-1675187356 - Holdem no limit (20/40) - 2023/01/31 17:49:16 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #3 is the button
+Seat 2: vave1983 (520)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+vave1983 posts big blind 40
+Dealt to _SKR [9d 8s]
+*** PRE-FLOP *** 
+_SKR folds
+vave1983 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: vave1983 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698246369725906945-15-1675187360 - Holdem no limit (20/40) - 2023/01/31 17:49:20 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #2 is the button
+Seat 2: vave1983 (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+vave1983 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6d 5s]
+*** PRE-FLOP *** 
+vave1983 calls 20
+_SKR checks
+*** FLOP *** [2d 7c Qs]
+_SKR checks
+vave1983 checks
+*** TURN *** [2d 7c Qs][Qc]
+_SKR checks
+vave1983 bets 40
+_SKR folds
+vave1983 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2d 7c Qs Qc]
+Seat 2: vave1983 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698246369725906945-16-1675187375 - Holdem no limit (20/40) - 2023/01/31 17:49:35 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #3 is the button
+Seat 2: vave1983 (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+vave1983 posts big blind 40
+Dealt to _SKR [As Ks]
+*** PRE-FLOP *** 
+_SKR raises 280 to 320 and is all-in
+vave1983 folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698246369725906945-17-1675187379 - Holdem no limit (20/40) - 2023/01/31 17:49:39 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #2 is the button
+Seat 2: vave1983 (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+vave1983 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qd Ac]
+*** PRE-FLOP *** 
+vave1983 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698246369725906945-18-1675187382 - Holdem no limit (20/40) - 2023/01/31 17:49:42 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #3 is the button
+Seat 2: vave1983 (520)
+Seat 3: _SKR (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+vave1983 posts big blind 40
+Dealt to _SKR [8h Tc]
+*** PRE-FLOP *** 
+_SKR folds
+vave1983 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: vave1983 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698246369725906945-19-1675187386 - Holdem no limit (20/40) - 2023/01/31 17:49:46 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #2 is the button
+Seat 2: vave1983 (540)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+vave1983 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8s 2s]
+*** PRE-FLOP *** 
+vave1983 calls 20
+_SKR checks
+*** FLOP *** [4h 5c Js]
+_SKR checks
+vave1983 checks
+*** TURN *** [4h 5c Js][5h]
+_SKR checks
+vave1983 checks
+*** RIVER *** [4h 5c Js 5h][8c]
+_SKR bets 40
+vave1983 folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4h 5c Js 5h 8c]
+Seat 3: _SKR (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698246369725906945-20-1675187405 - Holdem no limit (20/40) - 2023/01/31 17:50:05 UTC
+Table: 'Expresso Nitro(628234439)#0' 3-max (real money) Seat #3 is the button
+Seat 2: vave1983 (500)
+Seat 3: _SKR (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+vave1983 posts big blind 40
+Dealt to _SKR [9d Kc]
+*** PRE-FLOP *** 
+_SKR raises 360 to 400 and is all-in
+vave1983 calls 360
+*** FLOP *** [9c 9h Ah]
+*** TURN *** [9c 9h Ah][8h]
+*** RIVER *** [9c 9h Ah 8h][Qs]
+*** SHOW DOWN ***
+_SKR shows [9d Kc] (Trips of 9)
+vave1983 shows [Qd Qc] (Full of Queens and 9)
+vave1983 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [9c 9h Ah 8h Qs]
+Seat 2: vave1983 (big blind) showed [Qd Qc] and won 800 with Full of Queens and 9
+Seat 3: _SKR (small blind) (button) showed [9d Kc] and lost with Trips of 9
+
+

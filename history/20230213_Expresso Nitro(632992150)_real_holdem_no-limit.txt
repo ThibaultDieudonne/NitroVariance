@@ -1,0 +1,447 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718680582874726401-1-1676295135 - Holdem no limit (10/20) - 2023/02/13 13:32:15 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #3 is the button
+Seat 1: joke5522 (300)
+Seat 2: _SKR (300)
+Seat 3: Austrii (300)
+*** ANTE/BLINDS ***
+joke5522 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 8h]
+*** PRE-FLOP *** 
+Austrii calls 20
+joke5522 raises 280 to 300 and is all-in
+_SKR folds
+Austrii folds
+joke5522 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: joke5522 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718680582874726401-2-1676295151 - Holdem no limit (10/20) - 2023/02/13 13:32:31 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #1 is the button
+Seat 1: joke5522 (340)
+Seat 2: _SKR (280)
+Seat 3: Austrii (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Austrii posts big blind 20
+Dealt to _SKR [4c Jd]
+*** PRE-FLOP *** 
+joke5522 raises 320 to 340 and is all-in
+_SKR folds
+Austrii folds
+joke5522 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 1: joke5522 (button) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718680582874726401-3-1676295166 - Holdem no limit (10/20) - 2023/02/13 13:32:46 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #2 is the button
+Seat 1: joke5522 (370)
+Seat 2: _SKR (270)
+Seat 3: Austrii (260)
+*** ANTE/BLINDS ***
+Austrii posts small blind 10
+joke5522 posts big blind 20
+Dealt to _SKR [7d 5d]
+*** PRE-FLOP *** 
+_SKR folds
+Austrii raises 240 to 260 and is all-in
+joke5522 calls 240
+*** FLOP *** [8d 3s Tc]
+*** TURN *** [8d 3s Tc][7s]
+*** RIVER *** [8d 3s Tc 7s][Qc]
+*** SHOW DOWN ***
+joke5522 shows [As 5h] (High card : Ace)
+Austrii shows [Ah Js] (High card : Ace)
+Austrii collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [8d 3s Tc 7s Qc]
+Seat 1: joke5522 (big blind) showed [As 5h] and lost with High card : Ace
+Seat 3: Austrii (small blind) showed [Ah Js] and won 520 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718680582874726401-4-1676295181 - Holdem no limit (10/20) - 2023/02/13 13:33:01 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #3 is the button
+Seat 1: joke5522 (110)
+Seat 2: _SKR (270)
+Seat 3: Austrii (520)
+*** ANTE/BLINDS ***
+joke5522 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 5s]
+*** PRE-FLOP *** 
+Austrii folds
+joke5522 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718680582874726401-5-1676295192 - Holdem no limit (15/30) - 2023/02/13 13:33:12 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #1 is the button
+Seat 1: joke5522 (100)
+Seat 2: _SKR (280)
+Seat 3: Austrii (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Austrii posts big blind 30
+Dealt to _SKR [Qc Qd]
+*** PRE-FLOP *** 
+joke5522 folds
+_SKR raises 250 to 280 and is all-in
+Austrii calls 250
+*** FLOP *** [6c Ah Ac]
+*** TURN *** [6c Ah Ac][Qs]
+*** RIVER *** [6c Ah Ac Qs][2s]
+*** SHOW DOWN ***
+Austrii shows [Tc Ts] (Two pairs : Aces and Tens)
+_SKR shows [Qc Qd] (Full of Queens and Aces)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6c Ah Ac Qs 2s]
+Seat 2: _SKR (small blind) showed [Qc Qd] and won 560 with Full of Queens and Aces
+Seat 3: Austrii (big blind) showed [Tc Ts] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718680582874726401-6-1676295213 - Holdem no limit (15/30) - 2023/02/13 13:33:33 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #2 is the button
+Seat 1: joke5522 (100)
+Seat 2: _SKR (560)
+Seat 3: Austrii (240)
+*** ANTE/BLINDS ***
+Austrii posts small blind 15
+joke5522 posts big blind 30
+Dealt to _SKR [8h 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Austrii folds
+joke5522 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: joke5522 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718680582874726401-7-1676295227 - Holdem no limit (15/30) - 2023/02/13 13:33:47 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #3 is the button
+Seat 1: joke5522 (115)
+Seat 2: _SKR (560)
+Seat 3: Austrii (225)
+*** ANTE/BLINDS ***
+joke5522 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9s Qc]
+*** PRE-FLOP *** 
+Austrii raises 195 to 225 and is all-in
+joke5522 folds
+_SKR folds
+Austrii collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 3: Austrii (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718680582874726401-8-1676295236 - Holdem no limit (15/30) - 2023/02/13 13:33:56 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #1 is the button
+Seat 1: joke5522 (100)
+Seat 2: _SKR (530)
+Seat 3: Austrii (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Austrii posts big blind 30
+Dealt to _SKR [Th 2s]
+*** PRE-FLOP *** 
+joke5522 raises 70 to 100 and is all-in
+_SKR folds
+Austrii calls 70
+*** FLOP *** [As 4d 3h]
+*** TURN *** [As 4d 3h][6d]
+*** RIVER *** [As 4d 3h 6d][6h]
+*** SHOW DOWN ***
+Austrii shows [Tc Jh] (One pair : 6)
+joke5522 shows [Ad Qd] (Two pairs : Aces and 6)
+joke5522 collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Board: [As 4d 3h 6d 6h]
+Seat 1: joke5522 (button) showed [Ad Qd] and won 215 with Two pairs : Aces and 6
+Seat 3: Austrii (big blind) showed [Tc Jh] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718680582874726401-9-1676295259 - Holdem no limit (20/40) - 2023/02/13 13:34:19 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #2 is the button
+Seat 1: joke5522 (215)
+Seat 2: _SKR (515)
+Seat 3: Austrii (170)
+*** ANTE/BLINDS ***
+Austrii posts small blind 20
+joke5522 posts big blind 40
+Dealt to _SKR [3c 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Austrii folds
+joke5522 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: joke5522 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718680582874726401-10-1676295264 - Holdem no limit (20/40) - 2023/02/13 13:34:24 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #3 is the button
+Seat 1: joke5522 (235)
+Seat 2: _SKR (515)
+Seat 3: Austrii (150)
+*** ANTE/BLINDS ***
+joke5522 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c 6d]
+*** PRE-FLOP *** 
+Austrii folds
+joke5522 raises 195 to 235 and is all-in
+_SKR folds
+joke5522 collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Seat 1: joke5522 (small blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718680582874726401-11-1676295275 - Holdem no limit (20/40) - 2023/02/13 13:34:35 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #1 is the button
+Seat 1: joke5522 (275)
+Seat 2: _SKR (475)
+Seat 3: Austrii (150)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Austrii posts big blind 40
+Dealt to _SKR [7d Ad]
+*** PRE-FLOP *** 
+joke5522 folds
+_SKR raises 435 to 475 and is all-in
+Austrii calls 110 and is all-in
+*** FLOP *** [6h Kd Ah]
+*** TURN *** [6h Kd Ah][Qh]
+*** RIVER *** [6h Kd Ah Qh][Kc]
+*** SHOW DOWN ***
+_SKR shows [7d Ad] (Two pairs : Aces and Kings)
+Austrii shows [Jd Tc] (Straight Ace high)
+Austrii collected 300 from main pot
+_SKR collected 325 from side pot 1
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [6h Kd Ah Qh Kc]
+Seat 2: _SKR (small blind) showed [7d Ad] and won 325 with Two pairs : Aces and Kings
+Seat 3: Austrii (big blind) showed [Jd Tc] and won 300 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718680582874726401-12-1676295292 - Holdem no limit (20/40) - 2023/02/13 13:34:52 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #2 is the button
+Seat 1: joke5522 (275)
+Seat 2: _SKR (325)
+Seat 3: Austrii (300)
+*** ANTE/BLINDS ***
+Austrii posts small blind 20
+joke5522 posts big blind 40
+Dealt to _SKR [3c Th]
+*** PRE-FLOP *** 
+_SKR folds
+Austrii folds
+joke5522 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: joke5522 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718680582874726401-13-1676295296 - Holdem no limit (20/40) - 2023/02/13 13:34:56 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #3 is the button
+Seat 1: joke5522 (295)
+Seat 2: _SKR (325)
+Seat 3: Austrii (280)
+*** ANTE/BLINDS ***
+joke5522 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7h Js]
+*** PRE-FLOP *** 
+Austrii raises 240 to 280 and is all-in
+joke5522 folds
+_SKR folds
+Austrii collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: Austrii (button) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718680582874726401-14-1676295303 - Holdem no limit (20/40) - 2023/02/13 13:35:03 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #1 is the button
+Seat 1: joke5522 (275)
+Seat 2: _SKR (285)
+Seat 3: Austrii (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Austrii posts big blind 40
+Dealt to _SKR [Qd As]
+*** PRE-FLOP *** 
+joke5522 folds
+_SKR raises 245 to 285 and is all-in
+Austrii folds
+_SKR collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 2: _SKR (small blind) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718680582874726401-15-1676295314 - Holdem no limit (30/60) - 2023/02/13 13:35:14 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #2 is the button
+Seat 1: joke5522 (275)
+Seat 2: _SKR (325)
+Seat 3: Austrii (300)
+*** ANTE/BLINDS ***
+Austrii posts small blind 30
+joke5522 posts big blind 60
+Dealt to _SKR [As 5c]
+*** PRE-FLOP *** 
+_SKR raises 265 to 325 and is all-in
+Austrii folds
+joke5522 folds
+_SKR collected 415 from pot
+*** SUMMARY ***
+Total pot 415 | No rake
+Seat 2: _SKR (button) won 415
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718680582874726401-16-1676295321 - Holdem no limit (30/60) - 2023/02/13 13:35:21 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #3 is the button
+Seat 1: joke5522 (215)
+Seat 2: _SKR (415)
+Seat 3: Austrii (270)
+*** ANTE/BLINDS ***
+joke5522 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [6d 2d]
+*** PRE-FLOP *** 
+Austrii folds
+joke5522 raises 155 to 215 and is all-in
+_SKR folds
+joke5522 collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Seat 1: joke5522 (small blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718680582874726401-17-1676295331 - Holdem no limit (30/60) - 2023/02/13 13:35:31 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #1 is the button
+Seat 1: joke5522 (275)
+Seat 2: _SKR (355)
+Seat 3: Austrii (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Austrii posts big blind 60
+Dealt to _SKR [Kc Ts]
+*** PRE-FLOP *** 
+joke5522 folds
+_SKR raises 295 to 355 and is all-in
+Austrii folds
+_SKR collected 415 from pot
+*** SUMMARY ***
+Total pot 415 | No rake
+Seat 2: _SKR (small blind) won 415
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718680582874726401-18-1676295344 - Holdem no limit (30/60) - 2023/02/13 13:35:44 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #2 is the button
+Seat 1: joke5522 (275)
+Seat 2: _SKR (415)
+Seat 3: Austrii (210)
+*** ANTE/BLINDS ***
+Austrii posts small blind 30
+joke5522 posts big blind 60
+Dealt to _SKR [Ah Ks]
+*** PRE-FLOP *** 
+_SKR raises 355 to 415 and is all-in
+Austrii folds
+joke5522 calls 215 and is all-in
+*** FLOP *** [6s Tc 5s]
+*** TURN *** [6s Tc 5s][Ts]
+*** RIVER *** [6s Tc 5s Ts][7d]
+*** SHOW DOWN ***
+joke5522 shows [Js Qd] (One pair : Tens)
+_SKR shows [Ah Ks] (One pair : Tens)
+_SKR collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [6s Tc 5s Ts 7d]
+Seat 1: joke5522 (big blind) showed [Js Qd] and lost with One pair : Tens
+Seat 2: _SKR (button) showed [Ah Ks] and won 720 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718680582874726401-19-1676295362 - Holdem no limit (30/60) - 2023/02/13 13:36:02 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (720)
+Seat 3: Austrii (180)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Austrii posts big blind 60
+Dealt to _SKR [Ah Jh]
+*** PRE-FLOP *** 
+_SKR raises 660 to 720 and is all-in
+Austrii folds
+_SKR collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 2: _SKR (small blind) (button) won 780
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718680582874726401-20-1676295371 - Holdem no limit (30/60) - 2023/02/13 13:36:11 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (780)
+Seat 3: Austrii (120)
+*** ANTE/BLINDS ***
+Austrii posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [6c 2d]
+*** PRE-FLOP *** 
+Austrii raises 60 to 120 and is all-in
+_SKR calls 60
+*** FLOP *** [Ah As 5c]
+*** TURN *** [Ah As 5c][Js]
+*** RIVER *** [Ah As 5c Js][7c]
+*** SHOW DOWN ***
+_SKR shows [6c 2d] (One pair : Aces)
+Austrii shows [Qd 8h] (One pair : Aces)
+Austrii collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Ah As 5c Js 7c]
+Seat 2: _SKR (big blind) showed [6c 2d] and lost with One pair : Aces
+Seat 3: Austrii (small blind) (button) showed [Qd 8h] and won 240 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2718680582874726401-21-1676295387 - Holdem no limit (40/80) - 2023/02/13 13:36:27 UTC
+Table: 'Expresso Nitro(632992150)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (660)
+Seat 3: Austrii (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Austrii posts big blind 80
+Dealt to _SKR [Qc 8c]
+*** PRE-FLOP *** 
+_SKR raises 580 to 660 and is all-in
+Austrii calls 160 and is all-in
+*** FLOP *** [Kh Td 7d]
+*** TURN *** [Kh Td 7d][9s]
+*** RIVER *** [Kh Td 7d 9s][6d]
+*** SHOW DOWN ***
+Austrii shows [Kc Js] (One pair : Kings)
+_SKR shows [Qc 8c] (Straight Ten high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kh Td 7d 9s 6d]
+Seat 2: _SKR (small blind) (button) showed [Qc 8c] and won 900 with Straight Ten high
+Seat 3: Austrii (big blind) showed [Kc Js] and lost with One pair : Kings
+
+

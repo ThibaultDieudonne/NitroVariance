@@ -1,0 +1,28 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730575915707793409-1-1676986502 - Holdem no limit (10/20) - 2023/02/21 13:35:02 UTC
+Table: 'Expresso Nitro(635761748)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: -Kea- (300)
+Seat 3: Bandadu (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+-Kea- posts big blind 20
+Dealt to _SKR [8d Ad]
+*** PRE-FLOP *** 
+Bandadu calls 20
+_SKR raises 280 to 300 and is all-in
+-Kea- folds
+Bandadu calls 280 and is all-in
+*** FLOP *** [8h 9c 2c]
+*** TURN *** [8h 9c 2c][7s]
+*** RIVER *** [8h 9c 2c 7s][6c]
+*** SHOW DOWN ***
+_SKR shows [8d Ad] (One pair : 8)
+Bandadu shows [9d Ks] (One pair : 9)
+Bandadu collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8h 9c 2c 7s 6c]
+Seat 1: _SKR (small blind) showed [8d Ad] and lost with One pair : 8
+Seat 3: Bandadu (button) showed [9d Ks] and won 620 with One pair : 9
+
+

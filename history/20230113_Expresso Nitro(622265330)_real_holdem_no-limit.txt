@@ -1,0 +1,241 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672609241784647681-1-1673616416 - Holdem no limit (10/20) - 2023/01/13 13:26:56 UTC
+Table: 'Expresso Nitro(622265330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pierro320 (300)
+Seat 2: _SKR (300)
+Seat 3: TheDarknes94 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+TheDarknes94 posts big blind 20
+Dealt to _SKR [Ad 6s]
+*** PRE-FLOP *** 
+Pierro320 calls 20
+_SKR raises 280 to 300 and is all-in
+TheDarknes94 folds
+Pierro320 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672609241784647681-2-1673616449 - Holdem no limit (10/20) - 2023/01/13 13:27:29 UTC
+Table: 'Expresso Nitro(622265330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pierro320 (280)
+Seat 2: _SKR (340)
+Seat 3: TheDarknes94 (280)
+*** ANTE/BLINDS ***
+TheDarknes94 posts small blind 10
+Pierro320 posts big blind 20
+Dealt to _SKR [Kh 7h]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+TheDarknes94 calls 30
+Pierro320 calls 20
+*** FLOP *** [4h 6s 6c]
+TheDarknes94 checks
+Pierro320 checks
+_SKR checks
+*** TURN *** [4h 6s 6c][Ks]
+TheDarknes94 checks
+Pierro320 checks
+_SKR bets 60
+TheDarknes94 folds
+Pierro320 folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4h 6s 6c Ks]
+Seat 2: _SKR (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2672609241784647681-3-1673616496 - Holdem no limit (15/30) - 2023/01/13 13:28:16 UTC
+Table: 'Expresso Nitro(622265330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pierro320 (240)
+Seat 2: _SKR (420)
+Seat 3: TheDarknes94 (240)
+*** ANTE/BLINDS ***
+Pierro320 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc 8d]
+*** PRE-FLOP *** 
+TheDarknes94 calls 30
+Pierro320 calls 15
+_SKR checks
+*** FLOP *** [Qc Kh 8s]
+Pierro320 checks
+_SKR checks
+TheDarknes94 bets 30
+Pierro320 folds
+_SKR calls 30
+*** TURN *** [Qc Kh 8s][Ts]
+_SKR checks
+TheDarknes94 bets 30
+_SKR raises 330 to 360 and is all-in
+TheDarknes94 calls 150 and is all-in
+*** RIVER *** [Qc Kh 8s Ts][9d]
+*** SHOW DOWN ***
+TheDarknes94 shows [Qs Ad] (One pair : Queens)
+_SKR shows [Tc 8d] (Two pairs : Tens and 8)
+_SKR collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [Qc Kh 8s Ts 9d]
+Seat 2: _SKR (big blind) showed [Tc 8d] and won 690 with Two pairs : Tens and 8
+Seat 3: TheDarknes94 (button) showed [Qs Ad] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2672609241784647681-4-1673616557 - Holdem no limit (20/40) - 2023/01/13 13:29:17 UTC
+Table: 'Expresso Nitro(622265330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pierro320 (210)
+Seat 2: _SKR (690)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Pierro320 posts big blind 40
+Dealt to _SKR [Td 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Pierro320 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Pierro320 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2672609241784647681-5-1673616561 - Holdem no limit (20/40) - 2023/01/13 13:29:21 UTC
+Table: 'Expresso Nitro(622265330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pierro320 (230)
+Seat 2: _SKR (670)
+*** ANTE/BLINDS ***
+Pierro320 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7d Kc]
+*** PRE-FLOP *** 
+Pierro320 raises 40 to 80
+_SKR raises 590 to 670 and is all-in
+Pierro320 calls 150 and is all-in
+*** FLOP *** [Ks 5c 3c]
+*** TURN *** [Ks 5c 3c][Jh]
+*** RIVER *** [Ks 5c 3c Jh][Th]
+*** SHOW DOWN ***
+Pierro320 shows [Kh Kd] (Trips of Kings)
+_SKR shows [7d Kc] (One pair : Kings)
+_SKR collected 440 from side pot 1
+Pierro320 collected 460 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks 5c 3c Jh Th]
+Seat 1: Pierro320 (small blind) (button) showed [Kh Kd] and won 460 with Trips of Kings
+Seat 2: _SKR (big blind) showed [7d Kc] and won 440 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2672609241784647681-6-1673616579 - Holdem no limit (20/40) - 2023/01/13 13:29:39 UTC
+Table: 'Expresso Nitro(622265330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pierro320 (460)
+Seat 2: _SKR (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Pierro320 posts big blind 40
+Dealt to _SKR [8d Ah]
+*** PRE-FLOP *** 
+_SKR raises 400 to 440 and is all-in
+Pierro320 folds
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 2: _SKR (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2672609241784647681-7-1673616587 - Holdem no limit (20/40) - 2023/01/13 13:29:47 UTC
+Table: 'Expresso Nitro(622265330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pierro320 (420)
+Seat 2: _SKR (480)
+*** ANTE/BLINDS ***
+Pierro320 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc 2d]
+*** PRE-FLOP *** 
+Pierro320 calls 20
+_SKR checks
+*** FLOP *** [6h 2h 8h]
+_SKR checks
+Pierro320 bets 40
+_SKR folds
+Pierro320 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6h 2h 8h]
+Seat 1: Pierro320 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2672609241784647681-8-1673616603 - Holdem no limit (30/60) - 2023/01/13 13:30:03 UTC
+Table: 'Expresso Nitro(622265330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pierro320 (460)
+Seat 2: _SKR (440)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Pierro320 posts big blind 60
+Dealt to _SKR [Kh Jd]
+*** PRE-FLOP *** 
+_SKR raises 380 to 440 and is all-in
+Pierro320 calls 380
+*** FLOP *** [Kc Td 6d]
+*** TURN *** [Kc Td 6d][8h]
+*** RIVER *** [Kc Td 6d 8h][5d]
+*** SHOW DOWN ***
+Pierro320 shows [6c Qd] (One pair : 6)
+_SKR shows [Kh Jd] (One pair : Kings)
+_SKR collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Kc Td 6d 8h 5d]
+Seat 1: Pierro320 (big blind) showed [6c Qd] and lost with One pair : 6
+Seat 2: _SKR (small blind) (button) showed [Kh Jd] and won 880 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2672609241784647681-9-1673616618 - Holdem no limit (30/60) - 2023/01/13 13:30:18 UTC
+Table: 'Expresso Nitro(622265330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pierro320 (20)
+Seat 2: _SKR (880)
+*** ANTE/BLINDS ***
+Pierro320 posts small blind 20 and is all-in
+_SKR posts big blind 60
+Dealt to _SKR [8d 4s]
+*** PRE-FLOP *** 
+*** FLOP *** [Js 7c 9s]
+*** TURN *** [Js 7c 9s][6s]
+*** RIVER *** [Js 7c 9s 6s][Kc]
+*** SHOW DOWN ***
+Pierro320 shows [4h Ah] (High card : Ace)
+_SKR shows [8d 4s] (High card : King)
+_SKR collected 40 from side pot 1
+Pierro320 collected 40 from main pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Js 7c 9s 6s Kc]
+Seat 1: Pierro320 (small blind) (button) showed [4h Ah] and won 40 with High card : Ace
+Seat 2: _SKR (big blind) showed [8d 4s] and won 40 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2672609241784647681-10-1673616626 - Holdem no limit (30/60) - 2023/01/13 13:30:26 UTC
+Table: 'Expresso Nitro(622265330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pierro320 (40)
+Seat 2: _SKR (860)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Pierro320 posts big blind 40 and is all-in
+Dealt to _SKR [Js 7s]
+*** PRE-FLOP *** 
+_SKR calls 30
+*** FLOP *** [Qd Tc 8h]
+*** TURN *** [Qd Tc 8h][9h]
+*** RIVER *** [Qd Tc 8h 9h][Qh]
+*** SHOW DOWN ***
+Pierro320 shows [3c 5s] (One pair : Queens)
+_SKR shows [Js 7s] (Straight Queen high)
+_SKR collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Qd Tc 8h 9h Qh]
+Seat 1: Pierro320 (big blind) showed [3c 5s] and lost with One pair : Queens
+Seat 2: _SKR (small blind) (button) showed [Js 7s] and won 100 with Straight Queen high
+
+

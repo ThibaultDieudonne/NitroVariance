@@ -1,0 +1,151 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674154210240495617-1-1673703784 - Holdem no limit (10/20) - 2023/01/14 13:43:04 UTC
+Table: 'Expresso Nitro(622625046)#0' 3-max (real money) Seat #1 is the button
+Seat 1: crodence (300)
+Seat 2: gragavoi (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+gragavoi posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 5d]
+*** PRE-FLOP *** 
+crodence calls 20
+gragavoi folds
+_SKR checks
+*** FLOP *** [7h 4d Qc]
+_SKR checks
+crodence checks
+*** TURN *** [7h 4d Qc][5h]
+_SKR checks
+crodence checks
+*** RIVER *** [7h 4d Qc 5h][3d]
+_SKR checks
+crodence checks
+*** SHOW DOWN ***
+crodence shows [4s 2s] (One pair : 4)
+_SKR shows [Js 5d] (One pair : 5)
+_SKR collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [7h 4d Qc 5h 3d]
+Seat 1: crodence (button) showed [4s 2s] and lost with One pair : 4
+Seat 3: _SKR (big blind) showed [Js 5d] and won 50 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674154210240495617-2-1673703812 - Holdem no limit (10/20) - 2023/01/14 13:43:32 UTC
+Table: 'Expresso Nitro(622625046)#0' 3-max (real money) Seat #2 is the button
+Seat 1: crodence (280)
+Seat 2: gragavoi (290)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+crodence posts big blind 20
+Dealt to _SKR [Qd Ah]
+*** PRE-FLOP *** 
+gragavoi raises 40 to 60
+_SKR raises 270 to 330 and is all-in
+crodence folds
+gragavoi calls 230 and is all-in
+*** FLOP *** [Qc Td 3d]
+*** TURN *** [Qc Td 3d][8c]
+*** RIVER *** [Qc Td 3d 8c][7s]
+*** SHOW DOWN ***
+gragavoi shows [Th Js] (One pair : Tens)
+_SKR shows [Qd Ah] (One pair : Queens)
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Qc Td 3d 8c 7s]
+Seat 2: gragavoi (button) showed [Th Js] and lost with One pair : Tens
+Seat 3: _SKR (small blind) showed [Qd Ah] and won 640 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674154210240495617-3-1673703832 - Holdem no limit (10/20) - 2023/01/14 13:43:52 UTC
+Table: 'Expresso Nitro(622625046)#0' 3-max (real money) Seat #1 is the button
+Seat 1: crodence (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+crodence posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc Ad]
+*** PRE-FLOP *** 
+crodence calls 10
+_SKR raises 620 to 640 and is all-in
+crodence folds
+_SKR collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 3: _SKR (big blind) won 660
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674154210240495617-4-1673703840 - Holdem no limit (15/30) - 2023/01/14 13:44:00 UTC
+Table: 'Expresso Nitro(622625046)#0' 3-max (real money) Seat #3 is the button
+Seat 1: crodence (240)
+Seat 3: _SKR (660)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+crodence posts big blind 30
+Dealt to _SKR [3c 2h]
+*** PRE-FLOP *** 
+_SKR folds
+crodence collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: crodence (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674154210240495617-5-1673703845 - Holdem no limit (15/30) - 2023/01/14 13:44:05 UTC
+Table: 'Expresso Nitro(622625046)#0' 3-max (real money) Seat #1 is the button
+Seat 1: crodence (255)
+Seat 3: _SKR (645)
+*** ANTE/BLINDS ***
+crodence posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2s 5c]
+*** PRE-FLOP *** 
+crodence calls 15
+_SKR checks
+*** FLOP *** [5h 5s Qh]
+_SKR checks
+crodence checks
+*** TURN *** [5h 5s Qh][8c]
+_SKR checks
+crodence checks
+*** RIVER *** [5h 5s Qh 8c][9d]
+_SKR bets 60
+crodence calls 60
+*** SHOW DOWN ***
+crodence shows [7s 9s] (Two pairs : 9 and 5)
+_SKR shows [2s 5c] (Trips of 5)
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [5h 5s Qh 8c 9d]
+Seat 1: crodence (small blind) (button) showed [7s 9s] and lost with Two pairs : 9 and 5
+Seat 3: _SKR (big blind) showed [2s 5c] and won 180 with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674154210240495617-6-1673703873 - Holdem no limit (15/30) - 2023/01/14 13:44:33 UTC
+Table: 'Expresso Nitro(622625046)#0' 3-max (real money) Seat #3 is the button
+Seat 1: crodence (165)
+Seat 3: _SKR (735)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+crodence posts big blind 30
+Dealt to _SKR [Ks Jd]
+*** PRE-FLOP *** 
+_SKR raises 705 to 735 and is all-in
+crodence calls 135 and is all-in
+*** FLOP *** [8s 5d Kh]
+*** TURN *** [8s 5d Kh][6d]
+*** RIVER *** [8s 5d Kh 6d][9c]
+*** SHOW DOWN ***
+crodence shows [4c 2c] (High card : King)
+_SKR shows [Ks Jd] (One pair : Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s 5d Kh 6d 9c]
+Seat 1: crodence (big blind) showed [4c 2c] and lost with High card : King
+Seat 3: _SKR (small blind) (button) showed [Ks Jd] and won 900 with One pair : Kings
+
+

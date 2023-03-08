@@ -1,0 +1,167 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729102256593960961-1-1676900715 - Holdem no limit (10/20) - 2023/02/20 13:45:15 UTC
+Table: 'Expresso Nitro(635418635)#0' 3-max (real money) Seat #3 is the button
+Seat 1: El_ninok (300)
+Seat 2: Rouge2048559 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+El_ninok posts small blind 10
+Rouge2048559 posts big blind 20
+Dealt to _SKR [3h 3d]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+El_ninok folds
+Rouge2048559 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729102256593960961-2-1676900723 - Holdem no limit (10/20) - 2023/02/20 13:45:23 UTC
+Table: 'Expresso Nitro(635418635)#0' 3-max (real money) Seat #1 is the button
+Seat 1: El_ninok (290)
+Seat 2: Rouge2048559 (280)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+Rouge2048559 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d 8s]
+*** PRE-FLOP *** 
+El_ninok calls 20
+Rouge2048559 folds
+_SKR raises 310 to 330 and is all-in
+El_ninok calls 270 and is all-in
+*** FLOP *** [3s 9c 3h]
+*** TURN *** [3s 9c 3h][5d]
+*** RIVER *** [3s 9c 3h 5d][9d]
+*** SHOW DOWN ***
+El_ninok shows [3d 3c] (Quads of 3)
+_SKR shows [8d 8s] (Two pairs : 9 and 8)
+_SKR collected 40 from side pot 1
+El_ninok collected 590 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [3s 9c 3h 5d 9d]
+Seat 1: El_ninok (button) showed [3d 3c] and won 590 with Quads of 3
+Seat 3: _SKR (big blind) showed [8d 8s] and won 40 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729102256593960961-3-1676900737 - Holdem no limit (10/20) - 2023/02/20 13:45:37 UTC
+Table: 'Expresso Nitro(635418635)#0' 3-max (real money) Seat #2 is the button
+Seat 1: El_ninok (590)
+Seat 2: Rouge2048559 (270)
+Seat 3: _SKR (40)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+El_ninok posts big blind 20
+Dealt to _SKR [Th Js]
+*** PRE-FLOP *** 
+Rouge2048559 folds
+_SKR raises 20 to 40 and is all-in
+El_ninok calls 20
+*** FLOP *** [7d Tc 3c]
+*** TURN *** [7d Tc 3c][Qs]
+*** RIVER *** [7d Tc 3c Qs][5s]
+*** SHOW DOWN ***
+El_ninok shows [9c Kh] (High card : King)
+_SKR shows [Th Js] (One pair : Tens)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7d Tc 3c Qs 5s]
+Seat 1: El_ninok (big blind) showed [9c Kh] and lost with High card : King
+Seat 3: _SKR (small blind) showed [Th Js] and won 80 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729102256593960961-4-1676900755 - Holdem no limit (10/20) - 2023/02/20 13:45:55 UTC
+Table: 'Expresso Nitro(635418635)#0' 3-max (real money) Seat #3 is the button
+Seat 1: El_ninok (550)
+Seat 2: Rouge2048559 (270)
+Seat 3: _SKR (80)
+*** ANTE/BLINDS ***
+El_ninok posts small blind 10
+Rouge2048559 posts big blind 20
+Dealt to _SKR [5d Kc]
+*** PRE-FLOP *** 
+_SKR raises 60 to 80 and is all-in
+El_ninok calls 70
+Rouge2048559 folds
+*** FLOP *** [9c 4c Qh]
+*** TURN *** [9c 4c Qh][3s]
+*** RIVER *** [9c 4c Qh 3s][5h]
+*** SHOW DOWN ***
+El_ninok shows [4h Kh] (One pair : 4)
+_SKR shows [5d Kc] (One pair : 5)
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9c 4c Qh 3s 5h]
+Seat 1: El_ninok (small blind) showed [4h Kh] and lost with One pair : 4
+Seat 3: _SKR (button) showed [5d Kc] and won 180 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729102256593960961-5-1676900773 - Holdem no limit (15/30) - 2023/02/20 13:46:13 UTC
+Table: 'Expresso Nitro(635418635)#0' 3-max (real money) Seat #1 is the button
+Seat 1: El_ninok (470)
+Seat 2: Rouge2048559 (250)
+Seat 3: _SKR (180)
+*** ANTE/BLINDS ***
+Rouge2048559 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4s 6c]
+*** PRE-FLOP *** 
+El_ninok folds
+Rouge2048559 raises 220 to 250 and is all-in
+_SKR folds
+Rouge2048559 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: Rouge2048559 (small blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729102256593960961-6-1676900782 - Holdem no limit (15/30) - 2023/02/20 13:46:22 UTC
+Table: 'Expresso Nitro(635418635)#0' 3-max (real money) Seat #2 is the button
+Seat 1: El_ninok (470)
+Seat 2: Rouge2048559 (280)
+Seat 3: _SKR (150)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+El_ninok posts big blind 30
+Dealt to _SKR [3d 6s]
+*** PRE-FLOP *** 
+Rouge2048559 raises 250 to 280 and is all-in
+_SKR folds
+El_ninok folds
+Rouge2048559 collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 2: Rouge2048559 (button) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729102256593960961-7-1676900788 - Holdem no limit (15/30) - 2023/02/20 13:46:28 UTC
+Table: 'Expresso Nitro(635418635)#0' 3-max (real money) Seat #3 is the button
+Seat 1: El_ninok (440)
+Seat 2: Rouge2048559 (325)
+Seat 3: _SKR (135)
+*** ANTE/BLINDS ***
+El_ninok posts small blind 15
+Rouge2048559 posts big blind 30
+Dealt to _SKR [3s Kd]
+*** PRE-FLOP *** 
+_SKR raises 105 to 135 and is all-in
+El_ninok raises 305 to 440 and is all-in
+Rouge2048559 folds
+*** FLOP *** [9s 8c Ad]
+*** TURN *** [9s 8c Ad][7h]
+*** RIVER *** [9s 8c Ad 7h][3c]
+*** SHOW DOWN ***
+_SKR shows [3s Kd] (One pair : 3)
+El_ninok shows [Td Ac] (One pair : Aces)
+El_ninok collected 605 from pot
+*** SUMMARY ***
+Total pot 605 | No rake
+Board: [9s 8c Ad 7h 3c]
+Seat 1: El_ninok (small blind) showed [Td Ac] and won 605 with One pair : Aces
+Seat 3: _SKR (button) showed [3s Kd] and lost with One pair : 3
+
+

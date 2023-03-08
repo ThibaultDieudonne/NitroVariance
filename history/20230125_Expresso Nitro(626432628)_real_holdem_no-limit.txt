@@ -1,0 +1,404 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690507650407333889-1-1674684171 - Holdem no limit (10/20) - 2023/01/25 22:02:51 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #3 is the button
+Seat 1: FuriusDONUTS (300)
+Seat 2: _SKR (300)
+Seat 3: TigerStorm94 (300)
+*** ANTE/BLINDS ***
+FuriusDONUTS posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 6h]
+*** PRE-FLOP *** 
+TigerStorm94 raises 30 to 50
+FuriusDONUTS folds
+_SKR folds
+TigerStorm94 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: TigerStorm94 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690507650407333889-2-1674684183 - Holdem no limit (10/20) - 2023/01/25 22:03:03 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FuriusDONUTS (290)
+Seat 2: _SKR (280)
+Seat 3: TigerStorm94 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+TigerStorm94 posts big blind 20
+Dealt to _SKR [As 8d]
+*** PRE-FLOP *** 
+FuriusDONUTS raises 20 to 40
+_SKR raises 240 to 280 and is all-in
+TigerStorm94 calls 260
+FuriusDONUTS folds
+*** FLOP *** [Qs 5c Ad]
+*** TURN *** [Qs 5c Ad][Kh]
+*** RIVER *** [Qs 5c Ad Kh][6c]
+*** SHOW DOWN ***
+TigerStorm94 shows [Qc Jh] (One pair : Queens)
+_SKR shows [As 8d] (One pair : Aces)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qs 5c Ad Kh 6c]
+Seat 2: _SKR (small blind) showed [As 8d] and won 600 with One pair : Aces
+Seat 3: TigerStorm94 (big blind) showed [Qc Jh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690507650407333889-3-1674684206 - Holdem no limit (10/20) - 2023/01/25 22:03:26 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FuriusDONUTS (250)
+Seat 2: _SKR (600)
+Seat 3: TigerStorm94 (50)
+*** ANTE/BLINDS ***
+TigerStorm94 posts small blind 10
+FuriusDONUTS posts big blind 20
+Dealt to _SKR [Kd 6d]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+TigerStorm94 raises 10 to 50 and is all-in
+FuriusDONUTS folds
+_SKR calls 10
+*** FLOP *** [4c 9d 9s]
+*** TURN *** [4c 9d 9s][Qs]
+*** RIVER *** [4c 9d 9s Qs][5h]
+*** SHOW DOWN ***
+_SKR shows [Kd 6d] (One pair : 9)
+TigerStorm94 shows [Ac 8h] (One pair : 9)
+TigerStorm94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4c 9d 9s Qs 5h]
+Seat 2: _SKR (button) showed [Kd 6d] and lost with One pair : 9
+Seat 3: TigerStorm94 (small blind) showed [Ac 8h] and won 120 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690507650407333889-4-1674684225 - Holdem no limit (10/20) - 2023/01/25 22:03:45 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #3 is the button
+Seat 1: FuriusDONUTS (230)
+Seat 2: _SKR (550)
+Seat 3: TigerStorm94 (120)
+*** ANTE/BLINDS ***
+FuriusDONUTS posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ad 6h]
+*** PRE-FLOP *** 
+TigerStorm94 folds
+FuriusDONUTS calls 10
+_SKR raises 530 to 550 and is all-in
+FuriusDONUTS folds
+_SKR collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 2: _SKR (big blind) won 570
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690507650407333889-5-1674684239 - Holdem no limit (15/30) - 2023/01/25 22:03:59 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FuriusDONUTS (210)
+Seat 2: _SKR (570)
+Seat 3: TigerStorm94 (120)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+TigerStorm94 posts big blind 30
+Dealt to _SKR [4c 2h]
+*** PRE-FLOP *** 
+FuriusDONUTS raises 180 to 210 and is all-in
+_SKR folds
+TigerStorm94 calls 90 and is all-in
+*** FLOP *** [Qc Jd Tc]
+*** TURN *** [Qc Jd Tc][3d]
+*** RIVER *** [Qc Jd Tc 3d][Qd]
+*** SHOW DOWN ***
+FuriusDONUTS shows [7c 8c] (One pair : Queens)
+TigerStorm94 shows [5c Ah] (One pair : Queens)
+TigerStorm94 collected 255 from main pot
+FuriusDONUTS collected 90 from side pot 1
+*** SUMMARY ***
+Total pot 345 | No rake
+Board: [Qc Jd Tc 3d Qd]
+Seat 1: FuriusDONUTS (button) showed [7c 8c] and won 90 with One pair : Queens
+Seat 3: TigerStorm94 (big blind) showed [5c Ah] and won 255 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690507650407333889-6-1674684254 - Holdem no limit (15/30) - 2023/01/25 22:04:14 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FuriusDONUTS (90)
+Seat 2: _SKR (555)
+Seat 3: TigerStorm94 (255)
+*** ANTE/BLINDS ***
+TigerStorm94 posts small blind 15
+FuriusDONUTS posts big blind 30
+Dealt to _SKR [Ks Qh]
+*** PRE-FLOP *** 
+_SKR raises 525 to 555 and is all-in
+TigerStorm94 folds
+FuriusDONUTS calls 60 and is all-in
+*** FLOP *** [5h Js 6c]
+*** TURN *** [5h Js 6c][4h]
+*** RIVER *** [5h Js 6c 4h][Jc]
+*** SHOW DOWN ***
+FuriusDONUTS shows [5c Ac] (Two pairs : Jacks and 5)
+_SKR shows [Ks Qh] (One pair : Jacks)
+_SKR collected 465 from side pot 1
+FuriusDONUTS collected 195 from main pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [5h Js 6c 4h Jc]
+Seat 1: FuriusDONUTS (big blind) showed [5c Ac] and won 195 with Two pairs : Jacks and 5
+Seat 2: _SKR (button) showed [Ks Qh] and won 465 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690507650407333889-7-1674684272 - Holdem no limit (15/30) - 2023/01/25 22:04:32 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #3 is the button
+Seat 1: FuriusDONUTS (195)
+Seat 2: _SKR (465)
+Seat 3: TigerStorm94 (240)
+*** ANTE/BLINDS ***
+FuriusDONUTS posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad 4d]
+*** PRE-FLOP *** 
+TigerStorm94 raises 210 to 240 and is all-in
+FuriusDONUTS folds
+_SKR raises 210 to 450
+*** FLOP *** [Th 9d Jc]
+*** TURN *** [Th 9d Jc][3c]
+*** RIVER *** [Th 9d Jc 3c][4h]
+*** SHOW DOWN ***
+_SKR shows [Ad 4d] (One pair : 4)
+TigerStorm94 shows [9c Kh] (One pair : 9)
+TigerStorm94 collected 495 from main pot
+_SKR collected 210 from side pot 1
+*** SUMMARY ***
+Total pot 705 | No rake
+Board: [Th 9d Jc 3c 4h]
+Seat 2: _SKR (big blind) showed [Ad 4d] and won 210 with One pair : 4
+Seat 3: TigerStorm94 (button) showed [9c Kh] and won 495 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690507650407333889-8-1674684289 - Holdem no limit (20/40) - 2023/01/25 22:04:49 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FuriusDONUTS (180)
+Seat 2: _SKR (225)
+Seat 3: TigerStorm94 (495)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+TigerStorm94 posts big blind 40
+Dealt to _SKR [Ac 2s]
+*** PRE-FLOP *** 
+FuriusDONUTS raises 140 to 180 and is all-in
+_SKR raises 45 to 225 and is all-in
+TigerStorm94 folds
+*** FLOP *** [4s 7d 2c]
+*** TURN *** [4s 7d 2c][As]
+*** RIVER *** [4s 7d 2c As][8d]
+*** SHOW DOWN ***
+FuriusDONUTS shows [Th Ah] (One pair : Aces)
+_SKR shows [Ac 2s] (Two pairs : Aces and 2)
+_SKR collected 445 from pot
+*** SUMMARY ***
+Total pot 445 | No rake
+Board: [4s 7d 2c As 8d]
+Seat 1: FuriusDONUTS (button) showed [Th Ah] and lost with One pair : Aces
+Seat 2: _SKR (small blind) showed [Ac 2s] and won 445 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690507650407333889-9-1674684304 - Holdem no limit (20/40) - 2023/01/25 22:05:04 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (445)
+Seat 3: TigerStorm94 (455)
+*** ANTE/BLINDS ***
+TigerStorm94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7d Qs]
+*** PRE-FLOP *** 
+TigerStorm94 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690507650407333889-10-1674684308 - Holdem no limit (20/40) - 2023/01/25 22:05:08 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (465)
+Seat 3: TigerStorm94 (435)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+TigerStorm94 posts big blind 40
+Dealt to _SKR [9d Kd]
+*** PRE-FLOP *** 
+_SKR raises 425 to 465 and is all-in
+TigerStorm94 folds
+_SKR collected 505 from pot
+*** SUMMARY ***
+Total pot 505 | No rake
+Seat 2: _SKR (small blind) (button) won 505
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690507650407333889-11-1674684315 - Holdem no limit (20/40) - 2023/01/25 22:05:15 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (505)
+Seat 3: TigerStorm94 (395)
+*** ANTE/BLINDS ***
+TigerStorm94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3d Ac]
+*** PRE-FLOP *** 
+TigerStorm94 raises 355 to 395 and is all-in
+_SKR calls 355
+*** FLOP *** [6s Qs 2s]
+*** TURN *** [6s Qs 2s][Jh]
+*** RIVER *** [6s Qs 2s Jh][Th]
+*** SHOW DOWN ***
+_SKR shows [3d Ac] (High card : Ace)
+TigerStorm94 shows [4c As] (High card : Ace)
+TigerStorm94 collected 395 from pot
+_SKR collected 395 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [6s Qs 2s Jh Th]
+Seat 2: _SKR (big blind) showed [3d Ac] and won 395 with High card : Ace
+Seat 3: TigerStorm94 (small blind) (button) showed [4c As] and won 395 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690507650407333889-12-1674684331 - Holdem no limit (20/40) - 2023/01/25 22:05:31 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (505)
+Seat 3: TigerStorm94 (395)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+TigerStorm94 posts big blind 40
+Dealt to _SKR [6d 4h]
+*** PRE-FLOP *** 
+_SKR folds
+TigerStorm94 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: TigerStorm94 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690507650407333889-13-1674684337 - Holdem no limit (20/40) - 2023/01/25 22:05:37 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (485)
+Seat 3: TigerStorm94 (415)
+*** ANTE/BLINDS ***
+TigerStorm94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3c 7s]
+*** PRE-FLOP *** 
+TigerStorm94 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690507650407333889-14-1674684341 - Holdem no limit (20/40) - 2023/01/25 22:05:41 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (505)
+Seat 3: TigerStorm94 (395)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+TigerStorm94 posts big blind 40
+Dealt to _SKR [5c 8c]
+*** PRE-FLOP *** 
+_SKR folds
+TigerStorm94 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: TigerStorm94 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690507650407333889-15-1674684346 - Holdem no limit (20/40) - 2023/01/25 22:05:46 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (485)
+Seat 3: TigerStorm94 (415)
+*** ANTE/BLINDS ***
+TigerStorm94 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac As]
+*** PRE-FLOP *** 
+TigerStorm94 raises 375 to 415 and is all-in
+_SKR calls 375
+*** FLOP *** [9d Ah 2s]
+*** TURN *** [9d Ah 2s][3s]
+*** RIVER *** [9d Ah 2s 3s][5s]
+*** SHOW DOWN ***
+_SKR shows [Ac As] (Trips of Aces)
+TigerStorm94 shows [Qc 4s] (Straight 5 high)
+TigerStorm94 collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Board: [9d Ah 2s 3s 5s]
+Seat 2: _SKR (big blind) showed [Ac As] and lost with Trips of Aces
+Seat 3: TigerStorm94 (small blind) (button) showed [Qc 4s] and won 830 with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690507650407333889-16-1674684370 - Holdem no limit (30/60) - 2023/01/25 22:06:10 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (70)
+Seat 3: TigerStorm94 (830)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+TigerStorm94 posts big blind 60
+Dealt to _SKR [7c 4s]
+*** PRE-FLOP *** 
+_SKR folds
+TigerStorm94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: TigerStorm94 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690507650407333889-17-1674684387 - Holdem no limit (30/60) - 2023/01/25 22:06:27 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (40)
+Seat 3: TigerStorm94 (860)
+*** ANTE/BLINDS ***
+TigerStorm94 posts small blind 30
+_SKR posts big blind 40 and is all-in
+Dealt to _SKR [6c 6d]
+*** PRE-FLOP *** 
+TigerStorm94 raises 820 to 860 and is all-in
+*** FLOP *** [Jd Ah 6s]
+*** TURN *** [Jd Ah 6s][8h]
+*** RIVER *** [Jd Ah 6s 8h][3d]
+*** SHOW DOWN ***
+_SKR shows [6c 6d] (Trips of 6)
+TigerStorm94 shows [Qd Ks] (High card : Ace)
+TigerStorm94 collected 820 from side pot 1
+_SKR collected 80 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jd Ah 6s 8h 3d]
+Seat 2: _SKR (big blind) showed [6c 6d] and won 80 with Trips of 6
+Seat 3: TigerStorm94 (small blind) (button) showed [Qd Ks] and won 820 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690507650407333889-18-1674684400 - Holdem no limit (30/60) - 2023/01/25 22:06:40 UTC
+Table: 'Expresso Nitro(626432628)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (80)
+Seat 3: TigerStorm94 (820)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+TigerStorm94 posts big blind 60
+Dealt to _SKR [6s 4s]
+*** PRE-FLOP *** 
+_SKR raises 20 to 80 and is all-in
+TigerStorm94 calls 20
+*** FLOP *** [Jh Qh Qc]
+*** TURN *** [Jh Qh Qc][7h]
+*** RIVER *** [Jh Qh Qc 7h][Jc]
+*** SHOW DOWN ***
+_SKR shows [6s 4s] (Two pairs : Queens and Jacks)
+TigerStorm94 shows [8h Jd] (Full of Jacks and Queens)
+TigerStorm94 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Jh Qh Qc 7h Jc]
+Seat 2: _SKR (small blind) (button) showed [6s 4s] and lost with Two pairs : Queens and Jacks
+Seat 3: TigerStorm94 (big blind) showed [8h Jd] and won 160 with Full of Jacks and Queens
+
+

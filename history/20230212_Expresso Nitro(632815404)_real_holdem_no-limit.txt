@@ -1,0 +1,459 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717921464585027585-1-1676239981 - Holdem no limit (10/20) - 2023/02/12 22:13:01 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Erenmartinez (300)
+Seat 3: Sbrngvrs (300)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 10
+Sbrngvrs posts big blind 20
+Dealt to _SKR [Ts 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Erenmartinez folds
+Sbrngvrs collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Sbrngvrs (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717921464585027585-2-1676239987 - Holdem no limit (10/20) - 2023/02/12 22:13:07 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Erenmartinez (290)
+Seat 3: Sbrngvrs (310)
+*** ANTE/BLINDS ***
+Sbrngvrs posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h Td]
+*** PRE-FLOP *** 
+Erenmartinez raises 270 to 290 and is all-in
+Sbrngvrs calls 280
+_SKR folds
+*** FLOP *** [Ad Jd 2s]
+*** TURN *** [Ad Jd 2s][Ts]
+*** RIVER *** [Ad Jd 2s Ts][4s]
+*** SHOW DOWN ***
+Sbrngvrs shows [Qh Qd] (One pair : Queens)
+Erenmartinez shows [Ah 3d] (One pair : Aces)
+Erenmartinez collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ad Jd 2s Ts 4s]
+Seat 2: Erenmartinez (button) showed [Ah 3d] and won 600 with One pair : Aces
+Seat 3: Sbrngvrs (small blind) showed [Qh Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717921464585027585-3-1676240009 - Holdem no limit (10/20) - 2023/02/12 22:13:29 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Erenmartinez (600)
+Seat 3: Sbrngvrs (20)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Erenmartinez posts big blind 20
+Dealt to _SKR [7d Js]
+*** PRE-FLOP *** 
+Sbrngvrs calls 20 and is all-in
+_SKR folds
+*** FLOP *** [7s Ac 5d]
+*** TURN *** [7s Ac 5d][3h]
+*** RIVER *** [7s Ac 5d 3h][5c]
+*** SHOW DOWN ***
+Sbrngvrs shows [Th 5h] (Trips of 5)
+Erenmartinez shows [Ad 5s] (Full of 5 and Aces)
+Erenmartinez collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [7s Ac 5d 3h 5c]
+Seat 2: Erenmartinez (big blind) showed [Ad 5s] and won 50 with Full of 5 and Aces
+Seat 3: Sbrngvrs (button) showed [Th 5h] and lost with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717921464585027585-4-1676240023 - Holdem no limit (10/20) - 2023/02/12 22:13:43 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Erenmartinez (630)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s 9c]
+*** PRE-FLOP *** 
+Erenmartinez calls 10
+_SKR checks
+*** FLOP *** [Ah 8d 5c]
+_SKR checks
+Erenmartinez checks
+*** TURN *** [Ah 8d 5c][Qd]
+_SKR checks
+Erenmartinez checks
+*** RIVER *** [Ah 8d 5c Qd][7h]
+_SKR checks
+Erenmartinez checks
+*** SHOW DOWN ***
+Erenmartinez shows [2s Kh] (High card : Ace)
+_SKR shows [8s 9c] (One pair : 8)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ah 8d 5c Qd 7h]
+Seat 1: _SKR (big blind) showed [8s 9c] and won 40 with One pair : 8
+Seat 2: Erenmartinez (small blind) (button) showed [2s Kh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717921464585027585-5-1676240047 - Holdem no limit (15/30) - 2023/02/12 22:14:07 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Erenmartinez (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Erenmartinez posts big blind 30
+Dealt to _SKR [7c 9d]
+*** PRE-FLOP *** 
+_SKR folds
+Erenmartinez collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Erenmartinez (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717921464585027585-6-1676240053 - Holdem no limit (15/30) - 2023/02/12 22:14:13 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (275)
+Seat 2: Erenmartinez (625)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8h Ah]
+*** PRE-FLOP *** 
+Erenmartinez calls 15
+_SKR raises 245 to 275 and is all-in
+Erenmartinez folds
+_SKR collected 305 from pot
+*** SUMMARY ***
+Total pot 305 | No rake
+Seat 1: _SKR (big blind) won 305
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717921464585027585-7-1676240065 - Holdem no limit (15/30) - 2023/02/12 22:14:25 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (305)
+Seat 2: Erenmartinez (595)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Erenmartinez posts big blind 30
+Dealt to _SKR [Td 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Erenmartinez collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Erenmartinez (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717921464585027585-8-1676240071 - Holdem no limit (15/30) - 2023/02/12 22:14:31 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Erenmartinez (610)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qd Td]
+*** PRE-FLOP *** 
+Erenmartinez folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717921464585027585-9-1676240075 - Holdem no limit (15/30) - 2023/02/12 22:14:35 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (305)
+Seat 2: Erenmartinez (595)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Erenmartinez posts big blind 30
+Dealt to _SKR [Js Qh]
+*** PRE-FLOP *** 
+_SKR raises 275 to 305 and is all-in
+Erenmartinez raises 290 to 595 and is all-in
+*** FLOP *** [Jc 2h Kd]
+*** TURN *** [Jc 2h Kd][9h]
+*** RIVER *** [Jc 2h Kd 9h][4d]
+*** SHOW DOWN ***
+_SKR shows [Js Qh] (One pair : Jacks)
+Erenmartinez shows [Jh 8h] (One pair : Jacks)
+Erenmartinez collected 290 from side pot 1
+_SKR collected 610 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jc 2h Kd 9h 4d]
+Seat 1: _SKR (small blind) (button) showed [Js Qh] and won 610 with One pair : Jacks
+Seat 2: Erenmartinez (big blind) showed [Jh 8h] and won 290 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717921464585027585-10-1676240086 - Holdem no limit (15/30) - 2023/02/12 22:14:46 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (610)
+Seat 2: Erenmartinez (290)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc Qd]
+*** PRE-FLOP *** 
+Erenmartinez raises 260 to 290 and is all-in
+_SKR folds
+Erenmartinez collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Erenmartinez (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717921464585027585-11-1676240092 - Holdem no limit (15/30) - 2023/02/12 22:14:52 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (580)
+Seat 2: Erenmartinez (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Erenmartinez posts big blind 30
+Dealt to _SKR [7h Td]
+*** PRE-FLOP *** 
+_SKR folds
+Erenmartinez collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Erenmartinez (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717921464585027585-12-1676240095 - Holdem no limit (15/30) - 2023/02/12 22:14:55 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (565)
+Seat 2: Erenmartinez (335)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kh 2c]
+*** PRE-FLOP *** 
+Erenmartinez raises 305 to 335 and is all-in
+_SKR folds
+Erenmartinez collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Seat 2: Erenmartinez (small blind) (button) won 365
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717921464585027585-13-1676240100 - Holdem no limit (20/40) - 2023/02/12 22:15:00 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (535)
+Seat 2: Erenmartinez (365)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Erenmartinez posts big blind 40
+Dealt to _SKR [6h Ac]
+*** PRE-FLOP *** 
+_SKR raises 495 to 535 and is all-in
+Erenmartinez folds
+_SKR collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Seat 1: _SKR (small blind) (button) won 575
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717921464585027585-14-1676240109 - Holdem no limit (20/40) - 2023/02/12 22:15:09 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (575)
+Seat 2: Erenmartinez (325)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ks Tc]
+*** PRE-FLOP *** 
+Erenmartinez folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717921464585027585-15-1676240113 - Holdem no limit (20/40) - 2023/02/12 22:15:13 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (595)
+Seat 2: Erenmartinez (305)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Erenmartinez posts big blind 40
+Dealt to _SKR [4s Qd]
+*** PRE-FLOP *** 
+_SKR folds
+Erenmartinez collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Erenmartinez (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717921464585027585-16-1676240119 - Holdem no limit (20/40) - 2023/02/12 22:15:19 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (575)
+Seat 2: Erenmartinez (325)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9d Tc]
+*** PRE-FLOP *** 
+Erenmartinez raises 40 to 80
+_SKR folds
+Erenmartinez collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Erenmartinez (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717921464585027585-17-1676240128 - Holdem no limit (20/40) - 2023/02/12 22:15:28 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (535)
+Seat 2: Erenmartinez (365)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Erenmartinez posts big blind 40
+Dealt to _SKR [Qc 9s]
+*** PRE-FLOP *** 
+_SKR calls 20
+Erenmartinez checks
+*** FLOP *** [Ks 3d 5d]
+Erenmartinez checks
+_SKR checks
+*** TURN *** [Ks 3d 5d][Qd]
+Erenmartinez checks
+_SKR bets 40
+Erenmartinez folds
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ks 3d 5d Qd]
+Seat 1: _SKR (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717921464585027585-18-1676240153 - Holdem no limit (20/40) - 2023/02/12 22:15:53 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (575)
+Seat 2: Erenmartinez (325)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2h Qs]
+*** PRE-FLOP *** 
+Erenmartinez raises 40 to 80
+_SKR folds
+Erenmartinez collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Erenmartinez (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717921464585027585-19-1676240162 - Holdem no limit (30/60) - 2023/02/12 22:16:02 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (535)
+Seat 2: Erenmartinez (365)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Erenmartinez posts big blind 60
+Dealt to _SKR [5c 9c]
+*** PRE-FLOP *** 
+_SKR folds
+Erenmartinez collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Erenmartinez (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717921464585027585-20-1676240169 - Holdem no limit (30/60) - 2023/02/12 22:16:09 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (505)
+Seat 2: Erenmartinez (395)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c 6s]
+*** PRE-FLOP *** 
+Erenmartinez raises 335 to 395 and is all-in
+_SKR folds
+Erenmartinez collected 455 from pot
+*** SUMMARY ***
+Total pot 455 | No rake
+Seat 2: Erenmartinez (small blind) (button) won 455
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717921464585027585-21-1676240174 - Holdem no limit (30/60) - 2023/02/12 22:16:14 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (445)
+Seat 2: Erenmartinez (455)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Erenmartinez posts big blind 60
+Dealt to _SKR [7s 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Erenmartinez collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Erenmartinez (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717921464585027585-22-1676240177 - Holdem no limit (30/60) - 2023/02/12 22:16:17 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (415)
+Seat 2: Erenmartinez (485)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qs Jc]
+*** PRE-FLOP *** 
+Erenmartinez folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717921464585027585-23-1676240181 - Holdem no limit (30/60) - 2023/02/12 22:16:21 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (445)
+Seat 2: Erenmartinez (455)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Erenmartinez posts big blind 60
+Dealt to _SKR [3h 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Erenmartinez collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Erenmartinez (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717921464585027585-24-1676240184 - Holdem no limit (30/60) - 2023/02/12 22:16:24 UTC
+Table: 'Expresso Nitro(632815404)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (415)
+Seat 2: Erenmartinez (485)
+*** ANTE/BLINDS ***
+Erenmartinez posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7c Ks]
+*** PRE-FLOP *** 
+Erenmartinez calls 30
+_SKR raises 355 to 415 and is all-in
+Erenmartinez calls 355
+*** FLOP *** [3c Ah 9s]
+*** TURN *** [3c Ah 9s][Ac]
+*** RIVER *** [3c Ah 9s Ac][5s]
+*** SHOW DOWN ***
+_SKR shows [7c Ks] (One pair : Aces)
+Erenmartinez shows [5h Qs] (Two pairs : Aces and 5)
+Erenmartinez collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Board: [3c Ah 9s Ac 5s]
+Seat 1: _SKR (big blind) showed [7c Ks] and lost with One pair : Aces
+Seat 2: Erenmartinez (small blind) (button) showed [5h Qs] and won 830 with Two pairs : Aces and 5
+
+

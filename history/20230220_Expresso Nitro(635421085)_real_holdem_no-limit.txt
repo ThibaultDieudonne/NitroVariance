@@ -1,0 +1,165 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729112779263836161-1-1676901250 - Holdem no limit (10/20) - 2023/02/20 13:54:10 UTC
+Table: 'Expresso Nitro(635421085)#0' 3-max (real money) Seat #3 is the button
+Seat 1: koko52 (300)
+Seat 2: _SKR (300)
+Seat 3: Monelafoudre (300)
+*** ANTE/BLINDS ***
+koko52 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d 4c]
+*** PRE-FLOP *** 
+Monelafoudre folds
+koko52 raises 280 to 300 and is all-in
+_SKR folds
+koko52 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: koko52 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729112779263836161-2-1676901265 - Holdem no limit (10/20) - 2023/02/20 13:54:25 UTC
+Table: 'Expresso Nitro(635421085)#0' 3-max (real money) Seat #1 is the button
+Seat 1: koko52 (320)
+Seat 2: _SKR (280)
+Seat 3: Monelafoudre (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Monelafoudre posts big blind 20
+Dealt to _SKR [5h Td]
+*** PRE-FLOP *** 
+koko52 raises 50 to 70
+_SKR folds
+Monelafoudre folds
+koko52 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 1: koko52 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729112779263836161-3-1676901280 - Holdem no limit (10/20) - 2023/02/20 13:54:40 UTC
+Table: 'Expresso Nitro(635421085)#0' 3-max (real money) Seat #2 is the button
+Seat 1: koko52 (350)
+Seat 2: _SKR (270)
+Seat 3: Monelafoudre (280)
+*** ANTE/BLINDS ***
+Monelafoudre posts small blind 10
+koko52 posts big blind 20
+Dealt to _SKR [Qc 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Monelafoudre raises 20 to 40
+koko52 raises 20 to 60
+Monelafoudre calls 20
+*** FLOP *** [Ah 2d Kh]
+Monelafoudre checks
+koko52 checks
+*** TURN *** [Ah 2d Kh][7s]
+Monelafoudre checks
+koko52 checks
+*** RIVER *** [Ah 2d Kh 7s][Js]
+Monelafoudre checks
+koko52 checks
+*** SHOW DOWN ***
+koko52 shows [Qs 8c] (High card : Ace)
+Monelafoudre shows [Qh 8s] (High card : Ace)
+Monelafoudre collected 60 from pot
+koko52 collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ah 2d Kh 7s Js]
+Seat 1: koko52 (big blind) showed [Qs 8c] and won 60 with High card : Ace
+Seat 3: Monelafoudre (small blind) showed [Qh 8s] and won 60 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729112779263836161-4-1676901311 - Holdem no limit (15/30) - 2023/02/20 13:55:11 UTC
+Table: 'Expresso Nitro(635421085)#0' 3-max (real money) Seat #3 is the button
+Seat 1: koko52 (350)
+Seat 2: _SKR (270)
+Seat 3: Monelafoudre (280)
+*** ANTE/BLINDS ***
+koko52 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qd Qc]
+*** PRE-FLOP *** 
+Monelafoudre folds
+koko52 calls 15
+_SKR raises 38 to 68
+koko52 calls 38
+*** FLOP *** [8c 2c 7d]
+koko52 checks
+_SKR bets 48
+koko52 calls 48
+*** TURN *** [8c 2c 7d][Kh]
+koko52 checks
+_SKR checks
+*** RIVER *** [8c 2c 7d Kh][Tc]
+koko52 checks
+_SKR bets 154 and is all-in
+koko52 folds
+_SKR collected 386 from pot
+*** SUMMARY ***
+Total pot 386 | No rake
+Board: [8c 2c 7d Kh Tc]
+Seat 2: _SKR (big blind) won 386
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2729112779263836161-5-1676901360 - Holdem no limit (15/30) - 2023/02/20 13:56:00 UTC
+Table: 'Expresso Nitro(635421085)#0' 3-max (real money) Seat #1 is the button
+Seat 1: koko52 (234)
+Seat 2: _SKR (386)
+Seat 3: Monelafoudre (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Monelafoudre posts big blind 30
+Dealt to _SKR [Kd Qc]
+*** PRE-FLOP *** 
+koko52 raises 30 to 60
+_SKR raises 326 to 386 and is all-in
+Monelafoudre folds
+koko52 calls 174 and is all-in
+*** FLOP *** [Th 7s 9h]
+*** TURN *** [Th 7s 9h][8h]
+*** RIVER *** [Th 7s 9h 8h][Jd]
+*** SHOW DOWN ***
+koko52 shows [As Ah] (Straight Jack high)
+_SKR shows [Kd Qc] (Straight King high)
+_SKR collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Th 7s 9h 8h Jd]
+Seat 1: koko52 (button) showed [As Ah] and lost with Straight Jack high
+Seat 2: _SKR (small blind) showed [Kd Qc] and won 650 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2729112779263836161-6-1676901379 - Holdem no limit (20/40) - 2023/02/20 13:56:19 UTC
+Table: 'Expresso Nitro(635421085)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (650)
+Seat 3: Monelafoudre (250)
+*** ANTE/BLINDS ***
+Monelafoudre posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ad As]
+*** PRE-FLOP *** 
+Monelafoudre raises 40 to 80
+_SKR calls 40
+*** FLOP *** [Qd 6d 6c]
+_SKR checks
+Monelafoudre bets 40
+_SKR calls 40
+*** TURN *** [Qd 6d 6c][Ts]
+_SKR checks
+Monelafoudre checks
+*** RIVER *** [Qd 6d 6c Ts][6h]
+_SKR bets 140
+Monelafoudre calls 130 and is all-in
+*** SHOW DOWN ***
+Monelafoudre shows [4s Ah] (Trips of 6)
+_SKR shows [Ad As] (Full of 6 and Aces)
+_SKR collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [Qd 6d 6c Ts 6h]
+Seat 2: _SKR (big blind) showed [Ad As] and won 510 with Full of 6 and Aces
+Seat 3: Monelafoudre (small blind) (button) showed [4s Ah] and lost with Trips of 6
+
+

@@ -1,0 +1,80 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696524379897987073-1-1675085021 - Holdem no limit (10/20) - 2023/01/30 13:23:41 UTC
+Table: 'Expresso Nitro(627833507)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Royyyyaa06 (300)
+Seat 2: _SKR (300)
+Seat 3: gianni068 (300)
+*** ANTE/BLINDS ***
+gianni068 posts small blind 10
+Royyyyaa06 posts big blind 20
+Dealt to _SKR [8d 5c]
+*** PRE-FLOP *** 
+_SKR folds
+gianni068 calls 10
+Royyyyaa06 checks
+*** FLOP *** [Ks Ts 7h]
+gianni068 bets 26
+Royyyyaa06 calls 26
+*** TURN *** [Ks Ts 7h][As]
+gianni068 checks
+Royyyyaa06 checks
+*** RIVER *** [Ks Ts 7h As][Js]
+gianni068 bets 32
+Royyyyaa06 calls 32
+*** SHOW DOWN ***
+gianni068 shows [Qd 9h] (Straight Ace high)
+Royyyyaa06 shows [7c 5s] (Flush Ace high)
+Royyyyaa06 collected 156 from pot
+*** SUMMARY ***
+Total pot 156 | No rake
+Board: [Ks Ts 7h As Js]
+Seat 1: Royyyyaa06 (big blind) showed [7c 5s] and won 156 with Flush Ace high
+Seat 3: gianni068 (small blind) showed [Qd 9h] and lost with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696524379897987073-2-1675085044 - Holdem no limit (10/20) - 2023/01/30 13:24:04 UTC
+Table: 'Expresso Nitro(627833507)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Royyyyaa06 (378)
+Seat 2: _SKR (300)
+Seat 3: gianni068 (222)
+*** ANTE/BLINDS ***
+Royyyyaa06 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h 3c]
+*** PRE-FLOP *** 
+gianni068 raises 202 to 222 and is all-in
+Royyyyaa06 folds
+_SKR folds
+gianni068 collected 252 from pot
+*** SUMMARY ***
+Total pot 252 | No rake
+Seat 3: gianni068 (button) won 252
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696524379897987073-3-1675085051 - Holdem no limit (10/20) - 2023/01/30 13:24:11 UTC
+Table: 'Expresso Nitro(627833507)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Royyyyaa06 (368)
+Seat 2: _SKR (280)
+Seat 3: gianni068 (252)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+gianni068 posts big blind 20
+Dealt to _SKR [Kd Kc]
+*** PRE-FLOP *** 
+Royyyyaa06 calls 20
+_SKR raises 260 to 280 and is all-in
+gianni068 folds
+Royyyyaa06 calls 260
+*** FLOP *** [Td Js 4d]
+*** TURN *** [Td Js 4d][Qh]
+*** RIVER *** [Td Js 4d Qh][7d]
+*** SHOW DOWN ***
+_SKR shows [Kd Kc] (One pair : Kings)
+Royyyyaa06 shows [5d 6d] (Flush Ten high)
+Royyyyaa06 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Td Js 4d Qh 7d]
+Seat 1: Royyyyaa06 (button) showed [5d 6d] and won 580 with Flush Ten high
+Seat 2: _SKR (small blind) showed [Kd Kc] and lost with One pair : Kings
+
+

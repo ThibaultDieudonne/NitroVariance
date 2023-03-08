@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690588258353545217-1-1674686972 - Holdem no limit (10/20) - 2023/01/25 22:49:32 UTC
+Table: 'Expresso Nitro(626451396)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: chamanon04 (300)
+Seat 3: KaisAasi (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+chamanon04 posts big blind 20
+Dealt to _SKR [Qh 5d]
+*** PRE-FLOP *** 
+KaisAasi folds
+_SKR folds
+chamanon04 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: chamanon04 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690588258353545217-2-1674686977 - Holdem no limit (10/20) - 2023/01/25 22:49:37 UTC
+Table: 'Expresso Nitro(626451396)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: chamanon04 (310)
+Seat 3: KaisAasi (300)
+*** ANTE/BLINDS ***
+chamanon04 posts small blind 10
+KaisAasi posts big blind 20
+Dealt to _SKR [7s Tc]
+*** PRE-FLOP *** 
+_SKR folds
+chamanon04 calls 10
+KaisAasi checks
+*** FLOP *** [2s Qc 9c]
+chamanon04 checks
+KaisAasi checks
+*** TURN *** [2s Qc 9c][Js]
+chamanon04 checks
+KaisAasi checks
+*** RIVER *** [2s Qc 9c Js][Ac]
+chamanon04 checks
+KaisAasi checks
+*** SHOW DOWN ***
+chamanon04 shows [8s 7c] (High card : Ace)
+KaisAasi shows [As 4c] (One pair : Aces)
+KaisAasi collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2s Qc 9c Js Ac]
+Seat 2: chamanon04 (small blind) showed [8s 7c] and lost with High card : Ace
+Seat 3: KaisAasi (big blind) showed [As 4c] and won 40 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690588258353545217-3-1674687009 - Holdem no limit (10/20) - 2023/01/25 22:50:09 UTC
+Table: 'Expresso Nitro(626451396)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: chamanon04 (290)
+Seat 3: KaisAasi (320)
+*** ANTE/BLINDS ***
+KaisAasi posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac Tc]
+*** PRE-FLOP *** 
+chamanon04 calls 20
+KaisAasi calls 10
+_SKR raises 270 to 290 and is all-in
+chamanon04 calls 270 and is all-in
+KaisAasi calls 270
+*** FLOP *** [6s 5s As]
+*** TURN *** [6s 5s As][2h]
+*** RIVER *** [6s 5s As 2h][Th]
+*** SHOW DOWN ***
+chamanon04 shows [9c 8d] (High card : Ace)
+KaisAasi shows [Kd 5h] (One pair : 5)
+_SKR shows [Ac Tc] (Two pairs : Aces and Tens)
+_SKR collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Board: [6s 5s As 2h Th]
+Seat 1: _SKR (big blind) showed [Ac Tc] and won 870 with Two pairs : Aces and Tens
+Seat 2: chamanon04 (button) showed [9c 8d] and lost with High card : Ace
+Seat 3: KaisAasi (small blind) showed [Kd 5h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690588258353545217-4-1674687047 - Holdem no limit (15/30) - 2023/01/25 22:50:47 UTC
+Table: 'Expresso Nitro(626451396)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (870)
+Seat 3: KaisAasi (30)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+KaisAasi posts big blind 30 and is all-in
+Dealt to _SKR [3c Kd]
+*** PRE-FLOP *** 
+_SKR calls 15
+*** FLOP *** [Qd 4c Qh]
+*** TURN *** [Qd 4c Qh][7d]
+*** RIVER *** [Qd 4c Qh 7d][Ac]
+*** SHOW DOWN ***
+KaisAasi shows [Jh Ts] (One pair : Queens)
+_SKR shows [3c Kd] (One pair : Queens)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qd 4c Qh 7d Ac]
+Seat 1: _SKR (small blind) (button) showed [3c Kd] and won 60 with One pair : Queens
+Seat 3: KaisAasi (big blind) showed [Jh Ts] and lost with One pair : Queens
+
+

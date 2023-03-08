@@ -1,0 +1,75 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689753789157605377-1-1674649840 - Holdem no limit (10/20) - 2023/01/25 12:30:40 UTC
+Table: 'Expresso Nitro(626257106)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Les2QQd1Mec (300)
+Seat 2: TL_33 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Les2QQd1Mec posts small blind 10
+TL_33 posts big blind 20
+Dealt to _SKR [3h Ks]
+*** PRE-FLOP *** 
+_SKR folds
+Les2QQd1Mec folds
+TL_33 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: TL_33 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689753789157605377-2-1674649845 - Holdem no limit (10/20) - 2023/01/25 12:30:45 UTC
+Table: 'Expresso Nitro(626257106)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Les2QQd1Mec (290)
+Seat 2: TL_33 (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+TL_33 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5h Jd]
+*** PRE-FLOP *** 
+Les2QQd1Mec folds
+TL_33 calls 10
+_SKR checks
+*** FLOP *** [Qh 8c 3d]
+TL_33 checks
+_SKR checks
+*** TURN *** [Qh 8c 3d][Kh]
+TL_33 checks
+_SKR checks
+*** RIVER *** [Qh 8c 3d Kh][4c]
+TL_33 bets 40
+_SKR folds
+TL_33 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qh 8c 3d Kh 4c]
+Seat 2: TL_33 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689753789157605377-3-1674649891 - Holdem no limit (10/20) - 2023/01/25 12:31:31 UTC
+Table: 'Expresso Nitro(626257106)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Les2QQd1Mec (290)
+Seat 2: TL_33 (330)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Les2QQd1Mec posts big blind 20
+Dealt to _SKR [2d Ac]
+*** PRE-FLOP *** 
+TL_33 calls 20
+_SKR raises 260 to 280 and is all-in
+Les2QQd1Mec raises 10 to 290 and is all-in
+TL_33 folds
+*** FLOP *** [Js 9h Tc]
+*** TURN *** [Js 9h Tc][8d]
+*** RIVER *** [Js 9h Tc 8d][3s]
+*** SHOW DOWN ***
+_SKR shows [2d Ac] (High card : Ace)
+Les2QQd1Mec shows [As Qd] (Straight Queen high)
+Les2QQd1Mec collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Js 9h Tc 8d 3s]
+Seat 1: Les2QQd1Mec (big blind) showed [As Qd] and won 590 with Straight Queen high
+Seat 3: _SKR (small blind) showed [2d Ac] and lost with High card : Ace
+
+

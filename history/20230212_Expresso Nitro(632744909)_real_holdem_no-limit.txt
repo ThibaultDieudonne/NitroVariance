@@ -1,0 +1,64 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717618690865496065-1-1676229103 - Holdem no limit (10/20) - 2023/02/12 19:11:43 UTC
+Table: 'Expresso Nitro(632744909)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gosmon (300)
+Seat 2: 7yoyo (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Gosmon posts small blind 10
+7yoyo posts big blind 20
+Dealt to _SKR [8h 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Gosmon calls 10
+7yoyo checks
+*** FLOP *** [6c Qc 4h]
+Gosmon checks
+7yoyo checks
+*** TURN *** [6c Qc 4h][Kh]
+Gosmon checks
+7yoyo checks
+*** RIVER *** [6c Qc 4h Kh][3c]
+Gosmon checks
+7yoyo checks
+*** SHOW DOWN ***
+Gosmon shows [3h Ts] (One pair : 3)
+7yoyo shows [9s Qd] (One pair : Queens)
+7yoyo collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [6c Qc 4h Kh 3c]
+Seat 1: Gosmon (small blind) showed [3h Ts] and lost with One pair : 3
+Seat 2: 7yoyo (big blind) showed [9s Qd] and won 40 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717618690865496065-2-1676229161 - Holdem no limit (15/30) - 2023/02/12 19:12:41 UTC
+Table: 'Expresso Nitro(632744909)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gosmon (280)
+Seat 2: 7yoyo (320)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+7yoyo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd Tc]
+*** PRE-FLOP *** 
+Gosmon calls 30
+7yoyo calls 15
+_SKR raises 270 to 300 and is all-in
+Gosmon calls 250 and is all-in
+7yoyo calls 270
+*** FLOP *** [2c 2s 7c]
+*** TURN *** [2c 2s 7c][3d]
+*** RIVER *** [2c 2s 7c 3d][Ah]
+*** SHOW DOWN ***
+Gosmon shows [Ks 9s] (One pair : 2)
+_SKR shows [Jd Tc] (One pair : 2)
+7yoyo shows [Jh As] (Two pairs : Aces and 2)
+7yoyo collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [2c 2s 7c 3d Ah]
+Seat 1: Gosmon (button) showed [Ks 9s] and lost with One pair : 2
+Seat 2: 7yoyo (small blind) showed [Jh As] and won 880 with Two pairs : Aces and 2
+Seat 3: _SKR (big blind) showed [Jd Tc] and lost with One pair : 2
+
+

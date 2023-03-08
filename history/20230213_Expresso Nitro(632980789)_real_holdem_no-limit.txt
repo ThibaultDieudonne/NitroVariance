@@ -1,0 +1,217 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718631787751276545-1-1676292576 - Holdem no limit (10/20) - 2023/02/13 12:49:36 UTC
+Table: 'Expresso Nitro(632980789)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Steegoo (300)
+Seat 2: _SKR (300)
+Seat 3: PeterparKKer (300)
+*** ANTE/BLINDS ***
+PeterparKKer posts small blind 10
+Steegoo posts big blind 20
+Dealt to _SKR [Jc 9c]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+PeterparKKer folds
+Steegoo calls 20
+*** FLOP *** [8s Kd 9s]
+Steegoo checks
+_SKR checks
+*** TURN *** [8s Kd 9s][3s]
+Steegoo checks
+_SKR checks
+*** RIVER *** [8s Kd 9s 3s][Ts]
+Steegoo checks
+_SKR checks
+*** SHOW DOWN ***
+Steegoo shows [Ac 7h] (High card : Ace)
+_SKR shows [Jc 9c] (One pair : 9)
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [8s Kd 9s 3s Ts]
+Seat 1: Steegoo (big blind) showed [Ac 7h] and lost with High card : Ace
+Seat 2: _SKR (button) showed [Jc 9c] and won 90 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718631787751276545-2-1676292606 - Holdem no limit (10/20) - 2023/02/13 12:50:06 UTC
+Table: 'Expresso Nitro(632980789)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Steegoo (260)
+Seat 2: _SKR (350)
+Seat 3: PeterparKKer (290)
+*** ANTE/BLINDS ***
+Steegoo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d Th]
+*** PRE-FLOP *** 
+PeterparKKer folds
+Steegoo calls 10
+_SKR checks
+*** FLOP *** [2c 9s 4s]
+Steegoo checks
+_SKR checks
+*** TURN *** [2c 9s 4s][Qh]
+Steegoo checks
+_SKR checks
+*** RIVER *** [2c 9s 4s Qh][7c]
+Steegoo checks
+_SKR checks
+*** SHOW DOWN ***
+Steegoo shows [Kh 5d] (High card : King)
+_SKR shows [7d Th] (One pair : 7)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2c 9s 4s Qh 7c]
+Seat 1: Steegoo (small blind) showed [Kh 5d] and lost with High card : King
+Seat 2: _SKR (big blind) showed [7d Th] and won 40 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718631787751276545-3-1676292650 - Holdem no limit (15/30) - 2023/02/13 12:50:50 UTC
+Table: 'Expresso Nitro(632980789)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Steegoo (240)
+Seat 2: _SKR (370)
+Seat 3: PeterparKKer (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+PeterparKKer posts big blind 30
+Dealt to _SKR [3s 8s]
+*** PRE-FLOP *** 
+Steegoo folds
+_SKR folds
+PeterparKKer collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: PeterparKKer (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718631787751276545-4-1676292656 - Holdem no limit (15/30) - 2023/02/13 12:50:56 UTC
+Table: 'Expresso Nitro(632980789)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Steegoo (240)
+Seat 2: _SKR (355)
+Seat 3: PeterparKKer (305)
+*** ANTE/BLINDS ***
+PeterparKKer posts small blind 15
+Steegoo posts big blind 30
+Dealt to _SKR [Jh 4c]
+*** PRE-FLOP *** 
+_SKR folds
+PeterparKKer calls 15
+Steegoo checks
+*** FLOP *** [3d 4h Qc]
+PeterparKKer checks
+Steegoo bets 210 and is all-in
+PeterparKKer folds
+Steegoo collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [3d 4h Qc]
+Seat 1: Steegoo (big blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718631787751276545-5-1676292683 - Holdem no limit (15/30) - 2023/02/13 12:51:23 UTC
+Table: 'Expresso Nitro(632980789)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Steegoo (270)
+Seat 2: _SKR (355)
+Seat 3: PeterparKKer (275)
+*** ANTE/BLINDS ***
+Steegoo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [5s Ks]
+*** PRE-FLOP *** 
+PeterparKKer folds
+Steegoo raises 30 to 60
+_SKR calls 30
+*** FLOP *** [6c 2h 7h]
+Steegoo checks
+_SKR bets 60
+Steegoo raises 150 to 210 and is all-in
+_SKR folds
+Steegoo collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [6c 2h 7h]
+Seat 1: Steegoo (small blind) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718631787751276545-6-1676292703 - Holdem no limit (20/40) - 2023/02/13 12:51:43 UTC
+Table: 'Expresso Nitro(632980789)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Steegoo (390)
+Seat 2: _SKR (235)
+Seat 3: PeterparKKer (275)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+PeterparKKer posts big blind 40
+Dealt to _SKR [Th Kc]
+*** PRE-FLOP *** 
+Steegoo folds
+_SKR raises 195 to 235 and is all-in
+PeterparKKer folds
+_SKR collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Seat 2: _SKR (small blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718631787751276545-7-1676292714 - Holdem no limit (20/40) - 2023/02/13 12:51:54 UTC
+Table: 'Expresso Nitro(632980789)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Steegoo (390)
+Seat 2: _SKR (275)
+Seat 3: PeterparKKer (235)
+*** ANTE/BLINDS ***
+PeterparKKer posts small blind 20
+Steegoo posts big blind 40
+Dealt to _SKR [4h Td]
+*** PRE-FLOP *** 
+_SKR folds
+PeterparKKer raises 195 to 235 and is all-in
+Steegoo folds
+PeterparKKer collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Seat 3: PeterparKKer (small blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718631787751276545-8-1676292730 - Holdem no limit (20/40) - 2023/02/13 12:52:10 UTC
+Table: 'Expresso Nitro(632980789)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Steegoo (350)
+Seat 2: _SKR (275)
+Seat 3: PeterparKKer (275)
+*** ANTE/BLINDS ***
+Steegoo posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5s 8c]
+*** PRE-FLOP *** 
+PeterparKKer raises 80 to 120
+Steegoo folds
+_SKR folds
+PeterparKKer collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: PeterparKKer (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718631787751276545-9-1676292738 - Holdem no limit (20/40) - 2023/02/13 12:52:18 UTC
+Table: 'Expresso Nitro(632980789)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Steegoo (330)
+Seat 2: _SKR (235)
+Seat 3: PeterparKKer (335)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+PeterparKKer posts big blind 40
+Dealt to _SKR [Ad Td]
+*** PRE-FLOP *** 
+Steegoo folds
+_SKR raises 195 to 235 and is all-in
+PeterparKKer calls 195
+*** FLOP *** [3s 4s Kc]
+*** TURN *** [3s 4s Kc][7h]
+*** RIVER *** [3s 4s Kc 7h][3c]
+*** SHOW DOWN ***
+_SKR shows [Ad Td] (One pair : 3)
+PeterparKKer shows [8d Ks] (Two pairs : Kings and 3)
+PeterparKKer collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [3s 4s Kc 7h 3c]
+Seat 2: _SKR (small blind) showed [Ad Td] and lost with One pair : 3
+Seat 3: PeterparKKer (big blind) showed [8d Ks] and won 470 with Two pairs : Kings and 3
+
+

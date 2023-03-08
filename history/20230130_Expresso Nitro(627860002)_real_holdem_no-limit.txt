@@ -1,0 +1,119 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696638175056494593-1-1675091059 - Holdem no limit (10/20) - 2023/01/30 15:04:19 UTC
+Table: 'Expresso Nitro(627860002)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: NeMcho (300)
+Seat 3: Bullshitter (300)
+*** ANTE/BLINDS ***
+NeMcho posts small blind 10
+Bullshitter posts big blind 20
+Dealt to _SKR [Ks 5c]
+*** PRE-FLOP *** 
+_SKR folds
+NeMcho calls 10
+Bullshitter checks
+*** FLOP *** [Tc Ac Ad]
+NeMcho checks
+Bullshitter checks
+*** TURN *** [Tc Ac Ad][6h]
+NeMcho checks
+Bullshitter checks
+*** RIVER *** [Tc Ac Ad 6h][Jc]
+NeMcho checks
+Bullshitter checks
+*** SHOW DOWN ***
+Bullshitter shows [Kc 4d] (One pair : Aces)
+NeMcho shows [6d Qc] (Two pairs : Aces and 6)
+NeMcho collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Tc Ac Ad 6h Jc]
+Seat 2: NeMcho (small blind) showed [6d Qc] and won 40 with Two pairs : Aces and 6
+Seat 3: Bullshitter (big blind) showed [Kc 4d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696638175056494593-2-1675091095 - Holdem no limit (10/20) - 2023/01/30 15:04:55 UTC
+Table: 'Expresso Nitro(627860002)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: NeMcho (320)
+Seat 3: Bullshitter (280)
+*** ANTE/BLINDS ***
+Bullshitter posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c 5c]
+*** PRE-FLOP *** 
+NeMcho raises 50 to 70
+Bullshitter folds
+_SKR folds
+NeMcho collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: NeMcho (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696638175056494593-3-1675091105 - Holdem no limit (10/20) - 2023/01/30 15:05:05 UTC
+Table: 'Expresso Nitro(627860002)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: NeMcho (350)
+Seat 3: Bullshitter (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+NeMcho posts big blind 20
+Dealt to _SKR [Kc 9h]
+*** PRE-FLOP *** 
+Bullshitter raises 20 to 40
+_SKR folds
+NeMcho folds
+Bullshitter collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: Bullshitter (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696638175056494593-4-1675091115 - Holdem no limit (15/30) - 2023/01/30 15:05:15 UTC
+Table: 'Expresso Nitro(627860002)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: NeMcho (330)
+Seat 3: Bullshitter (300)
+*** ANTE/BLINDS ***
+NeMcho posts small blind 15
+Bullshitter posts big blind 30
+Dealt to _SKR [2s Tc]
+*** PRE-FLOP *** 
+_SKR folds
+NeMcho calls 15
+Bullshitter raises 270 to 300 and is all-in
+NeMcho folds
+Bullshitter collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Bullshitter (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696638175056494593-5-1675091129 - Holdem no limit (15/30) - 2023/01/30 15:05:29 UTC
+Table: 'Expresso Nitro(627860002)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: NeMcho (300)
+Seat 3: Bullshitter (330)
+*** ANTE/BLINDS ***
+Bullshitter posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h As]
+*** PRE-FLOP *** 
+NeMcho folds
+Bullshitter raises 60 to 90
+_SKR raises 180 to 270 and is all-in
+Bullshitter calls 180
+*** FLOP *** [Qc 7h 5s]
+*** TURN *** [Qc 7h 5s][Kc]
+*** RIVER *** [Qc 7h 5s Kc][7c]
+*** SHOW DOWN ***
+_SKR shows [9h As] (One pair : 7)
+Bullshitter shows [Ks Qs] (Two pairs : Kings and Queens)
+Bullshitter collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Qc 7h 5s Kc 7c]
+Seat 1: _SKR (big blind) showed [9h As] and lost with One pair : 7
+Seat 3: Bullshitter (small blind) showed [Ks Qs] and won 540 with Two pairs : Kings and Queens
+
+

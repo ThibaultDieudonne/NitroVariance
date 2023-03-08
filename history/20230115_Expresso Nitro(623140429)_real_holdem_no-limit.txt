@@ -1,0 +1,352 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676367763370409985-1-1673821560 - Holdem no limit (10/20) - 2023/01/15 22:26:00 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sheiynaa (300)
+Seat 2: Fidouchhe (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Sheiynaa posts big blind 20
+Dealt to _SKR [9s 6h]
+*** PRE-FLOP *** 
+Fidouchhe raises 50 to 70
+_SKR folds
+Sheiynaa raises 230 to 300 and is all-in
+Fidouchhe calls 230 and is all-in
+*** FLOP *** [6d 8h Td]
+*** TURN *** [6d 8h Td][6c]
+*** RIVER *** [6d 8h Td 6c][2s]
+*** SHOW DOWN ***
+Fidouchhe shows [Ks Qh] (One pair : 6)
+Sheiynaa shows [9d 9h] (Two pairs : 9 and 6)
+Sheiynaa collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [6d 8h Td 6c 2s]
+Seat 1: Sheiynaa (big blind) showed [9d 9h] and won 610 with Two pairs : 9 and 6
+Seat 2: Fidouchhe (button) showed [Ks Qh] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676367763370409985-2-1673821582 - Holdem no limit (10/20) - 2023/01/15 22:26:22 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sheiynaa (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Sheiynaa posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 4h]
+*** PRE-FLOP *** 
+Sheiynaa calls 10
+_SKR checks
+*** FLOP *** [4s Ac 2h]
+_SKR checks
+Sheiynaa bets 40
+_SKR folds
+Sheiynaa collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4s Ac 2h]
+Seat 1: Sheiynaa (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676367763370409985-3-1673821606 - Holdem no limit (10/20) - 2023/01/15 22:26:46 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sheiynaa (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Sheiynaa posts big blind 20
+Dealt to _SKR [Ad 3h]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Sheiynaa folds
+_SKR collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: _SKR (small blind) (button) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676367763370409985-4-1673821611 - Holdem no limit (10/20) - 2023/01/15 22:26:51 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sheiynaa (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Sheiynaa posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5c Ah]
+*** PRE-FLOP *** 
+Sheiynaa calls 10
+_SKR raises 270 to 290 and is all-in
+Sheiynaa folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 3: _SKR (big blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676367763370409985-5-1673821619 - Holdem no limit (15/30) - 2023/01/15 22:26:59 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sheiynaa (590)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Sheiynaa posts big blind 30
+Dealt to _SKR [4s 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Sheiynaa collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Sheiynaa (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676367763370409985-6-1673821624 - Holdem no limit (15/30) - 2023/01/15 22:27:04 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sheiynaa (605)
+Seat 3: _SKR (295)
+*** ANTE/BLINDS ***
+Sheiynaa posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4h 6s]
+*** PRE-FLOP *** 
+Sheiynaa calls 15
+_SKR checks
+*** FLOP *** [5c 9c 6c]
+_SKR checks
+Sheiynaa checks
+*** TURN *** [5c 9c 6c][Kc]
+_SKR bets 39
+Sheiynaa raises 39 to 78
+_SKR folds
+Sheiynaa collected 177 from pot
+*** SUMMARY ***
+Total pot 177 | No rake
+Board: [5c 9c 6c Kc]
+Seat 1: Sheiynaa (small blind) (button) won 177
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676367763370409985-7-1673821649 - Holdem no limit (15/30) - 2023/01/15 22:27:29 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sheiynaa (674)
+Seat 3: _SKR (226)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Sheiynaa posts big blind 30
+Dealt to _SKR [8s 9d]
+*** PRE-FLOP *** 
+_SKR folds
+Sheiynaa collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Sheiynaa (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676367763370409985-8-1673821654 - Holdem no limit (15/30) - 2023/01/15 22:27:34 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sheiynaa (689)
+Seat 3: _SKR (211)
+*** ANTE/BLINDS ***
+Sheiynaa posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jh Ac]
+*** PRE-FLOP *** 
+Sheiynaa calls 15
+_SKR raises 181 to 211 and is all-in
+Sheiynaa folds
+_SKR collected 241 from pot
+*** SUMMARY ***
+Total pot 241 | No rake
+Seat 3: _SKR (big blind) won 241
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676367763370409985-9-1673821666 - Holdem no limit (15/30) - 2023/01/15 22:27:46 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sheiynaa (659)
+Seat 3: _SKR (241)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Sheiynaa posts big blind 30
+Dealt to _SKR [Kc 4s]
+*** PRE-FLOP *** 
+_SKR folds
+Sheiynaa collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Sheiynaa (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676367763370409985-10-1673821685 - Holdem no limit (20/40) - 2023/01/15 22:28:05 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sheiynaa (674)
+Seat 3: _SKR (226)
+*** ANTE/BLINDS ***
+Sheiynaa posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3h 7s]
+*** PRE-FLOP *** 
+Sheiynaa calls 20
+_SKR checks
+*** FLOP *** [Td 9c Ah]
+_SKR checks
+Sheiynaa bets 40
+_SKR folds
+Sheiynaa collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Td 9c Ah]
+Seat 1: Sheiynaa (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676367763370409985-11-1673821708 - Holdem no limit (20/40) - 2023/01/15 22:28:28 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sheiynaa (714)
+Seat 3: _SKR (186)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Sheiynaa posts big blind 40
+Dealt to _SKR [2d 7d]
+*** PRE-FLOP *** 
+_SKR folds
+Sheiynaa collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Sheiynaa (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676367763370409985-12-1673821712 - Holdem no limit (20/40) - 2023/01/15 22:28:32 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sheiynaa (734)
+Seat 3: _SKR (166)
+*** ANTE/BLINDS ***
+Sheiynaa posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh 7s]
+*** PRE-FLOP *** 
+Sheiynaa calls 20
+_SKR raises 126 to 166 and is all-in
+Sheiynaa calls 126
+*** FLOP *** [Td 7d 6c]
+*** TURN *** [Td 7d 6c][Ks]
+*** RIVER *** [Td 7d 6c Ks][9s]
+*** SHOW DOWN ***
+Sheiynaa shows [6s 5c] (One pair : 6)
+_SKR shows [Jh 7s] (One pair : 7)
+_SKR collected 332 from pot
+*** SUMMARY ***
+Total pot 332 | No rake
+Board: [Td 7d 6c Ks 9s]
+Seat 1: Sheiynaa (small blind) (button) showed [6s 5c] and lost with One pair : 6
+Seat 3: _SKR (big blind) showed [Jh 7s] and won 332 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676367763370409985-13-1673821732 - Holdem no limit (20/40) - 2023/01/15 22:28:52 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sheiynaa (568)
+Seat 3: _SKR (332)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Sheiynaa posts big blind 40
+Dealt to _SKR [Tc Js]
+*** PRE-FLOP *** 
+_SKR raises 292 to 332 and is all-in
+Sheiynaa folds
+_SKR collected 372 from pot
+*** SUMMARY ***
+Total pot 372 | No rake
+Seat 3: _SKR (small blind) (button) won 372
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676367763370409985-14-1673821741 - Holdem no limit (30/60) - 2023/01/15 22:29:01 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sheiynaa (528)
+Seat 3: _SKR (372)
+*** ANTE/BLINDS ***
+Sheiynaa posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c 3h]
+*** PRE-FLOP *** 
+Sheiynaa calls 30
+_SKR checks
+*** FLOP *** [5d 9h 9d]
+_SKR checks
+Sheiynaa checks
+*** TURN *** [5d 9h 9d][4h]
+_SKR checks
+Sheiynaa checks
+*** RIVER *** [5d 9h 9d 4h][Ts]
+_SKR checks
+Sheiynaa bets 60
+_SKR folds
+Sheiynaa collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [5d 9h 9d 4h Ts]
+Seat 1: Sheiynaa (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676367763370409985-15-1673821765 - Holdem no limit (30/60) - 2023/01/15 22:29:25 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sheiynaa (588)
+Seat 3: _SKR (312)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Sheiynaa posts big blind 60
+Dealt to _SKR [Jd 9d]
+*** PRE-FLOP *** 
+_SKR raises 252 to 312 and is all-in
+Sheiynaa calls 252
+*** FLOP *** [7s 5s Jc]
+*** TURN *** [7s 5s Jc][Kh]
+*** RIVER *** [7s 5s Jc Kh][Ah]
+*** SHOW DOWN ***
+Sheiynaa shows [4c Qh] (High card : Ace)
+_SKR shows [Jd 9d] (One pair : Jacks)
+_SKR collected 624 from pot
+*** SUMMARY ***
+Total pot 624 | No rake
+Board: [7s 5s Jc Kh Ah]
+Seat 1: Sheiynaa (big blind) showed [4c Qh] and lost with High card : Ace
+Seat 3: _SKR (small blind) (button) showed [Jd 9d] and won 624 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676367763370409985-16-1673821782 - Holdem no limit (30/60) - 2023/01/15 22:29:42 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sheiynaa (276)
+Seat 3: _SKR (624)
+*** ANTE/BLINDS ***
+Sheiynaa posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7c 6d]
+*** PRE-FLOP *** 
+Sheiynaa raises 216 to 276 and is all-in
+_SKR folds
+Sheiynaa collected 336 from pot
+*** SUMMARY ***
+Total pot 336 | No rake
+Seat 1: Sheiynaa (small blind) (button) won 336
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676367763370409985-17-1673821787 - Holdem no limit (30/60) - 2023/01/15 22:29:47 UTC
+Table: 'Expresso Nitro(623140429)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sheiynaa (336)
+Seat 3: _SKR (564)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Sheiynaa posts big blind 60
+Dealt to _SKR [Jd Jc]
+*** PRE-FLOP *** 
+_SKR raises 504 to 564 and is all-in
+Sheiynaa calls 276 and is all-in
+*** FLOP *** [8d 8s Kc]
+*** TURN *** [8d 8s Kc][6s]
+*** RIVER *** [8d 8s Kc 6s][Jh]
+*** SHOW DOWN ***
+Sheiynaa shows [8c Ac] (Trips of 8)
+_SKR shows [Jd Jc] (Full of Jacks and 8)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d 8s Kc 6s Jh]
+Seat 1: Sheiynaa (big blind) showed [8c Ac] and lost with Trips of 8
+Seat 3: _SKR (small blind) (button) showed [Jd Jc] and won 900 with Full of Jacks and 8
+
+

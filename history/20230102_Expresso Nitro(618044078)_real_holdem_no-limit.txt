@@ -1,0 +1,52 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654479102496473089-1-1672662505 - Holdem no limit (10/20) - 2023/01/02 12:28:25 UTC
+Table: 'Expresso Nitro(618044078)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 1.2.3 (300)
+Seat 2: _SKR (300)
+Seat 3: Pixi69 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Pixi69 posts big blind 20
+Dealt to _SKR [Th 3s]
+*** PRE-FLOP *** 
+1.2.3 raises 280 to 300 and is all-in
+_SKR folds
+Pixi69 calls 280 and is all-in
+*** FLOP *** [Kh 9c 7s]
+*** TURN *** [Kh 9c 7s][3c]
+*** RIVER *** [Kh 9c 7s 3c][Ad]
+*** SHOW DOWN ***
+1.2.3 shows [8h 8d] (One pair : 8)
+Pixi69 shows [4s Ac] (One pair : Aces)
+Pixi69 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Kh 9c 7s 3c Ad]
+Seat 1: 1.2.3 (button) showed [8h 8d] and lost with One pair : 8
+Seat 3: Pixi69 (big blind) showed [4s Ac] and won 610 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654479102496473089-2-1672662533 - Holdem no limit (10/20) - 2023/01/02 12:28:53 UTC
+Table: 'Expresso Nitro(618044078)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (290)
+Seat 3: Pixi69 (610)
+*** ANTE/BLINDS ***
+Pixi69 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks 8h]
+*** PRE-FLOP *** 
+Pixi69 raises 590 to 610 and is all-in
+_SKR calls 270 and is all-in
+*** FLOP *** [3s 6c 6h]
+*** TURN *** [3s 6c 6h][9c]
+*** RIVER *** [3s 6c 6h 9c][2h]
+*** SHOW DOWN ***
+_SKR shows [Ks 8h] (One pair : 6)
+Pixi69 shows [8d As] (One pair : 6)
+Pixi69 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3s 6c 6h 9c 2h]
+Seat 2: _SKR (big blind) showed [Ks 8h] and lost with One pair : 6
+Seat 3: Pixi69 (small blind) (button) showed [8d As] and won 900 with One pair : 6
+
+

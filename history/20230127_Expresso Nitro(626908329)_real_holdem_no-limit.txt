@@ -1,0 +1,401 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692550770645008385-1-1674830196 - Holdem no limit (10/20) - 2023/01/27 14:36:36 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FRANKY AS (300)
+Seat 2: _SKR (300)
+Seat 3: YuJae (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+YuJae posts big blind 20
+Dealt to _SKR [4c Kd]
+*** PRE-FLOP *** 
+FRANKY AS calls 20
+_SKR folds
+YuJae checks
+*** FLOP *** [2d 5h Js]
+YuJae bets 33
+FRANKY AS folds
+YuJae collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [2d 5h Js]
+Seat 3: YuJae (big blind) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692550770645008385-2-1674830206 - Holdem no limit (10/20) - 2023/01/27 14:36:46 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FRANKY AS (280)
+Seat 2: _SKR (290)
+Seat 3: YuJae (330)
+*** ANTE/BLINDS ***
+YuJae posts small blind 10
+FRANKY AS posts big blind 20
+Dealt to _SKR [9c 8h]
+*** PRE-FLOP *** 
+_SKR folds
+YuJae folds
+FRANKY AS collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: FRANKY AS (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692550770645008385-3-1674830213 - Holdem no limit (10/20) - 2023/01/27 14:36:53 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #3 is the button
+Seat 1: FRANKY AS (290)
+Seat 2: _SKR (290)
+Seat 3: YuJae (320)
+*** ANTE/BLINDS ***
+FRANKY AS posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6c Ts]
+*** PRE-FLOP *** 
+YuJae folds
+FRANKY AS calls 10
+_SKR checks
+*** FLOP *** [7s 8s 4s]
+FRANKY AS bets 20
+_SKR calls 20
+*** TURN *** [7s 8s 4s][Qs]
+FRANKY AS bets 20
+_SKR calls 20
+*** RIVER *** [7s 8s 4s Qs][4c]
+FRANKY AS bets 20
+_SKR calls 20
+*** SHOW DOWN ***
+FRANKY AS shows [9h Th] (One pair : 4)
+_SKR shows [6c Ts] (Flush Queen high)
+_SKR collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [7s 8s 4s Qs 4c]
+Seat 1: FRANKY AS (small blind) showed [9h Th] and lost with One pair : 4
+Seat 2: _SKR (big blind) showed [6c Ts] and won 160 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692550770645008385-4-1674830236 - Holdem no limit (10/20) - 2023/01/27 14:37:16 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FRANKY AS (210)
+Seat 2: _SKR (370)
+Seat 3: YuJae (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+YuJae posts big blind 20
+Dealt to _SKR [2h 8h]
+*** PRE-FLOP *** 
+FRANKY AS calls 20
+_SKR folds
+YuJae checks
+*** FLOP *** [6d 7c Kh]
+YuJae checks
+FRANKY AS checks
+*** TURN *** [6d 7c Kh][Js]
+YuJae checks
+FRANKY AS bets 20
+YuJae calls 20
+*** RIVER *** [6d 7c Kh Js][7s]
+YuJae checks
+FRANKY AS bets 20
+YuJae calls 20
+*** SHOW DOWN ***
+FRANKY AS shows [Jc 3d] (Two pairs : Jacks and 7)
+YuJae shows [Ts Jh] (Two pairs : Jacks and 7)
+YuJae collected 65 from pot
+FRANKY AS collected 65 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [6d 7c Kh Js 7s]
+Seat 1: FRANKY AS (button) showed [Jc 3d] and won 65 with Two pairs : Jacks and 7
+Seat 3: YuJae (big blind) showed [Ts Jh] and won 65 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692550770645008385-5-1674830251 - Holdem no limit (10/20) - 2023/01/27 14:37:31 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FRANKY AS (215)
+Seat 2: _SKR (360)
+Seat 3: YuJae (325)
+*** ANTE/BLINDS ***
+YuJae posts small blind 10
+FRANKY AS posts big blind 20
+Dealt to _SKR [Qc 9c]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+YuJae folds
+FRANKY AS raises 175 to 215 and is all-in
+_SKR folds
+FRANKY AS collected 265 from pot
+*** SUMMARY ***
+Total pot 265 | No rake
+Seat 1: FRANKY AS (big blind) won 265
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692550770645008385-6-1674830277 - Holdem no limit (15/30) - 2023/01/27 14:37:57 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #3 is the button
+Seat 1: FRANKY AS (265)
+Seat 2: _SKR (320)
+Seat 3: YuJae (315)
+*** ANTE/BLINDS ***
+FRANKY AS posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4h 3s]
+*** PRE-FLOP *** 
+YuJae folds
+FRANKY AS calls 15
+_SKR checks
+*** FLOP *** [9s Ad Ks]
+FRANKY AS bets 235 and is all-in
+_SKR folds
+FRANKY AS collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Board: [9s Ad Ks]
+Seat 1: FRANKY AS (small blind) won 295
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692550770645008385-7-1674830295 - Holdem no limit (15/30) - 2023/01/27 14:38:15 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FRANKY AS (295)
+Seat 2: _SKR (290)
+Seat 3: YuJae (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+YuJae posts big blind 30
+Dealt to _SKR [7d Qs]
+*** PRE-FLOP *** 
+FRANKY AS raises 30 to 60
+_SKR folds
+YuJae calls 30
+*** FLOP *** [7h Qh Jh]
+YuJae checks
+FRANKY AS checks
+*** TURN *** [7h Qh Jh][2c]
+YuJae bets 47
+FRANKY AS folds
+YuJae collected 182 from pot
+*** SUMMARY ***
+Total pot 182 | No rake
+Board: [7h Qh Jh 2c]
+Seat 3: YuJae (big blind) won 182
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692550770645008385-8-1674830318 - Holdem no limit (20/40) - 2023/01/27 14:38:38 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FRANKY AS (235)
+Seat 2: _SKR (275)
+Seat 3: YuJae (390)
+*** ANTE/BLINDS ***
+YuJae posts small blind 20
+FRANKY AS posts big blind 40
+Dealt to _SKR [2s 8s]
+*** PRE-FLOP *** 
+_SKR folds
+YuJae raises 350 to 390 and is all-in
+FRANKY AS folds
+YuJae collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 3: YuJae (small blind) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692550770645008385-9-1674830326 - Holdem no limit (20/40) - 2023/01/27 14:38:46 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #3 is the button
+Seat 1: FRANKY AS (195)
+Seat 2: _SKR (275)
+Seat 3: YuJae (430)
+*** ANTE/BLINDS ***
+FRANKY AS posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3d 7s]
+*** PRE-FLOP *** 
+YuJae folds
+FRANKY AS calls 20
+_SKR checks
+*** FLOP *** [4s Kd Kh]
+FRANKY AS checks
+_SKR checks
+*** TURN *** [4s Kd Kh][2d]
+FRANKY AS checks
+_SKR checks
+*** RIVER *** [4s Kd Kh 2d][8c]
+FRANKY AS checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [3d 7s] (One pair : Kings)
+FRANKY AS shows [Td 7h] (One pair : Kings)
+FRANKY AS collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4s Kd Kh 2d 8c]
+Seat 1: FRANKY AS (small blind) showed [Td 7h] and won 80 with One pair : Kings
+Seat 2: _SKR (big blind) showed [3d 7s] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692550770645008385-10-1674830351 - Holdem no limit (20/40) - 2023/01/27 14:39:11 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FRANKY AS (235)
+Seat 2: _SKR (235)
+Seat 3: YuJae (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+YuJae posts big blind 40
+Dealt to _SKR [7s Ad]
+*** PRE-FLOP *** 
+FRANKY AS raises 40 to 80
+_SKR raises 155 to 235 and is all-in
+YuJae folds
+FRANKY AS folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 2: _SKR (small blind) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692550770645008385-11-1674830368 - Holdem no limit (20/40) - 2023/01/27 14:39:28 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FRANKY AS (155)
+Seat 2: _SKR (355)
+Seat 3: YuJae (390)
+*** ANTE/BLINDS ***
+YuJae posts small blind 20
+FRANKY AS posts big blind 40
+Dealt to _SKR [Kh 5s]
+*** PRE-FLOP *** 
+_SKR folds
+YuJae raises 350 to 390 and is all-in
+FRANKY AS folds
+YuJae collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 3: YuJae (small blind) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692550770645008385-12-1674830379 - Holdem no limit (30/60) - 2023/01/27 14:39:39 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #3 is the button
+Seat 1: FRANKY AS (115)
+Seat 2: _SKR (355)
+Seat 3: YuJae (430)
+*** ANTE/BLINDS ***
+FRANKY AS posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3c 6h]
+*** PRE-FLOP *** 
+YuJae folds
+FRANKY AS calls 30
+_SKR checks
+*** FLOP *** [Qs 2s 7c]
+FRANKY AS bets 55 and is all-in
+_SKR folds
+FRANKY AS collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | No rake
+Board: [Qs 2s 7c]
+Seat 1: FRANKY AS (small blind) won 175
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692550770645008385-13-1674830391 - Holdem no limit (30/60) - 2023/01/27 14:39:51 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FRANKY AS (175)
+Seat 2: _SKR (295)
+Seat 3: YuJae (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+YuJae posts big blind 60
+Dealt to _SKR [3d Kd]
+*** PRE-FLOP *** 
+FRANKY AS folds
+_SKR raises 235 to 295 and is all-in
+YuJae folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 2: _SKR (small blind) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692550770645008385-14-1674830397 - Holdem no limit (30/60) - 2023/01/27 14:39:57 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FRANKY AS (175)
+Seat 2: _SKR (355)
+Seat 3: YuJae (370)
+*** ANTE/BLINDS ***
+YuJae posts small blind 30
+FRANKY AS posts big blind 60
+Dealt to _SKR [6h 8c]
+*** PRE-FLOP *** 
+_SKR folds
+YuJae raises 310 to 370 and is all-in
+FRANKY AS folds
+YuJae collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 3: YuJae (small blind) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692550770645008385-15-1674830403 - Holdem no limit (30/60) - 2023/01/27 14:40:03 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #3 is the button
+Seat 1: FRANKY AS (115)
+Seat 2: _SKR (355)
+Seat 3: YuJae (430)
+*** ANTE/BLINDS ***
+FRANKY AS posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ah 3s]
+*** PRE-FLOP *** 
+YuJae folds
+FRANKY AS calls 30
+_SKR raises 295 to 355 and is all-in
+FRANKY AS calls 55 and is all-in
+*** FLOP *** [Jc Ks 8d]
+*** TURN *** [Jc Ks 8d][2s]
+*** RIVER *** [Jc Ks 8d 2s][Ac]
+*** SHOW DOWN ***
+FRANKY AS shows [2h Qc] (One pair : 2)
+_SKR shows [Ah 3s] (One pair : Aces)
+_SKR collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [Jc Ks 8d 2s Ac]
+Seat 1: FRANKY AS (small blind) showed [2h Qc] and lost with One pair : 2
+Seat 2: _SKR (big blind) showed [Ah 3s] and won 470 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2692550770645008385-16-1674830440 - Holdem no limit (40/80) - 2023/01/27 14:40:40 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (470)
+Seat 3: YuJae (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+YuJae posts big blind 80
+Dealt to _SKR [Kc 4h]
+*** PRE-FLOP *** 
+_SKR raises 390 to 470 and is all-in
+YuJae folds
+_SKR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 2: _SKR (small blind) (button) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2692550770645008385-17-1674830446 - Holdem no limit (40/80) - 2023/01/27 14:40:46 UTC
+Table: 'Expresso Nitro(626908329)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (550)
+Seat 3: YuJae (350)
+*** ANTE/BLINDS ***
+YuJae posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [8s 8h]
+*** PRE-FLOP *** 
+YuJae raises 270 to 350 and is all-in
+_SKR calls 270
+*** FLOP *** [Jc Qh 4d]
+*** TURN *** [Jc Qh 4d][6d]
+*** RIVER *** [Jc Qh 4d 6d][3c]
+*** SHOW DOWN ***
+YuJae shows [Kd Th] (High card : King)
+_SKR shows [8s 8h] (One pair : 8)
+_SKR collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [Jc Qh 4d 6d 3c]
+Seat 2: _SKR (big blind) showed [8s 8h] and won 700 with One pair : 8
+Seat 3: YuJae (small blind) (button) showed [Kd Th] and lost with High card : King
+
+

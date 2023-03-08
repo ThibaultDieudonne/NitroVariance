@@ -1,0 +1,126 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689769268219740161-1-1674650741 - Holdem no limit (10/20) - 2023/01/25 12:45:41 UTC
+Table: 'Expresso Nitro(626260710)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mangeur62 (300)
+Seat 2: Haxenyn (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Mangeur62 posts small blind 10
+Haxenyn posts big blind 20
+Dealt to _SKR [8s 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Mangeur62 raises 280 to 300 and is all-in
+Haxenyn calls 280 and is all-in
+*** FLOP *** [Qs Ac Th]
+*** TURN *** [Qs Ac Th][Kc]
+*** RIVER *** [Qs Ac Th Kc][9s]
+*** SHOW DOWN ***
+Mangeur62 shows [As 8h] (One pair : Aces)
+Haxenyn shows [Ad 3s] (One pair : Aces)
+Haxenyn collected 300 from pot
+Mangeur62 collected 300 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qs Ac Th Kc 9s]
+Seat 1: Mangeur62 (small blind) showed [As 8h] and won 300 with One pair : Aces
+Seat 2: Haxenyn (big blind) showed [Ad 3s] and won 300 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689769268219740161-2-1674650766 - Holdem no limit (10/20) - 2023/01/25 12:46:06 UTC
+Table: 'Expresso Nitro(626260710)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mangeur62 (300)
+Seat 2: Haxenyn (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Haxenyn posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c As]
+*** PRE-FLOP *** 
+Mangeur62 folds
+Haxenyn calls 10
+_SKR raises 280 to 300 and is all-in
+Haxenyn folds
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: _SKR (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689769268219740161-3-1674650784 - Holdem no limit (10/20) - 2023/01/25 12:46:24 UTC
+Table: 'Expresso Nitro(626260710)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Mangeur62 (300)
+Seat 2: Haxenyn (280)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mangeur62 posts big blind 20
+Dealt to _SKR [Ac 8d]
+*** PRE-FLOP *** 
+Haxenyn folds
+_SKR raises 300 to 320 and is all-in
+Mangeur62 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689769268219740161-4-1674650797 - Holdem no limit (15/30) - 2023/01/25 12:46:37 UTC
+Table: 'Expresso Nitro(626260710)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mangeur62 (280)
+Seat 2: Haxenyn (280)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+Mangeur62 posts small blind 15
+Haxenyn posts big blind 30
+Dealt to _SKR [9d 9c]
+*** PRE-FLOP *** 
+_SKR raises 310 to 340 and is all-in
+Mangeur62 calls 265 and is all-in
+Haxenyn folds
+*** FLOP *** [Qs Ah Qh]
+*** TURN *** [Qs Ah Qh][2s]
+*** RIVER *** [Qs Ah Qh 2s][Jh]
+*** SHOW DOWN ***
+Mangeur62 shows [Ks Th] (Straight Ace high)
+_SKR shows [9d 9c] (Two pairs : Queens and 9)
+_SKR collected 60 from side pot 1
+Mangeur62 collected 590 from main pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Qs Ah Qh 2s Jh]
+Seat 1: Mangeur62 (small blind) showed [Ks Th] and won 590 with Straight Ace high
+Seat 3: _SKR (button) showed [9d 9c] and won 60 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689769268219740161-5-1674650810 - Holdem no limit (15/30) - 2023/01/25 12:46:50 UTC
+Table: 'Expresso Nitro(626260710)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mangeur62 (590)
+Seat 2: Haxenyn (250)
+Seat 3: _SKR (60)
+*** ANTE/BLINDS ***
+Haxenyn posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2h Ks]
+*** PRE-FLOP *** 
+Mangeur62 raises 30 to 60
+Haxenyn calls 45
+_SKR calls 30 and is all-in
+*** FLOP *** [7c 5c Ts]
+Haxenyn checks
+Mangeur62 checks
+*** TURN *** [7c 5c Ts][4h]
+Haxenyn bets 30
+Mangeur62 folds
+*** RIVER *** [7c 5c Ts 4h][Jd]
+*** SHOW DOWN ***
+_SKR shows [2h Ks] (High card : King)
+Haxenyn shows [4c Ah] (One pair : 4)
+Haxenyn collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [7c 5c Ts 4h Jd]
+Seat 2: Haxenyn (small blind) showed [4c Ah] and won 210 with One pair : 4
+Seat 3: _SKR (big blind) showed [2h Ks] and lost with High card : King
+
+

@@ -1,0 +1,558 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717787809497743361-1-1676235365 - Holdem no limit (10/20) - 2023/02/12 20:56:05 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (300)
+Seat 2: _SKR (300)
+Seat 3: dave85190 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+dave85190 posts big blind 20
+Dealt to _SKR [Tc 8s]
+*** PRE-FLOP *** 
+Souple.Puma3 folds
+_SKR folds
+dave85190 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: dave85190 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717787809497743361-2-1676235373 - Holdem no limit (10/20) - 2023/02/12 20:56:13 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (300)
+Seat 2: _SKR (290)
+Seat 3: dave85190 (310)
+*** ANTE/BLINDS ***
+dave85190 posts small blind 10
+Souple.Puma3 posts big blind 20
+Dealt to _SKR [3s 9c]
+*** PRE-FLOP *** 
+_SKR folds
+dave85190 folds
+Souple.Puma3 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Souple.Puma3 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717787809497743361-3-1676235384 - Holdem no limit (10/20) - 2023/02/12 20:56:24 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Souple.Puma3 (310)
+Seat 2: _SKR (290)
+Seat 3: dave85190 (300)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3c 7s]
+*** PRE-FLOP *** 
+dave85190 folds
+Souple.Puma3 calls 10
+_SKR checks
+*** FLOP *** [5h Jh 5d]
+Souple.Puma3 checks
+_SKR checks
+*** TURN *** [5h Jh 5d][Jd]
+Souple.Puma3 checks
+_SKR checks
+*** RIVER *** [5h Jh 5d Jd][5c]
+Souple.Puma3 checks
+_SKR bets 20
+Souple.Puma3 calls 20
+*** SHOW DOWN ***
+Souple.Puma3 shows [Qs 4h] (Full of 5 and Jacks)
+_SKR shows [3c 7s] (Full of 5 and Jacks)
+_SKR collected 40 from pot
+Souple.Puma3 collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5h Jh 5d Jd 5c]
+Seat 1: Souple.Puma3 (small blind) showed [Qs 4h] and won 40 with Full of 5 and Jacks
+Seat 2: _SKR (big blind) showed [3c 7s] and won 40 with Full of 5 and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717787809497743361-4-1676235426 - Holdem no limit (15/30) - 2023/02/12 20:57:06 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (310)
+Seat 2: _SKR (290)
+Seat 3: dave85190 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+dave85190 posts big blind 30
+Dealt to _SKR [7h 3d]
+*** PRE-FLOP *** 
+Souple.Puma3 calls 30
+_SKR folds
+dave85190 checks
+*** FLOP *** [Kh Js 2c]
+dave85190 bets 75
+Souple.Puma3 calls 75
+*** TURN *** [Kh Js 2c][6h]
+dave85190 checks
+Souple.Puma3 checks
+*** RIVER *** [Kh Js 2c 6h][9c]
+dave85190 checks
+Souple.Puma3 bets 205 and is all-in
+dave85190 folds
+Souple.Puma3 collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Board: [Kh Js 2c 6h 9c]
+Seat 1: Souple.Puma3 (button) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717787809497743361-5-1676235467 - Holdem no limit (15/30) - 2023/02/12 20:57:47 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (430)
+Seat 2: _SKR (275)
+Seat 3: dave85190 (195)
+*** ANTE/BLINDS ***
+dave85190 posts small blind 15
+Souple.Puma3 posts big blind 30
+Dealt to _SKR [4h As]
+*** PRE-FLOP *** 
+_SKR raises 245 to 275 and is all-in
+dave85190 calls 180 and is all-in
+Souple.Puma3 folds
+*** FLOP *** [Tc 7s Jh]
+*** TURN *** [Tc 7s Jh][9h]
+*** RIVER *** [Tc 7s Jh 9h][3d]
+*** SHOW DOWN ***
+_SKR shows [4h As] (High card : Ace)
+dave85190 shows [4s Js] (One pair : Jacks)
+dave85190 collected 420 from main pot
+_SKR collected 80 from side pot 1
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Tc 7s Jh 9h 3d]
+Seat 2: _SKR (button) showed [4h As] and won 80 with High card : Ace
+Seat 3: dave85190 (small blind) showed [4s Js] and won 420 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717787809497743361-6-1676235483 - Holdem no limit (20/40) - 2023/02/12 20:58:03 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Souple.Puma3 (400)
+Seat 2: _SKR (80)
+Seat 3: dave85190 (420)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3c 2d]
+*** PRE-FLOP *** 
+dave85190 raises 380 to 420 and is all-in
+Souple.Puma3 calls 380 and is all-in
+_SKR calls 40 and is all-in
+*** FLOP *** [5d 3d Jh]
+*** TURN *** [5d 3d Jh][Th]
+*** RIVER *** [5d 3d Jh Th][3h]
+*** SHOW DOWN ***
+Souple.Puma3 shows [Tc Ah] (Two pairs : Tens and 3)
+_SKR shows [3c 2d] (Trips of 3)
+dave85190 shows [Td Qs] (Two pairs : Tens and 3)
+dave85190 collected 20 from side pot 2
+_SKR collected 240 from main pot
+Souple.Puma3 collected 640 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5d 3d Jh Th 3h]
+Seat 1: Souple.Puma3 (small blind) showed [Tc Ah] and won 640 with Two pairs : Tens and 3
+Seat 2: _SKR (big blind) showed [3c 2d] and won 240 with Trips of 3
+Seat 3: dave85190 (button) showed [Td Qs] and won 20 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717787809497743361-7-1676235505 - Holdem no limit (20/40) - 2023/02/12 20:58:25 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (640)
+Seat 2: _SKR (240)
+Seat 3: dave85190 (20)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+dave85190 posts big blind 20 and is all-in
+Dealt to _SKR [2d 3d]
+*** PRE-FLOP *** 
+Souple.Puma3 folds
+*** FLOP *** [Qd 7c 4h]
+*** TURN *** [Qd 7c 4h][6h]
+*** RIVER *** [Qd 7c 4h 6h][5c]
+*** SHOW DOWN ***
+dave85190 shows [Th 4d] (One pair : 4)
+_SKR shows [2d 3d] (Straight 7 high)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qd 7c 4h 6h 5c]
+Seat 2: _SKR (small blind) showed [2d 3d] and won 40 with Straight 7 high
+Seat 3: dave85190 (big blind) showed [Th 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717787809497743361-8-1676235517 - Holdem no limit (20/40) - 2023/02/12 20:58:37 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (640)
+Seat 2: _SKR (260)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5c 5d]
+*** PRE-FLOP *** 
+Souple.Puma3 calls 20
+_SKR raises 220 to 260 and is all-in
+Souple.Puma3 folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: _SKR (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717787809497743361-9-1676235524 - Holdem no limit (20/40) - 2023/02/12 20:58:44 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Souple.Puma3 posts big blind 40
+Dealt to _SKR [Jd 8d]
+*** PRE-FLOP *** 
+_SKR raises 260 to 300 and is all-in
+Souple.Puma3 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (small blind) (button) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717787809497743361-10-1676235532 - Holdem no limit (20/40) - 2023/02/12 20:58:52 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (560)
+Seat 2: _SKR (340)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5h 7d]
+*** PRE-FLOP *** 
+Souple.Puma3 calls 20
+_SKR checks
+*** FLOP *** [5d 8c Ah]
+_SKR checks
+Souple.Puma3 bets 80
+_SKR folds
+Souple.Puma3 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [5d 8c Ah]
+Seat 1: Souple.Puma3 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717787809497743361-11-1676235546 - Holdem no limit (30/60) - 2023/02/12 20:59:06 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Souple.Puma3 posts big blind 60
+Dealt to _SKR [2d 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Souple.Puma3 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Souple.Puma3 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717787809497743361-12-1676235551 - Holdem no limit (30/60) - 2023/02/12 20:59:11 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4h 2d]
+*** PRE-FLOP *** 
+Souple.Puma3 raises 570 to 630 and is all-in
+_SKR folds
+Souple.Puma3 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Seat 1: Souple.Puma3 (small blind) (button) won 690
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717787809497743361-13-1676235557 - Holdem no limit (30/60) - 2023/02/12 20:59:17 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (690)
+Seat 2: _SKR (210)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Souple.Puma3 posts big blind 60
+Dealt to _SKR [Qd 9c]
+*** PRE-FLOP *** 
+_SKR raises 150 to 210 and is all-in
+Souple.Puma3 folds
+_SKR collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: _SKR (small blind) (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717787809497743361-14-1676235564 - Holdem no limit (30/60) - 2023/02/12 20:59:24 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5s 9d]
+*** PRE-FLOP *** 
+Souple.Puma3 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717787809497743361-15-1676235568 - Holdem no limit (30/60) - 2023/02/12 20:59:28 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Souple.Puma3 posts big blind 60
+Dealt to _SKR [9d 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Souple.Puma3 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Souple.Puma3 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717787809497743361-16-1676235575 - Holdem no limit (30/60) - 2023/02/12 20:59:35 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ah 5c]
+*** PRE-FLOP *** 
+Souple.Puma3 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717787809497743361-17-1676235580 - Holdem no limit (30/60) - 2023/02/12 20:59:40 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Souple.Puma3 posts big blind 60
+Dealt to _SKR [4h Ad]
+*** PRE-FLOP *** 
+_SKR raises 240 to 300 and is all-in
+Souple.Puma3 folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717787809497743361-18-1676235586 - Holdem no limit (30/60) - 2023/02/12 20:59:46 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (540)
+Seat 2: _SKR (360)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4d 2h]
+*** PRE-FLOP *** 
+Souple.Puma3 raises 120 to 180
+_SKR folds
+Souple.Puma3 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: Souple.Puma3 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717787809497743361-19-1676235592 - Holdem no limit (30/60) - 2023/02/12 20:59:52 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (600)
+Seat 2: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Souple.Puma3 posts big blind 60
+Dealt to _SKR [4d 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Souple.Puma3 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Souple.Puma3 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717787809497743361-20-1676235597 - Holdem no limit (30/60) - 2023/02/12 20:59:57 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Tc Td]
+*** PRE-FLOP *** 
+Souple.Puma3 calls 30
+_SKR raises 210 to 270 and is all-in
+Souple.Puma3 calls 210
+*** FLOP *** [Th Ks 6s]
+*** TURN *** [Th Ks 6s][2h]
+*** RIVER *** [Th Ks 6s 2h][8d]
+*** SHOW DOWN ***
+Souple.Puma3 shows [2c 2d] (Trips of 2)
+_SKR shows [Tc Td] (Trips of Tens)
+_SKR collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Th Ks 6s 2h 8d]
+Seat 1: Souple.Puma3 (small blind) (button) showed [2c 2d] and lost with Trips of 2
+Seat 2: _SKR (big blind) showed [Tc Td] and won 540 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717787809497743361-21-1676235612 - Holdem no limit (40/80) - 2023/02/12 21:00:12 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (360)
+Seat 2: _SKR (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Souple.Puma3 posts big blind 80
+Dealt to _SKR [3c Td]
+*** PRE-FLOP *** 
+_SKR folds
+Souple.Puma3 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Souple.Puma3 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717787809497743361-22-1676235623 - Holdem no limit (40/80) - 2023/02/12 21:00:23 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (400)
+Seat 2: _SKR (500)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Qs Ad]
+*** PRE-FLOP *** 
+Souple.Puma3 raises 320 to 400 and is all-in
+_SKR calls 320
+*** FLOP *** [Jc 2d 5s]
+*** TURN *** [Jc 2d 5s][Kc]
+*** RIVER *** [Jc 2d 5s Kc][3d]
+*** SHOW DOWN ***
+_SKR shows [Qs Ad] (High card : Ace)
+Souple.Puma3 shows [As Kh] (One pair : Kings)
+Souple.Puma3 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Jc 2d 5s Kc 3d]
+Seat 1: Souple.Puma3 (small blind) (button) showed [As Kh] and won 800 with One pair : Kings
+Seat 2: _SKR (big blind) showed [Qs Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717787809497743361-23-1676235636 - Holdem no limit (40/80) - 2023/02/12 21:00:36 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (800)
+Seat 2: _SKR (100)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Souple.Puma3 posts big blind 80
+Dealt to _SKR [Qh 8h]
+*** PRE-FLOP *** 
+_SKR raises 20 to 100 and is all-in
+Souple.Puma3 calls 20
+*** FLOP *** [3h 9c 6c]
+*** TURN *** [3h 9c 6c][Jd]
+*** RIVER *** [3h 9c 6c Jd][Tc]
+*** SHOW DOWN ***
+Souple.Puma3 shows [6h Kc] (One pair : 6)
+_SKR shows [Qh 8h] (Straight Queen high)
+_SKR collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [3h 9c 6c Jd Tc]
+Seat 1: Souple.Puma3 (big blind) showed [6h Kc] and lost with One pair : 6
+Seat 2: _SKR (small blind) (button) showed [Qh 8h] and won 200 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2717787809497743361-24-1676235649 - Holdem no limit (40/80) - 2023/02/12 21:00:49 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (700)
+Seat 2: _SKR (200)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Js 2d]
+*** PRE-FLOP *** 
+Souple.Puma3 raises 620 to 700 and is all-in
+_SKR calls 120 and is all-in
+*** FLOP *** [As Kd Ks]
+*** TURN *** [As Kd Ks][Ac]
+*** RIVER *** [As Kd Ks Ac][Qc]
+*** SHOW DOWN ***
+Souple.Puma3 shows [Tc Td] (Two pairs : Aces and Kings)
+_SKR shows [Js 2d] (Two pairs : Aces and Kings)
+_SKR collected 200 from main pot
+Souple.Puma3 collected 700 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As Kd Ks Ac Qc]
+Seat 1: Souple.Puma3 (small blind) (button) showed [Tc Td] and won 700 with Two pairs : Aces and Kings
+Seat 2: _SKR (big blind) showed [Js 2d] and won 200 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717787809497743361-25-1676235661 - Holdem no limit (50/100) - 2023/02/12 21:01:01 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Souple.Puma3 (700)
+Seat 2: _SKR (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Souple.Puma3 posts big blind 100
+Dealt to _SKR [4s 5h]
+*** PRE-FLOP *** 
+_SKR raises 100 to 200 and is all-in
+Souple.Puma3 calls 100
+*** FLOP *** [Ad Ts 5c]
+*** TURN *** [Ad Ts 5c][Jd]
+*** RIVER *** [Ad Ts 5c Jd][8s]
+*** SHOW DOWN ***
+Souple.Puma3 shows [4h Kh] (High card : Ace)
+_SKR shows [4s 5h] (One pair : 5)
+_SKR collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Ad Ts 5c Jd 8s]
+Seat 1: Souple.Puma3 (big blind) showed [4h Kh] and lost with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [4s 5h] and won 400 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2717787809497743361-26-1676235675 - Holdem no limit (50/100) - 2023/02/12 21:01:15 UTC
+Table: 'Expresso Nitro(632784285)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Souple.Puma3 (500)
+Seat 2: _SKR (400)
+*** ANTE/BLINDS ***
+Souple.Puma3 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [5s Kh]
+*** PRE-FLOP *** 
+Souple.Puma3 raises 400 to 500 and is all-in
+_SKR calls 300 and is all-in
+*** FLOP *** [Qh 2d 4d]
+*** TURN *** [Qh 2d 4d][3c]
+*** RIVER *** [Qh 2d 4d 3c][5h]
+*** SHOW DOWN ***
+_SKR shows [5s Kh] (One pair : 5)
+Souple.Puma3 shows [9s As] (Straight 5 high)
+Souple.Puma3 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qh 2d 4d 3c 5h]
+Seat 1: Souple.Puma3 (small blind) (button) showed [9s As] and won 900 with Straight 5 high
+Seat 2: _SKR (big blind) showed [5s Kh] and lost with One pair : 5
+
+

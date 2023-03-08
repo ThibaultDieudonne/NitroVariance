@@ -1,0 +1,77 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689743245012893697-1-1674649205 - Holdem no limit (10/20) - 2023/01/25 12:20:05 UTC
+Table: 'Expresso Nitro(626254651)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Roi 83258419 (300)
+Seat 2: Letotodu17 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Roi 83258419 posts small blind 10
+Letotodu17 posts big blind 20
+Dealt to _SKR [Qd Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Roi 83258419 raises 260 to 300 and is all-in
+Letotodu17 folds
+_SKR calls 260 and is all-in
+*** FLOP *** [Ts 3h 8s]
+*** TURN *** [Ts 3h 8s][2h]
+*** RIVER *** [Ts 3h 8s 2h][Td]
+*** SHOW DOWN ***
+Roi 83258419 shows [Jd Qc] (One pair : Tens)
+_SKR shows [Qd Kh] (One pair : Tens)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ts 3h 8s 2h Td]
+Seat 1: Roi 83258419 (small blind) showed [Jd Qc] and lost with One pair : Tens
+Seat 3: _SKR (button) showed [Qd Kh] and won 620 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689743245012893697-2-1674649228 - Holdem no limit (10/20) - 2023/01/25 12:20:28 UTC
+Table: 'Expresso Nitro(626254651)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Letotodu17 (280)
+Seat 3: _SKR (620)
+*** ANTE/BLINDS ***
+Letotodu17 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd 7s]
+*** PRE-FLOP *** 
+Letotodu17 calls 10
+_SKR checks
+*** FLOP *** [3c 5s Jc]
+_SKR checks
+Letotodu17 checks
+*** TURN *** [3c 5s Jc][7d]
+_SKR bets 32
+Letotodu17 folds
+_SKR collected 72 from pot
+*** SUMMARY ***
+Total pot 72 | No rake
+Board: [3c 5s Jc 7d]
+Seat 3: _SKR (big blind) won 72
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689743245012893697-3-1674649259 - Holdem no limit (10/20) - 2023/01/25 12:20:59 UTC
+Table: 'Expresso Nitro(626254651)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Letotodu17 (260)
+Seat 3: _SKR (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Letotodu17 posts big blind 20
+Dealt to _SKR [As 7h]
+*** PRE-FLOP *** 
+_SKR raises 620 to 640 and is all-in
+Letotodu17 calls 240 and is all-in
+*** FLOP *** [5h Qd 6s]
+*** TURN *** [5h Qd 6s][Qs]
+*** RIVER *** [5h Qd 6s Qs][Qh]
+*** SHOW DOWN ***
+Letotodu17 shows [2c Ac] (Trips of Queens)
+_SKR shows [As 7h] (Trips of Queens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h Qd 6s Qs Qh]
+Seat 2: Letotodu17 (big blind) showed [2c Ac] and lost with Trips of Queens
+Seat 3: _SKR (small blind) (button) showed [As 7h] and won 900 with Trips of Queens
+
+

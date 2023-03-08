@@ -1,0 +1,72 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689872381794582529-1-1674656897 - Holdem no limit (10/20) - 2023/01/25 14:28:17 UTC
+Table: 'Expresso Nitro(626284718)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Expertdu30 (300)
+Seat 2: _SKR (300)
+Seat 3: Martin01160 (300)
+*** ANTE/BLINDS ***
+Expertdu30 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h 8c]
+*** PRE-FLOP *** 
+Martin01160 calls 20
+Expertdu30 calls 10
+_SKR checks
+*** FLOP *** [8d 7h Td]
+Expertdu30 bets 20
+_SKR folds
+Martin01160 folds
+Expertdu30 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8d 7h Td]
+Seat 1: Expertdu30 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689872381794582529-2-1674656921 - Holdem no limit (10/20) - 2023/01/25 14:28:41 UTC
+Table: 'Expresso Nitro(626284718)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Expertdu30 (340)
+Seat 2: _SKR (280)
+Seat 3: Martin01160 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Martin01160 posts big blind 20
+Dealt to _SKR [4h Ks]
+*** PRE-FLOP *** 
+Expertdu30 folds
+_SKR folds
+Martin01160 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Martin01160 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689872381794582529-3-1674656928 - Holdem no limit (10/20) - 2023/01/25 14:28:48 UTC
+Table: 'Expresso Nitro(626284718)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Expertdu30 (340)
+Seat 2: _SKR (270)
+Seat 3: Martin01160 (290)
+*** ANTE/BLINDS ***
+Martin01160 posts small blind 10
+Expertdu30 posts big blind 20
+Dealt to _SKR [Js Jh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Martin01160 raises 20 to 60
+Expertdu30 calls 40
+_SKR raises 210 to 270 and is all-in
+Martin01160 raises 20 to 290 and is all-in
+Expertdu30 folds
+*** FLOP *** [Qc Ks 3c]
+*** TURN *** [Qc Ks 3c][4s]
+*** RIVER *** [Qc Ks 3c 4s][6s]
+*** SHOW DOWN ***
+_SKR shows [Js Jh] (One pair : Jacks)
+Martin01160 shows [Ah As] (One pair : Aces)
+Martin01160 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qc Ks 3c 4s 6s]
+Seat 2: _SKR (button) showed [Js Jh] and lost with One pair : Jacks
+Seat 3: Martin01160 (small blind) showed [Ah As] and won 620 with One pair : Aces
+
+

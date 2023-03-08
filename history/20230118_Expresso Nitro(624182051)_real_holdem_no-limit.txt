@@ -1,0 +1,337 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680841495795204097-1-1674081686 - Holdem no limit (10/20) - 2023/01/18 22:41:26 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: bak bak bak (300)
+Seat 3: Sivril (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+bak bak bak posts big blind 20
+Dealt to _SKR [9s 5s]
+*** PRE-FLOP *** 
+Sivril raises 20 to 40
+_SKR folds
+bak bak bak calls 20
+*** FLOP *** [Kc 7s 4h]
+bak bak bak checks
+Sivril checks
+*** TURN *** [Kc 7s 4h][8c]
+bak bak bak checks
+Sivril checks
+*** RIVER *** [Kc 7s 4h 8c][Kh]
+bak bak bak checks
+Sivril bets 260 and is all-in
+bak bak bak calls 260 and is all-in
+*** SHOW DOWN ***
+bak bak bak shows [8s Jd] (Two pairs : Kings and 8)
+Sivril shows [Ks 2s] (Trips of Kings)
+Sivril collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Kc 7s 4h 8c Kh]
+Seat 2: bak bak bak (big blind) showed [8s Jd] and lost with Two pairs : Kings and 8
+Seat 3: Sivril (button) showed [Ks 2s] and won 610 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680841495795204097-2-1674081737 - Holdem no limit (10/20) - 2023/01/18 22:42:17 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (290)
+Seat 3: Sivril (610)
+*** ANTE/BLINDS ***
+Sivril posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5h Ad]
+*** PRE-FLOP *** 
+Sivril raises 40 to 60
+_SKR raises 230 to 290 and is all-in
+Sivril calls 230
+*** FLOP *** [9c 7h 5s]
+*** TURN *** [9c 7h 5s][As]
+*** RIVER *** [9c 7h 5s As][Qd]
+*** SHOW DOWN ***
+Sivril shows [Jd 3h] (High card : Ace)
+_SKR shows [5h Ad] (Two pairs : Aces and 5)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [9c 7h 5s As Qd]
+Seat 1: _SKR (big blind) showed [5h Ad] and won 580 with Two pairs : Aces and 5
+Seat 3: Sivril (small blind) (button) showed [Jd 3h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680841495795204097-3-1674081756 - Holdem no limit (15/30) - 2023/01/18 22:42:36 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (580)
+Seat 3: Sivril (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Sivril posts big blind 30
+Dealt to _SKR [2d 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Sivril collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Sivril (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680841495795204097-4-1674081771 - Holdem no limit (15/30) - 2023/01/18 22:42:51 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (565)
+Seat 3: Sivril (335)
+*** ANTE/BLINDS ***
+Sivril posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3d 5s]
+*** PRE-FLOP *** 
+Sivril calls 15
+_SKR checks
+*** FLOP *** [8c 2s 9c]
+_SKR checks
+Sivril bets 60
+_SKR folds
+Sivril collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8c 2s 9c]
+Seat 3: Sivril (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2680841495795204097-5-1674081800 - Holdem no limit (15/30) - 2023/01/18 22:43:20 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (535)
+Seat 3: Sivril (365)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Sivril posts big blind 30
+Dealt to _SKR [9s 8d]
+*** PRE-FLOP *** 
+_SKR calls 15
+Sivril checks
+*** FLOP *** [7c 4d 5c]
+Sivril bets 335 and is all-in
+_SKR folds
+Sivril collected 395 from pot
+*** SUMMARY ***
+Total pot 395 | No rake
+Board: [7c 4d 5c]
+Seat 3: Sivril (big blind) won 395
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680841495795204097-6-1674081827 - Holdem no limit (20/40) - 2023/01/18 22:43:47 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (505)
+Seat 3: Sivril (395)
+*** ANTE/BLINDS ***
+Sivril posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jc 9h]
+*** PRE-FLOP *** 
+Sivril calls 20
+_SKR checks
+*** FLOP *** [Jd 4d 8s]
+_SKR checks
+Sivril bets 52
+_SKR raises 413 to 465 and is all-in
+Sivril folds
+_SKR collected 597 from pot
+*** SUMMARY ***
+Total pot 597 | No rake
+Board: [Jd 4d 8s]
+Seat 1: _SKR (big blind) won 597
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680841495795204097-7-1674081855 - Holdem no limit (20/40) - 2023/01/18 22:44:15 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (597)
+Seat 3: Sivril (303)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Sivril posts big blind 40
+Dealt to _SKR [5s 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Sivril collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Sivril (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2680841495795204097-8-1674081861 - Holdem no limit (20/40) - 2023/01/18 22:44:21 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (577)
+Seat 3: Sivril (323)
+*** ANTE/BLINDS ***
+Sivril posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Th 7s]
+*** PRE-FLOP *** 
+Sivril calls 20
+_SKR checks
+*** FLOP *** [Ad Ks 8d]
+_SKR checks
+Sivril checks
+*** TURN *** [Ad Ks 8d][As]
+_SKR checks
+Sivril bets 52
+_SKR folds
+Sivril collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Ad Ks 8d As]
+Seat 3: Sivril (small blind) (button) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680841495795204097-9-1674081889 - Holdem no limit (30/60) - 2023/01/18 22:44:49 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (537)
+Seat 3: Sivril (363)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Sivril posts big blind 60
+Dealt to _SKR [5s Tc]
+*** PRE-FLOP *** 
+_SKR folds
+Sivril collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Sivril (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680841495795204097-10-1674081892 - Holdem no limit (30/60) - 2023/01/18 22:44:52 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (507)
+Seat 3: Sivril (393)
+*** ANTE/BLINDS ***
+Sivril posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2d 6s]
+*** PRE-FLOP *** 
+Sivril calls 30
+_SKR checks
+*** FLOP *** [9c 8c Jh]
+_SKR checks
+Sivril bets 78
+_SKR folds
+Sivril collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [9c 8c Jh]
+Seat 3: Sivril (small blind) (button) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680841495795204097-11-1674081911 - Holdem no limit (30/60) - 2023/01/18 22:45:11 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (447)
+Seat 3: Sivril (453)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Sivril posts big blind 60
+Dealt to _SKR [3c As]
+*** PRE-FLOP *** 
+_SKR raises 387 to 447 and is all-in
+Sivril folds
+_SKR collected 507 from pot
+*** SUMMARY ***
+Total pot 507 | No rake
+Seat 1: _SKR (small blind) (button) won 507
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2680841495795204097-12-1674081918 - Holdem no limit (30/60) - 2023/01/18 22:45:18 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (507)
+Seat 3: Sivril (393)
+*** ANTE/BLINDS ***
+Sivril posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ac Js]
+*** PRE-FLOP *** 
+Sivril calls 30
+_SKR raises 447 to 507 and is all-in
+Sivril folds
+_SKR collected 567 from pot
+*** SUMMARY ***
+Total pot 567 | No rake
+Seat 1: _SKR (big blind) won 567
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2680841495795204097-13-1674081928 - Holdem no limit (40/80) - 2023/01/18 22:45:28 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (567)
+Seat 3: Sivril (333)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Sivril posts big blind 80
+Dealt to _SKR [6s 8s]
+*** PRE-FLOP *** 
+_SKR raises 487 to 567 and is all-in
+Sivril folds
+_SKR collected 647 from pot
+*** SUMMARY ***
+Total pot 647 | No rake
+Seat 1: _SKR (small blind) (button) won 647
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2680841495795204097-14-1674081936 - Holdem no limit (40/80) - 2023/01/18 22:45:36 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (647)
+Seat 3: Sivril (253)
+*** ANTE/BLINDS ***
+Sivril posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [9s Jd]
+*** PRE-FLOP *** 
+Sivril calls 40
+_SKR raises 567 to 647 and is all-in
+Sivril folds
+_SKR collected 727 from pot
+*** SUMMARY ***
+Total pot 727 | No rake
+Seat 1: _SKR (big blind) won 727
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2680841495795204097-15-1674081957 - Holdem no limit (40/80) - 2023/01/18 22:45:57 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (727)
+Seat 3: Sivril (173)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Sivril posts big blind 80
+Dealt to _SKR [3c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Sivril collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Sivril (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2680841495795204097-16-1674081961 - Holdem no limit (40/80) - 2023/01/18 22:46:01 UTC
+Table: 'Expresso Nitro(624182051)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (687)
+Seat 3: Sivril (213)
+*** ANTE/BLINDS ***
+Sivril posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [2h Qh]
+*** PRE-FLOP *** 
+Sivril calls 40
+_SKR checks
+*** FLOP *** [6h Kh Qs]
+_SKR checks
+Sivril checks
+*** TURN *** [6h Kh Qs][Ah]
+_SKR checks
+Sivril bets 133 and is all-in
+_SKR calls 133
+*** RIVER *** [6h Kh Qs Ah][Jh]
+*** SHOW DOWN ***
+Sivril shows [Jc Ks] (Two pairs : Kings and Jacks)
+_SKR shows [2h Qh] (Flush Ace high)
+_SKR collected 426 from pot
+*** SUMMARY ***
+Total pot 426 | No rake
+Board: [6h Kh Qs Ah Jh]
+Seat 1: _SKR (big blind) showed [2h Qh] and won 426 with Flush Ace high
+Seat 3: Sivril (small blind) (button) showed [Jc Ks] and lost with Two pairs : Kings and Jacks
+
+

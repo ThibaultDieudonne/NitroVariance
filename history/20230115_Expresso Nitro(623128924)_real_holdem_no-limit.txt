@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676318349771669505-1-1673819869 - Holdem no limit (10/20) - 2023/01/15 21:57:49 UTC
+Table: 'Expresso Nitro(623128924)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yucono (300)
+Seat 2: motard kawa (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+motard kawa posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h 3s]
+*** PRE-FLOP *** 
+Yucono folds
+motard kawa raises 280 to 300 and is all-in
+_SKR folds
+motard kawa collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: motard kawa (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676318349771669505-2-1673819879 - Holdem no limit (10/20) - 2023/01/15 21:57:59 UTC
+Table: 'Expresso Nitro(623128924)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Yucono (300)
+Seat 2: motard kawa (320)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Yucono posts big blind 20
+Dealt to _SKR [5h Ac]
+*** PRE-FLOP *** 
+motard kawa folds
+_SKR raises 260 to 280 and is all-in
+Yucono raises 20 to 300 and is all-in
+*** FLOP *** [Kc Jc 8d]
+*** TURN *** [Kc Jc 8d][Jh]
+*** RIVER *** [Kc Jc 8d Jh][9c]
+*** SHOW DOWN ***
+_SKR shows [5h Ac] (One pair : Jacks)
+Yucono shows [6h Kh] (Two pairs : Kings and Jacks)
+Yucono collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Kc Jc 8d Jh 9c]
+Seat 1: Yucono (big blind) showed [6h Kh] and won 580 with Two pairs : Kings and Jacks
+Seat 3: _SKR (small blind) showed [5h Ac] and lost with One pair : Jacks
+
+

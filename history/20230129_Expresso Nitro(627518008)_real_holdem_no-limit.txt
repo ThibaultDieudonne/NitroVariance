@@ -1,0 +1,318 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695169322011066369-1-1674997735 - Holdem no limit (10/20) - 2023/01/29 13:08:55 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Nadol (300)
+Seat 2: Diddle-Y-A (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Nadol posts big blind 20
+Dealt to _SKR [6c 9c]
+*** PRE-FLOP *** 
+Diddle-Y-A raises 280 to 300 and is all-in
+_SKR folds
+Nadol calls 280 and is all-in
+*** FLOP *** [3h Jh 7d]
+*** TURN *** [3h Jh 7d][8d]
+*** RIVER *** [3h Jh 7d 8d][5d]
+*** SHOW DOWN ***
+Nadol shows [Ks Ts] (High card : King)
+Diddle-Y-A shows [6s As] (High card : Ace)
+Diddle-Y-A collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [3h Jh 7d 8d 5d]
+Seat 1: Nadol (big blind) showed [Ks Ts] and lost with High card : King
+Seat 2: Diddle-Y-A (button) showed [6s As] and won 610 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695169322011066369-2-1674997752 - Holdem no limit (10/20) - 2023/01/29 13:09:12 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Diddle-Y-A (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Diddle-Y-A posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c 3c]
+*** PRE-FLOP *** 
+Diddle-Y-A calls 10
+_SKR checks
+*** FLOP *** [Qc 6h Tc]
+_SKR checks
+Diddle-Y-A checks
+*** TURN *** [Qc 6h Tc][4s]
+_SKR bets 32
+Diddle-Y-A calls 32
+*** RIVER *** [Qc 6h Tc 4s][6d]
+_SKR checks
+Diddle-Y-A checks
+*** SHOW DOWN ***
+_SKR shows [8c 3c] (One pair : 6)
+Diddle-Y-A shows [9h 7h] (One pair : 6)
+Diddle-Y-A collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Board: [Qc 6h Tc 4s 6d]
+Seat 2: Diddle-Y-A (small blind) (button) showed [9h 7h] and won 104 with One pair : 6
+Seat 3: _SKR (big blind) showed [8c 3c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695169322011066369-3-1674997785 - Holdem no limit (10/20) - 2023/01/29 13:09:45 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Diddle-Y-A (662)
+Seat 3: _SKR (238)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Diddle-Y-A posts big blind 20
+Dealt to _SKR [3h 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Diddle-Y-A collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Diddle-Y-A (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695169322011066369-4-1674997789 - Holdem no limit (10/20) - 2023/01/29 13:09:49 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Diddle-Y-A (672)
+Seat 3: _SKR (228)
+*** ANTE/BLINDS ***
+Diddle-Y-A posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 8s]
+*** PRE-FLOP *** 
+Diddle-Y-A raises 20 to 40
+_SKR raises 188 to 228 and is all-in
+Diddle-Y-A calls 188
+*** FLOP *** [Jh 8d Qs]
+*** TURN *** [Jh 8d Qs][7d]
+*** RIVER *** [Jh 8d Qs 7d][4d]
+*** SHOW DOWN ***
+Diddle-Y-A shows [5s 5c] (One pair : 5)
+_SKR shows [8h 8s] (Trips of 8)
+_SKR collected 456 from pot
+*** SUMMARY ***
+Total pot 456 | No rake
+Board: [Jh 8d Qs 7d 4d]
+Seat 2: Diddle-Y-A (small blind) (button) showed [5s 5c] and lost with One pair : 5
+Seat 3: _SKR (big blind) showed [8h 8s] and won 456 with Trips of 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695169322011066369-5-1674997805 - Holdem no limit (15/30) - 2023/01/29 13:10:05 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Diddle-Y-A (444)
+Seat 3: _SKR (456)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Diddle-Y-A posts big blind 30
+Dealt to _SKR [9h 7s]
+*** PRE-FLOP *** 
+_SKR folds
+Diddle-Y-A collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Diddle-Y-A (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695169322011066369-6-1674997809 - Holdem no limit (15/30) - 2023/01/29 13:10:09 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Diddle-Y-A (459)
+Seat 3: _SKR (441)
+*** ANTE/BLINDS ***
+Diddle-Y-A posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2d Qc]
+*** PRE-FLOP *** 
+Diddle-Y-A folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695169322011066369-7-1674997812 - Holdem no limit (15/30) - 2023/01/29 13:10:12 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Diddle-Y-A (444)
+Seat 3: _SKR (456)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Diddle-Y-A posts big blind 30
+Dealt to _SKR [Ts Kd]
+*** PRE-FLOP *** 
+_SKR raises 426 to 456 and is all-in
+Diddle-Y-A folds
+_SKR collected 486 from pot
+*** SUMMARY ***
+Total pot 486 | No rake
+Seat 3: _SKR (small blind) (button) won 486
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695169322011066369-8-1674997819 - Holdem no limit (15/30) - 2023/01/29 13:10:19 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Diddle-Y-A (414)
+Seat 3: _SKR (486)
+*** ANTE/BLINDS ***
+Diddle-Y-A posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah 8d]
+*** PRE-FLOP *** 
+Diddle-Y-A folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695169322011066369-9-1674997823 - Holdem no limit (15/30) - 2023/01/29 13:10:23 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Diddle-Y-A (399)
+Seat 3: _SKR (501)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Diddle-Y-A posts big blind 30
+Dealt to _SKR [Jc Kh]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+Diddle-Y-A calls 30
+*** FLOP *** [Ac 7d Kd]
+Diddle-Y-A checks
+_SKR checks
+*** TURN *** [Ac 7d Kd][Ah]
+Diddle-Y-A bets 30
+_SKR calls 30
+*** RIVER *** [Ac 7d Kd Ah][4h]
+Diddle-Y-A checks
+_SKR bets 90
+Diddle-Y-A folds
+_SKR collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [Ac 7d Kd Ah 4h]
+Seat 3: _SKR (small blind) (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695169322011066369-10-1674997837 - Holdem no limit (15/30) - 2023/01/29 13:10:37 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Diddle-Y-A (309)
+Seat 3: _SKR (591)
+*** ANTE/BLINDS ***
+Diddle-Y-A posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3s 8d]
+*** PRE-FLOP *** 
+Diddle-Y-A raises 279 to 309 and is all-in
+_SKR folds
+Diddle-Y-A collected 339 from pot
+*** SUMMARY ***
+Total pot 339 | No rake
+Seat 2: Diddle-Y-A (small blind) (button) won 339
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695169322011066369-11-1674997843 - Holdem no limit (15/30) - 2023/01/29 13:10:43 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Diddle-Y-A (339)
+Seat 3: _SKR (561)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Diddle-Y-A posts big blind 30
+Dealt to _SKR [3s Qs]
+*** PRE-FLOP *** 
+_SKR calls 15
+Diddle-Y-A raises 309 to 339 and is all-in
+_SKR folds
+Diddle-Y-A collected 369 from pot
+*** SUMMARY ***
+Total pot 369 | No rake
+Seat 2: Diddle-Y-A (big blind) won 369
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695169322011066369-12-1674997850 - Holdem no limit (15/30) - 2023/01/29 13:10:50 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Diddle-Y-A (369)
+Seat 3: _SKR (531)
+*** ANTE/BLINDS ***
+Diddle-Y-A posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7d 2s]
+*** PRE-FLOP *** 
+Diddle-Y-A folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695169322011066369-13-1674997854 - Holdem no limit (20/40) - 2023/01/29 13:10:54 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Diddle-Y-A (354)
+Seat 3: _SKR (546)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Diddle-Y-A posts big blind 40
+Dealt to _SKR [3s Kd]
+*** PRE-FLOP *** 
+_SKR raises 506 to 546 and is all-in
+Diddle-Y-A folds
+_SKR collected 586 from pot
+*** SUMMARY ***
+Total pot 586 | No rake
+Seat 3: _SKR (small blind) (button) won 586
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695169322011066369-14-1674997870 - Holdem no limit (20/40) - 2023/01/29 13:11:10 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Diddle-Y-A (314)
+Seat 3: _SKR (586)
+*** ANTE/BLINDS ***
+Diddle-Y-A posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7c 4c]
+*** PRE-FLOP *** 
+Diddle-Y-A folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695169322011066369-15-1674997874 - Holdem no limit (20/40) - 2023/01/29 13:11:14 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Diddle-Y-A (294)
+Seat 3: _SKR (606)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Diddle-Y-A posts big blind 40
+Dealt to _SKR [5s 8d]
+*** PRE-FLOP *** 
+_SKR folds
+Diddle-Y-A collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Diddle-Y-A (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2695169322011066369-16-1674997879 - Holdem no limit (20/40) - 2023/01/29 13:11:19 UTC
+Table: 'Expresso Nitro(627518008)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Diddle-Y-A (314)
+Seat 3: _SKR (586)
+*** ANTE/BLINDS ***
+Diddle-Y-A posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac 2d]
+*** PRE-FLOP *** 
+Diddle-Y-A raises 274 to 314 and is all-in
+_SKR calls 274
+*** FLOP *** [2c 8d Kh]
+*** TURN *** [2c 8d Kh][Ts]
+*** RIVER *** [2c 8d Kh Ts][8s]
+*** SHOW DOWN ***
+Diddle-Y-A shows [5s Js] (One pair : 8)
+_SKR shows [Ac 2d] (Two pairs : 8 and 2)
+_SKR collected 628 from pot
+*** SUMMARY ***
+Total pot 628 | No rake
+Board: [2c 8d Kh Ts 8s]
+Seat 2: Diddle-Y-A (small blind) (button) showed [5s Js] and lost with One pair : 8
+Seat 3: _SKR (big blind) showed [Ac 2d] and won 628 with Two pairs : 8 and 2
+
+

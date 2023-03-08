@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689874267285225473-1-1674657003 - Holdem no limit (10/20) - 2023/01/25 14:30:03 UTC
+Table: 'Expresso Nitro(626285157)#0' 3-max (real money) Seat #1 is the button
+Seat 1: calculateur3 (300)
+Seat 2: lazu98 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+lazu98 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jh Jc]
+*** PRE-FLOP *** 
+calculateur3 folds
+lazu98 calls 10
+_SKR raises 30 to 50
+lazu98 folds
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: _SKR (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689874267285225473-2-1674657016 - Holdem no limit (10/20) - 2023/01/25 14:30:16 UTC
+Table: 'Expresso Nitro(626285157)#0' 3-max (real money) Seat #2 is the button
+Seat 1: calculateur3 (300)
+Seat 2: lazu98 (280)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+calculateur3 posts big blind 20
+Dealt to _SKR [Ad 4d]
+*** PRE-FLOP *** 
+lazu98 folds
+_SKR raises 300 to 320 and is all-in
+calculateur3 calls 280 and is all-in
+*** FLOP *** [Qc 7s 3d]
+*** TURN *** [Qc 7s 3d][Td]
+*** RIVER *** [Qc 7s 3d Td][6c]
+*** SHOW DOWN ***
+calculateur3 shows [8d As] (High card : Ace)
+_SKR shows [Ad 4d] (High card : Ace)
+_SKR collected 20 from side pot 1
+calculateur3 collected 600 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qc 7s 3d Td 6c]
+Seat 1: calculateur3 (big blind) showed [8d As] and won 600 with High card : Ace
+Seat 3: _SKR (small blind) showed [Ad 4d] and won 20 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689874267285225473-3-1674657028 - Holdem no limit (10/20) - 2023/01/25 14:30:28 UTC
+Table: 'Expresso Nitro(626285157)#0' 3-max (real money) Seat #3 is the button
+Seat 1: calculateur3 (600)
+Seat 2: lazu98 (280)
+Seat 3: _SKR (20)
+*** ANTE/BLINDS ***
+calculateur3 posts small blind 10
+lazu98 posts big blind 20
+Dealt to _SKR [6c 4h]
+*** PRE-FLOP *** 
+_SKR calls 20 and is all-in
+calculateur3 folds
+*** FLOP *** [9s Qd 4s]
+*** TURN *** [9s Qd 4s][8d]
+*** RIVER *** [9s Qd 4s 8d][2s]
+*** SHOW DOWN ***
+lazu98 shows [Jd Ac] (High card : Ace)
+_SKR shows [6c 4h] (One pair : 4)
+_SKR collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [9s Qd 4s 8d 2s]
+Seat 2: lazu98 (big blind) showed [Jd Ac] and lost with High card : Ace
+Seat 3: _SKR (button) showed [6c 4h] and won 50 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689874267285225473-4-1674657042 - Holdem no limit (10/20) - 2023/01/25 14:30:42 UTC
+Table: 'Expresso Nitro(626285157)#0' 3-max (real money) Seat #1 is the button
+Seat 1: calculateur3 (590)
+Seat 2: lazu98 (260)
+Seat 3: _SKR (50)
+*** ANTE/BLINDS ***
+lazu98 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Qc]
+*** PRE-FLOP *** 
+calculateur3 folds
+lazu98 raises 40 to 60
+_SKR calls 30 and is all-in
+*** FLOP *** [4h 3s Th]
+*** TURN *** [4h 3s Th][Ad]
+*** RIVER *** [4h 3s Th Ad][Ks]
+*** SHOW DOWN ***
+_SKR shows [9s Qc] (High card : Ace)
+lazu98 shows [5s Td] (One pair : Tens)
+lazu98 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [4h 3s Th Ad Ks]
+Seat 2: lazu98 (small blind) showed [5s Td] and won 110 with One pair : Tens
+Seat 3: _SKR (big blind) showed [9s Qc] and lost with High card : Ace
+
+

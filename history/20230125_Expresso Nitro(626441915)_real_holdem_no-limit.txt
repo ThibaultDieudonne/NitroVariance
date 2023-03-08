@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690547537768611841-1-1674685751 - Holdem no limit (10/20) - 2023/01/25 22:29:11 UTC
+Table: 'Expresso Nitro(626441915)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Oriol_Agp (300)
+Seat 2: wmx-9nshfg0 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+wmx-9nshfg0 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc 9c]
+*** PRE-FLOP *** 
+Oriol_Agp calls 20
+wmx-9nshfg0 calls 10
+_SKR raises 40 to 60
+Oriol_Agp calls 40
+wmx-9nshfg0 folds
+*** FLOP *** [4h Qc 6s]
+_SKR bets 49
+Oriol_Agp raises 191 to 240 and is all-in
+_SKR folds
+Oriol_Agp collected 429 from pot
+*** SUMMARY ***
+Total pot 429 | No rake
+Board: [4h Qc 6s]
+Seat 1: Oriol_Agp (button) won 429
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690547537768611841-2-1674685800 - Holdem no limit (10/20) - 2023/01/25 22:30:00 UTC
+Table: 'Expresso Nitro(626441915)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Oriol_Agp (429)
+Seat 2: wmx-9nshfg0 (280)
+Seat 3: _SKR (191)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Oriol_Agp posts big blind 20
+Dealt to _SKR [Ks Td]
+*** PRE-FLOP *** 
+wmx-9nshfg0 folds
+_SKR raises 171 to 191 and is all-in
+Oriol_Agp calls 171
+*** FLOP *** [5s 2c 6s]
+*** TURN *** [5s 2c 6s][Jd]
+*** RIVER *** [5s 2c 6s Jd][Kc]
+*** SHOW DOWN ***
+Oriol_Agp shows [7s 4h] (High card : King)
+_SKR shows [Ks Td] (One pair : Kings)
+_SKR collected 382 from pot
+*** SUMMARY ***
+Total pot 382 | No rake
+Board: [5s 2c 6s Jd Kc]
+Seat 1: Oriol_Agp (big blind) showed [7s 4h] and lost with High card : King
+Seat 3: _SKR (small blind) showed [Ks Td] and won 382 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690547537768611841-3-1674685817 - Holdem no limit (15/30) - 2023/01/25 22:30:17 UTC
+Table: 'Expresso Nitro(626441915)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Oriol_Agp (238)
+Seat 2: wmx-9nshfg0 (280)
+Seat 3: _SKR (382)
+*** ANTE/BLINDS ***
+Oriol_Agp posts small blind 15
+wmx-9nshfg0 posts big blind 30
+Dealt to _SKR [4h 4s]
+*** PRE-FLOP *** 
+_SKR raises 352 to 382 and is all-in
+Oriol_Agp calls 223 and is all-in
+wmx-9nshfg0 folds
+*** FLOP *** [Js 7d 3d]
+*** TURN *** [Js 7d 3d][Ac]
+*** RIVER *** [Js 7d 3d Ac][6d]
+*** SHOW DOWN ***
+Oriol_Agp shows [6h Kd] (One pair : 6)
+_SKR shows [4h 4s] (One pair : 4)
+_SKR collected 144 from side pot 1
+Oriol_Agp collected 506 from main pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Js 7d 3d Ac 6d]
+Seat 1: Oriol_Agp (small blind) showed [6h Kd] and won 506 with One pair : 6
+Seat 3: _SKR (button) showed [4h 4s] and won 144 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690547537768611841-4-1674685830 - Holdem no limit (15/30) - 2023/01/25 22:30:30 UTC
+Table: 'Expresso Nitro(626441915)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Oriol_Agp (506)
+Seat 2: wmx-9nshfg0 (250)
+Seat 3: _SKR (144)
+*** ANTE/BLINDS ***
+wmx-9nshfg0 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ks 7c]
+*** PRE-FLOP *** 
+Oriol_Agp calls 30
+wmx-9nshfg0 folds
+_SKR raises 114 to 144 and is all-in
+Oriol_Agp calls 114
+*** FLOP *** [5c Qc Kh]
+*** TURN *** [5c Qc Kh][7h]
+*** RIVER *** [5c Qc Kh 7h][Tc]
+*** SHOW DOWN ***
+_SKR shows [Ks 7c] (Two pairs : Kings and 7)
+Oriol_Agp shows [6c 8c] (Flush Queen high)
+Oriol_Agp collected 303 from pot
+*** SUMMARY ***
+Total pot 303 | No rake
+Board: [5c Qc Kh 7h Tc]
+Seat 1: Oriol_Agp (button) showed [6c 8c] and won 303 with Flush Queen high
+Seat 3: _SKR (big blind) showed [Ks 7c] and lost with Two pairs : Kings and 7
+
+

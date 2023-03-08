@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689764706964471809-1-1674650466 - Holdem no limit (10/20) - 2023/01/25 12:41:06 UTC
+Table: 'Expresso Nitro(626259648)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Frron (300)
+Seat 2: kanno piqure (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+kanno piqure posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s Td]
+*** PRE-FLOP *** 
+Frron raises 280 to 300 and is all-in
+kanno piqure folds
+_SKR folds
+Frron collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Frron (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689764706964471809-2-1674650479 - Holdem no limit (10/20) - 2023/01/25 12:41:19 UTC
+Table: 'Expresso Nitro(626259648)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Frron (330)
+Seat 2: kanno piqure (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Frron posts big blind 20
+Dealt to _SKR [8d 5c]
+*** PRE-FLOP *** 
+kanno piqure folds
+_SKR folds
+Frron collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Frron (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689764706964471809-3-1674650485 - Holdem no limit (10/20) - 2023/01/25 12:41:25 UTC
+Table: 'Expresso Nitro(626259648)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Frron (340)
+Seat 2: kanno piqure (290)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Frron posts small blind 10
+kanno piqure posts big blind 20
+Dealt to _SKR [Kd Js]
+*** PRE-FLOP *** 
+_SKR raises 250 to 270 and is all-in
+Frron folds
+kanno piqure folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: _SKR (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689764706964471809-4-1674650500 - Holdem no limit (10/20) - 2023/01/25 12:41:40 UTC
+Table: 'Expresso Nitro(626259648)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Frron (330)
+Seat 2: kanno piqure (270)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+kanno piqure posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 6s]
+*** PRE-FLOP *** 
+Frron folds
+kanno piqure raises 250 to 270 and is all-in
+_SKR calls 250
+*** FLOP *** [7h 5s 9s]
+*** TURN *** [7h 5s 9s][8d]
+*** RIVER *** [7h 5s 9s 8d][Jc]
+*** SHOW DOWN ***
+kanno piqure shows [9h 9c] (Trips of 9)
+_SKR shows [6d 6s] (Straight 9 high)
+_SKR collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [7h 5s 9s 8d Jc]
+Seat 2: kanno piqure (small blind) showed [9h 9c] and lost with Trips of 9
+Seat 3: _SKR (big blind) showed [6d 6s] and won 540 with Straight 9 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689764706964471809-5-1674650518 - Holdem no limit (10/20) - 2023/01/25 12:41:58 UTC
+Table: 'Expresso Nitro(626259648)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Frron (330)
+Seat 3: _SKR (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Frron posts big blind 20
+Dealt to _SKR [Js As]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Frron raises 290 to 330 and is all-in
+_SKR calls 290
+*** FLOP *** [Ah 8h Kc]
+*** TURN *** [Ah 8h Kc][4c]
+*** RIVER *** [Ah 8h Kc 4c][6d]
+*** SHOW DOWN ***
+Frron shows [Jd Jh] (One pair : Jacks)
+_SKR shows [Js As] (One pair : Aces)
+_SKR collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Ah 8h Kc 4c 6d]
+Seat 1: Frron (big blind) showed [Jd Jh] and lost with One pair : Jacks
+Seat 3: _SKR (small blind) (button) showed [Js As] and won 660 with One pair : Aces
+
+

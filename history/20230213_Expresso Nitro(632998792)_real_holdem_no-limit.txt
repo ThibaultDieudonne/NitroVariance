@@ -1,0 +1,477 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718709110047506433-1-1676296594 - Holdem no limit (10/20) - 2023/02/13 13:56:34 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Wolfkings (300)
+Seat 2: rekkitdesoin (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Wolfkings posts big blind 20
+Dealt to _SKR [2s Ac]
+*** PRE-FLOP *** 
+rekkitdesoin calls 20
+_SKR raises 280 to 300 and is all-in
+Wolfkings folds
+rekkitdesoin folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718709110047506433-2-1676296602 - Holdem no limit (10/20) - 2023/02/13 13:56:42 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wolfkings (280)
+Seat 2: rekkitdesoin (280)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+Wolfkings posts small blind 10
+rekkitdesoin posts big blind 20
+Dealt to _SKR [Qs 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Wolfkings calls 10
+rekkitdesoin checks
+*** FLOP *** [Js 6h 4c]
+Wolfkings bets 40
+rekkitdesoin folds
+Wolfkings collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Js 6h 4c]
+Seat 1: Wolfkings (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718709110047506433-3-1676296611 - Holdem no limit (10/20) - 2023/02/13 13:56:51 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Wolfkings (300)
+Seat 2: rekkitdesoin (260)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+rekkitdesoin posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qd 2d]
+*** PRE-FLOP *** 
+Wolfkings folds
+rekkitdesoin calls 10
+_SKR checks
+*** FLOP *** [5h 3d 6d]
+rekkitdesoin checks
+_SKR bets 20
+rekkitdesoin calls 20
+*** TURN *** [5h 3d 6d][8s]
+rekkitdesoin checks
+_SKR bets 40
+rekkitdesoin calls 40
+*** RIVER *** [5h 3d 6d 8s][9s]
+rekkitdesoin checks
+_SKR bets 104
+rekkitdesoin calls 104
+*** SHOW DOWN ***
+_SKR shows [Qd 2d] (High card : Queen)
+rekkitdesoin shows [9d 4d] (One pair : 9)
+rekkitdesoin collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | No rake
+Board: [5h 3d 6d 8s 9s]
+Seat 2: rekkitdesoin (small blind) showed [9d 4d] and won 368 with One pair : 9
+Seat 3: _SKR (big blind) showed [Qd 2d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718709110047506433-4-1676296650 - Holdem no limit (15/30) - 2023/02/13 13:57:30 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Wolfkings (300)
+Seat 2: rekkitdesoin (444)
+Seat 3: _SKR (156)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Wolfkings posts big blind 30
+Dealt to _SKR [8d 9c]
+*** PRE-FLOP *** 
+rekkitdesoin calls 30
+_SKR folds
+Wolfkings checks
+*** FLOP *** [Qd 4d Jd]
+Wolfkings checks
+rekkitdesoin checks
+*** TURN *** [Qd 4d Jd][5h]
+Wolfkings checks
+rekkitdesoin checks
+*** RIVER *** [Qd 4d Jd 5h][2h]
+Wolfkings bets 49
+rekkitdesoin calls 49
+*** SHOW DOWN ***
+Wolfkings shows [7c 2c] (One pair : 2)
+rekkitdesoin shows [9s 9h] (One pair : 9)
+rekkitdesoin collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | No rake
+Board: [Qd 4d Jd 5h 2h]
+Seat 1: Wolfkings (big blind) showed [7c 2c] and lost with One pair : 2
+Seat 2: rekkitdesoin (button) showed [9s 9h] and won 173 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718709110047506433-5-1676296668 - Holdem no limit (15/30) - 2023/02/13 13:57:48 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wolfkings (221)
+Seat 2: rekkitdesoin (538)
+Seat 3: _SKR (141)
+*** ANTE/BLINDS ***
+Wolfkings posts small blind 15
+rekkitdesoin posts big blind 30
+Dealt to _SKR [4c 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Wolfkings raises 191 to 221 and is all-in
+rekkitdesoin calls 191
+*** FLOP *** [8c 6h Th]
+*** TURN *** [8c 6h Th][6s]
+*** RIVER *** [8c 6h Th 6s][2s]
+*** SHOW DOWN ***
+rekkitdesoin shows [Qd Ah] (One pair : 6)
+Wolfkings shows [3s 3c] (Two pairs : 6 and 3)
+Wolfkings collected 442 from pot
+*** SUMMARY ***
+Total pot 442 | No rake
+Board: [8c 6h Th 6s 2s]
+Seat 1: Wolfkings (small blind) showed [3s 3c] and won 442 with Two pairs : 6 and 3
+Seat 2: rekkitdesoin (big blind) showed [Qd Ah] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718709110047506433-6-1676296682 - Holdem no limit (15/30) - 2023/02/13 13:58:02 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Wolfkings (442)
+Seat 2: rekkitdesoin (317)
+Seat 3: _SKR (141)
+*** ANTE/BLINDS ***
+rekkitdesoin posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9d Jc]
+*** PRE-FLOP *** 
+Wolfkings raises 412 to 442 and is all-in
+rekkitdesoin folds
+_SKR folds
+Wolfkings collected 487 from pot
+*** SUMMARY ***
+Total pot 487 | No rake
+Seat 1: Wolfkings (button) won 487
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718709110047506433-7-1676296693 - Holdem no limit (15/30) - 2023/02/13 13:58:13 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Wolfkings (487)
+Seat 2: rekkitdesoin (302)
+Seat 3: _SKR (111)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Wolfkings posts big blind 30
+Dealt to _SKR [Kh 4h]
+*** PRE-FLOP *** 
+rekkitdesoin calls 30
+_SKR folds
+Wolfkings checks
+*** FLOP *** [Ks 4d 5s]
+Wolfkings checks
+rekkitdesoin checks
+*** TURN *** [Ks 4d 5s][Jc]
+Wolfkings checks
+rekkitdesoin bets 30
+Wolfkings calls 30
+*** RIVER *** [Ks 4d 5s Jc][Tc]
+Wolfkings checks
+rekkitdesoin checks
+*** SHOW DOWN ***
+Wolfkings shows [8s 9s] (High card : King)
+rekkitdesoin shows [9c Js] (One pair : Jacks)
+rekkitdesoin collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Ks 4d 5s Jc Tc]
+Seat 1: Wolfkings (big blind) showed [8s 9s] and lost with High card : King
+Seat 2: rekkitdesoin (button) showed [9c Js] and won 135 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718709110047506433-8-1676296717 - Holdem no limit (20/40) - 2023/02/13 13:58:37 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Wolfkings (427)
+Seat 2: rekkitdesoin (377)
+Seat 3: _SKR (96)
+*** ANTE/BLINDS ***
+Wolfkings posts small blind 20
+rekkitdesoin posts big blind 40
+Dealt to _SKR [3d 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Wolfkings calls 20
+rekkitdesoin checks
+*** FLOP *** [Th 5d 5s]
+Wolfkings checks
+rekkitdesoin checks
+*** TURN *** [Th 5d 5s][6h]
+Wolfkings checks
+rekkitdesoin checks
+*** RIVER *** [Th 5d 5s 6h][4c]
+Wolfkings checks
+rekkitdesoin checks
+*** SHOW DOWN ***
+Wolfkings shows [Kd 3h] (One pair : 5)
+rekkitdesoin shows [6c 3c] (Two pairs : 6 and 5)
+rekkitdesoin collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Th 5d 5s 6h 4c]
+Seat 1: Wolfkings (small blind) showed [Kd 3h] and lost with One pair : 5
+Seat 2: rekkitdesoin (big blind) showed [6c 3c] and won 80 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718709110047506433-9-1676296733 - Holdem no limit (20/40) - 2023/02/13 13:58:53 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Wolfkings (387)
+Seat 2: rekkitdesoin (417)
+Seat 3: _SKR (96)
+*** ANTE/BLINDS ***
+rekkitdesoin posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh 6h]
+*** PRE-FLOP *** 
+Wolfkings raises 347 to 387 and is all-in
+rekkitdesoin folds
+_SKR calls 56 and is all-in
+*** FLOP *** [5c Ah Qd]
+*** TURN *** [5c Ah Qd][6d]
+*** RIVER *** [5c Ah Qd 6d][3s]
+*** SHOW DOWN ***
+Wolfkings shows [Jd Kh] (High card : Ace)
+_SKR shows [Jh 6h] (One pair : 6)
+_SKR collected 212 from main pot
+Wolfkings collected 291 from side pot 1
+*** SUMMARY ***
+Total pot 503 | No rake
+Board: [5c Ah Qd 6d 3s]
+Seat 1: Wolfkings (button) showed [Jd Kh] and won 291 with High card : Ace
+Seat 3: _SKR (big blind) showed [Jh 6h] and won 212 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2718709110047506433-10-1676296755 - Holdem no limit (20/40) - 2023/02/13 13:59:15 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Wolfkings (291)
+Seat 2: rekkitdesoin (397)
+Seat 3: _SKR (212)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Wolfkings posts big blind 40
+Dealt to _SKR [9d Th]
+*** PRE-FLOP *** 
+rekkitdesoin calls 40
+_SKR folds
+Wolfkings checks
+*** FLOP *** [Qc 9c 5d]
+Wolfkings checks
+rekkitdesoin bets 40
+Wolfkings raises 211 to 251 and is all-in
+rekkitdesoin calls 211
+*** TURN *** [Qc 9c 5d][6d]
+*** RIVER *** [Qc 9c 5d 6d][Jd]
+*** SHOW DOWN ***
+Wolfkings shows [9h 7h] (One pair : 9)
+rekkitdesoin shows [Qs 8s] (One pair : Queens)
+rekkitdesoin collected 602 from pot
+*** SUMMARY ***
+Total pot 602 | No rake
+Board: [Qc 9c 5d 6d Jd]
+Seat 1: Wolfkings (big blind) showed [9h 7h] and lost with One pair : 9
+Seat 2: rekkitdesoin (button) showed [Qs 8s] and won 602 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718709110047506433-11-1676296772 - Holdem no limit (30/60) - 2023/02/13 13:59:32 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #2 is the button
+Seat 2: rekkitdesoin (708)
+Seat 3: _SKR (192)
+*** ANTE/BLINDS ***
+rekkitdesoin posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4h 9c]
+*** PRE-FLOP *** 
+rekkitdesoin calls 30
+_SKR checks
+*** FLOP *** [Qc Qs 4c]
+_SKR checks
+rekkitdesoin checks
+*** TURN *** [Qc Qs 4c][Kh]
+_SKR checks
+rekkitdesoin checks
+*** RIVER *** [Qc Qs 4c Kh][9s]
+_SKR checks
+rekkitdesoin checks
+*** SHOW DOWN ***
+rekkitdesoin shows [7h 2d] (One pair : Queens)
+_SKR shows [4h 9c] (Two pairs : Queens and 9)
+_SKR collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qc Qs 4c Kh 9s]
+Seat 2: rekkitdesoin (small blind) (button) showed [7h 2d] and lost with One pair : Queens
+Seat 3: _SKR (big blind) showed [4h 9c] and won 120 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718709110047506433-12-1676296816 - Holdem no limit (30/60) - 2023/02/13 14:00:16 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #3 is the button
+Seat 2: rekkitdesoin (648)
+Seat 3: _SKR (252)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+rekkitdesoin posts big blind 60
+Dealt to _SKR [8s 8d]
+*** PRE-FLOP *** 
+_SKR raises 192 to 252 and is all-in
+rekkitdesoin folds
+_SKR collected 312 from pot
+*** SUMMARY ***
+Total pot 312 | No rake
+Seat 3: _SKR (small blind) (button) won 312
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2718709110047506433-13-1676296821 - Holdem no limit (30/60) - 2023/02/13 14:00:21 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #2 is the button
+Seat 2: rekkitdesoin (588)
+Seat 3: _SKR (312)
+*** ANTE/BLINDS ***
+rekkitdesoin posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c 4c]
+*** PRE-FLOP *** 
+rekkitdesoin calls 30
+_SKR checks
+*** FLOP *** [4s 7c Td]
+_SKR checks
+rekkitdesoin checks
+*** TURN *** [4s 7c Td][Ts]
+_SKR checks
+rekkitdesoin checks
+*** RIVER *** [4s 7c Td Ts][6d]
+_SKR checks
+rekkitdesoin bets 60
+_SKR folds
+rekkitdesoin collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4s 7c Td Ts 6d]
+Seat 2: rekkitdesoin (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2718709110047506433-14-1676296909 - Holdem no limit (50/100) - 2023/02/13 14:01:49 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #3 is the button
+Seat 2: rekkitdesoin (648)
+Seat 3: _SKR (252)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+rekkitdesoin posts big blind 100
+Dealt to _SKR [5d Qs]
+*** PRE-FLOP *** 
+_SKR raises 152 to 252 and is all-in
+rekkitdesoin folds
+_SKR collected 352 from pot
+*** SUMMARY ***
+Total pot 352 | No rake
+Seat 3: _SKR (small blind) (button) won 352
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2718709110047506433-15-1676296926 - Holdem no limit (50/100) - 2023/02/13 14:02:06 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #2 is the button
+Seat 2: rekkitdesoin (548)
+Seat 3: _SKR (352)
+*** ANTE/BLINDS ***
+rekkitdesoin posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [Td 4h]
+*** PRE-FLOP *** 
+rekkitdesoin calls 50
+_SKR checks
+*** FLOP *** [3c Th 4s]
+_SKR checks
+rekkitdesoin checks
+*** TURN *** [3c Th 4s][7c]
+_SKR bets 130
+rekkitdesoin folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [3c Th 4s 7c]
+Seat 3: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2718709110047506433-16-1676296945 - Holdem no limit (50/100) - 2023/02/13 14:02:25 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #3 is the button
+Seat 2: rekkitdesoin (448)
+Seat 3: _SKR (452)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+rekkitdesoin posts big blind 100
+Dealt to _SKR [5s Jc]
+*** PRE-FLOP *** 
+_SKR folds
+rekkitdesoin collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: rekkitdesoin (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2718709110047506433-17-1676296948 - Holdem no limit (50/100) - 2023/02/13 14:02:28 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #2 is the button
+Seat 2: rekkitdesoin (498)
+Seat 3: _SKR (402)
+*** ANTE/BLINDS ***
+rekkitdesoin posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [9h Td]
+*** PRE-FLOP *** 
+rekkitdesoin calls 50
+_SKR raises 302 to 402 and is all-in
+rekkitdesoin folds
+_SKR collected 502 from pot
+*** SUMMARY ***
+Total pot 502 | No rake
+Seat 3: _SKR (big blind) won 502
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2718709110047506433-18-1676296964 - Holdem no limit (60/120) - 2023/02/13 14:02:44 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #3 is the button
+Seat 2: rekkitdesoin (398)
+Seat 3: _SKR (502)
+*** ANTE/BLINDS ***
+_SKR posts small blind 60
+rekkitdesoin posts big blind 120
+Dealt to _SKR [3d 5h]
+*** PRE-FLOP *** 
+_SKR folds
+rekkitdesoin collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: rekkitdesoin (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #2718709110047506433-19-1676296968 - Holdem no limit (60/120) - 2023/02/13 14:02:48 UTC
+Table: 'Expresso Nitro(632998792)#0' 3-max (real money) Seat #2 is the button
+Seat 2: rekkitdesoin (458)
+Seat 3: _SKR (442)
+*** ANTE/BLINDS ***
+rekkitdesoin posts small blind 60
+_SKR posts big blind 120
+Dealt to _SKR [9s Jc]
+*** PRE-FLOP *** 
+rekkitdesoin calls 60
+_SKR raises 322 to 442 and is all-in
+rekkitdesoin calls 322
+*** FLOP *** [4s 4h Ts]
+*** TURN *** [4s 4h Ts][Qc]
+*** RIVER *** [4s 4h Ts Qc][3d]
+*** SHOW DOWN ***
+_SKR shows [9s Jc] (One pair : 4)
+rekkitdesoin shows [3c Kc] (Two pairs : 4 and 3)
+rekkitdesoin collected 884 from pot
+*** SUMMARY ***
+Total pot 884 | No rake
+Board: [4s 4h Ts Qc 3d]
+Seat 2: rekkitdesoin (small blind) (button) showed [3c Kc] and won 884 with Two pairs : 4 and 3
+Seat 3: _SKR (big blind) showed [9s Jc] and lost with One pair : 4
+
+

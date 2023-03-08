@@ -1,0 +1,103 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697298109666426881-1-1675116770 - Holdem no limit (10/20) - 2023/01/30 22:12:50 UTC
+Table: 'Expresso Nitro(628013655)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: flamixx13 (300)
+Seat 3: Kkkiller (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+flamixx13 posts big blind 20
+Dealt to _SKR [Kd 5h]
+*** PRE-FLOP *** 
+Kkkiller calls 20
+_SKR folds
+flamixx13 checks
+*** FLOP *** [Qd 6d 3d]
+flamixx13 bets 33
+Kkkiller calls 33
+*** TURN *** [Qd 6d 3d][4d]
+flamixx13 bets 41
+Kkkiller raises 206 to 247 and is all-in
+flamixx13 folds
+Kkkiller collected 404 from pot
+*** SUMMARY ***
+Total pot 404 | No rake
+Board: [Qd 6d 3d 4d]
+Seat 3: Kkkiller (button) won 404
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697298109666426881-2-1675116799 - Holdem no limit (10/20) - 2023/01/30 22:13:19 UTC
+Table: 'Expresso Nitro(628013655)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: flamixx13 (206)
+Seat 3: Kkkiller (404)
+*** ANTE/BLINDS ***
+flamixx13 posts small blind 10
+Kkkiller posts big blind 20
+Dealt to _SKR [9h 7h]
+*** PRE-FLOP *** 
+_SKR folds
+flamixx13 raises 186 to 206 and is all-in
+Kkkiller calls 186
+*** FLOP *** [3s 3h Js]
+*** TURN *** [3s 3h Js][8d]
+*** RIVER *** [3s 3h Js 8d][Ts]
+*** SHOW DOWN ***
+Kkkiller shows [2h Ac] (One pair : 3)
+flamixx13 shows [Kh Ah] (One pair : 3)
+flamixx13 collected 412 from pot
+*** SUMMARY ***
+Total pot 412 | No rake
+Board: [3s 3h Js 8d Ts]
+Seat 2: flamixx13 (small blind) showed [Kh Ah] and won 412 with One pair : 3
+Seat 3: Kkkiller (big blind) showed [2h Ac] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697298109666426881-3-1675116818 - Holdem no limit (10/20) - 2023/01/30 22:13:38 UTC
+Table: 'Expresso Nitro(628013655)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: flamixx13 (412)
+Seat 3: Kkkiller (198)
+*** ANTE/BLINDS ***
+Kkkiller posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh Th]
+*** PRE-FLOP *** 
+flamixx13 folds
+Kkkiller calls 10
+_SKR raises 270 to 290 and is all-in
+Kkkiller folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 1: _SKR (big blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697298109666426881-4-1675116838 - Holdem no limit (15/30) - 2023/01/30 22:13:58 UTC
+Table: 'Expresso Nitro(628013655)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: flamixx13 (412)
+Seat 3: Kkkiller (178)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+flamixx13 posts big blind 30
+Dealt to _SKR [Qs Kc]
+*** PRE-FLOP *** 
+Kkkiller raises 148 to 178 and is all-in
+_SKR raises 132 to 310 and is all-in
+flamixx13 calls 280
+*** FLOP *** [6s Tc 2h]
+*** TURN *** [6s Tc 2h][Jd]
+*** RIVER *** [6s Tc 2h Jd][2c]
+*** SHOW DOWN ***
+_SKR shows [Qs Kc] (One pair : 2)
+Kkkiller shows [Ad 4c] (One pair : 2)
+flamixx13 shows [8d 8c] (Two pairs : 8 and 2)
+flamixx13 collected 798 from pot
+*** SUMMARY ***
+Total pot 798 | No rake
+Board: [6s Tc 2h Jd 2c]
+Seat 1: _SKR (small blind) showed [Qs Kc] and lost with One pair : 2
+Seat 2: flamixx13 (big blind) showed [8d 8c] and won 798 with Two pairs : 8 and 2
+Seat 3: Kkkiller (button) showed [Ad 4c] and lost with One pair : 2
+
+

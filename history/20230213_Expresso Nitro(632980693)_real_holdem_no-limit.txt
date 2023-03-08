@@ -1,0 +1,100 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718631375434416129-1-1676292593 - Holdem no limit (10/20) - 2023/02/13 12:49:53 UTC
+Table: 'Expresso Nitro(632980693)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Medhi92100 (300)
+Seat 2: Gueldesh (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Medhi92100 posts big blind 20
+Dealt to _SKR [Kc 7d]
+*** PRE-FLOP *** 
+Gueldesh calls 20
+_SKR folds
+Medhi92100 checks
+*** FLOP *** [Ts 2c 2h]
+Medhi92100 bets 280 and is all-in
+Gueldesh folds
+Medhi92100 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Ts 2c 2h]
+Seat 1: Medhi92100 (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718631375434416129-2-1676292610 - Holdem no limit (10/20) - 2023/02/13 12:50:10 UTC
+Table: 'Expresso Nitro(632980693)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Medhi92100 (330)
+Seat 2: Gueldesh (280)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Medhi92100 posts small blind 10
+Gueldesh posts big blind 20
+Dealt to _SKR [7s 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Medhi92100 folds
+Gueldesh collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Gueldesh (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718631375434416129-3-1676292623 - Holdem no limit (10/20) - 2023/02/13 12:50:23 UTC
+Table: 'Expresso Nitro(632980693)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Medhi92100 (320)
+Seat 2: Gueldesh (290)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Gueldesh posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d Kh]
+*** PRE-FLOP *** 
+Medhi92100 raises 20 to 40
+Gueldesh calls 30
+_SKR calls 20
+*** FLOP *** [Ks 7c Js]
+Gueldesh bets 20
+_SKR calls 20
+Medhi92100 raises 260 to 280 and is all-in
+Gueldesh calls 230 and is all-in
+_SKR calls 230 and is all-in
+*** TURN *** [Ks 7c Js][4d]
+*** RIVER *** [Ks 7c Js 4d][7h]
+*** SHOW DOWN ***
+Gueldesh shows [Tc Jh] (Two pairs : Jacks and 7)
+Medhi92100 shows [Kd Qs] (Two pairs : Kings and 7)
+_SKR shows [7d Kh] (Full of 7 and Kings)
+_SKR collected 870 from main pot
+Medhi92100 collected 30 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks 7c Js 4d 7h]
+Seat 1: Medhi92100 (button) showed [Kd Qs] and won 30 with Two pairs : Kings and 7
+Seat 2: Gueldesh (small blind) showed [Tc Jh] and lost with Two pairs : Jacks and 7
+Seat 3: _SKR (big blind) showed [7d Kh] and won 870 with Full of 7 and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2718631375434416129-4-1676292668 - Holdem no limit (15/30) - 2023/02/13 12:51:08 UTC
+Table: 'Expresso Nitro(632980693)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Medhi92100 (30)
+Seat 3: _SKR (870)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Medhi92100 posts big blind 30 and is all-in
+Dealt to _SKR [Tc 4d]
+*** PRE-FLOP *** 
+_SKR calls 15
+*** FLOP *** [Th Qh Ad]
+*** TURN *** [Th Qh Ad][4c]
+*** RIVER *** [Th Qh Ad 4c][Ac]
+*** SHOW DOWN ***
+Medhi92100 shows [9h 2c] (One pair : Aces)
+_SKR shows [Tc 4d] (Two pairs : Aces and Tens)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Th Qh Ad 4c Ac]
+Seat 1: Medhi92100 (big blind) showed [9h 2c] and lost with One pair : Aces
+Seat 3: _SKR (small blind) (button) showed [Tc 4d] and won 60 with Two pairs : Aces and Tens
+
+

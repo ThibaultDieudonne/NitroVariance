@@ -1,0 +1,77 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730611709965238273-1-1676988583 - Holdem no limit (10/20) - 2023/02/21 14:09:43 UTC
+Table: 'Expresso Nitro(635770082)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Yann6989 (300)
+Seat 2: _SKR (300)
+Seat 3: Joueur.72264 (300)
+*** ANTE/BLINDS ***
+Joueur.72264 posts small blind 10
+Yann6989 posts big blind 20
+Dealt to _SKR [Td 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Joueur.72264 calls 10
+Yann6989 raises 280 to 300 and is all-in
+Joueur.72264 folds
+Yann6989 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Yann6989 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730611709965238273-2-1676988590 - Holdem no limit (10/20) - 2023/02/21 14:09:50 UTC
+Table: 'Expresso Nitro(635770082)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Yann6989 (320)
+Seat 2: _SKR (300)
+Seat 3: Joueur.72264 (280)
+*** ANTE/BLINDS ***
+Yann6989 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 5s]
+*** PRE-FLOP *** 
+Joueur.72264 calls 20
+Yann6989 calls 10
+_SKR checks
+*** FLOP *** [8c 8h Ks]
+Yann6989 checks
+_SKR checks
+Joueur.72264 bets 20
+Yann6989 folds
+_SKR folds
+Joueur.72264 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8c 8h Ks]
+Seat 3: Joueur.72264 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730611709965238273-3-1676988616 - Holdem no limit (10/20) - 2023/02/21 14:10:16 UTC
+Table: 'Expresso Nitro(635770082)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yann6989 (300)
+Seat 2: _SKR (280)
+Seat 3: Joueur.72264 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Joueur.72264 posts big blind 20
+Dealt to _SKR [Kc 6s]
+*** PRE-FLOP *** 
+Yann6989 folds
+_SKR raises 20 to 40
+Joueur.72264 raises 20 to 60
+_SKR calls 20
+*** FLOP *** [Qh Kd 7d]
+_SKR checks
+Joueur.72264 bets 260 and is all-in
+_SKR calls 220 and is all-in
+*** TURN *** [Qh Kd 7d][Ad]
+*** RIVER *** [Qh Kd 7d Ad][Qd]
+*** SHOW DOWN ***
+_SKR shows [Kc 6s] (Two pairs : Kings and Queens)
+Joueur.72264 shows [8d 8s] (Flush Ace high)
+Joueur.72264 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qh Kd 7d Ad Qd]
+Seat 2: _SKR (small blind) showed [Kc 6s] and lost with Two pairs : Kings and Queens
+Seat 3: Joueur.72264 (big blind) showed [8d 8s] and won 600 with Flush Ace high
+
+

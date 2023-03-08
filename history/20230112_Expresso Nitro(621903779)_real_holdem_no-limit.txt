@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671056392063811585-1-1673528895 - Holdem no limit (10/20) - 2023/01/12 13:08:15 UTC
+Table: 'Expresso Nitro(621903779)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kentovich (300)
+Seat 2: _SKR (300)
+Seat 3: Fouedsosa (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Fouedsosa posts big blind 20
+Dealt to _SKR [6h Ah]
+*** PRE-FLOP *** 
+Kentovich calls 20
+_SKR raises 280 to 300 and is all-in
+Fouedsosa folds
+Kentovich folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: _SKR (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671056392063811585-2-1673528909 - Holdem no limit (10/20) - 2023/01/12 13:08:29 UTC
+Table: 'Expresso Nitro(621903779)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kentovich (280)
+Seat 2: _SKR (340)
+Seat 3: Fouedsosa (280)
+*** ANTE/BLINDS ***
+Fouedsosa posts small blind 10
+Kentovich posts big blind 20
+Dealt to _SKR [Qc 5h]
+*** PRE-FLOP *** 
+_SKR folds
+Fouedsosa calls 10
+Kentovich checks
+*** FLOP *** [Jh 7c Ks]
+Fouedsosa checks
+Kentovich checks
+*** TURN *** [Jh 7c Ks][6h]
+Fouedsosa checks
+Kentovich checks
+*** RIVER *** [Jh 7c Ks 6h][Th]
+Fouedsosa checks
+Kentovich bets 260 and is all-in
+Fouedsosa folds
+Kentovich collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Jh 7c Ks 6h Th]
+Seat 1: Kentovich (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671056392063811585-3-1673528943 - Holdem no limit (10/20) - 2023/01/12 13:09:03 UTC
+Table: 'Expresso Nitro(621903779)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kentovich (300)
+Seat 2: _SKR (340)
+Seat 3: Fouedsosa (260)
+*** ANTE/BLINDS ***
+Kentovich posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7h Ah]
+*** PRE-FLOP *** 
+Fouedsosa calls 20
+Kentovich calls 10
+_SKR raises 320 to 340 and is all-in
+Fouedsosa folds
+Kentovich calls 280 and is all-in
+*** FLOP *** [6d 2d 9s]
+*** TURN *** [6d 2d 9s][Ks]
+*** RIVER *** [6d 2d 9s Ks][8c]
+*** SHOW DOWN ***
+Kentovich shows [6s Kd] (Two pairs : Kings and 6)
+_SKR shows [7h Ah] (High card : Ace)
+_SKR collected 40 from side pot 1
+Kentovich collected 620 from main pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [6d 2d 9s Ks 8c]
+Seat 1: Kentovich (small blind) showed [6s Kd] and won 620 with Two pairs : Kings and 6
+Seat 2: _SKR (big blind) showed [7h Ah] and won 40 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2671056392063811585-4-1673528973 - Holdem no limit (15/30) - 2023/01/12 13:09:33 UTC
+Table: 'Expresso Nitro(621903779)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kentovich (620)
+Seat 2: _SKR (40)
+Seat 3: Fouedsosa (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Fouedsosa posts big blind 30
+Dealt to _SKR [8h 6h]
+*** PRE-FLOP *** 
+Kentovich calls 30
+_SKR raises 10 to 40 and is all-in
+Fouedsosa calls 10
+Kentovich calls 10
+*** FLOP *** [Ks 3d Tc]
+Fouedsosa checks
+Kentovich checks
+*** TURN *** [Ks 3d Tc][Th]
+Fouedsosa bets 30
+Kentovich folds
+*** RIVER *** [Ks 3d Tc Th][6d]
+*** SHOW DOWN ***
+_SKR shows [8h 6h] (Two pairs : Tens and 6)
+Fouedsosa shows [Ad Kh] (Two pairs : Kings and Tens)
+Fouedsosa collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Ks 3d Tc Th 6d]
+Seat 2: _SKR (small blind) showed [8h 6h] and lost with Two pairs : Tens and 6
+Seat 3: Fouedsosa (big blind) showed [Ad Kh] and won 150 with Two pairs : Kings and Tens
+
+

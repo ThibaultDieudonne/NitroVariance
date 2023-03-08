@@ -1,0 +1,88 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689811126971006977-1-1674653336 - Holdem no limit (10/20) - 2023/01/25 13:28:56 UTC
+Table: 'Expresso Nitro(626270456)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Stockmen98 (300)
+Seat 3: LoPoTi_x (300)
+*** ANTE/BLINDS ***
+Stockmen98 posts small blind 10
+LoPoTi_x posts big blind 20
+Dealt to _SKR [5s Jc]
+*** PRE-FLOP *** 
+_SKR folds
+Stockmen98 raises 280 to 300 and is all-in
+LoPoTi_x folds
+Stockmen98 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Stockmen98 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689811126971006977-2-1674653346 - Holdem no limit (10/20) - 2023/01/25 13:29:06 UTC
+Table: 'Expresso Nitro(626270456)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Stockmen98 (320)
+Seat 3: LoPoTi_x (280)
+*** ANTE/BLINDS ***
+LoPoTi_x posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c Kd]
+*** PRE-FLOP *** 
+Stockmen98 calls 20
+LoPoTi_x raises 260 to 280 and is all-in
+_SKR folds
+Stockmen98 folds
+LoPoTi_x collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: LoPoTi_x (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689811126971006977-3-1674653370 - Holdem no limit (10/20) - 2023/01/25 13:29:30 UTC
+Table: 'Expresso Nitro(626270456)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Stockmen98 (300)
+Seat 3: LoPoTi_x (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Stockmen98 posts big blind 20
+Dealt to _SKR [Tc 9h]
+*** PRE-FLOP *** 
+LoPoTi_x raises 300 to 320 and is all-in
+_SKR folds
+Stockmen98 folds
+LoPoTi_x collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: LoPoTi_x (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689811126971006977-4-1674653378 - Holdem no limit (10/20) - 2023/01/25 13:29:38 UTC
+Table: 'Expresso Nitro(626270456)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Stockmen98 (280)
+Seat 3: LoPoTi_x (350)
+*** ANTE/BLINDS ***
+Stockmen98 posts small blind 10
+LoPoTi_x posts big blind 20
+Dealt to _SKR [Ts Tc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Stockmen98 raises 240 to 280 and is all-in
+LoPoTi_x raises 70 to 350 and is all-in
+_SKR calls 230 and is all-in
+*** FLOP *** [3c 2s 7h]
+*** TURN *** [3c 2s 7h][9d]
+*** RIVER *** [3c 2s 7h 9d][7s]
+*** SHOW DOWN ***
+_SKR shows [Ts Tc] (Two pairs : Tens and 7)
+Stockmen98 shows [6c 6d] (Two pairs : 7 and 6)
+LoPoTi_x shows [As 7c] (Trips of 7)
+LoPoTi_x collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3c 2s 7h 9d 7s]
+Seat 1: _SKR (button) showed [Ts Tc] and lost with Two pairs : Tens and 7
+Seat 2: Stockmen98 (small blind) showed [6c 6d] and lost with Two pairs : 7 and 6
+Seat 3: LoPoTi_x (big blind) showed [As 7c] and won 900 with Trips of 7
+
+

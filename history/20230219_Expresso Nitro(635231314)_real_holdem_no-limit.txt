@@ -1,0 +1,231 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728297719025106945-1-1676842688 - Holdem no limit (10/20) - 2023/02/19 21:38:08 UTC
+Table: 'Expresso Nitro(635231314)#0' 3-max (real money) Seat #2 is the button
+Seat 1: M.Hagler (300)
+Seat 2: Bber360 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+M.Hagler posts big blind 20
+Dealt to _SKR [5d 2d]
+*** PRE-FLOP *** 
+Bber360 folds
+_SKR calls 10
+M.Hagler checks
+*** FLOP *** [8h Ac 2h]
+_SKR checks
+M.Hagler bets 20
+_SKR calls 20
+*** TURN *** [8h Ac 2h][2c]
+_SKR checks
+M.Hagler bets 20
+_SKR calls 20
+*** RIVER *** [8h Ac 2h 2c][8c]
+_SKR checks
+M.Hagler bets 42
+_SKR calls 42
+*** SHOW DOWN ***
+_SKR shows [5d 2d] (Full of 2 and 8)
+M.Hagler shows [Th 8s] (Full of 8 and 2)
+M.Hagler collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [8h Ac 2h 2c 8c]
+Seat 1: M.Hagler (big blind) showed [Th 8s] and won 204 with Full of 8 and 2
+Seat 3: _SKR (small blind) showed [5d 2d] and lost with Full of 2 and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2728297719025106945-2-1676842734 - Holdem no limit (10/20) - 2023/02/19 21:38:54 UTC
+Table: 'Expresso Nitro(635231314)#0' 3-max (real money) Seat #3 is the button
+Seat 1: M.Hagler (402)
+Seat 2: Bber360 (300)
+Seat 3: _SKR (198)
+*** ANTE/BLINDS ***
+M.Hagler posts small blind 10
+Bber360 posts big blind 20
+Dealt to _SKR [2s Jh]
+*** PRE-FLOP *** 
+_SKR folds
+M.Hagler calls 10
+Bber360 checks
+*** FLOP *** [Ac Js Kh]
+M.Hagler checks
+Bber360 checks
+*** TURN *** [Ac Js Kh][8s]
+M.Hagler bets 32
+Bber360 folds
+M.Hagler collected 72 from pot
+*** SUMMARY ***
+Total pot 72 | No rake
+Board: [Ac Js Kh 8s]
+Seat 1: M.Hagler (small blind) won 72
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728297719025106945-3-1676842763 - Holdem no limit (15/30) - 2023/02/19 21:39:23 UTC
+Table: 'Expresso Nitro(635231314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: M.Hagler (422)
+Seat 2: Bber360 (280)
+Seat 3: _SKR (198)
+*** ANTE/BLINDS ***
+Bber360 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9c 6d]
+*** PRE-FLOP *** 
+M.Hagler folds
+Bber360 calls 15
+_SKR checks
+*** FLOP *** [Ts 8s Ah]
+Bber360 bets 30
+_SKR folds
+Bber360 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ts 8s Ah]
+Seat 2: Bber360 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2728297719025106945-4-1676842790 - Holdem no limit (15/30) - 2023/02/19 21:39:50 UTC
+Table: 'Expresso Nitro(635231314)#0' 3-max (real money) Seat #2 is the button
+Seat 1: M.Hagler (422)
+Seat 2: Bber360 (310)
+Seat 3: _SKR (168)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+M.Hagler posts big blind 30
+Dealt to _SKR [2d Ah]
+*** PRE-FLOP *** 
+Bber360 folds
+_SKR raises 138 to 168 and is all-in
+M.Hagler calls 138
+*** FLOP *** [Jd 8h Th]
+*** TURN *** [Jd 8h Th][6c]
+*** RIVER *** [Jd 8h Th 6c][3s]
+*** SHOW DOWN ***
+M.Hagler shows [Qs 7s] (High card : Queen)
+_SKR shows [2d Ah] (High card : Ace)
+_SKR collected 336 from pot
+*** SUMMARY ***
+Total pot 336 | No rake
+Board: [Jd 8h Th 6c 3s]
+Seat 1: M.Hagler (big blind) showed [Qs 7s] and lost with High card : Queen
+Seat 3: _SKR (small blind) showed [2d Ah] and won 336 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728297719025106945-5-1676842815 - Holdem no limit (20/40) - 2023/02/19 21:40:15 UTC
+Table: 'Expresso Nitro(635231314)#0' 3-max (real money) Seat #3 is the button
+Seat 1: M.Hagler (254)
+Seat 2: Bber360 (310)
+Seat 3: _SKR (336)
+*** ANTE/BLINDS ***
+M.Hagler posts small blind 20
+Bber360 posts big blind 40
+Dealt to _SKR [9s 6d]
+*** PRE-FLOP *** 
+_SKR folds
+M.Hagler calls 20
+Bber360 raises 60 to 100
+M.Hagler folds
+Bber360 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: Bber360 (big blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728297719025106945-6-1676842849 - Holdem no limit (20/40) - 2023/02/19 21:40:49 UTC
+Table: 'Expresso Nitro(635231314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: M.Hagler (214)
+Seat 2: Bber360 (350)
+Seat 3: _SKR (336)
+*** ANTE/BLINDS ***
+Bber360 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4d 4s]
+*** PRE-FLOP *** 
+M.Hagler folds
+Bber360 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2728297719025106945-7-1676842856 - Holdem no limit (20/40) - 2023/02/19 21:40:56 UTC
+Table: 'Expresso Nitro(635231314)#0' 3-max (real money) Seat #2 is the button
+Seat 1: M.Hagler (214)
+Seat 2: Bber360 (330)
+Seat 3: _SKR (356)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+M.Hagler posts big blind 40
+Dealt to _SKR [Kh Ad]
+*** PRE-FLOP *** 
+Bber360 calls 40
+_SKR raises 316 to 356 and is all-in
+M.Hagler folds
+Bber360 calls 290 and is all-in
+*** FLOP *** [6d 9c 2h]
+*** TURN *** [6d 9c 2h][9s]
+*** RIVER *** [6d 9c 2h 9s][Jc]
+*** SHOW DOWN ***
+Bber360 shows [9h Jh] (Full of 9 and Jacks)
+_SKR shows [Kh Ad] (One pair : 9)
+_SKR collected 26 from side pot 1
+Bber360 collected 700 from main pot
+*** SUMMARY ***
+Total pot 726 | No rake
+Board: [6d 9c 2h 9s Jc]
+Seat 2: Bber360 (button) showed [9h Jh] and won 700 with Full of 9 and Jacks
+Seat 3: _SKR (small blind) showed [Kh Ad] and won 26 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728297719025106945-8-1676842896 - Holdem no limit (30/60) - 2023/02/19 21:41:36 UTC
+Table: 'Expresso Nitro(635231314)#0' 3-max (real money) Seat #3 is the button
+Seat 1: M.Hagler (174)
+Seat 2: Bber360 (700)
+Seat 3: _SKR (26)
+*** ANTE/BLINDS ***
+M.Hagler posts small blind 30
+Bber360 posts big blind 60
+Dealt to _SKR [6d 5s]
+*** PRE-FLOP *** 
+_SKR folds
+M.Hagler raises 114 to 174 and is all-in
+Bber360 calls 114
+*** FLOP *** [2h As 8h]
+*** TURN *** [2h As 8h][6s]
+*** RIVER *** [2h As 8h 6s][8d]
+*** SHOW DOWN ***
+Bber360 shows [Qc 3h] (One pair : 8)
+M.Hagler shows [4s 4h] (Two pairs : 8 and 4)
+M.Hagler collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | No rake
+Board: [2h As 8h 6s 8d]
+Seat 1: M.Hagler (small blind) showed [4s 4h] and won 348 with Two pairs : 8 and 4
+Seat 2: Bber360 (big blind) showed [Qc 3h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2728297719025106945-9-1676842918 - Holdem no limit (30/60) - 2023/02/19 21:41:58 UTC
+Table: 'Expresso Nitro(635231314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: M.Hagler (348)
+Seat 2: Bber360 (526)
+Seat 3: _SKR (26)
+*** ANTE/BLINDS ***
+Bber360 posts small blind 30
+_SKR posts big blind 26 and is all-in
+Dealt to _SKR [Qd 3d]
+*** PRE-FLOP *** 
+M.Hagler folds
+*** FLOP *** [9d 3s 8h]
+*** TURN *** [9d 3s 8h][Qs]
+*** RIVER *** [9d 3s 8h Qs][Ac]
+*** SHOW DOWN ***
+_SKR shows [Qd 3d] (Two pairs : Queens and 3)
+Bber360 shows [9s 9c] (Trips of 9)
+Bber360 collected 56 from pot
+*** SUMMARY ***
+Total pot 56 | No rake
+Board: [9d 3s 8h Qs Ac]
+Seat 2: Bber360 (small blind) showed [9s 9c] and won 56 with Trips of 9
+Seat 3: _SKR (big blind) showed [Qd 3d] and lost with Two pairs : Queens and 3
+
+

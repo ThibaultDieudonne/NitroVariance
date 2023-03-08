@@ -1,0 +1,406 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698196251752529921-1-1675185095 - Holdem no limit (10/20) - 2023/01/31 17:11:35 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Funzy57 (300)
+Seat 2: Mat21Meg14 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 10
+Mat21Meg14 posts big blind 20
+Dealt to _SKR [Tc Ts]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+Funzy57 folds
+Mat21Meg14 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698196251752529921-2-1675185105 - Holdem no limit (10/20) - 2023/01/31 17:11:45 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Funzy57 (290)
+Seat 2: Mat21Meg14 (280)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+Mat21Meg14 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s 3s]
+*** PRE-FLOP *** 
+Funzy57 folds
+Mat21Meg14 calls 10
+_SKR checks
+*** FLOP *** [6c 7d 5c]
+Mat21Meg14 checks
+_SKR checks
+*** TURN *** [6c 7d 5c][8s]
+Mat21Meg14 checks
+_SKR bets 26
+Mat21Meg14 calls 26
+*** RIVER *** [6c 7d 5c 8s][2d]
+Mat21Meg14 checks
+_SKR checks
+*** SHOW DOWN ***
+Mat21Meg14 shows [Qd Tc] (High card : Queen)
+_SKR shows [9s 3s] (Straight 9 high)
+_SKR collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [6c 7d 5c 8s 2d]
+Seat 2: Mat21Meg14 (small blind) showed [Qd Tc] and lost with High card : Queen
+Seat 3: _SKR (big blind) showed [9s 3s] and won 92 with Straight 9 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698196251752529921-3-1675185156 - Holdem no limit (15/30) - 2023/01/31 17:12:36 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Funzy57 (290)
+Seat 2: Mat21Meg14 (234)
+Seat 3: _SKR (376)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Funzy57 posts big blind 30
+Dealt to _SKR [2c 7c]
+*** PRE-FLOP *** 
+Mat21Meg14 calls 30
+_SKR folds
+Funzy57 checks
+*** FLOP *** [6h 2h 4s]
+Funzy57 checks
+Mat21Meg14 bets 75
+Funzy57 folds
+Mat21Meg14 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [6h 2h 4s]
+Seat 2: Mat21Meg14 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698196251752529921-4-1675185170 - Holdem no limit (15/30) - 2023/01/31 17:12:50 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Funzy57 (260)
+Seat 2: Mat21Meg14 (279)
+Seat 3: _SKR (361)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 15
+Mat21Meg14 posts big blind 30
+Dealt to _SKR [Ah 8c]
+*** PRE-FLOP *** 
+_SKR raises 331 to 361 and is all-in
+Funzy57 folds
+Mat21Meg14 calls 249 and is all-in
+*** FLOP *** [9s Jc Td]
+*** TURN *** [9s Jc Td][2h]
+*** RIVER *** [9s Jc Td 2h][3s]
+*** SHOW DOWN ***
+Mat21Meg14 shows [6c 6s] (One pair : 6)
+_SKR shows [Ah 8c] (High card : Ace)
+_SKR collected 82 from side pot 1
+Mat21Meg14 collected 573 from main pot
+*** SUMMARY ***
+Total pot 655 | No rake
+Board: [9s Jc Td 2h 3s]
+Seat 2: Mat21Meg14 (big blind) showed [6c 6s] and won 573 with One pair : 6
+Seat 3: _SKR (button) showed [Ah 8c] and won 82 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698196251752529921-5-1675185185 - Holdem no limit (15/30) - 2023/01/31 17:13:05 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Funzy57 (245)
+Seat 2: Mat21Meg14 (573)
+Seat 3: _SKR (82)
+*** ANTE/BLINDS ***
+Mat21Meg14 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h 4c]
+*** PRE-FLOP *** 
+Funzy57 raises 215 to 245 and is all-in
+Mat21Meg14 folds
+_SKR folds
+Funzy57 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 1: Funzy57 (button) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698196251752529921-6-1675185196 - Holdem no limit (15/30) - 2023/01/31 17:13:16 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Funzy57 (290)
+Seat 2: Mat21Meg14 (558)
+Seat 3: _SKR (52)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Funzy57 posts big blind 30
+Dealt to _SKR [7d Ah]
+*** PRE-FLOP *** 
+Mat21Meg14 calls 30
+_SKR raises 22 to 52 and is all-in
+Funzy57 calls 22
+Mat21Meg14 calls 22
+*** FLOP *** [8d Qd Td]
+Funzy57 checks
+Mat21Meg14 checks
+*** TURN *** [8d Qd Td][3d]
+Funzy57 checks
+Mat21Meg14 checks
+*** RIVER *** [8d Qd Td 3d][3s]
+Funzy57 bets 75
+Mat21Meg14 folds
+*** SHOW DOWN ***
+Funzy57 shows [5c 4d] (Flush Queen high)
+_SKR shows [7d Ah] (Flush Queen high)
+_SKR collected 156 from main pot
+Funzy57 collected 75 from side pot 1
+*** SUMMARY ***
+Total pot 231 | No rake
+Board: [8d Qd Td 3d 3s]
+Seat 1: Funzy57 (big blind) showed [5c 4d] and won 75 with Flush Queen high
+Seat 3: _SKR (small blind) showed [7d Ah] and won 156 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698196251752529921-7-1675185225 - Holdem no limit (20/40) - 2023/01/31 17:13:45 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Funzy57 (238)
+Seat 2: Mat21Meg14 (506)
+Seat 3: _SKR (156)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 20
+Mat21Meg14 posts big blind 40
+Dealt to _SKR [6d 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Funzy57 folds
+Mat21Meg14 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Mat21Meg14 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698196251752529921-8-1675185236 - Holdem no limit (20/40) - 2023/01/31 17:13:56 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Funzy57 (218)
+Seat 2: Mat21Meg14 (526)
+Seat 3: _SKR (156)
+*** ANTE/BLINDS ***
+Mat21Meg14 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7d Td]
+*** PRE-FLOP *** 
+Funzy57 folds
+Mat21Meg14 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698196251752529921-9-1675185241 - Holdem no limit (20/40) - 2023/01/31 17:14:01 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Funzy57 (218)
+Seat 2: Mat21Meg14 (506)
+Seat 3: _SKR (176)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Funzy57 posts big blind 40
+Dealt to _SKR [Jd 2s]
+*** PRE-FLOP *** 
+Mat21Meg14 folds
+_SKR folds
+Funzy57 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Funzy57 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698196251752529921-10-1675185246 - Holdem no limit (20/40) - 2023/01/31 17:14:06 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Funzy57 (238)
+Seat 2: Mat21Meg14 (506)
+Seat 3: _SKR (156)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 20
+Mat21Meg14 posts big blind 40
+Dealt to _SKR [4s 6h]
+*** PRE-FLOP *** 
+_SKR folds
+Funzy57 folds
+Mat21Meg14 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Mat21Meg14 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698196251752529921-11-1675185252 - Holdem no limit (20/40) - 2023/01/31 17:14:12 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Funzy57 (218)
+Seat 2: Mat21Meg14 (526)
+Seat 3: _SKR (156)
+*** ANTE/BLINDS ***
+Mat21Meg14 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9h 6h]
+*** PRE-FLOP *** 
+Funzy57 folds
+Mat21Meg14 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698196251752529921-12-1675185257 - Holdem no limit (20/40) - 2023/01/31 17:14:17 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Funzy57 (218)
+Seat 2: Mat21Meg14 (506)
+Seat 3: _SKR (176)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Funzy57 posts big blind 40
+Dealt to _SKR [8h 4c]
+*** PRE-FLOP *** 
+Mat21Meg14 calls 40
+_SKR folds
+Funzy57 checks
+*** FLOP *** [Ah 5d Qh]
+Funzy57 checks
+Mat21Meg14 checks
+*** TURN *** [Ah 5d Qh][9h]
+Funzy57 checks
+Mat21Meg14 bets 40
+Funzy57 folds
+Mat21Meg14 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Ah 5d Qh 9h]
+Seat 2: Mat21Meg14 (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698196251752529921-13-1675185290 - Holdem no limit (30/60) - 2023/01/31 17:14:50 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Funzy57 (178)
+Seat 2: Mat21Meg14 (566)
+Seat 3: _SKR (156)
+*** ANTE/BLINDS ***
+Funzy57 posts small blind 30
+Mat21Meg14 posts big blind 60
+Dealt to _SKR [9c 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Funzy57 raises 118 to 178 and is all-in
+Mat21Meg14 folds
+Funzy57 collected 238 from pot
+*** SUMMARY ***
+Total pot 238 | No rake
+Seat 1: Funzy57 (small blind) won 238
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698196251752529921-14-1675185300 - Holdem no limit (30/60) - 2023/01/31 17:15:00 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Funzy57 (238)
+Seat 2: Mat21Meg14 (506)
+Seat 3: _SKR (156)
+*** ANTE/BLINDS ***
+Mat21Meg14 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4h Ks]
+*** PRE-FLOP *** 
+Funzy57 raises 178 to 238 and is all-in
+Mat21Meg14 calls 208
+_SKR calls 96 and is all-in
+*** FLOP *** [Ah 4d 3d]
+*** TURN *** [Ah 4d 3d][Kh]
+*** RIVER *** [Ah 4d 3d Kh][6c]
+*** SHOW DOWN ***
+Funzy57 shows [Th 7h] (High card : Ace)
+Mat21Meg14 shows [Ts Qc] (High card : Ace)
+_SKR shows [4h Ks] (Two pairs : Kings and 4)
+_SKR collected 468 from main pot
+Mat21Meg14 collected 164 from side pot 1
+*** SUMMARY ***
+Total pot 632 | No rake
+Board: [Ah 4d 3d Kh 6c]
+Seat 1: Funzy57 (button) showed [Th 7h] and lost with High card : Ace
+Seat 2: Mat21Meg14 (small blind) showed [Ts Qc] and won 164 with High card : Ace
+Seat 3: _SKR (big blind) showed [4h Ks] and won 468 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698196251752529921-15-1675185322 - Holdem no limit (30/60) - 2023/01/31 17:15:22 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Mat21Meg14 (432)
+Seat 3: _SKR (468)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Mat21Meg14 posts big blind 60
+Dealt to _SKR [9h Ts]
+*** PRE-FLOP *** 
+_SKR folds
+Mat21Meg14 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Mat21Meg14 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698196251752529921-16-1675185331 - Holdem no limit (30/60) - 2023/01/31 17:15:31 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Mat21Meg14 (462)
+Seat 3: _SKR (438)
+*** ANTE/BLINDS ***
+Mat21Meg14 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ad 5s]
+*** PRE-FLOP *** 
+Mat21Meg14 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698196251752529921-17-1675185336 - Holdem no limit (40/80) - 2023/01/31 17:15:36 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Mat21Meg14 (432)
+Seat 3: _SKR (468)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Mat21Meg14 posts big blind 80
+Dealt to _SKR [Qc 9s]
+*** PRE-FLOP *** 
+_SKR raises 388 to 468 and is all-in
+Mat21Meg14 calls 352 and is all-in
+*** FLOP *** [4c 7d Ad]
+*** TURN *** [4c 7d Ad][9c]
+*** RIVER *** [4c 7d Ad 9c][Qd]
+*** SHOW DOWN ***
+Mat21Meg14 shows [5d 6d] (Flush Ace high)
+_SKR shows [Qc 9s] (Two pairs : Queens and 9)
+_SKR collected 36 from side pot 1
+Mat21Meg14 collected 864 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c 7d Ad 9c Qd]
+Seat 2: Mat21Meg14 (big blind) showed [5d 6d] and won 864 with Flush Ace high
+Seat 3: _SKR (small blind) (button) showed [Qc 9s] and won 36 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #2698196251752529921-18-1675185349 - Holdem no limit (40/80) - 2023/01/31 17:15:49 UTC
+Table: 'Expresso Nitro(628222770)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Mat21Meg14 (864)
+Seat 3: _SKR (36)
+*** ANTE/BLINDS ***
+Mat21Meg14 posts small blind 40
+_SKR posts big blind 36 and is all-in
+Dealt to _SKR [3s 7s]
+*** PRE-FLOP *** 
+*** FLOP *** [6c 5d As]
+*** TURN *** [6c 5d As][9c]
+*** RIVER *** [6c 5d As 9c][3h]
+*** SHOW DOWN ***
+_SKR shows [3s 7s] (One pair : 3)
+Mat21Meg14 shows [Ks 3c] (One pair : 3)
+Mat21Meg14 collected 76 from pot
+*** SUMMARY ***
+Total pot 76 | No rake
+Board: [6c 5d As 9c 3h]
+Seat 2: Mat21Meg14 (small blind) (button) showed [Ks 3c] and won 76 with One pair : 3
+Seat 3: _SKR (big blind) showed [3s 7s] and lost with One pair : 3
+
+

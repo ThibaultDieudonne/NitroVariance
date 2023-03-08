@@ -1,0 +1,105 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689840693525872641-1-1674655084 - Holdem no limit (10/20) - 2023/01/25 13:58:04 UTC
+Table: 'Expresso Nitro(626277340)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: NORDINGO (300)
+Seat 3: Izlorenzo (300)
+*** ANTE/BLINDS ***
+NORDINGO posts small blind 10
+Izlorenzo posts big blind 20
+Dealt to _SKR [Kh 2s]
+*** PRE-FLOP *** 
+_SKR folds
+NORDINGO calls 10
+Izlorenzo checks
+*** FLOP *** [5c 5s Td]
+NORDINGO checks
+Izlorenzo checks
+*** TURN *** [5c 5s Td][4s]
+NORDINGO bets 26
+Izlorenzo calls 26
+*** RIVER *** [5c 5s Td 4s][7h]
+NORDINGO checks
+Izlorenzo checks
+*** SHOW DOWN ***
+NORDINGO shows [Qh 8d] (One pair : 5)
+Izlorenzo shows [Ad 9c] (One pair : 5)
+Izlorenzo collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [5c 5s Td 4s 7h]
+Seat 2: NORDINGO (small blind) showed [Qh 8d] and lost with One pair : 5
+Seat 3: Izlorenzo (big blind) showed [Ad 9c] and won 92 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689840693525872641-2-1674655100 - Holdem no limit (10/20) - 2023/01/25 13:58:20 UTC
+Table: 'Expresso Nitro(626277340)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: NORDINGO (254)
+Seat 3: Izlorenzo (346)
+*** ANTE/BLINDS ***
+Izlorenzo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4h 7s]
+*** PRE-FLOP *** 
+NORDINGO calls 20
+Izlorenzo raises 20 to 40
+_SKR folds
+NORDINGO raises 80 to 120
+Izlorenzo raises 226 to 346 and is all-in
+NORDINGO calls 134 and is all-in
+*** FLOP *** [Jc Jd 3d]
+*** TURN *** [Jc Jd 3d][Ah]
+*** RIVER *** [Jc Jd 3d Ah][2d]
+*** SHOW DOWN ***
+NORDINGO shows [8d 8h] (Two pairs : Jacks and 8)
+Izlorenzo shows [Ac 9d] (Two pairs : Aces and Jacks)
+Izlorenzo collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Jc Jd 3d Ah 2d]
+Seat 2: NORDINGO (button) showed [8d 8h] and lost with Two pairs : Jacks and 8
+Seat 3: Izlorenzo (small blind) showed [Ac 9d] and won 620 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689840693525872641-3-1674655118 - Holdem no limit (10/20) - 2023/01/25 13:58:38 UTC
+Table: 'Expresso Nitro(626277340)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 3: Izlorenzo (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Izlorenzo posts big blind 20
+Dealt to _SKR [4s 3d]
+*** PRE-FLOP *** 
+_SKR folds
+Izlorenzo collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Izlorenzo (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689840693525872641-4-1674655121 - Holdem no limit (10/20) - 2023/01/25 13:58:41 UTC
+Table: 'Expresso Nitro(626277340)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 3: Izlorenzo (630)
+*** ANTE/BLINDS ***
+Izlorenzo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah Kh]
+*** PRE-FLOP *** 
+Izlorenzo raises 20 to 40
+_SKR raises 230 to 270 and is all-in
+Izlorenzo raises 360 to 630 and is all-in
+*** FLOP *** [4d 4c 2h]
+*** TURN *** [4d 4c 2h][8c]
+*** RIVER *** [4d 4c 2h 8c][Ts]
+*** SHOW DOWN ***
+_SKR shows [Ah Kh] (One pair : 4)
+Izlorenzo shows [8d Ad] (Two pairs : 8 and 4)
+Izlorenzo collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 4c 2h 8c Ts]
+Seat 1: _SKR (big blind) showed [Ah Kh] and lost with One pair : 4
+Seat 3: Izlorenzo (small blind) (button) showed [8d Ad] and won 900 with Two pairs : 8 and 4
+
+

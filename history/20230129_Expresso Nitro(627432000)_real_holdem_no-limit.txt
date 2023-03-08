@@ -1,0 +1,73 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694799920463872001-1-1674958566 - Holdem no limit (10/20) - 2023/01/29 02:16:06 UTC
+Table: 'Expresso Nitro(627432000)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Trickynstein (300)
+Seat 3: LL_Striker15 (300)
+*** ANTE/BLINDS ***
+LL_Striker15 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s 7d]
+*** PRE-FLOP *** 
+Trickynstein folds
+LL_Striker15 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694799920463872001-2-1674958572 - Holdem no limit (10/20) - 2023/01/29 02:16:12 UTC
+Table: 'Expresso Nitro(627432000)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: Trickynstein (300)
+Seat 3: LL_Striker15 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Trickynstein posts big blind 20
+Dealt to _SKR [Ac Jh]
+*** PRE-FLOP *** 
+LL_Striker15 folds
+_SKR raises 20 to 40
+Trickynstein raises 260 to 300 and is all-in
+_SKR calls 260
+*** FLOP *** [4c 3h Ks]
+*** TURN *** [4c 3h Ks][5h]
+*** RIVER *** [4c 3h Ks 5h][4h]
+*** SHOW DOWN ***
+_SKR shows [Ac Jh] (One pair : 4)
+Trickynstein shows [Kh Jd] (Two pairs : Kings and 4)
+Trickynstein collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4c 3h Ks 5h 4h]
+Seat 1: _SKR (small blind) showed [Ac Jh] and lost with One pair : 4
+Seat 2: Trickynstein (big blind) showed [Kh Jd] and won 600 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694799920463872001-3-1674958592 - Holdem no limit (10/20) - 2023/01/29 02:16:32 UTC
+Table: 'Expresso Nitro(627432000)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (10)
+Seat 2: Trickynstein (600)
+Seat 3: LL_Striker15 (290)
+*** ANTE/BLINDS ***
+Trickynstein posts small blind 10
+LL_Striker15 posts big blind 20
+Dealt to _SKR [5h 6h]
+*** PRE-FLOP *** 
+_SKR calls 10 and is all-in
+Trickynstein raises 50 to 70
+LL_Striker15 folds
+*** FLOP *** [2c 9c 4d]
+*** TURN *** [2c 9c 4d][5c]
+*** RIVER *** [2c 9c 4d 5c][Th]
+*** SHOW DOWN ***
+_SKR shows [5h 6h] (One pair : 5)
+Trickynstein shows [Ks Td] (One pair : Tens)
+Trickynstein collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [2c 9c 4d 5c Th]
+Seat 1: _SKR (button) showed [5h 6h] and lost with One pair : 5
+Seat 2: Trickynstein (small blind) showed [Ks Td] and won 100 with One pair : Tens
+
+

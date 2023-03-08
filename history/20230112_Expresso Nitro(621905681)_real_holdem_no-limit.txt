@@ -1,0 +1,84 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671064561091608577-1-1673529310 - Holdem no limit (10/20) - 2023/01/12 13:15:10 UTC
+Table: 'Expresso Nitro(621905681)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Porque.Pique (300)
+Seat 2: _SKR (300)
+Seat 3: wmx-a66iwgu (300)
+*** ANTE/BLINDS ***
+Porque.Pique posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8s Js]
+*** PRE-FLOP *** 
+wmx-a66iwgu raises 280 to 300 and is all-in
+Porque.Pique calls 290 and is all-in
+_SKR folds
+*** FLOP *** [3d Th 9d]
+*** TURN *** [3d Th 9d][6h]
+*** RIVER *** [3d Th 9d 6h][8c]
+*** SHOW DOWN ***
+Porque.Pique shows [Ah Kd] (High card : Ace)
+wmx-a66iwgu shows [5d 5s] (One pair : 5)
+wmx-a66iwgu collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [3d Th 9d 6h 8c]
+Seat 1: Porque.Pique (small blind) showed [Ah Kd] and lost with High card : Ace
+Seat 3: wmx-a66iwgu (button) showed [5d 5s] and won 620 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671064561091608577-2-1673529328 - Holdem no limit (10/20) - 2023/01/12 13:15:28 UTC
+Table: 'Expresso Nitro(621905681)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (280)
+Seat 3: wmx-a66iwgu (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+wmx-a66iwgu posts big blind 20
+Dealt to _SKR [9c 3d]
+*** PRE-FLOP *** 
+_SKR folds
+wmx-a66iwgu collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: wmx-a66iwgu (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671064561091608577-3-1673529335 - Holdem no limit (10/20) - 2023/01/12 13:15:35 UTC
+Table: 'Expresso Nitro(621905681)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (270)
+Seat 3: wmx-a66iwgu (630)
+*** ANTE/BLINDS ***
+wmx-a66iwgu posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac 7c]
+*** PRE-FLOP *** 
+wmx-a66iwgu folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2671064561091608577-4-1673529339 - Holdem no limit (10/20) - 2023/01/12 13:15:39 UTC
+Table: 'Expresso Nitro(621905681)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (280)
+Seat 3: wmx-a66iwgu (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+wmx-a66iwgu posts big blind 20
+Dealt to _SKR [Ah 8h]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+wmx-a66iwgu calls 260
+*** FLOP *** [6c Js 4d]
+*** TURN *** [6c Js 4d][7h]
+*** RIVER *** [6c Js 4d 7h][Kc]
+*** SHOW DOWN ***
+_SKR shows [Ah 8h] (High card : Ace)
+wmx-a66iwgu shows [Jh Qh] (One pair : Jacks)
+wmx-a66iwgu collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6c Js 4d 7h Kc]
+Seat 2: _SKR (small blind) (button) showed [Ah 8h] and lost with High card : Ace
+Seat 3: wmx-a66iwgu (big blind) showed [Jh Qh] and won 560 with One pair : Jacks
+
+

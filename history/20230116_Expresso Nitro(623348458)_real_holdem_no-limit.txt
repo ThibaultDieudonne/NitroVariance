@@ -1,0 +1,70 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677261241122029569-1-1673884424 - Holdem no limit (10/20) - 2023/01/16 15:53:44 UTC
+Table: 'Expresso Nitro(623348458)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: TonPereDjo (300)
+Seat 3: Delaporcia (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+TonPereDjo posts big blind 20
+Dealt to _SKR [Ks 3h]
+*** PRE-FLOP *** 
+Delaporcia folds
+_SKR folds
+TonPereDjo collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: TonPereDjo (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677261241122029569-2-1673884429 - Holdem no limit (10/20) - 2023/01/16 15:53:49 UTC
+Table: 'Expresso Nitro(623348458)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: TonPereDjo (310)
+Seat 3: Delaporcia (300)
+*** ANTE/BLINDS ***
+TonPereDjo posts small blind 10
+Delaporcia posts big blind 20
+Dealt to _SKR [Jc Ks]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+TonPereDjo raises 270 to 310 and is all-in
+Delaporcia folds
+_SKR folds
+TonPereDjo collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 2: TonPereDjo (small blind) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677261241122029569-3-1673884447 - Holdem no limit (10/20) - 2023/01/16 15:54:07 UTC
+Table: 'Expresso Nitro(623348458)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: TonPereDjo (370)
+Seat 3: Delaporcia (280)
+*** ANTE/BLINDS ***
+Delaporcia posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd Td]
+*** PRE-FLOP *** 
+TonPereDjo folds
+Delaporcia raises 30 to 50
+_SKR calls 30
+*** FLOP *** [6d 6h Ad]
+Delaporcia checks
+_SKR bets 50
+Delaporcia calls 50
+*** TURN *** [6d 6h Ad][3s]
+Delaporcia bets 180 and is all-in
+_SKR calls 150 and is all-in
+*** RIVER *** [6d 6h Ad 3s][Qh]
+*** SHOW DOWN ***
+_SKR shows [Kd Td] (One pair : 6)
+Delaporcia shows [As 2c] (Two pairs : Aces and 6)
+Delaporcia collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [6d 6h Ad 3s Qh]
+Seat 1: _SKR (big blind) showed [Kd Td] and lost with One pair : 6
+Seat 3: Delaporcia (small blind) showed [As 2c] and won 530 with Two pairs : Aces and 6
+
+

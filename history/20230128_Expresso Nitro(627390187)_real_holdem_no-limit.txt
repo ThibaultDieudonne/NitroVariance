@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694620334996324353-1-1674947633 - Holdem no limit (10/20) - 2023/01/28 23:13:53 UTC
+Table: 'Expresso Nitro(627390187)#0' 3-max (real money) Seat #1 is the button
+Seat 1: neiluj.qc (300)
+Seat 2: _SKR (300)
+Seat 3: Manu-Ordiera (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Manu-Ordiera posts big blind 20
+Dealt to _SKR [7c Kh]
+*** PRE-FLOP *** 
+neiluj.qc folds
+_SKR calls 10
+Manu-Ordiera checks
+*** FLOP *** [4s 6s 8d]
+_SKR checks
+Manu-Ordiera bets 20
+_SKR calls 20
+*** TURN *** [4s 6s 8d][Qd]
+_SKR checks
+Manu-Ordiera bets 20
+_SKR folds
+Manu-Ordiera collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4s 6s 8d Qd]
+Seat 3: Manu-Ordiera (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694620334996324353-2-1674947663 - Holdem no limit (10/20) - 2023/01/28 23:14:23 UTC
+Table: 'Expresso Nitro(627390187)#0' 3-max (real money) Seat #2 is the button
+Seat 1: neiluj.qc (300)
+Seat 2: _SKR (260)
+Seat 3: Manu-Ordiera (340)
+*** ANTE/BLINDS ***
+Manu-Ordiera posts small blind 10
+neiluj.qc posts big blind 20
+Dealt to _SKR [Ks 9d]
+*** PRE-FLOP *** 
+_SKR folds
+Manu-Ordiera calls 10
+neiluj.qc checks
+*** FLOP *** [2d 3c 9c]
+Manu-Ordiera checks
+neiluj.qc checks
+*** TURN *** [2d 3c 9c][5s]
+Manu-Ordiera checks
+neiluj.qc checks
+*** RIVER *** [2d 3c 9c 5s][Ad]
+Manu-Ordiera bets 20
+neiluj.qc folds
+Manu-Ordiera collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2d 3c 9c 5s Ad]
+Seat 3: Manu-Ordiera (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2694620334996324353-3-1674947684 - Holdem no limit (10/20) - 2023/01/28 23:14:44 UTC
+Table: 'Expresso Nitro(627390187)#0' 3-max (real money) Seat #3 is the button
+Seat 1: neiluj.qc (280)
+Seat 2: _SKR (260)
+Seat 3: Manu-Ordiera (360)
+*** ANTE/BLINDS ***
+neiluj.qc posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c Qs]
+*** PRE-FLOP *** 
+Manu-Ordiera folds
+neiluj.qc calls 10
+_SKR raises 240 to 260 and is all-in
+neiluj.qc folds
+_SKR collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: _SKR (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2694620334996324353-4-1674947700 - Holdem no limit (15/30) - 2023/01/28 23:15:00 UTC
+Table: 'Expresso Nitro(627390187)#0' 3-max (real money) Seat #1 is the button
+Seat 1: neiluj.qc (260)
+Seat 2: _SKR (280)
+Seat 3: Manu-Ordiera (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Manu-Ordiera posts big blind 30
+Dealt to _SKR [Js Kd]
+*** PRE-FLOP *** 
+neiluj.qc folds
+_SKR raises 250 to 280 and is all-in
+Manu-Ordiera raises 80 to 360 and is all-in
+*** FLOP *** [3c Td Tc]
+*** TURN *** [3c Td Tc][3h]
+*** RIVER *** [3c Td Tc 3h][5s]
+*** SHOW DOWN ***
+_SKR shows [Js Kd] (Two pairs : Tens and 3)
+Manu-Ordiera shows [As 9h] (Two pairs : Tens and 3)
+Manu-Ordiera collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [3c Td Tc 3h 5s]
+Seat 2: _SKR (small blind) showed [Js Kd] and lost with Two pairs : Tens and 3
+Seat 3: Manu-Ordiera (big blind) showed [As 9h] and won 640 with Two pairs : Tens and 3
+
+

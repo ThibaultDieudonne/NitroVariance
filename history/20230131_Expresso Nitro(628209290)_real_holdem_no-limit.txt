@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698138355593379841-1-1675182449 - Holdem no limit (10/20) - 2023/01/31 16:27:29 UTC
+Table: 'Expresso Nitro(628209290)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Blizzard43 (300)
+Seat 3: MGBUD (300)
+*** ANTE/BLINDS ***
+Blizzard43 posts small blind 10
+MGBUD posts big blind 20
+Dealt to _SKR [6s 7h]
+*** PRE-FLOP *** 
+_SKR folds
+Blizzard43 calls 10
+MGBUD raises 280 to 300 and is all-in
+Blizzard43 folds
+MGBUD collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: MGBUD (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698138355593379841-2-1675182461 - Holdem no limit (10/20) - 2023/01/31 16:27:41 UTC
+Table: 'Expresso Nitro(628209290)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Blizzard43 (280)
+Seat 3: MGBUD (320)
+*** ANTE/BLINDS ***
+MGBUD posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jc Kc]
+*** PRE-FLOP *** 
+Blizzard43 folds
+MGBUD raises 300 to 320 and is all-in
+_SKR calls 280 and is all-in
+*** FLOP *** [2d 9c Th]
+*** TURN *** [2d 9c Th][8d]
+*** RIVER *** [2d 9c Th 8d][Ts]
+*** SHOW DOWN ***
+_SKR shows [Jc Kc] (One pair : Tens)
+MGBUD shows [Ah 9h] (Two pairs : Tens and 9)
+MGBUD collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [2d 9c Th 8d Ts]
+Seat 1: _SKR (big blind) showed [Jc Kc] and lost with One pair : Tens
+Seat 3: MGBUD (small blind) showed [Ah 9h] and won 620 with Two pairs : Tens and 9
+
+

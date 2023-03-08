@@ -1,0 +1,473 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717545410133491713-1-1676226422 - Holdem no limit (10/20) - 2023/02/12 18:27:02 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 1: topee (300)
+Seat 2: Herve7113 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+topee posts big blind 20
+Dealt to _SKR [2h 7s]
+*** PRE-FLOP *** 
+Herve7113 folds
+_SKR folds
+topee collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: topee (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717545410133491713-2-1676226434 - Holdem no limit (10/20) - 2023/02/12 18:27:14 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 1: topee (310)
+Seat 2: Herve7113 (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+topee posts small blind 10
+Herve7113 posts big blind 20
+Dealt to _SKR [5s Js]
+*** PRE-FLOP *** 
+_SKR folds
+topee raises 40 to 60
+Herve7113 calls 40
+*** FLOP *** [5d 4d 5h]
+topee bets 120
+Herve7113 raises 120 to 240 and is all-in
+topee calls 120
+*** TURN *** [5d 4d 5h][8s]
+*** RIVER *** [5d 4d 5h 8s][2h]
+*** SHOW DOWN ***
+topee shows [Kd Qh] (One pair : 5)
+Herve7113 shows [3d 6c] (Straight 6 high)
+Herve7113 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [5d 4d 5h 8s 2h]
+Seat 1: topee (small blind) showed [Kd Qh] and lost with One pair : 5
+Seat 2: Herve7113 (big blind) showed [3d 6c] and won 600 with Straight 6 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717545410133491713-3-1676226454 - Holdem no limit (10/20) - 2023/02/12 18:27:34 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #1 is the button
+Seat 1: topee (10)
+Seat 2: Herve7113 (600)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c Ah]
+*** PRE-FLOP *** 
+topee calls 10 and is all-in
+Herve7113 calls 10
+_SKR raises 270 to 290 and is all-in
+Herve7113 folds
+*** FLOP *** [4h 5h 8h]
+*** TURN *** [4h 5h 8h][4s]
+*** RIVER *** [4h 5h 8h 4s][5c]
+*** SHOW DOWN ***
+topee shows [7d 9c] (Two pairs : 5 and 4)
+_SKR shows [4c Ah] (Full of 4 and 5)
+_SKR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [4h 5h 8h 4s 5c]
+Seat 1: topee (button) showed [7d 9c] and lost with Two pairs : 5 and 4
+Seat 3: _SKR (big blind) showed [4c Ah] and won 320 with Full of 4 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717545410133491713-4-1676226470 - Holdem no limit (10/20) - 2023/02/12 18:27:50 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Herve7113 (580)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Herve7113 posts big blind 20
+Dealt to _SKR [Qc Kd]
+*** PRE-FLOP *** 
+_SKR raises 300 to 320 and is all-in
+Herve7113 folds
+_SKR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: _SKR (small blind) (button) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717545410133491713-5-1676226475 - Holdem no limit (10/20) - 2023/02/12 18:27:55 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Herve7113 (560)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7d 7h]
+*** PRE-FLOP *** 
+Herve7113 calls 10
+_SKR raises 320 to 340 and is all-in
+Herve7113 calls 320
+*** FLOP *** [4c 3s 7c]
+*** TURN *** [4c 3s 7c][Js]
+*** RIVER *** [4c 3s 7c Js][5h]
+*** SHOW DOWN ***
+Herve7113 shows [Kd 9s] (High card : King)
+_SKR shows [7d 7h] (Trips of 7)
+_SKR collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [4c 3s 7c Js 5h]
+Seat 2: Herve7113 (small blind) (button) showed [Kd 9s] and lost with High card : King
+Seat 3: _SKR (big blind) showed [7d 7h] and won 680 with Trips of 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717545410133491713-6-1676226491 - Holdem no limit (15/30) - 2023/02/12 18:28:11 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Herve7113 (220)
+Seat 3: _SKR (680)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Herve7113 posts big blind 30
+Dealt to _SKR [3c As]
+*** PRE-FLOP *** 
+_SKR raises 650 to 680 and is all-in
+Herve7113 calls 190 and is all-in
+*** FLOP *** [8d 6h 6c]
+*** TURN *** [8d 6h 6c][9d]
+*** RIVER *** [8d 6h 6c 9d][7h]
+*** SHOW DOWN ***
+Herve7113 shows [8h 9c] (Two pairs : 9 and 8)
+_SKR shows [3c As] (One pair : 6)
+_SKR collected 460 from side pot 1
+Herve7113 collected 440 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d 6h 6c 9d 7h]
+Seat 2: Herve7113 (big blind) showed [8h 9c] and won 440 with Two pairs : 9 and 8
+Seat 3: _SKR (small blind) (button) showed [3c As] and won 460 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717545410133491713-7-1676226503 - Holdem no limit (15/30) - 2023/02/12 18:28:23 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Herve7113 (440)
+Seat 3: _SKR (460)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jh Qd]
+*** PRE-FLOP *** 
+Herve7113 calls 15
+_SKR raises 430 to 460 and is all-in
+Herve7113 folds
+_SKR collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Seat 3: _SKR (big blind) won 490
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717545410133491713-8-1676226509 - Holdem no limit (15/30) - 2023/02/12 18:28:29 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Herve7113 (410)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Herve7113 posts big blind 30
+Dealt to _SKR [5c 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Herve7113 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Herve7113 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717545410133491713-9-1676226513 - Holdem no limit (15/30) - 2023/02/12 18:28:33 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Herve7113 (425)
+Seat 3: _SKR (475)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Td 8d]
+*** PRE-FLOP *** 
+Herve7113 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717545410133491713-10-1676226516 - Holdem no limit (15/30) - 2023/02/12 18:28:36 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Herve7113 (410)
+Seat 3: _SKR (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Herve7113 posts big blind 30
+Dealt to _SKR [Tc 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Herve7113 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Herve7113 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717545410133491713-11-1676226520 - Holdem no limit (15/30) - 2023/02/12 18:28:40 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Herve7113 (425)
+Seat 3: _SKR (475)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h Qh]
+*** PRE-FLOP *** 
+Herve7113 calls 15
+_SKR checks
+*** FLOP *** [7s 2c 3h]
+_SKR checks
+Herve7113 checks
+*** TURN *** [7s 2c 3h][Ad]
+_SKR checks
+Herve7113 checks
+*** RIVER *** [7s 2c 3h Ad][5c]
+_SKR checks
+Herve7113 bets 39
+_SKR calls 39
+*** SHOW DOWN ***
+_SKR shows [9h Qh] (High card : Ace)
+Herve7113 shows [5h Ah] (Two pairs : Aces and 5)
+Herve7113 collected 138 from pot
+*** SUMMARY ***
+Total pot 138 | No rake
+Board: [7s 2c 3h Ad 5c]
+Seat 2: Herve7113 (small blind) (button) showed [5h Ah] and won 138 with Two pairs : Aces and 5
+Seat 3: _SKR (big blind) showed [9h Qh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717545410133491713-12-1676226543 - Holdem no limit (20/40) - 2023/02/12 18:29:03 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Herve7113 (494)
+Seat 3: _SKR (406)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Herve7113 posts big blind 40
+Dealt to _SKR [6c 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Herve7113 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Herve7113 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717545410133491713-13-1676226547 - Holdem no limit (20/40) - 2023/02/12 18:29:07 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Herve7113 (514)
+Seat 3: _SKR (386)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2s 7c]
+*** PRE-FLOP *** 
+Herve7113 raises 474 to 514 and is all-in
+_SKR folds
+Herve7113 shows [Ts 7s] (High card : Ten)
+Herve7113 collected 554 from pot
+*** SUMMARY ***
+Total pot 554 | No rake
+Seat 2: Herve7113 (small blind) (button) showed [Ts 7s] and won 554 with High card : Ten
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717545410133491713-14-1676226555 - Holdem no limit (20/40) - 2023/02/12 18:29:15 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Herve7113 (554)
+Seat 3: _SKR (346)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Herve7113 posts big blind 40
+Dealt to _SKR [3c 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Herve7113 shows [2h 3d] (High card : 3)
+Herve7113 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Herve7113 (big blind) showed [2h 3d] and won 60 with High card : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717545410133491713-15-1676226559 - Holdem no limit (20/40) - 2023/02/12 18:29:19 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Herve7113 (574)
+Seat 3: _SKR (326)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jc 8h]
+*** PRE-FLOP *** 
+Herve7113 raises 534 to 574 and is all-in
+_SKR folds
+Herve7113 shows [Jd 7d] (High card : Jack)
+Herve7113 collected 614 from pot
+*** SUMMARY ***
+Total pot 614 | No rake
+Seat 2: Herve7113 (small blind) (button) showed [Jd 7d] and won 614 with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717545410133491713-16-1676226564 - Holdem no limit (20/40) - 2023/02/12 18:29:24 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Herve7113 (614)
+Seat 3: _SKR (286)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Herve7113 posts big blind 40
+Dealt to _SKR [9d 8h]
+*** PRE-FLOP *** 
+_SKR folds
+Herve7113 shows [2d 3d] (High card : 3)
+Herve7113 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Herve7113 (big blind) showed [2d 3d] and won 60 with High card : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717545410133491713-17-1676226578 - Holdem no limit (20/40) - 2023/02/12 18:29:38 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Herve7113 (634)
+Seat 3: _SKR (266)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ks 9d]
+*** PRE-FLOP *** 
+Herve7113 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717545410133491713-18-1676226581 - Holdem no limit (20/40) - 2023/02/12 18:29:41 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Herve7113 (614)
+Seat 3: _SKR (286)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Herve7113 posts big blind 40
+Dealt to _SKR [Kd 9s]
+*** PRE-FLOP *** 
+_SKR raises 246 to 286 and is all-in
+Herve7113 folds
+_SKR collected 326 from pot
+*** SUMMARY ***
+Total pot 326 | No rake
+Seat 3: _SKR (small blind) (button) won 326
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717545410133491713-19-1676226586 - Holdem no limit (20/40) - 2023/02/12 18:29:46 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Herve7113 (574)
+Seat 3: _SKR (326)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2c Ts]
+*** PRE-FLOP *** 
+Herve7113 raises 534 to 574 and is all-in
+_SKR folds
+Herve7113 shows [7d Td] (High card : Ten)
+Herve7113 collected 614 from pot
+*** SUMMARY ***
+Total pot 614 | No rake
+Seat 2: Herve7113 (small blind) (button) showed [7d Td] and won 614 with High card : Ten
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717545410133491713-20-1676226592 - Holdem no limit (20/40) - 2023/02/12 18:29:52 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Herve7113 (614)
+Seat 3: _SKR (286)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Herve7113 posts big blind 40
+Dealt to _SKR [Th 8s]
+*** PRE-FLOP *** 
+_SKR folds
+Herve7113 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Herve7113 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717545410133491713-21-1676226601 - Holdem no limit (30/60) - 2023/02/12 18:30:01 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Herve7113 (634)
+Seat 3: _SKR (266)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [8c 8h]
+*** PRE-FLOP *** 
+Herve7113 raises 574 to 634 and is all-in
+_SKR calls 206 and is all-in
+*** FLOP *** [4d 3c 7h]
+*** TURN *** [4d 3c 7h][2d]
+*** RIVER *** [4d 3c 7h 2d][Kh]
+*** SHOW DOWN ***
+Herve7113 shows [Qd Td] (High card : King)
+_SKR shows [8c 8h] (One pair : 8)
+_SKR collected 532 from main pot
+Herve7113 collected 368 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 3c 7h 2d Kh]
+Seat 2: Herve7113 (small blind) (button) showed [Qd Td] and won 368 with High card : King
+Seat 3: _SKR (big blind) showed [8c 8h] and won 532 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717545410133491713-22-1676226611 - Holdem no limit (30/60) - 2023/02/12 18:30:11 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Herve7113 (368)
+Seat 3: _SKR (532)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Herve7113 posts big blind 60
+Dealt to _SKR [Jh 4h]
+*** PRE-FLOP *** 
+_SKR raises 472 to 532 and is all-in
+Herve7113 calls 308 and is all-in
+*** FLOP *** [Jc As Qs]
+*** TURN *** [Jc As Qs][6h]
+*** RIVER *** [Jc As Qs 6h][7d]
+*** SHOW DOWN ***
+Herve7113 shows [Jd 9c] (One pair : Jacks)
+_SKR shows [Jh 4h] (One pair : Jacks)
+_SKR collected 164 from side pot 1
+Herve7113 collected 736 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jc As Qs 6h 7d]
+Seat 2: Herve7113 (big blind) showed [Jd 9c] and won 736 with One pair : Jacks
+Seat 3: _SKR (small blind) (button) showed [Jh 4h] and won 164 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717545410133491713-23-1676226622 - Holdem no limit (30/60) - 2023/02/12 18:30:22 UTC
+Table: 'Expresso Nitro(632727847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Herve7113 (736)
+Seat 3: _SKR (164)
+*** ANTE/BLINDS ***
+Herve7113 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qs 5c]
+*** PRE-FLOP *** 
+Herve7113 raises 676 to 736 and is all-in
+_SKR calls 104 and is all-in
+*** FLOP *** [2h Th 3d]
+*** TURN *** [2h Th 3d][Tc]
+*** RIVER *** [2h Th 3d Tc][4s]
+*** SHOW DOWN ***
+_SKR shows [Qs 5c] (One pair : Tens)
+Herve7113 shows [Kh Qc] (One pair : Tens)
+Herve7113 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2h Th 3d Tc 4s]
+Seat 2: Herve7113 (small blind) (button) showed [Kh Qc] and won 900 with One pair : Tens
+Seat 3: _SKR (big blind) showed [Qs 5c] and lost with One pair : Tens
+
+

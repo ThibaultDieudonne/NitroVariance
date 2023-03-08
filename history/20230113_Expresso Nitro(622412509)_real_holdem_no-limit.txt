@@ -1,0 +1,116 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673241370776305665-1-1673643911 - Holdem no limit (10/20) - 2023/01/13 21:05:11 UTC
+Table: 'Expresso Nitro(622412509)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pReTrEeTPxxE (300)
+Seat 2: _SKR (300)
+Seat 3: Manny-Ribera (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Manny-Ribera posts big blind 20
+Dealt to _SKR [8s 5d]
+*** PRE-FLOP *** 
+pReTrEeTPxxE raises 280 to 300 and is all-in
+_SKR folds
+Manny-Ribera folds
+pReTrEeTPxxE collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: pReTrEeTPxxE (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673241370776305665-2-1673643920 - Holdem no limit (10/20) - 2023/01/13 21:05:20 UTC
+Table: 'Expresso Nitro(622412509)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pReTrEeTPxxE (330)
+Seat 2: _SKR (290)
+Seat 3: Manny-Ribera (280)
+*** ANTE/BLINDS ***
+Manny-Ribera posts small blind 10
+pReTrEeTPxxE posts big blind 20
+Dealt to _SKR [Kc 6d]
+*** PRE-FLOP *** 
+_SKR folds
+Manny-Ribera calls 10
+pReTrEeTPxxE checks
+*** FLOP *** [8h 6s Ts]
+Manny-Ribera bets 30
+pReTrEeTPxxE folds
+Manny-Ribera collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [8h 6s Ts]
+Seat 3: Manny-Ribera (small blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2673241370776305665-3-1673643950 - Holdem no limit (10/20) - 2023/01/13 21:05:50 UTC
+Table: 'Expresso Nitro(622412509)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pReTrEeTPxxE (310)
+Seat 2: _SKR (290)
+Seat 3: Manny-Ribera (300)
+*** ANTE/BLINDS ***
+pReTrEeTPxxE posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 8c]
+*** PRE-FLOP *** 
+Manny-Ribera calls 20
+pReTrEeTPxxE folds
+_SKR checks
+*** FLOP *** [6d 5d Th]
+_SKR checks
+Manny-Ribera bets 20
+_SKR calls 20
+*** TURN *** [6d 5d Th][5c]
+_SKR checks
+Manny-Ribera bets 50
+_SKR folds
+Manny-Ribera collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6d 5d Th 5c]
+Seat 3: Manny-Ribera (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673241370776305665-4-1673644000 - Holdem no limit (15/30) - 2023/01/13 21:06:40 UTC
+Table: 'Expresso Nitro(622412509)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pReTrEeTPxxE (300)
+Seat 2: _SKR (250)
+Seat 3: Manny-Ribera (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Manny-Ribera posts big blind 30
+Dealt to _SKR [5c Kd]
+*** PRE-FLOP *** 
+pReTrEeTPxxE raises 270 to 300 and is all-in
+_SKR folds
+Manny-Ribera folds
+pReTrEeTPxxE collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 1: pReTrEeTPxxE (button) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2673241370776305665-5-1673644023 - Holdem no limit (15/30) - 2023/01/13 21:07:03 UTC
+Table: 'Expresso Nitro(622412509)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pReTrEeTPxxE (345)
+Seat 2: _SKR (235)
+Seat 3: Manny-Ribera (320)
+*** ANTE/BLINDS ***
+Manny-Ribera posts small blind 15
+pReTrEeTPxxE posts big blind 30
+Dealt to _SKR [5c Ad]
+*** PRE-FLOP *** 
+_SKR raises 205 to 235 and is all-in
+Manny-Ribera raises 85 to 320 and is all-in
+pReTrEeTPxxE folds
+*** FLOP *** [6s 2h Jd]
+*** TURN *** [6s 2h Jd][Js]
+*** RIVER *** [6s 2h Jd Js][Th]
+*** SHOW DOWN ***
+_SKR shows [5c Ad] (One pair : Jacks)
+Manny-Ribera shows [Qc Ah] (One pair : Jacks)
+Manny-Ribera collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Board: [6s 2h Jd Js Th]
+Seat 2: _SKR (button) showed [5c Ad] and lost with One pair : Jacks
+Seat 3: Manny-Ribera (small blind) showed [Qc Ah] and won 585 with One pair : Jacks
+
+

@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696617421774520321-1-1675090075 - Holdem no limit (10/20) - 2023/01/30 14:47:55 UTC
+Table: 'Expresso Nitro(627855170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Juni69110 (300)
+Seat 2: JENALUNOMA (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+JENALUNOMA posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td Tc]
+*** PRE-FLOP *** 
+Juni69110 calls 20
+JENALUNOMA folds
+_SKR raises 280 to 300 and is all-in
+Juni69110 folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696617421774520321-2-1675090082 - Holdem no limit (10/20) - 2023/01/30 14:48:02 UTC
+Table: 'Expresso Nitro(627855170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Juni69110 (280)
+Seat 2: JENALUNOMA (290)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Juni69110 posts big blind 20
+Dealt to _SKR [9d Jd]
+*** PRE-FLOP *** 
+JENALUNOMA folds
+_SKR raises 20 to 40
+Juni69110 calls 20
+*** FLOP *** [4s 9s Js]
+_SKR bets 40
+Juni69110 calls 40
+*** TURN *** [4s 9s Js][6c]
+_SKR bets 80
+Juni69110 calls 80
+*** RIVER *** [4s 9s Js 6c][Th]
+_SKR bets 170 and is all-in
+Juni69110 calls 120 and is all-in
+*** SHOW DOWN ***
+Juni69110 shows [Tc 8h] (One pair : Tens)
+_SKR shows [9d Jd] (Two pairs : Jacks and 9)
+_SKR collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [4s 9s Js 6c Th]
+Seat 1: Juni69110 (big blind) showed [Tc 8h] and lost with One pair : Tens
+Seat 3: _SKR (small blind) showed [9d Jd] and won 610 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696617421774520321-3-1675090136 - Holdem no limit (15/30) - 2023/01/30 14:48:56 UTC
+Table: 'Expresso Nitro(627855170)#0' 3-max (real money) Seat #2 is the button
+Seat 2: JENALUNOMA (290)
+Seat 3: _SKR (610)
+*** ANTE/BLINDS ***
+JENALUNOMA posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jh Kc]
+*** PRE-FLOP *** 
+JENALUNOMA raises 30 to 60
+_SKR raises 550 to 610 and is all-in
+JENALUNOMA folds
+_SKR collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 3: _SKR (big blind) won 670
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696617421774520321-4-1675090145 - Holdem no limit (15/30) - 2023/01/30 14:49:05 UTC
+Table: 'Expresso Nitro(627855170)#0' 3-max (real money) Seat #3 is the button
+Seat 2: JENALUNOMA (230)
+Seat 3: _SKR (670)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+JENALUNOMA posts big blind 30
+Dealt to _SKR [6c 8d]
+*** PRE-FLOP *** 
+_SKR folds
+JENALUNOMA collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: JENALUNOMA (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696617421774520321-5-1675090151 - Holdem no limit (15/30) - 2023/01/30 14:49:11 UTC
+Table: 'Expresso Nitro(627855170)#0' 3-max (real money) Seat #2 is the button
+Seat 2: JENALUNOMA (245)
+Seat 3: _SKR (655)
+*** ANTE/BLINDS ***
+JENALUNOMA posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc Kd]
+*** PRE-FLOP *** 
+JENALUNOMA raises 215 to 245 and is all-in
+_SKR calls 215
+*** FLOP *** [Ah 3d 5d]
+*** TURN *** [Ah 3d 5d][2s]
+*** RIVER *** [Ah 3d 5d 2s][6h]
+*** SHOW DOWN ***
+JENALUNOMA shows [8d Jd] (High card : Ace)
+_SKR shows [Tc Kd] (High card : Ace)
+_SKR collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [Ah 3d 5d 2s 6h]
+Seat 2: JENALUNOMA (small blind) (button) showed [8d Jd] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [Tc Kd] and won 490 with High card : Ace
+
+

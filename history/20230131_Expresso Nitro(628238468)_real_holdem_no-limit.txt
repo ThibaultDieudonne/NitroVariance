@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698263674149142529-1-1675187958 - Holdem no limit (10/20) - 2023/01/31 17:59:18 UTC
+Table: 'Expresso Nitro(628238468)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Vnik (300)
+Seat 3: Le 72 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Vnik posts big blind 20
+Dealt to _SKR [7c 4c]
+*** PRE-FLOP *** 
+Le 72 raises 280 to 300 and is all-in
+_SKR folds
+Vnik folds
+Le 72 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Le 72 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698263674149142529-2-1675187979 - Holdem no limit (10/20) - 2023/01/31 17:59:39 UTC
+Table: 'Expresso Nitro(628238468)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Vnik (280)
+Seat 3: Le 72 (330)
+*** ANTE/BLINDS ***
+Vnik posts small blind 10
+Le 72 posts big blind 20
+Dealt to _SKR [6s 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Vnik calls 10
+Le 72 checks
+*** FLOP *** [2s Ad 7s]
+Vnik checks
+Le 72 checks
+*** TURN *** [2s Ad 7s][Jc]
+Vnik checks
+Le 72 checks
+*** RIVER *** [2s Ad 7s Jc][Ks]
+Vnik checks
+Le 72 checks
+*** SHOW DOWN ***
+Vnik shows [Td 8d] (High card : Ace)
+Le 72 shows [9c Tc] (High card : Ace)
+Le 72 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2s Ad 7s Jc Ks]
+Seat 2: Vnik (small blind) showed [Td 8d] and lost with High card : Ace
+Seat 3: Le 72 (big blind) showed [9c Tc] and won 40 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698263674149142529-3-1675188021 - Holdem no limit (15/30) - 2023/01/31 18:00:21 UTC
+Table: 'Expresso Nitro(628238468)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Vnik (260)
+Seat 3: Le 72 (350)
+*** ANTE/BLINDS ***
+Le 72 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [As Tc]
+*** PRE-FLOP *** 
+Vnik folds
+Le 72 raises 320 to 350 and is all-in
+_SKR calls 260 and is all-in
+*** FLOP *** [2s Ks 6c]
+*** TURN *** [2s Ks 6c][Kh]
+*** RIVER *** [2s Ks 6c Kh][9c]
+*** SHOW DOWN ***
+_SKR shows [As Tc] (One pair : Kings)
+Le 72 shows [Kd Ac] (Trips of Kings)
+Le 72 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [2s Ks 6c Kh 9c]
+Seat 1: _SKR (big blind) showed [As Tc] and lost with One pair : Kings
+Seat 3: Le 72 (small blind) showed [Kd Ac] and won 640 with Trips of Kings
+
+

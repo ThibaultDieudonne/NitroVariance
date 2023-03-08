@@ -1,0 +1,90 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675079513699778561-1-1673743195 - Holdem no limit (10/20) - 2023/01/15 00:39:55 UTC
+Table: 'Expresso Nitro(622840485)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: FANTAlimpTON (300)
+Seat 3: Adrasek13 (300)
+*** ANTE/BLINDS ***
+Adrasek13 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts 3s]
+*** PRE-FLOP *** 
+FANTAlimpTON raises 280 to 300 and is all-in
+Adrasek13 calls 290 and is all-in
+_SKR folds
+*** FLOP *** [6h Qd 7s]
+*** TURN *** [6h Qd 7s][6d]
+*** RIVER *** [6h Qd 7s 6d][9c]
+*** SHOW DOWN ***
+Adrasek13 shows [Qc As] (Two pairs : Queens and 6)
+FANTAlimpTON shows [8c 5d] (Straight 9 high)
+FANTAlimpTON collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [6h Qd 7s 6d 9c]
+Seat 2: FANTAlimpTON (button) showed [8c 5d] and won 620 with Straight 9 high
+Seat 3: Adrasek13 (small blind) showed [Qc As] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675079513699778561-2-1673743212 - Holdem no limit (10/20) - 2023/01/15 00:40:12 UTC
+Table: 'Expresso Nitro(622840485)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 2: FANTAlimpTON (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+FANTAlimpTON posts big blind 20
+Dealt to _SKR [2s 4c]
+*** PRE-FLOP *** 
+_SKR folds
+FANTAlimpTON collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: FANTAlimpTON (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675079513699778561-3-1673743216 - Holdem no limit (10/20) - 2023/01/15 00:40:16 UTC
+Table: 'Expresso Nitro(622840485)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: FANTAlimpTON (630)
+*** ANTE/BLINDS ***
+FANTAlimpTON posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4c 3s]
+*** PRE-FLOP *** 
+FANTAlimpTON calls 10
+_SKR checks
+*** FLOP *** [Kc Qh 6h]
+_SKR checks
+FANTAlimpTON bets 610 and is all-in
+_SKR folds
+FANTAlimpTON collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Kc Qh 6h]
+Seat 2: FANTAlimpTON (small blind) (button) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675079513699778561-4-1673743247 - Holdem no limit (10/20) - 2023/01/15 00:40:47 UTC
+Table: 'Expresso Nitro(622840485)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (250)
+Seat 2: FANTAlimpTON (650)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+FANTAlimpTON posts big blind 20
+Dealt to _SKR [3d 3c]
+*** PRE-FLOP *** 
+_SKR raises 230 to 250 and is all-in
+FANTAlimpTON raises 230 to 480
+*** FLOP *** [6c 5d Ah]
+*** TURN *** [6c 5d Ah][6h]
+*** RIVER *** [6c 5d Ah 6h][4c]
+*** SHOW DOWN ***
+_SKR shows [3d 3c] (Two pairs : 6 and 3)
+FANTAlimpTON shows [Ac 7c] (Two pairs : Aces and 6)
+FANTAlimpTON collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [6c 5d Ah 6h 4c]
+Seat 1: _SKR (small blind) (button) showed [3d 3c] and lost with Two pairs : 6 and 3
+Seat 2: FANTAlimpTON (big blind) showed [Ac 7c] and won 730 with Two pairs : Aces and 6
+
+

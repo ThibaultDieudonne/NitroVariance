@@ -1,0 +1,416 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676355630087798785-1-1673821126 - Holdem no limit (10/20) - 2023/01/15 22:18:46 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #2 is the button
+Seat 1: raffcore82 (300)
+Seat 2: Ouanisnicois (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+raffcore82 posts big blind 20
+Dealt to _SKR [5h 7s]
+*** PRE-FLOP *** 
+Ouanisnicois folds
+_SKR folds
+raffcore82 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: raffcore82 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676355630087798785-2-1673821141 - Holdem no limit (10/20) - 2023/01/15 22:19:01 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #3 is the button
+Seat 1: raffcore82 (310)
+Seat 2: Ouanisnicois (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+raffcore82 posts small blind 10
+Ouanisnicois posts big blind 20
+Dealt to _SKR [Ks 9c]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+raffcore82 folds
+Ouanisnicois calls 20
+*** FLOP *** [Qc 9d 6d]
+Ouanisnicois checks
+_SKR checks
+*** TURN *** [Qc 9d 6d][Ac]
+Ouanisnicois checks
+_SKR checks
+*** RIVER *** [Qc 9d 6d Ac][5d]
+Ouanisnicois checks
+_SKR checks
+*** SHOW DOWN ***
+Ouanisnicois shows [Kd 8s] (High card : Ace)
+_SKR shows [Ks 9c] (One pair : 9)
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qc 9d 6d Ac 5d]
+Seat 2: Ouanisnicois (big blind) showed [Kd 8s] and lost with High card : Ace
+Seat 3: _SKR (button) showed [Ks 9c] and won 90 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676355630087798785-3-1673821186 - Holdem no limit (15/30) - 2023/01/15 22:19:46 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #1 is the button
+Seat 1: raffcore82 (300)
+Seat 2: Ouanisnicois (260)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+Ouanisnicois posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6c 7c]
+*** PRE-FLOP *** 
+raffcore82 calls 30
+Ouanisnicois calls 15
+_SKR checks
+*** FLOP *** [6s 3h 9s]
+Ouanisnicois checks
+_SKR checks
+raffcore82 checks
+*** TURN *** [6s 3h 9s][Ts]
+Ouanisnicois checks
+_SKR checks
+raffcore82 checks
+*** RIVER *** [6s 3h 9s Ts][Js]
+Ouanisnicois bets 59
+_SKR folds
+raffcore82 folds
+Ouanisnicois collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [6s 3h 9s Ts Js]
+Seat 2: Ouanisnicois (small blind) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676355630087798785-4-1673821246 - Holdem no limit (20/40) - 2023/01/15 22:20:46 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #2 is the button
+Seat 1: raffcore82 (270)
+Seat 2: Ouanisnicois (320)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+raffcore82 posts big blind 40
+Dealt to _SKR [9s Ks]
+*** PRE-FLOP *** 
+Ouanisnicois folds
+_SKR raises 270 to 310 and is all-in
+raffcore82 folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: _SKR (small blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676355630087798785-5-1673821255 - Holdem no limit (20/40) - 2023/01/15 22:20:55 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #3 is the button
+Seat 1: raffcore82 (230)
+Seat 2: Ouanisnicois (320)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+raffcore82 posts small blind 20
+Ouanisnicois posts big blind 40
+Dealt to _SKR [8s 3c]
+*** PRE-FLOP *** 
+_SKR folds
+raffcore82 calls 20
+Ouanisnicois raises 280 to 320 and is all-in
+raffcore82 calls 190 and is all-in
+*** FLOP *** [8d Js 3d]
+*** TURN *** [8d Js 3d][Jh]
+*** RIVER *** [8d Js 3d Jh][2d]
+*** SHOW DOWN ***
+raffcore82 shows [Ad Qd] (Flush Ace high)
+Ouanisnicois shows [Qc Tc] (One pair : Jacks)
+Ouanisnicois collected 90 from side pot 1
+raffcore82 collected 460 from main pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [8d Js 3d Jh 2d]
+Seat 1: raffcore82 (small blind) showed [Ad Qd] and won 460 with Flush Ace high
+Seat 2: Ouanisnicois (big blind) showed [Qc Tc] and won 90 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676355630087798785-6-1673821282 - Holdem no limit (20/40) - 2023/01/15 22:21:22 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #1 is the button
+Seat 1: raffcore82 (460)
+Seat 2: Ouanisnicois (90)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+Ouanisnicois posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd 5c]
+*** PRE-FLOP *** 
+raffcore82 calls 40
+Ouanisnicois raises 50 to 90 and is all-in
+_SKR folds
+raffcore82 calls 50
+*** FLOP *** [Qc 9d 8s]
+*** TURN *** [Qc 9d 8s][3s]
+*** RIVER *** [Qc 9d 8s 3s][Td]
+*** SHOW DOWN ***
+raffcore82 shows [Ac 7h] (High card : Ace)
+Ouanisnicois shows [Jh Ad] (Straight Queen high)
+Ouanisnicois collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Qc 9d 8s 3s Td]
+Seat 1: raffcore82 (button) showed [Ac 7h] and lost with High card : Ace
+Seat 2: Ouanisnicois (small blind) showed [Jh Ad] and won 220 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676355630087798785-7-1673821303 - Holdem no limit (30/60) - 2023/01/15 22:21:43 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #2 is the button
+Seat 1: raffcore82 (370)
+Seat 2: Ouanisnicois (220)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+raffcore82 posts big blind 60
+Dealt to _SKR [9d 4h]
+*** PRE-FLOP *** 
+Ouanisnicois raises 160 to 220 and is all-in
+_SKR folds
+raffcore82 folds
+Ouanisnicois collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: Ouanisnicois (button) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676355630087798785-8-1673821312 - Holdem no limit (30/60) - 2023/01/15 22:21:52 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #3 is the button
+Seat 1: raffcore82 (310)
+Seat 2: Ouanisnicois (310)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+raffcore82 posts small blind 30
+Ouanisnicois posts big blind 60
+Dealt to _SKR [3d Qd]
+*** PRE-FLOP *** 
+_SKR folds
+raffcore82 folds
+Ouanisnicois collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Ouanisnicois (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676355630087798785-9-1673821322 - Holdem no limit (30/60) - 2023/01/15 22:22:02 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #1 is the button
+Seat 1: raffcore82 (280)
+Seat 2: Ouanisnicois (340)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+Ouanisnicois posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qs As]
+*** PRE-FLOP *** 
+raffcore82 folds
+Ouanisnicois calls 30
+_SKR raises 220 to 280 and is all-in
+Ouanisnicois calls 220
+*** FLOP *** [Ac 7c 9s]
+*** TURN *** [Ac 7c 9s][5d]
+*** RIVER *** [Ac 7c 9s 5d][6d]
+*** SHOW DOWN ***
+Ouanisnicois shows [Tc Qd] (High card : Ace)
+_SKR shows [Qs As] (One pair : Aces)
+_SKR collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Ac 7c 9s 5d 6d]
+Seat 2: Ouanisnicois (small blind) showed [Tc Qd] and lost with High card : Ace
+Seat 3: _SKR (big blind) showed [Qs As] and won 560 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676355630087798785-10-1673821349 - Holdem no limit (30/60) - 2023/01/15 22:22:29 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #2 is the button
+Seat 1: raffcore82 (280)
+Seat 2: Ouanisnicois (60)
+Seat 3: _SKR (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+raffcore82 posts big blind 60
+Dealt to _SKR [2c 3h]
+*** PRE-FLOP *** 
+Ouanisnicois calls 60 and is all-in
+_SKR folds
+*** FLOP *** [Kd 8d Th]
+*** TURN *** [Kd 8d Th][6s]
+*** RIVER *** [Kd 8d Th 6s][4s]
+*** SHOW DOWN ***
+raffcore82 shows [5c Tc] (One pair : Tens)
+Ouanisnicois shows [8h Kh] (Two pairs : Kings and 8)
+Ouanisnicois collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Kd 8d Th 6s 4s]
+Seat 1: raffcore82 (big blind) showed [5c Tc] and lost with One pair : Tens
+Seat 2: Ouanisnicois (button) showed [8h Kh] and won 150 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676355630087798785-11-1673821366 - Holdem no limit (40/80) - 2023/01/15 22:22:46 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #3 is the button
+Seat 1: raffcore82 (220)
+Seat 2: Ouanisnicois (150)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+raffcore82 posts small blind 40
+Ouanisnicois posts big blind 80
+Dealt to _SKR [Qc 6h]
+*** PRE-FLOP *** 
+_SKR folds
+raffcore82 calls 40
+Ouanisnicois raises 70 to 150 and is all-in
+raffcore82 calls 70
+*** FLOP *** [8s Qd 5c]
+*** TURN *** [8s Qd 5c][Tc]
+*** RIVER *** [8s Qd 5c Tc][Qh]
+*** SHOW DOWN ***
+raffcore82 shows [4d 7d] (One pair : Queens)
+Ouanisnicois shows [Th 6c] (Two pairs : Queens and Tens)
+Ouanisnicois collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [8s Qd 5c Tc Qh]
+Seat 1: raffcore82 (small blind) showed [4d 7d] and lost with One pair : Queens
+Seat 2: Ouanisnicois (big blind) showed [Th 6c] and won 300 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676355630087798785-12-1673821388 - Holdem no limit (40/80) - 2023/01/15 22:23:08 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #1 is the button
+Seat 1: raffcore82 (70)
+Seat 2: Ouanisnicois (300)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+Ouanisnicois posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3h Ad]
+*** PRE-FLOP *** 
+raffcore82 calls 70 and is all-in
+Ouanisnicois calls 40
+_SKR raises 80 to 160
+Ouanisnicois calls 80
+*** FLOP *** [5d 7s 2c]
+Ouanisnicois checks
+_SKR checks
+*** TURN *** [5d 7s 2c][Kc]
+Ouanisnicois checks
+_SKR checks
+*** RIVER *** [5d 7s 2c Kc][6d]
+Ouanisnicois bets 140 and is all-in
+_SKR folds
+*** SHOW DOWN ***
+raffcore82 shows [9h Kh] (One pair : Kings)
+Ouanisnicois shows [9c Ts] (High card : King)
+Ouanisnicois collected 320 from side pot 1
+raffcore82 collected 210 from main pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [5d 7s 2c Kc 6d]
+Seat 1: raffcore82 (button) showed [9h Kh] and won 210 with One pair : Kings
+Seat 2: Ouanisnicois (small blind) showed [9c Ts] and won 320 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676355630087798785-13-1673821428 - Holdem no limit (50/100) - 2023/01/15 22:23:48 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #2 is the button
+Seat 1: raffcore82 (210)
+Seat 2: Ouanisnicois (320)
+Seat 3: _SKR (370)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+raffcore82 posts big blind 100
+Dealt to _SKR [Kh 8h]
+*** PRE-FLOP *** 
+Ouanisnicois folds
+_SKR raises 270 to 370 and is all-in
+raffcore82 calls 110 and is all-in
+*** FLOP *** [Qh 3s 5d]
+*** TURN *** [Qh 3s 5d][Kd]
+*** RIVER *** [Qh 3s 5d Kd][As]
+*** SHOW DOWN ***
+raffcore82 shows [Ac 8c] (One pair : Aces)
+_SKR shows [Kh 8h] (One pair : Kings)
+_SKR collected 160 from side pot 1
+raffcore82 collected 420 from main pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Qh 3s 5d Kd As]
+Seat 1: raffcore82 (big blind) showed [Ac 8c] and won 420 with One pair : Aces
+Seat 3: _SKR (small blind) showed [Kh 8h] and won 160 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676355630087798785-14-1673821447 - Holdem no limit (50/100) - 2023/01/15 22:24:07 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #3 is the button
+Seat 1: raffcore82 (420)
+Seat 2: Ouanisnicois (320)
+Seat 3: _SKR (160)
+*** ANTE/BLINDS ***
+raffcore82 posts small blind 50
+Ouanisnicois posts big blind 100
+Dealt to _SKR [8c Ac]
+*** PRE-FLOP *** 
+_SKR raises 60 to 160 and is all-in
+raffcore82 raises 260 to 420 and is all-in
+Ouanisnicois calls 220 and is all-in
+*** FLOP *** [7h Qs 5h]
+*** TURN *** [7h Qs 5h][4c]
+*** RIVER *** [7h Qs 5h 4c][Td]
+*** SHOW DOWN ***
+Ouanisnicois shows [Kh 3h] (High card : King)
+raffcore82 shows [2c Ad] (High card : Ace)
+_SKR shows [8c Ac] (High card : Ace)
+_SKR collected 480 from main pot
+raffcore82 collected 420 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h Qs 5h 4c Td]
+Seat 1: raffcore82 (small blind) showed [2c Ad] and won 420 with High card : Ace
+Seat 2: Ouanisnicois (big blind) showed [Kh 3h] and lost with High card : King
+Seat 3: _SKR (button) showed [8c Ac] and won 480 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676355630087798785-15-1673821464 - Holdem no limit (50/100) - 2023/01/15 22:24:24 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #3 is the button
+Seat 1: raffcore82 (420)
+Seat 3: _SKR (480)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+raffcore82 posts big blind 100
+Dealt to _SKR [8d 2h]
+*** PRE-FLOP *** 
+_SKR folds
+raffcore82 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: raffcore82 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676355630087798785-16-1673821470 - Holdem no limit (50/100) - 2023/01/15 22:24:30 UTC
+Table: 'Expresso Nitro(623137604)#0' 3-max (real money) Seat #1 is the button
+Seat 1: raffcore82 (470)
+Seat 3: _SKR (430)
+*** ANTE/BLINDS ***
+raffcore82 posts small blind 50
+_SKR posts big blind 100
+Dealt to _SKR [6h 8c]
+*** PRE-FLOP *** 
+raffcore82 calls 50
+_SKR checks
+*** FLOP *** [2s 8d 3h]
+_SKR checks
+raffcore82 bets 100
+_SKR raises 230 to 330 and is all-in
+raffcore82 raises 40 to 370 and is all-in
+*** TURN *** [2s 8d 3h][4h]
+*** RIVER *** [2s 8d 3h 4h][Ad]
+*** SHOW DOWN ***
+_SKR shows [6h 8c] (One pair : 8)
+raffcore82 shows [5h 5d] (Straight 5 high)
+raffcore82 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2s 8d 3h 4h Ad]
+Seat 1: raffcore82 (small blind) (button) showed [5h 5d] and won 900 with Straight 5 high
+Seat 3: _SKR (big blind) showed [6h 8c] and lost with One pair : 8
+
+

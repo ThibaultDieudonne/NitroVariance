@@ -1,0 +1,58 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674136798443077633-1-1673702863 - Holdem no limit (10/20) - 2023/01/14 13:27:43 UTC
+Table: 'Expresso Nitro(622620992)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Lolotktpas (300)
+Seat 3: Morgan13-5 (300)
+*** ANTE/BLINDS ***
+Lolotktpas posts small blind 10
+Morgan13-5 posts big blind 20
+Dealt to _SKR [Ac Qd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Lolotktpas folds
+Morgan13-5 calls 20
+*** FLOP *** [4s 6s 9h]
+Morgan13-5 checks
+_SKR bets 32
+Morgan13-5 raises 32 to 64
+_SKR folds
+Morgan13-5 collected 186 from pot
+*** SUMMARY ***
+Total pot 186 | No rake
+Board: [4s 6s 9h]
+Seat 3: Morgan13-5 (big blind) won 186
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674136798443077633-2-1673702880 - Holdem no limit (10/20) - 2023/01/14 13:28:00 UTC
+Table: 'Expresso Nitro(622620992)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (228)
+Seat 2: Lolotktpas (290)
+Seat 3: Morgan13-5 (382)
+*** ANTE/BLINDS ***
+Morgan13-5 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s Qs]
+*** PRE-FLOP *** 
+Lolotktpas raises 20 to 40
+Morgan13-5 calls 30
+_SKR calls 20
+*** FLOP *** [5c Ts 5s]
+Morgan13-5 bets 342 and is all-in
+_SKR calls 188 and is all-in
+Lolotktpas calls 250 and is all-in
+*** TURN *** [5c Ts 5s][2c]
+*** RIVER *** [5c Ts 5s 2c][6d]
+*** SHOW DOWN ***
+_SKR shows [6s Qs] (Two pairs : 6 and 5)
+Lolotktpas shows [Ac As] (Two pairs : Aces and 5)
+Morgan13-5 shows [Th Jc] (Two pairs : Tens and 5)
+Morgan13-5 collected 92 from side pot 1
+Lolotktpas collected 808 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c Ts 5s 2c 6d]
+Seat 1: _SKR (big blind) showed [6s Qs] and lost with Two pairs : 6 and 5
+Seat 2: Lolotktpas (button) showed [Ac As] and won 808 with Two pairs : Aces and 5
+Seat 3: Morgan13-5 (small blind) showed [Th Jc] and won 92 with Two pairs : Tens and 5
+
+

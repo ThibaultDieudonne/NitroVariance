@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675089009872470017-1-1673743737 - Holdem no limit (10/20) - 2023/01/15 00:48:57 UTC
+Table: 'Expresso Nitro(622842696)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jedkyr (300)
+Seat 2: Angeb (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+jedkyr posts small blind 10
+Angeb posts big blind 20
+Dealt to _SKR [Th Ks]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+jedkyr calls 30
+Angeb raises 80 to 120
+_SKR folds
+jedkyr calls 80
+*** FLOP *** [4d Js 7h]
+jedkyr checks
+Angeb checks
+*** TURN *** [4d Js 7h][Kh]
+jedkyr checks
+Angeb bets 180 and is all-in
+jedkyr folds
+Angeb collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [4d Js 7h Kh]
+Seat 2: Angeb (big blind) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675089009872470017-2-1673743772 - Holdem no limit (10/20) - 2023/01/15 00:49:32 UTC
+Table: 'Expresso Nitro(622842696)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jedkyr (180)
+Seat 2: Angeb (460)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Angeb posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d Ad]
+*** PRE-FLOP *** 
+jedkyr calls 20
+Angeb raises 20 to 40
+_SKR raises 220 to 260 and is all-in
+jedkyr calls 160 and is all-in
+Angeb calls 220
+*** FLOP *** [4c 3c 6d]
+*** TURN *** [4c 3c 6d][7d]
+*** RIVER *** [4c 3c 6d 7d][5c]
+*** SHOW DOWN ***
+jedkyr shows [Ks 5d] (Straight 7 high)
+Angeb shows [2c 2h] (Straight 7 high)
+_SKR shows [8d Ad] (Straight 8 high)
+_SKR collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [4c 3c 6d 7d 5c]
+Seat 1: jedkyr (button) showed [Ks 5d] and lost with Straight 7 high
+Seat 2: Angeb (small blind) showed [2c 2h] and lost with Straight 7 high
+Seat 3: _SKR (big blind) showed [8d Ad] and won 700 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675089009872470017-3-1673743795 - Holdem no limit (15/30) - 2023/01/15 00:49:55 UTC
+Table: 'Expresso Nitro(622842696)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Angeb (200)
+Seat 3: _SKR (700)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Angeb posts big blind 30
+Dealt to _SKR [8d 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Angeb collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Angeb (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675089009872470017-4-1673743800 - Holdem no limit (15/30) - 2023/01/15 00:50:00 UTC
+Table: 'Expresso Nitro(622842696)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Angeb (215)
+Seat 3: _SKR (685)
+*** ANTE/BLINDS ***
+Angeb posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ah 2h]
+*** PRE-FLOP *** 
+Angeb raises 185 to 215 and is all-in
+_SKR calls 185
+*** FLOP *** [Js 4h Jc]
+*** TURN *** [Js 4h Jc][6d]
+*** RIVER *** [Js 4h Jc 6d][8h]
+*** SHOW DOWN ***
+Angeb shows [Td 9s] (One pair : Jacks)
+_SKR shows [Ah 2h] (One pair : Jacks)
+_SKR collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Board: [Js 4h Jc 6d 8h]
+Seat 2: Angeb (small blind) (button) showed [Td 9s] and lost with One pair : Jacks
+Seat 3: _SKR (big blind) showed [Ah 2h] and won 430 with One pair : Jacks
+
+

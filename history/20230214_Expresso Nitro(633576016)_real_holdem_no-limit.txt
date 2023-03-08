@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721188268249972737-1-1676418827 - Holdem no limit (10/20) - 2023/02/14 23:53:47 UTC
+Table: 'Expresso Nitro(633576016)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Branco19 (300)
+Seat 3: hasanuki (300)
+*** ANTE/BLINDS ***
+hasanuki posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s Tc]
+*** PRE-FLOP *** 
+Branco19 calls 20
+hasanuki raises 280 to 300 and is all-in
+_SKR folds
+Branco19 calls 280 and is all-in
+*** FLOP *** [Ac 4d 3s]
+*** TURN *** [Ac 4d 3s][4c]
+*** RIVER *** [Ac 4d 3s 4c][5d]
+*** SHOW DOWN ***
+Branco19 shows [Jd Qh] (One pair : 4)
+hasanuki shows [Js Ad] (Two pairs : Aces and 4)
+hasanuki collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ac 4d 3s 4c 5d]
+Seat 2: Branco19 (button) showed [Jd Qh] and lost with One pair : 4
+Seat 3: hasanuki (small blind) showed [Js Ad] and won 620 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721188268249972737-2-1676418844 - Holdem no limit (10/20) - 2023/02/14 23:54:04 UTC
+Table: 'Expresso Nitro(633576016)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 3: hasanuki (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+hasanuki posts big blind 20
+Dealt to _SKR [Qs 8c]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+hasanuki calls 260
+*** FLOP *** [2c 9s Kc]
+*** TURN *** [2c 9s Kc][Jc]
+*** RIVER *** [2c 9s Kc Jc][7d]
+*** SHOW DOWN ***
+_SKR shows [Qs 8c] (High card : King)
+hasanuki shows [6d Kd] (One pair : Kings)
+hasanuki collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [2c 9s Kc Jc 7d]
+Seat 1: _SKR (small blind) (button) showed [Qs 8c] and lost with High card : King
+Seat 3: hasanuki (big blind) showed [6d Kd] and won 560 with One pair : Kings
+
+

@@ -1,0 +1,86 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677095751737147393-1-1673876925 - Holdem no limit (10/20) - 2023/01/16 13:48:45 UTC
+Table: 'Expresso Nitro(623309927)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Fish_tips (300)
+Seat 3: Nitiob (300)
+*** ANTE/BLINDS ***
+Nitiob posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 6h]
+*** PRE-FLOP *** 
+Fish_tips folds
+Nitiob raises 20 to 40
+_SKR folds
+Nitiob collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Nitiob (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677095751737147393-2-1673876951 - Holdem no limit (10/20) - 2023/01/16 13:49:11 UTC
+Table: 'Expresso Nitro(623309927)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Fish_tips (300)
+Seat 3: Nitiob (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Fish_tips posts big blind 20
+Dealt to _SKR [Qd Jc]
+*** PRE-FLOP *** 
+Nitiob folds
+_SKR raises 20 to 40
+Fish_tips raises 80 to 120
+_SKR folds
+Fish_tips collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: Fish_tips (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677095751737147393-3-1673876977 - Holdem no limit (10/20) - 2023/01/16 13:49:37 UTC
+Table: 'Expresso Nitro(623309927)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (240)
+Seat 2: Fish_tips (340)
+Seat 3: Nitiob (320)
+*** ANTE/BLINDS ***
+Fish_tips posts small blind 10
+Nitiob posts big blind 20
+Dealt to _SKR [Ad 8s]
+*** PRE-FLOP *** 
+_SKR raises 220 to 240 and is all-in
+Fish_tips folds
+Nitiob folds
+_SKR collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: _SKR (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2677095751737147393-4-1673876986 - Holdem no limit (15/30) - 2023/01/16 13:49:46 UTC
+Table: 'Expresso Nitro(623309927)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Fish_tips (330)
+Seat 3: Nitiob (300)
+*** ANTE/BLINDS ***
+Nitiob posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad Ks]
+*** PRE-FLOP *** 
+Fish_tips folds
+Nitiob calls 15
+_SKR raises 240 to 270 and is all-in
+Nitiob calls 240
+*** FLOP *** [Js 2s 4d]
+*** TURN *** [Js 2s 4d][3d]
+*** RIVER *** [Js 2s 4d 3d][3c]
+*** SHOW DOWN ***
+_SKR shows [Ad Ks] (One pair : 3)
+Nitiob shows [Tc Jh] (Two pairs : Jacks and 3)
+Nitiob collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Js 2s 4d 3d 3c]
+Seat 1: _SKR (big blind) showed [Ad Ks] and lost with One pair : 3
+Seat 3: Nitiob (small blind) showed [Tc Jh] and won 540 with Two pairs : Jacks and 3
+
+

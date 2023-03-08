@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677093131807096833-1-1673876806 - Holdem no limit (10/20) - 2023/01/16 13:46:46 UTC
+Table: 'Expresso Nitro(623309317)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Obade93 (300)
+Seat 2: _SKR (300)
+Seat 3: KrisAnji (300)
+*** ANTE/BLINDS ***
+KrisAnji posts small blind 10
+Obade93 posts big blind 20
+Dealt to _SKR [3h 3s]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+KrisAnji calls 290 and is all-in
+Obade93 folds
+*** FLOP *** [Ah 6s 3d]
+*** TURN *** [Ah 6s 3d][2s]
+*** RIVER *** [Ah 6s 3d 2s][5c]
+*** SHOW DOWN ***
+KrisAnji shows [5s 7c] (One pair : 5)
+_SKR shows [3h 3s] (Trips of 3)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ah 6s 3d 2s 5c]
+Seat 2: _SKR (button) showed [3h 3s] and won 620 with Trips of 3
+Seat 3: KrisAnji (small blind) showed [5s 7c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677093131807096833-2-1673876821 - Holdem no limit (10/20) - 2023/01/16 13:47:01 UTC
+Table: 'Expresso Nitro(623309317)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Obade93 (280)
+Seat 2: _SKR (620)
+*** ANTE/BLINDS ***
+Obade93 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c 9s]
+*** PRE-FLOP *** 
+Obade93 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677093131807096833-3-1673876826 - Holdem no limit (10/20) - 2023/01/16 13:47:06 UTC
+Table: 'Expresso Nitro(623309317)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Obade93 (270)
+Seat 2: _SKR (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Obade93 posts big blind 20
+Dealt to _SKR [Qh 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Obade93 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Obade93 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677093131807096833-4-1673876831 - Holdem no limit (10/20) - 2023/01/16 13:47:11 UTC
+Table: 'Expresso Nitro(623309317)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Obade93 (280)
+Seat 2: _SKR (620)
+*** ANTE/BLINDS ***
+Obade93 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d Qs]
+*** PRE-FLOP *** 
+Obade93 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2677093131807096833-5-1673876835 - Holdem no limit (10/20) - 2023/01/16 13:47:15 UTC
+Table: 'Expresso Nitro(623309317)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Obade93 (270)
+Seat 2: _SKR (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Obade93 posts big blind 20
+Dealt to _SKR [Ac Jc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Obade93 raises 230 to 270 and is all-in
+_SKR calls 230
+*** FLOP *** [5s 6h 7s]
+*** TURN *** [5s 6h 7s][3c]
+*** RIVER *** [5s 6h 7s 3c][Ts]
+*** SHOW DOWN ***
+Obade93 shows [Ah 2s] (High card : Ace)
+_SKR shows [Ac Jc] (High card : Ace)
+_SKR collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [5s 6h 7s 3c Ts]
+Seat 1: Obade93 (big blind) showed [Ah 2s] and lost with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [Ac Jc] and won 540 with High card : Ace
+
+

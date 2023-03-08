@@ -1,0 +1,324 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717552930621227009-1-1676226702 - Holdem no limit (10/20) - 2023/02/12 18:31:42 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Point point (300)
+Seat 2: _SKR (300)
+Seat 3: lagrotte95 (300)
+*** ANTE/BLINDS ***
+lagrotte95 posts small blind 10
+Point point posts big blind 20
+Dealt to _SKR [5c 4c]
+*** PRE-FLOP *** 
+_SKR folds
+lagrotte95 calls 10
+Point point checks
+*** FLOP *** [4h 7s Kh]
+lagrotte95 checks
+Point point checks
+*** TURN *** [4h 7s Kh][6c]
+lagrotte95 bets 20
+Point point calls 20
+*** RIVER *** [4h 7s Kh 6c][5d]
+lagrotte95 bets 20
+Point point folds
+lagrotte95 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4h 7s Kh 6c 5d]
+Seat 3: lagrotte95 (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717552930621227009-2-1676226729 - Holdem no limit (10/20) - 2023/02/12 18:32:09 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Point point (260)
+Seat 2: _SKR (300)
+Seat 3: lagrotte95 (340)
+*** ANTE/BLINDS ***
+Point point posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c Th]
+*** PRE-FLOP *** 
+lagrotte95 folds
+Point point raises 240 to 260 and is all-in
+_SKR folds
+Point point collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: Point point (small blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717552930621227009-3-1676226746 - Holdem no limit (10/20) - 2023/02/12 18:32:26 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Point point (280)
+Seat 2: _SKR (280)
+Seat 3: lagrotte95 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+lagrotte95 posts big blind 20
+Dealt to _SKR [Ad 2c]
+*** PRE-FLOP *** 
+Point point folds
+_SKR raises 260 to 280 and is all-in
+lagrotte95 folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: _SKR (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717552930621227009-4-1676226755 - Holdem no limit (10/20) - 2023/02/12 18:32:35 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Point point (280)
+Seat 2: _SKR (300)
+Seat 3: lagrotte95 (320)
+*** ANTE/BLINDS ***
+lagrotte95 posts small blind 10
+Point point posts big blind 20
+Dealt to _SKR [8d Ac]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+lagrotte95 folds
+Point point calls 260 and is all-in
+*** FLOP *** [5h Qs 3d]
+*** TURN *** [5h Qs 3d][Jc]
+*** RIVER *** [5h Qs 3d Jc][2s]
+*** SHOW DOWN ***
+Point point shows [8h Ad] (High card : Ace)
+_SKR shows [8d Ac] (High card : Ace)
+_SKR collected 305 from side pot 1
+Point point collected 285 from main pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [5h Qs 3d Jc 2s]
+Seat 1: Point point (big blind) showed [8h Ad] and won 285 with High card : Ace
+Seat 2: _SKR (button) showed [8d Ac] and won 305 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717552930621227009-5-1676226771 - Holdem no limit (15/30) - 2023/02/12 18:32:51 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Point point (285)
+Seat 2: _SKR (305)
+Seat 3: lagrotte95 (310)
+*** ANTE/BLINDS ***
+Point point posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9d Kh]
+*** PRE-FLOP *** 
+lagrotte95 folds
+Point point raises 255 to 285 and is all-in
+_SKR calls 255
+*** FLOP *** [9s 2d Jc]
+*** TURN *** [9s 2d Jc][6s]
+*** RIVER *** [9s 2d Jc 6s][Tc]
+*** SHOW DOWN ***
+Point point shows [3h 3d] (One pair : 3)
+_SKR shows [9d Kh] (One pair : 9)
+_SKR collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [9s 2d Jc 6s Tc]
+Seat 1: Point point (small blind) showed [3h 3d] and lost with One pair : 3
+Seat 2: _SKR (big blind) showed [9d Kh] and won 570 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717552930621227009-6-1676226788 - Holdem no limit (15/30) - 2023/02/12 18:33:08 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (590)
+Seat 3: lagrotte95 (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+lagrotte95 posts big blind 30
+Dealt to _SKR [2h Qs]
+*** PRE-FLOP *** 
+_SKR folds
+lagrotte95 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: lagrotte95 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717552930621227009-7-1676226792 - Holdem no limit (15/30) - 2023/02/12 18:33:12 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (575)
+Seat 3: lagrotte95 (325)
+*** ANTE/BLINDS ***
+lagrotte95 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c Th]
+*** PRE-FLOP *** 
+lagrotte95 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717552930621227009-8-1676226797 - Holdem no limit (15/30) - 2023/02/12 18:33:17 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (590)
+Seat 3: lagrotte95 (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+lagrotte95 posts big blind 30
+Dealt to _SKR [Jc Qs]
+*** PRE-FLOP *** 
+_SKR raises 560 to 590 and is all-in
+lagrotte95 folds
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 2: _SKR (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717552930621227009-9-1676226803 - Holdem no limit (15/30) - 2023/02/12 18:33:23 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (620)
+Seat 3: lagrotte95 (280)
+*** ANTE/BLINDS ***
+lagrotte95 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4s 8c]
+*** PRE-FLOP *** 
+lagrotte95 calls 15
+_SKR checks
+*** FLOP *** [3c Qd Th]
+_SKR checks
+lagrotte95 checks
+*** TURN *** [3c Qd Th][5h]
+_SKR checks
+lagrotte95 checks
+*** RIVER *** [3c Qd Th 5h][Js]
+_SKR checks
+lagrotte95 checks
+*** SHOW DOWN ***
+_SKR shows [4s 8c] (High card : Queen)
+lagrotte95 shows [Ad 8h] (High card : Ace)
+lagrotte95 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3c Qd Th 5h Js]
+Seat 2: _SKR (big blind) showed [4s 8c] and lost with High card : Queen
+Seat 3: lagrotte95 (small blind) (button) showed [Ad 8h] and won 60 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717552930621227009-10-1676226822 - Holdem no limit (20/40) - 2023/02/12 18:33:42 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (590)
+Seat 3: lagrotte95 (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+lagrotte95 posts big blind 40
+Dealt to _SKR [9s 5c]
+*** PRE-FLOP *** 
+_SKR folds
+lagrotte95 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: lagrotte95 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717552930621227009-11-1676226829 - Holdem no limit (20/40) - 2023/02/12 18:33:49 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (570)
+Seat 3: lagrotte95 (330)
+*** ANTE/BLINDS ***
+lagrotte95 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Td 8c]
+*** PRE-FLOP *** 
+lagrotte95 calls 20
+_SKR checks
+*** FLOP *** [Ah 3c Ac]
+_SKR checks
+lagrotte95 checks
+*** TURN *** [Ah 3c Ac][As]
+_SKR checks
+lagrotte95 checks
+*** RIVER *** [Ah 3c Ac As][6h]
+_SKR checks
+lagrotte95 checks
+*** SHOW DOWN ***
+_SKR shows [Td 8c] (Trips of Aces)
+lagrotte95 shows [Ts Ks] (Trips of Aces)
+lagrotte95 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ah 3c Ac As 6h]
+Seat 2: _SKR (big blind) showed [Td 8c] and lost with Trips of Aces
+Seat 3: lagrotte95 (small blind) (button) showed [Ts Ks] and won 80 with Trips of Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717552930621227009-12-1676226853 - Holdem no limit (20/40) - 2023/02/12 18:34:13 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (530)
+Seat 3: lagrotte95 (370)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+lagrotte95 posts big blind 40
+Dealt to _SKR [4c Qh]
+*** PRE-FLOP *** 
+_SKR folds
+lagrotte95 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: lagrotte95 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717552930621227009-13-1676226856 - Holdem no limit (20/40) - 2023/02/12 18:34:16 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (510)
+Seat 3: lagrotte95 (390)
+*** ANTE/BLINDS ***
+lagrotte95 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2s Jd]
+*** PRE-FLOP *** 
+lagrotte95 calls 20
+_SKR checks
+*** FLOP *** [Td 6d Ad]
+_SKR checks
+lagrotte95 bets 40
+_SKR calls 40
+*** TURN *** [Td 6d Ad][5h]
+_SKR checks
+lagrotte95 bets 40
+_SKR calls 40
+*** RIVER *** [Td 6d Ad 5h][2d]
+_SKR checks
+lagrotte95 bets 40
+_SKR calls 40
+*** SHOW DOWN ***
+_SKR shows [2s Jd] (Flush Ace high)
+lagrotte95 shows [Qd 5s] (Flush Ace high)
+lagrotte95 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Td 6d Ad 5h 2d]
+Seat 2: _SKR (big blind) showed [2s Jd] and lost with Flush Ace high
+Seat 3: lagrotte95 (small blind) (button) showed [Qd 5s] and won 320 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717552930621227009-14-1676226885 - Holdem no limit (30/60) - 2023/02/12 18:34:45 UTC
+Table: 'Expresso Nitro(632729598)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (350)
+Seat 3: lagrotte95 (550)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+lagrotte95 posts big blind 60
+Dealt to _SKR [7h 8d]
+*** PRE-FLOP *** 
+_SKR raises 290 to 350 and is all-in
+lagrotte95 calls 290
+*** FLOP *** [4h Qs 4c]
+*** TURN *** [4h Qs 4c][Ah]
+*** RIVER *** [4h Qs 4c Ah][3s]
+*** SHOW DOWN ***
+_SKR shows [7h 8d] (One pair : 4)
+lagrotte95 shows [Qc Tc] (Two pairs : Queens and 4)
+lagrotte95 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [4h Qs 4c Ah 3s]
+Seat 2: _SKR (small blind) (button) showed [7h 8d] and lost with One pair : 4
+Seat 3: lagrotte95 (big blind) showed [Qc Tc] and won 700 with Two pairs : Queens and 4
+
+

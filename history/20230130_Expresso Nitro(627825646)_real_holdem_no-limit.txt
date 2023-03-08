@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696490617160073217-1-1675083000 - Holdem no limit (10/20) - 2023/01/30 12:50:00 UTC
+Table: 'Expresso Nitro(627825646)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Aum- (300)
+Seat 3: MrJoyman (300)
+*** ANTE/BLINDS ***
+MrJoyman posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 6d]
+*** PRE-FLOP *** 
+Aum- raises 20 to 40
+MrJoyman folds
+_SKR raises 260 to 300 and is all-in
+Aum- calls 260 and is all-in
+*** FLOP *** [6c Ts 9h]
+*** TURN *** [6c Ts 9h][6s]
+*** RIVER *** [6c Ts 9h 6s][7d]
+*** SHOW DOWN ***
+Aum- shows [Ah Th] (Two pairs : Tens and 6)
+_SKR shows [6h 6d] (Quads of 6)
+_SKR collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [6c Ts 9h 6s 7d]
+Seat 1: _SKR (big blind) showed [6h 6d] and won 610 with Quads of 6
+Seat 2: Aum- (button) showed [Ah Th] and lost with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696490617160073217-2-1675083021 - Holdem no limit (10/20) - 2023/01/30 12:50:21 UTC
+Table: 'Expresso Nitro(627825646)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (610)
+Seat 3: MrJoyman (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+MrJoyman posts big blind 20
+Dealt to _SKR [Ks 2d]
+*** PRE-FLOP *** 
+_SKR calls 10
+MrJoyman checks
+*** FLOP *** [Jh 8d 2c]
+MrJoyman checks
+_SKR checks
+*** TURN *** [Jh 8d 2c][8s]
+MrJoyman checks
+_SKR checks
+*** RIVER *** [Jh 8d 2c 8s][6s]
+MrJoyman checks
+_SKR checks
+*** SHOW DOWN ***
+MrJoyman shows [3h Kh] (One pair : 8)
+_SKR shows [Ks 2d] (Two pairs : 8 and 2)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Jh 8d 2c 8s 6s]
+Seat 1: _SKR (small blind) (button) showed [Ks 2d] and won 40 with Two pairs : 8 and 2
+Seat 3: MrJoyman (big blind) showed [3h Kh] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696490617160073217-3-1675083055 - Holdem no limit (10/20) - 2023/01/30 12:50:55 UTC
+Table: 'Expresso Nitro(627825646)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (630)
+Seat 3: MrJoyman (270)
+*** ANTE/BLINDS ***
+MrJoyman posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 3h]
+*** PRE-FLOP *** 
+MrJoyman raises 250 to 270 and is all-in
+_SKR folds
+MrJoyman collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: MrJoyman (small blind) (button) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696490617160073217-4-1675083065 - Holdem no limit (15/30) - 2023/01/30 12:51:05 UTC
+Table: 'Expresso Nitro(627825646)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (610)
+Seat 3: MrJoyman (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+MrJoyman posts big blind 30
+Dealt to _SKR [8s Ks]
+*** PRE-FLOP *** 
+_SKR raises 580 to 610 and is all-in
+MrJoyman calls 260 and is all-in
+*** FLOP *** [5c Kh 7h]
+*** TURN *** [5c Kh 7h][9h]
+*** RIVER *** [5c Kh 7h 9h][Jh]
+*** SHOW DOWN ***
+MrJoyman shows [6s Ac] (High card : Ace)
+_SKR shows [8s Ks] (One pair : Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c Kh 7h 9h Jh]
+Seat 1: _SKR (small blind) (button) showed [8s Ks] and won 900 with One pair : Kings
+Seat 3: MrJoyman (big blind) showed [6s Ac] and lost with High card : Ace
+
+

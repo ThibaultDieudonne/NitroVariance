@@ -1,0 +1,176 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717706080565067777-1-1676232284 - Holdem no limit (10/20) - 2023/02/12 20:04:44 UTC
+Table: 'Expresso Nitro(632765256)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aa-Ludi (300)
+Seat 2: Nikonosice (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Nikonosice posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5s 8c]
+*** PRE-FLOP *** 
+Aa-Ludi folds
+Nikonosice folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717706080565067777-2-1676232296 - Holdem no limit (10/20) - 2023/02/12 20:04:56 UTC
+Table: 'Expresso Nitro(632765256)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Aa-Ludi (300)
+Seat 2: Nikonosice (290)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Aa-Ludi posts big blind 20
+Dealt to _SKR [As Js]
+*** PRE-FLOP *** 
+Nikonosice raises 40 to 60
+_SKR raises 250 to 310 and is all-in
+Aa-Ludi calls 280 and is all-in
+Nikonosice calls 230 and is all-in
+*** FLOP *** [Ks 9c 9s]
+*** TURN *** [Ks 9c 9s][Ah]
+*** RIVER *** [Ks 9c 9s Ah][5c]
+*** SHOW DOWN ***
+Nikonosice shows [Qh Kd] (Two pairs : Kings and 9)
+Aa-Ludi shows [Ac Jd] (Two pairs : Aces and 9)
+_SKR shows [As Js] (Two pairs : Aces and 9)
+_SKR collected 455 from side pot 1
+Aa-Ludi collected 445 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks 9c 9s Ah 5c]
+Seat 1: Aa-Ludi (big blind) showed [Ac Jd] and won 445 with Two pairs : Aces and 9
+Seat 2: Nikonosice (button) showed [Qh Kd] and lost with Two pairs : Kings and 9
+Seat 3: _SKR (small blind) showed [As Js] and won 455 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717706080565067777-3-1676232315 - Holdem no limit (10/20) - 2023/02/12 20:05:15 UTC
+Table: 'Expresso Nitro(632765256)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aa-Ludi (445)
+Seat 3: _SKR (455)
+*** ANTE/BLINDS ***
+Aa-Ludi posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 6c]
+*** PRE-FLOP *** 
+Aa-Ludi calls 10
+_SKR raises 30 to 50
+Aa-Ludi raises 395 to 445 and is all-in
+_SKR calls 395
+*** FLOP *** [Jh 3h 5h]
+*** TURN *** [Jh 3h 5h][4s]
+*** RIVER *** [Jh 3h 5h 4s][Qd]
+*** SHOW DOWN ***
+_SKR shows [Ah 6c] (High card : Ace)
+Aa-Ludi shows [Ad Jd] (One pair : Jacks)
+Aa-Ludi collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [Jh 3h 5h 4s Qd]
+Seat 1: Aa-Ludi (small blind) (button) showed [Ad Jd] and won 890 with One pair : Jacks
+Seat 3: _SKR (big blind) showed [Ah 6c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717706080565067777-4-1676232337 - Holdem no limit (10/20) - 2023/02/12 20:05:37 UTC
+Table: 'Expresso Nitro(632765256)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Aa-Ludi (890)
+Seat 3: _SKR (10)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10 and is all-in
+Aa-Ludi posts big blind 20
+Dealt to _SKR [9s 6c]
+*** PRE-FLOP *** 
+*** FLOP *** [Jh 3h 6s]
+*** TURN *** [Jh 3h 6s][Tc]
+*** RIVER *** [Jh 3h 6s Tc][2d]
+*** SHOW DOWN ***
+Aa-Ludi shows [Ks 2s] (One pair : 2)
+_SKR shows [9s 6c] (One pair : 6)
+_SKR collected 20 from main pot
+Aa-Ludi collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [Jh 3h 6s Tc 2d]
+Seat 1: Aa-Ludi (big blind) showed [Ks 2s] and won 10 with One pair : 2
+Seat 3: _SKR (small blind) (button) showed [9s 6c] and won 20 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717706080565067777-5-1676232345 - Holdem no limit (15/30) - 2023/02/12 20:05:45 UTC
+Table: 'Expresso Nitro(632765256)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aa-Ludi (880)
+Seat 3: _SKR (20)
+*** ANTE/BLINDS ***
+Aa-Ludi posts small blind 15
+_SKR posts big blind 20 and is all-in
+Dealt to _SKR [3s 9d]
+*** PRE-FLOP *** 
+Aa-Ludi calls 15
+*** FLOP *** [2c Qh Kc]
+*** TURN *** [2c Qh Kc][5h]
+*** RIVER *** [2c Qh Kc 5h][8s]
+*** SHOW DOWN ***
+Aa-Ludi shows [6c 4c] (High card : King)
+_SKR shows [3s 9d] (High card : King)
+_SKR collected 40 from main pot
+Aa-Ludi collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [2c Qh Kc 5h 8s]
+Seat 1: Aa-Ludi (small blind) (button) showed [6c 4c] and won 10 with High card : King
+Seat 3: _SKR (big blind) showed [3s 9d] and won 40 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717706080565067777-6-1676232355 - Holdem no limit (15/30) - 2023/02/12 20:05:55 UTC
+Table: 'Expresso Nitro(632765256)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Aa-Ludi (860)
+Seat 3: _SKR (40)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Aa-Ludi posts big blind 30
+Dealt to _SKR [4s 9s]
+*** PRE-FLOP *** 
+_SKR raises 10 to 40 and is all-in
+Aa-Ludi calls 10
+*** FLOP *** [Ks Ac Jd]
+*** TURN *** [Ks Ac Jd][Ad]
+*** RIVER *** [Ks Ac Jd Ad][3h]
+*** SHOW DOWN ***
+Aa-Ludi shows [8s 7s] (One pair : Aces)
+_SKR shows [4s 9s] (One pair : Aces)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ks Ac Jd Ad 3h]
+Seat 1: Aa-Ludi (big blind) showed [8s 7s] and lost with One pair : Aces
+Seat 3: _SKR (small blind) (button) showed [4s 9s] and won 80 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717706080565067777-7-1676232369 - Holdem no limit (15/30) - 2023/02/12 20:06:09 UTC
+Table: 'Expresso Nitro(632765256)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Aa-Ludi (820)
+Seat 3: _SKR (80)
+*** ANTE/BLINDS ***
+Aa-Ludi posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3s 8s]
+*** PRE-FLOP *** 
+Aa-Ludi calls 15
+_SKR raises 50 to 80 and is all-in
+Aa-Ludi calls 50
+*** FLOP *** [Js 6d Tc]
+*** TURN *** [Js 6d Tc][2c]
+*** RIVER *** [Js 6d Tc 2c][6s]
+*** SHOW DOWN ***
+_SKR shows [3s 8s] (One pair : 6)
+Aa-Ludi shows [9h 9s] (Two pairs : 9 and 6)
+Aa-Ludi collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Js 6d Tc 2c 6s]
+Seat 1: Aa-Ludi (small blind) (button) showed [9h 9s] and won 160 with Two pairs : 9 and 6
+Seat 3: _SKR (big blind) showed [3s 8s] and lost with One pair : 6
+
+

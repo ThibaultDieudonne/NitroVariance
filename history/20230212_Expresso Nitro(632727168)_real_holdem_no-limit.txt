@@ -1,0 +1,61 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717542493850697729-1-1676226308 - Holdem no limit (10/20) - 2023/02/12 18:25:08 UTC
+Table: 'Expresso Nitro(632727168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: LAARKK (300)
+Seat 3: osteeeoo (300)
+*** ANTE/BLINDS ***
+osteeeoo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d 2d]
+*** PRE-FLOP *** 
+LAARKK folds
+osteeeoo calls 10
+_SKR checks
+*** FLOP *** [Th 4s 9d]
+osteeeoo checks
+_SKR checks
+*** TURN *** [Th 4s 9d][Kd]
+osteeeoo bets 20
+_SKR calls 20
+*** RIVER *** [Th 4s 9d Kd][3c]
+osteeeoo bets 20
+_SKR calls 20
+*** SHOW DOWN ***
+_SKR shows [3d 2d] (One pair : 3)
+osteeeoo shows [Jd 4c] (One pair : 4)
+osteeeoo collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Th 4s 9d Kd 3c]
+Seat 1: _SKR (big blind) showed [3d 2d] and lost with One pair : 3
+Seat 3: osteeeoo (small blind) showed [Jd 4c] and won 120 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717542493850697729-2-1676226343 - Holdem no limit (10/20) - 2023/02/12 18:25:43 UTC
+Table: 'Expresso Nitro(632727168)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (240)
+Seat 2: LAARKK (300)
+Seat 3: osteeeoo (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+LAARKK posts big blind 20
+Dealt to _SKR [Ah Qc]
+*** PRE-FLOP *** 
+osteeeoo calls 20
+_SKR raises 220 to 240 and is all-in
+LAARKK raises 60 to 300 and is all-in
+osteeeoo folds
+*** FLOP *** [6h Jh 7d]
+*** TURN *** [6h Jh 7d][8s]
+*** RIVER *** [6h Jh 7d 8s][9c]
+*** SHOW DOWN ***
+_SKR shows [Ah Qc] (High card : Ace)
+LAARKK shows [Kc Ac] (High card : Ace)
+LAARKK collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6h Jh 7d 8s 9c]
+Seat 1: _SKR (small blind) showed [Ah Qc] and lost with High card : Ace
+Seat 2: LAARKK (big blind) showed [Kc Ac] and won 560 with High card : Ace
+
+

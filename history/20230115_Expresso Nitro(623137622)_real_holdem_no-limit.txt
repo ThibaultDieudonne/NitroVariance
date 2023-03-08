@@ -1,0 +1,384 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676355707397210113-1-1673821128 - Holdem no limit (10/20) - 2023/01/15 22:18:48 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pe-ik (300)
+Seat 2: Carelo96 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Pe-ik posts big blind 20
+Dealt to _SKR [7d 8s]
+*** PRE-FLOP *** 
+Carelo96 calls 20
+_SKR folds
+Pe-ik checks
+*** FLOP *** [2d Td 9c]
+Pe-ik checks
+Carelo96 checks
+*** TURN *** [2d Td 9c][Jd]
+Pe-ik checks
+Carelo96 checks
+*** RIVER *** [2d Td 9c Jd][Kc]
+Pe-ik bets 20
+Carelo96 raises 52 to 72
+Pe-ik calls 52
+*** SHOW DOWN ***
+Pe-ik shows [Kh 6s] (One pair : Kings)
+Carelo96 shows [Qc Ah] (Straight Ace high)
+Carelo96 collected 194 from pot
+*** SUMMARY ***
+Total pot 194 | No rake
+Board: [2d Td 9c Jd Kc]
+Seat 1: Pe-ik (big blind) showed [Kh 6s] and lost with One pair : Kings
+Seat 2: Carelo96 (button) showed [Qc Ah] and won 194 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676355707397210113-2-1673821153 - Holdem no limit (10/20) - 2023/01/15 22:19:13 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pe-ik (208)
+Seat 2: Carelo96 (402)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Pe-ik posts small blind 10
+Carelo96 posts big blind 20
+Dealt to _SKR [Kh Tc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Pe-ik calls 30
+Carelo96 calls 20
+*** FLOP *** [8d Kd Qd]
+Pe-ik checks
+Carelo96 checks
+_SKR bets 60
+Pe-ik folds
+Carelo96 folds
+_SKR collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [8d Kd Qd]
+Seat 3: _SKR (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676355707397210113-3-1673821175 - Holdem no limit (10/20) - 2023/01/15 22:19:35 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pe-ik (168)
+Seat 2: Carelo96 (362)
+Seat 3: _SKR (370)
+*** ANTE/BLINDS ***
+Carelo96 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd 4s]
+*** PRE-FLOP *** 
+Pe-ik folds
+Carelo96 calls 10
+_SKR checks
+*** FLOP *** [7d 2s 5s]
+Carelo96 bets 20
+_SKR folds
+Carelo96 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7d 2s 5s]
+Seat 2: Carelo96 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676355707397210113-4-1673821211 - Holdem no limit (15/30) - 2023/01/15 22:20:11 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pe-ik (168)
+Seat 2: Carelo96 (382)
+Seat 3: _SKR (350)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Pe-ik posts big blind 30
+Dealt to _SKR [Qh 5h]
+*** PRE-FLOP *** 
+Carelo96 calls 30
+_SKR folds
+Pe-ik checks
+*** FLOP *** [9d 7s 7h]
+Pe-ik checks
+Carelo96 checks
+*** TURN *** [9d 7s 7h][Td]
+Pe-ik checks
+Carelo96 checks
+*** RIVER *** [9d 7s 7h Td][8c]
+Pe-ik checks
+Carelo96 checks
+*** SHOW DOWN ***
+Carelo96 shows [5c 4c] (One pair : 7)
+Pe-ik shows [9c Qd] (Two pairs : 9 and 7)
+Pe-ik collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [9d 7s 7h Td 8c]
+Seat 1: Pe-ik (big blind) showed [9c Qd] and won 75 with Two pairs : 9 and 7
+Seat 2: Carelo96 (button) showed [5c 4c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676355707397210113-5-1673821238 - Holdem no limit (15/30) - 2023/01/15 22:20:38 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pe-ik (213)
+Seat 2: Carelo96 (352)
+Seat 3: _SKR (335)
+*** ANTE/BLINDS ***
+Pe-ik posts small blind 15
+Carelo96 posts big blind 30
+Dealt to _SKR [6c 9d]
+*** PRE-FLOP *** 
+_SKR folds
+Pe-ik calls 15
+Carelo96 checks
+*** FLOP *** [6h Kh 2h]
+Pe-ik checks
+Carelo96 checks
+*** TURN *** [6h Kh 2h][3s]
+Pe-ik checks
+Carelo96 checks
+*** RIVER *** [6h Kh 2h 3s][8d]
+Pe-ik checks
+Carelo96 checks
+*** SHOW DOWN ***
+Carelo96 shows [4s Qd] (High card : King)
+Pe-ik shows [Jd 2s] (One pair : 2)
+Pe-ik collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6h Kh 2h 3s 8d]
+Seat 1: Pe-ik (small blind) showed [Jd 2s] and won 60 with One pair : 2
+Seat 2: Carelo96 (big blind) showed [4s Qd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676355707397210113-6-1673821269 - Holdem no limit (20/40) - 2023/01/15 22:21:09 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pe-ik (243)
+Seat 2: Carelo96 (322)
+Seat 3: _SKR (335)
+*** ANTE/BLINDS ***
+Carelo96 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js Tc]
+*** PRE-FLOP *** 
+Pe-ik folds
+Carelo96 calls 20
+_SKR raises 295 to 335 and is all-in
+Carelo96 folds
+_SKR collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Seat 3: _SKR (big blind) won 375
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676355707397210113-7-1673821284 - Holdem no limit (20/40) - 2023/01/15 22:21:24 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pe-ik (243)
+Seat 2: Carelo96 (282)
+Seat 3: _SKR (375)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Pe-ik posts big blind 40
+Dealt to _SKR [Qh 3d]
+*** PRE-FLOP *** 
+Carelo96 calls 40
+_SKR folds
+Pe-ik checks
+*** FLOP *** [4s 3h 4c]
+Pe-ik checks
+Carelo96 bets 242 and is all-in
+Pe-ik folds
+Carelo96 collected 342 from pot
+*** SUMMARY ***
+Total pot 342 | No rake
+Board: [4s 3h 4c]
+Seat 2: Carelo96 (button) won 342
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2676355707397210113-8-1673821301 - Holdem no limit (20/40) - 2023/01/15 22:21:41 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pe-ik (203)
+Seat 2: Carelo96 (342)
+Seat 3: _SKR (355)
+*** ANTE/BLINDS ***
+Pe-ik posts small blind 20
+Carelo96 posts big blind 40
+Dealt to _SKR [Jc 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Pe-ik calls 20
+Carelo96 checks
+*** FLOP *** [9d 2s 8s]
+Pe-ik checks
+Carelo96 checks
+*** TURN *** [9d 2s 8s][6h]
+Pe-ik bets 163 and is all-in
+Carelo96 folds
+Pe-ik collected 243 from pot
+*** SUMMARY ***
+Total pot 243 | No rake
+Board: [9d 2s 8s 6h]
+Seat 1: Pe-ik (small blind) won 243
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676355707397210113-9-1673821319 - Holdem no limit (30/60) - 2023/01/15 22:21:59 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pe-ik (243)
+Seat 2: Carelo96 (302)
+Seat 3: _SKR (355)
+*** ANTE/BLINDS ***
+Carelo96 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5d 2d]
+*** PRE-FLOP *** 
+Pe-ik folds
+Carelo96 calls 30
+_SKR checks
+*** FLOP *** [Kc 2s Jh]
+Carelo96 checks
+_SKR checks
+*** TURN *** [Kc 2s Jh][Qd]
+Carelo96 checks
+_SKR checks
+*** RIVER *** [Kc 2s Jh Qd][Td]
+Carelo96 bets 60
+_SKR folds
+Carelo96 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Kc 2s Jh Qd Td]
+Seat 2: Carelo96 (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2676355707397210113-10-1673821349 - Holdem no limit (30/60) - 2023/01/15 22:22:29 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pe-ik (243)
+Seat 2: Carelo96 (362)
+Seat 3: _SKR (295)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Pe-ik posts big blind 60
+Dealt to _SKR [Qh Qs]
+*** PRE-FLOP *** 
+Carelo96 calls 60
+_SKR raises 235 to 295 and is all-in
+Pe-ik folds
+Carelo96 folds
+_SKR collected 415 from pot
+*** SUMMARY ***
+Total pot 415 | No rake
+Seat 3: _SKR (small blind) won 415
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676355707397210113-11-1673821365 - Holdem no limit (40/80) - 2023/01/15 22:22:45 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pe-ik (183)
+Seat 2: Carelo96 (302)
+Seat 3: _SKR (415)
+*** ANTE/BLINDS ***
+Pe-ik posts small blind 40
+Carelo96 posts big blind 80
+Dealt to _SKR [3h 9h]
+*** PRE-FLOP *** 
+_SKR folds
+Pe-ik raises 103 to 183 and is all-in
+Carelo96 folds
+Pe-ik collected 263 from pot
+*** SUMMARY ***
+Total pot 263 | No rake
+Seat 1: Pe-ik (small blind) won 263
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676355707397210113-12-1673821371 - Holdem no limit (40/80) - 2023/01/15 22:22:51 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pe-ik (263)
+Seat 2: Carelo96 (222)
+Seat 3: _SKR (415)
+*** ANTE/BLINDS ***
+Carelo96 posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [5c 2d]
+*** PRE-FLOP *** 
+Pe-ik folds
+Carelo96 calls 40
+_SKR checks
+*** FLOP *** [Kh Ts 2h]
+Carelo96 checks
+_SKR checks
+*** TURN *** [Kh Ts 2h][6c]
+Carelo96 checks
+_SKR checks
+*** RIVER *** [Kh Ts 2h 6c][2s]
+Carelo96 checks
+_SKR bets 160
+Carelo96 calls 142 and is all-in
+*** SHOW DOWN ***
+Carelo96 shows [3c Ah] (One pair : 2)
+_SKR shows [5c 2d] (Trips of 2)
+_SKR collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | No rake
+Board: [Kh Ts 2h 6c 2s]
+Seat 2: Carelo96 (small blind) showed [3c Ah] and lost with One pair : 2
+Seat 3: _SKR (big blind) showed [5c 2d] and won 462 with Trips of 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676355707397210113-13-1673821407 - Holdem no limit (40/80) - 2023/01/15 22:23:27 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pe-ik (263)
+Seat 3: _SKR (637)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Pe-ik posts big blind 80
+Dealt to _SKR [3c 4d]
+*** PRE-FLOP *** 
+_SKR folds
+Pe-ik collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Pe-ik (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2676355707397210113-14-1673821413 - Holdem no limit (40/80) - 2023/01/15 22:23:33 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pe-ik (303)
+Seat 3: _SKR (597)
+*** ANTE/BLINDS ***
+Pe-ik posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [3d Js]
+*** PRE-FLOP *** 
+Pe-ik calls 40
+_SKR checks
+*** FLOP *** [4d 7d 8c]
+_SKR checks
+Pe-ik bets 223 and is all-in
+_SKR folds
+Pe-ik collected 383 from pot
+*** SUMMARY ***
+Total pot 383 | No rake
+Board: [4d 7d 8c]
+Seat 1: Pe-ik (small blind) (button) won 383
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2676355707397210113-15-1673821435 - Holdem no limit (50/100) - 2023/01/15 22:23:55 UTC
+Table: 'Expresso Nitro(623137622)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pe-ik (383)
+Seat 3: _SKR (517)
+*** ANTE/BLINDS ***
+_SKR posts small blind 50
+Pe-ik posts big blind 100
+Dealt to _SKR [Jc Tc]
+*** PRE-FLOP *** 
+_SKR raises 417 to 517 and is all-in
+Pe-ik calls 283 and is all-in
+*** FLOP *** [3d 4h Jd]
+*** TURN *** [3d 4h Jd][9d]
+*** RIVER *** [3d 4h Jd 9d][7c]
+*** SHOW DOWN ***
+Pe-ik shows [As 6s] (High card : Ace)
+_SKR shows [Jc Tc] (One pair : Jacks)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 4h Jd 9d 7c]
+Seat 1: Pe-ik (big blind) showed [As 6s] and lost with High card : Ace
+Seat 3: _SKR (small blind) (button) showed [Jc Tc] and won 900 with One pair : Jacks
+
+

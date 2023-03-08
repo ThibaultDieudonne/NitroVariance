@@ -1,0 +1,123 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721177045500428289-1-1676418307 - Holdem no limit (10/20) - 2023/02/14 23:45:07 UTC
+Table: 'Expresso Nitro(633573403)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Cedarman (300)
+Seat 3: Selecta (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cedarman posts big blind 20
+Dealt to _SKR [Qh Ah]
+*** PRE-FLOP *** 
+Selecta raises 280 to 300 and is all-in
+_SKR calls 290 and is all-in
+Cedarman folds
+*** FLOP *** [Th 5d Kh]
+*** TURN *** [Th 5d Kh][9h]
+*** RIVER *** [Th 5d Kh 9h][Jc]
+*** SHOW DOWN ***
+Selecta shows [8c 8d] (One pair : 8)
+_SKR shows [Qh Ah] (Flush Ace high)
+_SKR collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Th 5d Kh 9h Jc]
+Seat 1: _SKR (small blind) showed [Qh Ah] and won 620 with Flush Ace high
+Seat 3: Selecta (button) showed [8c 8d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721177045500428289-2-1676418323 - Holdem no limit (10/20) - 2023/02/14 23:45:23 UTC
+Table: 'Expresso Nitro(633573403)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (620)
+Seat 2: Cedarman (280)
+*** ANTE/BLINDS ***
+Cedarman posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s Tc]
+*** PRE-FLOP *** 
+Cedarman calls 10
+_SKR checks
+*** FLOP *** [Kc 8c Qs]
+_SKR checks
+Cedarman bets 40
+_SKR folds
+Cedarman collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kc 8c Qs]
+Seat 2: Cedarman (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2721177045500428289-3-1676418343 - Holdem no limit (10/20) - 2023/02/14 23:45:43 UTC
+Table: 'Expresso Nitro(633573403)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 2: Cedarman (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Cedarman posts big blind 20
+Dealt to _SKR [Kh 6s]
+*** PRE-FLOP *** 
+_SKR calls 10
+Cedarman checks
+*** FLOP *** [5h Tc Th]
+Cedarman checks
+_SKR checks
+*** TURN *** [5h Tc Th][5s]
+Cedarman checks
+_SKR checks
+*** RIVER *** [5h Tc Th 5s][3c]
+Cedarman bets 40
+_SKR folds
+Cedarman collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5h Tc Th 5s 3c]
+Seat 2: Cedarman (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721177045500428289-4-1676418375 - Holdem no limit (15/30) - 2023/02/14 23:46:15 UTC
+Table: 'Expresso Nitro(633573403)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (580)
+Seat 2: Cedarman (320)
+*** ANTE/BLINDS ***
+Cedarman posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qh Qs]
+*** PRE-FLOP *** 
+Cedarman calls 15
+_SKR raises 45 to 75
+Cedarman calls 45
+*** FLOP *** [3s 3d Jh]
+_SKR bets 53
+Cedarman folds
+_SKR collected 203 from pot
+*** SUMMARY ***
+Total pot 203 | No rake
+Board: [3s 3d Jh]
+Seat 1: _SKR (big blind) won 203
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2721177045500428289-5-1676418389 - Holdem no limit (15/30) - 2023/02/14 23:46:29 UTC
+Table: 'Expresso Nitro(633573403)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (655)
+Seat 2: Cedarman (245)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Cedarman posts big blind 30
+Dealt to _SKR [4s Kh]
+*** PRE-FLOP *** 
+_SKR raises 625 to 655 and is all-in
+Cedarman calls 215 and is all-in
+*** FLOP *** [6h 4d 4c]
+*** TURN *** [6h 4d 4c][Kc]
+*** RIVER *** [6h 4d 4c Kc][Qd]
+*** SHOW DOWN ***
+Cedarman shows [2s Js] (One pair : 4)
+_SKR shows [4s Kh] (Full of 4 and Kings)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6h 4d 4c Kc Qd]
+Seat 1: _SKR (small blind) (button) showed [4s Kh] and won 900 with Full of 4 and Kings
+Seat 2: Cedarman (big blind) showed [2s Js] and lost with One pair : 4
+
+

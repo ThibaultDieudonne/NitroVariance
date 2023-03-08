@@ -1,0 +1,354 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717606664957067265-1-1676228669 - Holdem no limit (10/20) - 2023/02/12 19:04:29 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: tibal76 (300)
+Seat 3: Floetcaicha (300)
+*** ANTE/BLINDS ***
+Floetcaicha posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 7d]
+*** PRE-FLOP *** 
+tibal76 raises 20 to 40
+Floetcaicha folds
+_SKR folds
+tibal76 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: tibal76 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717606664957067265-2-1676228684 - Holdem no limit (10/20) - 2023/02/12 19:04:44 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: tibal76 (330)
+Seat 3: Floetcaicha (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tibal76 posts big blind 20
+Dealt to _SKR [8d Js]
+*** PRE-FLOP *** 
+Floetcaicha raises 50 to 70
+_SKR folds
+tibal76 raises 260 to 330 and is all-in
+Floetcaicha calls 220 and is all-in
+*** FLOP *** [6c Ts Ks]
+*** TURN *** [6c Ts Ks][9d]
+*** RIVER *** [6c Ts Ks 9d][As]
+*** SHOW DOWN ***
+tibal76 shows [Jh Ac] (One pair : Aces)
+Floetcaicha shows [Kd Ad] (Two pairs : Aces and Kings)
+Floetcaicha collected 590 from main pot
+tibal76 collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [6c Ts Ks 9d As]
+Seat 2: tibal76 (big blind) showed [Jh Ac] and won 40 with One pair : Aces
+Seat 3: Floetcaicha (button) showed [Kd Ad] and won 590 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717606664957067265-3-1676228724 - Holdem no limit (10/20) - 2023/02/12 19:05:24 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: tibal76 (40)
+Seat 3: Floetcaicha (590)
+*** ANTE/BLINDS ***
+tibal76 posts small blind 10
+Floetcaicha posts big blind 20
+Dealt to _SKR [Qs 5s]
+*** PRE-FLOP *** 
+_SKR folds
+tibal76 raises 20 to 40 and is all-in
+Floetcaicha folds
+tibal76 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: tibal76 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717606664957067265-4-1676228733 - Holdem no limit (15/30) - 2023/02/12 19:05:33 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: tibal76 (60)
+Seat 3: Floetcaicha (570)
+*** ANTE/BLINDS ***
+Floetcaicha posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3s 6d]
+*** PRE-FLOP *** 
+tibal76 raises 30 to 60 and is all-in
+Floetcaicha calls 45
+_SKR folds
+*** FLOP *** [Th 9c 9d]
+*** TURN *** [Th 9c 9d][2h]
+*** RIVER *** [Th 9c 9d 2h][7c]
+*** SHOW DOWN ***
+tibal76 shows [3h Kc] (One pair : 9)
+Floetcaicha shows [5c 5s] (Two pairs : 9 and 5)
+Floetcaicha collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Th 9c 9d 2h 7c]
+Seat 2: tibal76 (button) showed [3h Kc] and lost with One pair : 9
+Seat 3: Floetcaicha (small blind) showed [5c 5s] and won 150 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717606664957067265-5-1676228749 - Holdem no limit (15/30) - 2023/02/12 19:05:49 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (240)
+Seat 3: Floetcaicha (660)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Floetcaicha posts big blind 30
+Dealt to _SKR [Ah 4s]
+*** PRE-FLOP *** 
+_SKR raises 210 to 240 and is all-in
+Floetcaicha calls 210
+*** FLOP *** [9d 6h Qc]
+*** TURN *** [9d 6h Qc][2c]
+*** RIVER *** [9d 6h Qc 2c][5c]
+*** SHOW DOWN ***
+Floetcaicha shows [Kd 8h] (High card : King)
+_SKR shows [Ah 4s] (High card : Ace)
+_SKR collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [9d 6h Qc 2c 5c]
+Seat 1: _SKR (small blind) (button) showed [Ah 4s] and won 480 with High card : Ace
+Seat 3: Floetcaicha (big blind) showed [Kd 8h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717606664957067265-6-1676228764 - Holdem no limit (15/30) - 2023/02/12 19:06:04 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (480)
+Seat 3: Floetcaicha (420)
+*** ANTE/BLINDS ***
+Floetcaicha posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc 5d]
+*** PRE-FLOP *** 
+Floetcaicha calls 15
+_SKR checks
+*** FLOP *** [8c 2c Jh]
+_SKR checks
+Floetcaicha checks
+*** TURN *** [8c 2c Jh][Th]
+_SKR checks
+Floetcaicha checks
+*** RIVER *** [8c 2c Jh Th][Td]
+_SKR checks
+Floetcaicha bets 390 and is all-in
+_SKR folds
+Floetcaicha collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [8c 2c Jh Th Td]
+Seat 3: Floetcaicha (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717606664957067265-7-1676228788 - Holdem no limit (20/40) - 2023/02/12 19:06:28 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (450)
+Seat 3: Floetcaicha (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Floetcaicha posts big blind 40
+Dealt to _SKR [Th 7d]
+*** PRE-FLOP *** 
+_SKR folds
+Floetcaicha collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Floetcaicha (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717606664957067265-8-1676228801 - Holdem no limit (20/40) - 2023/02/12 19:06:41 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (430)
+Seat 3: Floetcaicha (470)
+*** ANTE/BLINDS ***
+Floetcaicha posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s 8h]
+*** PRE-FLOP *** 
+Floetcaicha calls 20
+_SKR checks
+*** FLOP *** [2s 2h Qd]
+_SKR checks
+Floetcaicha checks
+*** TURN *** [2s 2h Qd][Qc]
+_SKR checks
+Floetcaicha bets 80
+_SKR folds
+Floetcaicha collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [2s 2h Qd Qc]
+Seat 3: Floetcaicha (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717606664957067265-9-1676228838 - Holdem no limit (20/40) - 2023/02/12 19:07:18 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (390)
+Seat 3: Floetcaicha (510)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Floetcaicha posts big blind 40
+Dealt to _SKR [8s 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Floetcaicha collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Floetcaicha (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717606664957067265-10-1676228842 - Holdem no limit (20/40) - 2023/02/12 19:07:22 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (370)
+Seat 3: Floetcaicha (530)
+*** ANTE/BLINDS ***
+Floetcaicha posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6h Ks]
+*** PRE-FLOP *** 
+Floetcaicha folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717606664957067265-11-1676228846 - Holdem no limit (30/60) - 2023/02/12 19:07:26 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (390)
+Seat 3: Floetcaicha (510)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Floetcaicha posts big blind 60
+Dealt to _SKR [Td 5c]
+*** PRE-FLOP *** 
+_SKR folds
+Floetcaicha collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Floetcaicha (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717606664957067265-12-1676228850 - Holdem no limit (30/60) - 2023/02/12 19:07:30 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (360)
+Seat 3: Floetcaicha (540)
+*** ANTE/BLINDS ***
+Floetcaicha posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9d 7d]
+*** PRE-FLOP *** 
+Floetcaicha raises 120 to 180
+_SKR folds
+Floetcaicha collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: Floetcaicha (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717606664957067265-13-1676228858 - Holdem no limit (30/60) - 2023/02/12 19:07:38 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 3: Floetcaicha (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Floetcaicha posts big blind 60
+Dealt to _SKR [6h Jd]
+*** PRE-FLOP *** 
+_SKR raises 240 to 300 and is all-in
+Floetcaicha folds
+_SKR collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: _SKR (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717606664957067265-14-1676228866 - Holdem no limit (30/60) - 2023/02/12 19:07:46 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (360)
+Seat 3: Floetcaicha (540)
+*** ANTE/BLINDS ***
+Floetcaicha posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [7c 2s]
+*** PRE-FLOP *** 
+Floetcaicha calls 30
+_SKR checks
+*** FLOP *** [Ac Jd 6h]
+_SKR checks
+Floetcaicha checks
+*** TURN *** [Ac Jd 6h][6s]
+_SKR checks
+Floetcaicha bets 480 and is all-in
+_SKR folds
+Floetcaicha collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ac Jd 6h 6s]
+Seat 3: Floetcaicha (small blind) (button) won 600
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717606664957067265-15-1676228885 - Holdem no limit (30/60) - 2023/02/12 19:08:05 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 3: Floetcaicha (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Floetcaicha posts big blind 60
+Dealt to _SKR [5s 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Floetcaicha collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Floetcaicha (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717606664957067265-16-1676228888 - Holdem no limit (30/60) - 2023/02/12 19:08:08 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 3: Floetcaicha (630)
+*** ANTE/BLINDS ***
+Floetcaicha posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [As 5d]
+*** PRE-FLOP *** 
+Floetcaicha calls 30
+_SKR raises 210 to 270 and is all-in
+Floetcaicha folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717606664957067265-17-1676228897 - Holdem no limit (30/60) - 2023/02/12 19:08:17 UTC
+Table: 'Expresso Nitro(632742109)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (330)
+Seat 3: Floetcaicha (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Floetcaicha posts big blind 60
+Dealt to _SKR [Qh Jc]
+*** PRE-FLOP *** 
+_SKR raises 270 to 330 and is all-in
+Floetcaicha calls 270
+*** FLOP *** [Kc 4s Kd]
+*** TURN *** [Kc 4s Kd][5c]
+*** RIVER *** [Kc 4s Kd 5c][2s]
+*** SHOW DOWN ***
+_SKR shows [Qh Jc] (One pair : Kings)
+Floetcaicha shows [Ks Tc] (Trips of Kings)
+Floetcaicha collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Kc 4s Kd 5c 2s]
+Seat 1: _SKR (small blind) (button) showed [Qh Jc] and lost with One pair : Kings
+Seat 3: Floetcaicha (big blind) showed [Ks Tc] and won 660 with Trips of Kings
+
+

@@ -1,0 +1,400 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717294253330923521-1-1676216151 - Holdem no limit (10/20) - 2023/02/12 15:35:51 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #1 is the button
+Seat 1: j_d4vid (300)
+Seat 2: _SKR (300)
+Seat 3: Sick At Rice (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Sick At Rice posts big blind 20
+Dealt to _SKR [3c 8c]
+*** PRE-FLOP *** 
+j_d4vid raises 20 to 40
+_SKR folds
+Sick At Rice folds
+j_d4vid collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: j_d4vid (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717294253330923521-2-1676216164 - Holdem no limit (10/20) - 2023/02/12 15:36:04 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #2 is the button
+Seat 1: j_d4vid (330)
+Seat 2: _SKR (290)
+Seat 3: Sick At Rice (280)
+*** ANTE/BLINDS ***
+Sick At Rice posts small blind 10
+j_d4vid posts big blind 20
+Dealt to _SKR [5c 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Sick At Rice calls 10
+j_d4vid checks
+*** FLOP *** [5h 8d 3s]
+Sick At Rice bets 260 and is all-in
+j_d4vid folds
+Sick At Rice collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [5h 8d 3s]
+Seat 3: Sick At Rice (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717294253330923521-3-1676216181 - Holdem no limit (10/20) - 2023/02/12 15:36:21 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #3 is the button
+Seat 1: j_d4vid (310)
+Seat 2: _SKR (290)
+Seat 3: Sick At Rice (300)
+*** ANTE/BLINDS ***
+j_d4vid posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d 6s]
+*** PRE-FLOP *** 
+Sick At Rice folds
+j_d4vid calls 10
+_SKR checks
+*** FLOP *** [7h Kd Ac]
+j_d4vid checks
+_SKR checks
+*** TURN *** [7h Kd Ac][3c]
+j_d4vid checks
+_SKR checks
+*** RIVER *** [7h Kd Ac 3c][Td]
+j_d4vid checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [2d 6s] (High card : Ace)
+j_d4vid shows [Jh 7d] (One pair : 7)
+j_d4vid collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [7h Kd Ac 3c Td]
+Seat 1: j_d4vid (small blind) showed [Jh 7d] and won 40 with One pair : 7
+Seat 2: _SKR (big blind) showed [2d 6s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717294253330923521-4-1676216245 - Holdem no limit (15/30) - 2023/02/12 15:37:25 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #1 is the button
+Seat 1: j_d4vid (330)
+Seat 2: _SKR (270)
+Seat 3: Sick At Rice (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Sick At Rice posts big blind 30
+Dealt to _SKR [8c Qc]
+*** PRE-FLOP *** 
+j_d4vid calls 30
+_SKR raises 240 to 270 and is all-in
+Sick At Rice folds
+j_d4vid folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: _SKR (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717294253330923521-5-1676216261 - Holdem no limit (15/30) - 2023/02/12 15:37:41 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #2 is the button
+Seat 1: j_d4vid (300)
+Seat 2: _SKR (330)
+Seat 3: Sick At Rice (270)
+*** ANTE/BLINDS ***
+Sick At Rice posts small blind 15
+j_d4vid posts big blind 30
+Dealt to _SKR [9c 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Sick At Rice folds
+j_d4vid collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: j_d4vid (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717294253330923521-6-1676216266 - Holdem no limit (15/30) - 2023/02/12 15:37:46 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #3 is the button
+Seat 1: j_d4vid (315)
+Seat 2: _SKR (330)
+Seat 3: Sick At Rice (255)
+*** ANTE/BLINDS ***
+j_d4vid posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Td Qc]
+*** PRE-FLOP *** 
+Sick At Rice folds
+j_d4vid calls 15
+_SKR checks
+*** FLOP *** [4d Th Ks]
+j_d4vid bets 30
+_SKR calls 30
+*** TURN *** [4d Th Ks][Qd]
+j_d4vid bets 90
+_SKR calls 90
+*** RIVER *** [4d Th Ks Qd][8s]
+j_d4vid bets 165 and is all-in
+_SKR calls 165
+*** SHOW DOWN ***
+j_d4vid shows [Kd 7c] (One pair : Kings)
+_SKR shows [Td Qc] (Two pairs : Queens and Tens)
+_SKR collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [4d Th Ks Qd 8s]
+Seat 1: j_d4vid (small blind) showed [Kd 7c] and lost with One pair : Kings
+Seat 2: _SKR (big blind) showed [Td Qc] and won 630 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717294253330923521-7-1676216310 - Holdem no limit (20/40) - 2023/02/12 15:38:30 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (645)
+Seat 3: Sick At Rice (255)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Sick At Rice posts big blind 40
+Dealt to _SKR [9h Kh]
+*** PRE-FLOP *** 
+_SKR raises 605 to 645 and is all-in
+Sick At Rice folds
+_SKR collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Seat 2: _SKR (small blind) (button) won 685
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717294253330923521-8-1676216315 - Holdem no limit (20/40) - 2023/02/12 15:38:35 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (685)
+Seat 3: Sick At Rice (215)
+*** ANTE/BLINDS ***
+Sick At Rice posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [6s Kd]
+*** PRE-FLOP *** 
+Sick At Rice folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717294253330923521-9-1676216319 - Holdem no limit (20/40) - 2023/02/12 15:38:39 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (705)
+Seat 3: Sick At Rice (195)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Sick At Rice posts big blind 40
+Dealt to _SKR [7d 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Sick At Rice collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Sick At Rice (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717294253330923521-10-1676216323 - Holdem no limit (20/40) - 2023/02/12 15:38:43 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (685)
+Seat 3: Sick At Rice (215)
+*** ANTE/BLINDS ***
+Sick At Rice posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2s Jh]
+*** PRE-FLOP *** 
+Sick At Rice raises 175 to 215 and is all-in
+_SKR folds
+Sick At Rice collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 3: Sick At Rice (small blind) (button) won 255
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-11-1676216329 - Holdem no limit (30/60) - 2023/02/12 15:38:49 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (645)
+Seat 3: Sick At Rice (255)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Sick At Rice posts big blind 60
+Dealt to _SKR [5c Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Sick At Rice collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Sick At Rice (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-12-1676216333 - Holdem no limit (30/60) - 2023/02/12 15:38:53 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (615)
+Seat 3: Sick At Rice (285)
+*** ANTE/BLINDS ***
+Sick At Rice posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9c 7c]
+*** PRE-FLOP *** 
+Sick At Rice folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-13-1676216337 - Holdem no limit (30/60) - 2023/02/12 15:38:57 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (645)
+Seat 3: Sick At Rice (255)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Sick At Rice posts big blind 60
+Dealt to _SKR [Qs Ts]
+*** PRE-FLOP *** 
+_SKR raises 585 to 645 and is all-in
+Sick At Rice folds
+_SKR collected 705 from pot
+*** SUMMARY ***
+Total pot 705 | No rake
+Seat 2: _SKR (small blind) (button) won 705
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-14-1676216350 - Holdem no limit (30/60) - 2023/02/12 15:39:10 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (705)
+Seat 3: Sick At Rice (195)
+*** ANTE/BLINDS ***
+Sick At Rice posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [4c 9s]
+*** PRE-FLOP *** 
+Sick At Rice raises 135 to 195 and is all-in
+_SKR folds
+Sick At Rice collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 3: Sick At Rice (small blind) (button) won 255
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-15-1676216356 - Holdem no limit (30/60) - 2023/02/12 15:39:16 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (645)
+Seat 3: Sick At Rice (255)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Sick At Rice posts big blind 60
+Dealt to _SKR [5d 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Sick At Rice collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Sick At Rice (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-16-1676216360 - Holdem no limit (30/60) - 2023/02/12 15:39:20 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (615)
+Seat 3: Sick At Rice (285)
+*** ANTE/BLINDS ***
+Sick At Rice posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5s 9s]
+*** PRE-FLOP *** 
+Sick At Rice folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-17-1676216363 - Holdem no limit (30/60) - 2023/02/12 15:39:23 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (645)
+Seat 3: Sick At Rice (255)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Sick At Rice posts big blind 60
+Dealt to _SKR [2h 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Sick At Rice collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Sick At Rice (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-18-1676216367 - Holdem no limit (30/60) - 2023/02/12 15:39:27 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (615)
+Seat 3: Sick At Rice (285)
+*** ANTE/BLINDS ***
+Sick At Rice posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3d 4h]
+*** PRE-FLOP *** 
+Sick At Rice raises 225 to 285 and is all-in
+_SKR folds
+Sick At Rice collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 3: Sick At Rice (small blind) (button) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-19-1676216373 - Holdem no limit (30/60) - 2023/02/12 15:39:33 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (555)
+Seat 3: Sick At Rice (345)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Sick At Rice posts big blind 60
+Dealt to _SKR [6s Td]
+*** PRE-FLOP *** 
+_SKR folds
+Sick At Rice collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Sick At Rice (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-20-1676216381 - Holdem no limit (30/60) - 2023/02/12 15:39:41 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (525)
+Seat 3: Sick At Rice (375)
+*** ANTE/BLINDS ***
+Sick At Rice posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ah 7s]
+*** PRE-FLOP *** 
+Sick At Rice folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717294253330923521-21-1676216386 - Holdem no limit (30/60) - 2023/02/12 15:39:46 UTC
+Table: 'Expresso Nitro(632669370)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (555)
+Seat 3: Sick At Rice (345)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Sick At Rice posts big blind 60
+Dealt to _SKR [5c 5h]
+*** PRE-FLOP *** 
+_SKR raises 495 to 555 and is all-in
+Sick At Rice calls 285 and is all-in
+*** FLOP *** [4s Qd 3h]
+*** TURN *** [4s Qd 3h][6h]
+*** RIVER *** [4s Qd 3h 6h][7h]
+*** SHOW DOWN ***
+Sick At Rice shows [Ks Js] (High card : King)
+_SKR shows [5c 5h] (Straight 7 high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s Qd 3h 6h 7h]
+Seat 2: _SKR (small blind) (button) showed [5c 5h] and won 900 with Straight 7 high
+Seat 3: Sick At Rice (big blind) showed [Ks Js] and lost with High card : King
+
+

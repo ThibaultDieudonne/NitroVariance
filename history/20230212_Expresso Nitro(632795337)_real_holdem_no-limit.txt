@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717835277476298753-1-1676237062 - Holdem no limit (10/20) - 2023/02/12 21:24:22 UTC
+Table: 'Expresso Nitro(632795337)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ianfish (300)
+Seat 2: DJ.sofiane (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Ianfish posts small blind 10
+DJ.sofiane posts big blind 20
+Dealt to _SKR [5d 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Ianfish folds
+DJ.sofiane collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: DJ.sofiane (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717835277476298753-2-1676237070 - Holdem no limit (10/20) - 2023/02/12 21:24:30 UTC
+Table: 'Expresso Nitro(632795337)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ianfish (290)
+Seat 2: DJ.sofiane (310)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+DJ.sofiane posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc Jh]
+*** PRE-FLOP *** 
+Ianfish folds
+DJ.sofiane calls 10
+_SKR raises 30 to 50
+DJ.sofiane calls 30
+*** FLOP *** [Qc 3s 7s]
+DJ.sofiane bets 100
+_SKR folds
+DJ.sofiane collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Qc 3s 7s]
+Seat 2: DJ.sofiane (small blind) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717835277476298753-3-1676237086 - Holdem no limit (10/20) - 2023/02/12 21:24:46 UTC
+Table: 'Expresso Nitro(632795337)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ianfish (290)
+Seat 2: DJ.sofiane (360)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ianfish posts big blind 20
+Dealt to _SKR [6h 9s]
+*** PRE-FLOP *** 
+DJ.sofiane raises 50 to 70
+_SKR folds
+Ianfish folds
+DJ.sofiane shows [Kd Kc] (One pair : Kings)
+DJ.sofiane collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: DJ.sofiane (button) showed [Kd Kc] and won 100 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717835277476298753-4-1676237093 - Holdem no limit (10/20) - 2023/02/12 21:24:53 UTC
+Table: 'Expresso Nitro(632795337)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ianfish (270)
+Seat 2: DJ.sofiane (390)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+Ianfish posts small blind 10
+DJ.sofiane posts big blind 20
+Dealt to _SKR [7s Ah]
+*** PRE-FLOP *** 
+_SKR raises 220 to 240 and is all-in
+Ianfish calls 230
+DJ.sofiane folds
+*** FLOP *** [4h Td 7c]
+*** TURN *** [4h Td 7c][Tc]
+*** RIVER *** [4h Td 7c Tc][6c]
+*** SHOW DOWN ***
+_SKR shows [7s Ah] (Two pairs : Tens and 7)
+Ianfish shows [Kc Kh] (Two pairs : Kings and Tens)
+Ianfish collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [4h Td 7c Tc 6c]
+Seat 1: Ianfish (small blind) showed [Kc Kh] and won 500 with Two pairs : Kings and Tens
+Seat 3: _SKR (button) showed [7s Ah] and lost with Two pairs : Tens and 7
+
+

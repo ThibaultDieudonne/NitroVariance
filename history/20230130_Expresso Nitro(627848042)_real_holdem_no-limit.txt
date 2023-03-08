@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696586807247634433-1-1675088498 - Holdem no limit (10/20) - 2023/01/30 14:21:38 UTC
+Table: 'Expresso Nitro(627848042)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pilotenana (300)
+Seat 2: _SKR (300)
+Seat 3: Madrigones (300)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 10
+Pilotenana posts big blind 20
+Dealt to _SKR [2c Ks]
+*** PRE-FLOP *** 
+_SKR folds
+Madrigones raises 20 to 40
+Pilotenana calls 20
+*** FLOP *** [Ac 4c Th]
+Madrigones bets 40
+Pilotenana folds
+Madrigones collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ac 4c Th]
+Seat 3: Madrigones (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696586807247634433-2-1675088511 - Holdem no limit (10/20) - 2023/01/30 14:21:51 UTC
+Table: 'Expresso Nitro(627848042)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pilotenana (260)
+Seat 2: _SKR (300)
+Seat 3: Madrigones (340)
+*** ANTE/BLINDS ***
+Pilotenana posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc 7h]
+*** PRE-FLOP *** 
+Madrigones folds
+Pilotenana calls 10
+_SKR checks
+*** FLOP *** [5h 4d Ac]
+Pilotenana bets 20
+_SKR folds
+Pilotenana collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [5h 4d Ac]
+Seat 1: Pilotenana (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696586807247634433-3-1675088531 - Holdem no limit (10/20) - 2023/01/30 14:22:11 UTC
+Table: 'Expresso Nitro(627848042)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pilotenana (280)
+Seat 2: _SKR (280)
+Seat 3: Madrigones (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Madrigones posts big blind 20
+Dealt to _SKR [Jd 3c]
+*** PRE-FLOP *** 
+Pilotenana calls 20
+_SKR folds
+Madrigones checks
+*** FLOP *** [7s 9c Ah]
+Madrigones checks
+Pilotenana bets 20
+Madrigones calls 20
+*** TURN *** [7s 9c Ah][5h]
+Madrigones checks
+Pilotenana checks
+*** RIVER *** [7s 9c Ah 5h][4h]
+Madrigones bets 45
+Pilotenana calls 45
+*** SHOW DOWN ***
+Madrigones shows [Ts 6s] (High card : Ace)
+Pilotenana shows [9s Qc] (One pair : 9)
+Pilotenana collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [7s 9c Ah 5h 4h]
+Seat 1: Pilotenana (button) showed [9s Qc] and won 180 with One pair : 9
+Seat 3: Madrigones (big blind) showed [Ts 6s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696586807247634433-4-1675088557 - Holdem no limit (15/30) - 2023/01/30 14:22:37 UTC
+Table: 'Expresso Nitro(627848042)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pilotenana (375)
+Seat 2: _SKR (270)
+Seat 3: Madrigones (255)
+*** ANTE/BLINDS ***
+Madrigones posts small blind 15
+Pilotenana posts big blind 30
+Dealt to _SKR [4d As]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+Madrigones folds
+Pilotenana calls 240
+*** FLOP *** [Kd Tc Jd]
+*** TURN *** [Kd Tc Jd][3h]
+*** RIVER *** [Kd Tc Jd 3h][Jh]
+*** SHOW DOWN ***
+_SKR shows [4d As] (One pair : Jacks)
+Pilotenana shows [Td Kc] (Two pairs : Kings and Jacks)
+Pilotenana collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [Kd Tc Jd 3h Jh]
+Seat 1: Pilotenana (big blind) showed [Td Kc] and won 555 with Two pairs : Kings and Jacks
+Seat 2: _SKR (button) showed [4d As] and lost with One pair : Jacks
+
+

@@ -1,0 +1,75 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689759913780969473-1-1674650190 - Holdem no limit (10/20) - 2023/01/25 12:36:30 UTC
+Table: 'Expresso Nitro(626258532)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: China54 (300)
+Seat 3: Melinaa123 (300)
+*** ANTE/BLINDS ***
+Melinaa123 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 6c]
+*** PRE-FLOP *** 
+China54 calls 20
+Melinaa123 calls 10
+_SKR checks
+*** FLOP *** [2s Tc Kc]
+Melinaa123 bets 20
+_SKR folds
+China54 folds
+Melinaa123 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2s Tc Kc]
+Seat 3: Melinaa123 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689759913780969473-2-1674650227 - Holdem no limit (10/20) - 2023/01/25 12:37:07 UTC
+Table: 'Expresso Nitro(626258532)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: China54 (280)
+Seat 3: Melinaa123 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+China54 posts big blind 20
+Dealt to _SKR [6s 7s]
+*** PRE-FLOP *** 
+Melinaa123 calls 20
+_SKR folds
+China54 checks
+*** FLOP *** [Kc 9c Ac]
+China54 checks
+Melinaa123 bets 20
+China54 folds
+Melinaa123 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Kc 9c Ac]
+Seat 3: Melinaa123 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689759913780969473-3-1674650262 - Holdem no limit (15/30) - 2023/01/25 12:37:42 UTC
+Table: 'Expresso Nitro(626258532)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: China54 (260)
+Seat 3: Melinaa123 (370)
+*** ANTE/BLINDS ***
+China54 posts small blind 15
+Melinaa123 posts big blind 30
+Dealt to _SKR [Jc As]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+China54 folds
+Melinaa123 calls 240
+*** FLOP *** [Qh 5h Td]
+*** TURN *** [Qh 5h Td][4s]
+*** RIVER *** [Qh 5h Td 4s][9h]
+*** SHOW DOWN ***
+_SKR shows [Jc As] (High card : Ace)
+Melinaa123 shows [Qs Ts] (Two pairs : Queens and Tens)
+Melinaa123 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [Qh 5h Td 4s 9h]
+Seat 1: _SKR (button) showed [Jc As] and lost with High card : Ace
+Seat 3: Melinaa123 (big blind) showed [Qs Ts] and won 555 with Two pairs : Queens and Tens
+
+

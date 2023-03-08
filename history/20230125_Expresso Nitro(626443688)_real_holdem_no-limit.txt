@@ -1,0 +1,372 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690555152745627649-1-1674685748 - Holdem no limit (10/20) - 2023/01/25 22:29:08 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Mogo1115 (300)
+Seat 3: Chipeau (300)
+*** ANTE/BLINDS ***
+Chipeau posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc Jh]
+*** PRE-FLOP *** 
+Mogo1115 calls 20
+Chipeau calls 10
+_SKR checks
+*** FLOP *** [7d 6d 5c]
+Chipeau bets 20
+_SKR folds
+Mogo1115 calls 20
+*** TURN *** [7d 6d 5c][Td]
+Chipeau bets 260 and is all-in
+Mogo1115 folds
+Chipeau collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [7d 6d 5c Td]
+Seat 3: Chipeau (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690555152745627649-2-1674685777 - Holdem no limit (10/20) - 2023/01/25 22:29:37 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Mogo1115 (260)
+Seat 3: Chipeau (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mogo1115 posts big blind 20
+Dealt to _SKR [8h 7s]
+*** PRE-FLOP *** 
+Chipeau calls 20
+_SKR folds
+Mogo1115 checks
+*** FLOP *** [9c Qd Td]
+Mogo1115 checks
+Chipeau bets 340 and is all-in
+Mogo1115 folds
+Chipeau collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [9c Qd Td]
+Seat 3: Chipeau (button) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690555152745627649-3-1674685792 - Holdem no limit (10/20) - 2023/01/25 22:29:52 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Mogo1115 (240)
+Seat 3: Chipeau (390)
+*** ANTE/BLINDS ***
+Mogo1115 posts small blind 10
+Chipeau posts big blind 20
+Dealt to _SKR [Kc 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Mogo1115 calls 10
+Chipeau checks
+*** FLOP *** [7h Td 9s]
+Mogo1115 checks
+Chipeau checks
+*** TURN *** [7h Td 9s][5s]
+Mogo1115 checks
+Chipeau bets 20
+Mogo1115 calls 20
+*** RIVER *** [7h Td 9s 5s][2d]
+Mogo1115 checks
+Chipeau checks
+*** SHOW DOWN ***
+Chipeau shows [Kh 3s] (High card : King)
+Mogo1115 shows [Jd 8d] (Straight Jack high)
+Mogo1115 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7h Td 9s 5s 2d]
+Seat 2: Mogo1115 (small blind) showed [Jd 8d] and won 80 with Straight Jack high
+Seat 3: Chipeau (big blind) showed [Kh 3s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690555152745627649-4-1674685823 - Holdem no limit (15/30) - 2023/01/25 22:30:23 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Mogo1115 (280)
+Seat 3: Chipeau (350)
+*** ANTE/BLINDS ***
+Chipeau posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [As 2s]
+*** PRE-FLOP *** 
+Mogo1115 folds
+Chipeau calls 15
+_SKR raises 240 to 270 and is all-in
+Chipeau folds
+_SKR collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: _SKR (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690555152745627649-5-1674685833 - Holdem no limit (15/30) - 2023/01/25 22:30:33 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Mogo1115 (280)
+Seat 3: Chipeau (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mogo1115 posts big blind 30
+Dealt to _SKR [Jc Jh]
+*** PRE-FLOP *** 
+Chipeau raises 290 to 320 and is all-in
+_SKR calls 285 and is all-in
+Mogo1115 folds
+*** FLOP *** [Td 3h Ah]
+*** TURN *** [Td 3h Ah][7d]
+*** RIVER *** [Td 3h Ah 7d][Js]
+*** SHOW DOWN ***
+_SKR shows [Jc Jh] (Trips of Jacks)
+Chipeau shows [6h 6s] (One pair : 6)
+Chipeau collected 20 from side pot 1
+_SKR collected 630 from main pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Td 3h Ah 7d Js]
+Seat 1: _SKR (small blind) showed [Jc Jh] and won 630 with Trips of Jacks
+Seat 3: Chipeau (button) showed [6h 6s] and won 20 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690555152745627649-6-1674685849 - Holdem no limit (15/30) - 2023/01/25 22:30:49 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (630)
+Seat 2: Mogo1115 (250)
+Seat 3: Chipeau (20)
+*** ANTE/BLINDS ***
+Mogo1115 posts small blind 15
+Chipeau posts big blind 20 and is all-in
+Dealt to _SKR [Kh 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Mogo1115 calls 15
+*** FLOP *** [Tc 9s Js]
+*** TURN *** [Tc 9s Js][2d]
+*** RIVER *** [Tc 9s Js 2d][4s]
+*** SHOW DOWN ***
+Mogo1115 shows [5s Qh] (High card : Queen)
+Chipeau shows [Kc Ks] (One pair : Kings)
+Chipeau collected 40 from main pot
+Mogo1115 collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Tc 9s Js 2d 4s]
+Seat 2: Mogo1115 (small blind) showed [5s Qh] and won 10 with High card : Queen
+Seat 3: Chipeau (big blind) showed [Kc Ks] and won 40 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690555152745627649-7-1674685860 - Holdem no limit (15/30) - 2023/01/25 22:31:00 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (630)
+Seat 2: Mogo1115 (230)
+Seat 3: Chipeau (40)
+*** ANTE/BLINDS ***
+Chipeau posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9d 3h]
+*** PRE-FLOP *** 
+Mogo1115 calls 30
+Chipeau raises 10 to 40 and is all-in
+_SKR folds
+Mogo1115 calls 10
+*** FLOP *** [4d 4c Tc]
+*** TURN *** [4d 4c Tc][Qc]
+*** RIVER *** [4d 4c Tc Qc][5h]
+*** SHOW DOWN ***
+Chipeau shows [Jh Qh] (Two pairs : Queens and 4)
+Mogo1115 shows [Td Qd] (Two pairs : Queens and Tens)
+Mogo1115 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [4d 4c Tc Qc 5h]
+Seat 2: Mogo1115 (button) showed [Td Qd] and won 110 with Two pairs : Queens and Tens
+Seat 3: Chipeau (small blind) showed [Jh Qh] and lost with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690555152745627649-8-1674685881 - Holdem no limit (20/40) - 2023/01/25 22:31:21 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 2: Mogo1115 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mogo1115 posts big blind 40
+Dealt to _SKR [8s 7d]
+*** PRE-FLOP *** 
+_SKR folds
+Mogo1115 shows [7s Js] (High card : Jack)
+Mogo1115 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Mogo1115 (big blind) showed [7s Js] and won 60 with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690555152745627649-9-1674685886 - Holdem no limit (20/40) - 2023/01/25 22:31:26 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (580)
+Seat 2: Mogo1115 (320)
+*** ANTE/BLINDS ***
+Mogo1115 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4c Ac]
+*** PRE-FLOP *** 
+Mogo1115 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690555152745627649-10-1674685891 - Holdem no limit (20/40) - 2023/01/25 22:31:31 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (600)
+Seat 2: Mogo1115 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mogo1115 posts big blind 40
+Dealt to _SKR [4h Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Mogo1115 shows [3d Ts] (High card : Ten)
+Mogo1115 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Mogo1115 (big blind) showed [3d Ts] and won 60 with High card : Ten
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690555152745627649-11-1674685896 - Holdem no limit (20/40) - 2023/01/25 22:31:36 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (580)
+Seat 2: Mogo1115 (320)
+*** ANTE/BLINDS ***
+Mogo1115 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Td 3s]
+*** PRE-FLOP *** 
+Mogo1115 calls 20
+_SKR checks
+*** FLOP *** [Jc Js Tc]
+_SKR checks
+Mogo1115 checks
+*** TURN *** [Jc Js Tc][Ts]
+_SKR bets 40
+Mogo1115 calls 40
+*** RIVER *** [Jc Js Tc Ts][7h]
+_SKR checks
+Mogo1115 bets 40
+_SKR calls 40
+*** SHOW DOWN ***
+Mogo1115 shows [2s Qd] (Two pairs : Jacks and Tens)
+_SKR shows [Td 3s] (Full of Tens and Jacks)
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jc Js Tc Ts 7h]
+Seat 1: _SKR (big blind) showed [Td 3s] and won 240 with Full of Tens and Jacks
+Seat 2: Mogo1115 (small blind) (button) showed [2s Qd] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690555152745627649-12-1674685921 - Holdem no limit (20/40) - 2023/01/25 22:32:01 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (700)
+Seat 2: Mogo1115 (200)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mogo1115 posts big blind 40
+Dealt to _SKR [Ts Tc]
+*** PRE-FLOP *** 
+_SKR raises 660 to 700 and is all-in
+Mogo1115 folds
+_SKR collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Seat 1: _SKR (small blind) (button) won 740
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690555152745627649-13-1674685926 - Holdem no limit (30/60) - 2023/01/25 22:32:06 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (740)
+Seat 2: Mogo1115 (160)
+*** ANTE/BLINDS ***
+Mogo1115 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qs 7d]
+*** PRE-FLOP *** 
+Mogo1115 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690555152745627649-14-1674685931 - Holdem no limit (30/60) - 2023/01/25 22:32:11 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (770)
+Seat 2: Mogo1115 (130)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Mogo1115 posts big blind 60
+Dealt to _SKR [Qc Jc]
+*** PRE-FLOP *** 
+_SKR raises 710 to 770 and is all-in
+Mogo1115 folds
+_SKR collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Seat 1: _SKR (small blind) (button) won 830
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690555152745627649-15-1674685939 - Holdem no limit (30/60) - 2023/01/25 22:32:19 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (830)
+Seat 2: Mogo1115 (70)
+*** ANTE/BLINDS ***
+Mogo1115 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Th Jh]
+*** PRE-FLOP *** 
+Mogo1115 calls 30
+_SKR raises 60 to 120
+Mogo1115 calls 10 and is all-in
+*** FLOP *** [Ks 2d 7h]
+*** TURN *** [Ks 2d 7h][Ad]
+*** RIVER *** [Ks 2d 7h Ad][7c]
+*** SHOW DOWN ***
+_SKR shows [Th Jh] (One pair : 7)
+Mogo1115 shows [Kc 2s] (Two pairs : Kings and 7)
+Mogo1115 collected 140 from main pot
+_SKR collected 50 from side pot 1
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [Ks 2d 7h Ad 7c]
+Seat 1: _SKR (big blind) showed [Th Jh] and won 50 with One pair : 7
+Seat 2: Mogo1115 (small blind) (button) showed [Kc 2s] and won 140 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690555152745627649-16-1674685957 - Holdem no limit (30/60) - 2023/01/25 22:32:37 UTC
+Table: 'Expresso Nitro(626443688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (760)
+Seat 2: Mogo1115 (140)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Mogo1115 posts big blind 60
+Dealt to _SKR [Ah 8s]
+*** PRE-FLOP *** 
+_SKR raises 700 to 760 and is all-in
+Mogo1115 calls 80 and is all-in
+*** FLOP *** [Tc 9h 2d]
+*** TURN *** [Tc 9h 2d][Td]
+*** RIVER *** [Tc 9h 2d Td][Ks]
+*** SHOW DOWN ***
+Mogo1115 shows [Qc 3d] (One pair : Tens)
+_SKR shows [Ah 8s] (One pair : Tens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 9h 2d Td Ks]
+Seat 1: _SKR (small blind) (button) showed [Ah 8s] and won 900 with One pair : Tens
+Seat 2: Mogo1115 (big blind) showed [Qc 3d] and lost with One pair : Tens
+
+

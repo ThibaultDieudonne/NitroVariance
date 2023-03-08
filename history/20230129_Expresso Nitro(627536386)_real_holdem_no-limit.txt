@@ -1,0 +1,61 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695248254920032257-1-1675002238 - Holdem no limit (10/20) - 2023/01/29 14:23:58 UTC
+Table: 'Expresso Nitro(627536386)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: lydie62000 (300)
+Seat 3: ziricou (300)
+*** ANTE/BLINDS ***
+ziricou posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [7c 5c]
+*** PRE-FLOP *** 
+lydie62000 calls 20
+ziricou folds
+_SKR checks
+*** FLOP *** [2s 9h Js]
+_SKR checks
+lydie62000 checks
+*** TURN *** [2s 9h Js][4h]
+_SKR checks
+lydie62000 checks
+*** RIVER *** [2s 9h Js 4h][9d]
+_SKR checks
+lydie62000 checks
+*** SHOW DOWN ***
+_SKR shows [7c 5c] (One pair : 9)
+lydie62000 shows [Ah 3d] (One pair : 9)
+lydie62000 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [2s 9h Js 4h 9d]
+Seat 1: _SKR (big blind) showed [7c 5c] and lost with One pair : 9
+Seat 2: lydie62000 (button) showed [Ah 3d] and won 50 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695248254920032257-2-1675002262 - Holdem no limit (10/20) - 2023/01/29 14:24:22 UTC
+Table: 'Expresso Nitro(627536386)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: lydie62000 (330)
+Seat 3: ziricou (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+lydie62000 posts big blind 20
+Dealt to _SKR [3c 3h]
+*** PRE-FLOP *** 
+ziricou calls 20
+_SKR raises 260 to 280 and is all-in
+lydie62000 calls 260
+ziricou folds
+*** FLOP *** [6h Kh 6s]
+*** TURN *** [6h Kh 6s][Js]
+*** RIVER *** [6h Kh 6s Js][5d]
+*** SHOW DOWN ***
+_SKR shows [3c 3h] (Two pairs : 6 and 3)
+lydie62000 shows [Jc Ks] (Two pairs : Kings and Jacks)
+lydie62000 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6h Kh 6s Js 5d]
+Seat 1: _SKR (small blind) showed [3c 3h] and lost with Two pairs : 6 and 3
+Seat 2: lydie62000 (big blind) showed [Jc Ks] and won 580 with Two pairs : Kings and Jacks
+
+

@@ -1,0 +1,212 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674081977480511489-1-1673701410 - Holdem no limit (10/20) - 2023/01/14 13:03:30 UTC
+Table: 'Expresso Nitro(622608228)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vv59000 (300)
+Seat 2: PIn0ocChIO (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Vv59000 posts big blind 20
+Dealt to _SKR [Jc Ks]
+*** PRE-FLOP *** 
+PIn0ocChIO raises 20 to 40
+_SKR folds
+Vv59000 calls 20
+*** FLOP *** [Ad 9d 2d]
+Vv59000 checks
+PIn0ocChIO bets 30
+Vv59000 folds
+PIn0ocChIO collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ad 9d 2d]
+Seat 2: PIn0ocChIO (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674081977480511489-2-1673701434 - Holdem no limit (10/20) - 2023/01/14 13:03:54 UTC
+Table: 'Expresso Nitro(622608228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vv59000 (260)
+Seat 2: PIn0ocChIO (350)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Vv59000 posts small blind 10
+PIn0ocChIO posts big blind 20
+Dealt to _SKR [8s Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Vv59000 calls 30
+PIn0ocChIO raises 310 to 350 and is all-in
+_SKR folds
+Vv59000 calls 220 and is all-in
+*** FLOP *** [7h Qs 6h]
+*** TURN *** [7h Qs 6h][Qc]
+*** RIVER *** [7h Qs 6h Qc][Js]
+*** SHOW DOWN ***
+Vv59000 shows [Ac 5s] (One pair : Queens)
+PIn0ocChIO shows [As Jh] (Two pairs : Queens and Jacks)
+PIn0ocChIO collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [7h Qs 6h Qc Js]
+Seat 1: Vv59000 (small blind) showed [Ac 5s] and lost with One pair : Queens
+Seat 2: PIn0ocChIO (big blind) showed [As Jh] and won 650 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674081977480511489-3-1673701463 - Holdem no limit (10/20) - 2023/01/14 13:04:23 UTC
+Table: 'Expresso Nitro(622608228)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PIn0ocChIO (650)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+PIn0ocChIO posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qd Qh]
+*** PRE-FLOP *** 
+PIn0ocChIO raises 20 to 40
+_SKR raises 210 to 250 and is all-in
+PIn0ocChIO raises 400 to 650 and is all-in
+*** FLOP *** [Tc Qs Ts]
+*** TURN *** [Tc Qs Ts][6s]
+*** RIVER *** [Tc Qs Ts 6s][5h]
+*** SHOW DOWN ***
+PIn0ocChIO shows [8s Jh] (One pair : Tens)
+_SKR shows [Qd Qh] (Full of Queens and Tens)
+_SKR collected 500 from main pot
+PIn0ocChIO collected 400 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc Qs Ts 6s 5h]
+Seat 2: PIn0ocChIO (small blind) (button) showed [8s Jh] and won 400 with One pair : Tens
+Seat 3: _SKR (big blind) showed [Qd Qh] and won 500 with Full of Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674081977480511489-4-1673701481 - Holdem no limit (15/30) - 2023/01/14 13:04:41 UTC
+Table: 'Expresso Nitro(622608228)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PIn0ocChIO (400)
+Seat 3: _SKR (500)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+PIn0ocChIO posts big blind 30
+Dealt to _SKR [6d Kd]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+PIn0ocChIO raises 340 to 400 and is all-in
+_SKR folds
+PIn0ocChIO collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 2: PIn0ocChIO (big blind) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674081977480511489-5-1673701489 - Holdem no limit (15/30) - 2023/01/14 13:04:49 UTC
+Table: 'Expresso Nitro(622608228)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PIn0ocChIO (460)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+PIn0ocChIO posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2s Jc]
+*** PRE-FLOP *** 
+PIn0ocChIO raises 430 to 460 and is all-in
+_SKR folds
+PIn0ocChIO collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Seat 2: PIn0ocChIO (small blind) (button) won 490
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674081977480511489-6-1673701494 - Holdem no limit (15/30) - 2023/01/14 13:04:54 UTC
+Table: 'Expresso Nitro(622608228)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PIn0ocChIO (490)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+PIn0ocChIO posts big blind 30
+Dealt to _SKR [Qd Kh]
+*** PRE-FLOP *** 
+_SKR raises 380 to 410 and is all-in
+PIn0ocChIO folds
+_SKR collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 3: _SKR (small blind) (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674081977480511489-7-1673701499 - Holdem no limit (15/30) - 2023/01/14 13:04:59 UTC
+Table: 'Expresso Nitro(622608228)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PIn0ocChIO (460)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+PIn0ocChIO posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qh 2s]
+*** PRE-FLOP *** 
+PIn0ocChIO folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674081977480511489-8-1673701504 - Holdem no limit (15/30) - 2023/01/14 13:05:04 UTC
+Table: 'Expresso Nitro(622608228)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PIn0ocChIO (445)
+Seat 3: _SKR (455)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+PIn0ocChIO posts big blind 30
+Dealt to _SKR [7d 4s]
+*** PRE-FLOP *** 
+_SKR folds
+PIn0ocChIO collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: PIn0ocChIO (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674081977480511489-9-1673701507 - Holdem no limit (15/30) - 2023/01/14 13:05:07 UTC
+Table: 'Expresso Nitro(622608228)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PIn0ocChIO (460)
+Seat 3: _SKR (440)
+*** ANTE/BLINDS ***
+PIn0ocChIO posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4d Qc]
+*** PRE-FLOP *** 
+PIn0ocChIO raises 430 to 460 and is all-in
+_SKR folds
+PIn0ocChIO collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Seat 2: PIn0ocChIO (small blind) (button) won 490
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2674081977480511489-10-1673701514 - Holdem no limit (15/30) - 2023/01/14 13:05:14 UTC
+Table: 'Expresso Nitro(622608228)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PIn0ocChIO (490)
+Seat 3: _SKR (410)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+PIn0ocChIO posts big blind 30
+Dealt to _SKR [Qs Qh]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+PIn0ocChIO calls 30
+*** FLOP *** [5c Ad 2h]
+PIn0ocChIO checks
+_SKR checks
+*** TURN *** [5c Ad 2h][4c]
+PIn0ocChIO checks
+_SKR bets 60
+PIn0ocChIO raises 370 to 430 and is all-in
+_SKR calls 290 and is all-in
+*** RIVER *** [5c Ad 2h 4c][9s]
+*** SHOW DOWN ***
+_SKR shows [Qs Qh] (One pair : Queens)
+PIn0ocChIO shows [Th 3h] (Straight 5 high)
+PIn0ocChIO collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c Ad 2h 4c 9s]
+Seat 2: PIn0ocChIO (big blind) showed [Th 3h] and won 900 with Straight 5 high
+Seat 3: _SKR (small blind) (button) showed [Qs Qh] and lost with One pair : Queens
+
+

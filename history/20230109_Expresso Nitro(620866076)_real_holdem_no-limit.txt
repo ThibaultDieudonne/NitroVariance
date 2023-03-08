@@ -1,0 +1,242 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666599491615850497-1-1673284468 - Holdem no limit (10/20) - 2023/01/09 17:14:28 UTC
+Table: 'Expresso Nitro(620866076)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Kiff10 (300)
+Seat 3: 77-VIF-77 (300)
+*** ANTE/BLINDS ***
+77-VIF-77 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kd Jd]
+*** PRE-FLOP *** 
+Kiff10 calls 20
+77-VIF-77 raises 280 to 300 and is all-in
+_SKR folds
+Kiff10 calls 280 and is all-in
+*** FLOP *** [Td Ah 2d]
+*** TURN *** [Td Ah 2d][Jc]
+*** RIVER *** [Td Ah 2d Jc][Qs]
+*** SHOW DOWN ***
+77-VIF-77 shows [7d 7c] (One pair : 7)
+Kiff10 shows [Ts Ks] (Straight Ace high)
+Kiff10 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Td Ah 2d Jc Qs]
+Seat 2: Kiff10 (button) showed [Ts Ks] and won 620 with Straight Ace high
+Seat 3: 77-VIF-77 (small blind) showed [7d 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2666599491615850497-2-1673284495 - Holdem no limit (10/20) - 2023/01/09 17:14:55 UTC
+Table: 'Expresso Nitro(620866076)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 2: Kiff10 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Kiff10 posts big blind 20
+Dealt to _SKR [Kd 9s]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Kiff10 calls 20
+*** FLOP *** [4c Ah 3h]
+Kiff10 checks
+_SKR checks
+*** TURN *** [4c Ah 3h][Qs]
+Kiff10 checks
+_SKR checks
+*** RIVER *** [4c Ah 3h Qs][5s]
+Kiff10 checks
+_SKR checks
+*** SHOW DOWN ***
+Kiff10 shows [Th 6d] (High card : Ace)
+_SKR shows [Kd 9s] (High card : Ace)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4c Ah 3h Qs 5s]
+Seat 1: _SKR (small blind) (button) showed [Kd 9s] and won 80 with High card : Ace
+Seat 2: Kiff10 (big blind) showed [Th 6d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666599491615850497-3-1673284525 - Holdem no limit (15/30) - 2023/01/09 17:15:25 UTC
+Table: 'Expresso Nitro(620866076)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (320)
+Seat 2: Kiff10 (580)
+*** ANTE/BLINDS ***
+Kiff10 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd 3d]
+*** PRE-FLOP *** 
+Kiff10 calls 15
+_SKR checks
+*** FLOP *** [Ad 7s 3h]
+_SKR checks
+Kiff10 checks
+*** TURN *** [Ad 7s 3h][Th]
+_SKR checks
+Kiff10 checks
+*** RIVER *** [Ad 7s 3h Th][6h]
+_SKR checks
+Kiff10 checks
+*** SHOW DOWN ***
+Kiff10 shows [8s Kh] (High card : Ace)
+_SKR shows [Jd 3d] (One pair : 3)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ad 7s 3h Th 6h]
+Seat 1: _SKR (big blind) showed [Jd 3d] and won 60 with One pair : 3
+Seat 2: Kiff10 (small blind) (button) showed [8s Kh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666599491615850497-4-1673284561 - Holdem no limit (15/30) - 2023/01/09 17:16:01 UTC
+Table: 'Expresso Nitro(620866076)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (350)
+Seat 2: Kiff10 (550)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Kiff10 posts big blind 30
+Dealt to _SKR [8s Ks]
+*** PRE-FLOP *** 
+_SKR raises 320 to 350 and is all-in
+Kiff10 raises 200 to 550 and is all-in
+*** FLOP *** [8d Qs 2h]
+*** TURN *** [8d Qs 2h][3h]
+*** RIVER *** [8d Qs 2h 3h][3s]
+*** SHOW DOWN ***
+_SKR shows [8s Ks] (Two pairs : 8 and 3)
+Kiff10 shows [7d Ah] (One pair : 3)
+Kiff10 collected 200 from side pot 1
+_SKR collected 700 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d Qs 2h 3h 3s]
+Seat 1: _SKR (small blind) (button) showed [8s Ks] and won 700 with Two pairs : 8 and 3
+Seat 2: Kiff10 (big blind) showed [7d Ah] and won 200 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666599491615850497-5-1673284574 - Holdem no limit (15/30) - 2023/01/09 17:16:14 UTC
+Table: 'Expresso Nitro(620866076)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (700)
+Seat 2: Kiff10 (200)
+*** ANTE/BLINDS ***
+Kiff10 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c 7d]
+*** PRE-FLOP *** 
+Kiff10 raises 170 to 200 and is all-in
+_SKR folds
+Kiff10 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Seat 2: Kiff10 (small blind) (button) won 230
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2666599491615850497-6-1673284580 - Holdem no limit (15/30) - 2023/01/09 17:16:20 UTC
+Table: 'Expresso Nitro(620866076)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (670)
+Seat 2: Kiff10 (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Kiff10 posts big blind 30
+Dealt to _SKR [7h Ah]
+*** PRE-FLOP *** 
+_SKR raises 640 to 670 and is all-in
+Kiff10 folds
+_SKR collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 1: _SKR (small blind) (button) won 700
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2666599491615850497-7-1673284586 - Holdem no limit (20/40) - 2023/01/09 17:16:26 UTC
+Table: 'Expresso Nitro(620866076)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (700)
+Seat 2: Kiff10 (200)
+*** ANTE/BLINDS ***
+Kiff10 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [5h 5c]
+*** PRE-FLOP *** 
+Kiff10 calls 20
+_SKR raises 660 to 700 and is all-in
+Kiff10 folds
+_SKR collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Seat 1: _SKR (big blind) won 740
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2666599491615850497-8-1673284593 - Holdem no limit (20/40) - 2023/01/09 17:16:33 UTC
+Table: 'Expresso Nitro(620866076)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (740)
+Seat 2: Kiff10 (160)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Kiff10 posts big blind 40
+Dealt to _SKR [3h 8h]
+*** PRE-FLOP *** 
+_SKR calls 20
+Kiff10 checks
+*** FLOP *** [Jd 2d 2s]
+Kiff10 checks
+_SKR checks
+*** TURN *** [Jd 2d 2s][4d]
+Kiff10 checks
+_SKR checks
+*** RIVER *** [Jd 2d 2s 4d][Jc]
+Kiff10 checks
+_SKR checks
+*** SHOW DOWN ***
+Kiff10 shows [7c 5s] (Two pairs : Jacks and 2)
+_SKR shows [3h 8h] (Two pairs : Jacks and 2)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Jd 2d 2s 4d Jc]
+Seat 1: _SKR (small blind) (button) showed [3h 8h] and won 80 with Two pairs : Jacks and 2
+Seat 2: Kiff10 (big blind) showed [7c 5s] and lost with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2666599491615850497-9-1673284638 - Holdem no limit (20/40) - 2023/01/09 17:17:18 UTC
+Table: 'Expresso Nitro(620866076)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (780)
+Seat 2: Kiff10 (120)
+*** ANTE/BLINDS ***
+Kiff10 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s Kc]
+*** PRE-FLOP *** 
+Kiff10 calls 20
+_SKR raises 740 to 780 and is all-in
+Kiff10 folds
+_SKR collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Seat 1: _SKR (big blind) won 820
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2666599491615850497-10-1673284646 - Holdem no limit (30/60) - 2023/01/09 17:17:26 UTC
+Table: 'Expresso Nitro(620866076)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (820)
+Seat 2: Kiff10 (80)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Kiff10 posts big blind 60
+Dealt to _SKR [Ad 7d]
+*** PRE-FLOP *** 
+_SKR raises 90 to 150
+Kiff10 calls 20 and is all-in
+*** FLOP *** [4d 9h 7s]
+*** TURN *** [4d 9h 7s][8h]
+*** RIVER *** [4d 9h 7s 8h][Ac]
+*** SHOW DOWN ***
+Kiff10 shows [5s 3s] (High card : Ace)
+_SKR shows [Ad 7d] (Two pairs : Aces and 7)
+_SKR collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Board: [4d 9h 7s 8h Ac]
+Seat 1: _SKR (small blind) (button) showed [Ad 7d] and won 230 with Two pairs : Aces and 7
+Seat 2: Kiff10 (big blind) showed [5s 3s] and lost with High card : Ace
+
+

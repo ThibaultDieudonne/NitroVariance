@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718605833263906817-1-1676291296 - Holdem no limit (10/20) - 2023/02/13 12:28:16 UTC
+Table: 'Expresso Nitro(632974746)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Ducheese (300)
+Seat 3: Mathis_94550 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ducheese posts big blind 20
+Dealt to _SKR [Jc 9s]
+*** PRE-FLOP *** 
+Mathis_94550 raises 20 to 40
+_SKR folds
+Ducheese calls 20
+*** FLOP *** [8d 6d 3h]
+Ducheese checks
+Mathis_94550 bets 20
+Ducheese folds
+Mathis_94550 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [8d 6d 3h]
+Seat 3: Mathis_94550 (button) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718605833263906817-2-1676291312 - Holdem no limit (10/20) - 2023/02/13 12:28:32 UTC
+Table: 'Expresso Nitro(632974746)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Ducheese (260)
+Seat 3: Mathis_94550 (350)
+*** ANTE/BLINDS ***
+Ducheese posts small blind 10
+Mathis_94550 posts big blind 20
+Dealt to _SKR [9c Ad]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Ducheese folds
+Mathis_94550 raises 60 to 350 and is all-in
+*** FLOP *** [Jc 3c 2h]
+*** TURN *** [Jc 3c 2h][3h]
+*** RIVER *** [Jc 3c 2h 3h][Td]
+*** SHOW DOWN ***
+_SKR shows [9c Ad] (One pair : 3)
+Mathis_94550 shows [Tc Ah] (Two pairs : Tens and 3)
+Mathis_94550 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Jc 3c 2h 3h Td]
+Seat 1: _SKR (button) showed [9c Ad] and lost with One pair : 3
+Seat 3: Mathis_94550 (big blind) showed [Tc Ah] and won 650 with Two pairs : Tens and 3
+
+

@@ -1,0 +1,127 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717860136747008001-1-1676237958 - Holdem no limit (10/20) - 2023/02/12 21:39:18 UTC
+Table: 'Expresso Nitro(632801125)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: chat.1818 (300)
+Seat 3: Solsol30 (300)
+*** ANTE/BLINDS ***
+Solsol30 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 8c]
+*** PRE-FLOP *** 
+chat.1818 folds
+Solsol30 calls 10
+_SKR checks
+*** FLOP *** [8h 6d 4c]
+Solsol30 bets 20
+_SKR calls 20
+*** TURN *** [8h 6d 4c][3s]
+Solsol30 checks
+_SKR checks
+*** RIVER *** [8h 6d 4c 3s][2d]
+Solsol30 checks
+_SKR bets 40
+Solsol30 calls 40
+*** SHOW DOWN ***
+Solsol30 shows [6s Ks] (One pair : 6)
+_SKR shows [9d 8c] (One pair : 8)
+_SKR collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [8h 6d 4c 3s 2d]
+Seat 1: _SKR (big blind) showed [9d 8c] and won 160 with One pair : 8
+Seat 3: Solsol30 (small blind) showed [6s Ks] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717860136747008001-2-1676237994 - Holdem no limit (10/20) - 2023/02/12 21:39:54 UTC
+Table: 'Expresso Nitro(632801125)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (380)
+Seat 2: chat.1818 (300)
+Seat 3: Solsol30 (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+chat.1818 posts big blind 20
+Dealt to _SKR [2h Ad]
+*** PRE-FLOP *** 
+Solsol30 folds
+_SKR raises 360 to 380 and is all-in
+chat.1818 folds
+_SKR collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 1: _SKR (small blind) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717860136747008001-3-1676238002 - Holdem no limit (10/20) - 2023/02/12 21:40:02 UTC
+Table: 'Expresso Nitro(632801125)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (400)
+Seat 2: chat.1818 (280)
+Seat 3: Solsol30 (220)
+*** ANTE/BLINDS ***
+chat.1818 posts small blind 10
+Solsol30 posts big blind 20
+Dealt to _SKR [9d 8d]
+*** PRE-FLOP *** 
+_SKR folds
+chat.1818 raises 30 to 50
+Solsol30 calls 30
+*** FLOP *** [6s 2c 9c]
+chat.1818 bets 50
+Solsol30 calls 50
+*** TURN *** [6s 2c 9c][6h]
+chat.1818 bets 180 and is all-in
+Solsol30 calls 120 and is all-in
+*** RIVER *** [6s 2c 9c 6h][Qd]
+*** SHOW DOWN ***
+Solsol30 shows [9h 7h] (Two pairs : 9 and 6)
+chat.1818 shows [Jc Jh] (Two pairs : Jacks and 6)
+chat.1818 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [6s 2c 9c 6h Qd]
+Seat 2: chat.1818 (small blind) showed [Jc Jh] and won 500 with Two pairs : Jacks and 6
+Seat 3: Solsol30 (big blind) showed [9h 7h] and lost with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717860136747008001-4-1676238029 - Holdem no limit (15/30) - 2023/02/12 21:40:29 UTC
+Table: 'Expresso Nitro(632801125)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (400)
+Seat 2: chat.1818 (500)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+chat.1818 posts big blind 30
+Dealt to _SKR [4s As]
+*** PRE-FLOP *** 
+_SKR raises 370 to 400 and is all-in
+chat.1818 folds
+_SKR collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 1: _SKR (small blind) (button) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717860136747008001-5-1676238036 - Holdem no limit (15/30) - 2023/02/12 21:40:36 UTC
+Table: 'Expresso Nitro(632801125)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (430)
+Seat 2: chat.1818 (470)
+*** ANTE/BLINDS ***
+chat.1818 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3h 3s]
+*** PRE-FLOP *** 
+chat.1818 raises 30 to 60
+_SKR raises 370 to 430 and is all-in
+chat.1818 calls 370
+*** FLOP *** [7s 5s 4s]
+*** TURN *** [7s 5s 4s][Kd]
+*** RIVER *** [7s 5s 4s Kd][Tc]
+*** SHOW DOWN ***
+_SKR shows [3h 3s] (One pair : 3)
+chat.1818 shows [Kc Jh] (One pair : Kings)
+chat.1818 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [7s 5s 4s Kd Tc]
+Seat 1: _SKR (big blind) showed [3h 3s] and lost with One pair : 3
+Seat 2: chat.1818 (small blind) (button) showed [Kc Jh] and won 860 with One pair : Kings
+
+

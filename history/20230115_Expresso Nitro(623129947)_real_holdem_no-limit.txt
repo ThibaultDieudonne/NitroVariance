@@ -1,0 +1,131 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676322743523213313-1-1673820003 - Holdem no limit (10/20) - 2023/01/15 22:00:03 UTC
+Table: 'Expresso Nitro(623129947)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lenou64 (300)
+Seat 2: _SKR (300)
+Seat 3: Grog_Matador (300)
+*** ANTE/BLINDS ***
+Lenou64 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts 7h]
+*** PRE-FLOP *** 
+Grog_Matador raises 20 to 40
+Lenou64 folds
+_SKR folds
+Grog_Matador collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: Grog_Matador (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676322743523213313-2-1673820014 - Holdem no limit (10/20) - 2023/01/15 22:00:14 UTC
+Table: 'Expresso Nitro(623129947)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lenou64 (290)
+Seat 2: _SKR (280)
+Seat 3: Grog_Matador (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Grog_Matador posts big blind 20
+Dealt to _SKR [Th 6d]
+*** PRE-FLOP *** 
+Lenou64 raises 20 to 40
+_SKR folds
+Grog_Matador calls 20
+*** FLOP *** [9c 9s Jd]
+Grog_Matador checks
+Lenou64 bets 90
+Grog_Matador folds
+Lenou64 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9c 9s Jd]
+Seat 1: Lenou64 (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676322743523213313-3-1673820038 - Holdem no limit (10/20) - 2023/01/15 22:00:38 UTC
+Table: 'Expresso Nitro(623129947)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lenou64 (340)
+Seat 2: _SKR (270)
+Seat 3: Grog_Matador (290)
+*** ANTE/BLINDS ***
+Grog_Matador posts small blind 10
+Lenou64 posts big blind 20
+Dealt to _SKR [As Js]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Grog_Matador raises 20 to 60
+Lenou64 folds
+_SKR calls 20
+*** FLOP *** [3d 4h Kh]
+Grog_Matador bets 20
+_SKR calls 20
+*** TURN *** [3d 4h Kh][8c]
+Grog_Matador checks
+_SKR checks
+*** RIVER *** [3d 4h Kh 8c][Td]
+Grog_Matador bets 20
+_SKR calls 20
+*** SHOW DOWN ***
+_SKR shows [As Js] (High card : Ace)
+Grog_Matador shows [9d 9s] (One pair : 9)
+Grog_Matador collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [3d 4h Kh 8c Td]
+Seat 2: _SKR (button) showed [As Js] and lost with High card : Ace
+Seat 3: Grog_Matador (small blind) showed [9d 9s] and won 220 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676322743523213313-4-1673820067 - Holdem no limit (15/30) - 2023/01/15 22:01:07 UTC
+Table: 'Expresso Nitro(623129947)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lenou64 (320)
+Seat 2: _SKR (170)
+Seat 3: Grog_Matador (410)
+*** ANTE/BLINDS ***
+Lenou64 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Js 7h]
+*** PRE-FLOP *** 
+Grog_Matador raises 30 to 60
+Lenou64 calls 45
+_SKR folds
+*** FLOP *** [9c 5c 3c]
+Lenou64 checks
+Grog_Matador checks
+*** TURN *** [9c 5c 3c][4c]
+Lenou64 checks
+Grog_Matador bets 30
+Lenou64 folds
+Grog_Matador collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9c 5c 3c 4c]
+Seat 3: Grog_Matador (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676322743523213313-5-1673820117 - Holdem no limit (15/30) - 2023/01/15 22:01:57 UTC
+Table: 'Expresso Nitro(623129947)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lenou64 (260)
+Seat 2: _SKR (140)
+Seat 3: Grog_Matador (500)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Grog_Matador posts big blind 30
+Dealt to _SKR [8d Jh]
+*** PRE-FLOP *** 
+Lenou64 folds
+_SKR raises 110 to 140 and is all-in
+Grog_Matador calls 110
+*** FLOP *** [6d 6c Ad]
+*** TURN *** [6d 6c Ad][4d]
+*** RIVER *** [6d 6c Ad 4d][4c]
+*** SHOW DOWN ***
+_SKR shows [8d Jh] (Two pairs : 6 and 4)
+Grog_Matador shows [Ks 6h] (Full of 6 and 4)
+Grog_Matador collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [6d 6c Ad 4d 4c]
+Seat 2: _SKR (small blind) showed [8d Jh] and lost with Two pairs : 6 and 4
+Seat 3: Grog_Matador (big blind) showed [Ks 6h] and won 280 with Full of 6 and 4
+
+

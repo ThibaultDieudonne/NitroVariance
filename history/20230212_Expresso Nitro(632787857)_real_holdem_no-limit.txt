@@ -1,0 +1,150 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717803151120924673-1-1676235881 - Holdem no limit (10/20) - 2023/02/12 21:04:41 UTC
+Table: 'Expresso Nitro(632787857)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ouassmille (300)
+Seat 2: _SKR (300)
+Seat 3: Fish et chip (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Fish et chip posts big blind 20
+Dealt to _SKR [3d 7h]
+*** PRE-FLOP *** 
+Ouassmille calls 20
+_SKR folds
+Fish et chip checks
+*** FLOP *** [2d Jh 8h]
+Fish et chip checks
+Ouassmille checks
+*** TURN *** [2d Jh 8h][8d]
+Fish et chip checks
+Ouassmille bets 20
+Fish et chip folds
+Ouassmille collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [2d Jh 8h 8d]
+Seat 1: Ouassmille (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717803151120924673-2-1676235908 - Holdem no limit (10/20) - 2023/02/12 21:05:08 UTC
+Table: 'Expresso Nitro(632787857)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ouassmille (330)
+Seat 2: _SKR (290)
+Seat 3: Fish et chip (280)
+*** ANTE/BLINDS ***
+Fish et chip posts small blind 10
+Ouassmille posts big blind 20
+Dealt to _SKR [2c Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Fish et chip folds
+Ouassmille collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Ouassmille (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717803151120924673-3-1676235912 - Holdem no limit (10/20) - 2023/02/12 21:05:12 UTC
+Table: 'Expresso Nitro(632787857)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ouassmille (340)
+Seat 2: _SKR (290)
+Seat 3: Fish et chip (270)
+*** ANTE/BLINDS ***
+Ouassmille posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh Jd]
+*** PRE-FLOP *** 
+Fish et chip folds
+Ouassmille calls 10
+_SKR raises 270 to 290 and is all-in
+Ouassmille calls 270
+*** FLOP *** [8d 6c 8c]
+*** TURN *** [8d 6c 8c][Jh]
+*** RIVER *** [8d 6c 8c Jh][8h]
+*** SHOW DOWN ***
+Ouassmille shows [Ah Kc] (Trips of 8)
+_SKR shows [Kh Jd] (Full of 8 and Jacks)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [8d 6c 8c Jh 8h]
+Seat 1: Ouassmille (small blind) showed [Ah Kc] and lost with Trips of 8
+Seat 2: _SKR (big blind) showed [Kh Jd] and won 580 with Full of 8 and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717803151120924673-4-1676235934 - Holdem no limit (10/20) - 2023/02/12 21:05:34 UTC
+Table: 'Expresso Nitro(632787857)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ouassmille (50)
+Seat 2: _SKR (580)
+Seat 3: Fish et chip (270)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Fish et chip posts big blind 20
+Dealt to _SKR [3d 6c]
+*** PRE-FLOP *** 
+Ouassmille calls 20
+_SKR folds
+Fish et chip checks
+*** FLOP *** [8d 6d Jh]
+Fish et chip checks
+Ouassmille bets 30 and is all-in
+Fish et chip folds
+Ouassmille collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8d 6d Jh]
+Seat 1: Ouassmille (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717803151120924673-5-1676235954 - Holdem no limit (15/30) - 2023/02/12 21:05:54 UTC
+Table: 'Expresso Nitro(632787857)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ouassmille (80)
+Seat 2: _SKR (570)
+Seat 3: Fish et chip (250)
+*** ANTE/BLINDS ***
+Fish et chip posts small blind 15
+Ouassmille posts big blind 30
+Dealt to _SKR [Ac Th]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+Fish et chip folds
+Ouassmille raises 20 to 80 and is all-in
+_SKR calls 20
+*** FLOP *** [2h 6c 5c]
+*** TURN *** [2h 6c 5c][9c]
+*** RIVER *** [2h 6c 5c 9c][9h]
+*** SHOW DOWN ***
+Ouassmille shows [Kh 4h] (One pair : 9)
+_SKR shows [Ac Th] (One pair : 9)
+_SKR collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | No rake
+Board: [2h 6c 5c 9c 9h]
+Seat 1: Ouassmille (big blind) showed [Kh 4h] and lost with One pair : 9
+Seat 2: _SKR (button) showed [Ac Th] and won 175 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717803151120924673-6-1676235980 - Holdem no limit (15/30) - 2023/02/12 21:06:20 UTC
+Table: 'Expresso Nitro(632787857)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (665)
+Seat 3: Fish et chip (235)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Fish et chip posts big blind 30
+Dealt to _SKR [Ac Th]
+*** PRE-FLOP *** 
+_SKR raises 635 to 665 and is all-in
+Fish et chip calls 205 and is all-in
+*** FLOP *** [5h 3s 2s]
+*** TURN *** [5h 3s 2s][Tc]
+*** RIVER *** [5h 3s 2s Tc][Jh]
+*** SHOW DOWN ***
+Fish et chip shows [8c 8s] (One pair : 8)
+_SKR shows [Ac Th] (One pair : Tens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h 3s 2s Tc Jh]
+Seat 2: _SKR (small blind) (button) showed [Ac Th] and won 900 with One pair : Tens
+Seat 3: Fish et chip (big blind) showed [8c 8s] and lost with One pair : 8
+
+

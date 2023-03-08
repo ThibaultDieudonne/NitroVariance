@@ -1,0 +1,55 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717273689027510273-1-1676215157 - Holdem no limit (10/20) - 2023/02/12 15:19:17 UTC
+Table: 'Expresso Nitro(632664582)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: giulian2021 (300)
+Seat 3: kikiluky68 (300)
+*** ANTE/BLINDS ***
+kikiluky68 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6h 8c]
+*** PRE-FLOP *** 
+giulian2021 folds
+kikiluky68 calls 10
+_SKR checks
+*** FLOP *** [Qd 9s Ks]
+kikiluky68 bets 20
+_SKR folds
+kikiluky68 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qd 9s Ks]
+Seat 3: kikiluky68 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717273689027510273-2-1676215170 - Holdem no limit (10/20) - 2023/02/12 15:19:30 UTC
+Table: 'Expresso Nitro(632664582)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: giulian2021 (300)
+Seat 3: kikiluky68 (320)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+giulian2021 posts big blind 20
+Dealt to _SKR [9c As]
+*** PRE-FLOP *** 
+kikiluky68 raises 20 to 40
+_SKR raises 240 to 280 and is all-in
+giulian2021 calls 260
+kikiluky68 calls 240
+*** FLOP *** [Jd Td 9d]
+giulian2021 bets 20 and is all-in
+kikiluky68 calls 20
+*** TURN *** [Jd Td 9d][9s]
+*** RIVER *** [Jd Td 9d 9s][2d]
+*** SHOW DOWN ***
+_SKR shows [9c As] (Trips of 9)
+giulian2021 shows [Qc Ac] (One pair : 9)
+kikiluky68 shows [7h 7d] (Flush Jack high)
+kikiluky68 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Jd Td 9d 9s 2d]
+Seat 1: _SKR (small blind) showed [9c As] and lost with Trips of 9
+Seat 2: giulian2021 (big blind) showed [Qc Ac] and lost with One pair : 9
+Seat 3: kikiluky68 (button) showed [7h 7d] and won 880 with Flush Jack high
+
+

@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661427182760361985-1-1673012990 - Holdem no limit (10/20) - 2023/01/06 13:49:50 UTC
+Table: 'Expresso Nitro(619661804)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Stevef07 (300)
+Seat 3: merata (300)
+*** ANTE/BLINDS ***
+Stevef07 posts small blind 10
+merata posts big blind 20
+Dealt to _SKR [5d Ts]
+*** PRE-FLOP *** 
+_SKR folds
+Stevef07 folds
+merata collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: merata (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661427182760361985-2-1673012998 - Holdem no limit (10/20) - 2023/01/06 13:49:58 UTC
+Table: 'Expresso Nitro(619661804)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Stevef07 (290)
+Seat 3: merata (310)
+*** ANTE/BLINDS ***
+merata posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [5d 9h]
+*** PRE-FLOP *** 
+Stevef07 calls 20
+merata calls 10
+_SKR checks
+*** FLOP *** [3h Td Ah]
+merata checks
+_SKR checks
+Stevef07 bets 20
+merata folds
+_SKR folds
+Stevef07 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3h Td Ah]
+Seat 2: Stevef07 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661427182760361985-3-1673013039 - Holdem no limit (10/20) - 2023/01/06 13:50:39 UTC
+Table: 'Expresso Nitro(619661804)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Stevef07 (330)
+Seat 3: merata (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Stevef07 posts big blind 20
+Dealt to _SKR [9h 4h]
+*** PRE-FLOP *** 
+merata folds
+_SKR folds
+Stevef07 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Stevef07 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661427182760361985-4-1673013051 - Holdem no limit (15/30) - 2023/01/06 13:50:51 UTC
+Table: 'Expresso Nitro(619661804)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Stevef07 (340)
+Seat 3: merata (290)
+*** ANTE/BLINDS ***
+Stevef07 posts small blind 15
+merata posts big blind 30
+Dealt to _SKR [9s Kc]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+Stevef07 raises 70 to 340 and is all-in
+merata folds
+*** FLOP *** [Qc 8c 9d]
+*** TURN *** [Qc 8c 9d][4c]
+*** RIVER *** [Qc 8c 9d 4c][Js]
+*** SHOW DOWN ***
+_SKR shows [9s Kc] (One pair : 9)
+Stevef07 shows [Td Th] (Straight Queen high)
+Stevef07 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Qc 8c 9d 4c Js]
+Seat 1: _SKR (button) showed [9s Kc] and lost with One pair : 9
+Seat 2: Stevef07 (small blind) showed [Td Th] and won 640 with Straight Queen high
+
+

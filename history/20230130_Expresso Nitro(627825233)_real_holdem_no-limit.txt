@@ -1,0 +1,123 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488843338579969-1-1675082892 - Holdem no limit (10/20) - 2023/01/30 12:48:12 UTC
+Table: 'Expresso Nitro(627825233)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jeremygad (300)
+Seat 2: Daydou34 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Daydou34 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d 3c]
+*** PRE-FLOP *** 
+jeremygad raises 280 to 300 and is all-in
+Daydou34 folds
+_SKR folds
+jeremygad collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: jeremygad (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488843338579969-2-1675082899 - Holdem no limit (10/20) - 2023/01/30 12:48:19 UTC
+Table: 'Expresso Nitro(627825233)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jeremygad (330)
+Seat 2: Daydou34 (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+jeremygad posts big blind 20
+Dealt to _SKR [Qh 2d]
+*** PRE-FLOP *** 
+Daydou34 folds
+_SKR folds
+jeremygad collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: jeremygad (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488843338579969-3-1675082905 - Holdem no limit (10/20) - 2023/01/30 12:48:25 UTC
+Table: 'Expresso Nitro(627825233)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jeremygad (340)
+Seat 2: Daydou34 (290)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+jeremygad posts small blind 10
+Daydou34 posts big blind 20
+Dealt to _SKR [Qc 4s]
+*** PRE-FLOP *** 
+_SKR folds
+jeremygad calls 10
+Daydou34 checks
+*** FLOP *** [Qd 5s 6s]
+jeremygad checks
+Daydou34 checks
+*** TURN *** [Qd 5s 6s][9d]
+jeremygad checks
+Daydou34 checks
+*** RIVER *** [Qd 5s 6s 9d][Ac]
+jeremygad checks
+Daydou34 checks
+*** SHOW DOWN ***
+jeremygad shows [4h 6c] (One pair : 6)
+Daydou34 shows [6d 7s] (One pair : 6)
+Daydou34 collected 20 from pot
+jeremygad collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qd 5s 6s 9d Ac]
+Seat 1: jeremygad (small blind) showed [4h 6c] and won 20 with One pair : 6
+Seat 2: Daydou34 (big blind) showed [6d 7s] and won 20 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488843338579969-4-1675082926 - Holdem no limit (10/20) - 2023/01/30 12:48:46 UTC
+Table: 'Expresso Nitro(627825233)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jeremygad (340)
+Seat 2: Daydou34 (290)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Daydou34 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc Qs]
+*** PRE-FLOP *** 
+jeremygad folds
+Daydou34 calls 10
+_SKR raises 250 to 270 and is all-in
+Daydou34 folds
+_SKR collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: _SKR (big blind) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696488843338579969-5-1675082938 - Holdem no limit (10/20) - 2023/01/30 12:48:58 UTC
+Table: 'Expresso Nitro(627825233)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jeremygad (340)
+Seat 2: Daydou34 (270)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+jeremygad posts big blind 20
+Dealt to _SKR [Ad Kd]
+*** PRE-FLOP *** 
+Daydou34 folds
+_SKR raises 20 to 40
+jeremygad calls 20
+*** FLOP *** [7s Jh 5s]
+_SKR bets 28
+jeremygad calls 28
+*** TURN *** [7s Jh 5s][As]
+_SKR bets 68
+jeremygad raises 204 to 272 and is all-in
+_SKR calls 154 and is all-in
+*** RIVER *** [7s Jh 5s As][Ah]
+*** SHOW DOWN ***
+_SKR shows [Ad Kd] (Trips of Aces)
+jeremygad shows [8s Qs] (Flush Ace high)
+jeremygad collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [7s Jh 5s As Ah]
+Seat 1: jeremygad (big blind) showed [8s Qs] and won 630 with Flush Ace high
+Seat 3: _SKR (small blind) showed [Ad Kd] and lost with Trips of Aces
+
+

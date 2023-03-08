@@ -1,0 +1,88 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698112933681954817-1-1675181240 - Holdem no limit (10/20) - 2023/01/31 16:07:20 UTC
+Table: 'Expresso Nitro(628203371)#0' 3-max (real money) Seat #3 is the button
+Seat 1: zaziefan18 (300)
+Seat 2: MGBUD (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+zaziefan18 posts small blind 10
+MGBUD posts big blind 20
+Dealt to _SKR [Kc 8h]
+*** PRE-FLOP *** 
+_SKR folds
+zaziefan18 calls 10
+MGBUD checks
+*** FLOP *** [7s 5c 9s]
+zaziefan18 bets 20
+MGBUD folds
+zaziefan18 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7s 5c 9s]
+Seat 1: zaziefan18 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698112933681954817-2-1675181259 - Holdem no limit (10/20) - 2023/01/31 16:07:39 UTC
+Table: 'Expresso Nitro(628203371)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zaziefan18 (320)
+Seat 2: MGBUD (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+MGBUD posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kh 7h]
+*** PRE-FLOP *** 
+zaziefan18 folds
+MGBUD raises 260 to 280 and is all-in
+_SKR folds
+MGBUD collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: MGBUD (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698112933681954817-3-1675181270 - Holdem no limit (10/20) - 2023/01/31 16:07:50 UTC
+Table: 'Expresso Nitro(628203371)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zaziefan18 (320)
+Seat 2: MGBUD (300)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+zaziefan18 posts big blind 20
+Dealt to _SKR [Ks Qs]
+*** PRE-FLOP *** 
+MGBUD folds
+_SKR raises 20 to 40
+zaziefan18 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698112933681954817-4-1675181285 - Holdem no limit (10/20) - 2023/01/31 16:08:05 UTC
+Table: 'Expresso Nitro(628203371)#0' 3-max (real money) Seat #3 is the button
+Seat 1: zaziefan18 (300)
+Seat 2: MGBUD (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+zaziefan18 posts small blind 10
+MGBUD posts big blind 20
+Dealt to _SKR [2d Ad]
+*** PRE-FLOP *** 
+_SKR raises 280 to 300 and is all-in
+zaziefan18 folds
+MGBUD calls 280 and is all-in
+*** FLOP *** [Jc Ac 9c]
+*** TURN *** [Jc Ac 9c][5c]
+*** RIVER *** [Jc Ac 9c 5c][7s]
+*** SHOW DOWN ***
+_SKR shows [2d Ad] (One pair : Aces)
+MGBUD shows [Ks Qc] (Flush Ace high)
+MGBUD collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Jc Ac 9c 5c 7s]
+Seat 2: MGBUD (big blind) showed [Ks Qc] and won 610 with Flush Ace high
+Seat 3: _SKR (button) showed [2d Ad] and lost with One pair : Aces
+
+

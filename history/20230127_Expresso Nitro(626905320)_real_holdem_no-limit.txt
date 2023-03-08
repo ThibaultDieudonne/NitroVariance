@@ -1,0 +1,442 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692537847088414721-1-1674829510 - Holdem no limit (10/20) - 2023/01/27 14:25:10 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: King_bss (300)
+Seat 3: didaevan67 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+King_bss posts big blind 20
+Dealt to _SKR [8c 2h]
+*** PRE-FLOP *** 
+didaevan67 folds
+_SKR folds
+King_bss collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: King_bss (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692537847088414721-2-1674829518 - Holdem no limit (10/20) - 2023/01/27 14:25:18 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: King_bss (310)
+Seat 3: didaevan67 (300)
+*** ANTE/BLINDS ***
+King_bss posts small blind 10
+didaevan67 posts big blind 20
+Dealt to _SKR [Kc 4d]
+*** PRE-FLOP *** 
+_SKR folds
+King_bss folds
+didaevan67 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: didaevan67 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692537847088414721-3-1674829522 - Holdem no limit (10/20) - 2023/01/27 14:25:22 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: King_bss (300)
+Seat 3: didaevan67 (310)
+*** ANTE/BLINDS ***
+didaevan67 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 8s]
+*** PRE-FLOP *** 
+King_bss folds
+didaevan67 calls 10
+_SKR checks
+*** FLOP *** [Ks 8c 8h]
+didaevan67 checks
+_SKR checks
+*** TURN *** [Ks 8c 8h][5c]
+didaevan67 checks
+_SKR bets 26
+didaevan67 folds
+_SKR collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Ks 8c 8h 5c]
+Seat 1: _SKR (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692537847088414721-4-1674829540 - Holdem no limit (10/20) - 2023/01/27 14:25:40 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: King_bss (300)
+Seat 3: didaevan67 (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+King_bss posts big blind 20
+Dealt to _SKR [3s 8c]
+*** PRE-FLOP *** 
+didaevan67 raises 270 to 290 and is all-in
+_SKR folds
+King_bss raises 10 to 300 and is all-in
+*** FLOP *** [6d 4h As]
+*** TURN *** [6d 4h As][Ts]
+*** RIVER *** [6d 4h As Ts][3c]
+*** SHOW DOWN ***
+King_bss shows [9d Kd] (High card : Ace)
+didaevan67 shows [6h 6c] (Trips of 6)
+didaevan67 collected 590 from main pot
+King_bss collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6d 4h As Ts 3c]
+Seat 2: King_bss (big blind) showed [9d Kd] and won 10 with High card : Ace
+Seat 3: didaevan67 (button) showed [6h 6c] and won 590 with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692537847088414721-5-1674829552 - Holdem no limit (10/20) - 2023/01/27 14:25:52 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: King_bss (10)
+Seat 3: didaevan67 (590)
+*** ANTE/BLINDS ***
+King_bss posts small blind 10 and is all-in
+didaevan67 posts big blind 20
+Dealt to _SKR [Qs 2c]
+*** PRE-FLOP *** 
+_SKR folds
+*** FLOP *** [Jh Ac 9d]
+*** TURN *** [Jh Ac 9d][4d]
+*** RIVER *** [Jh Ac 9d 4d][Jc]
+*** SHOW DOWN ***
+King_bss shows [7c 8s] (One pair : Jacks)
+didaevan67 shows [5d 5h] (Two pairs : Jacks and 5)
+didaevan67 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [Jh Ac 9d 4d Jc]
+Seat 2: King_bss (small blind) showed [7c 8s] and lost with One pair : Jacks
+Seat 3: didaevan67 (big blind) showed [5d 5h] and won 30 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2692537847088414721-6-1674829564 - Holdem no limit (10/20) - 2023/01/27 14:26:04 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 3: didaevan67 (600)
+*** ANTE/BLINDS ***
+didaevan67 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh 5c]
+*** PRE-FLOP *** 
+didaevan67 raises 580 to 600 and is all-in
+_SKR folds
+didaevan67 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 3: didaevan67 (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692537847088414721-7-1674829568 - Holdem no limit (15/30) - 2023/01/27 14:26:08 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (280)
+Seat 3: didaevan67 (620)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+didaevan67 posts big blind 30
+Dealt to _SKR [3d Jc]
+*** PRE-FLOP *** 
+_SKR folds
+didaevan67 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: didaevan67 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692537847088414721-8-1674829578 - Holdem no limit (15/30) - 2023/01/27 14:26:18 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (265)
+Seat 3: didaevan67 (635)
+*** ANTE/BLINDS ***
+didaevan67 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6h Qd]
+*** PRE-FLOP *** 
+didaevan67 calls 15
+_SKR checks
+*** FLOP *** [Kh Kc 6s]
+_SKR checks
+didaevan67 checks
+*** TURN *** [Kh Kc 6s][8s]
+_SKR bets 39
+didaevan67 folds
+_SKR collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [Kh Kc 6s 8s]
+Seat 1: _SKR (big blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692537847088414721-9-1674829601 - Holdem no limit (15/30) - 2023/01/27 14:26:41 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (295)
+Seat 3: didaevan67 (605)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+didaevan67 posts big blind 30
+Dealt to _SKR [9d 9h]
+*** PRE-FLOP *** 
+_SKR raises 265 to 295 and is all-in
+didaevan67 folds
+_SKR collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 1: _SKR (small blind) (button) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692537847088414721-10-1674829609 - Holdem no limit (15/30) - 2023/01/27 14:26:49 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (325)
+Seat 3: didaevan67 (575)
+*** ANTE/BLINDS ***
+didaevan67 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6s 7h]
+*** PRE-FLOP *** 
+didaevan67 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692537847088414721-11-1674829617 - Holdem no limit (15/30) - 2023/01/27 14:26:57 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (340)
+Seat 3: didaevan67 (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+didaevan67 posts big blind 30
+Dealt to _SKR [Jh 3d]
+*** PRE-FLOP *** 
+_SKR folds
+didaevan67 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: didaevan67 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2692537847088414721-12-1674829621 - Holdem no limit (15/30) - 2023/01/27 14:27:01 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (325)
+Seat 3: didaevan67 (575)
+*** ANTE/BLINDS ***
+didaevan67 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2s 7h]
+*** PRE-FLOP *** 
+didaevan67 calls 15
+_SKR checks
+*** FLOP *** [6s 3h Jh]
+_SKR checks
+didaevan67 checks
+*** TURN *** [6s 3h Jh][8d]
+_SKR checks
+didaevan67 checks
+*** RIVER *** [6s 3h Jh 8d][5d]
+_SKR checks
+didaevan67 checks
+*** SHOW DOWN ***
+_SKR shows [2s 7h] (High card : Jack)
+didaevan67 shows [8h 2c] (One pair : 8)
+didaevan67 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6s 3h Jh 8d 5d]
+Seat 1: _SKR (big blind) showed [2s 7h] and lost with High card : Jack
+Seat 3: didaevan67 (small blind) (button) showed [8h 2c] and won 60 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692537847088414721-13-1674829669 - Holdem no limit (20/40) - 2023/01/27 14:27:49 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (295)
+Seat 3: didaevan67 (605)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+didaevan67 posts big blind 40
+Dealt to _SKR [Ks 4s]
+*** PRE-FLOP *** 
+_SKR raises 255 to 295 and is all-in
+didaevan67 folds
+_SKR collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | No rake
+Seat 1: _SKR (small blind) (button) won 335
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692537847088414721-14-1674829675 - Holdem no limit (20/40) - 2023/01/27 14:27:55 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (335)
+Seat 3: didaevan67 (565)
+*** ANTE/BLINDS ***
+didaevan67 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 2d]
+*** PRE-FLOP *** 
+didaevan67 raises 525 to 565 and is all-in
+_SKR folds
+didaevan67 collected 605 from pot
+*** SUMMARY ***
+Total pot 605 | No rake
+Seat 3: didaevan67 (small blind) (button) won 605
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692537847088414721-15-1674829680 - Holdem no limit (20/40) - 2023/01/27 14:28:00 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (295)
+Seat 3: didaevan67 (605)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+didaevan67 posts big blind 40
+Dealt to _SKR [4d 2s]
+*** PRE-FLOP *** 
+_SKR folds
+didaevan67 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: didaevan67 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2692537847088414721-16-1674829683 - Holdem no limit (20/40) - 2023/01/27 14:28:03 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (275)
+Seat 3: didaevan67 (625)
+*** ANTE/BLINDS ***
+didaevan67 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ts 9h]
+*** PRE-FLOP *** 
+didaevan67 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692537847088414721-17-1674829687 - Holdem no limit (30/60) - 2023/01/27 14:28:07 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (295)
+Seat 3: didaevan67 (605)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+didaevan67 posts big blind 60
+Dealt to _SKR [Kd 5h]
+*** PRE-FLOP *** 
+_SKR raises 235 to 295 and is all-in
+didaevan67 folds
+_SKR collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 1: _SKR (small blind) (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692537847088414721-18-1674829698 - Holdem no limit (30/60) - 2023/01/27 14:28:18 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (355)
+Seat 3: didaevan67 (545)
+*** ANTE/BLINDS ***
+didaevan67 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qh Ad]
+*** PRE-FLOP *** 
+didaevan67 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692537847088414721-19-1674829702 - Holdem no limit (30/60) - 2023/01/27 14:28:22 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (385)
+Seat 3: didaevan67 (515)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+didaevan67 posts big blind 60
+Dealt to _SKR [8s Kh]
+*** PRE-FLOP *** 
+_SKR raises 325 to 385 and is all-in
+didaevan67 folds
+_SKR collected 445 from pot
+*** SUMMARY ***
+Total pot 445 | No rake
+Seat 1: _SKR (small blind) (button) won 445
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692537847088414721-20-1674829707 - Holdem no limit (30/60) - 2023/01/27 14:28:27 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (445)
+Seat 3: didaevan67 (455)
+*** ANTE/BLINDS ***
+didaevan67 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [5s Qs]
+*** PRE-FLOP *** 
+didaevan67 calls 30
+_SKR raises 385 to 445 and is all-in
+didaevan67 calls 385
+*** FLOP *** [4d Jc Qh]
+*** TURN *** [4d Jc Qh][Ts]
+*** RIVER *** [4d Jc Qh Ts][7s]
+*** SHOW DOWN ***
+didaevan67 shows [Ah 8s] (High card : Ace)
+_SKR shows [5s Qs] (One pair : Queens)
+_SKR collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [4d Jc Qh Ts 7s]
+Seat 1: _SKR (big blind) showed [5s Qs] and won 890 with One pair : Queens
+Seat 3: didaevan67 (small blind) (button) showed [Ah 8s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692537847088414721-21-1674829729 - Holdem no limit (30/60) - 2023/01/27 14:28:49 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (890)
+Seat 3: didaevan67 (10)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+didaevan67 posts big blind 10 and is all-in
+Dealt to _SKR [2c Qh]
+*** PRE-FLOP *** 
+*** FLOP *** [Td 6c 7s]
+*** TURN *** [Td 6c 7s][3s]
+*** RIVER *** [Td 6c 7s 3s][5s]
+*** SHOW DOWN ***
+_SKR shows [2c Qh] (High card : Queen)
+didaevan67 shows [3h Qc] (One pair : 3)
+didaevan67 collected 20 from main pot
+_SKR collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Td 6c 7s 3s 5s]
+Seat 1: _SKR (small blind) (button) showed [2c Qh] and won 20 with High card : Queen
+Seat 3: didaevan67 (big blind) showed [3h Qc] and won 20 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2692537847088414721-22-1674829738 - Holdem no limit (30/60) - 2023/01/27 14:28:58 UTC
+Table: 'Expresso Nitro(626905320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (880)
+Seat 3: didaevan67 (20)
+*** ANTE/BLINDS ***
+didaevan67 posts small blind 20 and is all-in
+_SKR posts big blind 60
+Dealt to _SKR [Qc 7c]
+*** PRE-FLOP *** 
+*** FLOP *** [8h 3s 7d]
+*** TURN *** [8h 3s 7d][4h]
+*** RIVER *** [8h 3s 7d 4h][3c]
+*** SHOW DOWN ***
+didaevan67 shows [Ks Jd] (One pair : 3)
+_SKR shows [Qc 7c] (Two pairs : 7 and 3)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8h 3s 7d 4h 3c]
+Seat 1: _SKR (big blind) showed [Qc 7c] and won 80 with Two pairs : 7 and 3
+Seat 3: didaevan67 (small blind) (button) showed [Ks Jd] and lost with One pair : 3
+
+

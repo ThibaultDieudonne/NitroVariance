@@ -1,0 +1,347 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691957382258360321-1-1674775127 - Holdem no limit (10/20) - 2023/01/26 23:18:47 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #3 is the button
+Seat 1: fizoune53 (300)
+Seat 2: _SKR (300)
+Seat 3: ProbaMachine (300)
+*** ANTE/BLINDS ***
+fizoune53 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d 9h]
+*** PRE-FLOP *** 
+ProbaMachine folds
+fizoune53 calls 10
+_SKR checks
+*** FLOP *** [Qs 7h 3d]
+fizoune53 checks
+_SKR checks
+*** TURN *** [Qs 7h 3d][Ac]
+fizoune53 checks
+_SKR checks
+*** RIVER *** [Qs 7h 3d Ac][Kh]
+fizoune53 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [8d 9h] (High card : Ace)
+fizoune53 shows [2s 3s] (One pair : 3)
+fizoune53 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qs 7h 3d Ac Kh]
+Seat 1: fizoune53 (small blind) showed [2s 3s] and won 40 with One pair : 3
+Seat 2: _SKR (big blind) showed [8d 9h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691957382258360321-2-1674775173 - Holdem no limit (10/20) - 2023/01/26 23:19:33 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fizoune53 (320)
+Seat 2: _SKR (280)
+Seat 3: ProbaMachine (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ProbaMachine posts big blind 20
+Dealt to _SKR [5d 2s]
+*** PRE-FLOP *** 
+fizoune53 folds
+_SKR folds
+ProbaMachine collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: ProbaMachine (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2691957382258360321-3-1674775181 - Holdem no limit (10/20) - 2023/01/26 23:19:41 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fizoune53 (320)
+Seat 2: _SKR (270)
+Seat 3: ProbaMachine (310)
+*** ANTE/BLINDS ***
+ProbaMachine posts small blind 10
+fizoune53 posts big blind 20
+Dealt to _SKR [6s 3h]
+*** PRE-FLOP *** 
+_SKR folds
+ProbaMachine folds
+fizoune53 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: fizoune53 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691957382258360321-4-1674775193 - Holdem no limit (15/30) - 2023/01/26 23:19:53 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #3 is the button
+Seat 1: fizoune53 (330)
+Seat 2: _SKR (270)
+Seat 3: ProbaMachine (300)
+*** ANTE/BLINDS ***
+fizoune53 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th 9h]
+*** PRE-FLOP *** 
+ProbaMachine raises 30 to 60
+fizoune53 calls 45
+_SKR calls 30
+*** FLOP *** [3s 6s 8d]
+fizoune53 checks
+_SKR checks
+ProbaMachine bets 60
+fizoune53 folds
+_SKR raises 150 to 210 and is all-in
+ProbaMachine calls 150
+*** TURN *** [3s 6s 8d][3d]
+*** RIVER *** [3s 6s 8d 3d][9d]
+*** SHOW DOWN ***
+ProbaMachine shows [Td Ah] (One pair : 3)
+_SKR shows [Th 9h] (Two pairs : 9 and 3)
+_SKR collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3s 6s 8d 3d 9d]
+Seat 2: _SKR (big blind) showed [Th 9h] and won 600 with Two pairs : 9 and 3
+Seat 3: ProbaMachine (button) showed [Td Ah] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2691957382258360321-5-1674775229 - Holdem no limit (15/30) - 2023/01/26 23:20:29 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fizoune53 (270)
+Seat 2: _SKR (600)
+Seat 3: ProbaMachine (30)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ProbaMachine posts big blind 30 and is all-in
+Dealt to _SKR [6d 3d]
+*** PRE-FLOP *** 
+fizoune53 calls 30
+_SKR calls 15
+*** FLOP *** [Ts Tc 2d]
+_SKR checks
+fizoune53 bets 240 and is all-in
+_SKR folds
+*** TURN *** [Ts Tc 2d][Ac]
+*** RIVER *** [Ts Tc 2d Ac][8h]
+*** SHOW DOWN ***
+fizoune53 shows [3c 3s] (Two pairs : Tens and 3)
+ProbaMachine shows [8d Kh] (Two pairs : Tens and 8)
+ProbaMachine collected 90 from main pot
+fizoune53 collected 240 from side pot 1
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Ts Tc 2d Ac 8h]
+Seat 1: fizoune53 (button) showed [3c 3s] and won 240 with Two pairs : Tens and 3
+Seat 3: ProbaMachine (big blind) showed [8d Kh] and won 90 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691957382258360321-6-1674775250 - Holdem no limit (20/40) - 2023/01/26 23:20:50 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fizoune53 (240)
+Seat 2: _SKR (570)
+Seat 3: ProbaMachine (90)
+*** ANTE/BLINDS ***
+ProbaMachine posts small blind 20
+fizoune53 posts big blind 40
+Dealt to _SKR [7d 9d]
+*** PRE-FLOP *** 
+_SKR raises 40 to 80
+ProbaMachine raises 10 to 90 and is all-in
+fizoune53 calls 50
+_SKR folds
+*** FLOP *** [8d 7h Jh]
+*** TURN *** [8d 7h Jh][6s]
+*** RIVER *** [8d 7h Jh 6s][Qd]
+*** SHOW DOWN ***
+ProbaMachine shows [5h Th] (High card : Queen)
+fizoune53 shows [9h Jc] (One pair : Jacks)
+fizoune53 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [8d 7h Jh 6s Qd]
+Seat 1: fizoune53 (big blind) showed [9h Jc] and won 260 with One pair : Jacks
+Seat 3: ProbaMachine (small blind) showed [5h Th] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691957382258360321-7-1674775272 - Holdem no limit (20/40) - 2023/01/26 23:21:12 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fizoune53 (410)
+Seat 2: _SKR (490)
+*** ANTE/BLINDS ***
+fizoune53 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3c Ah]
+*** PRE-FLOP *** 
+fizoune53 raises 370 to 410 and is all-in
+_SKR folds
+fizoune53 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 1: fizoune53 (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691957382258360321-8-1674775283 - Holdem no limit (20/40) - 2023/01/26 23:21:23 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fizoune53 (450)
+Seat 2: _SKR (450)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+fizoune53 posts big blind 40
+Dealt to _SKR [4h Js]
+*** PRE-FLOP *** 
+_SKR folds
+fizoune53 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: fizoune53 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2691957382258360321-9-1674775289 - Holdem no limit (20/40) - 2023/01/26 23:21:29 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fizoune53 (470)
+Seat 2: _SKR (430)
+*** ANTE/BLINDS ***
+fizoune53 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Tc 6d]
+*** PRE-FLOP *** 
+fizoune53 calls 20
+_SKR checks
+*** FLOP *** [Kh 4d 6s]
+_SKR checks
+fizoune53 checks
+*** TURN *** [Kh 4d 6s][Kc]
+_SKR checks
+fizoune53 checks
+*** RIVER *** [Kh 4d 6s Kc][3s]
+_SKR checks
+fizoune53 checks
+*** SHOW DOWN ***
+fizoune53 shows [3c 5c] (Two pairs : Kings and 3)
+_SKR shows [Tc 6d] (Two pairs : Kings and 6)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kh 4d 6s Kc 3s]
+Seat 1: fizoune53 (small blind) (button) showed [3c 5c] and lost with Two pairs : Kings and 3
+Seat 2: _SKR (big blind) showed [Tc 6d] and won 80 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691957382258360321-10-1674775323 - Holdem no limit (30/60) - 2023/01/26 23:22:03 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fizoune53 (430)
+Seat 2: _SKR (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+fizoune53 posts big blind 60
+Dealt to _SKR [4h Kd]
+*** PRE-FLOP *** 
+_SKR raises 410 to 470 and is all-in
+fizoune53 folds
+_SKR collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 2: _SKR (small blind) (button) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691957382258360321-11-1674775329 - Holdem no limit (30/60) - 2023/01/26 23:22:09 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fizoune53 (370)
+Seat 2: _SKR (530)
+*** ANTE/BLINDS ***
+fizoune53 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qs 6d]
+*** PRE-FLOP *** 
+fizoune53 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691957382258360321-12-1674775335 - Holdem no limit (30/60) - 2023/01/26 23:22:15 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fizoune53 (340)
+Seat 2: _SKR (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+fizoune53 posts big blind 60
+Dealt to _SKR [7h 4s]
+*** PRE-FLOP *** 
+_SKR folds
+fizoune53 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: fizoune53 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691957382258360321-13-1674775342 - Holdem no limit (30/60) - 2023/01/26 23:22:22 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fizoune53 (370)
+Seat 2: _SKR (530)
+*** ANTE/BLINDS ***
+fizoune53 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2d Js]
+*** PRE-FLOP *** 
+fizoune53 folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691957382258360321-14-1674775346 - Holdem no limit (30/60) - 2023/01/26 23:22:26 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fizoune53 (340)
+Seat 2: _SKR (560)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+fizoune53 posts big blind 60
+Dealt to _SKR [2s 8d]
+*** PRE-FLOP *** 
+_SKR folds
+fizoune53 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: fizoune53 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2691957382258360321-15-1674775354 - Holdem no limit (30/60) - 2023/01/26 23:22:34 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fizoune53 (370)
+Seat 2: _SKR (530)
+*** ANTE/BLINDS ***
+fizoune53 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Ts Js]
+*** PRE-FLOP *** 
+fizoune53 raises 310 to 370 and is all-in
+_SKR folds
+fizoune53 collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 1: fizoune53 (small blind) (button) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2691957382258360321-16-1674775367 - Holdem no limit (40/80) - 2023/01/26 23:22:47 UTC
+Table: 'Expresso Nitro(626770170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fizoune53 (430)
+Seat 2: _SKR (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+fizoune53 posts big blind 80
+Dealt to _SKR [Ac Kh]
+*** PRE-FLOP *** 
+_SKR raises 390 to 470 and is all-in
+fizoune53 calls 350 and is all-in
+*** FLOP *** [4c 9s Td]
+*** TURN *** [4c 9s Td][8d]
+*** RIVER *** [4c 9s Td 8d][5s]
+*** SHOW DOWN ***
+fizoune53 shows [Qh Ad] (High card : Ace)
+_SKR shows [Ac Kh] (High card : Ace)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c 9s Td 8d 5s]
+Seat 1: fizoune53 (big blind) showed [Qh Ad] and lost with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [Ac Kh] and won 900 with High card : Ace
+
+

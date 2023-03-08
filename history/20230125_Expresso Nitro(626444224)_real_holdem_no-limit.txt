@@ -1,0 +1,156 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690557454848098305-1-1674685828 - Holdem no limit (10/20) - 2023/01/25 22:30:28 UTC
+Table: 'Expresso Nitro(626444224)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Trickynstein (300)
+Seat 2: JoseDV (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+JoseDV posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c 5d]
+*** PRE-FLOP *** 
+Trickynstein raises 280 to 300 and is all-in
+JoseDV folds
+_SKR folds
+Trickynstein collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Trickynstein (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690557454848098305-2-1674685838 - Holdem no limit (10/20) - 2023/01/25 22:30:38 UTC
+Table: 'Expresso Nitro(626444224)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Trickynstein (330)
+Seat 2: JoseDV (290)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Trickynstein posts big blind 20
+Dealt to _SKR [6d Tc]
+*** PRE-FLOP *** 
+JoseDV raises 20 to 40
+_SKR folds
+Trickynstein raises 290 to 330 and is all-in
+JoseDV calls 250 and is all-in
+*** FLOP *** [2d Th 4d]
+*** TURN *** [2d Th 4d][Jh]
+*** RIVER *** [2d Th 4d Jh][7c]
+*** SHOW DOWN ***
+Trickynstein shows [As Qd] (High card : Ace)
+JoseDV shows [7s Ah] (One pair : 7)
+JoseDV collected 590 from main pot
+Trickynstein collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [2d Th 4d Jh 7c]
+Seat 1: Trickynstein (big blind) showed [As Qd] and won 40 with High card : Ace
+Seat 2: JoseDV (button) showed [7s Ah] and won 590 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690557454848098305-3-1674685872 - Holdem no limit (10/20) - 2023/01/25 22:31:12 UTC
+Table: 'Expresso Nitro(626444224)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Trickynstein (40)
+Seat 2: JoseDV (590)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+Trickynstein posts small blind 10
+JoseDV posts big blind 20
+Dealt to _SKR [Js 3h]
+*** PRE-FLOP *** 
+_SKR folds
+Trickynstein raises 20 to 40 and is all-in
+JoseDV raises 550 to 590 and is all-in
+*** FLOP *** [Qs Th 8s]
+*** TURN *** [Qs Th 8s][5d]
+*** RIVER *** [Qs Th 8s 5d][5s]
+*** SHOW DOWN ***
+Trickynstein shows [2c 7c] (One pair : 5)
+JoseDV shows [Qc As] (Two pairs : Queens and 5)
+JoseDV collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qs Th 8s 5d 5s]
+Seat 1: Trickynstein (small blind) showed [2c 7c] and lost with One pair : 5
+Seat 2: JoseDV (big blind) showed [Qc As] and won 630 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690557454848098305-4-1674685890 - Holdem no limit (15/30) - 2023/01/25 22:31:30 UTC
+Table: 'Expresso Nitro(626444224)#0' 3-max (real money) Seat #2 is the button
+Seat 2: JoseDV (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+JoseDV posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc 3s]
+*** PRE-FLOP *** 
+JoseDV raises 30 to 60
+_SKR folds
+JoseDV collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: JoseDV (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690557454848098305-5-1674685901 - Holdem no limit (15/30) - 2023/01/25 22:31:41 UTC
+Table: 'Expresso Nitro(626444224)#0' 3-max (real money) Seat #3 is the button
+Seat 2: JoseDV (660)
+Seat 3: _SKR (240)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+JoseDV posts big blind 30
+Dealt to _SKR [3c 4h]
+*** PRE-FLOP *** 
+_SKR folds
+JoseDV collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: JoseDV (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690557454848098305-6-1674685904 - Holdem no limit (15/30) - 2023/01/25 22:31:44 UTC
+Table: 'Expresso Nitro(626444224)#0' 3-max (real money) Seat #2 is the button
+Seat 2: JoseDV (675)
+Seat 3: _SKR (225)
+*** ANTE/BLINDS ***
+JoseDV posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jc 9c]
+*** PRE-FLOP *** 
+JoseDV raises 30 to 60
+_SKR calls 30
+*** FLOP *** [4c Jd 8h]
+_SKR checks
+JoseDV bets 60
+_SKR raises 105 to 165 and is all-in
+JoseDV folds
+_SKR collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Board: [4c Jd 8h]
+Seat 3: _SKR (big blind) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690557454848098305-7-1674685936 - Holdem no limit (15/30) - 2023/01/25 22:32:16 UTC
+Table: 'Expresso Nitro(626444224)#0' 3-max (real money) Seat #3 is the button
+Seat 2: JoseDV (555)
+Seat 3: _SKR (345)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+JoseDV posts big blind 30
+Dealt to _SKR [9d Qs]
+*** PRE-FLOP *** 
+_SKR raises 315 to 345 and is all-in
+JoseDV calls 315
+*** FLOP *** [4h 8c 3s]
+*** TURN *** [4h 8c 3s][2s]
+*** RIVER *** [4h 8c 3s 2s][4s]
+*** SHOW DOWN ***
+_SKR shows [9d Qs] (One pair : 4)
+JoseDV shows [Ah 8h] (Two pairs : 8 and 4)
+JoseDV collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [4h 8c 3s 2s 4s]
+Seat 2: JoseDV (big blind) showed [Ah 8h] and won 690 with Two pairs : 8 and 4
+Seat 3: _SKR (small blind) (button) showed [9d Qs] and lost with One pair : 4
+
+

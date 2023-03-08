@@ -1,0 +1,81 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730610374230409217-1-1676988503 - Holdem no limit (10/20) - 2023/02/21 14:08:23 UTC
+Table: 'Expresso Nitro(635769771)#0' 3-max (real money) Seat #2 is the button
+Seat 1: joh64400 (300)
+Seat 2: _SKR (300)
+Seat 3: PatateFou (300)
+*** ANTE/BLINDS ***
+PatateFou posts small blind 10
+joh64400 posts big blind 20
+Dealt to _SKR [Kc 7s]
+*** PRE-FLOP *** 
+_SKR folds
+PatateFou raises 30 to 50
+joh64400 calls 30
+*** FLOP *** [3c 2s 9s]
+PatateFou bets 35
+joh64400 calls 35
+*** TURN *** [3c 2s 9s][5s]
+PatateFou bets 60
+joh64400 calls 60
+*** RIVER *** [3c 2s 9s 5s][5d]
+PatateFou checks
+joh64400 bets 155 and is all-in
+PatateFou folds
+joh64400 collected 445 from pot
+*** SUMMARY ***
+Total pot 445 | No rake
+Board: [3c 2s 9s 5s 5d]
+Seat 1: joh64400 (big blind) won 445
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730610374230409217-2-1676988536 - Holdem no limit (10/20) - 2023/02/21 14:08:56 UTC
+Table: 'Expresso Nitro(635769771)#0' 3-max (real money) Seat #3 is the button
+Seat 1: joh64400 (445)
+Seat 2: _SKR (300)
+Seat 3: PatateFou (155)
+*** ANTE/BLINDS ***
+joh64400 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 7s]
+*** PRE-FLOP *** 
+PatateFou folds
+joh64400 calls 10
+_SKR checks
+*** FLOP *** [Kc Qs Jh]
+joh64400 bets 40
+_SKR folds
+joh64400 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kc Qs Jh]
+Seat 1: joh64400 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730610374230409217-3-1676988555 - Holdem no limit (10/20) - 2023/02/21 14:09:15 UTC
+Table: 'Expresso Nitro(635769771)#0' 3-max (real money) Seat #1 is the button
+Seat 1: joh64400 (465)
+Seat 2: _SKR (280)
+Seat 3: PatateFou (155)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+PatateFou posts big blind 20
+Dealt to _SKR [Ac 5s]
+*** PRE-FLOP *** 
+joh64400 calls 20
+_SKR raises 260 to 280 and is all-in
+PatateFou folds
+joh64400 calls 260
+*** FLOP *** [6c 2d 2s]
+*** TURN *** [6c 2d 2s][7c]
+*** RIVER *** [6c 2d 2s 7c][Ts]
+*** SHOW DOWN ***
+_SKR shows [Ac 5s] (One pair : 2)
+joh64400 shows [Jd Ad] (One pair : 2)
+joh64400 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6c 2d 2s 7c Ts]
+Seat 1: joh64400 (button) showed [Jd Ad] and won 580 with One pair : 2
+Seat 2: _SKR (small blind) showed [Ac 5s] and lost with One pair : 2
+
+

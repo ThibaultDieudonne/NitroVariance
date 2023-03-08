@@ -1,0 +1,5375 @@
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769551-1-1676578504 - Holdem no limit (25/100/200) - 2023/02/16 20:15:04 UTC
+Table: 'HARA-KIRI(623539941)#014' 8-max (real money) Seat #4 is the button
+Seat 2: BraZz2k (20000, 0.90€ bounty)
+Seat 3: _SKR (20000, 0.90€ bounty)
+Seat 4: ChaudLaHache (20000, 0.90€ bounty)
+Seat 5: Spaggiari 72 (20000, 0.90€ bounty)
+Seat 6: madpepete (20000, 0.90€ bounty)
+Seat 7: Madido (20000, 0.90€ bounty)
+Seat 8: SneaxFR (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Spaggiari 72 posts ante 25
+madpepete posts ante 25
+BraZz2k posts ante 25
+_SKR posts ante 25
+ChaudLaHache posts ante 25
+Madido posts ante 25
+SneaxFR posts ante 25
+Spaggiari 72 posts small blind 100
+madpepete posts big blind 200
+Dealt to _SKR [Ah 5c]
+*** PRE-FLOP *** 
+Madido folds
+SneaxFR calls 200
+BraZz2k calls 200
+_SKR folds
+ChaudLaHache calls 200
+Spaggiari 72 folds
+madpepete checks
+*** FLOP *** [Ts Js Tc]
+madpepete checks
+SneaxFR checks
+BraZz2k checks
+ChaudLaHache checks
+*** TURN *** [Ts Js Tc][Qc]
+madpepete checks
+SneaxFR bets 860
+BraZz2k calls 860
+ChaudLaHache raises 860 to 1720
+madpepete folds
+SneaxFR calls 860
+BraZz2k calls 860
+*** RIVER *** [Ts Js Tc Qc][8d]
+SneaxFR bets 18055 and is all-in
+BraZz2k calls 18055 and is all-in
+ChaudLaHache folds
+*** SHOW DOWN ***
+BraZz2k shows [9d 9h] (Straight Queen high)
+SneaxFR shows [Td 8h] (Full of Tens and 8)
+SneaxFR collected 42345 from pot
+*** SUMMARY ***
+Total pot 42345 | No rake
+Board: [Ts Js Tc Qc 8d]
+Seat 2: BraZz2k showed [9d 9h] and lost with Straight Queen high
+Seat 8: SneaxFR showed [Td 8h] and won 42345 with Full of Tens and 8
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769551-2-1676578593 - Holdem no limit (25/100/200) - 2023/02/16 20:16:33 UTC
+Table: 'HARA-KIRI(623539941)#014' 8-max (real money) Seat #5 is the button
+Seat 1: parisingap (20000, 0.90€ bounty)
+Seat 3: _SKR (19975, 0.90€ bounty)
+Seat 4: ChaudLaHache (18055, 0.90€ bounty)
+Seat 5: Spaggiari 72 (19875, 0.90€ bounty)
+Seat 6: madpepete (19775, 0.90€ bounty)
+Seat 7: Madido (19975, 0.90€ bounty)
+Seat 8: SneaxFR (42345, 1.35€ bounty)
+*** ANTE/BLINDS ***
+madpepete posts ante 25
+Madido posts ante 25
+parisingap posts ante 25
+_SKR posts ante 25
+ChaudLaHache posts ante 25
+Spaggiari 72 posts ante 25
+SneaxFR posts ante 25
+madpepete posts small blind 100
+Madido posts big blind 200
+Dealt to _SKR [8c Js]
+*** PRE-FLOP *** 
+SneaxFR calls 200
+parisingap calls 200
+_SKR folds
+ChaudLaHache folds
+Spaggiari 72 folds
+madpepete folds
+Madido checks
+*** FLOP *** [Qs Ac Jd]
+Madido checks
+SneaxFR bets 200
+parisingap raises 200 to 400
+Madido folds
+SneaxFR calls 200
+*** TURN *** [Qs Ac Jd][Jh]
+SneaxFR checks
+parisingap checks
+*** RIVER *** [Qs Ac Jd Jh][Tc]
+SneaxFR bets 4961
+parisingap folds
+SneaxFR collected 6636 from pot
+*** SUMMARY ***
+Total pot 6636 | No rake
+Board: [Qs Ac Jd Jh Tc]
+Seat 8: SneaxFR won 6636
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769551-3-1676578646 - Holdem no limit (25/100/200) - 2023/02/16 20:17:26 UTC
+Table: 'HARA-KIRI(623539941)#014' 8-max (real money) Seat #6 is the button
+Seat 1: parisingap (19375, 0.90€ bounty)
+Seat 2: noname22 (20000, 0.90€ bounty)
+Seat 3: _SKR (19950, 0.90€ bounty)
+Seat 4: ChaudLaHache (18030, 0.90€ bounty)
+Seat 5: Spaggiari 72 (19850, 0.90€ bounty)
+Seat 6: madpepete (19650, 0.90€ bounty)
+Seat 7: Madido (19750, 0.90€ bounty)
+Seat 8: SneaxFR (43395, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Madido posts ante 25
+SneaxFR posts ante 25
+parisingap posts ante 25
+noname22 posts ante 25
+_SKR posts ante 25
+ChaudLaHache posts ante 25
+Spaggiari 72 posts ante 25
+madpepete posts ante 25
+Madido posts small blind 100
+SneaxFR posts big blind 200
+Dealt to _SKR [2h Jd]
+*** PRE-FLOP *** 
+parisingap calls 200
+noname22 folds
+_SKR folds
+ChaudLaHache raises 400 to 600
+Spaggiari 72 raises 19225 to 19825 and is all-in
+madpepete folds
+Madido folds
+SneaxFR folds
+parisingap folds
+ChaudLaHache calls 17405 and is all-in
+*** FLOP *** [5c 9h 7c]
+*** TURN *** [5c 9h 7c][Kd]
+*** RIVER *** [5c 9h 7c Kd][9d]
+*** SHOW DOWN ***
+ChaudLaHache shows [7h 7s] (Full of 7 and 9)
+Spaggiari 72 shows [8h 8c] (Two pairs : 9 and 8)
+Spaggiari 72 collected 1820 from side pot 1
+ChaudLaHache collected 36710 from main pot
+*** SUMMARY ***
+Total pot 38530 | No rake
+Board: [5c 9h 7c Kd 9d]
+Seat 4: ChaudLaHache showed [7h 7s] and won 36710 with Full of 7 and 9
+Seat 5: Spaggiari 72 showed [8h 8c] and won 1820 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769551-4-1676578681 - Holdem no limit (25/100/200) - 2023/02/16 20:18:01 UTC
+Table: 'HARA-KIRI(623539941)#014' 8-max (real money) Seat #7 is the button
+Seat 1: parisingap (19150, 0.90€ bounty)
+Seat 3: _SKR (19925, 0.90€ bounty)
+Seat 4: ChaudLaHache (36710, 0.90€ bounty)
+Seat 5: Spaggiari 72 (1820, 0.90€ bounty)
+Seat 6: madpepete (19625, 0.90€ bounty)
+Seat 7: Madido (19625, 0.90€ bounty)
+Seat 8: SneaxFR (43170, 1.35€ bounty)
+*** ANTE/BLINDS ***
+SneaxFR posts ante 25
+parisingap posts ante 25
+_SKR posts ante 25
+ChaudLaHache posts ante 25
+Spaggiari 72 posts ante 25
+madpepete posts ante 25
+Madido posts ante 25
+SneaxFR posts small blind 100
+parisingap posts big blind 200
+Dealt to _SKR [Qd As]
+*** PRE-FLOP *** 
+_SKR raises 300 to 500
+ChaudLaHache folds
+Spaggiari 72 folds
+madpepete raises 1475 to 1975
+Madido folds
+SneaxFR folds
+parisingap raises 17150 to 19125 and is all-in
+_SKR raises 775 to 19900 and is all-in
+madpepete calls 17625 and is all-in
+*** FLOP *** [6d 7s 5d]
+*** TURN *** [6d 7s 5d][Jc]
+*** RIVER *** [6d 7s 5d Jc][Jh]
+*** SHOW DOWN ***
+parisingap shows [8c 8h] (Two pairs : Jacks and 8)
+_SKR shows [Qd As] (One pair : Jacks)
+madpepete shows [Ah Ad] (Two pairs : Aces and Jacks)
+madpepete collected 58600 from main pot
+_SKR collected 300 from side pot 1
+*** SUMMARY ***
+Total pot 58900 | No rake
+Board: [6d 7s 5d Jc Jh]
+Seat 1: parisingap (big blind) showed [8c 8h] and lost with Two pairs : Jacks and 8
+Seat 3: _SKR showed [Qd As] and won 300 with One pair : Jacks
+Seat 6: madpepete showed [Ah Ad] and won 58600 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769551-5-1676578715 - Holdem no limit (25/100/200) - 2023/02/16 20:18:35 UTC
+Table: 'HARA-KIRI(623539941)#014' 8-max (real money) Seat #8 is the button
+Seat 2: Nanoukroft (20000, 0.90€ bounty)
+Seat 3: _SKR (300, 0.90€ bounty)
+Seat 4: ChaudLaHache (36685, 0.90€ bounty)
+Seat 5: Spaggiari 72 (1795, 0.90€ bounty)
+Seat 6: madpepete (58600, 1.35€ bounty)
+Seat 7: Madido (19600, 0.90€ bounty)
+Seat 8: SneaxFR (43045, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Nanoukroft posts ante 25
+_SKR posts ante 25
+ChaudLaHache posts ante 25
+Spaggiari 72 posts ante 25
+madpepete posts ante 25
+Madido posts ante 25
+SneaxFR posts ante 25
+Nanoukroft posts big blind 200
+Dealt to _SKR [2s 3c]
+*** PRE-FLOP *** 
+_SKR folds
+ChaudLaHache folds
+Spaggiari 72 folds
+madpepete folds
+Madido folds
+SneaxFR calls 200
+Nanoukroft checks
+*** FLOP *** [6s 8h 7d]
+Nanoukroft bets 200
+SneaxFR calls 200
+*** TURN *** [6s 8h 7d][6d]
+Nanoukroft bets 200
+SneaxFR calls 200
+*** RIVER *** [6s 8h 7d 6d][8d]
+Nanoukroft bets 200
+SneaxFR folds
+Nanoukroft collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Board: [6s 8h 7d 6d 8d]
+Seat 2: Nanoukroft (big blind) won 1575
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769551-6-1676578769 - Holdem no limit (25/100/200) - 2023/02/16 20:19:29 UTC
+Table: 'HARA-KIRI(623539941)#014' 8-max (real money) Seat #1 is the button
+Seat 1: KamagrAA07 (20000, 0.90€ bounty)
+Seat 2: Nanoukroft (20750, 0.90€ bounty)
+Seat 3: _SKR (275, 0.90€ bounty)
+Seat 5: Spaggiari 72 (1770, 0.90€ bounty)
+Seat 6: madpepete (58575, 1.35€ bounty)
+Seat 7: Madido (19575, 0.90€ bounty)
+Seat 8: SneaxFR (42420, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Nanoukroft posts ante 25
+_SKR posts ante 25
+Spaggiari 72 posts ante 25
+madpepete posts ante 25
+Madido posts ante 25
+SneaxFR posts ante 25
+Nanoukroft posts small blind 100
+_SKR posts big blind 200
+Dealt to _SKR [6d Jd]
+*** PRE-FLOP *** 
+Spaggiari 72 folds
+madpepete folds
+Madido folds
+SneaxFR calls 200
+Nanoukroft raises 200 to 400
+_SKR calls 50 and is all-in
+SneaxFR calls 200
+*** FLOP *** [9c 3h Th]
+Nanoukroft checks
+SneaxFR checks
+*** TURN *** [9c 3h Th][Qd]
+Nanoukroft bets 800
+SneaxFR raises 800 to 1600
+Nanoukroft calls 800
+*** RIVER *** [9c 3h Th Qd][4h]
+Nanoukroft checks
+SneaxFR bets 3520
+Nanoukroft calls 3520
+*** SHOW DOWN ***
+Nanoukroft shows [Ad Qc] (One pair : Queens)
+_SKR shows [6d Jd] (High card : Queen)
+SneaxFR shows [9d Tc] (Two pairs : Tens and 9)
+SneaxFR collected 11440 from pot
+*** SUMMARY ***
+Total pot 11440 | No rake
+Board: [9c 3h Th Qd 4h]
+Seat 2: Nanoukroft (small blind) showed [Ad Qc] and lost with One pair : Queens
+Seat 3: _SKR (big blind) showed [6d Jd] and lost with High card : Queen
+Seat 8: SneaxFR showed [9d Tc] and won 11440 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769548-8-1676578890 - Holdem no limit (25/100/200) - 2023/02/16 20:21:30 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #1 is the button
+Seat 1: Jex64 (18625, 0.90€ bounty)
+Seat 2: viljay (19275, 0.90€ bounty)
+Seat 3: cocaglock (20775, 0.90€ bounty)
+Seat 4: mainrius (19700, 0.90€ bounty)
+Seat 5: zacefron (43765, 1.35€ bounty)
+Seat 6: LePull_Rouge (20025, 0.90€ bounty)
+Seat 7: viper13012 (17260, 0.90€ bounty)
+Seat 8: _SKR (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+cocaglock posts ante 25
+mainrius posts ante 25
+Jex64 posts ante 25
+zacefron posts ante 25
+LePull_Rouge posts ante 25
+viper13012 posts ante 25
+_SKR posts ante 25
+cocaglock posts small blind 100
+mainrius posts big blind 200
+Dealt to _SKR [As 6s]
+*** PRE-FLOP *** 
+zacefron raises 400 to 600
+LePull_Rouge folds
+viper13012 folds
+_SKR folds
+Jex64 folds
+cocaglock calls 500
+mainrius raises 400 to 1000
+zacefron calls 400
+cocaglock calls 400
+*** FLOP *** [Jd 8h 3d]
+cocaglock bets 300
+mainrius folds
+zacefron raises 1738 to 2038
+cocaglock calls 1738
+*** TURN *** [Jd 8h 3d][4d]
+cocaglock bets 17712 and is all-in
+zacefron raises 17712 to 35424
+*** RIVER *** [Jd 8h 3d 4d][5h]
+*** SHOW DOWN ***
+cocaglock shows [6d 9d] (Flush Jack high)
+zacefron shows [Qc Js] (One pair : Jacks)
+zacefron collected 17712 from side pot 1
+cocaglock collected 42675 from main pot
+*** SUMMARY ***
+Total pot 60387 | No rake
+Board: [Jd 8h 3d 4d 5h]
+Seat 3: cocaglock (small blind) showed [6d 9d] and won 42675 with Flush Jack high
+Seat 5: zacefron showed [Qc Js] and won 17712 with One pair : Jacks
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769548-9-1676578951 - Holdem no limit (25/100/200) - 2023/02/16 20:22:31 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #3 is the button
+Seat 1: Jex64 (18600, 0.90€ bounty)
+Seat 2: viljay (19275, 0.90€ bounty)
+Seat 3: cocaglock (42675, 0.90€ bounty)
+Seat 4: mainrius (18675, 0.90€ bounty)
+Seat 5: zacefron (22990, 1.35€ bounty)
+Seat 6: LePull_Rouge (20000, 0.90€ bounty)
+Seat 7: viper13012 (17235, 0.90€ bounty)
+Seat 8: _SKR (19975, 0.90€ bounty)
+*** ANTE/BLINDS ***
+mainrius posts ante 25
+zacefron posts ante 25
+Jex64 posts ante 25
+viljay posts ante 25
+cocaglock posts ante 25
+LePull_Rouge posts ante 25
+viper13012 posts ante 25
+_SKR posts ante 25
+mainrius posts small blind 100
+zacefron posts big blind 200
+Dealt to _SKR [6d 4d]
+*** PRE-FLOP *** 
+LePull_Rouge folds
+viper13012 folds
+_SKR folds
+Jex64 folds
+viljay folds
+cocaglock calls 200
+mainrius calls 100
+zacefron checks
+*** FLOP *** [9h Kh 2h]
+mainrius bets 800
+zacefron folds
+cocaglock calls 800
+*** TURN *** [9h Kh 2h][7s]
+mainrius bets 2400
+cocaglock calls 2400
+*** RIVER *** [9h Kh 2h 7s][9s]
+mainrius bets 15250 and is all-in
+cocaglock folds
+mainrius collected 22450 from pot
+*** SUMMARY ***
+Total pot 22450 | No rake
+Board: [9h Kh 2h 7s 9s]
+Seat 4: mainrius (small blind) won 22450
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769548-10-1676578995 - Holdem no limit (25/100/200) - 2023/02/16 20:23:15 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #4 is the button
+Seat 1: Jex64 (18575, 0.90€ bounty)
+Seat 2: viljay (19250, 0.90€ bounty)
+Seat 3: cocaglock (39250, 0.90€ bounty)
+Seat 4: mainrius (22450, 0.90€ bounty)
+Seat 5: zacefron (22765, 1.35€ bounty)
+Seat 6: LePull_Rouge (19975, 0.90€ bounty)
+Seat 7: viper13012 (17210, 0.90€ bounty)
+Seat 8: _SKR (19950, 0.90€ bounty)
+*** ANTE/BLINDS ***
+zacefron posts ante 25
+LePull_Rouge posts ante 25
+Jex64 posts ante 25
+viljay posts ante 25
+cocaglock posts ante 25
+mainrius posts ante 25
+viper13012 posts ante 25
+_SKR posts ante 25
+zacefron posts small blind 100
+LePull_Rouge posts big blind 200
+Dealt to _SKR [7h Td]
+*** PRE-FLOP *** 
+viper13012 calls 200
+_SKR folds
+Jex64 folds
+viljay folds
+cocaglock folds
+mainrius folds
+zacefron calls 100
+LePull_Rouge checks
+*** FLOP *** [7c Kc Jc]
+zacefron bets 800
+LePull_Rouge folds
+viper13012 calls 800
+*** TURN *** [7c Kc Jc][Ac]
+zacefron bets 1200
+viper13012 calls 1200
+*** RIVER *** [7c Kc Jc Ac][3h]
+zacefron bets 2400
+viper13012 calls 2400
+*** SHOW DOWN ***
+viper13012 shows [9c Jh] (Flush Ace high)
+zacefron shows [Jd Qc] (Flush Ace high)
+zacefron collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | No rake
+Board: [7c Kc Jc Ac 3h]
+Seat 5: zacefron (small blind) showed [Jd Qc] and won 9600 with Flush Ace high
+Seat 7: viper13012 showed [9c Jh] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769548-11-1676579043 - Holdem no limit (25/100/200) - 2023/02/16 20:24:03 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #5 is the button
+Seat 1: Jex64 (18550, 0.90€ bounty)
+Seat 2: viljay (19225, 0.90€ bounty)
+Seat 3: cocaglock (39225, 0.90€ bounty)
+Seat 4: mainrius (22425, 0.90€ bounty)
+Seat 5: zacefron (27740, 1.35€ bounty)
+Seat 6: LePull_Rouge (19750, 0.90€ bounty)
+Seat 7: viper13012 (12585, 0.90€ bounty)
+Seat 8: _SKR (19925, 0.90€ bounty)
+*** ANTE/BLINDS ***
+LePull_Rouge posts ante 25
+viper13012 posts ante 25
+Jex64 posts ante 25
+viljay posts ante 25
+cocaglock posts ante 25
+mainrius posts ante 25
+zacefron posts ante 25
+_SKR posts ante 25
+LePull_Rouge posts small blind 100
+viper13012 posts big blind 200
+Dealt to _SKR [Ks 4c]
+*** PRE-FLOP *** 
+_SKR folds
+Jex64 folds
+viljay folds
+cocaglock folds
+mainrius calls 200
+zacefron calls 200
+LePull_Rouge folds
+viper13012 checks
+*** FLOP *** [3h 6d 5h]
+viper13012 checks
+mainrius checks
+zacefron checks
+*** TURN *** [3h 6d 5h][As]
+viper13012 bets 200
+mainrius folds
+zacefron folds
+viper13012 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Board: [3h 6d 5h As]
+Seat 7: viper13012 (big blind) won 1100
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769548-12-1676579090 - Holdem no limit (25/100/200) - 2023/02/16 20:24:50 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #6 is the button
+Seat 1: Jex64 (18525, 0.90€ bounty)
+Seat 2: viljay (19200, 0.90€ bounty)
+Seat 3: cocaglock (39200, 0.90€ bounty)
+Seat 4: mainrius (22200, 0.90€ bounty)
+Seat 5: zacefron (27515, 1.35€ bounty)
+Seat 6: LePull_Rouge (19625, 0.90€ bounty)
+Seat 7: viper13012 (13260, 0.90€ bounty)
+Seat 8: _SKR (19900, 0.90€ bounty)
+*** ANTE/BLINDS ***
+viper13012 posts ante 25
+_SKR posts ante 25
+Jex64 posts ante 25
+viljay posts ante 25
+cocaglock posts ante 25
+mainrius posts ante 25
+zacefron posts ante 25
+LePull_Rouge posts ante 25
+viper13012 posts small blind 100
+_SKR posts big blind 200
+Dealt to _SKR [Kd 9s]
+*** PRE-FLOP *** 
+Jex64 folds
+viljay folds
+cocaglock folds
+mainrius folds
+zacefron raises 200 to 400
+LePull_Rouge folds
+viper13012 calls 300
+_SKR calls 200
+*** FLOP *** [Th 4h Qd]
+viper13012 bets 490
+_SKR calls 490
+zacefron raises 1694 to 2184
+viper13012 folds
+_SKR folds
+zacefron collected 4564 from pot
+*** SUMMARY ***
+Total pot 4564 | No rake
+Board: [Th 4h Qd]
+Seat 5: zacefron won 4564
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769548-13-1676579151 - Holdem no limit (25/100/200) - 2023/02/16 20:25:51 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #7 is the button
+Seat 1: Jex64 (18500, 0.90€ bounty)
+Seat 2: viljay (19175, 0.90€ bounty)
+Seat 3: cocaglock (39175, 0.90€ bounty)
+Seat 4: mainrius (22175, 0.90€ bounty)
+Seat 5: zacefron (29470, 1.35€ bounty)
+Seat 6: LePull_Rouge (19600, 0.90€ bounty)
+Seat 7: viper13012 (12345, 0.90€ bounty)
+Seat 8: _SKR (18985, 0.90€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 25
+Jex64 posts ante 25
+viljay posts ante 25
+cocaglock posts ante 25
+mainrius posts ante 25
+zacefron posts ante 25
+LePull_Rouge posts ante 25
+viper13012 posts ante 25
+_SKR posts small blind 100
+Jex64 posts big blind 200
+Dealt to _SKR [3h 7c]
+*** PRE-FLOP *** 
+viljay raises 300 to 500
+cocaglock folds
+mainrius folds
+zacefron raises 1000 to 1500
+LePull_Rouge folds
+viper13012 folds
+_SKR folds
+Jex64 folds
+viljay calls 1000
+*** FLOP *** [Ts 2h 2c]
+viljay checks
+zacefron bets 1950
+viljay folds
+zacefron collected 5450 from pot
+*** SUMMARY ***
+Total pot 5450 | No rake
+Board: [Ts 2h 2c]
+Seat 5: zacefron won 5450
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769548-14-1676579192 - Holdem no limit (25/100/200) - 2023/02/16 20:26:32 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #8 is the button
+Seat 1: Jex64 (18275, 0.90€ bounty)
+Seat 2: viljay (17650, 0.90€ bounty)
+Seat 3: cocaglock (39150, 0.90€ bounty)
+Seat 4: mainrius (22150, 0.90€ bounty)
+Seat 5: zacefron (31445, 1.35€ bounty)
+Seat 6: LePull_Rouge (19575, 0.90€ bounty)
+Seat 7: viper13012 (12320, 0.90€ bounty)
+Seat 8: _SKR (18860, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jex64 posts ante 25
+viljay posts ante 25
+cocaglock posts ante 25
+mainrius posts ante 25
+zacefron posts ante 25
+LePull_Rouge posts ante 25
+viper13012 posts ante 25
+_SKR posts ante 25
+Jex64 posts small blind 100
+viljay posts big blind 200
+Dealt to _SKR [8c Qc]
+*** PRE-FLOP *** 
+cocaglock folds
+mainrius raises 200 to 400
+zacefron folds
+LePull_Rouge folds
+viper13012 raises 800 to 1200
+_SKR folds
+Jex64 folds
+viljay folds
+mainrius calls 800
+*** FLOP *** [3d Qh 9h]
+mainrius checks
+viper13012 checks
+*** TURN *** [3d Qh 9h][Kc]
+mainrius checks
+viper13012 bets 1885
+mainrius folds
+viper13012 collected 4785 from pot
+*** SUMMARY ***
+Total pot 4785 | No rake
+Board: [3d Qh 9h Kc]
+Seat 7: viper13012 won 4785
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2678083654344769548-15-1676579241 - Holdem no limit (25/100/200) - 2023/02/16 20:27:21 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #1 is the button
+Seat 1: Jex64 (18150, 0.90€ bounty)
+Seat 2: viljay (17425, 0.90€ bounty)
+Seat 3: cocaglock (39125, 0.90€ bounty)
+Seat 4: mainrius (20925, 0.90€ bounty)
+Seat 5: zacefron (31420, 1.35€ bounty)
+Seat 6: LePull_Rouge (19550, 0.90€ bounty)
+Seat 7: viper13012 (13995, 0.90€ bounty)
+Seat 8: _SKR (18835, 0.90€ bounty)
+*** ANTE/BLINDS ***
+viljay posts ante 25
+cocaglock posts ante 25
+Jex64 posts ante 25
+mainrius posts ante 25
+zacefron posts ante 25
+LePull_Rouge posts ante 25
+viper13012 posts ante 25
+_SKR posts ante 25
+viljay posts small blind 100
+cocaglock posts big blind 200
+Dealt to _SKR [Kd Qd]
+*** PRE-FLOP *** 
+mainrius raises 700 to 900
+zacefron folds
+LePull_Rouge folds
+viper13012 folds
+_SKR calls 900
+Jex64 folds
+viljay folds
+cocaglock folds
+*** FLOP *** [Td Ad 5c]
+mainrius bets 20000 and is all-in
+_SKR calls 17910 and is all-in
+*** TURN *** [Td Ad 5c][4d]
+*** RIVER *** [Td Ad 5c 4d][8c]
+*** SHOW DOWN ***
+mainrius shows [3h Kh] (High card : Ace)
+_SKR shows [Kd Qd] (Flush Ace high)
+_SKR collected 38120 from main pot
+mainrius collected 2090 from side pot 1
+*** SUMMARY ***
+Total pot 40210 | No rake
+Board: [Td Ad 5c 4d 8c]
+Seat 4: mainrius showed [3h Kh] and won 2090 with High card : Ace
+Seat 8: _SKR showed [Kd Qd] and won 38120 with Flush Ace high
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678083654344769548-16-1676579284 - Holdem no limit (30/125/250) - 2023/02/16 20:28:04 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #2 is the button
+Seat 1: Jex64 (18125, 0.90€ bounty)
+Seat 2: viljay (17300, 0.90€ bounty)
+Seat 3: cocaglock (38900, 0.90€ bounty)
+Seat 4: mainrius (2090, 0.90€ bounty)
+Seat 5: zacefron (31395, 1.35€ bounty)
+Seat 6: LePull_Rouge (19525, 0.90€ bounty)
+Seat 7: viper13012 (13970, 0.90€ bounty)
+Seat 8: _SKR (38120, 0.90€ bounty)
+*** ANTE/BLINDS ***
+cocaglock posts ante 30
+mainrius posts ante 30
+Jex64 posts ante 30
+viljay posts ante 30
+zacefron posts ante 30
+LePull_Rouge posts ante 30
+viper13012 posts ante 30
+_SKR posts ante 30
+cocaglock posts small blind 125
+mainrius posts big blind 250
+Dealt to _SKR [Jh Qh]
+*** PRE-FLOP *** 
+zacefron folds
+LePull_Rouge folds
+viper13012 calls 250
+_SKR raises 1115 to 1365
+Jex64 folds
+viljay folds
+cocaglock folds
+mainrius raises 695 to 2060 and is all-in
+viper13012 folds
+_SKR calls 695
+*** FLOP *** [Qc 2s Ad]
+*** TURN *** [Qc 2s Ad][4s]
+*** RIVER *** [Qc 2s Ad 4s][6c]
+*** SHOW DOWN ***
+mainrius shows [2d Kc] (One pair : 2)
+_SKR shows [Jh Qh] (One pair : Queens)
+_SKR collected 4735 from pot
+*** SUMMARY ***
+Total pot 4735 | No rake
+Board: [Qc 2s Ad 4s 6c]
+Seat 4: mainrius (big blind) showed [2d Kc] and lost with One pair : 2
+Seat 8: _SKR showed [Jh Qh] and won 4735 with One pair : Queens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678083654344769548-17-1676579335 - Holdem no limit (30/125/250) - 2023/02/16 20:28:55 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #3 is the button
+Seat 1: Jex64 (18095, 0.90€ bounty)
+Seat 2: viljay (17270, 0.90€ bounty)
+Seat 3: cocaglock (38745, 0.90€ bounty)
+Seat 5: zacefron (31365, 1.35€ bounty)
+Seat 6: LePull_Rouge (19495, 0.90€ bounty)
+Seat 7: viper13012 (13690, 0.90€ bounty)
+Seat 8: _SKR (40765, 1.35€ bounty)
+*** ANTE/BLINDS ***
+zacefron posts ante 30
+Jex64 posts ante 30
+viljay posts ante 30
+cocaglock posts ante 30
+LePull_Rouge posts ante 30
+viper13012 posts ante 30
+_SKR posts ante 30
+zacefron posts big blind 250
+Dealt to _SKR [Tc 8s]
+*** PRE-FLOP *** 
+LePull_Rouge raises 500 to 750
+viper13012 folds
+_SKR folds
+Jex64 folds
+viljay folds
+cocaglock folds
+zacefron folds
+LePull_Rouge collected 1210 from pot
+*** SUMMARY ***
+Total pot 1210 | No rake
+Seat 6: LePull_Rouge won 1210
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678083654344769548-18-1676579362 - Holdem no limit (30/125/250) - 2023/02/16 20:29:22 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #4 is the button
+Seat 1: Jex64 (18065, 0.90€ bounty)
+Seat 2: viljay (17240, 0.90€ bounty)
+Seat 3: cocaglock (38715, 0.90€ bounty)
+Seat 4: P57925 (20000, 0.90€ bounty)
+Seat 5: zacefron (31085, 1.35€ bounty)
+Seat 6: LePull_Rouge (19925, 0.90€ bounty)
+Seat 7: viper13012 (13660, 0.90€ bounty)
+Seat 8: _SKR (40735, 1.35€ bounty)
+*** ANTE/BLINDS ***
+zacefron posts ante 30
+LePull_Rouge posts ante 30
+Jex64 posts ante 30
+viljay posts ante 30
+cocaglock posts ante 30
+viper13012 posts ante 30
+_SKR posts ante 30
+zacefron posts small blind 125
+LePull_Rouge posts big blind 250
+Dealt to _SKR [8h 2s]
+*** PRE-FLOP *** 
+viper13012 raises 500 to 750
+_SKR folds
+Jex64 folds
+viljay folds
+cocaglock raises 500 to 1250
+zacefron folds
+LePull_Rouge folds
+viper13012 calls 500
+*** FLOP *** [Qd Kd 8d]
+viper13012 checks
+cocaglock bets 250
+viper13012 raises 2243 to 2493
+cocaglock calls 2243
+*** TURN *** [Qd Kd 8d][4d]
+viper13012 checks
+cocaglock bets 34942 and is all-in
+viper13012 folds
+cocaglock collected 43013 from pot
+*** SUMMARY ***
+Total pot 43013 | No rake
+Board: [Qd Kd 8d 4d]
+Seat 3: cocaglock won 43013
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2678083654344769548-19-1676579415 - Holdem no limit (30/125/250) - 2023/02/16 20:30:15 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #5 is the button
+Seat 1: Jex64 (18035, 0.90€ bounty)
+Seat 2: viljay (17210, 0.90€ bounty)
+Seat 3: cocaglock (43013, 0.90€ bounty)
+Seat 4: P57925 (20000, 0.90€ bounty)
+Seat 5: zacefron (30930, 1.35€ bounty)
+Seat 6: LePull_Rouge (19645, 0.90€ bounty)
+Seat 7: viper13012 (9887, 0.90€ bounty)
+Seat 8: _SKR (40705, 1.35€ bounty)
+*** ANTE/BLINDS ***
+LePull_Rouge posts ante 30
+viper13012 posts ante 30
+Jex64 posts ante 30
+viljay posts ante 30
+cocaglock posts ante 30
+P57925 posts ante 30
+zacefron posts ante 30
+_SKR posts ante 30
+LePull_Rouge posts small blind 125
+viper13012 posts big blind 250
+Dealt to _SKR [Kh 5s]
+*** PRE-FLOP *** 
+_SKR folds
+Jex64 folds
+viljay folds
+cocaglock folds
+P57925 folds
+zacefron folds
+LePull_Rouge folds
+viper13012 collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Seat 7: viper13012 (big blind) won 615
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678083654344769548-20-1676579523 - Holdem no limit (35/150/300) - 2023/02/16 20:32:03 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #6 is the button
+Seat 1: Jex64 (18005, 0.90€ bounty)
+Seat 2: viljay (17180, 0.90€ bounty)
+Seat 3: cocaglock (42983, 0.90€ bounty)
+Seat 4: P57925 (19970, 0.90€ bounty)
+Seat 5: zacefron (30900, 1.35€ bounty)
+Seat 6: LePull_Rouge (19490, 0.90€ bounty)
+Seat 7: viper13012 (10222, 0.90€ bounty)
+Seat 8: _SKR (40675, 1.35€ bounty)
+*** ANTE/BLINDS ***
+viper13012 posts ante 35
+_SKR posts ante 35
+Jex64 posts ante 35
+viljay posts ante 35
+cocaglock posts ante 35
+P57925 posts ante 35
+zacefron posts ante 35
+LePull_Rouge posts ante 35
+viper13012 posts small blind 150
+_SKR posts big blind 300
+Dealt to _SKR [2d 5c]
+*** PRE-FLOP *** 
+Jex64 calls 300
+viljay raises 450 to 750
+cocaglock folds
+P57925 folds
+zacefron folds
+LePull_Rouge folds
+viper13012 raises 9437 to 10187 and is all-in
+_SKR folds
+Jex64 folds
+viljay calls 9437
+*** FLOP *** [2h 9c 7d]
+*** TURN *** [2h 9c 7d][Qd]
+*** RIVER *** [2h 9c 7d Qd][2c]
+*** SHOW DOWN ***
+viper13012 shows [Ad Tc] (One pair : 2)
+viljay shows [Qc Kh] (Two pairs : Queens and 2)
+viljay collected 21254 from pot
+*** SUMMARY ***
+Total pot 21254 | No rake
+Board: [2h 9c 7d Qd 2c]
+Seat 2: viljay showed [Qc Kh] and won 21254 with Two pairs : Queens and 2
+Seat 7: viper13012 (small blind) showed [Ad Tc] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2678083654344769548-21-1676579567 - Holdem no limit (35/150/300) - 2023/02/16 20:32:47 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #7 is the button
+Seat 1: Jex64 (17670, 0.90€ bounty)
+Seat 2: viljay (28212, 1.35€ bounty)
+Seat 3: cocaglock (42948, 0.90€ bounty)
+Seat 4: P57925 (19935, 0.90€ bounty)
+Seat 5: zacefron (30865, 1.35€ bounty)
+Seat 6: LePull_Rouge (19455, 0.90€ bounty)
+Seat 8: _SKR (40340, 1.35€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 35
+Jex64 posts ante 35
+viljay posts ante 35
+cocaglock posts ante 35
+P57925 posts ante 35
+zacefron posts ante 35
+LePull_Rouge posts ante 35
+_SKR posts small blind 150
+Jex64 posts big blind 300
+Dealt to _SKR [4d 6s]
+*** PRE-FLOP *** 
+viljay raises 300 to 600
+cocaglock raises 300 to 900
+P57925 folds
+zacefron folds
+LePull_Rouge folds
+_SKR folds
+Jex64 raises 16735 to 17635 and is all-in
+viljay folds
+cocaglock calls 16735
+*** FLOP *** [Ah 3c Ad]
+*** TURN *** [Ah 3c Ad][3s]
+*** RIVER *** [Ah 3c Ad 3s][6h]
+*** SHOW DOWN ***
+cocaglock shows [Kh 7d] (Two pairs : Aces and 3)
+Jex64 shows [Ts Td] (Two pairs : Aces and Tens)
+Jex64 collected 36265 from pot
+*** SUMMARY ***
+Total pot 36265 | No rake
+Board: [Ah 3c Ad 3s 6h]
+Seat 1: Jex64 (big blind) showed [Ts Td] and won 36265 with Two pairs : Aces and Tens
+Seat 3: cocaglock showed [Kh 7d] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678083654344769548-22-1676579624 - Holdem no limit (40/175/350) - 2023/02/16 20:33:44 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #8 is the button
+Seat 1: Jex64 (36265, 0.90€ bounty)
+Seat 2: viljay (27577, 1.35€ bounty)
+Seat 3: cocaglock (25278, 0.90€ bounty)
+Seat 4: P57925 (19900, 0.90€ bounty)
+Seat 5: zacefron (30830, 1.35€ bounty)
+Seat 6: LePull_Rouge (19420, 0.90€ bounty)
+Seat 7: Madroni (20000, 0.90€ bounty)
+Seat 8: _SKR (40155, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Jex64 posts ante 40
+viljay posts ante 40
+cocaglock posts ante 40
+P57925 posts ante 40
+zacefron posts ante 40
+LePull_Rouge posts ante 40
+Madroni posts ante 40
+_SKR posts ante 40
+Jex64 posts small blind 175
+viljay posts big blind 350
+Dealt to _SKR [8s Th]
+*** PRE-FLOP *** 
+cocaglock raises 350 to 700
+P57925 folds
+zacefron folds
+LePull_Rouge folds
+Madroni folds
+_SKR folds
+Jex64 folds
+viljay calls 350
+*** FLOP *** [6c 6d 4h]
+viljay checks
+cocaglock checks
+*** TURN *** [6c 6d 4h][Js]
+viljay checks
+cocaglock checks
+*** RIVER *** [6c 6d 4h Js][4c]
+viljay checks
+cocaglock checks
+*** SHOW DOWN ***
+viljay shows [Ah 8d] (Two pairs : 6 and 4)
+cocaglock shows [Qh Ac] (Two pairs : 6 and 4)
+cocaglock collected 948 from pot
+viljay collected 947 from pot
+*** SUMMARY ***
+Total pot 1895 | No rake
+Board: [6c 6d 4h Js 4c]
+Seat 2: viljay (big blind) showed [Ah 8d] and won 947 with Two pairs : 6 and 4
+Seat 3: cocaglock showed [Qh Ac] and won 948 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678083654344769548-23-1676579664 - Holdem no limit (40/175/350) - 2023/02/16 20:34:24 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #1 is the button
+Seat 1: Jex64 (36050, 0.90€ bounty)
+Seat 2: viljay (27784, 1.35€ bounty)
+Seat 3: cocaglock (25486, 0.90€ bounty)
+Seat 4: P57925 (19860, 0.90€ bounty)
+Seat 5: zacefron (30790, 1.35€ bounty)
+Seat 6: LePull_Rouge (19380, 0.90€ bounty)
+Seat 7: Madroni (19960, 0.90€ bounty)
+Seat 8: _SKR (40115, 1.35€ bounty)
+*** ANTE/BLINDS ***
+viljay posts ante 40
+cocaglock posts ante 40
+Jex64 posts ante 40
+P57925 posts ante 40
+zacefron posts ante 40
+LePull_Rouge posts ante 40
+Madroni posts ante 40
+_SKR posts ante 40
+viljay posts small blind 175
+cocaglock posts big blind 350
+Dealt to _SKR [3c Td]
+*** PRE-FLOP *** 
+P57925 folds
+zacefron raises 350 to 700
+LePull_Rouge raises 1750 to 2450
+Madroni folds
+_SKR folds
+Jex64 folds
+viljay folds
+cocaglock raises 1750 to 4200
+zacefron folds
+LePull_Rouge calls 1750
+*** FLOP *** [5c 4d 8c]
+cocaglock bets 21246 and is all-in
+LePull_Rouge folds
+cocaglock collected 30841 from pot
+*** SUMMARY ***
+Total pot 30841 | No rake
+Board: [5c 4d 8c]
+Seat 3: cocaglock (big blind) won 30841
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2678083654344769548-24-1676579711 - Holdem no limit (40/175/350) - 2023/02/16 20:35:11 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #2 is the button
+Seat 1: Jex64 (36010, 0.90€ bounty)
+Seat 2: viljay (27569, 1.35€ bounty)
+Seat 3: cocaglock (30841, 0.90€ bounty)
+Seat 4: P57925 (19820, 0.90€ bounty)
+Seat 5: zacefron (30050, 1.35€ bounty)
+Seat 6: LePull_Rouge (15140, 0.90€ bounty)
+Seat 7: Madroni (19920, 0.90€ bounty)
+Seat 8: _SKR (40075, 1.35€ bounty)
+*** ANTE/BLINDS ***
+cocaglock posts ante 40
+P57925 posts ante 40
+Jex64 posts ante 40
+viljay posts ante 40
+zacefron posts ante 40
+LePull_Rouge posts ante 40
+Madroni posts ante 40
+_SKR posts ante 40
+cocaglock posts small blind 175
+P57925 posts big blind 350
+Dealt to _SKR [Th 2s]
+*** PRE-FLOP *** 
+zacefron calls 350
+LePull_Rouge folds
+Madroni calls 350
+_SKR folds
+Jex64 folds
+viljay folds
+cocaglock calls 175
+P57925 checks
+*** FLOP *** [8s 7d Qc]
+cocaglock checks
+P57925 checks
+zacefron checks
+Madroni bets 1118
+cocaglock calls 1118
+P57925 folds
+zacefron folds
+*** TURN *** [8s 7d Qc][4c]
+cocaglock bets 1978
+Madroni calls 1978
+*** RIVER *** [8s 7d Qc 4c][6c]
+cocaglock bets 350
+Madroni raises 16084 to 16434 and is all-in
+cocaglock raises 10921 to 27355 and is all-in
+*** SHOW DOWN ***
+Madroni shows [Kh 8d] (One pair : 8)
+cocaglock shows [Ts 9h] (Straight Ten high)
+cocaglock collected 51701 from pot
+*** SUMMARY ***
+Total pot 51701 | No rake
+Board: [8s 7d Qc 4c 6c]
+Seat 3: cocaglock (small blind) showed [Ts 9h] and won 51701 with Straight Ten high
+Seat 7: Madroni showed [Kh 8d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678083654344769548-25-1676579796 - Holdem no limit (50/200/400) - 2023/02/16 20:36:36 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #3 is the button
+Seat 1: Jex64 (35970, 0.90€ bounty)
+Seat 2: viljay (27529, 1.35€ bounty)
+Seat 3: cocaglock (51701, 1.35€ bounty)
+Seat 4: P57925 (19430, 0.90€ bounty)
+Seat 5: zacefron (29660, 1.35€ bounty)
+Seat 6: LePull_Rouge (15100, 0.90€ bounty)
+Seat 8: _SKR (40035, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P57925 posts ante 50
+zacefron posts ante 50
+Jex64 posts ante 50
+viljay posts ante 50
+cocaglock posts ante 50
+LePull_Rouge posts ante 50
+_SKR posts ante 50
+P57925 posts small blind 200
+zacefron posts big blind 400
+Dealt to _SKR [5h Js]
+*** PRE-FLOP *** 
+LePull_Rouge folds
+_SKR folds
+Jex64 folds
+viljay folds
+cocaglock calls 400
+P57925 calls 200
+zacefron checks
+*** FLOP *** [5c 5s 8h]
+P57925 checks
+zacefron checks
+cocaglock bets 400
+P57925 raises 1388 to 1788
+zacefron folds
+cocaglock calls 1388
+*** TURN *** [5c 5s 8h][Ad]
+P57925 checks
+cocaglock checks
+*** RIVER *** [5c 5s 8h Ad][2d]
+P57925 bets 3332
+cocaglock folds
+P57925 collected 8458 from pot
+*** SUMMARY ***
+Total pot 8458 | No rake
+Board: [5c 5s 8h Ad 2d]
+Seat 4: P57925 (small blind) won 8458
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2678083654344769548-26-1676579863 - Holdem no limit (50/200/400) - 2023/02/16 20:37:43 UTC
+Table: 'HARA-KIRI(623539941)#011' 8-max (real money) Seat #4 is the button
+Seat 1: Jex64 (35920, 0.90€ bounty)
+Seat 2: viljay (27479, 1.35€ bounty)
+Seat 3: cocaglock (49463, 1.35€ bounty)
+Seat 4: P57925 (22318, 0.90€ bounty)
+Seat 5: zacefron (29210, 1.35€ bounty)
+Seat 6: LePull_Rouge (15050, 0.90€ bounty)
+Seat 8: _SKR (39985, 1.35€ bounty)
+*** ANTE/BLINDS ***
+zacefron posts ante 50
+LePull_Rouge posts ante 50
+Jex64 posts ante 50
+viljay posts ante 50
+cocaglock posts ante 50
+P57925 posts ante 50
+_SKR posts ante 50
+zacefron posts small blind 200
+LePull_Rouge posts big blind 400
+Dealt to _SKR [9c Th]
+*** PRE-FLOP *** 
+_SKR folds
+Jex64 folds
+viljay raises 400 to 800
+cocaglock folds
+P57925 calls 800
+zacefron folds
+LePull_Rouge calls 400
+*** FLOP *** [9d 5h 9h]
+LePull_Rouge checks
+viljay bets 1033
+P57925 raises 2899 to 3932
+LePull_Rouge folds
+viljay raises 22697 to 26629 and is all-in
+P57925 calls 17536 and is all-in
+*** TURN *** [9d 5h 9h][3c]
+*** RIVER *** [9d 5h 9h 3c][6d]
+*** SHOW DOWN ***
+viljay shows [Ah 3h] (Two pairs : 9 and 3)
+P57925 shows [Jh 6h] (Two pairs : 9 and 6)
+P57925 collected 45886 from main pot
+viljay collected 5161 from side pot 1
+*** SUMMARY ***
+Total pot 51047 | No rake
+Board: [9d 5h 9h 3c 6d]
+Seat 2: viljay showed [Ah 3h] and won 5161 with Two pairs : 9 and 3
+Seat 4: P57925 (button) showed [Jh 6h] and won 45886 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678083654344769555-26-1676579975 - Holdem no limit (60/250/500) - 2023/02/16 20:39:35 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #4 is the button
+Seat 1: btd73 (6020, 0.90€ bounty)
+Seat 2: 3baret (20000, 0.90€ bounty)
+Seat 3: _SKR (39935, 1.35€ bounty)
+Seat 4: ElKhalito (15317, 0.90€ bounty)
+Seat 5: stupeflipvit (18120, 0.90€ bounty)
+Seat 6: TluanerXila (42338, 1.35€ bounty)
+Seat 7: SamDamGee (64695, 0.90€ bounty)
+Seat 8: zazalove07 (88899, 2.70€ bounty)
+*** ANTE/BLINDS ***
+stupeflipvit posts ante 60
+TluanerXila posts ante 60
+btd73 posts ante 60
+3baret posts ante 60
+_SKR posts ante 60
+SamDamGee posts ante 60
+zazalove07 posts ante 60
+stupeflipvit posts small blind 250
+TluanerXila posts big blind 500
+Dealt to _SKR [7d 6d]
+*** PRE-FLOP *** 
+SamDamGee folds
+zazalove07 folds
+btd73 raises 5460 to 5960 and is all-in
+3baret folds
+_SKR folds
+stupeflipvit folds
+TluanerXila folds
+btd73 collected 7130 from pot
+*** SUMMARY ***
+Total pot 7130 | No rake
+Seat 1: btd73 won 7130
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2678083654344769555-27-1676580013 - Holdem no limit (60/250/500) - 2023/02/16 20:40:13 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #5 is the button
+Seat 1: btd73 (7130, 0.90€ bounty)
+Seat 2: 3baret (19940, 0.90€ bounty)
+Seat 3: _SKR (39875, 1.35€ bounty)
+Seat 4: ElKhalito (15317, 0.90€ bounty)
+Seat 5: stupeflipvit (17810, 0.90€ bounty)
+Seat 6: TluanerXila (41778, 1.35€ bounty)
+Seat 7: SamDamGee (64635, 0.90€ bounty)
+*** ANTE/BLINDS ***
+TluanerXila posts ante 60
+SamDamGee posts ante 60
+btd73 posts ante 60
+3baret posts ante 60
+_SKR posts ante 60
+ElKhalito posts ante 60
+stupeflipvit posts ante 60
+TluanerXila posts small blind 250
+SamDamGee posts big blind 500
+Dealt to _SKR [4d Ks]
+*** PRE-FLOP *** 
+btd73 folds
+3baret raises 600 to 1100
+_SKR folds
+ElKhalito folds
+stupeflipvit calls 1100
+TluanerXila folds
+SamDamGee calls 600
+*** FLOP *** [Qc Ac 5h]
+SamDamGee checks
+3baret checks
+stupeflipvit checks
+*** TURN *** [Qc Ac 5h][Qd]
+SamDamGee bets 1985
+3baret folds
+stupeflipvit folds
+SamDamGee collected 5955 from pot
+*** SUMMARY ***
+Total pot 5955 | No rake
+Board: [Qc Ac 5h Qd]
+Seat 7: SamDamGee (big blind) won 5955
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678083654344769555-28-1676580073 - Holdem no limit (70/300/600) - 2023/02/16 20:41:13 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #6 is the button
+Seat 1: btd73 (7070, 0.90€ bounty)
+Seat 2: 3baret (18780, 0.90€ bounty)
+Seat 3: _SKR (39815, 1.35€ bounty)
+Seat 4: ElKhalito (15257, 0.90€ bounty)
+Seat 5: stupeflipvit (16650, 0.90€ bounty)
+Seat 6: TluanerXila (41468, 1.35€ bounty)
+Seat 7: SamDamGee (67445, 0.90€ bounty)
+Seat 8: ilmanifico59 (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+SamDamGee posts ante 70
+ilmanifico59 posts ante 70
+btd73 posts ante 70
+3baret posts ante 70
+_SKR posts ante 70
+ElKhalito posts ante 70
+stupeflipvit posts ante 70
+TluanerXila posts ante 70
+SamDamGee posts small blind 300
+ilmanifico59 posts big blind 600
+Dealt to _SKR [7s Ad]
+*** PRE-FLOP *** 
+btd73 raises 6400 to 7000 and is all-in
+3baret folds
+_SKR folds
+ElKhalito folds
+stupeflipvit folds
+TluanerXila folds
+SamDamGee raises 60375 to 67375 and is all-in
+ilmanifico59 folds
+*** FLOP *** [2c 3s Qc]
+*** TURN *** [2c 3s Qc][9h]
+*** RIVER *** [2c 3s Qc 9h][8h]
+*** SHOW DOWN ***
+btd73 shows [Ts Ac] (High card : Ace)
+SamDamGee shows [Qs Kh] (One pair : Queens)
+SamDamGee collected 75535 from pot
+*** SUMMARY ***
+Total pot 75535 | No rake
+Board: [2c 3s Qc 9h 8h]
+Seat 1: btd73 showed [Ts Ac] and lost with High card : Ace
+Seat 7: SamDamGee (small blind) showed [Qs Kh] and won 75535 with One pair : Queens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2678083654344769555-29-1676580133 - Holdem no limit (70/300/600) - 2023/02/16 20:42:13 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #7 is the button
+Seat 2: 3baret (18710, 0.90€ bounty)
+Seat 3: _SKR (39745, 1.35€ bounty)
+Seat 4: ElKhalito (15187, 0.90€ bounty)
+Seat 5: stupeflipvit (16580, 0.90€ bounty)
+Seat 6: TluanerXila (41398, 1.35€ bounty)
+Seat 7: SamDamGee (75535, 1.35€ bounty)
+Seat 8: ilmanifico59 (19330, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ilmanifico59 posts ante 70
+3baret posts ante 70
+_SKR posts ante 70
+ElKhalito posts ante 70
+stupeflipvit posts ante 70
+TluanerXila posts ante 70
+SamDamGee posts ante 70
+ilmanifico59 posts small blind 300
+3baret posts big blind 600
+Dealt to _SKR [2h Jc]
+*** PRE-FLOP *** 
+_SKR folds
+ElKhalito calls 600
+stupeflipvit calls 600
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 calls 300
+3baret checks
+*** FLOP *** [9s Ad Kd]
+ilmanifico59 checks
+3baret checks
+ElKhalito checks
+stupeflipvit checks
+*** TURN *** [9s Ad Kd][7s]
+ilmanifico59 bets 600
+3baret folds
+ElKhalito calls 600
+stupeflipvit folds
+*** RIVER *** [9s Ad Kd 7s][8d]
+ilmanifico59 checks
+ElKhalito checks
+*** SHOW DOWN ***
+ElKhalito shows [Qs 3s] (High card : Ace)
+ilmanifico59 shows [Th 7d] (One pair : 7)
+ilmanifico59 collected 4090 from pot
+*** SUMMARY ***
+Total pot 4090 | No rake
+Board: [9s Ad Kd 7s 8d]
+Seat 4: ElKhalito showed [Qs 3s] and lost with High card : Ace
+Seat 8: ilmanifico59 (small blind) showed [Th 7d] and won 4090 with One pair : 7
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678083654344769555-30-1676580247 - Holdem no limit (80/350/700) - 2023/02/16 20:44:07 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #8 is the button
+Seat 1: Charles_ma5 (20000, 0.90€ bounty)
+Seat 2: 3baret (18040, 0.90€ bounty)
+Seat 3: _SKR (39675, 1.35€ bounty)
+Seat 4: ElKhalito (13917, 0.90€ bounty)
+Seat 5: stupeflipvit (15910, 0.90€ bounty)
+Seat 6: TluanerXila (41328, 1.35€ bounty)
+Seat 7: SamDamGee (75465, 1.35€ bounty)
+Seat 8: ilmanifico59 (22150, 0.90€ bounty)
+*** ANTE/BLINDS ***
+3baret posts ante 80
+_SKR posts ante 80
+ElKhalito posts ante 80
+stupeflipvit posts ante 80
+TluanerXila posts ante 80
+SamDamGee posts ante 80
+ilmanifico59 posts ante 80
+3baret posts small blind 350
+_SKR posts big blind 700
+Dealt to _SKR [5s 4d]
+*** PRE-FLOP *** 
+ElKhalito folds
+stupeflipvit folds
+TluanerXila folds
+SamDamGee raises 1050 to 1750
+ilmanifico59 folds
+3baret folds
+_SKR folds
+SamDamGee collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Seat 7: SamDamGee won 3360
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2678083654344769555-31-1676580294 - Holdem no limit (80/350/700) - 2023/02/16 20:44:54 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #2 is the button
+Seat 1: Charles_ma5 (20000, 0.90€ bounty)
+Seat 2: 3baret (17610, 0.90€ bounty)
+Seat 3: _SKR (38895, 1.35€ bounty)
+Seat 4: ElKhalito (13837, 0.90€ bounty)
+Seat 5: stupeflipvit (15830, 0.90€ bounty)
+Seat 6: TluanerXila (41248, 1.35€ bounty)
+Seat 7: SamDamGee (76995, 1.35€ bounty)
+Seat 8: ilmanifico59 (22070, 0.90€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 80
+ElKhalito posts ante 80
+Charles_ma5 posts ante 80
+3baret posts ante 80
+stupeflipvit posts ante 80
+TluanerXila posts ante 80
+SamDamGee posts ante 80
+ilmanifico59 posts ante 80
+_SKR posts small blind 350
+ElKhalito posts big blind 700
+Dealt to _SKR [2s Kd]
+*** PRE-FLOP *** 
+stupeflipvit folds
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 folds
+Charles_ma5 folds
+3baret raises 840 to 1540
+_SKR folds
+ElKhalito calls 840
+*** FLOP *** [7h Ts 6s]
+ElKhalito bets 700
+3baret calls 700
+*** TURN *** [7h Ts 6s][Jc]
+ElKhalito checks
+3baret checks
+*** RIVER *** [7h Ts 6s Jc][Tc]
+ElKhalito bets 1915
+3baret raises 2985 to 4900
+ElKhalito folds
+3baret shows [Qs 9d] (One pair : Tens)
+3baret collected 12285 from pot
+*** SUMMARY ***
+Total pot 12285 | No rake
+Board: [7h Ts 6s Jc Tc]
+Seat 2: 3baret (button) showed [Qs 9d] and won 12285 with One pair : Tens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678083654344769555-32-1676580377 - Holdem no limit (100/400/800) - 2023/02/16 20:46:17 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #3 is the button
+Seat 1: Charles_ma5 (19920, 0.90€ bounty)
+Seat 2: 3baret (22675, 0.90€ bounty)
+Seat 3: _SKR (38465, 1.35€ bounty)
+Seat 4: ElKhalito (9602, 0.90€ bounty)
+Seat 5: stupeflipvit (15750, 0.90€ bounty)
+Seat 6: TluanerXila (41168, 1.35€ bounty)
+Seat 7: SamDamGee (76915, 1.35€ bounty)
+Seat 8: ilmanifico59 (21990, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ElKhalito posts ante 100
+stupeflipvit posts ante 100
+Charles_ma5 posts ante 100
+3baret posts ante 100
+_SKR posts ante 100
+TluanerXila posts ante 100
+SamDamGee posts ante 100
+ilmanifico59 posts ante 100
+ElKhalito posts small blind 400
+stupeflipvit posts big blind 800
+Dealt to _SKR [9c Ac]
+*** PRE-FLOP *** 
+TluanerXila folds
+SamDamGee raises 800 to 1600
+ilmanifico59 folds
+Charles_ma5 folds
+3baret folds
+_SKR calls 1600
+ElKhalito raises 7902 to 9502 and is all-in
+stupeflipvit folds
+SamDamGee calls 7902
+_SKR calls 7902
+*** FLOP *** [3d Qs 4s]
+SamDamGee bets 67313 and is all-in
+_SKR folds
+*** TURN *** [3d Qs 4s][6s]
+*** RIVER *** [3d Qs 4s 6s][5c]
+*** SHOW DOWN ***
+ElKhalito shows [Kh Ts] (High card : King)
+SamDamGee shows [Qh Kc] (One pair : Queens)
+SamDamGee collected 97419 from pot
+*** SUMMARY ***
+Total pot 97419 | No rake
+Board: [3d Qs 4s 6s 5c]
+Seat 4: ElKhalito (small blind) showed [Kh Ts] and lost with High card : King
+Seat 7: SamDamGee showed [Qh Kc] and won 97419 with One pair : Queens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678083654344769555-33-1676580450 - Holdem no limit (100/400/800) - 2023/02/16 20:47:30 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #4 is the button
+Seat 1: Charles_ma5 (19820, 0.90€ bounty)
+Seat 2: 3baret (22575, 0.90€ bounty)
+Seat 3: _SKR (28863, 1.35€ bounty)
+Seat 5: stupeflipvit (14850, 0.90€ bounty)
+Seat 6: TluanerXila (41068, 1.35€ bounty)
+Seat 7: SamDamGee (97419, 1.80€ bounty)
+Seat 8: ilmanifico59 (21890, 0.90€ bounty)
+*** ANTE/BLINDS ***
+stupeflipvit posts ante 100
+TluanerXila posts ante 100
+Charles_ma5 posts ante 100
+3baret posts ante 100
+_SKR posts ante 100
+SamDamGee posts ante 100
+ilmanifico59 posts ante 100
+stupeflipvit posts small blind 400
+TluanerXila posts big blind 800
+Dealt to _SKR [9d 5s]
+*** PRE-FLOP *** 
+SamDamGee folds
+ilmanifico59 folds
+Charles_ma5 folds
+3baret folds
+_SKR folds
+stupeflipvit folds
+TluanerXila collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 6: TluanerXila (big blind) won 1900
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2678083654344769555-34-1676580472 - Holdem no limit (100/400/800) - 2023/02/16 20:47:52 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #5 is the button
+Seat 1: Charles_ma5 (19720, 0.90€ bounty)
+Seat 2: 3baret (22475, 0.90€ bounty)
+Seat 3: _SKR (28763, 1.35€ bounty)
+Seat 5: stupeflipvit (14350, 0.90€ bounty)
+Seat 6: TluanerXila (42068, 1.35€ bounty)
+Seat 7: SamDamGee (97319, 1.80€ bounty)
+Seat 8: ilmanifico59 (21790, 0.90€ bounty)
+*** ANTE/BLINDS ***
+TluanerXila posts ante 100
+SamDamGee posts ante 100
+Charles_ma5 posts ante 100
+3baret posts ante 100
+_SKR posts ante 100
+stupeflipvit posts ante 100
+ilmanifico59 posts ante 100
+TluanerXila posts small blind 400
+SamDamGee posts big blind 800
+Dealt to _SKR [Ah 8s]
+*** PRE-FLOP *** 
+ilmanifico59 folds
+Charles_ma5 folds
+3baret folds
+_SKR raises 1000 to 1800
+stupeflipvit folds
+TluanerXila folds
+SamDamGee folds
+_SKR collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Seat 3: _SKR won 3700
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2678083654344769555-35-1676580523 - Holdem no limit (120/500/1000) - 2023/02/16 20:48:43 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #6 is the button
+Seat 1: Charles_ma5 (19620, 0.90€ bounty)
+Seat 2: 3baret (22375, 0.90€ bounty)
+Seat 3: _SKR (30563, 1.35€ bounty)
+Seat 4: franckyom49 (20000, 0.90€ bounty)
+Seat 5: stupeflipvit (14250, 0.90€ bounty)
+Seat 6: TluanerXila (41568, 1.35€ bounty)
+Seat 7: SamDamGee (96419, 1.80€ bounty)
+Seat 8: ilmanifico59 (21690, 0.90€ bounty)
+*** ANTE/BLINDS ***
+SamDamGee posts ante 120
+ilmanifico59 posts ante 120
+Charles_ma5 posts ante 120
+3baret posts ante 120
+_SKR posts ante 120
+franckyom49 posts ante 120
+stupeflipvit posts ante 120
+TluanerXila posts ante 120
+SamDamGee posts small blind 500
+ilmanifico59 posts big blind 1000
+Dealt to _SKR [4h Td]
+*** PRE-FLOP *** 
+Charles_ma5 folds
+3baret raises 1200 to 2200
+_SKR folds
+franckyom49 folds
+stupeflipvit folds
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 calls 1200
+*** FLOP *** [2s Jc Ts]
+ilmanifico59 checks
+3baret checks
+*** TURN *** [2s Jc Ts][3s]
+ilmanifico59 bets 1000
+3baret calls 1000
+*** RIVER *** [2s Jc Ts 3s][3c]
+ilmanifico59 checks
+3baret checks
+*** SHOW DOWN ***
+ilmanifico59 shows [9s Kd] (One pair : 3)
+3baret shows [8d 8c] (Two pairs : 8 and 3)
+3baret collected 7860 from pot
+*** SUMMARY ***
+Total pot 7860 | No rake
+Board: [2s Jc Ts 3s 3c]
+Seat 2: 3baret showed [8d 8c] and won 7860 with Two pairs : 8 and 3
+Seat 8: ilmanifico59 (big blind) showed [9s Kd] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678083654344769555-36-1676580638 - Holdem no limit (140/600/1200) - 2023/02/16 20:50:38 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #7 is the button
+Seat 1: Charles_ma5 (19500, 0.90€ bounty)
+Seat 2: 3baret (26915, 0.90€ bounty)
+Seat 3: _SKR (30443, 1.35€ bounty)
+Seat 4: franckyom49 (19880, 0.90€ bounty)
+Seat 5: stupeflipvit (14130, 0.90€ bounty)
+Seat 6: TluanerXila (41448, 1.35€ bounty)
+Seat 7: SamDamGee (95799, 1.80€ bounty)
+Seat 8: ilmanifico59 (18370, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ilmanifico59 posts ante 140
+Charles_ma5 posts ante 140
+3baret posts ante 140
+_SKR posts ante 140
+franckyom49 posts ante 140
+stupeflipvit posts ante 140
+TluanerXila posts ante 140
+SamDamGee posts ante 140
+ilmanifico59 posts small blind 600
+Charles_ma5 posts big blind 1200
+Dealt to _SKR [9d Qs]
+*** PRE-FLOP *** 
+3baret folds
+_SKR folds
+franckyom49 folds
+stupeflipvit folds
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 folds
+Charles_ma5 collected 2920 from pot
+*** SUMMARY ***
+Total pot 2920 | No rake
+Seat 1: Charles_ma5 (big blind) won 2920
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678083654344769555-37-1676580667 - Holdem no limit (140/600/1200) - 2023/02/16 20:51:07 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #8 is the button
+Seat 1: Charles_ma5 (21080, 0.90€ bounty)
+Seat 2: 3baret (26775, 0.90€ bounty)
+Seat 3: _SKR (30303, 1.35€ bounty)
+Seat 4: franckyom49 (19740, 0.90€ bounty)
+Seat 5: stupeflipvit (13990, 0.90€ bounty)
+Seat 6: TluanerXila (41308, 1.35€ bounty)
+Seat 7: SamDamGee (95659, 1.80€ bounty)
+Seat 8: ilmanifico59 (17630, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Charles_ma5 posts ante 140
+3baret posts ante 140
+_SKR posts ante 140
+franckyom49 posts ante 140
+stupeflipvit posts ante 140
+TluanerXila posts ante 140
+SamDamGee posts ante 140
+ilmanifico59 posts ante 140
+Charles_ma5 posts small blind 600
+3baret posts big blind 1200
+Dealt to _SKR [2d 2s]
+*** PRE-FLOP *** 
+_SKR folds
+franckyom49 folds
+stupeflipvit folds
+TluanerXila raises 1500 to 2700
+SamDamGee raises 92819 to 95519 and is all-in
+ilmanifico59 folds
+Charles_ma5 folds
+3baret calls 25435 and is all-in
+TluanerXila folds
+*** FLOP *** [7c 8d 3c]
+*** TURN *** [7c 8d 3c][3h]
+*** RIVER *** [7c 8d 3c 3h][As]
+*** SHOW DOWN ***
+3baret shows [Js Jd] (Two pairs : Jacks and 3)
+SamDamGee shows [9d 9s] (Two pairs : 9 and 3)
+SamDamGee collected 68884 from side pot 1
+3baret collected 57690 from main pot
+*** SUMMARY ***
+Total pot 126574 | No rake
+Board: [7c 8d 3c 3h As]
+Seat 2: 3baret (big blind) showed [Js Jd] and won 57690 with Two pairs : Jacks and 3
+Seat 7: SamDamGee showed [9d 9s] and won 68884 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678083654344769555-38-1676580726 - Holdem no limit (140/600/1200) - 2023/02/16 20:52:06 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #1 is the button
+Seat 1: Charles_ma5 (20340, 0.90€ bounty)
+Seat 2: 3baret (57690, 0.90€ bounty)
+Seat 3: _SKR (30163, 1.35€ bounty)
+Seat 4: franckyom49 (19600, 0.90€ bounty)
+Seat 5: stupeflipvit (13850, 0.90€ bounty)
+Seat 6: TluanerXila (38468, 1.35€ bounty)
+Seat 7: SamDamGee (68884, 1.80€ bounty)
+Seat 8: ilmanifico59 (17490, 0.90€ bounty)
+*** ANTE/BLINDS ***
+3baret posts ante 140
+_SKR posts ante 140
+Charles_ma5 posts ante 140
+franckyom49 posts ante 140
+stupeflipvit posts ante 140
+TluanerXila posts ante 140
+SamDamGee posts ante 140
+ilmanifico59 posts ante 140
+3baret posts small blind 600
+_SKR posts big blind 1200
+Dealt to _SKR [Ad 2h]
+*** PRE-FLOP *** 
+franckyom49 folds
+stupeflipvit raises 12510 to 13710 and is all-in
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 folds
+Charles_ma5 folds
+3baret folds
+_SKR calls 12510
+*** FLOP *** [2d 9d 5c]
+*** TURN *** [2d 9d 5c][3c]
+*** RIVER *** [2d 9d 5c 3c][Qs]
+*** SHOW DOWN ***
+stupeflipvit shows [Js Ts] (High card : Queen)
+_SKR shows [Ad 2h] (One pair : 2)
+_SKR collected 29140 from pot
+*** SUMMARY ***
+Total pot 29140 | No rake
+Board: [2d 9d 5c 3c Qs]
+Seat 3: _SKR (big blind) showed [Ad 2h] and won 29140 with One pair : 2
+Seat 5: stupeflipvit showed [Js Ts] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2678083654344769555-39-1676580760 - Holdem no limit (140/600/1200) - 2023/02/16 20:52:40 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #2 is the button
+Seat 1: Charles_ma5 (20200, 0.90€ bounty)
+Seat 2: 3baret (56950, 0.90€ bounty)
+Seat 3: _SKR (45453, 1.80€ bounty)
+Seat 4: franckyom49 (19460, 0.90€ bounty)
+Seat 5: MONANGE0105 (29419, 0.90€ bounty)
+Seat 6: TluanerXila (38328, 1.35€ bounty)
+Seat 7: SamDamGee (68744, 1.80€ bounty)
+Seat 8: ilmanifico59 (17350, 0.90€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 140
+franckyom49 posts ante 140
+Charles_ma5 posts ante 140
+3baret posts ante 140
+MONANGE0105 posts ante 140
+TluanerXila posts ante 140
+SamDamGee posts ante 140
+ilmanifico59 posts ante 140
+_SKR posts small blind 600
+franckyom49 posts big blind 1200
+Dealt to _SKR [5s Tc]
+*** PRE-FLOP *** 
+MONANGE0105 folds
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 calls 1200
+Charles_ma5 folds
+3baret calls 1200
+_SKR folds
+franckyom49 checks
+*** FLOP *** [Qh 8d 8s]
+franckyom49 checks
+ilmanifico59 checks
+3baret checks
+*** TURN *** [Qh 8d 8s][Qd]
+franckyom49 checks
+ilmanifico59 checks
+3baret checks
+*** RIVER *** [Qh 8d 8s Qd][4d]
+franckyom49 checks
+ilmanifico59 checks
+3baret bets 3000
+franckyom49 folds
+ilmanifico59 folds
+3baret collected 8320 from pot
+*** SUMMARY ***
+Total pot 8320 | No rake
+Board: [Qh 8d 8s Qd 4d]
+Seat 2: 3baret (button) won 8320
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2678083654344769555-40-1676580858 - Holdem no limit (160/700/1400) - 2023/02/16 20:54:18 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #3 is the button
+Seat 1: Charles_ma5 (20060, 0.90€ bounty)
+Seat 2: 3baret (60930, 0.90€ bounty)
+Seat 3: _SKR (44713, 1.80€ bounty)
+Seat 4: franckyom49 (18120, 0.90€ bounty)
+Seat 5: MONANGE0105 (29279, 0.90€ bounty)
+Seat 6: TluanerXila (38188, 1.35€ bounty)
+Seat 7: SamDamGee (68604, 1.80€ bounty)
+Seat 8: ilmanifico59 (16010, 0.90€ bounty)
+*** ANTE/BLINDS ***
+franckyom49 posts ante 160
+MONANGE0105 posts ante 160
+Charles_ma5 posts ante 160
+3baret posts ante 160
+_SKR posts ante 160
+TluanerXila posts ante 160
+SamDamGee posts ante 160
+ilmanifico59 posts ante 160
+franckyom49 posts small blind 700
+MONANGE0105 posts big blind 1400
+Dealt to _SKR [Ah 3c]
+*** PRE-FLOP *** 
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 folds
+Charles_ma5 folds
+3baret folds
+_SKR raises 1400 to 2800
+franckyom49 folds
+MONANGE0105 calls 1400
+*** FLOP *** [4c 3s Jc]
+MONANGE0105 checks
+_SKR bets 2653
+MONANGE0105 folds
+_SKR collected 10233 from pot
+*** SUMMARY ***
+Total pot 10233 | No rake
+Board: [4c 3s Jc]
+Seat 3: _SKR (button) won 10233
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2678083654344769555-41-1676581262 - Holdem no limit (160/700/1400) - 2023/02/16 21:01:02 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #4 is the button
+Seat 1: Charles_ma5 (19900, 0.90€ bounty)
+Seat 2: 3baret (60770, 0.90€ bounty)
+Seat 3: _SKR (49333, 1.80€ bounty)
+Seat 4: franckyom49 (17260, 0.90€ bounty)
+Seat 5: MONANGE0105 (26319, 0.90€ bounty)
+Seat 6: TluanerXila (38028, 1.35€ bounty)
+Seat 7: SamDamGee (68444, 1.80€ bounty)
+Seat 8: ilmanifico59 (15850, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MONANGE0105 posts ante 160
+TluanerXila posts ante 160
+Charles_ma5 posts ante 160
+3baret posts ante 160
+_SKR posts ante 160
+franckyom49 posts ante 160
+SamDamGee posts ante 160
+ilmanifico59 posts ante 160
+MONANGE0105 posts small blind 700
+TluanerXila posts big blind 1400
+Dealt to _SKR [Th 2s]
+*** PRE-FLOP *** 
+SamDamGee folds
+ilmanifico59 folds
+Charles_ma5 folds
+3baret raises 1680 to 3080
+_SKR folds
+franckyom49 calls 3080
+MONANGE0105 folds
+TluanerXila folds
+*** FLOP *** [2h Qc 8c]
+3baret checks
+franckyom49 bets 14020 and is all-in
+3baret folds
+franckyom49 collected 23560 from pot
+*** SUMMARY ***
+Total pot 23560 | No rake
+Board: [2h Qc 8c]
+Seat 4: franckyom49 (button) won 23560
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #2678083654344769555-42-1676581363 - Holdem no limit (200/800/1600) - 2023/02/16 21:02:43 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #5 is the button
+Seat 1: Charles_ma5 (19740, 0.90€ bounty)
+Seat 2: 3baret (57530, 0.90€ bounty)
+Seat 3: _SKR (49173, 1.80€ bounty)
+Seat 4: franckyom49 (23560, 0.90€ bounty)
+Seat 5: MONANGE0105 (25459, 0.90€ bounty)
+Seat 6: TluanerXila (36468, 1.35€ bounty)
+Seat 7: SamDamGee (68284, 1.80€ bounty)
+Seat 8: ilmanifico59 (15690, 0.90€ bounty)
+*** ANTE/BLINDS ***
+TluanerXila posts ante 200
+SamDamGee posts ante 200
+Charles_ma5 posts ante 200
+3baret posts ante 200
+_SKR posts ante 200
+franckyom49 posts ante 200
+MONANGE0105 posts ante 200
+ilmanifico59 posts ante 200
+TluanerXila posts small blind 800
+SamDamGee posts big blind 1600
+Dealt to _SKR [9c 4h]
+*** PRE-FLOP *** 
+ilmanifico59 folds
+Charles_ma5 folds
+3baret raises 1920 to 3520
+_SKR folds
+franckyom49 folds
+MONANGE0105 folds
+TluanerXila folds
+SamDamGee folds
+3baret collected 7520 from pot
+*** SUMMARY ***
+Total pot 7520 | No rake
+Seat 2: 3baret won 7520
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #2678083654344769555-43-1676581383 - Holdem no limit (200/800/1600) - 2023/02/16 21:03:03 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #6 is the button
+Seat 1: Charles_ma5 (19540, 0.90€ bounty)
+Seat 2: 3baret (61330, 0.90€ bounty)
+Seat 3: _SKR (48973, 1.80€ bounty)
+Seat 4: franckyom49 (23360, 0.90€ bounty)
+Seat 5: MONANGE0105 (25259, 0.90€ bounty)
+Seat 6: TluanerXila (35468, 1.35€ bounty)
+Seat 7: SamDamGee (66484, 1.80€ bounty)
+Seat 8: ilmanifico59 (15490, 0.90€ bounty)
+*** ANTE/BLINDS ***
+SamDamGee posts ante 200
+ilmanifico59 posts ante 200
+Charles_ma5 posts ante 200
+3baret posts ante 200
+_SKR posts ante 200
+franckyom49 posts ante 200
+MONANGE0105 posts ante 200
+TluanerXila posts ante 200
+SamDamGee posts small blind 800
+ilmanifico59 posts big blind 1600
+Dealt to _SKR [8h 8d]
+*** PRE-FLOP *** 
+Charles_ma5 folds
+3baret folds
+_SKR raises 2000 to 3600
+franckyom49 calls 3600
+MONANGE0105 folds
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 folds
+*** FLOP *** [Tc 2h 5c]
+_SKR bets 5600
+franckyom49 raises 13960 to 19560 and is all-in
+_SKR calls 13960
+*** TURN *** [Tc 2h 5c][3s]
+*** RIVER *** [Tc 2h 5c 3s][Kc]
+*** SHOW DOWN ***
+franckyom49 shows [7d 7s] (One pair : 7)
+_SKR shows [8h 8d] (One pair : 8)
+_SKR collected 50320 from pot
+*** SUMMARY ***
+Total pot 50320 | No rake
+Board: [Tc 2h 5c 3s Kc]
+Seat 3: _SKR showed [8h 8d] and won 50320 with One pair : 8
+Seat 4: franckyom49 showed [7d 7s] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #2678083654344769555-44-1676581432 - Holdem no limit (200/800/1600) - 2023/02/16 21:03:52 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #7 is the button
+Seat 1: Charles_ma5 (19340, 0.90€ bounty)
+Seat 2: 3baret (61130, 0.90€ bounty)
+Seat 3: _SKR (75933, 2.25€ bounty)
+Seat 5: MONANGE0105 (25059, 0.90€ bounty)
+Seat 6: TluanerXila (35268, 1.35€ bounty)
+Seat 7: SamDamGee (65484, 1.80€ bounty)
+Seat 8: ilmanifico59 (13690, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ilmanifico59 posts ante 200
+Charles_ma5 posts ante 200
+3baret posts ante 200
+_SKR posts ante 200
+MONANGE0105 posts ante 200
+TluanerXila posts ante 200
+SamDamGee posts ante 200
+ilmanifico59 posts small blind 800
+Charles_ma5 posts big blind 1600
+Dealt to _SKR [6c 5h]
+*** PRE-FLOP *** 
+3baret folds
+_SKR folds
+MONANGE0105 raises 3200 to 4800
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 folds
+Charles_ma5 folds
+MONANGE0105 collected 8600 from pot
+*** SUMMARY ***
+Total pot 8600 | No rake
+Seat 5: MONANGE0105 won 8600
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #2678083654344769555-45-1676581462 - Holdem no limit (250/1000/2000) - 2023/02/16 21:04:22 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #8 is the button
+Seat 1: Charles_ma5 (17540, 0.90€ bounty)
+Seat 2: 3baret (60930, 0.90€ bounty)
+Seat 3: _SKR (75733, 2.25€ bounty)
+Seat 5: MONANGE0105 (28659, 0.90€ bounty)
+Seat 6: TluanerXila (35068, 1.35€ bounty)
+Seat 7: SamDamGee (65284, 1.80€ bounty)
+Seat 8: ilmanifico59 (12690, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Charles_ma5 posts ante 250
+3baret posts ante 250
+_SKR posts ante 250
+MONANGE0105 posts ante 250
+TluanerXila posts ante 250
+SamDamGee posts ante 250
+ilmanifico59 posts ante 250
+Charles_ma5 posts small blind 1000
+3baret posts big blind 2000
+Dealt to _SKR [4d 6s]
+*** PRE-FLOP *** 
+_SKR folds
+MONANGE0105 folds
+TluanerXila folds
+SamDamGee raises 63034 to 65034 and is all-in
+ilmanifico59 folds
+Charles_ma5 calls 16290 and is all-in
+3baret folds
+*** FLOP *** [8c 5h 4h]
+*** TURN *** [8c 5h 4h][4c]
+*** RIVER *** [8c 5h 4h 4c][9d]
+*** SHOW DOWN ***
+Charles_ma5 shows [9c Ah] (Two pairs : 9 and 4)
+SamDamGee shows [9s As] (Two pairs : 9 and 4)
+SamDamGee collected 66909 from side pot 1
+Charles_ma5 collected 19165 from main pot
+*** SUMMARY ***
+Total pot 86074 | No rake
+Board: [8c 5h 4h 4c 9d]
+Seat 1: Charles_ma5 (small blind) showed [9c Ah] and won 19165 with Two pairs : 9 and 4
+Seat 7: SamDamGee showed [9s As] and won 66909 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #2678083654344769555-46-1676581487 - Holdem no limit (250/1000/2000) - 2023/02/16 21:04:47 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #1 is the button
+Seat 1: Charles_ma5 (19165, 0.90€ bounty)
+Seat 2: 3baret (58680, 0.90€ bounty)
+Seat 3: _SKR (75483, 2.25€ bounty)
+Seat 4: marsic (36444, 1.35€ bounty)
+Seat 5: MONANGE0105 (28409, 0.90€ bounty)
+Seat 6: TluanerXila (34818, 1.35€ bounty)
+Seat 7: SamDamGee (66909, 1.80€ bounty)
+Seat 8: ilmanifico59 (12440, 0.90€ bounty)
+*** ANTE/BLINDS ***
+3baret posts ante 250
+_SKR posts ante 250
+Charles_ma5 posts ante 250
+marsic posts ante 250
+MONANGE0105 posts ante 250
+TluanerXila posts ante 250
+SamDamGee posts ante 250
+ilmanifico59 posts ante 250
+3baret posts small blind 1000
+_SKR posts big blind 2000
+Dealt to _SKR [Td 8c]
+*** PRE-FLOP *** 
+marsic folds
+MONANGE0105 folds
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 calls 2000
+Charles_ma5 raises 16915 to 18915 and is all-in
+3baret folds
+_SKR folds
+ilmanifico59 calls 10190 and is all-in
+*** FLOP *** [Jh Qc As]
+*** TURN *** [Jh Qc As][Kd]
+*** RIVER *** [Jh Qc As Kd][Kh]
+*** SHOW DOWN ***
+Charles_ma5 shows [9c Qd] (Two pairs : Kings and Queens)
+ilmanifico59 shows [Ad 6h] (Two pairs : Aces and Kings)
+ilmanifico59 collected 29380 from main pot
+Charles_ma5 collected 6725 from side pot 1
+*** SUMMARY ***
+Total pot 36105 | No rake
+Board: [Jh Qc As Kd Kh]
+Seat 1: Charles_ma5 (button) showed [9c Qd] and won 6725 with Two pairs : Kings and Queens
+Seat 8: ilmanifico59 showed [Ad 6h] and won 29380 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #2678083654344769555-47-1676581521 - Holdem no limit (250/1000/2000) - 2023/02/16 21:05:21 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #2 is the button
+Seat 1: Charles_ma5 (6725, 0.90€ bounty)
+Seat 2: 3baret (57430, 0.90€ bounty)
+Seat 3: _SKR (73233, 2.25€ bounty)
+Seat 4: marsic (36194, 1.35€ bounty)
+Seat 5: MONANGE0105 (28159, 0.90€ bounty)
+Seat 6: TluanerXila (34568, 1.35€ bounty)
+Seat 7: SamDamGee (66659, 1.80€ bounty)
+Seat 8: ilmanifico59 (29380, 0.90€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 250
+marsic posts ante 250
+Charles_ma5 posts ante 250
+3baret posts ante 250
+MONANGE0105 posts ante 250
+TluanerXila posts ante 250
+SamDamGee posts ante 250
+ilmanifico59 posts ante 250
+_SKR posts small blind 1000
+marsic posts big blind 2000
+Dealt to _SKR [3s Jc]
+*** PRE-FLOP *** 
+MONANGE0105 folds
+TluanerXila raises 32318 to 34318 and is all-in
+SamDamGee folds
+ilmanifico59 folds
+Charles_ma5 calls 6475 and is all-in
+3baret folds
+_SKR folds
+marsic folds
+*** FLOP *** [9d 4c Jd]
+*** TURN *** [9d 4c Jd][5c]
+*** RIVER *** [9d 4c Jd 5c][Qh]
+*** SHOW DOWN ***
+Charles_ma5 shows [Js As] (One pair : Jacks)
+TluanerXila shows [6s 6h] (One pair : 6)
+TluanerXila collected 27843 from side pot 1
+Charles_ma5 collected 17950 from main pot
+*** SUMMARY ***
+Total pot 45793 | No rake
+Board: [9d 4c Jd 5c Qh]
+Seat 1: Charles_ma5 showed [Js As] and won 17950 with One pair : Jacks
+Seat 6: TluanerXila showed [6s 6h] and won 27843 with One pair : 6
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #2678083654344769555-48-1676581558 - Holdem no limit (250/1000/2000) - 2023/02/16 21:05:58 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #3 is the button
+Seat 1: Charles_ma5 (17950, 0.90€ bounty)
+Seat 2: 3baret (57180, 0.90€ bounty)
+Seat 3: _SKR (71983, 2.25€ bounty)
+Seat 4: marsic (33944, 1.35€ bounty)
+Seat 5: MONANGE0105 (27909, 0.90€ bounty)
+Seat 6: TluanerXila (27843, 1.35€ bounty)
+Seat 7: SamDamGee (66409, 1.80€ bounty)
+Seat 8: ilmanifico59 (29130, 0.90€ bounty)
+*** ANTE/BLINDS ***
+marsic posts ante 250
+MONANGE0105 posts ante 250
+Charles_ma5 posts ante 250
+3baret posts ante 250
+_SKR posts ante 250
+TluanerXila posts ante 250
+SamDamGee posts ante 250
+ilmanifico59 posts ante 250
+marsic posts small blind 1000
+MONANGE0105 posts big blind 2000
+Dealt to _SKR [Ts Th]
+*** PRE-FLOP *** 
+TluanerXila folds
+SamDamGee folds
+ilmanifico59 calls 2000
+Charles_ma5 folds
+3baret folds
+_SKR raises 69733 to 71733 and is all-in
+marsic folds
+MONANGE0105 folds
+ilmanifico59 folds
+_SKR collected 78733 from pot
+*** SUMMARY ***
+Total pot 78733 | No rake
+Seat 3: _SKR (button) won 78733
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #2678083654344769555-49-1676581598 - Holdem no limit (300/1250/2500) - 2023/02/16 21:06:38 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #4 is the button
+Seat 1: Charles_ma5 (17700, 0.90€ bounty)
+Seat 2: 3baret (56930, 0.90€ bounty)
+Seat 3: _SKR (78733, 2.25€ bounty)
+Seat 4: marsic (32694, 1.35€ bounty)
+Seat 5: MONANGE0105 (25659, 0.90€ bounty)
+Seat 6: TluanerXila (27593, 1.35€ bounty)
+Seat 7: SamDamGee (66159, 1.80€ bounty)
+Seat 8: ilmanifico59 (26880, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MONANGE0105 posts ante 300
+TluanerXila posts ante 300
+Charles_ma5 posts ante 300
+3baret posts ante 300
+_SKR posts ante 300
+marsic posts ante 300
+SamDamGee posts ante 300
+ilmanifico59 posts ante 300
+MONANGE0105 posts small blind 1250
+TluanerXila posts big blind 2500
+Dealt to _SKR [3c 6c]
+*** PRE-FLOP *** 
+SamDamGee folds
+ilmanifico59 folds
+Charles_ma5 folds
+3baret folds
+_SKR folds
+marsic raises 29894 to 32394 and is all-in
+MONANGE0105 folds
+TluanerXila folds
+marsic collected 38544 from pot
+*** SUMMARY ***
+Total pot 38544 | No rake
+Seat 4: marsic (button) won 38544
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #2678083654344769555-50-1676581625 - Holdem no limit (300/1250/2500) - 2023/02/16 21:07:05 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #5 is the button
+Seat 1: Charles_ma5 (17400, 0.90€ bounty)
+Seat 2: 3baret (56630, 0.90€ bounty)
+Seat 3: _SKR (78433, 2.25€ bounty)
+Seat 4: marsic (38544, 1.35€ bounty)
+Seat 5: MONANGE0105 (24109, 0.90€ bounty)
+Seat 6: TluanerXila (24793, 1.35€ bounty)
+Seat 7: SamDamGee (65859, 1.80€ bounty)
+*** ANTE/BLINDS ***
+TluanerXila posts ante 300
+SamDamGee posts ante 300
+Charles_ma5 posts ante 300
+3baret posts ante 300
+_SKR posts ante 300
+marsic posts ante 300
+MONANGE0105 posts ante 300
+TluanerXila posts small blind 1250
+SamDamGee posts big blind 2500
+Dealt to _SKR [4s Jh]
+*** PRE-FLOP *** 
+Charles_ma5 raises 14600 to 17100 and is all-in
+3baret folds
+_SKR folds
+marsic folds
+MONANGE0105 folds
+TluanerXila folds
+SamDamGee folds
+Charles_ma5 collected 22950 from pot
+*** SUMMARY ***
+Total pot 22950 | No rake
+Seat 1: Charles_ma5 won 22950
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #2678083654344769555-51-1676581687 - Holdem no limit (300/1250/2500) - 2023/02/16 21:08:07 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #6 is the button
+Seat 1: Charles_ma5 (22950, 0.90€ bounty)
+Seat 2: 3baret (56330, 0.90€ bounty)
+Seat 3: _SKR (78133, 2.25€ bounty)
+Seat 4: marsic (38244, 1.35€ bounty)
+Seat 5: MONANGE0105 (23809, 0.90€ bounty)
+Seat 6: TluanerXila (23243, 1.35€ bounty)
+Seat 7: SamDamGee (63059, 1.80€ bounty)
+*** ANTE/BLINDS ***
+SamDamGee posts ante 300
+Charles_ma5 posts ante 300
+3baret posts ante 300
+_SKR posts ante 300
+marsic posts ante 300
+MONANGE0105 posts ante 300
+TluanerXila posts ante 300
+SamDamGee posts small blind 1250
+Charles_ma5 posts big blind 2500
+Dealt to _SKR [7d 4s]
+*** PRE-FLOP *** 
+3baret folds
+_SKR folds
+marsic folds
+MONANGE0105 folds
+TluanerXila folds
+SamDamGee folds
+Charles_ma5 collected 5850 from pot
+*** SUMMARY ***
+Total pot 5850 | No rake
+Seat 1: Charles_ma5 (big blind) won 5850
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #2678083654344769555-52-1676581699 - Holdem no limit (300/1250/2500) - 2023/02/16 21:08:19 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #7 is the button
+Seat 1: Charles_ma5 (26000, 0.90€ bounty)
+Seat 2: 3baret (56030, 0.90€ bounty)
+Seat 3: _SKR (77833, 2.25€ bounty)
+Seat 4: marsic (37944, 1.35€ bounty)
+Seat 5: MONANGE0105 (23509, 0.90€ bounty)
+Seat 6: TluanerXila (22943, 1.35€ bounty)
+Seat 7: SamDamGee (61509, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Charles_ma5 posts ante 300
+3baret posts ante 300
+_SKR posts ante 300
+marsic posts ante 300
+MONANGE0105 posts ante 300
+TluanerXila posts ante 300
+SamDamGee posts ante 300
+Charles_ma5 posts small blind 1250
+3baret posts big blind 2500
+Dealt to _SKR [4s 6h]
+*** PRE-FLOP *** 
+_SKR folds
+marsic folds
+MONANGE0105 calls 2500
+TluanerXila folds
+SamDamGee raises 58709 to 61209 and is all-in
+Charles_ma5 calls 24450 and is all-in
+3baret folds
+MONANGE0105 folds
+*** FLOP *** [9c Kh Jh]
+*** TURN *** [9c Kh Jh][Ah]
+*** RIVER *** [9c Kh Jh Ah][4d]
+*** SHOW DOWN ***
+Charles_ma5 shows [As Kd] (Two pairs : Aces and Kings)
+SamDamGee shows [6c 6d] (One pair : 6)
+SamDamGee collected 35509 from side pot 1
+Charles_ma5 collected 58500 from main pot
+*** SUMMARY ***
+Total pot 94009 | No rake
+Board: [9c Kh Jh Ah 4d]
+Seat 1: Charles_ma5 (small blind) showed [As Kd] and won 58500 with Two pairs : Aces and Kings
+Seat 7: SamDamGee (button) showed [6c 6d] and won 35509 with One pair : 6
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #2678083654344769555-53-1676581733 - Holdem no limit (300/1250/2500) - 2023/02/16 21:08:53 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #1 is the button
+Seat 1: Charles_ma5 (58500, 0.90€ bounty)
+Seat 2: 3baret (53230, 0.90€ bounty)
+Seat 3: _SKR (77533, 2.25€ bounty)
+Seat 4: marsic (37644, 1.35€ bounty)
+Seat 5: MONANGE0105 (20709, 0.90€ bounty)
+Seat 6: TluanerXila (22643, 1.35€ bounty)
+Seat 7: SamDamGee (35509, 1.80€ bounty)
+*** ANTE/BLINDS ***
+3baret posts ante 300
+_SKR posts ante 300
+Charles_ma5 posts ante 300
+marsic posts ante 300
+MONANGE0105 posts ante 300
+TluanerXila posts ante 300
+SamDamGee posts ante 300
+3baret posts small blind 1250
+_SKR posts big blind 2500
+Dealt to _SKR [7d Qd]
+*** PRE-FLOP *** 
+marsic folds
+MONANGE0105 folds
+TluanerXila folds
+SamDamGee folds
+Charles_ma5 folds
+3baret calls 1250
+_SKR checks
+*** FLOP *** [3s 5d Kd]
+3baret checks
+_SKR bets 3550
+3baret folds
+_SKR collected 10650 from pot
+*** SUMMARY ***
+Total pot 10650 | No rake
+Board: [3s 5d Kd]
+Seat 3: _SKR (big blind) won 10650
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #2678083654344769555-54-1676581762 - Holdem no limit (350/1500/3000) - 2023/02/16 21:09:22 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #2 is the button
+Seat 1: Charles_ma5 (58200, 0.90€ bounty)
+Seat 2: 3baret (50430, 0.90€ bounty)
+Seat 3: _SKR (81833, 2.25€ bounty)
+Seat 4: marsic (37344, 1.35€ bounty)
+Seat 5: MONANGE0105 (20409, 0.90€ bounty)
+Seat 6: TluanerXila (22343, 1.35€ bounty)
+Seat 7: SamDamGee (35209, 1.80€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 350
+marsic posts ante 350
+Charles_ma5 posts ante 350
+3baret posts ante 350
+MONANGE0105 posts ante 350
+TluanerXila posts ante 350
+SamDamGee posts ante 350
+_SKR posts small blind 1500
+marsic posts big blind 3000
+Dealt to _SKR [9s 9h]
+*** PRE-FLOP *** 
+MONANGE0105 raises 17059 to 20059 and is all-in
+TluanerXila raises 1934 to 21993 and is all-in
+SamDamGee folds
+Charles_ma5 raises 17059 to 39052
+3baret folds
+_SKR raises 42431 to 81483 and is all-in
+marsic folds
+Charles_ma5 calls 18798 and is all-in
+*** FLOP *** [Ts 2c 5c]
+*** TURN *** [Ts 2c 5c][9c]
+*** RIVER *** [Ts 2c 5c 9c][4s]
+*** SHOW DOWN ***
+Charles_ma5 shows [Qs Ah] (High card : Ace)
+MONANGE0105 shows [Ad Ks] (High card : Ace)
+TluanerXila shows [2h 2s] (Trips of 2)
+_SKR shows [9s 9h] (Trips of 9)
+_SKR collected 186835 from pot
+*** SUMMARY ***
+Total pot 186835 | No rake
+Board: [Ts 2c 5c 9c 4s]
+Seat 1: Charles_ma5 showed [Qs Ah] and lost with High card : Ace
+Seat 3: _SKR (small blind) showed [9s 9h] and won 186835 with Trips of 9
+Seat 5: MONANGE0105 showed [Ad Ks] and lost with High card : Ace
+Seat 6: TluanerXila showed [2h 2s] and lost with Trips of 2
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #2678083654344769555-55-1676581812 - Holdem no limit (350/1500/3000) - 2023/02/16 21:10:12 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #3 is the button
+Seat 2: 3baret (50080, 0.90€ bounty)
+Seat 3: _SKR (186835, 3.82€ bounty)
+Seat 4: marsic (33994, 1.35€ bounty)
+Seat 7: SamDamGee (34859, 1.80€ bounty)
+Seat 8: cassydis59 (68499, 1.35€ bounty)
+*** ANTE/BLINDS ***
+marsic posts ante 350
+SamDamGee posts ante 350
+3baret posts ante 350
+_SKR posts ante 350
+cassydis59 posts ante 350
+marsic posts small blind 1500
+SamDamGee posts big blind 3000
+Dealt to _SKR [Kd 6d]
+*** PRE-FLOP *** 
+cassydis59 folds
+3baret raises 46730 to 49730 and is all-in
+_SKR folds
+marsic folds
+SamDamGee folds
+3baret collected 55980 from pot
+*** SUMMARY ***
+Total pot 55980 | No rake
+Seat 2: 3baret won 55980
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #2678083654344769555-56-1676581839 - Holdem no limit (350/1500/3000) - 2023/02/16 21:10:39 UTC
+Table: 'HARA-KIRI(623539941)#018' 8-max (real money) Seat #4 is the button
+Seat 2: 3baret (55980, 0.90€ bounty)
+Seat 3: _SKR (186485, 3.82€ bounty)
+Seat 4: marsic (32144, 1.35€ bounty)
+Seat 5: Abaddone (48359, 1.35€ bounty)
+Seat 6: Randal K (72122, 0.90€ bounty)
+Seat 7: SamDamGee (31509, 1.80€ bounty)
+Seat 8: cassydis59 (68149, 1.35€ bounty)
+*** ANTE/BLINDS ***
+SamDamGee posts ante 350
+cassydis59 posts ante 350
+3baret posts ante 350
+_SKR posts ante 350
+marsic posts ante 350
+SamDamGee posts small blind 1500
+cassydis59 posts big blind 3000
+Dealt to _SKR [2d 2h]
+*** PRE-FLOP *** 
+3baret folds
+_SKR raises 3750 to 6750
+marsic raises 25044 to 31794 and is all-in
+SamDamGee folds
+cassydis59 folds
+_SKR calls 25044
+*** FLOP *** [2s 5c Ac]
+*** TURN *** [2s 5c Ac][As]
+*** RIVER *** [2s 5c Ac As][3c]
+*** SHOW DOWN ***
+marsic shows [Ad Td] (Trips of Aces)
+_SKR shows [2d 2h] (Full of 2 and Aces)
+_SKR collected 69838 from pot
+*** SUMMARY ***
+Total pot 69838 | No rake
+Board: [2s 5c Ac As 3c]
+Seat 3: _SKR showed [2d 2h] and won 69838 with Full of 2 and Aces
+Seat 4: marsic (button) showed [Ad Td] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #2678083654344769537-61-1676581916 - Holdem no limit (400/1750/3500) - 2023/02/16 21:11:56 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #8 is the button
+Seat 1: Mistafreda (55822, 2.02€ bounty)
+Seat 2: Pilou1909 (75682, 0.90€ bounty)
+Seat 3: .vinsanity. (53263, 2.13€ bounty)
+Seat 4: Chris-Malo (23410, 0.90€ bounty)
+Seat 5: _SKR (224179, 4.49€ bounty)
+Seat 6: shura16 (67735, 1.57€ bounty)
+Seat 7: Billystef (86721, 3.60€ bounty)
+Seat 8: ouleb47 (55471, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Pilou1909 posts ante 400
+.vinsanity. posts ante 400
+Chris-Malo posts ante 400
+_SKR posts ante 400
+shura16 posts ante 400
+Billystef posts ante 400
+ouleb47 posts ante 400
+Pilou1909 posts small blind 1750
+.vinsanity. posts big blind 3500
+Dealt to _SKR [3s 5s]
+*** PRE-FLOP *** 
+Chris-Malo folds
+_SKR folds
+shura16 folds
+Billystef folds
+ouleb47 folds
+Pilou1909 raises 71782 to 75282 and is all-in
+.vinsanity. folds
+Pilou1909 collected 81582 from pot
+*** SUMMARY ***
+Total pot 81582 | No rake
+Seat 2: Pilou1909 (small blind) won 81582
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #2678083654344769537-62-1676581941 - Holdem no limit (400/1750/3500) - 2023/02/16 21:12:21 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #2 is the button
+Seat 1: Mistafreda (55822, 2.02€ bounty)
+Seat 2: Pilou1909 (81582, 0.90€ bounty)
+Seat 3: .vinsanity. (49363, 2.13€ bounty)
+Seat 4: Chris-Malo (23010, 0.90€ bounty)
+Seat 5: _SKR (223779, 4.49€ bounty)
+Seat 6: shura16 (67335, 1.57€ bounty)
+Seat 7: Billystef (86321, 3.60€ bounty)
+Seat 8: ouleb47 (55071, 1.35€ bounty)
+*** ANTE/BLINDS ***
+.vinsanity. posts ante 400
+Chris-Malo posts ante 400
+Mistafreda posts ante 400
+Pilou1909 posts ante 400
+_SKR posts ante 400
+shura16 posts ante 400
+Billystef posts ante 400
+ouleb47 posts ante 400
+.vinsanity. posts small blind 1750
+Chris-Malo posts big blind 3500
+Dealt to _SKR [Js As]
+*** PRE-FLOP *** 
+_SKR raises 4375 to 7875
+shura16 folds
+Billystef folds
+ouleb47 calls 7875
+Mistafreda calls 7875
+Pilou1909 folds
+.vinsanity. folds
+Chris-Malo calls 4375
+*** FLOP *** [4h 6s Jc]
+Chris-Malo bets 3500
+_SKR raises 11425 to 14925
+ouleb47 folds
+Mistafreda folds
+Chris-Malo calls 11235 and is all-in
+*** TURN *** [4h 6s Jc][7c]
+*** RIVER *** [4h 6s Jc 7c][2d]
+*** SHOW DOWN ***
+Chris-Malo shows [5d 5h] (One pair : 5)
+_SKR shows [Js As] (One pair : Jacks)
+_SKR collected 66110 from pot
+*** SUMMARY ***
+Total pot 66110 | No rake
+Board: [4h 6s Jc 7c 2d]
+Seat 4: Chris-Malo (big blind) showed [5d 5h] and lost with One pair : 5
+Seat 5: _SKR showed [Js As] and won 66110 with One pair : Jacks
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #2678083654344769537-63-1676581998 - Holdem no limit (400/1750/3500) - 2023/02/16 21:13:18 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #3 is the button
+Seat 1: Mistafreda (47547, 2.02€ bounty)
+Seat 2: Pilou1909 (81182, 0.90€ bounty)
+Seat 3: .vinsanity. (47213, 2.13€ bounty)
+Seat 5: _SKR (266689, 4.94€ bounty)
+Seat 6: shura16 (66935, 1.57€ bounty)
+Seat 7: Billystef (85921, 3.60€ bounty)
+Seat 8: ouleb47 (46796, 1.35€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 400
+Mistafreda posts ante 400
+Pilou1909 posts ante 400
+.vinsanity. posts ante 400
+shura16 posts ante 400
+Billystef posts ante 400
+ouleb47 posts ante 400
+_SKR posts big blind 3500
+Dealt to _SKR [Jd Kc]
+*** PRE-FLOP *** 
+shura16 raises 3500 to 7000
+Billystef folds
+ouleb47 folds
+Mistafreda folds
+Pilou1909 raises 73782 to 80782 and is all-in
+.vinsanity. folds
+_SKR folds
+shura16 folds
+Pilou1909 collected 94082 from pot
+*** SUMMARY ***
+Total pot 94082 | No rake
+Seat 2: Pilou1909 won 94082
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #2678083654344769537-64-1676582019 - Holdem no limit (400/1750/3500) - 2023/02/16 21:13:39 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #4 is the button
+Seat 1: Mistafreda (47147, 2.02€ bounty)
+Seat 2: Pilou1909 (94082, 0.90€ bounty)
+Seat 3: .vinsanity. (46813, 2.13€ bounty)
+Seat 5: _SKR (262789, 4.94€ bounty)
+Seat 6: shura16 (59535, 1.57€ bounty)
+Seat 7: Billystef (85521, 3.60€ bounty)
+Seat 8: ouleb47 (46396, 1.35€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 400
+shura16 posts ante 400
+Mistafreda posts ante 400
+Pilou1909 posts ante 400
+.vinsanity. posts ante 400
+Billystef posts ante 400
+ouleb47 posts ante 400
+_SKR posts small blind 1750
+shura16 posts big blind 3500
+Dealt to _SKR [3c 5d]
+*** PRE-FLOP *** 
+Billystef raises 5250 to 8750
+ouleb47 raises 5250 to 14000
+Mistafreda folds
+Pilou1909 folds
+.vinsanity. raises 32413 to 46413 and is all-in
+_SKR folds
+shura16 folds
+Billystef raises 38708 to 85121 and is all-in
+ouleb47 calls 31996 and is all-in
+*** FLOP *** [7s 4c Ac]
+*** TURN *** [7s 4c Ac][9s]
+*** RIVER *** [7s 4c Ac 9s][3d]
+*** SHOW DOWN ***
+ouleb47 shows [Qd Qc] (One pair : Queens)
+.vinsanity. shows [9c 9h] (Trips of 9)
+Billystef shows [Kd Kc] (One pair : Kings)
+Billystef collected 38708 from side pot 1
+.vinsanity. collected 146872 from main pot
+*** SUMMARY ***
+Total pot 185580 | No rake
+Board: [7s 4c Ac 9s 3d]
+Seat 3: .vinsanity. showed [9c 9h] and won 146872 with Trips of 9
+Seat 7: Billystef showed [Kd Kc] and won 38708 with One pair : Kings
+Seat 8: ouleb47 showed [Qd Qc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #2678083654344769537-65-1676582059 - Holdem no limit (500/2000/4000) - 2023/02/16 21:14:19 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #5 is the button
+Seat 1: Mistafreda (46747, 2.02€ bounty)
+Seat 2: Pilou1909 (93682, 0.90€ bounty)
+Seat 3: .vinsanity. (146872, 2.80€ bounty)
+Seat 4: parisingap (30309, 1.35€ bounty)
+Seat 5: _SKR (260639, 4.94€ bounty)
+Seat 6: shura16 (55635, 1.57€ bounty)
+Seat 7: Billystef (38708, 3.60€ bounty)
+*** ANTE/BLINDS ***
+shura16 posts ante 500
+Billystef posts ante 500
+Mistafreda posts ante 500
+Pilou1909 posts ante 500
+.vinsanity. posts ante 500
+parisingap posts ante 500
+_SKR posts ante 500
+shura16 posts small blind 2000
+Billystef posts big blind 4000
+Dealt to _SKR [3h 4s]
+*** PRE-FLOP *** 
+Mistafreda folds
+Pilou1909 folds
+.vinsanity. folds
+parisingap calls 4000
+_SKR folds
+shura16 folds
+Billystef checks
+*** FLOP *** [Qs 6h 5h]
+Billystef bets 4725
+parisingap raises 21084 to 25809 and is all-in
+Billystef raises 8399 to 34208 and is all-in
+*** TURN *** [Qs 6h 5h][Kh]
+*** RIVER *** [Qs 6h 5h Kh][Td]
+*** SHOW DOWN ***
+parisingap shows [2c Qc] (One pair : Queens)
+Billystef shows [4d 7c] (High card : King)
+Billystef collected 8399 from side pot 1
+parisingap collected 65118 from main pot
+*** SUMMARY ***
+Total pot 73517 | No rake
+Board: [Qs 6h 5h Kh Td]
+Seat 4: parisingap showed [2c Qc] and won 65118 with One pair : Queens
+Seat 7: Billystef (big blind) showed [4d 7c] and won 8399 with High card : King
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #2678083654344769537-66-1676582093 - Holdem no limit (500/2000/4000) - 2023/02/16 21:14:53 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #6 is the button
+Seat 1: Mistafreda (46247, 2.02€ bounty)
+Seat 2: Pilou1909 (93182, 0.90€ bounty)
+Seat 3: .vinsanity. (146372, 2.80€ bounty)
+Seat 4: parisingap (65118, 1.35€ bounty)
+Seat 5: _SKR (260139, 4.94€ bounty)
+Seat 6: shura16 (53135, 1.57€ bounty)
+Seat 7: Billystef (8399, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Billystef posts ante 500
+Mistafreda posts ante 500
+Pilou1909 posts ante 500
+.vinsanity. posts ante 500
+parisingap posts ante 500
+_SKR posts ante 500
+shura16 posts ante 500
+Billystef posts small blind 2000
+Mistafreda posts big blind 4000
+Dealt to _SKR [Tc 2d]
+*** PRE-FLOP *** 
+Pilou1909 folds
+.vinsanity. folds
+parisingap folds
+_SKR raises 8000 to 12000
+shura16 folds
+Billystef calls 5899 and is all-in
+Mistafreda calls 8000
+*** FLOP *** [6s 2h Js]
+Mistafreda checks
+_SKR bets 35399
+Mistafreda folds
+*** TURN *** [6s 2h Js][Kh]
+*** RIVER *** [6s 2h Js Kh][Jh]
+*** SHOW DOWN ***
+Billystef shows [3c Qc] (One pair : Jacks)
+_SKR shows [Tc 2d] (Two pairs : Jacks and 2)
+_SKR collected 70798 from pot
+*** SUMMARY ***
+Total pot 70798 | No rake
+Board: [6s 2h Js Kh Jh]
+Seat 5: _SKR showed [Tc 2d] and won 70798 with Two pairs : Jacks and 2
+Seat 7: Billystef (small blind) showed [3c Qc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #2678083654344769537-67-1676582139 - Holdem no limit (500/2000/4000) - 2023/02/16 21:15:39 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #7 is the button
+Seat 1: Mistafreda (33747, 2.02€ bounty)
+Seat 2: Pilou1909 (92682, 0.90€ bounty)
+Seat 3: .vinsanity. (145872, 2.80€ bounty)
+Seat 4: parisingap (64618, 1.35€ bounty)
+Seat 5: _SKR (283038, 6.74€ bounty)
+Seat 6: shura16 (52635, 1.57€ bounty)
+Seat 8: labenz46ussv (39750, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mistafreda posts ante 500
+Pilou1909 posts ante 500
+.vinsanity. posts ante 500
+parisingap posts ante 500
+_SKR posts ante 500
+shura16 posts ante 500
+Mistafreda posts small blind 2000
+Pilou1909 posts big blind 4000
+Dealt to _SKR [8d Jc]
+*** PRE-FLOP *** 
+.vinsanity. folds
+parisingap folds
+_SKR folds
+shura16 folds
+Mistafreda calls 2000
+Pilou1909 raises 88182 to 92182 and is all-in
+Mistafreda folds
+Pilou1909 collected 99182 from pot
+*** SUMMARY ***
+Total pot 99182 | No rake
+Seat 2: Pilou1909 (big blind) won 99182
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #2678083654344769537-68-1676582156 - Holdem no limit (500/2000/4000) - 2023/02/16 21:15:56 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #1 is the button
+Seat 1: Mistafreda (29247, 2.02€ bounty)
+Seat 2: Pilou1909 (99182, 0.90€ bounty)
+Seat 3: .vinsanity. (145372, 2.80€ bounty)
+Seat 4: parisingap (64118, 1.35€ bounty)
+Seat 5: _SKR (282538, 6.74€ bounty)
+Seat 6: shura16 (52135, 1.57€ bounty)
+Seat 8: labenz46ussv (39750, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Pilou1909 posts ante 500
+.vinsanity. posts ante 500
+Mistafreda posts ante 500
+parisingap posts ante 500
+_SKR posts ante 500
+shura16 posts ante 500
+labenz46ussv posts ante 500
+Pilou1909 posts small blind 2000
+.vinsanity. posts big blind 4000
+Dealt to _SKR [7d Qs]
+*** PRE-FLOP *** 
+parisingap calls 4000
+_SKR folds
+shura16 folds
+labenz46ussv folds
+Mistafreda raises 24747 to 28747 and is all-in
+Pilou1909 folds
+.vinsanity. folds
+parisingap folds
+Mistafreda collected 42247 from pot
+*** SUMMARY ***
+Total pot 42247 | No rake
+Seat 1: Mistafreda (button) won 42247
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #2678083654344769537-69-1676582188 - Holdem no limit (500/2000/4000) - 2023/02/16 21:16:28 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #2 is the button
+Seat 1: Mistafreda (42247, 2.02€ bounty)
+Seat 2: Pilou1909 (96682, 0.90€ bounty)
+Seat 3: .vinsanity. (140872, 2.80€ bounty)
+Seat 4: parisingap (59618, 1.35€ bounty)
+Seat 5: _SKR (282038, 6.74€ bounty)
+Seat 6: shura16 (51635, 1.57€ bounty)
+Seat 8: labenz46ussv (39250, 0.90€ bounty)
+*** ANTE/BLINDS ***
+.vinsanity. posts ante 500
+parisingap posts ante 500
+Mistafreda posts ante 500
+Pilou1909 posts ante 500
+_SKR posts ante 500
+shura16 posts ante 500
+labenz46ussv posts ante 500
+.vinsanity. posts small blind 2000
+parisingap posts big blind 4000
+Dealt to _SKR [9h Jd]
+*** PRE-FLOP *** 
+_SKR folds
+shura16 folds
+labenz46ussv folds
+Mistafreda folds
+Pilou1909 raises 92182 to 96182 and is all-in
+.vinsanity. folds
+parisingap folds
+Pilou1909 collected 105682 from pot
+*** SUMMARY ***
+Total pot 105682 | No rake
+Seat 2: Pilou1909 (button) won 105682
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #2678083654344769537-70-1676582209 - Holdem no limit (600/2500/5000) - 2023/02/16 21:16:49 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #3 is the button
+Seat 1: Mistafreda (41747, 2.02€ bounty)
+Seat 2: Pilou1909 (105682, 0.90€ bounty)
+Seat 3: .vinsanity. (138372, 2.80€ bounty)
+Seat 4: parisingap (55118, 1.35€ bounty)
+Seat 5: _SKR (281538, 6.74€ bounty)
+Seat 6: shura16 (51135, 1.57€ bounty)
+Seat 8: labenz46ussv (38750, 0.90€ bounty)
+*** ANTE/BLINDS ***
+parisingap posts ante 600
+_SKR posts ante 600
+Mistafreda posts ante 600
+Pilou1909 posts ante 600
+.vinsanity. posts ante 600
+shura16 posts ante 600
+labenz46ussv posts ante 600
+parisingap posts small blind 2500
+_SKR posts big blind 5000
+Dealt to _SKR [6c Ks]
+*** PRE-FLOP *** 
+shura16 folds
+labenz46ussv calls 5000
+Mistafreda calls 5000
+Pilou1909 folds
+.vinsanity. folds
+parisingap folds
+_SKR checks
+*** FLOP *** [2h 6h 3d]
+_SKR bets 5425
+labenz46ussv raises 27725 to 33150 and is all-in
+Mistafreda calls 33150
+_SKR raises 27725 to 60875
+Mistafreda calls 2997 and is all-in
+*** TURN *** [2h 6h 3d][Kd]
+*** RIVER *** [2h 6h 3d Kd][9h]
+*** SHOW DOWN ***
+labenz46ussv shows [3s 3h] (Trips of 3)
+Mistafreda shows [Jh 8h] (Flush Jack high)
+_SKR shows [6c Ks] (Two pairs : Kings and 6)
+_SKR collected 24728 from side pot 1
+Mistafreda collected 127144 from main pot
+*** SUMMARY ***
+Total pot 151872 | No rake
+Board: [2h 6h 3d Kd 9h]
+Seat 1: Mistafreda showed [Jh 8h] and won 127144 with Flush Jack high
+Seat 5: _SKR (big blind) showed [6c Ks] and won 24728 with Two pairs : Kings and 6
+Seat 8: labenz46ussv showed [3s 3h] and lost with Trips of 3
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #2678083654344769537-71-1676582248 - Holdem no limit (600/2500/5000) - 2023/02/16 21:17:28 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #4 is the button
+Seat 1: Mistafreda (127144, 2.47€ bounty)
+Seat 2: Pilou1909 (105082, 0.90€ bounty)
+Seat 3: .vinsanity. (137772, 2.80€ bounty)
+Seat 4: parisingap (52018, 1.35€ bounty)
+Seat 5: _SKR (239791, 6.74€ bounty)
+Seat 6: shura16 (50535, 1.57€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 600
+shura16 posts ante 600
+Mistafreda posts ante 600
+Pilou1909 posts ante 600
+.vinsanity. posts ante 600
+parisingap posts ante 600
+_SKR posts small blind 2500
+shura16 posts big blind 5000
+Dealt to _SKR [Ac 8d]
+*** PRE-FLOP *** 
+Mistafreda calls 5000
+Pilou1909 folds
+.vinsanity. folds
+parisingap folds
+_SKR calls 2500
+shura16 raises 5000 to 10000
+Mistafreda calls 5000
+_SKR calls 5000
+*** FLOP *** [4s 9c 7c]
+_SKR checks
+shura16 bets 5000
+Mistafreda calls 5000
+_SKR calls 5000
+*** TURN *** [4s 9c 7c][3d]
+_SKR checks
+shura16 bets 5000
+Mistafreda calls 5000
+_SKR folds
+*** RIVER *** [4s 9c 7c 3d][Th]
+shura16 checks
+Mistafreda checks
+*** SHOW DOWN ***
+shura16 shows [Kc Qc] (High card : King)
+Mistafreda shows [Ah 5c] (High card : Ace)
+Mistafreda collected 58600 from pot
+*** SUMMARY ***
+Total pot 58600 | No rake
+Board: [4s 9c 7c 3d Th]
+Seat 1: Mistafreda showed [Ah 5c] and won 58600 with High card : Ace
+Seat 6: shura16 (big blind) showed [Kc Qc] and lost with High card : King
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #2678083654344769537-72-1676582323 - Holdem no limit (600/2500/5000) - 2023/02/16 21:18:43 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #5 is the button
+Seat 1: Mistafreda (165144, 2.47€ bounty)
+Seat 2: Pilou1909 (104482, 0.90€ bounty)
+Seat 3: .vinsanity. (137172, 2.80€ bounty)
+Seat 4: parisingap (51418, 1.35€ bounty)
+Seat 5: _SKR (224191, 6.74€ bounty)
+Seat 6: shura16 (29935, 1.57€ bounty)
+Seat 7: Abaddone (37359, 1.35€ bounty)
+Seat 8: 3baret (28920, 0.90€ bounty)
+*** ANTE/BLINDS ***
+shura16 posts ante 600
+Abaddone posts ante 600
+Mistafreda posts ante 600
+Pilou1909 posts ante 600
+.vinsanity. posts ante 600
+parisingap posts ante 600
+_SKR posts ante 600
+3baret posts ante 600
+shura16 posts small blind 2500
+Abaddone posts big blind 5000
+Dealt to _SKR [Jh Ac]
+*** PRE-FLOP *** 
+3baret raises 23320 to 28320 and is all-in
+Mistafreda folds
+Pilou1909 folds
+.vinsanity. folds
+parisingap folds
+_SKR raises 195271 to 223591 and is all-in
+shura16 folds
+Abaddone folds
+*** FLOP *** [6h Ad Th]
+*** TURN *** [6h Ad Th][Kh]
+*** RIVER *** [6h Ad Th Kh][8d]
+*** SHOW DOWN ***
+3baret shows [5c Kc] (One pair : Kings)
+_SKR shows [Jh Ac] (One pair : Aces)
+_SKR collected 264211 from pot
+*** SUMMARY ***
+Total pot 264211 | No rake
+Board: [6h Ad Th Kh 8d]
+Seat 5: _SKR (button) showed [Jh Ac] and won 264211 with One pair : Aces
+Seat 8: 3baret showed [5c Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2678083654344769537-73-1676582344 - Holdem no limit (700/3000/6000) - 2023/02/16 21:19:04 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #6 is the button
+Seat 1: Mistafreda (164544, 2.47€ bounty)
+Seat 2: Pilou1909 (103882, 0.90€ bounty)
+Seat 3: .vinsanity. (136572, 2.80€ bounty)
+Seat 4: parisingap (50818, 1.35€ bounty)
+Seat 5: _SKR (264211, 7.19€ bounty)
+Seat 6: shura16 (26835, 1.57€ bounty)
+Seat 7: Abaddone (31759, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Abaddone posts ante 700
+Mistafreda posts ante 700
+Pilou1909 posts ante 700
+.vinsanity. posts ante 700
+parisingap posts ante 700
+_SKR posts ante 700
+shura16 posts ante 700
+Abaddone posts small blind 3000
+Mistafreda posts big blind 6000
+Dealt to _SKR [6h Kc]
+*** PRE-FLOP *** 
+Pilou1909 folds
+.vinsanity. raises 6000 to 12000
+parisingap folds
+_SKR folds
+shura16 folds
+Abaddone folds
+Mistafreda calls 6000
+*** FLOP *** [5h 9c Kd]
+Mistafreda checks
+.vinsanity. bets 11165
+Mistafreda folds
+.vinsanity. collected 43065 from pot
+*** SUMMARY ***
+Total pot 43065 | No rake
+Board: [5h 9c Kd]
+Seat 3: .vinsanity. won 43065
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2678083654344769537-74-1676582375 - Holdem no limit (700/3000/6000) - 2023/02/16 21:19:35 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #7 is the button
+Seat 1: Mistafreda (151844, 2.47€ bounty)
+Seat 2: Pilou1909 (103182, 0.90€ bounty)
+Seat 3: .vinsanity. (155772, 2.80€ bounty)
+Seat 4: parisingap (50118, 1.35€ bounty)
+Seat 5: _SKR (263511, 7.19€ bounty)
+Seat 6: shura16 (26135, 1.57€ bounty)
+Seat 7: Abaddone (28059, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Mistafreda posts ante 700
+Pilou1909 posts ante 700
+.vinsanity. posts ante 700
+parisingap posts ante 700
+_SKR posts ante 700
+shura16 posts ante 700
+Abaddone posts ante 700
+Mistafreda posts small blind 3000
+Pilou1909 posts big blind 6000
+Dealt to _SKR [8s Qc]
+*** PRE-FLOP *** 
+.vinsanity. folds
+parisingap calls 6000
+_SKR folds
+shura16 raises 19435 to 25435 and is all-in
+Abaddone folds
+Mistafreda raises 125709 to 151144 and is all-in
+Pilou1909 folds
+parisingap folds
+*** FLOP *** [5h 2h Kh]
+*** TURN *** [5h 2h Kh][Ah]
+*** RIVER *** [5h 2h Kh Ah][4d]
+*** SHOW DOWN ***
+shura16 shows [Ad 5s] (Two pairs : Aces and 5)
+Mistafreda shows [Ac Kd] (Two pairs : Aces and Kings)
+Mistafreda collected 193479 from pot
+*** SUMMARY ***
+Total pot 193479 | No rake
+Board: [5h 2h Kh Ah 4d]
+Seat 1: Mistafreda (small blind) showed [Ac Kd] and won 193479 with Two pairs : Aces and Kings
+Seat 6: shura16 showed [Ad 5s] and lost with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2678083654344769537-75-1676582413 - Holdem no limit (700/3000/6000) - 2023/02/16 21:20:13 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #1 is the button
+Seat 1: Mistafreda (193479, 3.25€ bounty)
+Seat 2: Pilou1909 (96482, 0.90€ bounty)
+Seat 3: .vinsanity. (155072, 2.80€ bounty)
+Seat 4: parisingap (43418, 1.35€ bounty)
+Seat 5: _SKR (262811, 7.19€ bounty)
+Seat 7: Abaddone (27359, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Pilou1909 posts ante 700
+.vinsanity. posts ante 700
+Mistafreda posts ante 700
+parisingap posts ante 700
+_SKR posts ante 700
+Abaddone posts ante 700
+Pilou1909 posts small blind 3000
+.vinsanity. posts big blind 6000
+Dealt to _SKR [6s 4d]
+*** PRE-FLOP *** 
+parisingap folds
+_SKR folds
+Abaddone folds
+Mistafreda folds
+Pilou1909 calls 3000
+.vinsanity. checks
+*** FLOP *** [8d 3d 7h]
+Pilou1909 bets 6000
+.vinsanity. raises 142372 to 148372 and is all-in
+Pilou1909 folds
+.vinsanity. collected 170572 from pot
+*** SUMMARY ***
+Total pot 170572 | No rake
+Board: [8d 3d 7h]
+Seat 3: .vinsanity. (big blind) won 170572
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2678083654344769537-76-1676582443 - Holdem no limit (700/3000/6000) - 2023/02/16 21:20:43 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #2 is the button
+Seat 1: Mistafreda (192779, 3.25€ bounty)
+Seat 2: Pilou1909 (83782, 0.90€ bounty)
+Seat 3: .vinsanity. (170572, 2.80€ bounty)
+Seat 4: parisingap (42718, 1.35€ bounty)
+Seat 5: _SKR (262111, 7.19€ bounty)
+Seat 7: Abaddone (26659, 1.35€ bounty)
+Seat 8: Tiltless (24012, 0.90€ bounty)
+*** ANTE/BLINDS ***
+.vinsanity. posts ante 700
+parisingap posts ante 700
+Mistafreda posts ante 700
+Pilou1909 posts ante 700
+_SKR posts ante 700
+Abaddone posts ante 700
+Tiltless posts ante 700
+.vinsanity. posts small blind 3000
+parisingap posts big blind 6000
+Dealt to _SKR [5h Ah]
+*** PRE-FLOP *** 
+_SKR raises 6000 to 12000
+Abaddone folds
+Tiltless folds
+Mistafreda folds
+Pilou1909 folds
+.vinsanity. folds
+parisingap folds
+_SKR collected 25900 from pot
+*** SUMMARY ***
+Total pot 25900 | No rake
+Seat 5: _SKR won 25900
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2678083654344769537-77-1676582460 - Holdem no limit (700/3000/6000) - 2023/02/16 21:21:00 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #3 is the button
+Seat 1: Mistafreda (192079, 3.25€ bounty)
+Seat 2: Pilou1909 (83082, 0.90€ bounty)
+Seat 3: .vinsanity. (166872, 2.80€ bounty)
+Seat 4: parisingap (36018, 1.35€ bounty)
+Seat 5: _SKR (275311, 7.19€ bounty)
+Seat 7: Abaddone (25959, 1.35€ bounty)
+Seat 8: Tiltless (23312, 0.90€ bounty)
+*** ANTE/BLINDS ***
+parisingap posts ante 700
+_SKR posts ante 700
+Mistafreda posts ante 700
+Pilou1909 posts ante 700
+.vinsanity. posts ante 700
+Abaddone posts ante 700
+Tiltless posts ante 700
+parisingap posts small blind 3000
+_SKR posts big blind 6000
+Dealt to _SKR [Jd 3d]
+*** PRE-FLOP *** 
+Abaddone folds
+Tiltless folds
+Mistafreda folds
+Pilou1909 folds
+.vinsanity. folds
+parisingap folds
+_SKR collected 13900 from pot
+*** SUMMARY ***
+Total pot 13900 | No rake
+Seat 5: _SKR (big blind) won 13900
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2678083654344769537-78-1676582466 - Holdem no limit (700/3000/6000) - 2023/02/16 21:21:06 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #4 is the button
+Seat 1: Mistafreda (191379, 3.25€ bounty)
+Seat 2: Pilou1909 (82382, 0.90€ bounty)
+Seat 3: .vinsanity. (166172, 2.80€ bounty)
+Seat 4: parisingap (32318, 1.35€ bounty)
+Seat 5: _SKR (282511, 7.19€ bounty)
+Seat 7: Abaddone (25259, 1.35€ bounty)
+Seat 8: Tiltless (22612, 0.90€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 700
+Abaddone posts ante 700
+Mistafreda posts ante 700
+Pilou1909 posts ante 700
+.vinsanity. posts ante 700
+parisingap posts ante 700
+Tiltless posts ante 700
+_SKR posts small blind 3000
+Abaddone posts big blind 6000
+Dealt to _SKR [5s Tc]
+*** PRE-FLOP *** 
+Tiltless folds
+Mistafreda folds
+Pilou1909 raises 75682 to 81682 and is all-in
+.vinsanity. raises 83790 to 165472 and is all-in
+parisingap folds
+_SKR folds
+Abaddone folds
+*** FLOP *** [Ac Jh 9h]
+*** TURN *** [Ac Jh 9h][9c]
+*** RIVER *** [Ac Jh 9h 9c][9d]
+*** SHOW DOWN ***
+Pilou1909 shows [Ah Kc] (Full of 9 and Aces)
+.vinsanity. shows [Qd Qc] (Full of 9 and Queens)
+.vinsanity. collected 83790 from side pot 1
+Pilou1909 collected 177264 from main pot
+*** SUMMARY ***
+Total pot 261054 | No rake
+Board: [Ac Jh 9h 9c 9d]
+Seat 2: Pilou1909 showed [Ah Kc] and won 177264 with Full of 9 and Aces
+Seat 3: .vinsanity. showed [Qd Qc] and won 83790 with Full of 9 and Queens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2678083654344769537-79-1676582488 - Holdem no limit (700/3000/6000) - 2023/02/16 21:21:28 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #5 is the button
+Seat 1: Mistafreda (190679, 3.25€ bounty)
+Seat 2: Pilou1909 (177264, 0.90€ bounty)
+Seat 3: .vinsanity. (83790, 2.80€ bounty)
+Seat 4: parisingap (31618, 1.35€ bounty)
+Seat 5: _SKR (278811, 7.19€ bounty)
+Seat 7: Abaddone (18559, 1.35€ bounty)
+Seat 8: Tiltless (21912, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Abaddone posts ante 700
+Tiltless posts ante 700
+Mistafreda posts ante 700
+Pilou1909 posts ante 700
+.vinsanity. posts ante 700
+parisingap posts ante 700
+_SKR posts ante 700
+Abaddone posts small blind 3000
+Tiltless posts big blind 6000
+Dealt to _SKR [7d 5c]
+*** PRE-FLOP *** 
+Mistafreda folds
+Pilou1909 folds
+.vinsanity. raises 77090 to 83090 and is all-in
+parisingap folds
+_SKR folds
+Abaddone folds
+Tiltless folds
+.vinsanity. collected 96990 from pot
+*** SUMMARY ***
+Total pot 96990 | No rake
+Seat 3: .vinsanity. won 96990
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #2678083654344769537-80-1676582511 - Holdem no limit (800/3500/7000) - 2023/02/16 21:21:51 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #7 is the button
+Seat 1: Mistafreda (189979, 3.25€ bounty)
+Seat 2: Pilou1909 (176564, 0.90€ bounty)
+Seat 3: .vinsanity. (96990, 2.80€ bounty)
+Seat 4: parisingap (30918, 1.35€ bounty)
+Seat 5: _SKR (278111, 7.19€ bounty)
+Seat 7: Abaddone (14859, 1.35€ bounty)
+Seat 8: Tiltless (15212, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Tiltless posts ante 800
+Mistafreda posts ante 800
+Pilou1909 posts ante 800
+.vinsanity. posts ante 800
+parisingap posts ante 800
+_SKR posts ante 800
+Abaddone posts ante 800
+Tiltless posts small blind 3500
+Mistafreda posts big blind 7000
+Dealt to _SKR [2d 5c]
+*** PRE-FLOP *** 
+Pilou1909 folds
+.vinsanity. folds
+parisingap folds
+_SKR folds
+Abaddone folds
+Tiltless raises 7412 to 14412 and is all-in
+Mistafreda calls 7412
+*** FLOP *** [8h 5s 4d]
+*** TURN *** [8h 5s 4d][8d]
+*** RIVER *** [8h 5s 4d 8d][Ad]
+*** SHOW DOWN ***
+Tiltless shows [Kc Qs] (One pair : 8)
+Mistafreda shows [7c 5d] (Two pairs : 8 and 5)
+Mistafreda collected 34424 from pot
+*** SUMMARY ***
+Total pot 34424 | No rake
+Board: [8h 5s 4d 8d Ad]
+Seat 1: Mistafreda (big blind) showed [7c 5d] and won 34424 with Two pairs : 8 and 5
+Seat 8: Tiltless (small blind) showed [Kc Qs] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #2678083654344769537-81-1676582539 - Holdem no limit (800/3500/7000) - 2023/02/16 21:22:19 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #8 is the button
+Seat 1: Mistafreda (209191, 3.70€ bounty)
+Seat 2: Pilou1909 (175764, 0.90€ bounty)
+Seat 3: .vinsanity. (96190, 2.80€ bounty)
+Seat 4: parisingap (30118, 1.35€ bounty)
+Seat 5: _SKR (277311, 7.19€ bounty)
+Seat 7: Abaddone (14059, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Mistafreda posts ante 800
+Pilou1909 posts ante 800
+.vinsanity. posts ante 800
+parisingap posts ante 800
+_SKR posts ante 800
+Abaddone posts ante 800
+Mistafreda posts small blind 3500
+Pilou1909 posts big blind 7000
+Dealt to _SKR [Js Kc]
+*** PRE-FLOP *** 
+.vinsanity. folds
+parisingap folds
+_SKR raises 7000 to 14000
+Abaddone folds
+Mistafreda calls 10500
+Pilou1909 calls 7000
+*** FLOP *** [8h 7d 2d]
+Mistafreda checks
+Pilou1909 checks
+_SKR bets 23400
+Mistafreda calls 23400
+Pilou1909 folds
+*** TURN *** [8h 7d 2d][8s]
+Mistafreda checks
+_SKR checks
+*** RIVER *** [8h 7d 2d 8s][4d]
+Mistafreda bets 32760
+_SKR folds
+Mistafreda collected 126360 from pot
+*** SUMMARY ***
+Total pot 126360 | No rake
+Board: [8h 7d 2d 8s 4d]
+Seat 1: Mistafreda (small blind) won 126360
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #2678083654344769537-82-1676582604 - Holdem no limit (800/3500/7000) - 2023/02/16 21:23:24 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #1 is the button
+Seat 1: Mistafreda (264591, 3.70€ bounty)
+Seat 2: Pilou1909 (160964, 0.90€ bounty)
+Seat 3: .vinsanity. (95390, 2.80€ bounty)
+Seat 5: _SKR (239111, 7.19€ bounty)
+Seat 6: Jex64 (41374, 2.25€ bounty)
+Seat 7: Abaddone (13259, 1.35€ bounty)
+Seat 8: cocaglock (105186, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Pilou1909 posts ante 800
+.vinsanity. posts ante 800
+Mistafreda posts ante 800
+_SKR posts ante 800
+Jex64 posts ante 800
+Abaddone posts ante 800
+cocaglock posts ante 800
+Pilou1909 posts small blind 3500
+.vinsanity. posts big blind 7000
+Dealt to _SKR [Ah 9d]
+*** PRE-FLOP *** 
+_SKR folds
+Jex64 folds
+Abaddone folds
+cocaglock folds
+Mistafreda calls 7000
+Pilou1909 folds
+.vinsanity. checks
+*** FLOP *** [4c 8d 9s]
+.vinsanity. checks
+Mistafreda bets 7000
+.vinsanity. calls 7000
+*** TURN *** [4c 8d 9s][Ac]
+.vinsanity. checks
+Mistafreda bets 18550
+.vinsanity. calls 18550
+*** RIVER *** [4c 8d 9s Ac][8c]
+.vinsanity. checks
+Mistafreda bets 25970
+.vinsanity. folds
+Mistafreda collected 100170 from pot
+*** SUMMARY ***
+Total pot 100170 | No rake
+Board: [4c 8d 9s Ac 8c]
+Seat 1: Mistafreda (button) won 100170
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #2678083654344769537-83-1676582692 - Holdem no limit (1000/4000/8000) - 2023/02/16 21:24:52 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #2 is the button
+Seat 1: Mistafreda (305441, 3.70€ bounty)
+Seat 2: Pilou1909 (156664, 0.90€ bounty)
+Seat 3: .vinsanity. (62040, 2.80€ bounty)
+Seat 5: _SKR (238311, 7.19€ bounty)
+Seat 6: Jex64 (40574, 2.25€ bounty)
+Seat 7: Abaddone (12459, 1.35€ bounty)
+Seat 8: cocaglock (104386, 2.47€ bounty)
+*** ANTE/BLINDS ***
+.vinsanity. posts ante 1000
+_SKR posts ante 1000
+Mistafreda posts ante 1000
+Pilou1909 posts ante 1000
+Jex64 posts ante 1000
+Abaddone posts ante 1000
+cocaglock posts ante 1000
+.vinsanity. posts small blind 4000
+_SKR posts big blind 8000
+Dealt to _SKR [8c Js]
+*** PRE-FLOP *** 
+Jex64 raises 31574 to 39574 and is all-in
+Abaddone calls 11459 and is all-in
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+.vinsanity. folds
+_SKR calls 31574
+*** FLOP *** [3d Kh 2s]
+*** TURN *** [3d Kh 2s][7c]
+*** RIVER *** [3d Kh 2s 7c][4s]
+*** SHOW DOWN ***
+_SKR shows [8c Js] (High card : King)
+Abaddone shows [Qh 9h] (High card : King)
+Jex64 shows [8h 8s] (One pair : 8)
+Jex64 collected 101607 from pot
+*** SUMMARY ***
+Total pot 101607 | No rake
+Board: [3d Kh 2s 7c 4s]
+Seat 5: _SKR (big blind) showed [8c Js] and lost with High card : King
+Seat 6: Jex64 showed [8h 8s] and won 101607 with One pair : 8
+Seat 7: Abaddone showed [Qh 9h] and lost with High card : King
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #2678083654344769537-84-1676582734 - Holdem no limit (1000/4000/8000) - 2023/02/16 21:25:34 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #3 is the button
+Seat 1: Mistafreda (304441, 3.70€ bounty)
+Seat 2: Pilou1909 (155664, 0.90€ bounty)
+Seat 3: .vinsanity. (57040, 2.80€ bounty)
+Seat 4: Guikoo (104618, 1.57€ bounty)
+Seat 5: _SKR (197737, 7.19€ bounty)
+Seat 6: Jex64 (101607, 2.92€ bounty)
+Seat 8: cocaglock (103386, 2.47€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 1000
+Jex64 posts ante 1000
+Mistafreda posts ante 1000
+Pilou1909 posts ante 1000
+.vinsanity. posts ante 1000
+cocaglock posts ante 1000
+_SKR posts small blind 4000
+Jex64 posts big blind 8000
+Dealt to _SKR [2h Ac]
+*** PRE-FLOP *** 
+cocaglock folds
+Mistafreda calls 8000
+Pilou1909 raises 146664 to 154664 and is all-in
+.vinsanity. calls 56040 and is all-in
+_SKR folds
+Jex64 folds
+Mistafreda folds
+*** FLOP *** [6d Ts 4h]
+*** TURN *** [6d Ts 4h][2d]
+*** RIVER *** [6d Ts 4h 2d][8d]
+*** SHOW DOWN ***
+Pilou1909 shows [Kc Ah] (High card : Ace)
+.vinsanity. shows [Ad Ks] (High card : Ace)
+.vinsanity. collected 69040 from main pot
+Pilou1909 collected 167664 from side pot 1
+*** SUMMARY ***
+Total pot 236704 | No rake
+Board: [6d Ts 4h 2d 8d]
+Seat 2: Pilou1909 showed [Kc Ah] and won 167664 with High card : Ace
+Seat 3: .vinsanity. (button) showed [Ad Ks] and won 69040 with High card : Ace
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #2678083654344769537-85-1676582763 - Holdem no limit (1000/4000/8000) - 2023/02/16 21:26:03 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #5 is the button
+Seat 1: Mistafreda (295441, 3.70€ bounty)
+Seat 2: Pilou1909 (167664, 0.90€ bounty)
+Seat 3: .vinsanity. (69040, 2.80€ bounty)
+Seat 4: Guikoo (104618, 1.57€ bounty)
+Seat 5: _SKR (192737, 7.19€ bounty)
+Seat 6: Jex64 (92607, 2.92€ bounty)
+Seat 8: cocaglock (102386, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Jex64 posts ante 1000
+cocaglock posts ante 1000
+Mistafreda posts ante 1000
+Pilou1909 posts ante 1000
+.vinsanity. posts ante 1000
+Guikoo posts ante 1000
+_SKR posts ante 1000
+Jex64 posts small blind 4000
+cocaglock posts big blind 8000
+Dealt to _SKR [Qh 5c]
+*** PRE-FLOP *** 
+Mistafreda calls 8000
+Pilou1909 folds
+.vinsanity. folds
+Guikoo folds
+_SKR folds
+Jex64 raises 83607 to 91607 and is all-in
+cocaglock folds
+Mistafreda folds
+Jex64 collected 114607 from pot
+*** SUMMARY ***
+Total pot 114607 | No rake
+Seat 6: Jex64 (small blind) won 114607
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #2678083654344769537-86-1676582777 - Holdem no limit (1000/4000/8000) - 2023/02/16 21:26:17 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #6 is the button
+Seat 1: Mistafreda (286441, 3.70€ bounty)
+Seat 2: Pilou1909 (166664, 0.90€ bounty)
+Seat 3: .vinsanity. (68040, 2.80€ bounty)
+Seat 4: Guikoo (103618, 1.57€ bounty)
+Seat 5: _SKR (191737, 7.19€ bounty)
+Seat 6: Jex64 (114607, 2.92€ bounty)
+Seat 8: cocaglock (93386, 2.47€ bounty)
+*** ANTE/BLINDS ***
+cocaglock posts ante 1000
+Mistafreda posts ante 1000
+Pilou1909 posts ante 1000
+.vinsanity. posts ante 1000
+Guikoo posts ante 1000
+_SKR posts ante 1000
+Jex64 posts ante 1000
+cocaglock posts small blind 4000
+Mistafreda posts big blind 8000
+Dealt to _SKR [3c 7d]
+*** PRE-FLOP *** 
+Pilou1909 folds
+.vinsanity. folds
+Guikoo folds
+_SKR folds
+Jex64 folds
+cocaglock raises 8000 to 16000
+Mistafreda calls 8000
+*** FLOP *** [4c Ah 8d]
+cocaglock bets 13650
+Mistafreda calls 13650
+*** TURN *** [4c Ah 8d][2s]
+cocaglock bets 62736 and is all-in
+Mistafreda folds
+cocaglock collected 129036 from pot
+*** SUMMARY ***
+Total pot 129036 | No rake
+Board: [4c Ah 8d 2s]
+Seat 8: cocaglock (small blind) won 129036
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #2678083654344769537-87-1676582818 - Holdem no limit (1200/5000/10000) - 2023/02/16 21:26:58 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #8 is the button
+Seat 1: Mistafreda (255791, 3.70€ bounty)
+Seat 2: Pilou1909 (165664, 0.90€ bounty)
+Seat 3: .vinsanity. (67040, 2.80€ bounty)
+Seat 4: Guikoo (102618, 1.57€ bounty)
+Seat 5: _SKR (190737, 7.19€ bounty)
+Seat 6: Jex64 (113607, 2.92€ bounty)
+Seat 8: cocaglock (129036, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Mistafreda posts ante 1200
+Pilou1909 posts ante 1200
+.vinsanity. posts ante 1200
+Guikoo posts ante 1200
+_SKR posts ante 1200
+Jex64 posts ante 1200
+cocaglock posts ante 1200
+Mistafreda posts small blind 5000
+Pilou1909 posts big blind 10000
+Dealt to _SKR [2s 6d]
+*** PRE-FLOP *** 
+.vinsanity. folds
+Guikoo folds
+_SKR folds
+Jex64 raises 102407 to 112407 and is all-in
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+Jex64 collected 135807 from pot
+*** SUMMARY ***
+Total pot 135807 | No rake
+Seat 6: Jex64 won 135807
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #2678083654344769537-88-1676582837 - Holdem no limit (1200/5000/10000) - 2023/02/16 21:27:17 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #1 is the button
+Seat 1: Mistafreda (249591, 3.70€ bounty)
+Seat 2: Pilou1909 (154464, 0.90€ bounty)
+Seat 3: .vinsanity. (65840, 2.80€ bounty)
+Seat 4: Guikoo (101418, 1.57€ bounty)
+Seat 5: _SKR (189537, 7.19€ bounty)
+Seat 6: Jex64 (135807, 2.92€ bounty)
+Seat 8: cocaglock (127836, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Pilou1909 posts ante 1200
+.vinsanity. posts ante 1200
+Mistafreda posts ante 1200
+Guikoo posts ante 1200
+_SKR posts ante 1200
+Jex64 posts ante 1200
+cocaglock posts ante 1200
+Pilou1909 posts small blind 5000
+.vinsanity. posts big blind 10000
+Dealt to _SKR [Th 3d]
+*** PRE-FLOP *** 
+Guikoo raises 15000 to 25000
+_SKR folds
+Jex64 folds
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+.vinsanity. folds
+Guikoo collected 48400 from pot
+*** SUMMARY ***
+Total pot 48400 | No rake
+Seat 4: Guikoo won 48400
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #2678083654344769537-89-1676582865 - Holdem no limit (1200/5000/10000) - 2023/02/16 21:27:45 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #2 is the button
+Seat 1: Mistafreda (248391, 3.70€ bounty)
+Seat 2: Pilou1909 (148264, 0.90€ bounty)
+Seat 3: .vinsanity. (54640, 2.80€ bounty)
+Seat 4: Guikoo (123618, 1.57€ bounty)
+Seat 5: _SKR (188337, 7.19€ bounty)
+Seat 6: Jex64 (134607, 2.92€ bounty)
+Seat 8: cocaglock (126636, 2.47€ bounty)
+*** ANTE/BLINDS ***
+.vinsanity. posts ante 1200
+Guikoo posts ante 1200
+Mistafreda posts ante 1200
+Pilou1909 posts ante 1200
+_SKR posts ante 1200
+Jex64 posts ante 1200
+cocaglock posts ante 1200
+.vinsanity. posts small blind 5000
+Guikoo posts big blind 10000
+Dealt to _SKR [9h 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Jex64 folds
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+.vinsanity. raises 43440 to 53440 and is all-in
+Guikoo calls 43440
+*** FLOP *** [7s Kd 5c]
+*** TURN *** [7s Kd 5c][6s]
+*** RIVER *** [7s Kd 5c 6s][5h]
+*** SHOW DOWN ***
+.vinsanity. shows [Tc Qc] (One pair : 5)
+Guikoo shows [8c 7h] (Two pairs : 7 and 5)
+Guikoo collected 115280 from pot
+*** SUMMARY ***
+Total pot 115280 | No rake
+Board: [7s Kd 5c 6s 5h]
+Seat 3: .vinsanity. (small blind) showed [Tc Qc] and lost with One pair : 5
+Seat 4: Guikoo (big blind) showed [8c 7h] and won 115280 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #2678083654344769537-90-1676582909 - Holdem no limit (1200/5000/10000) - 2023/02/16 21:28:29 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #3 is the button
+Seat 1: Mistafreda (247191, 3.70€ bounty)
+Seat 2: Pilou1909 (147064, 0.90€ bounty)
+Seat 4: Guikoo (184258, 2.97€ bounty)
+Seat 5: _SKR (187137, 7.19€ bounty)
+Seat 6: Jex64 (133407, 2.92€ bounty)
+Seat 8: cocaglock (125436, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Guikoo posts ante 1200
+_SKR posts ante 1200
+Mistafreda posts ante 1200
+Pilou1909 posts ante 1200
+Jex64 posts ante 1200
+cocaglock posts ante 1200
+Guikoo posts small blind 5000
+_SKR posts big blind 10000
+Dealt to _SKR [3d 2c]
+*** PRE-FLOP *** 
+Jex64 folds
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+Guikoo raises 20000 to 30000
+_SKR folds
+Guikoo collected 47200 from pot
+*** SUMMARY ***
+Total pot 47200 | No rake
+Seat 4: Guikoo (small blind) won 47200
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #2678083654344769537-91-1676582938 - Holdem no limit (1200/5000/10000) - 2023/02/16 21:28:58 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #4 is the button
+Seat 1: Mistafreda (245991, 3.70€ bounty)
+Seat 2: Pilou1909 (145864, 0.90€ bounty)
+Seat 4: Guikoo (200258, 2.97€ bounty)
+Seat 5: _SKR (175937, 7.19€ bounty)
+Seat 6: Jex64 (132207, 2.92€ bounty)
+Seat 7: Nestou30 (123132, 3.59€ bounty)
+Seat 8: cocaglock (124236, 2.47€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 1200
+Jex64 posts ante 1200
+Mistafreda posts ante 1200
+Pilou1909 posts ante 1200
+Guikoo posts ante 1200
+Nestou30 posts ante 1200
+cocaglock posts ante 1200
+_SKR posts small blind 5000
+Jex64 posts big blind 10000
+Dealt to _SKR [Jd Jh]
+*** PRE-FLOP *** 
+Nestou30 raises 20000 to 30000
+cocaglock folds
+Mistafreda raises 214791 to 244791 and is all-in
+Pilou1909 folds
+Guikoo folds
+_SKR calls 169737 and is all-in
+Jex64 folds
+Nestou30 folds
+*** FLOP *** [8h Qs Ts]
+*** TURN *** [8h Qs Ts][7s]
+*** RIVER *** [8h Qs Ts 7s][3s]
+*** SHOW DOWN ***
+Mistafreda shows [9c 9h] (One pair : 9)
+_SKR shows [Jd Jh] (One pair : Jacks)
+_SKR collected 397874 from main pot
+Mistafreda collected 70054 from side pot 1
+*** SUMMARY ***
+Total pot 467928 | No rake
+Board: [8h Qs Ts 7s 3s]
+Seat 1: Mistafreda showed [9c 9h] and won 70054 with One pair : 9
+Seat 5: _SKR (small blind) showed [Jd Jh] and won 397874 with One pair : Jacks
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 24 - HandId: #2678083654344769537-92-1676582969 - Holdem no limit (1400/6000/12000) - 2023/02/16 21:29:29 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #5 is the button
+Seat 1: Mistafreda (70054, 3.70€ bounty)
+Seat 2: Pilou1909 (144664, 0.90€ bounty)
+Seat 4: Guikoo (199058, 2.97€ bounty)
+Seat 5: _SKR (397874, 7.19€ bounty)
+Seat 6: Jex64 (121007, 2.92€ bounty)
+Seat 7: Nestou30 (91932, 3.59€ bounty)
+Seat 8: cocaglock (123036, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Jex64 posts ante 1400
+Nestou30 posts ante 1400
+Mistafreda posts ante 1400
+Pilou1909 posts ante 1400
+Guikoo posts ante 1400
+_SKR posts ante 1400
+cocaglock posts ante 1400
+Jex64 posts small blind 6000
+Nestou30 posts big blind 12000
+Dealt to _SKR [Ks Td]
+*** PRE-FLOP *** 
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+Guikoo raises 12000 to 24000
+_SKR raises 372474 to 396474 and is all-in
+Jex64 folds
+Nestou30 folds
+Guikoo folds
+_SKR collected 448274 from pot
+*** SUMMARY ***
+Total pot 448274 | No rake
+Seat 5: _SKR (button) won 448274
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 24 - HandId: #2678083654344769537-93-1676583013 - Holdem no limit (1400/6000/12000) - 2023/02/16 21:30:13 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #6 is the button
+Seat 1: Mistafreda (68654, 3.70€ bounty)
+Seat 2: Pilou1909 (143264, 0.90€ bounty)
+Seat 4: Guikoo (173658, 2.97€ bounty)
+Seat 5: _SKR (448274, 7.19€ bounty)
+Seat 6: Jex64 (113607, 2.92€ bounty)
+Seat 7: Nestou30 (78532, 3.59€ bounty)
+Seat 8: cocaglock (121636, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 1400
+cocaglock posts ante 1400
+Mistafreda posts ante 1400
+Pilou1909 posts ante 1400
+Guikoo posts ante 1400
+_SKR posts ante 1400
+Jex64 posts ante 1400
+Nestou30 posts small blind 6000
+cocaglock posts big blind 12000
+Dealt to _SKR [7d Ah]
+*** PRE-FLOP *** 
+Mistafreda folds
+Pilou1909 folds
+Guikoo folds
+_SKR raises 434874 to 446874 and is all-in
+Jex64 folds
+Nestou30 folds
+cocaglock folds
+_SKR collected 474674 from pot
+*** SUMMARY ***
+Total pot 474674 | No rake
+Seat 5: _SKR won 474674
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 24 - HandId: #2678083654344769537-94-1676583041 - Holdem no limit (1400/6000/12000) - 2023/02/16 21:30:41 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #7 is the button
+Seat 1: Mistafreda (67254, 3.70€ bounty)
+Seat 2: Pilou1909 (141864, 0.90€ bounty)
+Seat 4: Guikoo (172258, 2.97€ bounty)
+Seat 5: _SKR (474674, 7.19€ bounty)
+Seat 6: Jex64 (112207, 2.92€ bounty)
+Seat 7: Nestou30 (71132, 3.59€ bounty)
+Seat 8: cocaglock (108236, 2.47€ bounty)
+*** ANTE/BLINDS ***
+cocaglock posts ante 1400
+Mistafreda posts ante 1400
+Pilou1909 posts ante 1400
+Guikoo posts ante 1400
+_SKR posts ante 1400
+Jex64 posts ante 1400
+Nestou30 posts ante 1400
+cocaglock posts small blind 6000
+Mistafreda posts big blind 12000
+Dealt to _SKR [3d 6h]
+*** PRE-FLOP *** 
+Pilou1909 folds
+Guikoo folds
+_SKR folds
+Jex64 folds
+Nestou30 folds
+cocaglock calls 6000
+Mistafreda checks
+*** FLOP *** [8d Ad Ah]
+cocaglock checks
+Mistafreda bets 12000
+cocaglock raises 12000 to 24000
+Mistafreda calls 12000
+*** TURN *** [8d Ad Ah][Kh]
+cocaglock bets 70836 and is all-in
+Mistafreda folds
+cocaglock collected 152636 from pot
+*** SUMMARY ***
+Total pot 152636 | No rake
+Board: [8d Ad Ah Kh]
+Seat 8: cocaglock (small blind) won 152636
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 24 - HandId: #2678083654344769537-95-1676583078 - Holdem no limit (1400/6000/12000) - 2023/02/16 21:31:18 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #8 is the button
+Seat 1: Mistafreda (29854, 3.70€ bounty)
+Seat 2: Pilou1909 (140464, 0.90€ bounty)
+Seat 4: Guikoo (170858, 2.97€ bounty)
+Seat 5: _SKR (473274, 7.19€ bounty)
+Seat 6: Jex64 (110807, 2.92€ bounty)
+Seat 7: Nestou30 (69732, 3.59€ bounty)
+Seat 8: cocaglock (152636, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Mistafreda posts ante 1400
+Pilou1909 posts ante 1400
+Guikoo posts ante 1400
+_SKR posts ante 1400
+Jex64 posts ante 1400
+Nestou30 posts ante 1400
+cocaglock posts ante 1400
+Mistafreda posts small blind 6000
+Pilou1909 posts big blind 12000
+Dealt to _SKR [2s 4s]
+*** PRE-FLOP *** 
+Guikoo raises 12000 to 24000
+_SKR folds
+Jex64 folds
+Nestou30 folds
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+Guikoo collected 51800 from pot
+*** SUMMARY ***
+Total pot 51800 | No rake
+Seat 4: Guikoo won 51800
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #2678083654344769537-96-1676583105 - Holdem no limit (1600/7000/14000) - 2023/02/16 21:31:45 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #1 is the button
+Seat 1: Mistafreda (22454, 3.70€ bounty)
+Seat 2: Pilou1909 (127064, 0.90€ bounty)
+Seat 4: Guikoo (197258, 2.97€ bounty)
+Seat 5: _SKR (471874, 7.19€ bounty)
+Seat 6: Jex64 (109407, 2.92€ bounty)
+Seat 7: Nestou30 (68332, 3.59€ bounty)
+Seat 8: cocaglock (151236, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Pilou1909 posts ante 1600
+Guikoo posts ante 1600
+Mistafreda posts ante 1600
+_SKR posts ante 1600
+Jex64 posts ante 1600
+Nestou30 posts ante 1600
+cocaglock posts ante 1600
+Pilou1909 posts small blind 7000
+Guikoo posts big blind 14000
+Dealt to _SKR [Ts 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Jex64 folds
+Nestou30 folds
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+Guikoo collected 32200 from pot
+*** SUMMARY ***
+Total pot 32200 | No rake
+Seat 4: Guikoo (big blind) won 32200
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #2678083654344769537-97-1676583121 - Holdem no limit (1600/7000/14000) - 2023/02/16 21:32:01 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #2 is the button
+Seat 1: Mistafreda (20854, 3.70€ bounty)
+Seat 2: Pilou1909 (118464, 0.90€ bounty)
+Seat 4: Guikoo (213858, 2.97€ bounty)
+Seat 5: _SKR (470274, 7.19€ bounty)
+Seat 6: Jex64 (107807, 2.92€ bounty)
+Seat 7: Nestou30 (66732, 3.59€ bounty)
+Seat 8: cocaglock (149636, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Guikoo posts ante 1600
+_SKR posts ante 1600
+Mistafreda posts ante 1600
+Pilou1909 posts ante 1600
+Jex64 posts ante 1600
+Nestou30 posts ante 1600
+cocaglock posts ante 1600
+Guikoo posts small blind 7000
+_SKR posts big blind 14000
+Dealt to _SKR [Kh 4s]
+*** PRE-FLOP *** 
+Jex64 folds
+Nestou30 folds
+cocaglock folds
+Mistafreda raises 5254 to 19254 and is all-in
+Pilou1909 folds
+Guikoo calls 12254
+_SKR calls 5254
+*** FLOP *** [8s 3c 5d]
+Guikoo bets 14000
+_SKR folds
+*** TURN *** [8s 3c 5d][9c]
+*** RIVER *** [8s 3c 5d 9c][8h]
+*** SHOW DOWN ***
+Mistafreda shows [Kd Kc] (Two pairs : Kings and 8)
+Guikoo shows [5c 7d] (Two pairs : 8 and 5)
+Guikoo collected 14000 from side pot 1
+Mistafreda collected 68962 from main pot
+*** SUMMARY ***
+Total pot 82962 | No rake
+Board: [8s 3c 5d 9c 8h]
+Seat 1: Mistafreda showed [Kd Kc] and won 68962 with Two pairs : Kings and 8
+Seat 4: Guikoo (small blind) showed [5c 7d] and won 14000 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #2678083654344769537-98-1676583161 - Holdem no limit (1600/7000/14000) - 2023/02/16 21:32:41 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #4 is the button
+Seat 1: Mistafreda (68962, 3.70€ bounty)
+Seat 2: Pilou1909 (116864, 0.90€ bounty)
+Seat 4: Guikoo (193004, 2.97€ bounty)
+Seat 5: _SKR (449420, 7.19€ bounty)
+Seat 6: Jex64 (106207, 2.92€ bounty)
+Seat 7: Nestou30 (65132, 3.59€ bounty)
+Seat 8: cocaglock (148036, 2.47€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 1600
+Jex64 posts ante 1600
+Mistafreda posts ante 1600
+Pilou1909 posts ante 1600
+Guikoo posts ante 1600
+Nestou30 posts ante 1600
+cocaglock posts ante 1600
+_SKR posts small blind 7000
+Jex64 posts big blind 14000
+Dealt to _SKR [Js 5s]
+*** PRE-FLOP *** 
+Nestou30 folds
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+Guikoo folds
+_SKR raises 433820 to 447820 and is all-in
+Jex64 calls 90607 and is all-in
+*** FLOP *** [9d 4s Jh]
+*** TURN *** [9d 4s Jh][Ah]
+*** RIVER *** [9d 4s Jh Ah][Qd]
+*** SHOW DOWN ***
+_SKR shows [Js 5s] (One pair : Jacks)
+Jex64 shows [Ad 2d] (One pair : Aces)
+Jex64 collected 220414 from main pot
+_SKR collected 343213 from side pot 1
+*** SUMMARY ***
+Total pot 563627 | No rake
+Board: [9d 4s Jh Ah Qd]
+Seat 5: _SKR (small blind) showed [Js 5s] and won 343213 with One pair : Jacks
+Seat 6: Jex64 (big blind) showed [Ad 2d] and won 220414 with One pair : Aces
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #2678083654344769537-99-1676583236 - Holdem no limit (1600/7000/14000) - 2023/02/16 21:33:56 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #5 is the button
+Seat 1: Mistafreda (67362, 3.70€ bounty)
+Seat 2: Pilou1909 (115264, 0.90€ bounty)
+Seat 4: Guikoo (191404, 2.97€ bounty)
+Seat 5: _SKR (343213, 7.19€ bounty)
+Seat 6: Jex64 (220414, 2.92€ bounty)
+Seat 7: Nestou30 (63532, 3.59€ bounty)
+Seat 8: cocaglock (146436, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Jex64 posts ante 1600
+Nestou30 posts ante 1600
+Mistafreda posts ante 1600
+Pilou1909 posts ante 1600
+Guikoo posts ante 1600
+_SKR posts ante 1600
+cocaglock posts ante 1600
+Jex64 posts small blind 7000
+Nestou30 posts big blind 14000
+Dealt to _SKR [2c As]
+*** PRE-FLOP *** 
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+Guikoo folds
+_SKR raises 14000 to 28000
+Jex64 raises 190814 to 218814 and is all-in
+Nestou30 folds
+_SKR folds
+Jex64 collected 272014 from pot
+*** SUMMARY ***
+Total pot 272014 | No rake
+Seat 6: Jex64 (small blind) won 272014
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 26 - HandId: #2678083654344769537-100-1676583266 - Holdem no limit (2000/8000/16000) - 2023/02/16 21:34:26 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #6 is the button
+Seat 1: Mistafreda (65762, 3.70€ bounty)
+Seat 2: Pilou1909 (113664, 0.90€ bounty)
+Seat 4: Guikoo (189804, 2.97€ bounty)
+Seat 5: _SKR (313613, 7.19€ bounty)
+Seat 6: Jex64 (272014, 2.92€ bounty)
+Seat 7: Nestou30 (47932, 3.59€ bounty)
+Seat 8: cocaglock (144836, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 2000
+cocaglock posts ante 2000
+Mistafreda posts ante 2000
+Pilou1909 posts ante 2000
+Guikoo posts ante 2000
+_SKR posts ante 2000
+Jex64 posts ante 2000
+Nestou30 posts small blind 8000
+cocaglock posts big blind 16000
+Dealt to _SKR [Tc 3c]
+*** PRE-FLOP *** 
+Mistafreda folds
+Pilou1909 folds
+Guikoo folds
+_SKR folds
+Jex64 folds
+Nestou30 raises 29932 to 45932 and is all-in
+cocaglock folds
+Nestou30 collected 75932 from pot
+*** SUMMARY ***
+Total pot 75932 | No rake
+Seat 7: Nestou30 (small blind) won 75932
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 26 - HandId: #2678083654344769537-101-1676583293 - Holdem no limit (2000/8000/16000) - 2023/02/16 21:34:53 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #7 is the button
+Seat 1: Mistafreda (63762, 3.70€ bounty)
+Seat 2: Pilou1909 (111664, 0.90€ bounty)
+Seat 4: Guikoo (187804, 2.97€ bounty)
+Seat 5: _SKR (311613, 7.19€ bounty)
+Seat 6: Jex64 (270014, 2.92€ bounty)
+Seat 7: Nestou30 (75932, 3.59€ bounty)
+Seat 8: cocaglock (126836, 2.47€ bounty)
+*** ANTE/BLINDS ***
+cocaglock posts ante 2000
+Mistafreda posts ante 2000
+Pilou1909 posts ante 2000
+Guikoo posts ante 2000
+_SKR posts ante 2000
+Jex64 posts ante 2000
+Nestou30 posts ante 2000
+cocaglock posts small blind 8000
+Mistafreda posts big blind 16000
+Dealt to _SKR [Qd 8h]
+*** PRE-FLOP *** 
+Pilou1909 folds
+Guikoo raises 16000 to 32000
+_SKR folds
+Jex64 folds
+Nestou30 raises 41932 to 73932 and is all-in
+cocaglock folds
+Mistafreda folds
+Guikoo calls 41932
+*** FLOP *** [7h 9s 7s]
+*** TURN *** [7h 9s 7s][7c]
+*** RIVER *** [7h 9s 7s 7c][Tc]
+*** SHOW DOWN ***
+Nestou30 shows [As Qs] (Trips of 7)
+Guikoo shows [8s 8d] (Full of 7 and 8)
+Guikoo collected 185864 from pot
+*** SUMMARY ***
+Total pot 185864 | No rake
+Board: [7h 9s 7s 7c Tc]
+Seat 4: Guikoo showed [8s 8d] and won 185864 with Full of 7 and 8
+Seat 7: Nestou30 (button) showed [As Qs] and lost with Trips of 7
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 26 - HandId: #2678083654344769537-102-1676583328 - Holdem no limit (2000/8000/16000) - 2023/02/16 21:35:28 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #8 is the button
+Seat 1: Mistafreda (45762, 3.70€ bounty)
+Seat 2: Pilou1909 (109664, 0.90€ bounty)
+Seat 4: Guikoo (297736, 4.76€ bounty)
+Seat 5: _SKR (309613, 7.19€ bounty)
+Seat 6: Jex64 (268014, 2.92€ bounty)
+Seat 8: cocaglock (116836, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Mistafreda posts ante 2000
+Pilou1909 posts ante 2000
+Guikoo posts ante 2000
+_SKR posts ante 2000
+Jex64 posts ante 2000
+cocaglock posts ante 2000
+Mistafreda posts small blind 8000
+Pilou1909 posts big blind 16000
+Dealt to _SKR [3h 6s]
+*** PRE-FLOP *** 
+Guikoo raises 16000 to 32000
+_SKR folds
+Jex64 folds
+cocaglock folds
+Mistafreda folds
+Pilou1909 raises 75664 to 107664 and is all-in
+Guikoo calls 75664
+*** FLOP *** [3c 9s Jd]
+*** TURN *** [3c 9s Jd][Kc]
+*** RIVER *** [3c 9s Jd Kc][Jc]
+*** SHOW DOWN ***
+Guikoo shows [2s 2d] (Two pairs : Jacks and 2)
+Pilou1909 shows [Ks Qh] (Two pairs : Kings and Jacks)
+Pilou1909 collected 235328 from pot
+*** SUMMARY ***
+Total pot 235328 | No rake
+Board: [3c 9s Jd Kc Jc]
+Seat 2: Pilou1909 (big blind) showed [Ks Qh] and won 235328 with Two pairs : Kings and Jacks
+Seat 4: Guikoo showed [2s 2d] and lost with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 26 - HandId: #2678083654344769537-103-1676583367 - Holdem no limit (2000/8000/16000) - 2023/02/16 21:36:07 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #1 is the button
+Seat 1: Mistafreda (35762, 3.70€ bounty)
+Seat 2: Pilou1909 (235328, 0.90€ bounty)
+Seat 3: hypahyper (86040, 3.71€ bounty)
+Seat 5: _SKR (307613, 7.19€ bounty)
+Seat 6: Jex64 (266014, 2.92€ bounty)
+Seat 7: Croco_Is_Bac (32670, 1.80€ bounty)
+Seat 8: cocaglock (114836, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Pilou1909 posts ante 2000
+hypahyper posts ante 2000
+Mistafreda posts ante 2000
+_SKR posts ante 2000
+Jex64 posts ante 2000
+Croco_Is_Bac posts ante 2000
+cocaglock posts ante 2000
+Pilou1909 posts small blind 8000
+hypahyper posts big blind 16000
+Dealt to _SKR [Ad Ac]
+*** PRE-FLOP *** 
+_SKR raises 16000 to 32000
+Jex64 folds
+Croco_Is_Bac folds
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+hypahyper folds
+_SKR collected 70000 from pot
+*** SUMMARY ***
+Total pot 70000 | No rake
+Seat 5: _SKR won 70000
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #2678083654344769537-104-1676583410 - Holdem no limit (2500/10000/20000) - 2023/02/16 21:36:50 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #2 is the button
+Seat 1: Mistafreda (33762, 3.70€ bounty)
+Seat 2: Pilou1909 (225328, 0.90€ bounty)
+Seat 3: hypahyper (68040, 3.71€ bounty)
+Seat 5: _SKR (343613, 7.19€ bounty)
+Seat 6: Jex64 (264014, 2.92€ bounty)
+Seat 7: Croco_Is_Bac (30670, 1.80€ bounty)
+Seat 8: cocaglock (112836, 2.47€ bounty)
+*** ANTE/BLINDS ***
+hypahyper posts ante 2500
+_SKR posts ante 2500
+Mistafreda posts ante 2500
+Pilou1909 posts ante 2500
+Jex64 posts ante 2500
+Croco_Is_Bac posts ante 2500
+cocaglock posts ante 2500
+hypahyper posts small blind 10000
+_SKR posts big blind 20000
+Dealt to _SKR [2c Kd]
+*** PRE-FLOP *** 
+Jex64 folds
+Croco_Is_Bac raises 8170 to 28170 and is all-in
+cocaglock folds
+Mistafreda calls 28170
+Pilou1909 folds
+hypahyper folds
+_SKR raises 20000 to 48170
+Mistafreda calls 3092 and is all-in
+*** FLOP *** [3d 2s 8h]
+*** TURN *** [3d 2s 8h][4c]
+*** RIVER *** [3d 2s 8h 4c][Ac]
+*** SHOW DOWN ***
+Mistafreda shows [6d Ah] (One pair : Aces)
+_SKR shows [2c Kd] (One pair : 2)
+Croco_Is_Bac shows [Ad 9c] (One pair : Aces)
+Croco_Is_Bac collected 112010 from main pot
+_SKR collected 16908 from side pot 2
+Mistafreda collected 6184 from side pot 1
+*** SUMMARY ***
+Total pot 135102 | No rake
+Board: [3d 2s 8h 4c Ac]
+Seat 1: Mistafreda showed [6d Ah] and won 6184 with One pair : Aces
+Seat 5: _SKR (big blind) showed [2c Kd] and won 16908 with One pair : 2
+Seat 7: Croco_Is_Bac showed [Ad 9c] and won 112010 with One pair : Aces
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #2678083654344769537-105-1676583453 - Holdem no limit (2500/10000/20000) - 2023/02/16 21:37:33 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #3 is the button
+Seat 1: Mistafreda (6184, 3.70€ bounty)
+Seat 2: Pilou1909 (222828, 0.90€ bounty)
+Seat 3: hypahyper (55540, 3.71€ bounty)
+Seat 5: _SKR (309851, 7.19€ bounty)
+Seat 6: Jex64 (261514, 2.92€ bounty)
+Seat 7: Croco_Is_Bac (112010, 1.80€ bounty)
+Seat 8: cocaglock (110336, 2.47€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 2500
+Jex64 posts ante 2500
+Mistafreda posts ante 2500
+Pilou1909 posts ante 2500
+hypahyper posts ante 2500
+Croco_Is_Bac posts ante 2500
+cocaglock posts ante 2500
+_SKR posts small blind 10000
+Jex64 posts big blind 20000
+Dealt to _SKR [Jc 4s]
+*** PRE-FLOP *** 
+Croco_Is_Bac folds
+cocaglock folds
+Mistafreda calls 3684 and is all-in
+Pilou1909 folds
+hypahyper calls 20000
+_SKR folds
+Jex64 checks
+*** FLOP *** [6h 2c Ah]
+Jex64 bets 20000
+hypahyper folds
+*** TURN *** [6h 2c Ah][9c]
+*** RIVER *** [6h 2c Ah 9c][9h]
+*** SHOW DOWN ***
+Mistafreda shows [7c 7d] (Two pairs : 9 and 7)
+Jex64 shows [Qh 6d] (Two pairs : 9 and 6)
+Jex64 collected 58948 from side pot 1
+Mistafreda collected 32236 from main pot
+*** SUMMARY ***
+Total pot 91184 | No rake
+Board: [6h 2c Ah 9c 9h]
+Seat 1: Mistafreda showed [7c 7d] and won 32236 with Two pairs : 9 and 7
+Seat 6: Jex64 (big blind) showed [Qh 6d] and won 58948 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #2678083654344769537-106-1676583492 - Holdem no limit (2500/10000/20000) - 2023/02/16 21:38:12 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #5 is the button
+Seat 1: Mistafreda (32236, 3.70€ bounty)
+Seat 2: Pilou1909 (220328, 0.90€ bounty)
+Seat 3: hypahyper (33040, 3.71€ bounty)
+Seat 4: hopeheaven (155434, 3.37€ bounty)
+Seat 5: _SKR (297351, 7.19€ bounty)
+Seat 6: Jex64 (277962, 2.92€ bounty)
+Seat 7: Croco_Is_Bac (109510, 1.80€ bounty)
+Seat 8: cocaglock (107836, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Jex64 posts ante 2500
+Croco_Is_Bac posts ante 2500
+Mistafreda posts ante 2500
+Pilou1909 posts ante 2500
+hypahyper posts ante 2500
+hopeheaven posts ante 2500
+_SKR posts ante 2500
+cocaglock posts ante 2500
+Jex64 posts small blind 10000
+Croco_Is_Bac posts big blind 20000
+Dealt to _SKR [Kd 4h]
+*** PRE-FLOP *** 
+cocaglock folds
+Mistafreda folds
+Pilou1909 folds
+hypahyper folds
+hopeheaven folds
+_SKR folds
+Jex64 calls 10000
+Croco_Is_Bac checks
+*** FLOP *** [8d Td 2c]
+Jex64 checks
+Croco_Is_Bac bets 87010 and is all-in
+Jex64 folds
+Croco_Is_Bac collected 147010 from pot
+*** SUMMARY ***
+Total pot 147010 | No rake
+Board: [8d Td 2c]
+Seat 7: Croco_Is_Bac (big blind) won 147010
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #2678083654344769537-107-1676583535 - Holdem no limit (2500/10000/20000) - 2023/02/16 21:38:55 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #6 is the button
+Seat 1: Mistafreda (29736, 3.70€ bounty)
+Seat 2: Pilou1909 (217828, 0.90€ bounty)
+Seat 3: hypahyper (30540, 3.71€ bounty)
+Seat 4: hopeheaven (152934, 3.37€ bounty)
+Seat 5: _SKR (294851, 7.19€ bounty)
+Seat 6: Jex64 (255462, 2.92€ bounty)
+Seat 7: Croco_Is_Bac (147010, 1.80€ bounty)
+Seat 8: cocaglock (105336, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Croco_Is_Bac posts ante 2500
+cocaglock posts ante 2500
+Mistafreda posts ante 2500
+Pilou1909 posts ante 2500
+hypahyper posts ante 2500
+hopeheaven posts ante 2500
+_SKR posts ante 2500
+Jex64 posts ante 2500
+Croco_Is_Bac posts small blind 10000
+cocaglock posts big blind 20000
+Dealt to _SKR [Js Th]
+*** PRE-FLOP *** 
+Mistafreda raises 7236 to 27236 and is all-in
+Pilou1909 folds
+hypahyper raises 804 to 28040 and is all-in
+hopeheaven folds
+_SKR folds
+Jex64 folds
+Croco_Is_Bac raises 116470 to 144510 and is all-in
+cocaglock folds
+*** FLOP *** [2d 2c 3c]
+*** TURN *** [2d 2c 3c][Kh]
+*** RIVER *** [2d 2c 3c Kh][8s]
+*** SHOW DOWN ***
+Mistafreda shows [Ac Kd] (Two pairs : Kings and 2)
+hypahyper shows [5h 5c] (Two pairs : 5 and 2)
+Croco_Is_Bac shows [As 9d] (One pair : 2)
+Croco_Is_Bac collected 116470 from side pot 2
+hypahyper collected 1608 from side pot 1
+Mistafreda collected 121708 from main pot
+*** SUMMARY ***
+Total pot 239786 | No rake
+Board: [2d 2c 3c Kh 8s]
+Seat 1: Mistafreda showed [Ac Kd] and won 121708 with Two pairs : Kings and 2
+Seat 3: hypahyper showed [5h 5c] and won 1608 with Two pairs : 5 and 2
+Seat 7: Croco_Is_Bac (small blind) showed [As 9d] and won 116470 with One pair : 2
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 28 - HandId: #2678083654344769537-108-1676583586 - Holdem no limit (3000/12500/25000) - 2023/02/16 21:39:46 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #7 is the button
+Seat 1: Mistafreda (121708, 3.70€ bounty)
+Seat 3: hypahyper (1608, 3.71€ bounty)
+Seat 4: hopeheaven (150434, 3.37€ bounty)
+Seat 5: _SKR (292351, 7.19€ bounty)
+Seat 6: Jex64 (252962, 2.92€ bounty)
+Seat 7: Croco_Is_Bac (116470, 1.80€ bounty)
+Seat 8: cocaglock (82836, 2.47€ bounty)
+*** ANTE/BLINDS ***
+cocaglock posts ante 3000
+Mistafreda posts ante 3000
+hypahyper posts ante 1608 and is all-in
+hopeheaven posts ante 3000
+_SKR posts ante 3000
+Jex64 posts ante 3000
+Croco_Is_Bac posts ante 3000
+cocaglock posts small blind 12500
+Mistafreda posts big blind 25000
+Dealt to _SKR [Js 2s]
+*** PRE-FLOP *** 
+hopeheaven raises 122434 to 147434 and is all-in
+_SKR folds
+Jex64 folds
+Croco_Is_Bac folds
+cocaglock folds
+Mistafreda calls 93708 and is all-in
+*** FLOP *** [8c 6d Ad]
+*** TURN *** [8c 6d Ad][Td]
+*** RIVER *** [8c 6d Ad Td][2h]
+*** SHOW DOWN ***
+Mistafreda shows [Ks Qd] (High card : Ace)
+hypahyper shows [Jd 2d] (Flush Ace high)
+hopeheaven shows [9s 9d] (One pair : 9)
+hopeheaven collected 286994 from side pot 1
+hypahyper collected 11256 from main pot
+*** SUMMARY ***
+Total pot 298250 | No rake
+Board: [8c 6d Ad Td 2h]
+Seat 1: Mistafreda (big blind) showed [Ks Qd] and lost with High card : Ace
+Seat 3: hypahyper showed [Jd 2d] and won 11256 with Flush Ace high
+Seat 4: hopeheaven showed [9s 9d] and won 286994 with One pair : 9
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 28 - HandId: #2678083654344769537-109-1676583653 - Holdem no limit (3000/12500/25000) - 2023/02/16 21:40:53 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #8 is the button
+Seat 3: hypahyper (11256, 3.71€ bounty)
+Seat 4: hopeheaven (286994, 5.22€ bounty)
+Seat 5: _SKR (289351, 7.19€ bounty)
+Seat 6: Jex64 (249962, 2.92€ bounty)
+Seat 7: Croco_Is_Bac (113470, 1.80€ bounty)
+Seat 8: cocaglock (67336, 2.47€ bounty)
+*** ANTE/BLINDS ***
+hypahyper posts ante 3000
+hopeheaven posts ante 3000
+_SKR posts ante 3000
+Jex64 posts ante 3000
+Croco_Is_Bac posts ante 3000
+cocaglock posts ante 3000
+hypahyper posts big blind 8256 and is all-in
+Dealt to _SKR [Qs Ks]
+*** PRE-FLOP *** 
+hopeheaven folds
+_SKR raises 278095 to 286351 and is all-in
+Jex64 folds
+Croco_Is_Bac folds
+cocaglock folds
+*** FLOP *** [Td As 8d]
+*** TURN *** [Td As 8d][Qd]
+*** RIVER *** [Td As 8d Qd][Th]
+*** SHOW DOWN ***
+hypahyper shows [3c Jd] (One pair : Tens)
+_SKR shows [Qs Ks] (Two pairs : Queens and Tens)
+_SKR collected 312607 from pot
+*** SUMMARY ***
+Total pot 312607 | No rake
+Board: [Td As 8d Qd Th]
+Seat 3: hypahyper (big blind) showed [3c Jd] and lost with One pair : Tens
+Seat 5: _SKR showed [Qs Ks] and won 312607 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 28 - HandId: #2678083654344769537-110-1676583681 - Holdem no limit (3000/12500/25000) - 2023/02/16 21:41:21 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #1 is the button
+Seat 2: djephil (984990, 11.15€ bounty)
+Seat 4: hopeheaven (283994, 5.22€ bounty)
+Seat 5: _SKR (312607, 9.04€ bounty)
+Seat 6: Jex64 (246962, 2.92€ bounty)
+Seat 7: Croco_Is_Bac (110470, 1.80€ bounty)
+Seat 8: cocaglock (64336, 2.47€ bounty)
+*** ANTE/BLINDS ***
+hopeheaven posts ante 3000
+_SKR posts ante 3000
+Jex64 posts ante 3000
+Croco_Is_Bac posts ante 3000
+cocaglock posts ante 3000
+hopeheaven posts big blind 25000
+Dealt to _SKR [7d 3s]
+*** PRE-FLOP *** 
+_SKR folds
+Jex64 raises 218962 to 243962 and is all-in
+Croco_Is_Bac folds
+cocaglock folds
+hopeheaven folds
+Jex64 collected 283962 from pot
+*** SUMMARY ***
+Total pot 283962 | No rake
+Seat 6: Jex64 won 283962
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 29 - HandId: #2678083654344769537-111-1676583694 - Holdem no limit (3500/15000/30000) - 2023/02/16 21:41:34 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #3 is the button
+Seat 2: djephil (984990, 11.15€ bounty)
+Seat 3: -jmendoute- (125886, 5.33€ bounty)
+Seat 4: hopeheaven (255994, 5.22€ bounty)
+Seat 5: _SKR (309607, 9.04€ bounty)
+Seat 6: Jex64 (283962, 2.92€ bounty)
+Seat 7: Croco_Is_Bac (107470, 1.80€ bounty)
+Seat 8: cocaglock (61336, 2.47€ bounty)
+*** ANTE/BLINDS ***
+hopeheaven posts ante 3500
+_SKR posts ante 3500
+djephil posts ante 3500
+Jex64 posts ante 3500
+Croco_Is_Bac posts ante 3500
+cocaglock posts ante 3500
+hopeheaven posts small blind 15000
+_SKR posts big blind 30000
+Dealt to _SKR [Qc 8d]
+*** PRE-FLOP *** 
+Jex64 folds
+Croco_Is_Bac raises 73970 to 103970 and is all-in
+cocaglock folds
+djephil raises 877520 to 981490 and is all-in
+hopeheaven folds
+_SKR folds
+*** FLOP *** [3d 3c Tc]
+*** TURN *** [3d 3c Tc][6d]
+*** RIVER *** [3d 3c Tc 6d][4h]
+*** SHOW DOWN ***
+Croco_Is_Bac shows [Qd Kd] (One pair : 3)
+djephil shows [7h 7c] (Two pairs : 7 and 3)
+djephil collected 1151460 from pot
+*** SUMMARY ***
+Total pot 1151460 | No rake
+Board: [3d 3c Tc 6d 4h]
+Seat 2: djephil showed [7h 7c] and won 1151460 with Two pairs : 7 and 3
+Seat 7: Croco_Is_Bac showed [Qd Kd] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 29 - HandId: #2678083654344769537-112-1676583724 - Holdem no limit (3500/15000/30000) - 2023/02/16 21:42:04 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #4 is the button
+Seat 2: djephil (1151460, 12.05€ bounty)
+Seat 3: -jmendoute- (125886, 5.33€ bounty)
+Seat 4: hopeheaven (237494, 5.22€ bounty)
+Seat 5: _SKR (276107, 9.04€ bounty)
+Seat 6: Jex64 (280462, 2.92€ bounty)
+Seat 8: cocaglock (57836, 2.47€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 3500
+Jex64 posts ante 3500
+djephil posts ante 3500
+-jmendoute- posts ante 3500
+hopeheaven posts ante 3500
+cocaglock posts ante 3500
+_SKR posts small blind 15000
+Jex64 posts big blind 30000
+Dealt to _SKR [4d 9h]
+*** PRE-FLOP *** 
+cocaglock raises 24336 to 54336 and is all-in
+djephil folds
+-jmendoute- raises 68050 to 122386 and is all-in
+hopeheaven raises 111608 to 233994 and is all-in
+_SKR folds
+Jex64 folds
+*** FLOP *** [8h 7s 6s]
+*** TURN *** [8h 7s 6s][Jc]
+*** RIVER *** [8h 7s 6s Jc][5h]
+*** SHOW DOWN ***
+-jmendoute- shows [Jh Qc] (One pair : Jacks)
+hopeheaven shows [Ts Ad] (High card : Ace)
+cocaglock shows [Kh 4h] (Straight 8 high)
+cocaglock collected 229008 from main pot
+hopeheaven collected 111608 from side pot 2
+-jmendoute- collected 136100 from side pot 1
+*** SUMMARY ***
+Total pot 476716 | No rake
+Board: [8h 7s 6s Jc 5h]
+Seat 3: -jmendoute- showed [Jh Qc] and won 136100 with One pair : Jacks
+Seat 4: hopeheaven (button) showed [Ts Ad] and won 111608 with High card : Ace
+Seat 8: cocaglock showed [Kh 4h] and won 229008 with Straight 8 high
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 29 - HandId: #2678083654344769537-113-1676583755 - Holdem no limit (3500/15000/30000) - 2023/02/16 21:42:35 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #5 is the button
+Seat 2: djephil (1147960, 12.05€ bounty)
+Seat 3: -jmendoute- (136100, 5.33€ bounty)
+Seat 4: hopeheaven (111608, 5.22€ bounty)
+Seat 5: _SKR (257607, 9.04€ bounty)
+Seat 6: Jex64 (246962, 2.92€ bounty)
+Seat 7: D A T 76 (33448, 0.90€ bounty)
+Seat 8: cocaglock (229008, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Jex64 posts ante 3500
+D A T 76 posts ante 3500
+djephil posts ante 3500
+-jmendoute- posts ante 3500
+hopeheaven posts ante 3500
+_SKR posts ante 3500
+cocaglock posts ante 3500
+Jex64 posts small blind 15000
+D A T 76 posts big blind 29948 and is all-in
+Dealt to _SKR [6h Jh]
+*** PRE-FLOP *** 
+cocaglock folds
+djephil folds
+-jmendoute- raises 102652 to 132600 and is all-in
+hopeheaven folds
+_SKR folds
+Jex64 folds
+*** FLOP *** [Ah Qd Qh]
+*** TURN *** [Ah Qd Qh][4d]
+*** RIVER *** [Ah Qd Qh 4d][Ad]
+*** SHOW DOWN ***
+-jmendoute- shows [Th 9s] (Two pairs : Aces and Queens)
+D A T 76 shows [Kc 3d] (Two pairs : Aces and Queens)
+D A T 76 collected 99396 from main pot
+-jmendoute- collected 102652 from side pot 1
+*** SUMMARY ***
+Total pot 202048 | No rake
+Board: [Ah Qd Qh 4d Ad]
+Seat 3: -jmendoute- showed [Th 9s] and won 102652 with Two pairs : Aces and Queens
+Seat 7: D A T 76 (big blind) showed [Kc 3d] and won 99396 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 29 - HandId: #2678083654344769537-114-1676583782 - Holdem no limit (3500/15000/30000) - 2023/02/16 21:43:02 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #6 is the button
+Seat 2: djephil (1144460, 12.05€ bounty)
+Seat 3: -jmendoute- (102652, 5.33€ bounty)
+Seat 4: hopeheaven (108108, 5.22€ bounty)
+Seat 5: _SKR (254107, 9.04€ bounty)
+Seat 6: Jex64 (228462, 2.92€ bounty)
+Seat 7: D A T 76 (99396, 0.90€ bounty)
+Seat 8: cocaglock (225508, 2.47€ bounty)
+*** ANTE/BLINDS ***
+D A T 76 posts ante 3500
+cocaglock posts ante 3500
+djephil posts ante 3500
+-jmendoute- posts ante 3500
+hopeheaven posts ante 3500
+_SKR posts ante 3500
+Jex64 posts ante 3500
+D A T 76 posts small blind 15000
+cocaglock posts big blind 30000
+Dealt to _SKR [2d 8h]
+*** PRE-FLOP *** 
+djephil folds
+-jmendoute- folds
+hopeheaven folds
+_SKR folds
+Jex64 folds
+D A T 76 folds
+cocaglock collected 69500 from pot
+*** SUMMARY ***
+Total pot 69500 | No rake
+Seat 8: cocaglock (big blind) won 69500
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 29 - HandId: #2678083654344769537-115-1676583793 - Holdem no limit (3500/15000/30000) - 2023/02/16 21:43:13 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #7 is the button
+Seat 2: djephil (1140960, 12.05€ bounty)
+Seat 3: -jmendoute- (99152, 5.33€ bounty)
+Seat 4: hopeheaven (104608, 5.22€ bounty)
+Seat 5: _SKR (250607, 9.04€ bounty)
+Seat 6: Jex64 (224962, 2.92€ bounty)
+Seat 7: D A T 76 (80896, 0.90€ bounty)
+Seat 8: cocaglock (261508, 2.47€ bounty)
+*** ANTE/BLINDS ***
+cocaglock posts ante 3500
+djephil posts ante 3500
+-jmendoute- posts ante 3500
+hopeheaven posts ante 3500
+_SKR posts ante 3500
+Jex64 posts ante 3500
+D A T 76 posts ante 3500
+cocaglock posts small blind 15000
+djephil posts big blind 30000
+Dealt to _SKR [2h Jd]
+*** PRE-FLOP *** 
+-jmendoute- raises 65652 to 95652 and is all-in
+hopeheaven folds
+_SKR folds
+Jex64 folds
+D A T 76 folds
+cocaglock folds
+djephil calls 65652
+*** FLOP *** [Qs 5d Th]
+*** TURN *** [Qs 5d Th][2c]
+*** RIVER *** [Qs 5d Th 2c][7c]
+*** SHOW DOWN ***
+djephil shows [Ad Ks] (High card : Ace)
+-jmendoute- shows [7h As] (One pair : 7)
+-jmendoute- collected 230804 from pot
+*** SUMMARY ***
+Total pot 230804 | No rake
+Board: [Qs 5d Th 2c 7c]
+Seat 2: djephil (big blind) showed [Ad Ks] and lost with High card : Ace
+Seat 3: -jmendoute- showed [7h As] and won 230804 with One pair : 7
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 29 - HandId: #2678083654344769537-116-1676583825 - Holdem no limit (3500/15000/30000) - 2023/02/16 21:43:45 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #8 is the button
+Seat 2: djephil (1041808, 12.05€ bounty)
+Seat 3: -jmendoute- (230804, 5.33€ bounty)
+Seat 4: hopeheaven (101108, 5.22€ bounty)
+Seat 5: _SKR (247107, 9.04€ bounty)
+Seat 6: Jex64 (221462, 2.92€ bounty)
+Seat 7: D A T 76 (77396, 0.90€ bounty)
+Seat 8: cocaglock (243008, 2.47€ bounty)
+*** ANTE/BLINDS ***
+djephil posts ante 3500
+-jmendoute- posts ante 3500
+hopeheaven posts ante 3500
+_SKR posts ante 3500
+Jex64 posts ante 3500
+D A T 76 posts ante 3500
+cocaglock posts ante 3500
+djephil posts small blind 15000
+-jmendoute- posts big blind 30000
+Dealt to _SKR [4s 3d]
+*** PRE-FLOP *** 
+hopeheaven folds
+_SKR folds
+Jex64 folds
+D A T 76 raises 43896 to 73896 and is all-in
+cocaglock folds
+djephil raises 964412 to 1038308 and is all-in
+-jmendoute- folds
+*** FLOP *** [4h 8d Kh]
+*** TURN *** [4h 8d Kh][Td]
+*** RIVER *** [4h 8d Kh Td][9h]
+*** SHOW DOWN ***
+D A T 76 shows [Ah 9c] (One pair : 9)
+djephil shows [Ks 9s] (Two pairs : Kings and 9)
+djephil collected 1166704 from pot
+*** SUMMARY ***
+Total pot 1166704 | No rake
+Board: [4h 8d Kh Td 9h]
+Seat 2: djephil (small blind) showed [Ks 9s] and won 1166704 with Two pairs : Kings and 9
+Seat 7: D A T 76 showed [Ah 9c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2678083654344769539-107-1676583892 - Holdem no limit (4000/17500/35000) - 2023/02/16 21:44:52 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #5 is the button
+Seat 1: rouky76000 (448074, 6.80€ bounty)
+Seat 2: hopeheaven (97608, 5.22€ bounty)
+Seat 3: papi-roger78 (169401, 4.60€ bounty)
+Seat 4: Winalaloteri (2392, 3.59€ bounty)
+Seat 5: DuarnaNadroj (873137, 9.52€ bounty)
+Seat 6: damms86 (794513, 10.21€ bounty)
+Seat 7: _SKR (243607, 9.04€ bounty)
+Seat 8: mi AA ou ... (420016, 5.28€ bounty)
+*** ANTE/BLINDS ***
+damms86 posts ante 4000
+_SKR posts ante 4000
+rouky76000 posts ante 4000
+hopeheaven posts ante 4000
+papi-roger78 posts ante 4000
+Winalaloteri posts ante 2392 and is all-in
+DuarnaNadroj posts ante 4000
+mi AA ou ... posts ante 4000
+damms86 posts small blind 17500
+_SKR posts big blind 35000
+Dealt to _SKR [7d 4d]
+*** PRE-FLOP *** 
+mi AA ou ... raises 42066 to 77066
+rouky76000 folds
+hopeheaven folds
+papi-roger78 folds
+DuarnaNadroj raises 792071 to 869137 and is all-in
+damms86 folds
+_SKR folds
+mi AA ou ... folds
+*** FLOP *** [7s 8s 8h]
+*** TURN *** [7s 8s 8h][As]
+*** RIVER *** [7s 8s 8h As][5s]
+*** SHOW DOWN ***
+Winalaloteri shows [2s Qh] (Flush Ace high)
+DuarnaNadroj shows [Th Ts] (Flush Ace high)
+DuarnaNadroj collected 1029095 from pot
+*** SUMMARY ***
+Total pot 1029095 | No rake
+Board: [7s 8s 8h As 5s]
+Seat 4: Winalaloteri showed [2s Qh] and lost with Flush Ace high
+Seat 5: DuarnaNadroj (button) showed [Th Ts] and won 1029095 with Flush Ace high
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2678083654344769539-108-1676583927 - Holdem no limit (4000/17500/35000) - 2023/02/16 21:45:27 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #6 is the button
+Seat 1: rouky76000 (444074, 6.80€ bounty)
+Seat 2: hopeheaven (93608, 5.22€ bounty)
+Seat 3: papi-roger78 (165401, 4.60€ bounty)
+Seat 5: DuarnaNadroj (1029095, 11.31€ bounty)
+Seat 6: damms86 (773013, 10.21€ bounty)
+Seat 7: _SKR (204607, 9.04€ bounty)
+Seat 8: mi AA ou ... (338950, 5.28€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 4000
+mi AA ou ... posts ante 4000
+rouky76000 posts ante 4000
+hopeheaven posts ante 4000
+papi-roger78 posts ante 4000
+DuarnaNadroj posts ante 4000
+damms86 posts ante 4000
+_SKR posts small blind 17500
+mi AA ou ... posts big blind 35000
+Dealt to _SKR [Kc As]
+*** PRE-FLOP *** 
+rouky76000 folds
+hopeheaven raises 52500 to 87500
+papi-roger78 folds
+DuarnaNadroj folds
+damms86 folds
+_SKR raises 113107 to 200607 and is all-in
+mi AA ou ... folds
+hopeheaven calls 2108 and is all-in
+*** FLOP *** [Ts 2d Qc]
+*** TURN *** [Ts 2d Qc][Td]
+*** RIVER *** [Ts 2d Qc Td][7c]
+*** SHOW DOWN ***
+hopeheaven shows [8h Ac] (One pair : Tens)
+_SKR shows [Kc As] (One pair : Tens)
+_SKR collected 353215 from pot
+*** SUMMARY ***
+Total pot 353215 | No rake
+Board: [Ts 2d Qc Td 7c]
+Seat 2: hopeheaven showed [8h Ac] and lost with One pair : Tens
+Seat 7: _SKR (small blind) showed [Kc As] and won 353215 with One pair : Tens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2678083654344769539-109-1676583955 - Holdem no limit (4000/17500/35000) - 2023/02/16 21:45:55 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #7 is the button
+Seat 1: rouky76000 (440074, 6.80€ bounty)
+Seat 3: papi-roger78 (161401, 4.60€ bounty)
+Seat 5: DuarnaNadroj (1025095, 11.31€ bounty)
+Seat 6: damms86 (769013, 10.21€ bounty)
+Seat 7: _SKR (353215, 11.65€ bounty)
+Seat 8: mi AA ou ... (299950, 5.28€ bounty)
+*** ANTE/BLINDS ***
+mi AA ou ... posts ante 4000
+rouky76000 posts ante 4000
+papi-roger78 posts ante 4000
+DuarnaNadroj posts ante 4000
+damms86 posts ante 4000
+_SKR posts ante 4000
+mi AA ou ... posts small blind 17500
+rouky76000 posts big blind 35000
+Dealt to _SKR [3c Ac]
+*** PRE-FLOP *** 
+papi-roger78 folds
+DuarnaNadroj folds
+damms86 folds
+_SKR raises 314215 to 349215 and is all-in
+mi AA ou ... folds
+rouky76000 folds
+_SKR collected 425715 from pot
+*** SUMMARY ***
+Total pot 425715 | No rake
+Seat 7: _SKR (button) won 425715
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2678083654344769539-110-1676583974 - Holdem no limit (4000/17500/35000) - 2023/02/16 21:46:14 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #8 is the button
+Seat 1: rouky76000 (401074, 6.80€ bounty)
+Seat 3: papi-roger78 (157401, 4.60€ bounty)
+Seat 5: DuarnaNadroj (1021095, 11.31€ bounty)
+Seat 6: damms86 (765013, 10.21€ bounty)
+Seat 7: _SKR (425715, 11.65€ bounty)
+Seat 8: mi AA ou ... (278450, 5.28€ bounty)
+*** ANTE/BLINDS ***
+rouky76000 posts ante 4000
+papi-roger78 posts ante 4000
+DuarnaNadroj posts ante 4000
+damms86 posts ante 4000
+_SKR posts ante 4000
+mi AA ou ... posts ante 4000
+rouky76000 posts small blind 17500
+papi-roger78 posts big blind 35000
+Dealt to _SKR [4h 9s]
+*** PRE-FLOP *** 
+DuarnaNadroj folds
+damms86 folds
+_SKR folds
+mi AA ou ... folds
+rouky76000 raises 362074 to 397074 and is all-in
+papi-roger78 folds
+rouky76000 collected 456074 from pot
+*** SUMMARY ***
+Total pot 456074 | No rake
+Seat 1: rouky76000 (small blind) won 456074
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2678083654344769539-111-1676583992 - Holdem no limit (4000/17500/35000) - 2023/02/16 21:46:32 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #1 is the button
+Seat 1: rouky76000 (456074, 6.80€ bounty)
+Seat 3: papi-roger78 (118401, 4.60€ bounty)
+Seat 5: DuarnaNadroj (1017095, 11.31€ bounty)
+Seat 6: damms86 (761013, 10.21€ bounty)
+Seat 7: _SKR (421715, 11.65€ bounty)
+Seat 8: mi AA ou ... (274450, 5.28€ bounty)
+*** ANTE/BLINDS ***
+papi-roger78 posts ante 4000
+DuarnaNadroj posts ante 4000
+rouky76000 posts ante 4000
+damms86 posts ante 4000
+_SKR posts ante 4000
+mi AA ou ... posts ante 4000
+papi-roger78 posts small blind 17500
+DuarnaNadroj posts big blind 35000
+Dealt to _SKR [Kd 7h]
+*** PRE-FLOP *** 
+damms86 folds
+_SKR folds
+mi AA ou ... folds
+rouky76000 folds
+papi-roger78 folds
+DuarnaNadroj collected 76500 from pot
+*** SUMMARY ***
+Total pot 76500 | No rake
+Seat 5: DuarnaNadroj (big blind) won 76500
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2678083654344769539-112-1676584019 - Holdem no limit (5000/20000/40000) - 2023/02/16 21:46:59 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #3 is the button
+Seat 1: rouky76000 (452074, 6.80€ bounty)
+Seat 3: papi-roger78 (96901, 4.60€ bounty)
+Seat 5: DuarnaNadroj (1054595, 11.31€ bounty)
+Seat 6: damms86 (757013, 10.21€ bounty)
+Seat 7: _SKR (417715, 11.65€ bounty)
+Seat 8: mi AA ou ... (270450, 5.28€ bounty)
+*** ANTE/BLINDS ***
+DuarnaNadroj posts ante 5000
+damms86 posts ante 5000
+rouky76000 posts ante 5000
+papi-roger78 posts ante 5000
+_SKR posts ante 5000
+mi AA ou ... posts ante 5000
+DuarnaNadroj posts small blind 20000
+damms86 posts big blind 40000
+Dealt to _SKR [8c 3d]
+*** PRE-FLOP *** 
+_SKR folds
+mi AA ou ... raises 225450 to 265450 and is all-in
+rouky76000 raises 181624 to 447074 and is all-in
+papi-roger78 folds
+DuarnaNadroj folds
+damms86 folds
+*** FLOP *** [9h 6h Qs]
+*** TURN *** [9h 6h Qs][4s]
+*** RIVER *** [9h 6h Qs 4s][Js]
+*** SHOW DOWN ***
+mi AA ou ... shows [4h Ah] (One pair : 4)
+rouky76000 shows [6s 6d] (Trips of 6)
+rouky76000 collected 802524 from pot
+*** SUMMARY ***
+Total pot 802524 | No rake
+Board: [9h 6h Qs 4s Js]
+Seat 1: rouky76000 showed [6s 6d] and won 802524 with Trips of 6
+Seat 8: mi AA ou ... showed [4h Ah] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2678083654344769539-113-1676584055 - Holdem no limit (5000/20000/40000) - 2023/02/16 21:47:35 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #5 is the button
+Seat 1: rouky76000 (802524, 9.44€ bounty)
+Seat 3: papi-roger78 (91901, 4.60€ bounty)
+Seat 5: DuarnaNadroj (1029595, 11.31€ bounty)
+Seat 6: damms86 (712013, 10.21€ bounty)
+Seat 7: _SKR (412715, 11.65€ bounty)
+*** ANTE/BLINDS ***
+damms86 posts ante 5000
+_SKR posts ante 5000
+rouky76000 posts ante 5000
+papi-roger78 posts ante 5000
+DuarnaNadroj posts ante 5000
+damms86 posts small blind 20000
+_SKR posts big blind 40000
+Dealt to _SKR [3h 7s]
+*** PRE-FLOP *** 
+rouky76000 folds
+papi-roger78 folds
+DuarnaNadroj folds
+damms86 raises 60000 to 100000
+_SKR folds
+damms86 collected 165000 from pot
+*** SUMMARY ***
+Total pot 165000 | No rake
+Seat 6: damms86 (small blind) won 165000
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2678083654344769539-114-1676584078 - Holdem no limit (5000/20000/40000) - 2023/02/16 21:47:58 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #6 is the button
+Seat 1: rouky76000 (797524, 9.44€ bounty)
+Seat 3: papi-roger78 (86901, 4.60€ bounty)
+Seat 4: Bardamu. (800083, 7.86€ bounty)
+Seat 5: DuarnaNadroj (1024595, 11.31€ bounty)
+Seat 6: damms86 (772013, 10.21€ bounty)
+Seat 7: _SKR (367715, 11.65€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 5000
+rouky76000 posts ante 5000
+papi-roger78 posts ante 5000
+Bardamu. posts ante 5000
+DuarnaNadroj posts ante 5000
+damms86 posts ante 5000
+_SKR posts small blind 20000
+rouky76000 posts big blind 40000
+Dealt to _SKR [5d Tc]
+*** PRE-FLOP *** 
+papi-roger78 folds
+Bardamu. folds
+DuarnaNadroj raises 40000 to 80000
+damms86 folds
+_SKR folds
+rouky76000 calls 40000
+*** FLOP *** [8c 3c 4d]
+rouky76000 bets 712524 and is all-in
+DuarnaNadroj folds
+rouky76000 collected 922524 from pot
+*** SUMMARY ***
+Total pot 922524 | No rake
+Board: [8c 3c 4d]
+Seat 1: rouky76000 (big blind) won 922524
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2678083654344769539-115-1676584108 - Holdem no limit (5000/20000/40000) - 2023/02/16 21:48:28 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #7 is the button
+Seat 1: rouky76000 (922524, 9.44€ bounty)
+Seat 3: papi-roger78 (81901, 4.60€ bounty)
+Seat 4: Bardamu. (795083, 7.86€ bounty)
+Seat 5: DuarnaNadroj (939595, 11.31€ bounty)
+Seat 6: damms86 (767013, 10.21€ bounty)
+Seat 7: _SKR (342715, 11.65€ bounty)
+*** ANTE/BLINDS ***
+rouky76000 posts ante 5000
+papi-roger78 posts ante 5000
+Bardamu. posts ante 5000
+DuarnaNadroj posts ante 5000
+damms86 posts ante 5000
+_SKR posts ante 5000
+rouky76000 posts small blind 20000
+papi-roger78 posts big blind 40000
+Dealt to _SKR [Ad 8s]
+*** PRE-FLOP *** 
+Bardamu. folds
+DuarnaNadroj folds
+damms86 folds
+_SKR raises 297715 to 337715 and is all-in
+rouky76000 folds
+papi-roger78 folds
+_SKR collected 427715 from pot
+*** SUMMARY ***
+Total pot 427715 | No rake
+Seat 7: _SKR (button) won 427715
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2678083654344769539-116-1676584128 - Holdem no limit (5000/20000/40000) - 2023/02/16 21:48:48 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #1 is the button
+Seat 1: rouky76000 (897524, 9.44€ bounty)
+Seat 3: papi-roger78 (36901, 4.60€ bounty)
+Seat 4: Bardamu. (790083, 7.86€ bounty)
+Seat 5: DuarnaNadroj (934595, 11.31€ bounty)
+Seat 6: damms86 (762013, 10.21€ bounty)
+Seat 7: _SKR (427715, 11.65€ bounty)
+*** ANTE/BLINDS ***
+papi-roger78 posts ante 5000
+Bardamu. posts ante 5000
+rouky76000 posts ante 5000
+DuarnaNadroj posts ante 5000
+damms86 posts ante 5000
+_SKR posts ante 5000
+papi-roger78 posts small blind 20000
+Bardamu. posts big blind 40000
+Dealt to _SKR [3h 4c]
+*** PRE-FLOP *** 
+DuarnaNadroj folds
+damms86 folds
+_SKR folds
+rouky76000 raises 852524 to 892524 and is all-in
+papi-roger78 folds
+Bardamu. folds
+rouky76000 collected 982524 from pot
+*** SUMMARY ***
+Total pot 982524 | No rake
+Seat 1: rouky76000 (button) won 982524
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2678083654344769539-117-1676584142 - Holdem no limit (5000/20000/40000) - 2023/02/16 21:49:02 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #3 is the button
+Seat 1: rouky76000 (982524, 9.44€ bounty)
+Seat 3: papi-roger78 (11901, 4.60€ bounty)
+Seat 4: Bardamu. (745083, 7.86€ bounty)
+Seat 5: DuarnaNadroj (929595, 11.31€ bounty)
+Seat 6: damms86 (757013, 10.21€ bounty)
+Seat 7: _SKR (422715, 11.65€ bounty)
+*** ANTE/BLINDS ***
+Bardamu. posts ante 5000
+DuarnaNadroj posts ante 5000
+rouky76000 posts ante 5000
+papi-roger78 posts ante 5000
+damms86 posts ante 5000
+_SKR posts ante 5000
+Bardamu. posts small blind 20000
+DuarnaNadroj posts big blind 40000
+Dealt to _SKR [4c As]
+*** PRE-FLOP *** 
+damms86 raises 712013 to 752013 and is all-in
+_SKR folds
+rouky76000 folds
+papi-roger78 calls 6901 and is all-in
+Bardamu. folds
+DuarnaNadroj folds
+*** FLOP *** [8d 7s Ks]
+*** TURN *** [8d 7s Ks][8s]
+*** RIVER *** [8d 7s Ks 8s][5s]
+*** SHOW DOWN ***
+papi-roger78 shows [Qh Ah] (One pair : 8)
+damms86 shows [Ac Td] (One pair : 8)
+damms86 collected 791310 from side pot 1
+papi-roger78 collected 57604 from main pot
+*** SUMMARY ***
+Total pot 848914 | No rake
+Board: [8d 7s Ks 8s 5s]
+Seat 3: papi-roger78 (button) showed [Qh Ah] and won 57604 with One pair : 8
+Seat 6: damms86 showed [Ac Td] and won 791310 with One pair : 8
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 32 - HandId: #2678083654344769539-118-1676584166 - Holdem no limit (6000/25000/50000) - 2023/02/16 21:49:26 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #4 is the button
+Seat 1: rouky76000 (977524, 9.44€ bounty)
+Seat 3: papi-roger78 (57604, 4.60€ bounty)
+Seat 4: Bardamu. (720083, 7.86€ bounty)
+Seat 5: DuarnaNadroj (884595, 11.31€ bounty)
+Seat 6: damms86 (791310, 10.21€ bounty)
+Seat 7: _SKR (417715, 11.65€ bounty)
+*** ANTE/BLINDS ***
+DuarnaNadroj posts ante 6000
+damms86 posts ante 6000
+rouky76000 posts ante 6000
+papi-roger78 posts ante 6000
+Bardamu. posts ante 6000
+_SKR posts ante 6000
+DuarnaNadroj posts small blind 25000
+damms86 posts big blind 50000
+Dealt to _SKR [7c Th]
+*** PRE-FLOP *** 
+_SKR folds
+rouky76000 raises 921524 to 971524 and is all-in
+papi-roger78 folds
+Bardamu. folds
+DuarnaNadroj folds
+damms86 folds
+rouky76000 collected 1082524 from pot
+*** SUMMARY ***
+Total pot 1082524 | No rake
+Seat 1: rouky76000 won 1082524
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 32 - HandId: #2678083654344769539-119-1676584197 - Holdem no limit (6000/25000/50000) - 2023/02/16 21:49:57 UTC
+Table: 'HARA-KIRI(623539941)#002' 8-max (real money) Seat #5 is the button
+Seat 1: rouky76000 (1082524, 9.44€ bounty)
+Seat 3: papi-roger78 (51604, 4.60€ bounty)
+Seat 4: Bardamu. (714083, 7.86€ bounty)
+Seat 5: DuarnaNadroj (853595, 11.31€ bounty)
+Seat 6: damms86 (735310, 10.21€ bounty)
+Seat 7: _SKR (411715, 11.65€ bounty)
+*** ANTE/BLINDS ***
+damms86 posts ante 6000
+_SKR posts ante 6000
+rouky76000 posts ante 6000
+papi-roger78 posts ante 6000
+Bardamu. posts ante 6000
+DuarnaNadroj posts ante 6000
+damms86 posts small blind 25000
+_SKR posts big blind 50000
+Dealt to _SKR [Ah 9c]
+*** PRE-FLOP *** 
+rouky76000 folds
+papi-roger78 folds
+Bardamu. raises 658083 to 708083 and is all-in
+DuarnaNadroj folds
+damms86 folds
+_SKR folds
+Bardamu. collected 819083 from pot
+*** SUMMARY ***
+Total pot 819083 | No rake
+Seat 4: Bardamu. won 819083
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 32 - HandId: #2678083654344769537-127-1676584251 - Holdem no limit (6000/25000/50000) - 2023/02/16 21:50:51 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #4 is the button
+Seat 1: djephil (1847707, 16.84€ bounty)
+Seat 2: Jex64 (609848, 2.92€ bounty)
+Seat 3: damms86 (704310, 10.21€ bounty)
+Seat 4: mikafilou35 (273374, 2.92€ bounty)
+Seat 5: All-Lyne (681941, 4.60€ bounty)
+Seat 6: _SKR (355715, 11.65€ bounty)
+Seat 7: DuarnaNadroj (847595, 11.31€ bounty)
+Seat 8: Bardamu. (819083, 7.86€ bounty)
+*** ANTE/BLINDS ***
+All-Lyne posts ante 6000
+_SKR posts ante 6000
+djephil posts ante 6000
+Jex64 posts ante 6000
+damms86 posts ante 6000
+mikafilou35 posts ante 6000
+DuarnaNadroj posts ante 6000
+Bardamu. posts ante 6000
+All-Lyne posts small blind 25000
+_SKR posts big blind 50000
+Dealt to _SKR [As 2h]
+*** PRE-FLOP *** 
+DuarnaNadroj folds
+Bardamu. folds
+djephil folds
+Jex64 folds
+damms86 raises 100000 to 150000
+mikafilou35 raises 117374 to 267374 and is all-in
+All-Lyne folds
+_SKR folds
+damms86 calls 117374
+*** FLOP *** [Td 6h 7s]
+*** TURN *** [Td 6h 7s][Qs]
+*** RIVER *** [Td 6h 7s Qs][Qc]
+*** SHOW DOWN ***
+damms86 shows [4d Ah] (One pair : Queens)
+mikafilou35 shows [Ac Js] (One pair : Queens)
+mikafilou35 collected 657748 from pot
+*** SUMMARY ***
+Total pot 657748 | No rake
+Board: [Td 6h 7s Qs Qc]
+Seat 3: damms86 showed [4d Ah] and lost with One pair : Queens
+Seat 4: mikafilou35 (button) showed [Ac Js] and won 657748 with One pair : Queens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 32 - HandId: #2678083654344769537-128-1676584289 - Holdem no limit (6000/25000/50000) - 2023/02/16 21:51:29 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #5 is the button
+Seat 1: djephil (1841707, 16.84€ bounty)
+Seat 2: Jex64 (603848, 2.92€ bounty)
+Seat 3: damms86 (430936, 10.21€ bounty)
+Seat 4: mikafilou35 (657748, 2.92€ bounty)
+Seat 5: All-Lyne (650941, 4.60€ bounty)
+Seat 6: _SKR (299715, 11.65€ bounty)
+Seat 7: DuarnaNadroj (841595, 11.31€ bounty)
+*** ANTE/BLINDS ***
+_SKR posts ante 6000
+DuarnaNadroj posts ante 6000
+djephil posts ante 6000
+Jex64 posts ante 6000
+damms86 posts ante 6000
+mikafilou35 posts ante 6000
+All-Lyne posts ante 6000
+_SKR posts small blind 25000
+DuarnaNadroj posts big blind 50000
+Dealt to _SKR [6h 2s]
+*** PRE-FLOP *** 
+djephil folds
+Jex64 folds
+damms86 raises 374936 to 424936 and is all-in
+mikafilou35 folds
+All-Lyne folds
+_SKR folds
+DuarnaNadroj folds
+damms86 collected 541936 from pot
+*** SUMMARY ***
+Total pot 541936 | No rake
+Seat 3: damms86 won 541936
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 33 - HandId: #2678083654344769537-129-1676584325 - Holdem no limit (7000/30000/60000) - 2023/02/16 21:52:05 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #6 is the button
+Seat 1: djephil (1835707, 16.84€ bounty)
+Seat 2: Jex64 (597848, 2.92€ bounty)
+Seat 3: damms86 (541936, 10.21€ bounty)
+Seat 4: mikafilou35 (651748, 2.92€ bounty)
+Seat 5: All-Lyne (644941, 4.60€ bounty)
+Seat 6: _SKR (268715, 11.65€ bounty)
+Seat 7: DuarnaNadroj (785595, 11.31€ bounty)
+*** ANTE/BLINDS ***
+DuarnaNadroj posts ante 7000
+djephil posts ante 7000
+Jex64 posts ante 7000
+damms86 posts ante 7000
+mikafilou35 posts ante 7000
+All-Lyne posts ante 7000
+_SKR posts ante 7000
+DuarnaNadroj posts small blind 30000
+djephil posts big blind 60000
+Dealt to _SKR [4c 9s]
+*** PRE-FLOP *** 
+Jex64 folds
+damms86 folds
+mikafilou35 calls 60000
+All-Lyne folds
+_SKR folds
+DuarnaNadroj raises 718595 to 778595 and is all-in
+djephil folds
+mikafilou35 calls 584748 and is all-in
+*** FLOP *** [Qs Td 6s]
+*** TURN *** [Qs Td 6s][4d]
+*** RIVER *** [Qs Td 6s 4d][8d]
+*** SHOW DOWN ***
+mikafilou35 shows [Ac Kc] (High card : Ace)
+DuarnaNadroj shows [Ks Jc] (High card : King)
+DuarnaNadroj collected 133847 from side pot 1
+mikafilou35 collected 1398496 from main pot
+*** SUMMARY ***
+Total pot 1532343 | No rake
+Board: [Qs Td 6s 4d 8d]
+Seat 4: mikafilou35 showed [Ac Kc] and won 1398496 with High card : Ace
+Seat 7: DuarnaNadroj (small blind) showed [Ks Jc] and won 133847 with High card : King
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 33 - HandId: #2678083654344769537-130-1676584359 - Holdem no limit (7000/30000/60000) - 2023/02/16 21:52:39 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #7 is the button
+Seat 1: djephil (1768707, 16.84€ bounty)
+Seat 2: Jex64 (590848, 2.92€ bounty)
+Seat 3: damms86 (534936, 10.21€ bounty)
+Seat 4: mikafilou35 (1398496, 2.92€ bounty)
+Seat 5: All-Lyne (637941, 4.60€ bounty)
+Seat 6: _SKR (261715, 11.65€ bounty)
+Seat 7: DuarnaNadroj (133847, 11.31€ bounty)
+*** ANTE/BLINDS ***
+djephil posts ante 7000
+Jex64 posts ante 7000
+damms86 posts ante 7000
+mikafilou35 posts ante 7000
+All-Lyne posts ante 7000
+_SKR posts ante 7000
+DuarnaNadroj posts ante 7000
+djephil posts small blind 30000
+Jex64 posts big blind 60000
+Dealt to _SKR [5s 7c]
+*** PRE-FLOP *** 
+damms86 folds
+mikafilou35 folds
+All-Lyne folds
+_SKR folds
+DuarnaNadroj folds
+djephil folds
+Jex64 collected 139000 from pot
+*** SUMMARY ***
+Total pot 139000 | No rake
+Seat 2: Jex64 (big blind) won 139000
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 33 - HandId: #2678083654344769537-131-1676584379 - Holdem no limit (7000/30000/60000) - 2023/02/16 21:52:59 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #1 is the button
+Seat 1: djephil (1731707, 16.84€ bounty)
+Seat 2: Jex64 (662848, 2.92€ bounty)
+Seat 3: damms86 (527936, 10.21€ bounty)
+Seat 4: mikafilou35 (1391496, 2.92€ bounty)
+Seat 5: All-Lyne (630941, 4.60€ bounty)
+Seat 6: _SKR (254715, 11.65€ bounty)
+Seat 7: DuarnaNadroj (126847, 11.31€ bounty)
+*** ANTE/BLINDS ***
+Jex64 posts ante 7000
+damms86 posts ante 7000
+djephil posts ante 7000
+mikafilou35 posts ante 7000
+All-Lyne posts ante 7000
+_SKR posts ante 7000
+DuarnaNadroj posts ante 7000
+Jex64 posts small blind 30000
+damms86 posts big blind 60000
+Dealt to _SKR [Jd 5d]
+*** PRE-FLOP *** 
+mikafilou35 folds
+All-Lyne folds
+_SKR folds
+DuarnaNadroj raises 59847 to 119847 and is all-in
+djephil folds
+Jex64 calls 89847
+damms86 folds
+*** FLOP *** [4h As Qd]
+*** TURN *** [4h As Qd][7s]
+*** RIVER *** [4h As Qd 7s][Kh]
+*** SHOW DOWN ***
+Jex64 shows [Kd Jh] (One pair : Kings)
+DuarnaNadroj shows [2d Ac] (One pair : Aces)
+DuarnaNadroj collected 348694 from pot
+*** SUMMARY ***
+Total pot 348694 | No rake
+Board: [4h As Qd 7s Kh]
+Seat 2: Jex64 (small blind) showed [Kd Jh] and lost with One pair : Kings
+Seat 7: DuarnaNadroj showed [2d Ac] and won 348694 with One pair : Aces
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1.80€ + 0.20€ level: 33 - HandId: #2678083654344769537-132-1676584413 - Holdem no limit (7000/30000/60000) - 2023/02/16 21:53:33 UTC
+Table: 'HARA-KIRI(623539941)#000' 8-max (real money) Seat #2 is the button
+Seat 1: djephil (1724707, 16.84€ bounty)
+Seat 2: Jex64 (536001, 2.92€ bounty)
+Seat 3: damms86 (460936, 10.21€ bounty)
+Seat 4: mikafilou35 (1384496, 2.92€ bounty)
+Seat 6: _SKR (247715, 11.65€ bounty)
+Seat 7: DuarnaNadroj (348694, 11.31€ bounty)
+*** ANTE/BLINDS ***
+damms86 posts ante 7000
+mikafilou35 posts ante 7000
+djephil posts ante 7000
+Jex64 posts ante 7000
+_SKR posts ante 7000
+DuarnaNadroj posts ante 7000
+damms86 posts small blind 30000
+mikafilou35 posts big blind 60000
+Dealt to _SKR [Ts Qd]
+*** PRE-FLOP *** 
+_SKR raises 180715 to 240715 and is all-in
+DuarnaNadroj folds
+djephil folds
+Jex64 raises 180715 to 421430
+damms86 folds
+mikafilou35 folds
+*** FLOP *** [Tc 6c 2h]
+*** TURN *** [Tc 6c 2h][2s]
+*** RIVER *** [Tc 6c 2h 2s][Ah]
+*** SHOW DOWN ***
+_SKR shows [Ts Qd] (Two pairs : Tens and 2)
+Jex64 shows [As Ad] (Full of Aces and 2)
+Jex64 collected 794145 from pot
+*** SUMMARY ***
+Total pot 794145 | No rake
+Board: [Tc 6c 2h 2s Ah]
+Seat 2: Jex64 (button) showed [As Ad] and won 794145 with Full of Aces and 2
+Seat 6: _SKR showed [Ts Qd] and lost with Two pairs : Tens and 2
+
+

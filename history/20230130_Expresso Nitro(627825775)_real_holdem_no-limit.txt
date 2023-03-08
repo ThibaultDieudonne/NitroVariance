@@ -1,0 +1,134 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696491171210854401-1-1675083032 - Holdem no limit (10/20) - 2023/01/30 12:50:32 UTC
+Table: 'Expresso Nitro(627825775)#0' 3-max (real money) Seat #3 is the button
+Seat 1: As_tro_nome (300)
+Seat 2: menfis1 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+As_tro_nome posts small blind 10
+menfis1 posts big blind 20
+Dealt to _SKR [7c Td]
+*** PRE-FLOP *** 
+_SKR folds
+As_tro_nome calls 10
+menfis1 checks
+*** FLOP *** [3h Jd Kc]
+As_tro_nome checks
+menfis1 checks
+*** TURN *** [3h Jd Kc][9h]
+As_tro_nome checks
+menfis1 checks
+*** RIVER *** [3h Jd Kc 9h][Jh]
+As_tro_nome checks
+menfis1 bets 280 and is all-in
+As_tro_nome folds
+menfis1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [3h Jd Kc 9h Jh]
+Seat 2: menfis1 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696491171210854401-2-1675083079 - Holdem no limit (10/20) - 2023/01/30 12:51:19 UTC
+Table: 'Expresso Nitro(627825775)#0' 3-max (real money) Seat #1 is the button
+Seat 1: As_tro_nome (280)
+Seat 2: menfis1 (320)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+menfis1 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qc 5c]
+*** PRE-FLOP *** 
+As_tro_nome folds
+menfis1 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696491171210854401-3-1675083087 - Holdem no limit (10/20) - 2023/01/30 12:51:27 UTC
+Table: 'Expresso Nitro(627825775)#0' 3-max (real money) Seat #2 is the button
+Seat 1: As_tro_nome (280)
+Seat 2: menfis1 (310)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+As_tro_nome posts big blind 20
+Dealt to _SKR [9h 5s]
+*** PRE-FLOP *** 
+menfis1 raises 40 to 60
+_SKR folds
+As_tro_nome calls 40
+*** FLOP *** [3d 4c 6h]
+As_tro_nome checks
+menfis1 bets 250 and is all-in
+As_tro_nome calls 220 and is all-in
+*** TURN *** [3d 4c 6h][Tc]
+*** RIVER *** [3d 4c 6h Tc][Qd]
+*** SHOW DOWN ***
+As_tro_nome shows [Ah 2h] (High card : Ace)
+menfis1 shows [As Kd] (High card : Ace)
+menfis1 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3d 4c 6h Tc Qd]
+Seat 1: As_tro_nome (big blind) showed [Ah 2h] and lost with High card : Ace
+Seat 2: menfis1 (button) showed [As Kd] and won 600 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696491171210854401-4-1675083120 - Holdem no limit (15/30) - 2023/01/30 12:52:00 UTC
+Table: 'Expresso Nitro(627825775)#0' 3-max (real money) Seat #2 is the button
+Seat 2: menfis1 (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+menfis1 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9s 2h]
+*** PRE-FLOP *** 
+menfis1 calls 15
+_SKR checks
+*** FLOP *** [Tc 5s 4d]
+_SKR checks
+menfis1 checks
+*** TURN *** [Tc 5s 4d][2c]
+_SKR checks
+menfis1 checks
+*** RIVER *** [Tc 5s 4d 2c][9h]
+_SKR bets 39
+menfis1 calls 39
+*** SHOW DOWN ***
+menfis1 shows [8c Ks] (High card : King)
+_SKR shows [9s 2h] (Two pairs : 9 and 2)
+_SKR collected 138 from pot
+*** SUMMARY ***
+Total pot 138 | No rake
+Board: [Tc 5s 4d 2c 9h]
+Seat 2: menfis1 (small blind) (button) showed [8c Ks] and lost with High card : King
+Seat 3: _SKR (big blind) showed [9s 2h] and won 138 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696491171210854401-5-1675083148 - Holdem no limit (20/40) - 2023/01/30 12:52:28 UTC
+Table: 'Expresso Nitro(627825775)#0' 3-max (real money) Seat #3 is the button
+Seat 2: menfis1 (531)
+Seat 3: _SKR (369)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+menfis1 posts big blind 40
+Dealt to _SKR [8s 7c]
+*** PRE-FLOP *** 
+_SKR raises 329 to 369 and is all-in
+menfis1 calls 329
+*** FLOP *** [Qs Ts Ah]
+*** TURN *** [Qs Ts Ah][4d]
+*** RIVER *** [Qs Ts Ah 4d][6c]
+*** SHOW DOWN ***
+_SKR shows [8s 7c] (High card : Ace)
+menfis1 shows [Td 7h] (One pair : Tens)
+menfis1 collected 738 from pot
+*** SUMMARY ***
+Total pot 738 | No rake
+Board: [Qs Ts Ah 4d 6c]
+Seat 2: menfis1 (big blind) showed [Td 7h] and won 738 with One pair : Tens
+Seat 3: _SKR (small blind) (button) showed [8s 7c] and lost with High card : Ace
+
+

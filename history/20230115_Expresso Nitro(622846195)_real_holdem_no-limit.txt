@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675104037963038721-1-1673744614 - Holdem no limit (10/20) - 2023/01/15 01:03:34 UTC
+Table: 'Expresso Nitro(622846195)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Lelbi74960 (300)
+Seat 3: joke5522 (300)
+*** ANTE/BLINDS ***
+Lelbi74960 posts small blind 10
+joke5522 posts big blind 20
+Dealt to _SKR [8d 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Lelbi74960 calls 10
+joke5522 checks
+*** FLOP *** [Jd Qc 7c]
+Lelbi74960 bets 20
+joke5522 calls 20
+*** TURN *** [Jd Qc 7c][Ah]
+Lelbi74960 bets 20
+joke5522 calls 20
+*** RIVER *** [Jd Qc 7c Ah][8h]
+Lelbi74960 bets 20
+joke5522 calls 20
+*** SHOW DOWN ***
+joke5522 shows [6d Jc] (One pair : Jacks)
+Lelbi74960 shows [Th Qs] (One pair : Queens)
+Lelbi74960 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Jd Qc 7c Ah 8h]
+Seat 2: Lelbi74960 (small blind) showed [Th Qs] and won 160 with One pair : Queens
+Seat 3: joke5522 (big blind) showed [6d Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675104037963038721-2-1673744685 - Holdem no limit (15/30) - 2023/01/15 01:04:45 UTC
+Table: 'Expresso Nitro(622846195)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Lelbi74960 (380)
+Seat 3: joke5522 (220)
+*** ANTE/BLINDS ***
+joke5522 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd 8h]
+*** PRE-FLOP *** 
+Lelbi74960 folds
+joke5522 raises 190 to 220 and is all-in
+_SKR folds
+joke5522 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 3: joke5522 (small blind) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675104037963038721-3-1673744698 - Holdem no limit (15/30) - 2023/01/15 01:04:58 UTC
+Table: 'Expresso Nitro(622846195)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 2: Lelbi74960 (380)
+Seat 3: joke5522 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Lelbi74960 posts big blind 30
+Dealt to _SKR [Ks 6h]
+*** PRE-FLOP *** 
+joke5522 folds
+_SKR raises 240 to 270 and is all-in
+Lelbi74960 calls 240
+*** FLOP *** [Js Td 6s]
+*** TURN *** [Js Td 6s][9h]
+*** RIVER *** [Js Td 6s 9h][Kh]
+*** SHOW DOWN ***
+_SKR shows [Ks 6h] (Two pairs : Kings and 6)
+Lelbi74960 shows [Jh Kd] (Two pairs : Kings and Jacks)
+Lelbi74960 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Js Td 6s 9h Kh]
+Seat 1: _SKR (small blind) showed [Ks 6h] and lost with Two pairs : Kings and 6
+Seat 2: Lelbi74960 (big blind) showed [Jh Kd] and won 540 with Two pairs : Kings and Jacks
+
+

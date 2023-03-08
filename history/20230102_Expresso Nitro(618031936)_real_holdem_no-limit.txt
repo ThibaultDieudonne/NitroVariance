@@ -1,0 +1,429 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654426953003565057-1-1672659969 - Holdem no limit (10/20) - 2023/01/02 11:46:09 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mickael0301 (300)
+Seat 2: _SKR (300)
+Seat 3: Avasan (300)
+*** ANTE/BLINDS ***
+Mickael0301 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6d 5d]
+*** PRE-FLOP *** 
+Avasan raises 20 to 40
+Mickael0301 calls 30
+_SKR calls 20
+*** FLOP *** [Tc Qc 2s]
+Mickael0301 checks
+_SKR checks
+Avasan bets 60
+Mickael0301 folds
+_SKR folds
+Avasan collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Tc Qc 2s]
+Seat 3: Avasan (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654426953003565057-2-1672660004 - Holdem no limit (10/20) - 2023/01/02 11:46:44 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mickael0301 (260)
+Seat 2: _SKR (260)
+Seat 3: Avasan (380)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Avasan posts big blind 20
+Dealt to _SKR [7d 8d]
+*** PRE-FLOP *** 
+Mickael0301 calls 20
+_SKR folds
+Avasan checks
+*** FLOP *** [9c Kh Jd]
+Avasan checks
+Mickael0301 checks
+*** TURN *** [9c Kh Jd][8s]
+Avasan bets 25
+Mickael0301 calls 25
+*** RIVER *** [9c Kh Jd 8s][9d]
+Avasan bets 50
+Mickael0301 calls 50
+*** SHOW DOWN ***
+Mickael0301 shows [Kd Qs] (Two pairs : Kings and 9)
+Avasan shows [2c 9s] (Trips of 9)
+Avasan collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [9c Kh Jd 8s 9d]
+Seat 1: Mickael0301 (button) showed [Kd Qs] and lost with Two pairs : Kings and 9
+Seat 3: Avasan (big blind) showed [2c 9s] and won 200 with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2654426953003565057-3-1672660042 - Holdem no limit (15/30) - 2023/01/02 11:47:22 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Mickael0301 (165)
+Seat 2: _SKR (250)
+Seat 3: Avasan (485)
+*** ANTE/BLINDS ***
+Avasan posts small blind 15
+Mickael0301 posts big blind 30
+Dealt to _SKR [Ah 3s]
+*** PRE-FLOP *** 
+_SKR raises 220 to 250 and is all-in
+Avasan folds
+Mickael0301 folds
+_SKR collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Seat 2: _SKR (button) won 295
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2654426953003565057-4-1672660049 - Holdem no limit (15/30) - 2023/01/02 11:47:29 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mickael0301 (135)
+Seat 2: _SKR (295)
+Seat 3: Avasan (470)
+*** ANTE/BLINDS ***
+Mickael0301 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c Ad]
+*** PRE-FLOP *** 
+Avasan folds
+Mickael0301 calls 15
+_SKR raises 265 to 295 and is all-in
+Mickael0301 calls 105 and is all-in
+*** FLOP *** [2d 6h 3h]
+*** TURN *** [2d 6h 3h][7h]
+*** RIVER *** [2d 6h 3h 7h][Kc]
+*** SHOW DOWN ***
+Mickael0301 shows [2s Tc] (One pair : 2)
+_SKR shows [2c Ad] (One pair : 2)
+_SKR collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Board: [2d 6h 3h 7h Kc]
+Seat 1: Mickael0301 (small blind) showed [2s Tc] and lost with One pair : 2
+Seat 2: _SKR (big blind) showed [2c Ad] and won 430 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2654426953003565057-5-1672660070 - Holdem no limit (15/30) - 2023/01/02 11:47:50 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (430)
+Seat 3: Avasan (470)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Avasan posts big blind 30
+Dealt to _SKR [Kd 4c]
+*** PRE-FLOP *** 
+_SKR calls 15
+Avasan checks
+*** FLOP *** [9d 5c Kh]
+Avasan checks
+_SKR bets 30
+Avasan calls 30
+*** TURN *** [9d 5c Kh][7s]
+Avasan checks
+_SKR checks
+*** RIVER *** [9d 5c Kh 7s][7c]
+Avasan checks
+_SKR bets 60
+Avasan calls 60
+*** SHOW DOWN ***
+Avasan shows [9c 6s] (Two pairs : 9 and 7)
+_SKR shows [Kd 4c] (Two pairs : Kings and 7)
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9d 5c Kh 7s 7c]
+Seat 2: _SKR (small blind) (button) showed [Kd 4c] and won 240 with Two pairs : Kings and 7
+Seat 3: Avasan (big blind) showed [9c 6s] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2654426953003565057-6-1672660115 - Holdem no limit (20/40) - 2023/01/02 11:48:35 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (550)
+Seat 3: Avasan (350)
+*** ANTE/BLINDS ***
+Avasan posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [4s 2s]
+*** PRE-FLOP *** 
+Avasan folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2654426953003565057-7-1672660121 - Holdem no limit (20/40) - 2023/01/02 11:48:41 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (570)
+Seat 3: Avasan (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Avasan posts big blind 40
+Dealt to _SKR [Jh 9h]
+*** PRE-FLOP *** 
+_SKR raises 530 to 570 and is all-in
+Avasan folds
+_SKR collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Seat 2: _SKR (small blind) (button) won 610
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2654426953003565057-8-1672660127 - Holdem no limit (20/40) - 2023/01/02 11:48:47 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (610)
+Seat 3: Avasan (290)
+*** ANTE/BLINDS ***
+Avasan posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ad 7s]
+*** PRE-FLOP *** 
+Avasan raises 40 to 80
+_SKR calls 40
+*** FLOP *** [5s Kh 2s]
+_SKR checks
+Avasan bets 210 and is all-in
+_SKR calls 210
+*** TURN *** [5s Kh 2s][Th]
+*** RIVER *** [5s Kh 2s Th][8d]
+*** SHOW DOWN ***
+_SKR shows [Ad 7s] (High card : Ace)
+Avasan shows [5c Ah] (One pair : 5)
+Avasan collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5s Kh 2s Th 8d]
+Seat 2: _SKR (big blind) showed [Ad 7s] and lost with High card : Ace
+Seat 3: Avasan (small blind) (button) showed [5c Ah] and won 580 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2654426953003565057-9-1672660150 - Holdem no limit (30/60) - 2023/01/02 11:49:10 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (320)
+Seat 3: Avasan (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Avasan posts big blind 60
+Dealt to _SKR [3s 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Avasan collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Avasan (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2654426953003565057-10-1672660154 - Holdem no limit (30/60) - 2023/01/02 11:49:14 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (290)
+Seat 3: Avasan (610)
+*** ANTE/BLINDS ***
+Avasan posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Js 3s]
+*** PRE-FLOP *** 
+Avasan folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2654426953003565057-11-1672660160 - Holdem no limit (30/60) - 2023/01/02 11:49:20 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (320)
+Seat 3: Avasan (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Avasan posts big blind 60
+Dealt to _SKR [5h 3c]
+*** PRE-FLOP *** 
+_SKR folds
+Avasan collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Avasan (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2654426953003565057-12-1672660166 - Holdem no limit (30/60) - 2023/01/02 11:49:26 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (290)
+Seat 3: Avasan (610)
+*** ANTE/BLINDS ***
+Avasan posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Qd Ac]
+*** PRE-FLOP *** 
+Avasan folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2654426953003565057-13-1672660173 - Holdem no limit (30/60) - 2023/01/02 11:49:33 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (320)
+Seat 3: Avasan (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Avasan posts big blind 60
+Dealt to _SKR [7d Th]
+*** PRE-FLOP *** 
+_SKR folds
+Avasan collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Avasan (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2654426953003565057-14-1672660179 - Holdem no limit (30/60) - 2023/01/02 11:49:39 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (290)
+Seat 3: Avasan (610)
+*** ANTE/BLINDS ***
+Avasan posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3h 5s]
+*** PRE-FLOP *** 
+Avasan folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2654426953003565057-15-1672660188 - Holdem no limit (30/60) - 2023/01/02 11:49:48 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (320)
+Seat 3: Avasan (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Avasan posts big blind 60
+Dealt to _SKR [Qc 9s]
+*** PRE-FLOP *** 
+_SKR raises 260 to 320 and is all-in
+Avasan calls 260
+*** FLOP *** [9h 2d 2h]
+*** TURN *** [9h 2d 2h][7s]
+*** RIVER *** [9h 2d 2h 7s][8c]
+*** SHOW DOWN ***
+Avasan shows [Qh 8h] (Two pairs : 8 and 2)
+_SKR shows [Qc 9s] (Two pairs : 9 and 2)
+_SKR collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [9h 2d 2h 7s 8c]
+Seat 2: _SKR (small blind) (button) showed [Qc 9s] and won 640 with Two pairs : 9 and 2
+Seat 3: Avasan (big blind) showed [Qh 8h] and lost with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2654426953003565057-16-1672660208 - Holdem no limit (40/80) - 2023/01/02 11:50:08 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (640)
+Seat 3: Avasan (260)
+*** ANTE/BLINDS ***
+Avasan posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [8s Td]
+*** PRE-FLOP *** 
+Avasan raises 180 to 260 and is all-in
+_SKR calls 180
+*** FLOP *** [9d Jc 6c]
+*** TURN *** [9d Jc 6c][4d]
+*** RIVER *** [9d Jc 6c 4d][3s]
+*** SHOW DOWN ***
+_SKR shows [8s Td] (High card : Jack)
+Avasan shows [Ac 3h] (One pair : 3)
+Avasan collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [9d Jc 6c 4d 3s]
+Seat 2: _SKR (big blind) showed [8s Td] and lost with High card : Jack
+Seat 3: Avasan (small blind) (button) showed [Ac 3h] and won 520 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2654426953003565057-17-1672660225 - Holdem no limit (40/80) - 2023/01/02 11:50:25 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (380)
+Seat 3: Avasan (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Avasan posts big blind 80
+Dealt to _SKR [7h 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Avasan collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Avasan (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2654426953003565057-18-1672660231 - Holdem no limit (40/80) - 2023/01/02 11:50:31 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (340)
+Seat 3: Avasan (560)
+*** ANTE/BLINDS ***
+Avasan posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [Ah 5s]
+*** PRE-FLOP *** 
+Avasan calls 40
+_SKR raises 260 to 340 and is all-in
+Avasan calls 260
+*** FLOP *** [Ac Ks 4d]
+*** TURN *** [Ac Ks 4d][8d]
+*** RIVER *** [Ac Ks 4d 8d][6d]
+*** SHOW DOWN ***
+Avasan shows [8s Jh] (One pair : 8)
+_SKR shows [Ah 5s] (One pair : Aces)
+_SKR collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Ac Ks 4d 8d 6d]
+Seat 2: _SKR (big blind) showed [Ah 5s] and won 680 with One pair : Aces
+Seat 3: Avasan (small blind) (button) showed [8s Jh] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2654426953003565057-19-1672660255 - Holdem no limit (40/80) - 2023/01/02 11:50:55 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (680)
+Seat 3: Avasan (220)
+*** ANTE/BLINDS ***
+_SKR posts small blind 40
+Avasan posts big blind 80
+Dealt to _SKR [4d 6s]
+*** PRE-FLOP *** 
+_SKR folds
+Avasan collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Avasan (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2654426953003565057-20-1672660260 - Holdem no limit (40/80) - 2023/01/02 11:51:00 UTC
+Table: 'Expresso Nitro(618031936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (640)
+Seat 3: Avasan (260)
+*** ANTE/BLINDS ***
+Avasan posts small blind 40
+_SKR posts big blind 80
+Dealt to _SKR [9c Qh]
+*** PRE-FLOP *** 
+Avasan raises 180 to 260 and is all-in
+_SKR calls 180
+*** FLOP *** [5c 4d 9s]
+*** TURN *** [5c 4d 9s][5s]
+*** RIVER *** [5c 4d 9s 5s][3c]
+*** SHOW DOWN ***
+Avasan shows [Ad 8s] (One pair : 5)
+_SKR shows [9c Qh] (Two pairs : 9 and 5)
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [5c 4d 9s 5s 3c]
+Seat 2: _SKR (big blind) showed [9c Qh] and won 520 with Two pairs : 9 and 5
+Seat 3: Avasan (small blind) (button) showed [Ad 8s] and lost with One pair : 5
+
+

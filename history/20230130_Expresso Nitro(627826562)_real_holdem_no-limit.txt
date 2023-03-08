@@ -1,0 +1,63 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696494551350116353-1-1675083234 - Holdem no limit (10/20) - 2023/01/30 12:53:54 UTC
+Table: 'Expresso Nitro(627826562)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Toinou-zero (300)
+Seat 2: TG_Zeus34 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Toinou-zero posts big blind 20
+Dealt to _SKR [7h 4d]
+*** PRE-FLOP *** 
+TG_Zeus34 calls 20
+_SKR folds
+Toinou-zero checks
+*** FLOP *** [3s Qs 2h]
+Toinou-zero bets 20
+TG_Zeus34 calls 20
+*** TURN *** [3s Qs 2h][Qh]
+Toinou-zero bets 20
+TG_Zeus34 calls 20
+*** RIVER *** [3s Qs 2h Qh][7c]
+Toinou-zero bets 20
+TG_Zeus34 raises 20 to 40
+Toinou-zero calls 20
+*** SHOW DOWN ***
+Toinou-zero shows [6s 2d] (Two pairs : Queens and 2)
+TG_Zeus34 shows [2s Ac] (Two pairs : Queens and 2)
+TG_Zeus34 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [3s Qs 2h Qh 7c]
+Seat 1: Toinou-zero (big blind) showed [6s 2d] and lost with Two pairs : Queens and 2
+Seat 2: TG_Zeus34 (button) showed [2s Ac] and won 210 with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696494551350116353-2-1675083258 - Holdem no limit (10/20) - 2023/01/30 12:54:18 UTC
+Table: 'Expresso Nitro(627826562)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Toinou-zero (200)
+Seat 2: TG_Zeus34 (410)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Toinou-zero posts small blind 10
+TG_Zeus34 posts big blind 20
+Dealt to _SKR [As 6s]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+Toinou-zero calls 190 and is all-in
+TG_Zeus34 calls 270
+*** FLOP *** [9d 2d 5s]
+*** TURN *** [9d 2d 5s][Qd]
+*** RIVER *** [9d 2d 5s Qd][3s]
+*** SHOW DOWN ***
+Toinou-zero shows [8h Kh] (High card : King)
+_SKR shows [As 6s] (High card : Ace)
+TG_Zeus34 shows [7d Ah] (High card : Ace)
+TG_Zeus34 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [9d 2d 5s Qd 3s]
+Seat 1: Toinou-zero (small blind) showed [8h Kh] and lost with High card : King
+Seat 2: TG_Zeus34 (big blind) showed [7d Ah] and won 780 with High card : Ace
+Seat 3: _SKR (button) showed [As 6s] and lost with High card : Ace
+
+

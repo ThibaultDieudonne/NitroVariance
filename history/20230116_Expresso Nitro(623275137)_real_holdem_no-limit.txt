@@ -1,0 +1,86 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676946329824919553-1-1673869839 - Holdem no limit (10/20) - 2023/01/16 11:50:39 UTC
+Table: 'Expresso Nitro(623275137)#0' 3-max (real money) Seat #3 is the button
+Seat 1: iron2012 (300)
+Seat 2: Orc_Barron46 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+iron2012 posts small blind 10
+Orc_Barron46 posts big blind 20
+Dealt to _SKR [Ah 4s]
+*** PRE-FLOP *** 
+_SKR folds
+iron2012 calls 10
+Orc_Barron46 checks
+*** FLOP *** [5h 6s 6c]
+iron2012 bets 280 and is all-in
+Orc_Barron46 calls 280 and is all-in
+*** TURN *** [5h 6s 6c][Kc]
+*** RIVER *** [5h 6s 6c Kc][8d]
+*** SHOW DOWN ***
+iron2012 shows [7c 5c] (Two pairs : 6 and 5)
+Orc_Barron46 shows [6d Qh] (Trips of 6)
+Orc_Barron46 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [5h 6s 6c Kc 8d]
+Seat 1: iron2012 (small blind) showed [7c 5c] and lost with Two pairs : 6 and 5
+Seat 2: Orc_Barron46 (big blind) showed [6d Qh] and won 600 with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2676946329824919553-2-1673869861 - Holdem no limit (10/20) - 2023/01/16 11:51:01 UTC
+Table: 'Expresso Nitro(623275137)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Orc_Barron46 (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Orc_Barron46 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [4s 7h]
+*** PRE-FLOP *** 
+Orc_Barron46 calls 10
+_SKR checks
+*** FLOP *** [9s Js Ts]
+_SKR checks
+Orc_Barron46 checks
+*** TURN *** [9s Js Ts][8d]
+_SKR checks
+Orc_Barron46 bets 20
+_SKR calls 20
+*** RIVER *** [9s Js Ts 8d][4h]
+_SKR checks
+Orc_Barron46 checks
+*** SHOW DOWN ***
+Orc_Barron46 shows [8s 6h] (One pair : 8)
+_SKR shows [4s 7h] (Straight Jack high)
+_SKR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9s Js Ts 8d 4h]
+Seat 2: Orc_Barron46 (small blind) (button) showed [8s 6h] and lost with One pair : 8
+Seat 3: _SKR (big blind) showed [4s 7h] and won 80 with Straight Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2676946329824919553-3-1673869896 - Holdem no limit (15/30) - 2023/01/16 11:51:36 UTC
+Table: 'Expresso Nitro(623275137)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Orc_Barron46 (560)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Orc_Barron46 posts big blind 30
+Dealt to _SKR [7d Kc]
+*** PRE-FLOP *** 
+_SKR raises 310 to 340 and is all-in
+Orc_Barron46 raises 220 to 560 and is all-in
+*** FLOP *** [8d Js 2s]
+*** TURN *** [8d Js 2s][Tc]
+*** RIVER *** [8d Js 2s Tc][Qh]
+*** SHOW DOWN ***
+_SKR shows [7d Kc] (High card : King)
+Orc_Barron46 shows [Jh Ts] (Two pairs : Jacks and Tens)
+Orc_Barron46 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d Js 2s Tc Qh]
+Seat 2: Orc_Barron46 (big blind) showed [Jh Ts] and won 900 with Two pairs : Jacks and Tens
+Seat 3: _SKR (small blind) (button) showed [7d Kc] and lost with High card : King
+
+

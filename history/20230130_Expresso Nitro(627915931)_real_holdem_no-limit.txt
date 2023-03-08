@@ -1,0 +1,86 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696878388282392577-1-1675101697 - Holdem no limit (10/20) - 2023/01/30 18:01:37 UTC
+Table: 'Expresso Nitro(627915931)#0' 3-max (real money) Seat #2 is the button
+Seat 1: speedy2433 (300)
+Seat 2: paire AAouRR (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+speedy2433 posts big blind 20
+Dealt to _SKR [8c 3s]
+*** PRE-FLOP *** 
+paire AAouRR calls 20
+_SKR folds
+speedy2433 checks
+*** FLOP *** [Kh 2d 8h]
+speedy2433 checks
+paire AAouRR bets 50
+speedy2433 folds
+paire AAouRR collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Kh 2d 8h]
+Seat 2: paire AAouRR (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696878388282392577-2-1675101712 - Holdem no limit (10/20) - 2023/01/30 18:01:52 UTC
+Table: 'Expresso Nitro(627915931)#0' 3-max (real money) Seat #3 is the button
+Seat 1: speedy2433 (280)
+Seat 2: paire AAouRR (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+speedy2433 posts small blind 10
+paire AAouRR posts big blind 20
+Dealt to _SKR [Th Ad]
+*** PRE-FLOP *** 
+_SKR raises 270 to 290 and is all-in
+speedy2433 calls 270 and is all-in
+paire AAouRR folds
+*** FLOP *** [2h Ks 8d]
+*** TURN *** [2h Ks 8d][Qc]
+*** RIVER *** [2h Ks 8d Qc][5h]
+*** SHOW DOWN ***
+speedy2433 shows [Qh Qs] (Trips of Queens)
+_SKR shows [Th Ad] (High card : Ace)
+_SKR collected 10 from side pot 1
+speedy2433 collected 580 from main pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [2h Ks 8d Qc 5h]
+Seat 1: speedy2433 (small blind) showed [Qh Qs] and won 580 with Trips of Queens
+Seat 3: _SKR (button) showed [Th Ad] and won 10 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696878388282392577-3-1675101724 - Holdem no limit (10/20) - 2023/01/30 18:02:04 UTC
+Table: 'Expresso Nitro(627915931)#0' 3-max (real money) Seat #1 is the button
+Seat 1: speedy2433 (580)
+Seat 2: paire AAouRR (310)
+Seat 3: _SKR (10)
+*** ANTE/BLINDS ***
+paire AAouRR posts small blind 10
+_SKR posts big blind 10 and is all-in
+Dealt to _SKR [Kc 4h]
+*** PRE-FLOP *** 
+speedy2433 calls 20
+paire AAouRR calls 10
+*** FLOP *** [Js 5h 8s]
+paire AAouRR checks
+speedy2433 checks
+*** TURN *** [Js 5h 8s][8h]
+paire AAouRR checks
+speedy2433 checks
+*** RIVER *** [Js 5h 8s 8h][8c]
+paire AAouRR checks
+speedy2433 checks
+*** SHOW DOWN ***
+paire AAouRR shows [9h Qc] (Trips of 8)
+_SKR shows [Kc 4h] (Trips of 8)
+speedy2433 shows [Ad 2c] (Trips of 8)
+speedy2433 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Js 5h 8s 8h 8c]
+Seat 1: speedy2433 (button) showed [Ad 2c] and won 50 with Trips of 8
+Seat 2: paire AAouRR (small blind) showed [9h Qc] and lost with Trips of 8
+Seat 3: _SKR (big blind) showed [Kc 4h] and lost with Trips of 8
+
+

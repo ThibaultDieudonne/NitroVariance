@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698226320818569217-1-1675186360 - Holdem no limit (10/20) - 2023/01/31 17:32:40 UTC
+Table: 'Expresso Nitro(628229771)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Rico2227 (300)
+Seat 3: Jonathan6801 (300)
+*** ANTE/BLINDS ***
+Jonathan6801 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Th 2c]
+*** PRE-FLOP *** 
+Rico2227 calls 20
+Jonathan6801 raises 280 to 300 and is all-in
+_SKR folds
+Rico2227 folds
+Jonathan6801 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: Jonathan6801 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698226320818569217-2-1675186370 - Holdem no limit (10/20) - 2023/01/31 17:32:50 UTC
+Table: 'Expresso Nitro(628229771)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Rico2227 (280)
+Seat 3: Jonathan6801 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Rico2227 posts big blind 20
+Dealt to _SKR [6s Ks]
+*** PRE-FLOP *** 
+Jonathan6801 folds
+_SKR raises 260 to 280 and is all-in
+Rico2227 calls 260 and is all-in
+*** FLOP *** [Qc Tc Ts]
+*** TURN *** [Qc Tc Ts][7c]
+*** RIVER *** [Qc Tc Ts 7c][Jd]
+*** SHOW DOWN ***
+_SKR shows [6s Ks] (One pair : Tens)
+Rico2227 shows [Th Qd] (Full of Tens and Queens)
+Rico2227 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Qc Tc Ts 7c Jd]
+Seat 1: _SKR (small blind) showed [6s Ks] and lost with One pair : Tens
+Seat 2: Rico2227 (big blind) showed [Th Qd] and won 560 with Full of Tens and Queens
+
+

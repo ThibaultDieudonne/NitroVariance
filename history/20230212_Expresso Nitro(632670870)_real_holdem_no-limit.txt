@@ -1,0 +1,82 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717300695781867521-1-1676216469 - Holdem no limit (10/20) - 2023/02/12 15:41:09 UTC
+Table: 'Expresso Nitro(632670870)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: mckrist4l (300)
+Seat 3: melijomia (300)
+*** ANTE/BLINDS ***
+melijomia posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 4c]
+*** PRE-FLOP *** 
+mckrist4l calls 20
+melijomia folds
+_SKR checks
+*** FLOP *** [Jd Kh 9s]
+_SKR checks
+mckrist4l checks
+*** TURN *** [Jd Kh 9s][6h]
+_SKR checks
+mckrist4l bets 50
+_SKR folds
+mckrist4l collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Jd Kh 9s 6h]
+Seat 2: mckrist4l (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717300695781867521-2-1676216515 - Holdem no limit (10/20) - 2023/02/12 15:41:55 UTC
+Table: 'Expresso Nitro(632670870)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: mckrist4l (330)
+Seat 3: melijomia (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+mckrist4l posts big blind 20
+Dealt to _SKR [6s 8s]
+*** PRE-FLOP *** 
+melijomia raises 20 to 40
+_SKR folds
+mckrist4l raises 80 to 120
+melijomia raises 170 to 290 and is all-in
+mckrist4l raises 40 to 330 and is all-in
+*** FLOP *** [4d 7s Th]
+*** TURN *** [4d 7s Th][9d]
+*** RIVER *** [4d 7s Th 9d][8h]
+*** SHOW DOWN ***
+melijomia shows [Ac Qh] (High card : Ace)
+mckrist4l shows [8d 5d] (One pair : 8)
+mckrist4l collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [4d 7s Th 9d 8h]
+Seat 2: mckrist4l (big blind) showed [8d 5d] and won 630 with One pair : 8
+Seat 3: melijomia (button) showed [Ac Qh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717300695781867521-3-1676216540 - Holdem no limit (15/30) - 2023/02/12 15:42:20 UTC
+Table: 'Expresso Nitro(632670870)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: mckrist4l (630)
+*** ANTE/BLINDS ***
+mckrist4l posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9h 8c]
+*** PRE-FLOP *** 
+mckrist4l calls 15
+_SKR raises 240 to 270 and is all-in
+mckrist4l calls 240
+*** FLOP *** [2s Jd 3c]
+*** TURN *** [2s Jd 3c][Qs]
+*** RIVER *** [2s Jd 3c Qs][Kh]
+*** SHOW DOWN ***
+_SKR shows [9h 8c] (High card : King)
+mckrist4l shows [As Js] (One pair : Jacks)
+mckrist4l collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [2s Jd 3c Qs Kh]
+Seat 1: _SKR (big blind) showed [9h 8c] and lost with High card : King
+Seat 2: mckrist4l (small blind) (button) showed [As Js] and won 540 with One pair : Jacks
+
+

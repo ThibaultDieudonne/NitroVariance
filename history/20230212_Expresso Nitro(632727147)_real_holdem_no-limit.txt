@@ -1,0 +1,245 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717542403656384513-1-1676226310 - Holdem no limit (10/20) - 2023/02/12 18:25:10 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: projet X17 (300)
+Seat 3: Cooco76700 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+projet X17 posts big blind 20
+Dealt to _SKR [3c Jd]
+*** PRE-FLOP *** 
+Cooco76700 folds
+_SKR folds
+projet X17 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: projet X17 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717542403656384513-2-1676226329 - Holdem no limit (10/20) - 2023/02/12 18:25:29 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: projet X17 (310)
+Seat 3: Cooco76700 (300)
+*** ANTE/BLINDS ***
+projet X17 posts small blind 10
+Cooco76700 posts big blind 20
+Dealt to _SKR [Td 5h]
+*** PRE-FLOP *** 
+_SKR folds
+projet X17 calls 10
+Cooco76700 checks
+*** FLOP *** [Ts 6c 3d]
+projet X17 checks
+Cooco76700 checks
+*** TURN *** [Ts 6c 3d][7c]
+projet X17 checks
+Cooco76700 bets 40
+projet X17 calls 40
+*** RIVER *** [Ts 6c 3d 7c][Qs]
+projet X17 checks
+Cooco76700 checks
+*** SHOW DOWN ***
+projet X17 shows [9s 4d] (High card : Queen)
+Cooco76700 shows [2h 6h] (One pair : 6)
+Cooco76700 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ts 6c 3d 7c Qs]
+Seat 2: projet X17 (small blind) showed [9s 4d] and lost with High card : Queen
+Seat 3: Cooco76700 (big blind) showed [2h 6h] and won 120 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717542403656384513-3-1676226371 - Holdem no limit (15/30) - 2023/02/12 18:26:11 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: projet X17 (250)
+Seat 3: Cooco76700 (360)
+*** ANTE/BLINDS ***
+Cooco76700 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8h Ah]
+*** PRE-FLOP *** 
+projet X17 calls 30
+Cooco76700 calls 15
+_SKR raises 260 to 290 and is all-in
+projet X17 folds
+Cooco76700 folds
+_SKR collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: _SKR (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717542403656384513-4-1676226402 - Holdem no limit (15/30) - 2023/02/12 18:26:42 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (350)
+Seat 2: projet X17 (220)
+Seat 3: Cooco76700 (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+projet X17 posts big blind 30
+Dealt to _SKR [Kd 4s]
+*** PRE-FLOP *** 
+Cooco76700 calls 30
+_SKR folds
+projet X17 checks
+*** FLOP *** [Kc 4h Ts]
+projet X17 checks
+Cooco76700 bets 30
+projet X17 calls 30
+*** TURN *** [Kc 4h Ts][Qs]
+projet X17 checks
+Cooco76700 bets 30
+projet X17 raises 130 to 160 and is all-in
+Cooco76700 calls 130
+*** RIVER *** [Kc 4h Ts Qs][Jc]
+*** SHOW DOWN ***
+Cooco76700 shows [3c Ks] (One pair : Kings)
+projet X17 shows [9d Jd] (Straight King high)
+projet X17 collected 455 from pot
+*** SUMMARY ***
+Total pot 455 | No rake
+Board: [Kc 4h Ts Qs Jc]
+Seat 2: projet X17 (big blind) showed [9d Jd] and won 455 with Straight King high
+Seat 3: Cooco76700 (button) showed [3c Ks] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717542403656384513-5-1676226430 - Holdem no limit (20/40) - 2023/02/12 18:27:10 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (335)
+Seat 2: projet X17 (455)
+Seat 3: Cooco76700 (110)
+*** ANTE/BLINDS ***
+projet X17 posts small blind 20
+Cooco76700 posts big blind 40
+Dealt to _SKR [Kh Kd]
+*** PRE-FLOP *** 
+_SKR raises 40 to 80
+projet X17 folds
+Cooco76700 raises 30 to 110 and is all-in
+_SKR calls 30
+*** FLOP *** [Jh 9c Ah]
+*** TURN *** [Jh 9c Ah][Qh]
+*** RIVER *** [Jh 9c Ah Qh][4d]
+*** SHOW DOWN ***
+Cooco76700 shows [5d Ks] (High card : Ace)
+_SKR shows [Kh Kd] (One pair : Kings)
+_SKR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jh 9c Ah Qh 4d]
+Seat 1: _SKR (button) showed [Kh Kd] and won 240 with One pair : Kings
+Seat 3: Cooco76700 (big blind) showed [5d Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717542403656384513-6-1676226452 - Holdem no limit (20/40) - 2023/02/12 18:27:32 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (465)
+Seat 2: projet X17 (435)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+projet X17 posts big blind 40
+Dealt to _SKR [4c 2s]
+*** PRE-FLOP *** 
+_SKR folds
+projet X17 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: projet X17 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717542403656384513-7-1676226457 - Holdem no limit (20/40) - 2023/02/12 18:27:37 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (445)
+Seat 2: projet X17 (455)
+*** ANTE/BLINDS ***
+projet X17 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Qc Kc]
+*** PRE-FLOP *** 
+projet X17 calls 20
+_SKR raises 405 to 445 and is all-in
+projet X17 folds
+_SKR collected 485 from pot
+*** SUMMARY ***
+Total pot 485 | No rake
+Seat 1: _SKR (big blind) won 485
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717542403656384513-8-1676226473 - Holdem no limit (20/40) - 2023/02/12 18:27:53 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (485)
+Seat 2: projet X17 (415)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+projet X17 posts big blind 40
+Dealt to _SKR [Td Ad]
+*** PRE-FLOP *** 
+_SKR raises 445 to 485 and is all-in
+projet X17 folds
+_SKR collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Seat 1: _SKR (small blind) (button) won 525
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717542403656384513-9-1676226479 - Holdem no limit (20/40) - 2023/02/12 18:27:59 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (525)
+Seat 2: projet X17 (375)
+*** ANTE/BLINDS ***
+projet X17 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [8s 7d]
+*** PRE-FLOP *** 
+projet X17 raises 335 to 375 and is all-in
+_SKR folds
+projet X17 collected 415 from pot
+*** SUMMARY ***
+Total pot 415 | No rake
+Seat 2: projet X17 (small blind) (button) won 415
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717542403656384513-10-1676226485 - Holdem no limit (20/40) - 2023/02/12 18:28:05 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (485)
+Seat 2: projet X17 (415)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+projet X17 posts big blind 40
+Dealt to _SKR [2s Jh]
+*** PRE-FLOP *** 
+_SKR folds
+projet X17 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: projet X17 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717542403656384513-11-1676226491 - Holdem no limit (30/60) - 2023/02/12 18:28:11 UTC
+Table: 'Expresso Nitro(632727147)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (465)
+Seat 2: projet X17 (435)
+*** ANTE/BLINDS ***
+projet X17 posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3c Kc]
+*** PRE-FLOP *** 
+projet X17 calls 30
+_SKR raises 405 to 465 and is all-in
+projet X17 calls 375 and is all-in
+*** FLOP *** [5c Ks 8c]
+*** TURN *** [5c Ks 8c][2c]
+*** RIVER *** [5c Ks 8c 2c][2d]
+*** SHOW DOWN ***
+projet X17 shows [8h Jd] (Two pairs : 8 and 2)
+_SKR shows [3c Kc] (Flush King high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c Ks 8c 2c 2d]
+Seat 1: _SKR (big blind) showed [3c Kc] and won 900 with Flush King high
+Seat 2: projet X17 (small blind) (button) showed [8h Jd] and lost with Two pairs : 8 and 2
+
+

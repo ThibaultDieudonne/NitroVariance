@@ -1,0 +1,105 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729163567252111361-1-1676903823 - Holdem no limit (10/20) - 2023/02/20 14:37:03 UTC
+Table: 'Expresso Nitro(635432910)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ClimAsRiver (300)
+Seat 2: _SKR (300)
+Seat 3: Me classico (300)
+*** ANTE/BLINDS ***
+ClimAsRiver posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2s 7d]
+*** PRE-FLOP *** 
+Me classico raises 280 to 300 and is all-in
+ClimAsRiver folds
+_SKR folds
+Me classico collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Me classico (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729163567252111361-2-1676903830 - Holdem no limit (10/20) - 2023/02/20 14:37:10 UTC
+Table: 'Expresso Nitro(635432910)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ClimAsRiver (290)
+Seat 2: _SKR (280)
+Seat 3: Me classico (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Me classico posts big blind 20
+Dealt to _SKR [2h Ts]
+*** PRE-FLOP *** 
+ClimAsRiver folds
+_SKR folds
+Me classico collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Me classico (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729163567252111361-3-1676903837 - Holdem no limit (10/20) - 2023/02/20 14:37:17 UTC
+Table: 'Expresso Nitro(635432910)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ClimAsRiver (290)
+Seat 2: _SKR (270)
+Seat 3: Me classico (340)
+*** ANTE/BLINDS ***
+Me classico posts small blind 10
+ClimAsRiver posts big blind 20
+Dealt to _SKR [Qh Jd]
+*** PRE-FLOP *** 
+_SKR folds
+Me classico raises 320 to 340 and is all-in
+ClimAsRiver calls 270 and is all-in
+*** FLOP *** [Qd 3c 4h]
+*** TURN *** [Qd 3c 4h][7s]
+*** RIVER *** [Qd 3c 4h 7s][8d]
+*** SHOW DOWN ***
+ClimAsRiver shows [6d Ks] (High card : King)
+Me classico shows [6h 6c] (One pair : 6)
+Me classico collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qd 3c 4h 7s 8d]
+Seat 1: ClimAsRiver (big blind) showed [6d Ks] and lost with High card : King
+Seat 3: Me classico (small blind) showed [6h 6c] and won 630 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729163567252111361-4-1676903853 - Holdem no limit (10/20) - 2023/02/20 14:37:33 UTC
+Table: 'Expresso Nitro(635432910)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _SKR (270)
+Seat 3: Me classico (630)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Me classico posts big blind 20
+Dealt to _SKR [7s 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Me classico collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Me classico (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729163567252111361-5-1676903864 - Holdem no limit (10/20) - 2023/02/20 14:37:44 UTC
+Table: 'Expresso Nitro(635432910)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (260)
+Seat 3: Me classico (640)
+*** ANTE/BLINDS ***
+Me classico posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8d Kc]
+*** PRE-FLOP *** 
+Me classico raises 620 to 640 and is all-in
+_SKR calls 240 and is all-in
+*** FLOP *** [5c 4d Qs]
+*** TURN *** [5c 4d Qs][Jh]
+*** RIVER *** [5c 4d Qs Jh][7d]
+*** SHOW DOWN ***
+_SKR shows [8d Kc] (High card : King)
+Me classico shows [Jc Tc] (One pair : Jacks)
+Me classico collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c 4d Qs Jh 7d]
+Seat 2: _SKR (big blind) showed [8d Kc] and lost with High card : King
+Seat 3: Me classico (small blind) (button) showed [Jc Tc] and won 900 with One pair : Jacks
+
+

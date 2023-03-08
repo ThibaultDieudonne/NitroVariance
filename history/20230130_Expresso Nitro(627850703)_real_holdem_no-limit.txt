@@ -1,0 +1,27 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696598236155609089-1-1675089115 - Holdem no limit (10/20) - 2023/01/30 14:31:55 UTC
+Table: 'Expresso Nitro(627850703)#0' 3-max (real money) Seat #2 is the button
+Seat 1: GREEN CRACK (300)
+Seat 2: CastoDrama75 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+GREEN CRACK posts big blind 20
+Dealt to _SKR [Ah 7d]
+*** PRE-FLOP *** 
+CastoDrama75 folds
+_SKR raises 280 to 300 and is all-in
+GREEN CRACK calls 280 and is all-in
+*** FLOP *** [Ks 5c 9c]
+*** TURN *** [Ks 5c 9c][Qd]
+*** RIVER *** [Ks 5c 9c Qd][Qc]
+*** SHOW DOWN ***
+_SKR shows [Ah 7d] (One pair : Queens)
+GREEN CRACK shows [3h 5h] (Two pairs : Queens and 5)
+GREEN CRACK collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ks 5c 9c Qd Qc]
+Seat 1: GREEN CRACK (big blind) showed [3h 5h] and won 600 with Two pairs : Queens and 5
+Seat 3: _SKR (small blind) showed [Ah 7d] and lost with One pair : Queens
+
+

@@ -1,0 +1,252 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696607474630262785-1-1675089598 - Holdem no limit (10/20) - 2023/01/30 14:39:58 UTC
+Table: 'Expresso Nitro(627852854)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Mat.dph08 (300)
+Seat 3: lemulceo (300)
+*** ANTE/BLINDS ***
+Mat.dph08 posts small blind 10
+lemulceo posts big blind 20
+Dealt to _SKR [7d 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Mat.dph08 raises 280 to 300 and is all-in
+lemulceo folds
+Mat.dph08 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Mat.dph08 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696607474630262785-2-1675089607 - Holdem no limit (10/20) - 2023/01/30 14:40:07 UTC
+Table: 'Expresso Nitro(627852854)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Mat.dph08 (320)
+Seat 3: lemulceo (280)
+*** ANTE/BLINDS ***
+lemulceo posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2h 8h]
+*** PRE-FLOP *** 
+Mat.dph08 folds
+lemulceo calls 10
+_SKR checks
+*** FLOP *** [Td 6h 2s]
+lemulceo checks
+_SKR checks
+*** TURN *** [Td 6h 2s][8d]
+lemulceo checks
+_SKR checks
+*** RIVER *** [Td 6h 2s 8d][Ts]
+lemulceo checks
+_SKR checks
+*** SHOW DOWN ***
+lemulceo shows [Jc 7h] (One pair : Tens)
+_SKR shows [2h 8h] (Two pairs : Tens and 8)
+_SKR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Td 6h 2s 8d Ts]
+Seat 1: _SKR (big blind) showed [2h 8h] and won 40 with Two pairs : Tens and 8
+Seat 3: lemulceo (small blind) showed [Jc 7h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696607474630262785-3-1675089627 - Holdem no limit (10/20) - 2023/01/30 14:40:27 UTC
+Table: 'Expresso Nitro(627852854)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: Mat.dph08 (320)
+Seat 3: lemulceo (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Mat.dph08 posts big blind 20
+Dealt to _SKR [9s 6c]
+*** PRE-FLOP *** 
+lemulceo calls 20
+_SKR folds
+Mat.dph08 checks
+*** FLOP *** [8d 5c 7s]
+Mat.dph08 bets 50
+lemulceo calls 50
+*** TURN *** [8d 5c 7s][Th]
+Mat.dph08 bets 53
+lemulceo calls 53
+*** RIVER *** [8d 5c 7s Th][Js]
+Mat.dph08 bets 90
+lemulceo calls 90
+*** SHOW DOWN ***
+lemulceo shows [4h Ah] (High card : Ace)
+Mat.dph08 shows [8c 3c] (One pair : 8)
+Mat.dph08 collected 436 from pot
+*** SUMMARY ***
+Total pot 436 | No rake
+Board: [8d 5c 7s Th Js]
+Seat 2: Mat.dph08 (big blind) showed [8c 3c] and won 436 with One pair : 8
+Seat 3: lemulceo (button) showed [4h Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696607474630262785-4-1675089650 - Holdem no limit (10/20) - 2023/01/30 14:40:50 UTC
+Table: 'Expresso Nitro(627852854)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (310)
+Seat 2: Mat.dph08 (543)
+Seat 3: lemulceo (47)
+*** ANTE/BLINDS ***
+Mat.dph08 posts small blind 10
+lemulceo posts big blind 20
+Dealt to _SKR [7d 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Mat.dph08 folds
+lemulceo collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: lemulceo (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696607474630262785-5-1675089654 - Holdem no limit (15/30) - 2023/01/30 14:40:54 UTC
+Table: 'Expresso Nitro(627852854)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (310)
+Seat 2: Mat.dph08 (533)
+Seat 3: lemulceo (57)
+*** ANTE/BLINDS ***
+lemulceo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c 2s]
+*** PRE-FLOP *** 
+Mat.dph08 folds
+lemulceo raises 27 to 57 and is all-in
+_SKR calls 27
+*** FLOP *** [9c Jc 4s]
+*** TURN *** [9c Jc 4s][Th]
+*** RIVER *** [9c Jc 4s Th][Ad]
+*** SHOW DOWN ***
+_SKR shows [4c 2s] (One pair : 4)
+lemulceo shows [Tc Jd] (Two pairs : Jacks and Tens)
+lemulceo collected 114 from pot
+*** SUMMARY ***
+Total pot 114 | No rake
+Board: [9c Jc 4s Th Ad]
+Seat 1: _SKR (big blind) showed [4c 2s] and lost with One pair : 4
+Seat 3: lemulceo (small blind) showed [Tc Jd] and won 114 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696607474630262785-6-1675089671 - Holdem no limit (15/30) - 2023/01/30 14:41:11 UTC
+Table: 'Expresso Nitro(627852854)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (253)
+Seat 2: Mat.dph08 (533)
+Seat 3: lemulceo (114)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Mat.dph08 posts big blind 30
+Dealt to _SKR [Qh 9s]
+*** PRE-FLOP *** 
+lemulceo folds
+_SKR raises 223 to 253 and is all-in
+Mat.dph08 folds
+_SKR collected 283 from pot
+*** SUMMARY ***
+Total pot 283 | No rake
+Seat 1: _SKR (small blind) won 283
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696607474630262785-7-1675089678 - Holdem no limit (15/30) - 2023/01/30 14:41:18 UTC
+Table: 'Expresso Nitro(627852854)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (283)
+Seat 2: Mat.dph08 (503)
+Seat 3: lemulceo (114)
+*** ANTE/BLINDS ***
+Mat.dph08 posts small blind 15
+lemulceo posts big blind 30
+Dealt to _SKR [Kc 2s]
+*** PRE-FLOP *** 
+_SKR folds
+Mat.dph08 folds
+lemulceo collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: lemulceo (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696607474630262785-8-1675089686 - Holdem no limit (15/30) - 2023/01/30 14:41:26 UTC
+Table: 'Expresso Nitro(627852854)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (283)
+Seat 2: Mat.dph08 (488)
+Seat 3: lemulceo (129)
+*** ANTE/BLINDS ***
+lemulceo posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2c Qs]
+*** PRE-FLOP *** 
+Mat.dph08 folds
+lemulceo calls 15
+_SKR checks
+*** FLOP *** [Ks As 6s]
+lemulceo checks
+_SKR bets 39
+lemulceo calls 39
+*** TURN *** [Ks As 6s][Kc]
+lemulceo checks
+_SKR checks
+*** RIVER *** [Ks As 6s Kc][7s]
+lemulceo checks
+_SKR bets 90
+lemulceo calls 60 and is all-in
+*** SHOW DOWN ***
+lemulceo shows [Js Td] (Flush Ace high)
+_SKR shows [2c Qs] (Flush Ace high)
+_SKR collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | No rake
+Board: [Ks As 6s Kc 7s]
+Seat 1: _SKR (big blind) showed [2c Qs] and won 288 with Flush Ace high
+Seat 3: lemulceo (small blind) showed [Js Td] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696607474630262785-9-1675089728 - Holdem no limit (20/40) - 2023/01/30 14:42:08 UTC
+Table: 'Expresso Nitro(627852854)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (412)
+Seat 2: Mat.dph08 (488)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Mat.dph08 posts big blind 40
+Dealt to _SKR [Js Jc]
+*** PRE-FLOP *** 
+_SKR raises 372 to 412 and is all-in
+Mat.dph08 calls 372
+*** FLOP *** [4s Th 5c]
+*** TURN *** [4s Th 5c][2h]
+*** RIVER *** [4s Th 5c 2h][4d]
+*** SHOW DOWN ***
+Mat.dph08 shows [Ah Ts] (Two pairs : Tens and 4)
+_SKR shows [Js Jc] (Two pairs : Jacks and 4)
+_SKR collected 824 from pot
+*** SUMMARY ***
+Total pot 824 | No rake
+Board: [4s Th 5c 2h 4d]
+Seat 1: _SKR (small blind) (button) showed [Js Jc] and won 824 with Two pairs : Jacks and 4
+Seat 2: Mat.dph08 (big blind) showed [Ah Ts] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696607474630262785-10-1675089741 - Holdem no limit (20/40) - 2023/01/30 14:42:21 UTC
+Table: 'Expresso Nitro(627852854)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (824)
+Seat 2: Mat.dph08 (76)
+*** ANTE/BLINDS ***
+Mat.dph08 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [3h 3d]
+*** PRE-FLOP *** 
+Mat.dph08 raises 36 to 76 and is all-in
+_SKR calls 36
+*** FLOP *** [Ad Kd 9s]
+*** TURN *** [Ad Kd 9s][Td]
+*** RIVER *** [Ad Kd 9s Td][Ks]
+*** SHOW DOWN ***
+Mat.dph08 shows [6d 2s] (One pair : Kings)
+_SKR shows [3h 3d] (Two pairs : Kings and 3)
+_SKR collected 152 from pot
+*** SUMMARY ***
+Total pot 152 | No rake
+Board: [Ad Kd 9s Td Ks]
+Seat 1: _SKR (big blind) showed [3h 3d] and won 152 with Two pairs : Kings and 3
+Seat 2: Mat.dph08 (small blind) (button) showed [6d 2s] and lost with One pair : Kings
+
+

@@ -1,0 +1,66 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696875390395219969-1-1675101576 - Holdem no limit (10/20) - 2023/01/30 17:59:36 UTC
+Table: 'Expresso Nitro(627915233)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Lisandru 20 (300)
+Seat 3: ko debout08 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Lisandru 20 posts big blind 20
+Dealt to _SKR [Th 8c]
+*** PRE-FLOP *** 
+ko debout08 folds
+_SKR folds
+Lisandru 20 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Lisandru 20 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696875390395219969-2-1675101582 - Holdem no limit (10/20) - 2023/01/30 17:59:42 UTC
+Table: 'Expresso Nitro(627915233)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Lisandru 20 (310)
+Seat 3: ko debout08 (300)
+*** ANTE/BLINDS ***
+Lisandru 20 posts small blind 10
+ko debout08 posts big blind 20
+Dealt to _SKR [7s 2d]
+*** PRE-FLOP *** 
+_SKR folds
+Lisandru 20 calls 10
+ko debout08 raises 280 to 300 and is all-in
+Lisandru 20 folds
+ko debout08 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: ko debout08 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696875390395219969-3-1675101603 - Holdem no limit (10/20) - 2023/01/30 18:00:03 UTC
+Table: 'Expresso Nitro(627915233)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Lisandru 20 (290)
+Seat 3: ko debout08 (320)
+*** ANTE/BLINDS ***
+ko debout08 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Jd As]
+*** PRE-FLOP *** 
+Lisandru 20 calls 20
+ko debout08 raises 300 to 320 and is all-in
+_SKR calls 270 and is all-in
+Lisandru 20 folds
+*** FLOP *** [2h 3h Kd]
+*** TURN *** [2h 3h Kd][Qs]
+*** RIVER *** [2h 3h Kd Qs][5c]
+*** SHOW DOWN ***
+_SKR shows [Jd As] (High card : Ace)
+ko debout08 shows [5d Ah] (One pair : 5)
+ko debout08 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [2h 3h Kd Qs 5c]
+Seat 1: _SKR (big blind) showed [Jd As] and lost with High card : Ace
+Seat 3: ko debout08 (small blind) showed [5d Ah] and won 630 with One pair : 5
+
+

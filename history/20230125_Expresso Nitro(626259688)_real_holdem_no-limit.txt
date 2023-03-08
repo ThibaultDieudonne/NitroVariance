@@ -1,0 +1,158 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689764878763163649-1-1674650476 - Holdem no limit (10/20) - 2023/01/25 12:41:16 UTC
+Table: 'Expresso Nitro(626259688)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: Ikrimoz (300)
+Seat 3: Shebbak (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Ikrimoz posts big blind 20
+Dealt to _SKR [3h 8d]
+*** PRE-FLOP *** 
+Shebbak calls 20
+_SKR folds
+Ikrimoz raises 40 to 60
+Shebbak folds
+Ikrimoz collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Ikrimoz (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689764878763163649-2-1674650493 - Holdem no limit (10/20) - 2023/01/25 12:41:33 UTC
+Table: 'Expresso Nitro(626259688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: Ikrimoz (330)
+Seat 3: Shebbak (280)
+*** ANTE/BLINDS ***
+Ikrimoz posts small blind 10
+Shebbak posts big blind 20
+Dealt to _SKR [Jd 6c]
+*** PRE-FLOP *** 
+_SKR folds
+Ikrimoz calls 10
+Shebbak checks
+*** FLOP *** [Qc 2c As]
+Ikrimoz checks
+Shebbak checks
+*** TURN *** [Qc 2c As][Ts]
+Ikrimoz checks
+Shebbak bets 20
+Ikrimoz calls 20
+*** RIVER *** [Qc 2c As Ts][Ac]
+Ikrimoz checks
+Shebbak checks
+*** SHOW DOWN ***
+Ikrimoz shows [Kd 9d] (One pair : Aces)
+Shebbak shows [Ks 9s] (One pair : Aces)
+Shebbak collected 40 from pot
+Ikrimoz collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qc 2c As Ts Ac]
+Seat 2: Ikrimoz (small blind) showed [Kd 9d] and won 40 with One pair : Aces
+Seat 3: Shebbak (big blind) showed [Ks 9s] and won 40 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689764878763163649-3-1674650538 - Holdem no limit (15/30) - 2023/01/25 12:42:18 UTC
+Table: 'Expresso Nitro(626259688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: Ikrimoz (330)
+Seat 3: Shebbak (280)
+*** ANTE/BLINDS ***
+Shebbak posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc 9s]
+*** PRE-FLOP *** 
+Ikrimoz folds
+Shebbak calls 15
+_SKR checks
+*** FLOP *** [Ad 7c 8d]
+Shebbak checks
+_SKR checks
+*** TURN *** [Ad 7c 8d][Ks]
+Shebbak checks
+_SKR bets 30
+Shebbak folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ad 7c 8d Ks]
+Seat 1: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689764878763163649-4-1674650578 - Holdem no limit (15/30) - 2023/01/25 12:42:58 UTC
+Table: 'Expresso Nitro(626259688)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (320)
+Seat 2: Ikrimoz (330)
+Seat 3: Shebbak (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Ikrimoz posts big blind 30
+Dealt to _SKR [9d 5s]
+*** PRE-FLOP *** 
+Shebbak raises 220 to 250 and is all-in
+_SKR folds
+Ikrimoz folds
+Shebbak collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Seat 3: Shebbak (button) won 295
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689764878763163649-5-1674650593 - Holdem no limit (20/40) - 2023/01/25 12:43:13 UTC
+Table: 'Expresso Nitro(626259688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (305)
+Seat 2: Ikrimoz (300)
+Seat 3: Shebbak (295)
+*** ANTE/BLINDS ***
+Ikrimoz posts small blind 20
+Shebbak posts big blind 40
+Dealt to _SKR [7c Ks]
+*** PRE-FLOP *** 
+_SKR raises 265 to 305 and is all-in
+Ikrimoz calls 280 and is all-in
+Shebbak folds
+*** FLOP *** [5c Qh Jd]
+*** TURN *** [5c Qh Jd][5s]
+*** RIVER *** [5c Qh Jd 5s][2h]
+*** SHOW DOWN ***
+_SKR shows [7c Ks] (One pair : 5)
+Ikrimoz shows [7s As] (One pair : 5)
+Ikrimoz collected 640 from main pot
+_SKR collected 5 from side pot 1
+*** SUMMARY ***
+Total pot 645 | No rake
+Board: [5c Qh Jd 5s 2h]
+Seat 1: _SKR (button) showed [7c Ks] and won 5 with One pair : 5
+Seat 2: Ikrimoz (small blind) showed [7s As] and won 640 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689764878763163649-6-1674650615 - Holdem no limit (20/40) - 2023/01/25 12:43:35 UTC
+Table: 'Expresso Nitro(626259688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (5)
+Seat 2: Ikrimoz (640)
+Seat 3: Shebbak (255)
+*** ANTE/BLINDS ***
+Shebbak posts small blind 20
+_SKR posts big blind 5 and is all-in
+Dealt to _SKR [4s 4c]
+*** PRE-FLOP *** 
+Ikrimoz raises 60 to 80
+Shebbak raises 175 to 255 and is all-in
+Ikrimoz calls 175
+*** FLOP *** [2d Kc 5c]
+*** TURN *** [2d Kc 5c][6h]
+*** RIVER *** [2d Kc 5c 6h][9c]
+*** SHOW DOWN ***
+_SKR shows [4s 4c] (One pair : 4)
+Shebbak shows [Ah 6c] (One pair : 6)
+Ikrimoz shows [Kh 7d] (One pair : Kings)
+Ikrimoz collected 515 from pot
+*** SUMMARY ***
+Total pot 515 | No rake
+Board: [2d Kc 5c 6h 9c]
+Seat 1: _SKR (big blind) showed [4s 4c] and lost with One pair : 4
+Seat 2: Ikrimoz (button) showed [Kh 7d] and won 515 with One pair : Kings
+Seat 3: Shebbak (small blind) showed [Ah 6c] and lost with One pair : 6
+
+

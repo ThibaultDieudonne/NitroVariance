@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696500521354657793-1-1675083574 - Holdem no limit (10/20) - 2023/01/30 12:59:34 UTC
+Table: 'Expresso Nitro(627827952)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nina1721 (300)
+Seat 2: _SKR (300)
+Seat 3: Jeremyamp (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Jeremyamp posts big blind 20
+Dealt to _SKR [Ks 8c]
+*** PRE-FLOP *** 
+Nina1721 raises 280 to 300 and is all-in
+_SKR folds
+Jeremyamp calls 280 and is all-in
+*** FLOP *** [2d 7d 6c]
+*** TURN *** [2d 7d 6c][8d]
+*** RIVER *** [2d 7d 6c 8d][Kh]
+*** SHOW DOWN ***
+Nina1721 shows [Ah Jc] (High card : Ace)
+Jeremyamp shows [9s Kd] (One pair : Kings)
+Jeremyamp collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [2d 7d 6c 8d Kh]
+Seat 1: Nina1721 (button) showed [Ah Jc] and lost with High card : Ace
+Seat 3: Jeremyamp (big blind) showed [9s Kd] and won 610 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696500521354657793-2-1675083597 - Holdem no limit (10/20) - 2023/01/30 12:59:57 UTC
+Table: 'Expresso Nitro(627827952)#0' 3-max (real money) Seat #3 is the button
+Seat 2: _SKR (290)
+Seat 3: Jeremyamp (610)
+*** ANTE/BLINDS ***
+Jeremyamp posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ks Qh]
+*** PRE-FLOP *** 
+Jeremyamp raises 20 to 40
+_SKR raises 250 to 290 and is all-in
+Jeremyamp calls 250
+*** FLOP *** [4h Js 7s]
+*** TURN *** [4h Js 7s][Ac]
+*** RIVER *** [4h Js 7s Ac][Ah]
+*** SHOW DOWN ***
+_SKR shows [Ks Qh] (One pair : Aces)
+Jeremyamp shows [Ts Jc] (Two pairs : Aces and Jacks)
+Jeremyamp collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [4h Js 7s Ac Ah]
+Seat 2: _SKR (big blind) showed [Ks Qh] and lost with One pair : Aces
+Seat 3: Jeremyamp (small blind) (button) showed [Ts Jc] and won 580 with Two pairs : Aces and Jacks
+
+

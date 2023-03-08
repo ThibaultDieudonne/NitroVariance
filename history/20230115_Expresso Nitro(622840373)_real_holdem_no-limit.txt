@@ -1,0 +1,172 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675079032663441409-1-1673743181 - Holdem no limit (10/20) - 2023/01/15 00:39:41 UTC
+Table: 'Expresso Nitro(622840373)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gosmon (300)
+Seat 2: _SKR (300)
+Seat 3: Samurvk (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Samurvk posts big blind 20
+Dealt to _SKR [Jd 7s]
+*** PRE-FLOP *** 
+Gosmon calls 20
+_SKR folds
+Samurvk checks
+*** FLOP *** [Tc Jc 8c]
+Samurvk checks
+Gosmon checks
+*** TURN *** [Tc Jc 8c][Qc]
+Samurvk checks
+Gosmon checks
+*** RIVER *** [Tc Jc 8c Qc][As]
+Samurvk checks
+Gosmon checks
+*** SHOW DOWN ***
+Samurvk shows [6s 3c] (Flush Queen high)
+Gosmon shows [5c 9s] (Flush Queen high)
+Gosmon collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Tc Jc 8c Qc As]
+Seat 1: Gosmon (button) showed [5c 9s] and won 50 with Flush Queen high
+Seat 3: Samurvk (big blind) showed [6s 3c] and lost with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2675079032663441409-2-1673743211 - Holdem no limit (10/20) - 2023/01/15 00:40:11 UTC
+Table: 'Expresso Nitro(622840373)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gosmon (330)
+Seat 2: _SKR (290)
+Seat 3: Samurvk (280)
+*** ANTE/BLINDS ***
+Samurvk posts small blind 10
+Gosmon posts big blind 20
+Dealt to _SKR [Ks 9d]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Samurvk calls 30
+Gosmon calls 20
+*** FLOP *** [6s Qd Kd]
+Samurvk checks
+Gosmon checks
+_SKR bets 60
+Samurvk raises 60 to 120
+Gosmon folds
+_SKR raises 130 to 250 and is all-in
+Samurvk calls 120 and is all-in
+*** TURN *** [6s Qd Kd][Kc]
+*** RIVER *** [6s Qd Kd Kc][Qs]
+*** SHOW DOWN ***
+Samurvk shows [4d Qh] (Full of Queens and Kings)
+_SKR shows [Ks 9d] (Full of Kings and Queens)
+_SKR collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [6s Qd Kd Kc Qs]
+Seat 2: _SKR (button) showed [Ks 9d] and won 610 with Full of Kings and Queens
+Seat 3: Samurvk (small blind) showed [4d Qh] and lost with Full of Queens and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675079032663441409-3-1673743265 - Holdem no limit (15/30) - 2023/01/15 00:41:05 UTC
+Table: 'Expresso Nitro(622840373)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gosmon (290)
+Seat 2: _SKR (610)
+*** ANTE/BLINDS ***
+Gosmon posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [4c 7d]
+*** PRE-FLOP *** 
+Gosmon calls 15
+_SKR checks
+*** FLOP *** [2c 5c Ad]
+_SKR checks
+Gosmon checks
+*** TURN *** [2c 5c Ad][3h]
+_SKR checks
+Gosmon checks
+*** RIVER *** [2c 5c Ad 3h][2s]
+_SKR checks
+Gosmon checks
+*** SHOW DOWN ***
+Gosmon shows [Qc 8d] (One pair : 2)
+_SKR shows [4c 7d] (Straight 5 high)
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2c 5c Ad 3h 2s]
+Seat 1: Gosmon (small blind) (button) showed [Qc 8d] and lost with One pair : 2
+Seat 2: _SKR (big blind) showed [4c 7d] and won 60 with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2675079032663441409-4-1673743293 - Holdem no limit (15/30) - 2023/01/15 00:41:33 UTC
+Table: 'Expresso Nitro(622840373)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gosmon (260)
+Seat 2: _SKR (640)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Gosmon posts big blind 30
+Dealt to _SKR [5h Qc]
+*** PRE-FLOP *** 
+_SKR folds
+Gosmon collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Gosmon (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675079032663441409-5-1673743297 - Holdem no limit (20/40) - 2023/01/15 00:41:37 UTC
+Table: 'Expresso Nitro(622840373)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gosmon (275)
+Seat 2: _SKR (625)
+*** ANTE/BLINDS ***
+Gosmon posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Js Qc]
+*** PRE-FLOP *** 
+Gosmon folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675079032663441409-6-1673743300 - Holdem no limit (20/40) - 2023/01/15 00:41:40 UTC
+Table: 'Expresso Nitro(622840373)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gosmon (255)
+Seat 2: _SKR (645)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Gosmon posts big blind 40
+Dealt to _SKR [7s 8h]
+*** PRE-FLOP *** 
+_SKR folds
+Gosmon collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Gosmon (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2675079032663441409-7-1673743305 - Holdem no limit (20/40) - 2023/01/15 00:41:45 UTC
+Table: 'Expresso Nitro(622840373)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gosmon (275)
+Seat 2: _SKR (625)
+*** ANTE/BLINDS ***
+Gosmon posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd Jc]
+*** PRE-FLOP *** 
+Gosmon raises 40 to 80
+_SKR raises 545 to 625 and is all-in
+Gosmon calls 195 and is all-in
+*** FLOP *** [Ac 4d Td]
+*** TURN *** [Ac 4d Td][Th]
+*** RIVER *** [Ac 4d Td Th][7d]
+*** SHOW DOWN ***
+Gosmon shows [Jh Kd] (One pair : Tens)
+_SKR shows [Jd Jc] (Two pairs : Jacks and Tens)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 4d Td Th 7d]
+Seat 1: Gosmon (small blind) (button) showed [Jh Kd] and lost with One pair : Tens
+Seat 2: _SKR (big blind) showed [Jd Jc] and won 900 with Two pairs : Jacks and Tens
+
+

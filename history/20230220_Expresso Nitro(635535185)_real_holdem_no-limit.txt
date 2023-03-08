@@ -1,0 +1,68 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729602835032309761-1-1676921596 - Holdem no limit (10/20) - 2023/02/20 19:33:16 UTC
+Table: 'Expresso Nitro(635535185)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: mydlegui (300)
+Seat 3: Bouzi972 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+mydlegui posts big blind 20
+Dealt to _SKR [3s Td]
+*** PRE-FLOP *** 
+Bouzi972 calls 20
+_SKR folds
+mydlegui checks
+*** FLOP *** [Ac 5d 2d]
+mydlegui checks
+Bouzi972 bets 20
+mydlegui calls 20
+*** TURN *** [Ac 5d 2d][Ah]
+mydlegui checks
+Bouzi972 bets 20
+mydlegui calls 20
+*** RIVER *** [Ac 5d 2d Ah][8h]
+mydlegui checks
+Bouzi972 bets 20
+mydlegui calls 20
+*** SHOW DOWN ***
+mydlegui shows [9s 2h] (Two pairs : Aces and 2)
+Bouzi972 shows [2s Qs] (Two pairs : Aces and 2)
+Bouzi972 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [Ac 5d 2d Ah 8h]
+Seat 2: mydlegui (big blind) showed [9s 2h] and lost with Two pairs : Aces and 2
+Seat 3: Bouzi972 (button) showed [2s Qs] and won 170 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2729602835032309761-2-1676921617 - Holdem no limit (10/20) - 2023/02/20 19:33:37 UTC
+Table: 'Expresso Nitro(635535185)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: mydlegui (220)
+Seat 3: Bouzi972 (390)
+*** ANTE/BLINDS ***
+mydlegui posts small blind 10
+Bouzi972 posts big blind 20
+Dealt to _SKR [As Kh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+mydlegui calls 30
+Bouzi972 raises 120 to 160
+_SKR raises 130 to 290 and is all-in
+mydlegui calls 180 and is all-in
+Bouzi972 raises 100 to 390 and is all-in
+*** FLOP *** [Th 8d 4h]
+*** TURN *** [Th 8d 4h][Kc]
+*** RIVER *** [Th 8d 4h Kc][Qd]
+*** SHOW DOWN ***
+_SKR shows [As Kh] (One pair : Kings)
+mydlegui shows [Td Kd] (Two pairs : Kings and Tens)
+Bouzi972 shows [Ac Jc] (Straight Ace high)
+Bouzi972 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Th 8d 4h Kc Qd]
+Seat 1: _SKR (button) showed [As Kh] and lost with One pair : Kings
+Seat 2: mydlegui (small blind) showed [Td Kd] and lost with Two pairs : Kings and Tens
+Seat 3: Bouzi972 (big blind) showed [Ac Jc] and won 900 with Straight Ace high
+
+

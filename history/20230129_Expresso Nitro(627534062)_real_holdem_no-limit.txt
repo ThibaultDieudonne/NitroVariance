@@ -1,0 +1,103 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695238273416036353-1-1675001661 - Holdem no limit (10/20) - 2023/01/29 14:14:21 UTC
+Table: 'Expresso Nitro(627534062)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BruceRegliss (300)
+Seat 2: _SKR (300)
+Seat 3: Gm0507 (300)
+*** ANTE/BLINDS ***
+Gm0507 posts small blind 10
+BruceRegliss posts big blind 20
+Dealt to _SKR [Js Qh]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Gm0507 calls 30
+BruceRegliss calls 20
+*** FLOP *** [Qc Ac 4d]
+Gm0507 checks
+BruceRegliss bets 50
+_SKR folds
+Gm0507 folds
+BruceRegliss collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [Qc Ac 4d]
+Seat 1: BruceRegliss (big blind) won 170
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695238273416036353-2-1675001688 - Holdem no limit (10/20) - 2023/01/29 14:14:48 UTC
+Table: 'Expresso Nitro(627534062)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BruceRegliss (380)
+Seat 2: _SKR (260)
+Seat 3: Gm0507 (260)
+*** ANTE/BLINDS ***
+BruceRegliss posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Td Jd]
+*** PRE-FLOP *** 
+Gm0507 calls 20
+BruceRegliss raises 40 to 60
+_SKR folds
+Gm0507 calls 40
+*** FLOP *** [Jh 5s 6c]
+BruceRegliss checks
+Gm0507 bets 20
+BruceRegliss calls 20
+*** TURN *** [Jh 5s 6c][5d]
+BruceRegliss checks
+Gm0507 checks
+*** RIVER *** [Jh 5s 6c 5d][Jc]
+BruceRegliss checks
+Gm0507 bets 63
+BruceRegliss folds
+Gm0507 collected 243 from pot
+*** SUMMARY ***
+Total pot 243 | No rake
+Board: [Jh 5s 6c 5d Jc]
+Seat 3: Gm0507 (button) won 243
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695238273416036353-3-1675001733 - Holdem no limit (15/30) - 2023/01/29 14:15:33 UTC
+Table: 'Expresso Nitro(627534062)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BruceRegliss (300)
+Seat 2: _SKR (240)
+Seat 3: Gm0507 (360)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Gm0507 posts big blind 30
+Dealt to _SKR [Qc Kh]
+*** PRE-FLOP *** 
+BruceRegliss folds
+_SKR raises 210 to 240 and is all-in
+Gm0507 folds
+_SKR collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: _SKR (small blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695238273416036353-4-1675001745 - Holdem no limit (15/30) - 2023/01/29 14:15:45 UTC
+Table: 'Expresso Nitro(627534062)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BruceRegliss (300)
+Seat 2: _SKR (270)
+Seat 3: Gm0507 (330)
+*** ANTE/BLINDS ***
+Gm0507 posts small blind 15
+BruceRegliss posts big blind 30
+Dealt to _SKR [Qh Ks]
+*** PRE-FLOP *** 
+_SKR raises 240 to 270 and is all-in
+Gm0507 calls 255
+BruceRegliss folds
+*** FLOP *** [7h Tc 3d]
+*** TURN *** [7h Tc 3d][6s]
+*** RIVER *** [7h Tc 3d 6s][5s]
+*** SHOW DOWN ***
+_SKR shows [Qh Ks] (High card : King)
+Gm0507 shows [Jh As] (High card : Ace)
+Gm0507 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [7h Tc 3d 6s 5s]
+Seat 2: _SKR (button) showed [Qh Ks] and lost with High card : King
+Seat 3: Gm0507 (small blind) showed [Jh As] and won 570 with High card : Ace
+
+

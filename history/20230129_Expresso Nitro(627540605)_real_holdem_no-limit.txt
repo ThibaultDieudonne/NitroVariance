@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695266375387054081-1-1675003256 - Holdem no limit (10/20) - 2023/01/29 14:40:56 UTC
+Table: 'Expresso Nitro(627540605)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bx06 (300)
+Seat 2: Slivery27 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+bx06 posts big blind 20
+Dealt to _SKR [Jc 4h]
+*** PRE-FLOP *** 
+Slivery27 calls 20
+_SKR folds
+bx06 checks
+*** FLOP *** [8s Kd 7s]
+bx06 checks
+Slivery27 checks
+*** TURN *** [8s Kd 7s][Qd]
+bx06 checks
+Slivery27 bets 50
+bx06 folds
+Slivery27 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [8s Kd 7s Qd]
+Seat 2: Slivery27 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2695266375387054081-2-1675003286 - Holdem no limit (10/20) - 2023/01/29 14:41:26 UTC
+Table: 'Expresso Nitro(627540605)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bx06 (280)
+Seat 2: Slivery27 (330)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+bx06 posts small blind 10
+Slivery27 posts big blind 20
+Dealt to _SKR [Ad Jd]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+bx06 calls 30
+Slivery27 raises 290 to 330 and is all-in
+_SKR calls 250 and is all-in
+bx06 calls 240 and is all-in
+*** FLOP *** [Th Jc 2c]
+*** TURN *** [Th Jc 2c][7s]
+*** RIVER *** [Th Jc 2c 7s][3c]
+*** SHOW DOWN ***
+bx06 shows [Td 9s] (One pair : Tens)
+Slivery27 shows [8c 8h] (One pair : 8)
+_SKR shows [Ad Jd] (One pair : Jacks)
+_SKR collected 860 from main pot
+Slivery27 collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Th Jc 2c 7s 3c]
+Seat 1: bx06 (small blind) showed [Td 9s] and lost with One pair : Tens
+Seat 2: Slivery27 (big blind) showed [8c 8h] and won 40 with One pair : 8
+Seat 3: _SKR (button) showed [Ad Jd] and won 860 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695266375387054081-3-1675003325 - Holdem no limit (15/30) - 2023/01/29 14:42:05 UTC
+Table: 'Expresso Nitro(627540605)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Slivery27 (40)
+Seat 3: _SKR (860)
+*** ANTE/BLINDS ***
+Slivery27 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [8h 5d]
+*** PRE-FLOP *** 
+Slivery27 raises 10 to 40 and is all-in
+_SKR calls 10
+*** FLOP *** [4c 6h 2h]
+*** TURN *** [4c 6h 2h][Qc]
+*** RIVER *** [4c 6h 2h Qc][8s]
+*** SHOW DOWN ***
+_SKR shows [8h 5d] (One pair : 8)
+Slivery27 shows [Kd Qh] (One pair : Queens)
+Slivery27 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4c 6h 2h Qc 8s]
+Seat 2: Slivery27 (small blind) (button) showed [Kd Qh] and won 80 with One pair : Queens
+Seat 3: _SKR (big blind) showed [8h 5d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2695266375387054081-4-1675003340 - Holdem no limit (15/30) - 2023/01/29 14:42:20 UTC
+Table: 'Expresso Nitro(627540605)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Slivery27 (80)
+Seat 3: _SKR (820)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Slivery27 posts big blind 30
+Dealt to _SKR [Qs Ah]
+*** PRE-FLOP *** 
+_SKR raises 790 to 820 and is all-in
+Slivery27 calls 50 and is all-in
+*** FLOP *** [6d 9d Tc]
+*** TURN *** [6d 9d Tc][4c]
+*** RIVER *** [6d 9d Tc 4c][As]
+*** SHOW DOWN ***
+Slivery27 shows [Kh 4h] (One pair : 4)
+_SKR shows [Qs Ah] (One pair : Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 9d Tc 4c As]
+Seat 2: Slivery27 (big blind) showed [Kh 4h] and lost with One pair : 4
+Seat 3: _SKR (small blind) (button) showed [Qs Ah] and won 900 with One pair : Aces
+
+

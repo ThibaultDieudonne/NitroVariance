@@ -1,0 +1,234 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696604704376356865-1-1675089452 - Holdem no limit (10/20) - 2023/01/30 14:37:32 UTC
+Table: 'Expresso Nitro(627852209)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (300)
+Seat 2: laurette1300 (300)
+Seat 3: cocoflex05 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+laurette1300 posts big blind 20
+Dealt to _SKR [2s Ts]
+*** PRE-FLOP *** 
+cocoflex05 folds
+_SKR folds
+laurette1300 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: laurette1300 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696604704376356865-2-1675089458 - Holdem no limit (10/20) - 2023/01/30 14:37:38 UTC
+Table: 'Expresso Nitro(627852209)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (290)
+Seat 2: laurette1300 (310)
+Seat 3: cocoflex05 (300)
+*** ANTE/BLINDS ***
+laurette1300 posts small blind 10
+cocoflex05 posts big blind 20
+Dealt to _SKR [7h 6h]
+*** PRE-FLOP *** 
+_SKR folds
+laurette1300 calls 10
+cocoflex05 checks
+*** FLOP *** [7d Qd 8c]
+laurette1300 checks
+cocoflex05 checks
+*** TURN *** [7d Qd 8c][4s]
+laurette1300 bets 20
+cocoflex05 calls 20
+*** RIVER *** [7d Qd 8c 4s][9c]
+laurette1300 bets 20
+cocoflex05 raises 20 to 40
+laurette1300 calls 20
+*** SHOW DOWN ***
+laurette1300 shows [2d As] (High card : Ace)
+cocoflex05 shows [4c 8h] (Two pairs : 8 and 4)
+cocoflex05 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [7d Qd 8c 4s 9c]
+Seat 2: laurette1300 (small blind) showed [2d As] and lost with High card : Ace
+Seat 3: cocoflex05 (big blind) showed [4c 8h] and won 160 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696604704376356865-3-1675089481 - Holdem no limit (10/20) - 2023/01/30 14:38:01 UTC
+Table: 'Expresso Nitro(627852209)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (290)
+Seat 2: laurette1300 (230)
+Seat 3: cocoflex05 (380)
+*** ANTE/BLINDS ***
+cocoflex05 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9c 3s]
+*** PRE-FLOP *** 
+laurette1300 folds
+cocoflex05 calls 10
+_SKR checks
+*** FLOP *** [Ah 2d As]
+cocoflex05 checks
+_SKR checks
+*** TURN *** [Ah 2d As][Th]
+cocoflex05 checks
+_SKR checks
+*** RIVER *** [Ah 2d As Th][8h]
+cocoflex05 checks
+_SKR checks
+*** SHOW DOWN ***
+_SKR shows [9c 3s] (One pair : Aces)
+cocoflex05 shows [2h Kd] (Two pairs : Aces and 2)
+cocoflex05 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ah 2d As Th 8h]
+Seat 1: _SKR (big blind) showed [9c 3s] and lost with One pair : Aces
+Seat 3: cocoflex05 (small blind) showed [2h Kd] and won 40 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696604704376356865-4-1675089525 - Holdem no limit (15/30) - 2023/01/30 14:38:45 UTC
+Table: 'Expresso Nitro(627852209)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 2: laurette1300 (230)
+Seat 3: cocoflex05 (400)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+laurette1300 posts big blind 30
+Dealt to _SKR [Jh 7c]
+*** PRE-FLOP *** 
+cocoflex05 calls 30
+_SKR folds
+laurette1300 checks
+*** FLOP *** [Ac 4s 2d]
+laurette1300 bets 200 and is all-in
+cocoflex05 folds
+laurette1300 collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Board: [Ac 4s 2d]
+Seat 2: laurette1300 (big blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696604704376356865-5-1675089540 - Holdem no limit (15/30) - 2023/01/30 14:39:00 UTC
+Table: 'Expresso Nitro(627852209)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (255)
+Seat 2: laurette1300 (275)
+Seat 3: cocoflex05 (370)
+*** ANTE/BLINDS ***
+laurette1300 posts small blind 15
+cocoflex05 posts big blind 30
+Dealt to _SKR [7d 9h]
+*** PRE-FLOP *** 
+_SKR folds
+laurette1300 calls 15
+cocoflex05 checks
+*** FLOP *** [2s 6s Js]
+laurette1300 checks
+cocoflex05 checks
+*** TURN *** [2s 6s Js][5s]
+laurette1300 bets 60
+cocoflex05 calls 60
+*** RIVER *** [2s 6s Js 5s][Th]
+laurette1300 checks
+cocoflex05 bets 280 and is all-in
+laurette1300 folds
+cocoflex05 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [2s 6s Js 5s Th]
+Seat 3: cocoflex05 (big blind) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2696604704376356865-6-1675089561 - Holdem no limit (15/30) - 2023/01/30 14:39:21 UTC
+Table: 'Expresso Nitro(627852209)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (255)
+Seat 2: laurette1300 (185)
+Seat 3: cocoflex05 (460)
+*** ANTE/BLINDS ***
+cocoflex05 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Th Qc]
+*** PRE-FLOP *** 
+laurette1300 folds
+cocoflex05 calls 15
+_SKR raises 225 to 255 and is all-in
+cocoflex05 folds
+_SKR collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Seat 1: _SKR (big blind) won 285
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696604704376356865-7-1675089584 - Holdem no limit (20/40) - 2023/01/30 14:39:44 UTC
+Table: 'Expresso Nitro(627852209)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (285)
+Seat 2: laurette1300 (185)
+Seat 3: cocoflex05 (430)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+laurette1300 posts big blind 40
+Dealt to _SKR [2s 7d]
+*** PRE-FLOP *** 
+cocoflex05 folds
+_SKR folds
+laurette1300 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: laurette1300 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696604704376356865-8-1675089591 - Holdem no limit (20/40) - 2023/01/30 14:39:51 UTC
+Table: 'Expresso Nitro(627852209)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (265)
+Seat 2: laurette1300 (205)
+Seat 3: cocoflex05 (430)
+*** ANTE/BLINDS ***
+laurette1300 posts small blind 20
+cocoflex05 posts big blind 40
+Dealt to _SKR [6s 4d]
+*** PRE-FLOP *** 
+_SKR folds
+laurette1300 calls 20
+cocoflex05 raises 390 to 430 and is all-in
+laurette1300 calls 165 and is all-in
+*** FLOP *** [7d 8d 8h]
+*** TURN *** [7d 8d 8h][7c]
+*** RIVER *** [7d 8d 8h 7c][3d]
+*** SHOW DOWN ***
+laurette1300 shows [4h 9h] (Two pairs : 8 and 7)
+cocoflex05 shows [Kd Th] (Two pairs : 8 and 7)
+cocoflex05 collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | No rake
+Board: [7d 8d 8h 7c 3d]
+Seat 2: laurette1300 (small blind) showed [4h 9h] and lost with Two pairs : 8 and 7
+Seat 3: cocoflex05 (big blind) showed [Kd Th] and won 635 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2696604704376356865-9-1675089614 - Holdem no limit (20/40) - 2023/01/30 14:40:14 UTC
+Table: 'Expresso Nitro(627852209)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (265)
+Seat 3: cocoflex05 (635)
+*** ANTE/BLINDS ***
+cocoflex05 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2h 3c]
+*** PRE-FLOP *** 
+cocoflex05 calls 20
+_SKR checks
+*** FLOP *** [3d 6d 2c]
+_SKR checks
+cocoflex05 checks
+*** TURN *** [3d 6d 2c][5s]
+_SKR bets 52
+cocoflex05 raises 543 to 595 and is all-in
+_SKR calls 173 and is all-in
+*** RIVER *** [3d 6d 2c 5s][Jd]
+*** SHOW DOWN ***
+_SKR shows [2h 3c] (Two pairs : 3 and 2)
+cocoflex05 shows [Qh 4c] (Straight 6 high)
+cocoflex05 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 6d 2c 5s Jd]
+Seat 1: _SKR (big blind) showed [2h 3c] and lost with Two pairs : 3 and 2
+Seat 3: cocoflex05 (small blind) (button) showed [Qh 4c] and won 900 with Straight 6 high
+
+

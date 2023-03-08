@@ -1,0 +1,202 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717684725987672065-1-1676231558 - Holdem no limit (10/20) - 2023/02/12 19:52:38 UTC
+Table: 'Expresso Nitro(632760284)#0' 3-max (real money) Seat #1 is the button
+Seat 1: OmaGD5 (300)
+Seat 2: MARCOUS7 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+MARCOUS7 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d Jd]
+*** PRE-FLOP *** 
+OmaGD5 raises 20 to 40
+MARCOUS7 calls 30
+_SKR calls 20
+*** FLOP *** [4d Ts 8s]
+MARCOUS7 checks
+_SKR checks
+OmaGD5 bets 78
+MARCOUS7 folds
+_SKR folds
+OmaGD5 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [4d Ts 8s]
+Seat 1: OmaGD5 (button) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717684725987672065-2-1676231605 - Holdem no limit (10/20) - 2023/02/12 19:53:25 UTC
+Table: 'Expresso Nitro(632760284)#0' 3-max (real money) Seat #2 is the button
+Seat 1: OmaGD5 (380)
+Seat 2: MARCOUS7 (260)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+OmaGD5 posts big blind 20
+Dealt to _SKR [6s 3s]
+*** PRE-FLOP *** 
+MARCOUS7 calls 20
+_SKR folds
+OmaGD5 checks
+*** FLOP *** [7s Jh Ah]
+OmaGD5 checks
+MARCOUS7 checks
+*** TURN *** [7s Jh Ah][7c]
+OmaGD5 checks
+MARCOUS7 checks
+*** RIVER *** [7s Jh Ah 7c][Qc]
+OmaGD5 bets 38
+MARCOUS7 folds
+OmaGD5 collected 88 from pot
+*** SUMMARY ***
+Total pot 88 | No rake
+Board: [7s Jh Ah 7c Qc]
+Seat 1: OmaGD5 (big blind) won 88
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717684725987672065-3-1676231663 - Holdem no limit (15/30) - 2023/02/12 19:54:23 UTC
+Table: 'Expresso Nitro(632760284)#0' 3-max (real money) Seat #3 is the button
+Seat 1: OmaGD5 (410)
+Seat 2: MARCOUS7 (240)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+OmaGD5 posts small blind 15
+MARCOUS7 posts big blind 30
+Dealt to _SKR [7h Jc]
+*** PRE-FLOP *** 
+_SKR folds
+OmaGD5 folds
+MARCOUS7 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MARCOUS7 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717684725987672065-4-1676231677 - Holdem no limit (20/40) - 2023/02/12 19:54:37 UTC
+Table: 'Expresso Nitro(632760284)#0' 3-max (real money) Seat #1 is the button
+Seat 1: OmaGD5 (395)
+Seat 2: MARCOUS7 (255)
+Seat 3: _SKR (250)
+*** ANTE/BLINDS ***
+MARCOUS7 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc Tc]
+*** PRE-FLOP *** 
+OmaGD5 raises 355 to 395 and is all-in
+MARCOUS7 folds
+_SKR calls 210 and is all-in
+*** FLOP *** [9d 5c 9c]
+*** TURN *** [9d 5c 9c][Jc]
+*** RIVER *** [9d 5c 9c Jc][8d]
+*** SHOW DOWN ***
+OmaGD5 shows [Qs Ac] (One pair : 9)
+_SKR shows [Kc Tc] (Flush King high)
+_SKR collected 520 from main pot
+OmaGD5 collected 145 from side pot 1
+*** SUMMARY ***
+Total pot 665 | No rake
+Board: [9d 5c 9c Jc 8d]
+Seat 1: OmaGD5 (button) showed [Qs Ac] and won 145 with One pair : 9
+Seat 3: _SKR (big blind) showed [Kc Tc] and won 520 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717684725987672065-5-1676231691 - Holdem no limit (20/40) - 2023/02/12 19:54:51 UTC
+Table: 'Expresso Nitro(632760284)#0' 3-max (real money) Seat #2 is the button
+Seat 1: OmaGD5 (145)
+Seat 2: MARCOUS7 (235)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+OmaGD5 posts big blind 40
+Dealt to _SKR [Kc 9d]
+*** PRE-FLOP *** 
+MARCOUS7 folds
+_SKR raises 480 to 520 and is all-in
+OmaGD5 calls 105 and is all-in
+*** FLOP *** [5d 9h 4s]
+*** TURN *** [5d 9h 4s][3h]
+*** RIVER *** [5d 9h 4s 3h][Ac]
+*** SHOW DOWN ***
+OmaGD5 shows [6d As] (One pair : Aces)
+_SKR shows [Kc 9d] (One pair : 9)
+_SKR collected 375 from side pot 1
+OmaGD5 collected 290 from main pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Board: [5d 9h 4s 3h Ac]
+Seat 1: OmaGD5 (big blind) showed [6d As] and won 290 with One pair : Aces
+Seat 3: _SKR (small blind) showed [Kc 9d] and won 375 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717684725987672065-6-1676231714 - Holdem no limit (20/40) - 2023/02/12 19:55:14 UTC
+Table: 'Expresso Nitro(632760284)#0' 3-max (real money) Seat #3 is the button
+Seat 1: OmaGD5 (290)
+Seat 2: MARCOUS7 (235)
+Seat 3: _SKR (375)
+*** ANTE/BLINDS ***
+OmaGD5 posts small blind 20
+MARCOUS7 posts big blind 40
+Dealt to _SKR [Qs 9d]
+*** PRE-FLOP *** 
+_SKR folds
+OmaGD5 folds
+MARCOUS7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MARCOUS7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717684725987672065-7-1676231724 - Holdem no limit (20/40) - 2023/02/12 19:55:24 UTC
+Table: 'Expresso Nitro(632760284)#0' 3-max (real money) Seat #1 is the button
+Seat 1: OmaGD5 (270)
+Seat 2: MARCOUS7 (255)
+Seat 3: _SKR (375)
+*** ANTE/BLINDS ***
+MARCOUS7 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9h Ac]
+*** PRE-FLOP *** 
+OmaGD5 raises 230 to 270 and is all-in
+MARCOUS7 calls 235 and is all-in
+_SKR raises 105 to 375 and is all-in
+*** FLOP *** [Tc 3s 7d]
+*** TURN *** [Tc 3s 7d][Jc]
+*** RIVER *** [Tc 3s 7d Jc][6d]
+*** SHOW DOWN ***
+OmaGD5 shows [8h As] (High card : Ace)
+MARCOUS7 shows [Kh Td] (One pair : Tens)
+_SKR shows [9h Ac] (High card : Ace)
+_SKR collected 135 from side pot 1
+MARCOUS7 collected 765 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 3s 7d Jc 6d]
+Seat 1: OmaGD5 (button) showed [8h As] and lost with High card : Ace
+Seat 2: MARCOUS7 (small blind) showed [Kh Td] and won 765 with One pair : Tens
+Seat 3: _SKR (big blind) showed [9h Ac] and won 135 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2717684725987672065-8-1676231748 - Holdem no limit (30/60) - 2023/02/12 19:55:48 UTC
+Table: 'Expresso Nitro(632760284)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MARCOUS7 (765)
+Seat 3: _SKR (135)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+MARCOUS7 posts big blind 60
+Dealt to _SKR [Qh 3s]
+*** PRE-FLOP *** 
+_SKR raises 75 to 135 and is all-in
+MARCOUS7 calls 75
+*** FLOP *** [8c 4s Jc]
+*** TURN *** [8c 4s Jc][2h]
+*** RIVER *** [8c 4s Jc 2h][5s]
+*** SHOW DOWN ***
+_SKR shows [Qh 3s] (High card : Queen)
+MARCOUS7 shows [2c Kc] (One pair : 2)
+MARCOUS7 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [8c 4s Jc 2h 5s]
+Seat 2: MARCOUS7 (big blind) showed [2c Kc] and won 270 with One pair : 2
+Seat 3: _SKR (small blind) (button) showed [Qh 3s] and lost with High card : Queen
+
+

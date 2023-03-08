@@ -1,0 +1,236 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814597208768513-1-1676236298 - Holdem no limit (10/20) - 2023/02/12 21:11:38 UTC
+Table: 'Expresso Nitro(632790522)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Marin354 (300)
+Seat 3: TriKerion34 (300)
+*** ANTE/BLINDS ***
+Marin354 posts small blind 10
+TriKerion34 posts big blind 20
+Dealt to _SKR [8d 7c]
+*** PRE-FLOP *** 
+_SKR folds
+Marin354 calls 10
+TriKerion34 checks
+*** FLOP *** [9c Kc 4h]
+Marin354 bets 20
+TriKerion34 calls 20
+*** TURN *** [9c Kc 4h][As]
+Marin354 bets 20
+TriKerion34 calls 20
+*** RIVER *** [9c Kc 4h As][Td]
+Marin354 bets 78
+TriKerion34 folds
+Marin354 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [9c Kc 4h As Td]
+Seat 2: Marin354 (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814597208768513-2-1676236319 - Holdem no limit (10/20) - 2023/02/12 21:11:59 UTC
+Table: 'Expresso Nitro(632790522)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Marin354 (360)
+Seat 3: TriKerion34 (240)
+*** ANTE/BLINDS ***
+TriKerion34 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2d 5c]
+*** PRE-FLOP *** 
+Marin354 folds
+TriKerion34 folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814597208768513-3-1676236324 - Holdem no limit (10/20) - 2023/02/12 21:12:04 UTC
+Table: 'Expresso Nitro(632790522)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (310)
+Seat 2: Marin354 (360)
+Seat 3: TriKerion34 (230)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Marin354 posts big blind 20
+Dealt to _SKR [Qc 7s]
+*** PRE-FLOP *** 
+TriKerion34 raises 210 to 230 and is all-in
+_SKR folds
+Marin354 folds
+TriKerion34 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 3: TriKerion34 (button) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2717814597208768513-4-1676236336 - Holdem no limit (10/20) - 2023/02/12 21:12:16 UTC
+Table: 'Expresso Nitro(632790522)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 2: Marin354 (340)
+Seat 3: TriKerion34 (260)
+*** ANTE/BLINDS ***
+Marin354 posts small blind 10
+TriKerion34 posts big blind 20
+Dealt to _SKR [9h 8c]
+*** PRE-FLOP *** 
+_SKR folds
+Marin354 calls 10
+TriKerion34 checks
+*** FLOP *** [9c Ts Qh]
+Marin354 bets 20
+TriKerion34 raises 220 to 240 and is all-in
+Marin354 calls 220
+*** TURN *** [9c Ts Qh][4d]
+*** RIVER *** [9c Ts Qh 4d][Jh]
+*** SHOW DOWN ***
+Marin354 shows [Tc 5c] (One pair : Tens)
+TriKerion34 shows [Jd Kh] (Straight King high)
+TriKerion34 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [9c Ts Qh 4d Jh]
+Seat 2: Marin354 (small blind) showed [Tc 5c] and lost with One pair : Tens
+Seat 3: TriKerion34 (big blind) showed [Jd Kh] and won 520 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717814597208768513-5-1676236356 - Holdem no limit (15/30) - 2023/02/12 21:12:36 UTC
+Table: 'Expresso Nitro(632790522)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Marin354 (80)
+Seat 3: TriKerion34 (520)
+*** ANTE/BLINDS ***
+TriKerion34 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3d Ac]
+*** PRE-FLOP *** 
+Marin354 raises 50 to 80 and is all-in
+TriKerion34 folds
+_SKR calls 50
+*** FLOP *** [8c 9c Jh]
+*** TURN *** [8c 9c Jh][6d]
+*** RIVER *** [8c 9c Jh 6d][Qs]
+*** SHOW DOWN ***
+_SKR shows [3d Ac] (High card : Ace)
+Marin354 shows [Ts 5d] (Straight Queen high)
+Marin354 collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | No rake
+Board: [8c 9c Jh 6d Qs]
+Seat 1: _SKR (big blind) showed [3d Ac] and lost with High card : Ace
+Seat 2: Marin354 (button) showed [Ts 5d] and won 175 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717814597208768513-6-1676236375 - Holdem no limit (15/30) - 2023/02/12 21:12:55 UTC
+Table: 'Expresso Nitro(632790522)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (220)
+Seat 2: Marin354 (175)
+Seat 3: TriKerion34 (505)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Marin354 posts big blind 30
+Dealt to _SKR [Jc Th]
+*** PRE-FLOP *** 
+TriKerion34 folds
+_SKR raises 190 to 220 and is all-in
+Marin354 folds
+_SKR collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 1: _SKR (small blind) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717814597208768513-7-1676236387 - Holdem no limit (15/30) - 2023/02/12 21:13:07 UTC
+Table: 'Expresso Nitro(632790522)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (250)
+Seat 2: Marin354 (145)
+Seat 3: TriKerion34 (505)
+*** ANTE/BLINDS ***
+Marin354 posts small blind 15
+TriKerion34 posts big blind 30
+Dealt to _SKR [4s Ad]
+*** PRE-FLOP *** 
+_SKR raises 220 to 250 and is all-in
+Marin354 calls 130 and is all-in
+TriKerion34 folds
+*** FLOP *** [4h Th Qc]
+*** TURN *** [4h Th Qc][3s]
+*** RIVER *** [4h Th Qc 3s][Qs]
+*** SHOW DOWN ***
+Marin354 shows [7s Kd] (One pair : Queens)
+_SKR shows [4s Ad] (Two pairs : Queens and 4)
+_SKR collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Board: [4h Th Qc 3s Qs]
+Seat 1: _SKR (button) showed [4s Ad] and won 425 with Two pairs : Queens and 4
+Seat 2: Marin354 (small blind) showed [7s Kd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2717814597208768513-8-1676236403 - Holdem no limit (15/30) - 2023/02/12 21:13:23 UTC
+Table: 'Expresso Nitro(632790522)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (425)
+Seat 3: TriKerion34 (475)
+*** ANTE/BLINDS ***
+TriKerion34 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Tc 7h]
+*** PRE-FLOP *** 
+TriKerion34 raises 445 to 475 and is all-in
+_SKR folds
+TriKerion34 collected 505 from pot
+*** SUMMARY ***
+Total pot 505 | No rake
+Seat 3: TriKerion34 (small blind) (button) won 505
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717814597208768513-9-1676236414 - Holdem no limit (20/40) - 2023/02/12 21:13:34 UTC
+Table: 'Expresso Nitro(632790522)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (395)
+Seat 3: TriKerion34 (505)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+TriKerion34 posts big blind 40
+Dealt to _SKR [Jd Td]
+*** PRE-FLOP *** 
+_SKR raises 355 to 395 and is all-in
+TriKerion34 calls 355
+*** FLOP *** [6d 4s Js]
+*** TURN *** [6d 4s Js][3d]
+*** RIVER *** [6d 4s Js 3d][8c]
+*** SHOW DOWN ***
+TriKerion34 shows [2h As] (High card : Ace)
+_SKR shows [Jd Td] (One pair : Jacks)
+_SKR collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [6d 4s Js 3d 8c]
+Seat 1: _SKR (small blind) (button) showed [Jd Td] and won 790 with One pair : Jacks
+Seat 3: TriKerion34 (big blind) showed [2h As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2717814597208768513-10-1676236428 - Holdem no limit (20/40) - 2023/02/12 21:13:48 UTC
+Table: 'Expresso Nitro(632790522)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (790)
+Seat 3: TriKerion34 (110)
+*** ANTE/BLINDS ***
+TriKerion34 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Ac 8c]
+*** PRE-FLOP *** 
+TriKerion34 raises 70 to 110 and is all-in
+_SKR calls 70
+*** FLOP *** [2h Ad 8s]
+*** TURN *** [2h Ad 8s][9c]
+*** RIVER *** [2h Ad 8s 9c][Qd]
+*** SHOW DOWN ***
+TriKerion34 shows [6s 6c] (One pair : 6)
+_SKR shows [Ac 8c] (Two pairs : Aces and 8)
+_SKR collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [2h Ad 8s 9c Qd]
+Seat 1: _SKR (big blind) showed [Ac 8c] and won 220 with Two pairs : Aces and 8
+Seat 3: TriKerion34 (small blind) (button) showed [6s 6c] and lost with One pair : 6
+
+

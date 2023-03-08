@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2697294639332851713-1-1675116648 - Holdem no limit (10/20) - 2023/01/30 22:10:48 UTC
+Table: 'Expresso Nitro(628012847)#0' 3-max (real money) Seat #3 is the button
+Seat 1: playerdu13 (300)
+Seat 2: 4D.Day44 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+playerdu13 posts small blind 10
+4D.Day44 posts big blind 20
+Dealt to _SKR [5h 2d]
+*** PRE-FLOP *** 
+_SKR folds
+playerdu13 calls 10
+4D.Day44 checks
+*** FLOP *** [3c 2c Ts]
+playerdu13 bets 20
+4D.Day44 raises 45 to 65
+playerdu13 calls 45
+*** TURN *** [3c 2c Ts][4c]
+playerdu13 checks
+4D.Day44 bets 111
+playerdu13 calls 111
+*** RIVER *** [3c 2c Ts 4c][Kh]
+playerdu13 checks
+4D.Day44 bets 104 and is all-in
+playerdu13 calls 104 and is all-in
+*** SHOW DOWN ***
+playerdu13 shows [Tc 6d] (One pair : Tens)
+4D.Day44 shows [Kd Th] (Two pairs : Kings and Tens)
+4D.Day44 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3c 2c Ts 4c Kh]
+Seat 1: playerdu13 (small blind) showed [Tc 6d] and lost with One pair : Tens
+Seat 2: 4D.Day44 (big blind) showed [Kd Th] and won 600 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697294639332851713-2-1675116741 - Holdem no limit (15/30) - 2023/01/30 22:12:21 UTC
+Table: 'Expresso Nitro(628012847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: 4D.Day44 (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+4D.Day44 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [9c 5d]
+*** PRE-FLOP *** 
+4D.Day44 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697294639332851713-3-1675116747 - Holdem no limit (15/30) - 2023/01/30 22:12:27 UTC
+Table: 'Expresso Nitro(628012847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: 4D.Day44 (585)
+Seat 3: _SKR (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+4D.Day44 posts big blind 30
+Dealt to _SKR [8d 5h]
+*** PRE-FLOP *** 
+_SKR folds
+4D.Day44 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: 4D.Day44 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697294639332851713-4-1675116757 - Holdem no limit (15/30) - 2023/01/30 22:12:37 UTC
+Table: 'Expresso Nitro(628012847)#0' 3-max (real money) Seat #2 is the button
+Seat 2: 4D.Day44 (600)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+4D.Day44 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2h 7c]
+*** PRE-FLOP *** 
+4D.Day44 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2697294639332851713-5-1675116762 - Holdem no limit (15/30) - 2023/01/30 22:12:42 UTC
+Table: 'Expresso Nitro(628012847)#0' 3-max (real money) Seat #3 is the button
+Seat 2: 4D.Day44 (585)
+Seat 3: _SKR (315)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+4D.Day44 posts big blind 30
+Dealt to _SKR [Ks Td]
+*** PRE-FLOP *** 
+_SKR raises 285 to 315 and is all-in
+4D.Day44 raises 270 to 585 and is all-in
+*** FLOP *** [4s 8h 9h]
+*** TURN *** [4s 8h 9h][8d]
+*** RIVER *** [4s 8h 9h 8d][3c]
+*** SHOW DOWN ***
+_SKR shows [Ks Td] (One pair : 8)
+4D.Day44 shows [Kh As] (One pair : 8)
+4D.Day44 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 8h 9h 8d 3c]
+Seat 2: 4D.Day44 (big blind) showed [Kh As] and won 900 with One pair : 8
+Seat 3: _SKR (small blind) (button) showed [Ks Td] and lost with One pair : 8
+
+

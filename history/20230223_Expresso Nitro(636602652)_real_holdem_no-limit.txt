@@ -1,0 +1,114 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734187570886868993-1-1677187363 - Holdem no limit (10/20) - 2023/02/23 21:22:43 UTC
+Table: 'Expresso Nitro(636602652)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Stefano38100 (300)
+Seat 3: ValueCoca (300)
+*** ANTE/BLINDS ***
+ValueCoca posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c Qc]
+*** PRE-FLOP *** 
+Stefano38100 calls 20
+ValueCoca raises 280 to 300 and is all-in
+_SKR folds
+Stefano38100 folds
+ValueCoca collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: ValueCoca (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2734187570886868993-2-1677187393 - Holdem no limit (10/20) - 2023/02/23 21:23:13 UTC
+Table: 'Expresso Nitro(636602652)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Stefano38100 (280)
+Seat 3: ValueCoca (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Stefano38100 posts big blind 20
+Dealt to _SKR [4d Td]
+*** PRE-FLOP *** 
+ValueCoca raises 20 to 40
+_SKR folds
+Stefano38100 raises 240 to 280 and is all-in
+ValueCoca calls 240
+*** FLOP *** [9s Jh 7d]
+*** TURN *** [9s Jh 7d][9c]
+*** RIVER *** [9s Jh 7d 9c][2h]
+*** SHOW DOWN ***
+Stefano38100 shows [6h 6d] (Two pairs : 9 and 6)
+ValueCoca shows [Js Qh] (Two pairs : Jacks and 9)
+ValueCoca collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [9s Jh 7d 9c 2h]
+Seat 2: Stefano38100 (big blind) showed [6h 6d] and lost with Two pairs : 9 and 6
+Seat 3: ValueCoca (button) showed [Js Qh] and won 570 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2734187570886868993-3-1677187420 - Holdem no limit (15/30) - 2023/02/23 21:23:40 UTC
+Table: 'Expresso Nitro(636602652)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (270)
+Seat 3: ValueCoca (630)
+*** ANTE/BLINDS ***
+ValueCoca posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [2s 6h]
+*** PRE-FLOP *** 
+ValueCoca calls 15
+_SKR checks
+*** FLOP *** [4d 2c 2d]
+_SKR checks
+ValueCoca checks
+*** TURN *** [4d 2c 2d][Qc]
+_SKR bets 48
+ValueCoca folds
+_SKR collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [4d 2c 2d Qc]
+Seat 1: _SKR (big blind) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2734187570886868993-4-1677187460 - Holdem no limit (15/30) - 2023/02/23 21:24:20 UTC
+Table: 'Expresso Nitro(636602652)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (300)
+Seat 3: ValueCoca (600)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+ValueCoca posts big blind 30
+Dealt to _SKR [Td 9c]
+*** PRE-FLOP *** 
+_SKR raises 270 to 300 and is all-in
+ValueCoca folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: _SKR (small blind) (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2734187570886868993-5-1677187470 - Holdem no limit (15/30) - 2023/02/23 21:24:30 UTC
+Table: 'Expresso Nitro(636602652)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (330)
+Seat 3: ValueCoca (570)
+*** ANTE/BLINDS ***
+ValueCoca posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Qc Jc]
+*** PRE-FLOP *** 
+ValueCoca raises 540 to 570 and is all-in
+_SKR calls 300 and is all-in
+*** FLOP *** [6s 4c 8d]
+*** TURN *** [6s 4c 8d][Qd]
+*** RIVER *** [6s 4c 8d Qd][Ac]
+*** SHOW DOWN ***
+_SKR shows [Qc Jc] (One pair : Queens)
+ValueCoca shows [2d As] (One pair : Aces)
+ValueCoca collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s 4c 8d Qd Ac]
+Seat 1: _SKR (big blind) showed [Qc Jc] and lost with One pair : Queens
+Seat 3: ValueCoca (small blind) (button) showed [2d As] and won 900 with One pair : Aces
+
+

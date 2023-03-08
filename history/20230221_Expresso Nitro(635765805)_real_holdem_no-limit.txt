@@ -1,0 +1,31 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2730593340390113281-1-1676987537 - Holdem no limit (10/20) - 2023/02/21 13:52:17 UTC
+Table: 'Expresso Nitro(635765805)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Va Jobber (300)
+Seat 2: _SKR (300)
+Seat 3: wmx-fzfc3t9 (300)
+*** ANTE/BLINDS ***
+Va Jobber posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ac 4c]
+*** PRE-FLOP *** 
+wmx-fzfc3t9 raises 20 to 40
+Va Jobber calls 30
+_SKR raises 260 to 300 and is all-in
+wmx-fzfc3t9 calls 260 and is all-in
+Va Jobber calls 260 and is all-in
+*** FLOP *** [7s 2h 8s]
+*** TURN *** [7s 2h 8s][Td]
+*** RIVER *** [7s 2h 8s Td][8d]
+*** SHOW DOWN ***
+Va Jobber shows [Jd Qh] (One pair : 8)
+_SKR shows [Ac 4c] (One pair : 8)
+wmx-fzfc3t9 shows [As Js] (One pair : 8)
+wmx-fzfc3t9 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s 2h 8s Td 8d]
+Seat 1: Va Jobber (small blind) showed [Jd Qh] and lost with One pair : 8
+Seat 2: _SKR (big blind) showed [Ac 4c] and lost with One pair : 8
+Seat 3: wmx-fzfc3t9 (button) showed [As Js] and won 900 with One pair : 8
+
+

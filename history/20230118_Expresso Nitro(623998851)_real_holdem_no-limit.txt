@@ -1,0 +1,93 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680054657786576897-1-1674050005 - Holdem no limit (10/20) - 2023/01/18 13:53:25 UTC
+Table: 'Expresso Nitro(623998851)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: bernard2602 (300)
+Seat 3: Florim91 (300)
+*** ANTE/BLINDS ***
+Florim91 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3h Js]
+*** PRE-FLOP *** 
+bernard2602 folds
+Florim91 calls 10
+_SKR checks
+*** FLOP *** [Tc Th Jh]
+Florim91 checks
+_SKR checks
+*** TURN *** [Tc Th Jh][7h]
+Florim91 bets 20
+_SKR calls 20
+*** RIVER *** [Tc Th Jh 7h][Qc]
+Florim91 bets 80
+_SKR folds
+Florim91 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Tc Th Jh 7h Qc]
+Seat 3: Florim91 (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680054657786576897-2-1674050044 - Holdem no limit (10/20) - 2023/01/18 13:54:04 UTC
+Table: 'Expresso Nitro(623998851)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (260)
+Seat 2: bernard2602 (300)
+Seat 3: Florim91 (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+bernard2602 posts big blind 20
+Dealt to _SKR [Tc 7c]
+*** PRE-FLOP *** 
+Florim91 folds
+_SKR folds
+bernard2602 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: bernard2602 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680054657786576897-3-1674050052 - Holdem no limit (10/20) - 2023/01/18 13:54:12 UTC
+Table: 'Expresso Nitro(623998851)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (250)
+Seat 2: bernard2602 (310)
+Seat 3: Florim91 (340)
+*** ANTE/BLINDS ***
+bernard2602 posts small blind 10
+Florim91 posts big blind 20
+Dealt to _SKR [Jc 7d]
+*** PRE-FLOP *** 
+_SKR folds
+bernard2602 folds
+Florim91 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Florim91 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2680054657786576897-4-1674050059 - Holdem no limit (10/20) - 2023/01/18 13:54:19 UTC
+Table: 'Expresso Nitro(623998851)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (250)
+Seat 2: bernard2602 (300)
+Seat 3: Florim91 (350)
+*** ANTE/BLINDS ***
+Florim91 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah 7c]
+*** PRE-FLOP *** 
+bernard2602 folds
+Florim91 calls 10
+_SKR raises 230 to 250 and is all-in
+Florim91 calls 230
+*** FLOP *** [4c 3h Kc]
+*** TURN *** [4c 3h Kc][3s]
+*** RIVER *** [4c 3h Kc 3s][4d]
+*** SHOW DOWN ***
+_SKR shows [Ah 7c] (Two pairs : 4 and 3)
+Florim91 shows [Jh Kh] (Two pairs : Kings and 4)
+Florim91 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [4c 3h Kc 3s 4d]
+Seat 1: _SKR (big blind) showed [Ah 7c] and lost with Two pairs : 4 and 3
+Seat 3: Florim91 (small blind) showed [Jh Kh] and won 500 with Two pairs : Kings and 4
+
+

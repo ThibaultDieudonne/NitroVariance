@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661433650981109761-1-1673013043 - Holdem no limit (10/20) - 2023/01/06 13:50:43 UTC
+Table: 'Expresso Nitro(619663310)#0' 3-max (real money) Seat #3 is the button
+Seat 1: OMAKSSS (300)
+Seat 2: _SKR (300)
+Seat 3: Benouse21 (300)
+*** ANTE/BLINDS ***
+OMAKSSS posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [2c 4d]
+*** PRE-FLOP *** 
+Benouse21 calls 20
+OMAKSSS calls 10
+_SKR checks
+*** FLOP *** [5c Qd Kc]
+OMAKSSS checks
+_SKR checks
+Benouse21 checks
+*** TURN *** [5c Qd Kc][3c]
+OMAKSSS checks
+_SKR checks
+Benouse21 checks
+*** RIVER *** [5c Qd Kc 3c][9h]
+OMAKSSS checks
+_SKR checks
+Benouse21 checks
+*** SHOW DOWN ***
+_SKR shows [2c 4d] (High card : King)
+Benouse21 shows [Jh 2h] (High card : King)
+OMAKSSS shows [3h Jd] (One pair : 3)
+OMAKSSS collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [5c Qd Kc 3c 9h]
+Seat 1: OMAKSSS (small blind) showed [3h Jd] and won 60 with One pair : 3
+Seat 2: _SKR (big blind) showed [2c 4d] and lost with High card : King
+Seat 3: Benouse21 (button) showed [Jh 2h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661433650981109761-2-1673013110 - Holdem no limit (15/30) - 2023/01/06 13:51:50 UTC
+Table: 'Expresso Nitro(619663310)#0' 3-max (real money) Seat #1 is the button
+Seat 1: OMAKSSS (340)
+Seat 2: _SKR (280)
+Seat 3: Benouse21 (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Benouse21 posts big blind 30
+Dealt to _SKR [Ad Th]
+*** PRE-FLOP *** 
+OMAKSSS folds
+_SKR raises 250 to 280 and is all-in
+Benouse21 folds
+_SKR collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: _SKR (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661433650981109761-3-1673013124 - Holdem no limit (15/30) - 2023/01/06 13:52:04 UTC
+Table: 'Expresso Nitro(619663310)#0' 3-max (real money) Seat #2 is the button
+Seat 1: OMAKSSS (340)
+Seat 2: _SKR (310)
+Seat 3: Benouse21 (250)
+*** ANTE/BLINDS ***
+Benouse21 posts small blind 15
+OMAKSSS posts big blind 30
+Dealt to _SKR [6d Qh]
+*** PRE-FLOP *** 
+_SKR folds
+Benouse21 raises 30 to 60
+OMAKSSS calls 30
+*** FLOP *** [Ad 7s 2s]
+Benouse21 checks
+OMAKSSS checks
+*** TURN *** [Ad 7s 2s][6c]
+Benouse21 bets 30
+OMAKSSS folds
+Benouse21 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Ad 7s 2s 6c]
+Seat 3: Benouse21 (small blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661433650981109761-4-1673013144 - Holdem no limit (15/30) - 2023/01/06 13:52:24 UTC
+Table: 'Expresso Nitro(619663310)#0' 3-max (real money) Seat #3 is the button
+Seat 1: OMAKSSS (280)
+Seat 2: _SKR (310)
+Seat 3: Benouse21 (310)
+*** ANTE/BLINDS ***
+OMAKSSS posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Jd Ad]
+*** PRE-FLOP *** 
+Benouse21 raises 280 to 310 and is all-in
+OMAKSSS calls 265 and is all-in
+_SKR calls 280 and is all-in
+*** FLOP *** [2d 5d 3d]
+*** TURN *** [2d 5d 3d][7d]
+*** RIVER *** [2d 5d 3d 7d][8c]
+*** SHOW DOWN ***
+OMAKSSS shows [7c 7h] (Trips of 7)
+Benouse21 shows [Tc Th] (One pair : Tens)
+_SKR shows [Jd Ad] (Flush Ace high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d 5d 3d 7d 8c]
+Seat 1: OMAKSSS (small blind) showed [7c 7h] and lost with Trips of 7
+Seat 2: _SKR (big blind) showed [Jd Ad] and won 900 with Flush Ace high
+Seat 3: Benouse21 (button) showed [Tc Th] and lost with One pair : Tens
+
+

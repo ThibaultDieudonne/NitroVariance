@@ -1,0 +1,307 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661415294290886657-1-1673012115 - Holdem no limit (10/20) - 2023/01/06 13:35:15 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: hayce-68 (300)
+Seat 2: ALK54 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+ALK54 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [3d 5s]
+*** PRE-FLOP *** 
+hayce-68 raises 280 to 300 and is all-in
+ALK54 calls 290 and is all-in
+_SKR folds
+*** FLOP *** [Ad Ac 6h]
+*** TURN *** [Ad Ac 6h][Qh]
+*** RIVER *** [Ad Ac 6h Qh][8h]
+*** SHOW DOWN ***
+ALK54 shows [Kc 6c] (Two pairs : Aces and 6)
+hayce-68 shows [Jc Qd] (Two pairs : Aces and Queens)
+hayce-68 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ad Ac 6h Qh 8h]
+Seat 1: hayce-68 (button) showed [Jc Qd] and won 620 with Two pairs : Aces and Queens
+Seat 2: ALK54 (small blind) showed [Kc 6c] and lost with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661415294290886657-2-1673012141 - Holdem no limit (10/20) - 2023/01/06 13:35:41 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: hayce-68 (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+hayce-68 posts big blind 20
+Dealt to _SKR [2h 3h]
+*** PRE-FLOP *** 
+_SKR folds
+hayce-68 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: hayce-68 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661415294290886657-3-1673012145 - Holdem no limit (10/20) - 2023/01/06 13:35:45 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: hayce-68 (630)
+Seat 3: _SKR (270)
+*** ANTE/BLINDS ***
+hayce-68 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Qh Jh]
+*** PRE-FLOP *** 
+hayce-68 calls 10
+_SKR raises 30 to 50
+hayce-68 folds
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: _SKR (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661415294290886657-4-1673012161 - Holdem no limit (10/20) - 2023/01/06 13:36:01 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: hayce-68 (610)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+hayce-68 posts big blind 20
+Dealt to _SKR [5c Js]
+*** PRE-FLOP *** 
+_SKR folds
+hayce-68 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: hayce-68 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2661415294290886657-5-1673012170 - Holdem no limit (10/20) - 2023/01/06 13:36:10 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: hayce-68 (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+hayce-68 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h Kh]
+*** PRE-FLOP *** 
+hayce-68 calls 10
+_SKR raises 30 to 50
+hayce-68 calls 30
+*** FLOP *** [7d Js 2h]
+_SKR bets 35
+hayce-68 folds
+_SKR collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [7d Js 2h]
+Seat 3: _SKR (big blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661415294290886657-6-1673012193 - Holdem no limit (15/30) - 2023/01/06 13:36:33 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: hayce-68 (570)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+hayce-68 posts big blind 30
+Dealt to _SKR [Ad Kc]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+hayce-68 raises 510 to 570 and is all-in
+_SKR calls 270 and is all-in
+*** FLOP *** [Ts 8d 2c]
+*** TURN *** [Ts 8d 2c][7s]
+*** RIVER *** [Ts 8d 2c 7s][Jd]
+*** SHOW DOWN ***
+hayce-68 shows [Qs 6d] (High card : Queen)
+_SKR shows [Ad Kc] (High card : Ace)
+_SKR collected 660 from main pot
+hayce-68 collected 240 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts 8d 2c 7s Jd]
+Seat 1: hayce-68 (big blind) showed [Qs 6d] and won 240 with High card : Queen
+Seat 3: _SKR (small blind) (button) showed [Ad Kc] and won 660 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661415294290886657-7-1673012207 - Holdem no limit (15/30) - 2023/01/06 13:36:47 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: hayce-68 (240)
+Seat 3: _SKR (660)
+*** ANTE/BLINDS ***
+hayce-68 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Ad Jd]
+*** PRE-FLOP *** 
+hayce-68 folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661415294290886657-8-1673012211 - Holdem no limit (15/30) - 2023/01/06 13:36:51 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: hayce-68 (225)
+Seat 3: _SKR (675)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+hayce-68 posts big blind 30
+Dealt to _SKR [Qs Jh]
+*** PRE-FLOP *** 
+_SKR raises 645 to 675 and is all-in
+hayce-68 folds
+_SKR collected 705 from pot
+*** SUMMARY ***
+Total pot 705 | No rake
+Seat 3: _SKR (small blind) (button) won 705
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661415294290886657-9-1673012218 - Holdem no limit (15/30) - 2023/01/06 13:36:58 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: hayce-68 (195)
+Seat 3: _SKR (705)
+*** ANTE/BLINDS ***
+hayce-68 posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [3c 5d]
+*** PRE-FLOP *** 
+hayce-68 raises 165 to 195 and is all-in
+_SKR folds
+hayce-68 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 1: hayce-68 (small blind) (button) won 225
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2661415294290886657-10-1673012223 - Holdem no limit (15/30) - 2023/01/06 13:37:03 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: hayce-68 (225)
+Seat 3: _SKR (675)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+hayce-68 posts big blind 30
+Dealt to _SKR [Kc 2d]
+*** PRE-FLOP *** 
+_SKR folds
+hayce-68 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: hayce-68 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661415294290886657-11-1673012232 - Holdem no limit (20/40) - 2023/01/06 13:37:12 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: hayce-68 (240)
+Seat 3: _SKR (660)
+*** ANTE/BLINDS ***
+hayce-68 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jd 8c]
+*** PRE-FLOP *** 
+hayce-68 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661415294290886657-12-1673012241 - Holdem no limit (20/40) - 2023/01/06 13:37:21 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: hayce-68 (220)
+Seat 3: _SKR (680)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+hayce-68 posts big blind 40
+Dealt to _SKR [2c Kc]
+*** PRE-FLOP *** 
+_SKR raises 640 to 680 and is all-in
+hayce-68 folds
+_SKR collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 3: _SKR (small blind) (button) won 720
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661415294290886657-13-1673012253 - Holdem no limit (20/40) - 2023/01/06 13:37:33 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: hayce-68 (180)
+Seat 3: _SKR (720)
+*** ANTE/BLINDS ***
+hayce-68 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [2c Ah]
+*** PRE-FLOP *** 
+hayce-68 raises 140 to 180 and is all-in
+_SKR calls 140
+*** FLOP *** [7d 6s 6h]
+*** TURN *** [7d 6s 6h][9s]
+*** RIVER *** [7d 6s 6h 9s][Td]
+*** SHOW DOWN ***
+_SKR shows [2c Ah] (One pair : 6)
+hayce-68 shows [Qs Th] (Two pairs : Tens and 6)
+hayce-68 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [7d 6s 6h 9s Td]
+Seat 1: hayce-68 (small blind) (button) showed [Qs Th] and won 360 with Two pairs : Tens and 6
+Seat 3: _SKR (big blind) showed [2c Ah] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661415294290886657-14-1673012268 - Holdem no limit (20/40) - 2023/01/06 13:37:48 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: hayce-68 (360)
+Seat 3: _SKR (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+hayce-68 posts big blind 40
+Dealt to _SKR [Jd 3s]
+*** PRE-FLOP *** 
+_SKR folds
+hayce-68 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: hayce-68 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661415294290886657-15-1673012272 - Holdem no limit (20/40) - 2023/01/06 13:37:52 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: hayce-68 (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+hayce-68 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kc Td]
+*** PRE-FLOP *** 
+hayce-68 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2661415294290886657-16-1673012276 - Holdem no limit (20/40) - 2023/01/06 13:37:56 UTC
+Table: 'Expresso Nitro(619659036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: hayce-68 (360)
+Seat 3: _SKR (540)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+hayce-68 posts big blind 40
+Dealt to _SKR [7c 7s]
+*** PRE-FLOP *** 
+_SKR raises 500 to 540 and is all-in
+hayce-68 calls 320 and is all-in
+*** FLOP *** [Ks 6h 9c]
+*** TURN *** [Ks 6h 9c][4s]
+*** RIVER *** [Ks 6h 9c 4s][5h]
+*** SHOW DOWN ***
+hayce-68 shows [Ts 4c] (One pair : 4)
+_SKR shows [7c 7s] (One pair : 7)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks 6h 9c 4s 5h]
+Seat 1: hayce-68 (big blind) showed [Ts 4c] and lost with One pair : 4
+Seat 3: _SKR (small blind) (button) showed [7c 7s] and won 900 with One pair : 7
+
+

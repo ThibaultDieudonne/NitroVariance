@@ -1,0 +1,52 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718614814040522753-1-1676291720 - Holdem no limit (10/20) - 2023/02/13 12:35:20 UTC
+Table: 'Expresso Nitro(632976837)#0' 3-max (real money) Seat #3 is the button
+Seat 1: vanrechem (300)
+Seat 2: Tiempepito (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+vanrechem posts small blind 10
+Tiempepito posts big blind 20
+Dealt to _SKR [Ks As]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+vanrechem calls 30
+Tiempepito folds
+*** FLOP *** [9s 7d 2c]
+vanrechem bets 65
+_SKR folds
+vanrechem collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [9s 7d 2c]
+Seat 1: vanrechem (small blind) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2718614814040522753-2-1676291734 - Holdem no limit (10/20) - 2023/02/13 12:35:34 UTC
+Table: 'Expresso Nitro(632976837)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vanrechem (360)
+Seat 2: Tiempepito (280)
+Seat 3: _SKR (260)
+*** ANTE/BLINDS ***
+Tiempepito posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Kc Qc]
+*** PRE-FLOP *** 
+vanrechem calls 20
+Tiempepito raises 20 to 40
+_SKR raises 220 to 260 and is all-in
+vanrechem folds
+Tiempepito raises 20 to 280 and is all-in
+*** FLOP *** [6h Ah Ts]
+*** TURN *** [6h Ah Ts][8s]
+*** RIVER *** [6h Ah Ts 8s][7d]
+*** SHOW DOWN ***
+_SKR shows [Kc Qc] (High card : Ace)
+Tiempepito shows [8h Qh] (One pair : 8)
+Tiempepito collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6h Ah Ts 8s 7d]
+Seat 2: Tiempepito (small blind) showed [8h Qh] and won 560 with One pair : 8
+Seat 3: _SKR (big blind) showed [Kc Qc] and lost with High card : Ace
+
+

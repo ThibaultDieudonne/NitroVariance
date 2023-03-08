@@ -1,0 +1,290 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689750529277427713-1-1674649637 - Holdem no limit (10/20) - 2023/01/25 12:27:17 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gautierauv (300)
+Seat 2: _SKR (300)
+Seat 3: Arno___44 (300)
+*** ANTE/BLINDS ***
+Arno___44 posts small blind 10
+Gautierauv posts big blind 20
+Dealt to _SKR [Ks 5d]
+*** PRE-FLOP *** 
+_SKR folds
+Arno___44 folds
+Gautierauv collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Gautierauv (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689750529277427713-2-1674649648 - Holdem no limit (10/20) - 2023/01/25 12:27:28 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gautierauv (310)
+Seat 2: _SKR (300)
+Seat 3: Arno___44 (290)
+*** ANTE/BLINDS ***
+Gautierauv posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [6s 7h]
+*** PRE-FLOP *** 
+Arno___44 calls 20
+Gautierauv calls 10
+_SKR checks
+*** FLOP *** [8s 4c 7d]
+Gautierauv bets 20
+_SKR calls 20
+Arno___44 calls 20
+*** TURN *** [8s 4c 7d][3s]
+Gautierauv bets 270 and is all-in
+_SKR folds
+Arno___44 folds
+Gautierauv collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [8s 4c 7d 3s]
+Seat 1: Gautierauv (small blind) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689750529277427713-3-1674649681 - Holdem no limit (10/20) - 2023/01/25 12:28:01 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gautierauv (390)
+Seat 2: _SKR (260)
+Seat 3: Arno___44 (250)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Arno___44 posts big blind 20
+Dealt to _SKR [Jh 9c]
+*** PRE-FLOP *** 
+Gautierauv raises 20 to 40
+_SKR folds
+Arno___44 calls 20
+*** FLOP *** [9s Qs 4s]
+Arno___44 checks
+Gautierauv bets 20
+Arno___44 calls 20
+*** TURN *** [9s Qs 4s][2s]
+Arno___44 checks
+Gautierauv bets 65
+Arno___44 folds
+Gautierauv collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [9s Qs 4s 2s]
+Seat 1: Gautierauv (button) won 195
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689750529277427713-4-1674649722 - Holdem no limit (15/30) - 2023/01/25 12:28:42 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gautierauv (460)
+Seat 2: _SKR (250)
+Seat 3: Arno___44 (190)
+*** ANTE/BLINDS ***
+Arno___44 posts small blind 15
+Gautierauv posts big blind 30
+Dealt to _SKR [Qs 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Arno___44 raises 60 to 90
+Gautierauv calls 60
+*** FLOP *** [9s Jd Jh]
+Arno___44 checks
+Gautierauv checks
+*** TURN *** [9s Jd Jh][Ks]
+Arno___44 checks
+Gautierauv bets 100
+Arno___44 folds
+Gautierauv collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [9s Jd Jh Ks]
+Seat 1: Gautierauv (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689750529277427713-5-1674649759 - Holdem no limit (20/40) - 2023/01/25 12:29:19 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gautierauv (550)
+Seat 2: _SKR (250)
+Seat 3: Arno___44 (100)
+*** ANTE/BLINDS ***
+Gautierauv posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9c 4c]
+*** PRE-FLOP *** 
+Arno___44 raises 60 to 100 and is all-in
+Gautierauv folds
+_SKR calls 60
+*** FLOP *** [Td 8h 4d]
+*** TURN *** [Td 8h 4d][2s]
+*** RIVER *** [Td 8h 4d 2s][3c]
+*** SHOW DOWN ***
+Arno___44 shows [Ah 3s] (One pair : 3)
+_SKR shows [9c 4c] (One pair : 4)
+_SKR collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Td 8h 4d 2s 3c]
+Seat 2: _SKR (big blind) showed [9c 4c] and won 220 with One pair : 4
+Seat 3: Arno___44 (button) showed [Ah 3s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689750529277427713-6-1674649781 - Holdem no limit (20/40) - 2023/01/25 12:29:41 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gautierauv (530)
+Seat 2: _SKR (370)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Gautierauv posts big blind 40
+Dealt to _SKR [As 8d]
+*** PRE-FLOP *** 
+_SKR raises 330 to 370 and is all-in
+Gautierauv calls 330
+*** FLOP *** [Jh 4d 8c]
+*** TURN *** [Jh 4d 8c][9d]
+*** RIVER *** [Jh 4d 8c 9d][2s]
+*** SHOW DOWN ***
+Gautierauv shows [Ah Qh] (High card : Ace)
+_SKR shows [As 8d] (One pair : 8)
+_SKR collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [Jh 4d 8c 9d 2s]
+Seat 1: Gautierauv (big blind) showed [Ah Qh] and lost with High card : Ace
+Seat 2: _SKR (small blind) (button) showed [As 8d] and won 740 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689750529277427713-7-1674649797 - Holdem no limit (20/40) - 2023/01/25 12:29:57 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gautierauv (160)
+Seat 2: _SKR (740)
+*** ANTE/BLINDS ***
+Gautierauv posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Kh Qd]
+*** PRE-FLOP *** 
+Gautierauv calls 20
+_SKR raises 700 to 740 and is all-in
+Gautierauv calls 120 and is all-in
+*** FLOP *** [6h Td 8d]
+*** TURN *** [6h Td 8d][5c]
+*** RIVER *** [6h Td 8d 5c][7h]
+*** SHOW DOWN ***
+Gautierauv shows [Qc Tc] (One pair : Tens)
+_SKR shows [Kh Qd] (High card : King)
+_SKR collected 580 from side pot 1
+Gautierauv collected 320 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6h Td 8d 5c 7h]
+Seat 1: Gautierauv (small blind) (button) showed [Qc Tc] and won 320 with One pair : Tens
+Seat 2: _SKR (big blind) showed [Kh Qd] and won 580 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689750529277427713-8-1674649814 - Holdem no limit (30/60) - 2023/01/25 12:30:14 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gautierauv (320)
+Seat 2: _SKR (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Gautierauv posts big blind 60
+Dealt to _SKR [Qd 5d]
+*** PRE-FLOP *** 
+_SKR raises 520 to 580 and is all-in
+Gautierauv calls 260 and is all-in
+*** FLOP *** [4d Qs 2h]
+*** TURN *** [4d Qs 2h][9h]
+*** RIVER *** [4d Qs 2h 9h][Tc]
+*** SHOW DOWN ***
+Gautierauv shows [5s Qh] (One pair : Queens)
+_SKR shows [Qd 5d] (One pair : Queens)
+_SKR collected 580 from side pot 1
+Gautierauv collected 320 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d Qs 2h 9h Tc]
+Seat 1: Gautierauv (big blind) showed [5s Qh] and won 320 with One pair : Queens
+Seat 2: _SKR (small blind) (button) showed [Qd 5d] and won 580 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689750529277427713-9-1674649837 - Holdem no limit (30/60) - 2023/01/25 12:30:37 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gautierauv (320)
+Seat 2: _SKR (580)
+*** ANTE/BLINDS ***
+Gautierauv posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [2d 2s]
+*** PRE-FLOP *** 
+Gautierauv folds
+_SKR collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: _SKR (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689750529277427713-10-1674649842 - Holdem no limit (30/60) - 2023/01/25 12:30:42 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gautierauv (290)
+Seat 2: _SKR (610)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Gautierauv posts big blind 60
+Dealt to _SKR [9s 2c]
+*** PRE-FLOP *** 
+_SKR folds
+Gautierauv collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Gautierauv (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689750529277427713-11-1674649848 - Holdem no limit (30/60) - 2023/01/25 12:30:48 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gautierauv (320)
+Seat 2: _SKR (580)
+*** ANTE/BLINDS ***
+Gautierauv posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Jd 9h]
+*** PRE-FLOP *** 
+Gautierauv calls 30
+_SKR raises 520 to 580 and is all-in
+Gautierauv calls 260 and is all-in
+*** FLOP *** [5s 3h 3d]
+*** TURN *** [5s 3h 3d][Js]
+*** RIVER *** [5s 3h 3d Js][4s]
+*** SHOW DOWN ***
+Gautierauv shows [Ac 2c] (Straight 5 high)
+_SKR shows [Jd 9h] (Two pairs : Jacks and 3)
+_SKR collected 260 from side pot 1
+Gautierauv collected 640 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s 3h 3d Js 4s]
+Seat 1: Gautierauv (small blind) (button) showed [Ac 2c] and won 640 with Straight 5 high
+Seat 2: _SKR (big blind) showed [Jd 9h] and won 260 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689750529277427713-12-1674649867 - Holdem no limit (30/60) - 2023/01/25 12:31:07 UTC
+Table: 'Expresso Nitro(626256347)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gautierauv (640)
+Seat 2: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+Gautierauv posts big blind 60
+Dealt to _SKR [2d Kc]
+*** PRE-FLOP *** 
+_SKR raises 200 to 260 and is all-in
+Gautierauv calls 200
+*** FLOP *** [9s 4c As]
+*** TURN *** [9s 4c As][8c]
+*** RIVER *** [9s 4c As 8c][4d]
+*** SHOW DOWN ***
+_SKR shows [2d Kc] (One pair : 4)
+Gautierauv shows [7s 7h] (Two pairs : 7 and 4)
+Gautierauv collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [9s 4c As 8c 4d]
+Seat 1: Gautierauv (big blind) showed [7s 7h] and won 520 with Two pairs : 7 and 4
+Seat 2: _SKR (small blind) (button) showed [2d Kc] and lost with One pair : 4
+
+

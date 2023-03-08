@@ -1,0 +1,312 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698118255146434561-1-1675181490 - Holdem no limit (10/20) - 2023/01/31 16:11:30 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vincemacpich (300)
+Seat 2: _SKR (300)
+Seat 3: chris1k2plus (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+chris1k2plus posts big blind 20
+Dealt to _SKR [5h Qh]
+*** PRE-FLOP *** 
+vincemacpich raises 30 to 50
+_SKR folds
+chris1k2plus calls 30
+*** FLOP *** [Td 3c 8d]
+chris1k2plus checks
+vincemacpich checks
+*** TURN *** [Td 3c 8d][5c]
+chris1k2plus checks
+vincemacpich checks
+*** RIVER *** [Td 3c 8d 5c][5d]
+chris1k2plus checks
+vincemacpich checks
+*** SHOW DOWN ***
+chris1k2plus shows [Qc 6s] (One pair : 5)
+vincemacpich shows [7c Ah] (One pair : 5)
+vincemacpich collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [Td 3c 8d 5c 5d]
+Seat 1: vincemacpich (button) showed [7c Ah] and won 110 with One pair : 5
+Seat 3: chris1k2plus (big blind) showed [Qc 6s] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698118255146434561-2-1675181531 - Holdem no limit (10/20) - 2023/01/31 16:12:11 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #2 is the button
+Seat 1: vincemacpich (360)
+Seat 2: _SKR (290)
+Seat 3: chris1k2plus (250)
+*** ANTE/BLINDS ***
+chris1k2plus posts small blind 10
+vincemacpich posts big blind 20
+Dealt to _SKR [8h 5h]
+*** PRE-FLOP *** 
+_SKR folds
+chris1k2plus raises 30 to 50
+vincemacpich calls 30
+*** FLOP *** [4c Qd Jc]
+chris1k2plus bets 35
+vincemacpich calls 35
+*** TURN *** [4c Qd Jc][6s]
+chris1k2plus bets 59
+vincemacpich raises 59 to 118
+chris1k2plus raises 47 to 165 and is all-in
+vincemacpich calls 47
+*** RIVER *** [4c Qd Jc 6s][3h]
+*** SHOW DOWN ***
+chris1k2plus shows [Qh Ts] (One pair : Queens)
+vincemacpich shows [Jh Qc] (Two pairs : Queens and Jacks)
+vincemacpich collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [4c Qd Jc 6s 3h]
+Seat 1: vincemacpich (big blind) showed [Jh Qc] and won 500 with Two pairs : Queens and Jacks
+Seat 3: chris1k2plus (small blind) showed [Qh Ts] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698118255146434561-3-1675181571 - Holdem no limit (15/30) - 2023/01/31 16:12:51 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vincemacpich (610)
+Seat 2: _SKR (290)
+*** ANTE/BLINDS ***
+vincemacpich posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Js Qc]
+*** PRE-FLOP *** 
+vincemacpich folds
+_SKR collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: _SKR (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698118255146434561-4-1675181576 - Holdem no limit (15/30) - 2023/01/31 16:12:56 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #2 is the button
+Seat 1: vincemacpich (595)
+Seat 2: _SKR (305)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+vincemacpich posts big blind 30
+Dealt to _SKR [4s Tc]
+*** PRE-FLOP *** 
+_SKR folds
+vincemacpich collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: vincemacpich (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698118255146434561-5-1675181583 - Holdem no limit (15/30) - 2023/01/31 16:13:03 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vincemacpich (610)
+Seat 2: _SKR (290)
+*** ANTE/BLINDS ***
+vincemacpich posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [6s As]
+*** PRE-FLOP *** 
+vincemacpich raises 45 to 75
+_SKR raises 215 to 290 and is all-in
+vincemacpich calls 215
+*** FLOP *** [Kh 7d Ah]
+*** TURN *** [Kh 7d Ah][Tc]
+*** RIVER *** [Kh 7d Ah Tc][Ks]
+*** SHOW DOWN ***
+vincemacpich shows [3d Ad] (Two pairs : Aces and Kings)
+_SKR shows [6s As] (Two pairs : Aces and Kings)
+_SKR collected 290 from pot
+vincemacpich collected 290 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Kh 7d Ah Tc Ks]
+Seat 1: vincemacpich (small blind) (button) showed [3d Ad] and won 290 with Two pairs : Aces and Kings
+Seat 2: _SKR (big blind) showed [6s As] and won 290 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2698118255146434561-6-1675181601 - Holdem no limit (15/30) - 2023/01/31 16:13:21 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #2 is the button
+Seat 1: vincemacpich (610)
+Seat 2: _SKR (290)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+vincemacpich posts big blind 30
+Dealt to _SKR [Ad Ac]
+*** PRE-FLOP *** 
+_SKR calls 15
+vincemacpich raises 45 to 75
+_SKR raises 215 to 290 and is all-in
+vincemacpich calls 215
+*** FLOP *** [6s 9s Jh]
+*** TURN *** [6s 9s Jh][Js]
+*** RIVER *** [6s 9s Jh Js][3d]
+*** SHOW DOWN ***
+vincemacpich shows [7s Ah] (One pair : Jacks)
+_SKR shows [Ad Ac] (Two pairs : Aces and Jacks)
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6s 9s Jh Js 3d]
+Seat 1: vincemacpich (big blind) showed [7s Ah] and lost with One pair : Jacks
+Seat 2: _SKR (small blind) (button) showed [Ad Ac] and won 580 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698118255146434561-7-1675181623 - Holdem no limit (20/40) - 2023/01/31 16:13:43 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vincemacpich (320)
+Seat 2: _SKR (580)
+*** ANTE/BLINDS ***
+vincemacpich posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [Jh Js]
+*** PRE-FLOP *** 
+vincemacpich raises 60 to 100
+_SKR raises 480 to 580 and is all-in
+vincemacpich calls 220 and is all-in
+*** FLOP *** [Ad 4s Ts]
+*** TURN *** [Ad 4s Ts][7c]
+*** RIVER *** [Ad 4s Ts 7c][3h]
+*** SHOW DOWN ***
+vincemacpich shows [Th Tc] (Trips of Tens)
+_SKR shows [Jh Js] (One pair : Jacks)
+_SKR collected 260 from side pot 1
+vincemacpich collected 640 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ad 4s Ts 7c 3h]
+Seat 1: vincemacpich (small blind) (button) showed [Th Tc] and won 640 with Trips of Tens
+Seat 2: _SKR (big blind) showed [Jh Js] and won 260 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698118255146434561-8-1675181644 - Holdem no limit (20/40) - 2023/01/31 16:14:04 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #2 is the button
+Seat 1: vincemacpich (640)
+Seat 2: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+vincemacpich posts big blind 40
+Dealt to _SKR [Qc 2d]
+*** PRE-FLOP *** 
+_SKR folds
+vincemacpich collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: vincemacpich (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698118255146434561-9-1675181650 - Holdem no limit (20/40) - 2023/01/31 16:14:10 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vincemacpich (660)
+Seat 2: _SKR (240)
+*** ANTE/BLINDS ***
+vincemacpich posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [9h Ah]
+*** PRE-FLOP *** 
+vincemacpich folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: _SKR (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2698118255146434561-10-1675181655 - Holdem no limit (20/40) - 2023/01/31 16:14:15 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #2 is the button
+Seat 1: vincemacpich (640)
+Seat 2: _SKR (260)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+vincemacpich posts big blind 40
+Dealt to _SKR [Qc 4c]
+*** PRE-FLOP *** 
+_SKR raises 220 to 260 and is all-in
+vincemacpich calls 220
+*** FLOP *** [Qs 8d Jc]
+*** TURN *** [Qs 8d Jc][Ad]
+*** RIVER *** [Qs 8d Jc Ad][8h]
+*** SHOW DOWN ***
+vincemacpich shows [Kh 9h] (One pair : 8)
+_SKR shows [Qc 4c] (Two pairs : Queens and 8)
+_SKR collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Qs 8d Jc Ad 8h]
+Seat 1: vincemacpich (big blind) showed [Kh 9h] and lost with One pair : 8
+Seat 2: _SKR (small blind) (button) showed [Qc 4c] and won 520 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698118255146434561-11-1675181669 - Holdem no limit (30/60) - 2023/01/31 16:14:29 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vincemacpich (380)
+Seat 2: _SKR (520)
+*** ANTE/BLINDS ***
+vincemacpich posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [3s 3d]
+*** PRE-FLOP *** 
+vincemacpich calls 30
+_SKR raises 460 to 520 and is all-in
+vincemacpich folds
+_SKR collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 2: _SKR (big blind) won 580
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698118255146434561-12-1675181678 - Holdem no limit (30/60) - 2023/01/31 16:14:38 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #2 is the button
+Seat 1: vincemacpich (320)
+Seat 2: _SKR (580)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+vincemacpich posts big blind 60
+Dealt to _SKR [2h 3d]
+*** PRE-FLOP *** 
+_SKR folds
+vincemacpich collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: vincemacpich (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698118255146434561-13-1675181688 - Holdem no limit (30/60) - 2023/01/31 16:14:48 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vincemacpich (350)
+Seat 2: _SKR (550)
+*** ANTE/BLINDS ***
+vincemacpich posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [9s 5h]
+*** PRE-FLOP *** 
+vincemacpich raises 90 to 150
+_SKR folds
+vincemacpich collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 1: vincemacpich (small blind) (button) won 210
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2698118255146434561-14-1675181697 - Holdem no limit (30/60) - 2023/01/31 16:14:57 UTC
+Table: 'Expresso Nitro(628204610)#0' 3-max (real money) Seat #2 is the button
+Seat 1: vincemacpich (410)
+Seat 2: _SKR (490)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+vincemacpich posts big blind 60
+Dealt to _SKR [3h Ah]
+*** PRE-FLOP *** 
+_SKR raises 430 to 490 and is all-in
+vincemacpich calls 350 and is all-in
+*** FLOP *** [2d 4h 5s]
+*** TURN *** [2d 4h 5s][4s]
+*** RIVER *** [2d 4h 5s 4s][7c]
+*** SHOW DOWN ***
+vincemacpich shows [Ac As] (Two pairs : Aces and 4)
+_SKR shows [3h Ah] (Straight 5 high)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d 4h 5s 4s 7c]
+Seat 1: vincemacpich (big blind) showed [Ac As] and lost with Two pairs : Aces and 4
+Seat 2: _SKR (small blind) (button) showed [3h Ah] and won 900 with Straight 5 high
+
+

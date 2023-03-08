@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674132718224146433-1-1673702650 - Holdem no limit (10/20) - 2023/01/14 13:24:10 UTC
+Table: 'Expresso Nitro(622620042)#0' 3-max (real money) Seat #1 is the button
+Seat 1: moussa6969 (300)
+Seat 2: giroudfred (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+giroudfred posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9c Kc]
+*** PRE-FLOP *** 
+moussa6969 calls 20
+giroudfred raises 280 to 300 and is all-in
+_SKR folds
+moussa6969 calls 280 and is all-in
+*** FLOP *** [8s 7d Js]
+*** TURN *** [8s 7d Js][7c]
+*** RIVER *** [8s 7d Js 7c][5c]
+*** SHOW DOWN ***
+moussa6969 shows [3s Th] (One pair : 7)
+giroudfred shows [Jc Jh] (Full of Jacks and 7)
+giroudfred collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8s 7d Js 7c 5c]
+Seat 1: moussa6969 (button) showed [3s Th] and lost with One pair : 7
+Seat 2: giroudfred (small blind) showed [Jc Jh] and won 620 with Full of Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2674132718224146433-2-1673702672 - Holdem no limit (10/20) - 2023/01/14 13:24:32 UTC
+Table: 'Expresso Nitro(622620042)#0' 3-max (real money) Seat #3 is the button
+Seat 2: giroudfred (620)
+Seat 3: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+giroudfred posts big blind 20
+Dealt to _SKR [As Qd]
+*** PRE-FLOP *** 
+_SKR raises 260 to 280 and is all-in
+giroudfred calls 260
+*** FLOP *** [Jc 4h 6c]
+*** TURN *** [Jc 4h 6c][8s]
+*** RIVER *** [Jc 4h 6c 8s][4d]
+*** SHOW DOWN ***
+_SKR shows [As Qd] (One pair : 4)
+giroudfred shows [6h Ad] (Two pairs : 6 and 4)
+giroudfred collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Jc 4h 6c 8s 4d]
+Seat 2: giroudfred (big blind) showed [6h Ad] and won 560 with Two pairs : 6 and 4
+Seat 3: _SKR (small blind) (button) showed [As Qd] and lost with One pair : 4
+
+

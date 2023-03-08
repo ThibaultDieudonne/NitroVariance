@@ -1,0 +1,262 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689811625187213313-1-1674653363 - Holdem no limit (10/20) - 2023/01/25 13:29:23 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ouakman (300)
+Seat 2: Flushdraw65 (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+ouakman posts small blind 10
+Flushdraw65 posts big blind 20
+Dealt to _SKR [2c 6s]
+*** PRE-FLOP *** 
+_SKR folds
+ouakman calls 10
+Flushdraw65 checks
+*** FLOP *** [Ks 6h 7s]
+ouakman checks
+Flushdraw65 checks
+*** TURN *** [Ks 6h 7s][9d]
+ouakman checks
+Flushdraw65 checks
+*** RIVER *** [Ks 6h 7s 9d][As]
+ouakman checks
+Flushdraw65 checks
+*** SHOW DOWN ***
+Flushdraw65 shows [4s 3h] (High card : Ace)
+ouakman shows [Qh 4c] (High card : Ace)
+ouakman collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ks 6h 7s 9d As]
+Seat 1: ouakman (small blind) showed [Qh 4c] and won 40 with High card : Ace
+Seat 2: Flushdraw65 (big blind) showed [4s 3h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689811625187213313-2-1674653396 - Holdem no limit (10/20) - 2023/01/25 13:29:56 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ouakman (320)
+Seat 2: Flushdraw65 (280)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+Flushdraw65 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8c As]
+*** PRE-FLOP *** 
+ouakman calls 20
+Flushdraw65 folds
+_SKR raises 280 to 300 and is all-in
+ouakman folds
+_SKR collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: _SKR (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2689811625187213313-3-1674653411 - Holdem no limit (10/20) - 2023/01/25 13:30:11 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ouakman (300)
+Seat 2: Flushdraw65 (270)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+ouakman posts big blind 20
+Dealt to _SKR [7d 5d]
+*** PRE-FLOP *** 
+Flushdraw65 calls 20
+_SKR folds
+ouakman checks
+*** FLOP *** [Qh 7s 5s]
+ouakman checks
+Flushdraw65 checks
+*** TURN *** [Qh 7s 5s][5c]
+ouakman checks
+Flushdraw65 checks
+*** RIVER *** [Qh 7s 5s 5c][6s]
+ouakman checks
+Flushdraw65 checks
+*** SHOW DOWN ***
+Flushdraw65 shows [4d Ks] (One pair : 5)
+ouakman shows [Ad 2s] (One pair : 5)
+ouakman collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Qh 7s 5s 5c 6s]
+Seat 1: ouakman (big blind) showed [Ad 2s] and won 50 with One pair : 5
+Seat 2: Flushdraw65 (button) showed [4d Ks] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2689811625187213313-4-1674653473 - Holdem no limit (15/30) - 2023/01/25 13:31:13 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ouakman (330)
+Seat 2: Flushdraw65 (250)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+ouakman posts small blind 15
+Flushdraw65 posts big blind 30
+Dealt to _SKR [As Ac]
+*** PRE-FLOP *** 
+_SKR raises 30 to 60
+ouakman folds
+Flushdraw65 folds
+_SKR collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: _SKR (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689811625187213313-5-1674653488 - Holdem no limit (20/40) - 2023/01/25 13:31:28 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ouakman (315)
+Seat 2: Flushdraw65 (220)
+Seat 3: _SKR (365)
+*** ANTE/BLINDS ***
+Flushdraw65 posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7d Td]
+*** PRE-FLOP *** 
+ouakman calls 40
+Flushdraw65 folds
+_SKR checks
+*** FLOP *** [Qs 6s Kd]
+_SKR checks
+ouakman bets 275 and is all-in
+_SKR folds
+ouakman collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [Qs 6s Kd]
+Seat 1: ouakman (button) won 375
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2689811625187213313-6-1674653528 - Holdem no limit (20/40) - 2023/01/25 13:32:08 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ouakman (375)
+Seat 2: Flushdraw65 (200)
+Seat 3: _SKR (325)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+ouakman posts big blind 40
+Dealt to _SKR [8c 5s]
+*** PRE-FLOP *** 
+Flushdraw65 raises 40 to 80
+_SKR folds
+ouakman folds
+Flushdraw65 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: Flushdraw65 (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689811625187213313-7-1674653545 - Holdem no limit (30/60) - 2023/01/25 13:32:25 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ouakman (335)
+Seat 2: Flushdraw65 (260)
+Seat 3: _SKR (305)
+*** ANTE/BLINDS ***
+ouakman posts small blind 30
+Flushdraw65 posts big blind 60
+Dealt to _SKR [Th Kc]
+*** PRE-FLOP *** 
+_SKR raises 245 to 305 and is all-in
+ouakman folds
+Flushdraw65 calls 200 and is all-in
+*** FLOP *** [Ks Td Ad]
+*** TURN *** [Ks Td Ad][Ah]
+*** RIVER *** [Ks Td Ad Ah][4d]
+*** SHOW DOWN ***
+Flushdraw65 shows [5s 2s] (One pair : Aces)
+_SKR shows [Th Kc] (Two pairs : Aces and Kings)
+_SKR collected 595 from pot
+*** SUMMARY ***
+Total pot 595 | No rake
+Board: [Ks Td Ad Ah 4d]
+Seat 2: Flushdraw65 (big blind) showed [5s 2s] and lost with One pair : Aces
+Seat 3: _SKR (button) showed [Th Kc] and won 595 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689811625187213313-8-1674653563 - Holdem no limit (30/60) - 2023/01/25 13:32:43 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ouakman (305)
+Seat 3: _SKR (595)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+ouakman posts big blind 60
+Dealt to _SKR [Qd 9h]
+*** PRE-FLOP *** 
+_SKR raises 535 to 595 and is all-in
+ouakman folds
+_SKR collected 655 from pot
+*** SUMMARY ***
+Total pot 655 | No rake
+Seat 3: _SKR (small blind) (button) won 655
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689811625187213313-9-1674653570 - Holdem no limit (30/60) - 2023/01/25 13:32:50 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ouakman (245)
+Seat 3: _SKR (655)
+*** ANTE/BLINDS ***
+ouakman posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [Kh 3c]
+*** PRE-FLOP *** 
+ouakman calls 30
+_SKR raises 595 to 655 and is all-in
+ouakman folds
+_SKR collected 715 from pot
+*** SUMMARY ***
+Total pot 715 | No rake
+Seat 3: _SKR (big blind) won 715
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689811625187213313-10-1674653582 - Holdem no limit (30/60) - 2023/01/25 13:33:02 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ouakman (185)
+Seat 3: _SKR (715)
+*** ANTE/BLINDS ***
+_SKR posts small blind 30
+ouakman posts big blind 60
+Dealt to _SKR [4d 8d]
+*** PRE-FLOP *** 
+_SKR raises 655 to 715 and is all-in
+ouakman calls 125 and is all-in
+*** FLOP *** [Qd Qh 5s]
+*** TURN *** [Qd Qh 5s][Qs]
+*** RIVER *** [Qd Qh 5s Qs][Td]
+*** SHOW DOWN ***
+ouakman shows [Ts 7c] (Full of Queens and Tens)
+_SKR shows [4d 8d] (Trips of Queens)
+_SKR collected 530 from side pot 1
+ouakman collected 370 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd Qh 5s Qs Td]
+Seat 1: ouakman (big blind) showed [Ts 7c] and won 370 with Full of Queens and Tens
+Seat 3: _SKR (small blind) (button) showed [4d 8d] and won 530 with Trips of Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2689811625187213313-11-1674653595 - Holdem no limit (30/60) - 2023/01/25 13:33:15 UTC
+Table: 'Expresso Nitro(626270572)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ouakman (370)
+Seat 3: _SKR (530)
+*** ANTE/BLINDS ***
+ouakman posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [As Ts]
+*** PRE-FLOP *** 
+ouakman calls 30
+_SKR raises 470 to 530 and is all-in
+ouakman calls 310 and is all-in
+*** FLOP *** [4c 2h 6d]
+*** TURN *** [4c 2h 6d][4h]
+*** RIVER *** [4c 2h 6d 4h][7h]
+*** SHOW DOWN ***
+ouakman shows [Ks Jc] (One pair : 4)
+_SKR shows [As Ts] (One pair : 4)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c 2h 6d 4h 7h]
+Seat 1: ouakman (small blind) (button) showed [Ks Jc] and lost with One pair : 4
+Seat 3: _SKR (big blind) showed [As Ts] and won 900 with One pair : 4
+
+

@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696942636698173441-1-1675104324 - Holdem no limit (10/20) - 2023/01/30 18:45:24 UTC
+Table: 'Expresso Nitro(627930890)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Emerickabj (300)
+Seat 2: _SKR (300)
+Seat 3: Botche82 (300)
+*** ANTE/BLINDS ***
+Emerickabj posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [8h 4d]
+*** PRE-FLOP *** 
+Botche82 folds
+Emerickabj calls 10
+_SKR checks
+*** FLOP *** [Qs Kc 8d]
+Emerickabj bets 280 and is all-in
+_SKR folds
+Emerickabj collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Qs Kc 8d]
+Seat 1: Emerickabj (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696942636698173441-2-1675104338 - Holdem no limit (10/20) - 2023/01/30 18:45:38 UTC
+Table: 'Expresso Nitro(627930890)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Emerickabj (320)
+Seat 2: _SKR (280)
+Seat 3: Botche82 (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Botche82 posts big blind 20
+Dealt to _SKR [Ks Kd]
+*** PRE-FLOP *** 
+Emerickabj calls 20
+_SKR raises 260 to 280 and is all-in
+Botche82 folds
+Emerickabj calls 260
+*** FLOP *** [7c Ad 6h]
+*** TURN *** [7c Ad 6h][Tc]
+*** RIVER *** [7c Ad 6h Tc][Jd]
+*** SHOW DOWN ***
+_SKR shows [Ks Kd] (One pair : Kings)
+Emerickabj shows [7s Ts] (Two pairs : Tens and 7)
+Emerickabj collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [7c Ad 6h Tc Jd]
+Seat 1: Emerickabj (button) showed [7s Ts] and won 580 with Two pairs : Tens and 7
+Seat 2: _SKR (small blind) showed [Ks Kd] and lost with One pair : Kings
+
+

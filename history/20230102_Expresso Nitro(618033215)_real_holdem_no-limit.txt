@@ -1,0 +1,154 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654432446266736641-1-1672660207 - Holdem no limit (10/20) - 2023/01/02 11:50:07 UTC
+Table: 'Expresso Nitro(618033215)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tactac.bg (300)
+Seat 2: Bernobini na (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tactac.bg posts big blind 20
+Dealt to _SKR [Jc Td]
+*** PRE-FLOP *** 
+Bernobini na folds
+_SKR calls 10
+tactac.bg checks
+*** FLOP *** [3c Ac 6s]
+_SKR bets 20
+tactac.bg folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3c Ac 6s]
+Seat 3: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654432446266736641-2-1672660228 - Holdem no limit (10/20) - 2023/01/02 11:50:28 UTC
+Table: 'Expresso Nitro(618033215)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tactac.bg (280)
+Seat 2: Bernobini na (300)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+tactac.bg posts small blind 10
+Bernobini na posts big blind 20
+Dealt to _SKR [Js 7h]
+*** PRE-FLOP *** 
+_SKR folds
+tactac.bg folds
+Bernobini na collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Bernobini na (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654432446266736641-3-1672660239 - Holdem no limit (10/20) - 2023/01/02 11:50:39 UTC
+Table: 'Expresso Nitro(618033215)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tactac.bg (270)
+Seat 2: Bernobini na (310)
+Seat 3: _SKR (320)
+*** ANTE/BLINDS ***
+Bernobini na posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Tc Jd]
+*** PRE-FLOP *** 
+tactac.bg calls 20
+Bernobini na calls 10
+_SKR checks
+*** FLOP *** [7s 6c 2c]
+Bernobini na bets 60
+_SKR folds
+tactac.bg folds
+Bernobini na collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7s 6c 2c]
+Seat 2: Bernobini na (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2654432446266736641-4-1672660261 - Holdem no limit (10/20) - 2023/01/02 11:51:01 UTC
+Table: 'Expresso Nitro(618033215)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tactac.bg (250)
+Seat 2: Bernobini na (350)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+tactac.bg posts big blind 20
+Dealt to _SKR [8d 7h]
+*** PRE-FLOP *** 
+Bernobini na raises 50 to 70
+_SKR folds
+tactac.bg folds
+Bernobini na collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: Bernobini na (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2654432446266736641-5-1672660277 - Holdem no limit (15/30) - 2023/01/02 11:51:17 UTC
+Table: 'Expresso Nitro(618033215)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tactac.bg (230)
+Seat 2: Bernobini na (380)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+tactac.bg posts small blind 15
+Bernobini na posts big blind 30
+Dealt to _SKR [Ts 6d]
+*** PRE-FLOP *** 
+_SKR folds
+tactac.bg folds
+Bernobini na collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Bernobini na (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2654432446266736641-6-1672660282 - Holdem no limit (15/30) - 2023/01/02 11:51:22 UTC
+Table: 'Expresso Nitro(618033215)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tactac.bg (215)
+Seat 2: Bernobini na (395)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Bernobini na posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Kc Jc]
+*** PRE-FLOP *** 
+tactac.bg raises 185 to 215 and is all-in
+Bernobini na folds
+_SKR calls 185
+*** FLOP *** [5s 8s 2d]
+*** TURN *** [5s 8s 2d][Td]
+*** RIVER *** [5s 8s 2d Td][5c]
+*** SHOW DOWN ***
+tactac.bg shows [Qc Jd] (One pair : 5)
+_SKR shows [Kc Jc] (One pair : 5)
+_SKR collected 445 from pot
+*** SUMMARY ***
+Total pot 445 | No rake
+Board: [5s 8s 2d Td 5c]
+Seat 1: tactac.bg (button) showed [Qc Jd] and lost with One pair : 5
+Seat 3: _SKR (big blind) showed [Kc Jc] and won 445 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2654432446266736641-7-1672660305 - Holdem no limit (15/30) - 2023/01/02 11:51:45 UTC
+Table: 'Expresso Nitro(618033215)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Bernobini na (380)
+Seat 3: _SKR (520)
+*** ANTE/BLINDS ***
+_SKR posts small blind 15
+Bernobini na posts big blind 30
+Dealt to _SKR [Ad 7c]
+*** PRE-FLOP *** 
+_SKR raises 490 to 520 and is all-in
+Bernobini na calls 350 and is all-in
+*** FLOP *** [4d Ac Qs]
+*** TURN *** [4d Ac Qs][3s]
+*** RIVER *** [4d Ac Qs 3s][Ks]
+*** SHOW DOWN ***
+Bernobini na shows [Qd Jd] (One pair : Queens)
+_SKR shows [Ad 7c] (One pair : Aces)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d Ac Qs 3s Ks]
+Seat 2: Bernobini na (big blind) showed [Qd Jd] and lost with One pair : Queens
+Seat 3: _SKR (small blind) (button) showed [Ad 7c] and won 900 with One pair : Aces
+
+

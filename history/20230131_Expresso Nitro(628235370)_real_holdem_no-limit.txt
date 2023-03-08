@@ -1,0 +1,111 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698250368340459521-1-1675187406 - Holdem no limit (10/20) - 2023/01/31 17:50:06 UTC
+Table: 'Expresso Nitro(628235370)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Nene120201 (300)
+Seat 2: DiEgOkaOs (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Nene120201 posts big blind 20
+Dealt to _SKR [Ts 5h]
+*** PRE-FLOP *** 
+DiEgOkaOs folds
+_SKR folds
+Nene120201 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Nene120201 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698250368340459521-2-1675187414 - Holdem no limit (10/20) - 2023/01/31 17:50:14 UTC
+Table: 'Expresso Nitro(628235370)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Nene120201 (310)
+Seat 2: DiEgOkaOs (300)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+Nene120201 posts small blind 10
+DiEgOkaOs posts big blind 20
+Dealt to _SKR [Qs 4h]
+*** PRE-FLOP *** 
+_SKR folds
+Nene120201 calls 10
+DiEgOkaOs checks
+*** FLOP *** [5d Qc Qd]
+Nene120201 bets 20
+DiEgOkaOs folds
+Nene120201 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [5d Qc Qd]
+Seat 1: Nene120201 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698250368340459521-3-1675187428 - Holdem no limit (10/20) - 2023/01/31 17:50:28 UTC
+Table: 'Expresso Nitro(628235370)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nene120201 (330)
+Seat 2: DiEgOkaOs (280)
+Seat 3: _SKR (290)
+*** ANTE/BLINDS ***
+DiEgOkaOs posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ts Ad]
+*** PRE-FLOP *** 
+Nene120201 folds
+DiEgOkaOs raises 260 to 280 and is all-in
+_SKR raises 10 to 290 and is all-in
+*** FLOP *** [Qd 7d 9c]
+*** TURN *** [Qd 7d 9c][Tc]
+*** RIVER *** [Qd 7d 9c Tc][Qc]
+*** SHOW DOWN ***
+DiEgOkaOs shows [7c Ks] (Two pairs : Queens and 7)
+_SKR shows [Ts Ad] (Two pairs : Queens and Tens)
+_SKR collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Qd 7d 9c Tc Qc]
+Seat 2: DiEgOkaOs (small blind) showed [7c Ks] and lost with Two pairs : Queens and 7
+Seat 3: _SKR (big blind) showed [Ts Ad] and won 570 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698250368340459521-4-1675187445 - Holdem no limit (10/20) - 2023/01/31 17:50:45 UTC
+Table: 'Expresso Nitro(628235370)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Nene120201 (330)
+Seat 3: _SKR (570)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Nene120201 posts big blind 20
+Dealt to _SKR [Qs 2s]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+Nene120201 folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: _SKR (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2698250368340459521-5-1675187455 - Holdem no limit (10/20) - 2023/01/31 17:50:55 UTC
+Table: 'Expresso Nitro(628235370)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nene120201 (310)
+Seat 3: _SKR (590)
+*** ANTE/BLINDS ***
+Nene120201 posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9h 9d]
+*** PRE-FLOP *** 
+Nene120201 calls 10
+_SKR raises 570 to 590 and is all-in
+Nene120201 calls 290 and is all-in
+*** FLOP *** [Jc Tc Jh]
+*** TURN *** [Jc Tc Jh][4c]
+*** RIVER *** [Jc Tc Jh 4c][7h]
+*** SHOW DOWN ***
+Nene120201 shows [9c Ks] (One pair : Jacks)
+_SKR shows [9h 9d] (Two pairs : Jacks and 9)
+_SKR collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jc Tc Jh 4c 7h]
+Seat 1: Nene120201 (small blind) (button) showed [9c Ks] and lost with One pair : Jacks
+Seat 3: _SKR (big blind) showed [9h 9d] and won 900 with Two pairs : Jacks and 9
+
+

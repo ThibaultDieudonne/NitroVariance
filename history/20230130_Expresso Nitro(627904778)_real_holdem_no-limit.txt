@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696830486512140289-1-1675099765 - Holdem no limit (10/20) - 2023/01/30 17:29:25 UTC
+Table: 'Expresso Nitro(627904778)#0' 3-max (real money) Seat #3 is the button
+Seat 1: sorrocloco (300)
+Seat 2: _SKR (300)
+Seat 3: JinJim (300)
+*** ANTE/BLINDS ***
+sorrocloco posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9c 5s]
+*** PRE-FLOP *** 
+JinJim calls 20
+sorrocloco calls 10
+_SKR checks
+*** FLOP *** [6c 4d Js]
+sorrocloco bets 20
+_SKR folds
+JinJim calls 20
+*** TURN *** [6c 4d Js][Qs]
+sorrocloco bets 35
+JinJim raises 225 to 260 and is all-in
+sorrocloco calls 225 and is all-in
+*** RIVER *** [6c 4d Js Qs][Th]
+*** SHOW DOWN ***
+JinJim shows [9h 9s] (One pair : 9)
+sorrocloco shows [4c 4s] (Trips of 4)
+sorrocloco collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [6c 4d Js Qs Th]
+Seat 1: sorrocloco (small blind) showed [4c 4s] and won 620 with Trips of 4
+Seat 3: JinJim (button) showed [9h 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696830486512140289-2-1675099806 - Holdem no limit (10/20) - 2023/01/30 17:30:06 UTC
+Table: 'Expresso Nitro(627904778)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sorrocloco (620)
+Seat 2: _SKR (280)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+sorrocloco posts big blind 20
+Dealt to _SKR [Td 4d]
+*** PRE-FLOP *** 
+_SKR folds
+sorrocloco collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: sorrocloco (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2696830486512140289-3-1675099810 - Holdem no limit (10/20) - 2023/01/30 17:30:10 UTC
+Table: 'Expresso Nitro(627904778)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sorrocloco (630)
+Seat 2: _SKR (270)
+*** ANTE/BLINDS ***
+sorrocloco posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Ah Ad]
+*** PRE-FLOP *** 
+sorrocloco calls 10
+_SKR raises 30 to 50
+sorrocloco calls 30
+*** FLOP *** [6c 3h Kc]
+_SKR bets 35
+sorrocloco calls 35
+*** TURN *** [6c 3h Kc][9h]
+_SKR bets 185 and is all-in
+sorrocloco calls 185
+*** RIVER *** [6c 3h Kc 9h][8s]
+*** SHOW DOWN ***
+_SKR shows [Ah Ad] (One pair : Aces)
+sorrocloco shows [8c 9c] (Two pairs : 9 and 8)
+sorrocloco collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [6c 3h Kc 9h 8s]
+Seat 1: sorrocloco (small blind) (button) showed [8c 9c] and won 540 with Two pairs : 9 and 8
+Seat 2: _SKR (big blind) showed [Ah Ad] and lost with One pair : Aces
+
+

@@ -1,0 +1,223 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672612420060446721-1-1673616597 - Holdem no limit (10/20) - 2023/01/13 13:29:57 UTC
+Table: 'Expresso Nitro(622266070)#0' 3-max (real money) Seat #1 is the button
+Seat 1: GOUTCERISE (300)
+Seat 2: _LeProcess_ (300)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+_LeProcess_ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9s Jc]
+*** PRE-FLOP *** 
+GOUTCERISE folds
+_LeProcess_ folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672612420060446721-2-1673616609 - Holdem no limit (10/20) - 2023/01/13 13:30:09 UTC
+Table: 'Expresso Nitro(622266070)#0' 3-max (real money) Seat #2 is the button
+Seat 1: GOUTCERISE (300)
+Seat 2: _LeProcess_ (290)
+Seat 3: _SKR (310)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+GOUTCERISE posts big blind 20
+Dealt to _SKR [Kh 6d]
+*** PRE-FLOP *** 
+_LeProcess_ raises 270 to 290 and is all-in
+_SKR folds
+GOUTCERISE folds
+_LeProcess_ collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: _LeProcess_ (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672612420060446721-3-1673616619 - Holdem no limit (10/20) - 2023/01/13 13:30:19 UTC
+Table: 'Expresso Nitro(622266070)#0' 3-max (real money) Seat #3 is the button
+Seat 1: GOUTCERISE (280)
+Seat 2: _LeProcess_ (320)
+Seat 3: _SKR (300)
+*** ANTE/BLINDS ***
+GOUTCERISE posts small blind 10
+_LeProcess_ posts big blind 20
+Dealt to _SKR [Tc Kc]
+*** PRE-FLOP *** 
+_SKR raises 20 to 40
+GOUTCERISE folds
+_LeProcess_ folds
+_SKR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: _SKR (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672612420060446721-4-1673616634 - Holdem no limit (10/20) - 2023/01/13 13:30:34 UTC
+Table: 'Expresso Nitro(622266070)#0' 3-max (real money) Seat #1 is the button
+Seat 1: GOUTCERISE (270)
+Seat 2: _LeProcess_ (300)
+Seat 3: _SKR (330)
+*** ANTE/BLINDS ***
+_LeProcess_ posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [9d 9s]
+*** PRE-FLOP *** 
+GOUTCERISE folds
+_LeProcess_ folds
+_SKR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: _SKR (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2672612420060446721-5-1673616641 - Holdem no limit (10/20) - 2023/01/13 13:30:41 UTC
+Table: 'Expresso Nitro(622266070)#0' 3-max (real money) Seat #2 is the button
+Seat 1: GOUTCERISE (270)
+Seat 2: _LeProcess_ (290)
+Seat 3: _SKR (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+GOUTCERISE posts big blind 20
+Dealt to _SKR [8d Qd]
+*** PRE-FLOP *** 
+_LeProcess_ folds
+_SKR calls 10
+GOUTCERISE checks
+*** FLOP *** [9h Ks Kc]
+_SKR bets 20
+GOUTCERISE folds
+_SKR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9h Ks Kc]
+Seat 3: _SKR (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2672612420060446721-6-1673616674 - Holdem no limit (15/30) - 2023/01/13 13:31:14 UTC
+Table: 'Expresso Nitro(622266070)#0' 3-max (real money) Seat #3 is the button
+Seat 1: GOUTCERISE (250)
+Seat 2: _LeProcess_ (290)
+Seat 3: _SKR (360)
+*** ANTE/BLINDS ***
+GOUTCERISE posts small blind 15
+_LeProcess_ posts big blind 30
+Dealt to _SKR [4s 4h]
+*** PRE-FLOP *** 
+_SKR raises 330 to 360 and is all-in
+GOUTCERISE folds
+_LeProcess_ calls 260 and is all-in
+*** FLOP *** [Jd Ac 3h]
+*** TURN *** [Jd Ac 3h][9s]
+*** RIVER *** [Jd Ac 3h 9s][5d]
+*** SHOW DOWN ***
+_LeProcess_ shows [Ad Qh] (One pair : Aces)
+_SKR shows [4s 4h] (One pair : 4)
+_SKR collected 70 from side pot 1
+_LeProcess_ collected 595 from main pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Board: [Jd Ac 3h 9s 5d]
+Seat 2: _LeProcess_ (big blind) showed [Ad Qh] and won 595 with One pair : Aces
+Seat 3: _SKR (button) showed [4s 4h] and won 70 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2672612420060446721-7-1673616688 - Holdem no limit (15/30) - 2023/01/13 13:31:28 UTC
+Table: 'Expresso Nitro(622266070)#0' 3-max (real money) Seat #1 is the button
+Seat 1: GOUTCERISE (235)
+Seat 2: _LeProcess_ (595)
+Seat 3: _SKR (70)
+*** ANTE/BLINDS ***
+_LeProcess_ posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [Js Qc]
+*** PRE-FLOP *** 
+GOUTCERISE calls 30
+_LeProcess_ calls 15
+_SKR raises 40 to 70 and is all-in
+GOUTCERISE folds
+_LeProcess_ calls 40
+*** FLOP *** [3c Kd 3d]
+*** TURN *** [3c Kd 3d][Th]
+*** RIVER *** [3c Kd 3d Th][4d]
+*** SHOW DOWN ***
+_LeProcess_ shows [Qs 5s] (One pair : 3)
+_SKR shows [Js Qc] (One pair : 3)
+_SKR collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [3c Kd 3d Th 4d]
+Seat 2: _LeProcess_ (small blind) showed [Qs 5s] and lost with One pair : 3
+Seat 3: _SKR (big blind) showed [Js Qc] and won 170 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2672612420060446721-8-1673616713 - Holdem no limit (20/40) - 2023/01/13 13:31:53 UTC
+Table: 'Expresso Nitro(622266070)#0' 3-max (real money) Seat #2 is the button
+Seat 1: GOUTCERISE (205)
+Seat 2: _LeProcess_ (525)
+Seat 3: _SKR (170)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+GOUTCERISE posts big blind 40
+Dealt to _SKR [Th Ad]
+*** PRE-FLOP *** 
+_LeProcess_ folds
+_SKR raises 130 to 170 and is all-in
+GOUTCERISE folds
+_SKR collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: _SKR (small blind) won 210
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2672612420060446721-9-1673616730 - Holdem no limit (20/40) - 2023/01/13 13:32:10 UTC
+Table: 'Expresso Nitro(622266070)#0' 3-max (real money) Seat #3 is the button
+Seat 1: GOUTCERISE (165)
+Seat 2: _LeProcess_ (525)
+Seat 3: _SKR (210)
+*** ANTE/BLINDS ***
+GOUTCERISE posts small blind 20
+_LeProcess_ posts big blind 40
+Dealt to _SKR [Th 2c]
+*** PRE-FLOP *** 
+_SKR folds
+GOUTCERISE calls 20
+_LeProcess_ checks
+*** FLOP *** [Js 2d 9c]
+GOUTCERISE bets 52
+_LeProcess_ folds
+GOUTCERISE collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Js 2d 9c]
+Seat 1: GOUTCERISE (small blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2672612420060446721-10-1673616747 - Holdem no limit (20/40) - 2023/01/13 13:32:27 UTC
+Table: 'Expresso Nitro(622266070)#0' 3-max (real money) Seat #1 is the button
+Seat 1: GOUTCERISE (205)
+Seat 2: _LeProcess_ (485)
+Seat 3: _SKR (210)
+*** ANTE/BLINDS ***
+_LeProcess_ posts small blind 20
+_SKR posts big blind 40
+Dealt to _SKR [7s 7c]
+*** PRE-FLOP *** 
+GOUTCERISE folds
+_LeProcess_ raises 445 to 485 and is all-in
+_SKR calls 170 and is all-in
+*** FLOP *** [4d 2d Td]
+*** TURN *** [4d 2d Td][3c]
+*** RIVER *** [4d 2d Td 3c][4c]
+*** SHOW DOWN ***
+_SKR shows [7s 7c] (Two pairs : 7 and 4)
+_LeProcess_ shows [Ah 4h] (Trips of 4)
+_LeProcess_ collected 695 from pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Board: [4d 2d Td 3c 4c]
+Seat 2: _LeProcess_ (small blind) showed [Ah 4h] and won 695 with Trips of 4
+Seat 3: _SKR (big blind) showed [7s 7c] and lost with Two pairs : 7 and 4
+
+

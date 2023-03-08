@@ -1,0 +1,203 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690566457099550721-1-1674686152 - Holdem no limit (10/20) - 2023/01/25 22:35:52 UTC
+Table: 'Expresso Nitro(626446320)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (300)
+Seat 2: Jc-nazole84 (300)
+Seat 3: 2Retours (300)
+*** ANTE/BLINDS ***
+2Retours posts small blind 10
+_SKR posts big blind 20
+Dealt to _SKR [Js 3s]
+*** PRE-FLOP *** 
+Jc-nazole84 calls 20
+2Retours calls 10
+_SKR checks
+*** FLOP *** [9c Tc Qc]
+2Retours checks
+_SKR checks
+Jc-nazole84 checks
+*** TURN *** [9c Tc Qc][Th]
+2Retours checks
+_SKR checks
+Jc-nazole84 checks
+*** RIVER *** [9c Tc Qc Th][Jc]
+2Retours checks
+_SKR checks
+Jc-nazole84 checks
+*** SHOW DOWN ***
+_SKR shows [Js 3s] (Two pairs : Jacks and Tens)
+Jc-nazole84 shows [3d Ts] (Trips of Tens)
+2Retours shows [8s Ah] (Straight Queen high)
+2Retours collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9c Tc Qc Th Jc]
+Seat 1: _SKR (big blind) showed [Js 3s] and lost with Two pairs : Jacks and Tens
+Seat 2: Jc-nazole84 (button) showed [3d Ts] and lost with Trips of Tens
+Seat 3: 2Retours (small blind) showed [8s Ah] and won 60 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2690566457099550721-2-1674686206 - Holdem no limit (10/20) - 2023/01/25 22:36:46 UTC
+Table: 'Expresso Nitro(626446320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (280)
+Seat 2: Jc-nazole84 (280)
+Seat 3: 2Retours (340)
+*** ANTE/BLINDS ***
+_SKR posts small blind 10
+Jc-nazole84 posts big blind 20
+Dealt to _SKR [5c 8h]
+*** PRE-FLOP *** 
+2Retours folds
+_SKR folds
+Jc-nazole84 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Jc-nazole84 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690566457099550721-3-1674686216 - Holdem no limit (15/30) - 2023/01/25 22:36:56 UTC
+Table: 'Expresso Nitro(626446320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (270)
+Seat 2: Jc-nazole84 (290)
+Seat 3: 2Retours (340)
+*** ANTE/BLINDS ***
+Jc-nazole84 posts small blind 15
+2Retours posts big blind 30
+Dealt to _SKR [Jd 2h]
+*** PRE-FLOP *** 
+_SKR folds
+Jc-nazole84 calls 15
+2Retours checks
+*** FLOP *** [3s 5d 4s]
+Jc-nazole84 checks
+2Retours checks
+*** TURN *** [3s 5d 4s][Js]
+Jc-nazole84 checks
+2Retours checks
+*** RIVER *** [3s 5d 4s Js][Jc]
+Jc-nazole84 checks
+2Retours checks
+*** SHOW DOWN ***
+Jc-nazole84 shows [7s 8d] (One pair : Jacks)
+2Retours shows [Tc 2d] (One pair : Jacks)
+2Retours collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3s 5d 4s Js Jc]
+Seat 2: Jc-nazole84 (small blind) showed [7s 8d] and lost with One pair : Jacks
+Seat 3: 2Retours (big blind) showed [Tc 2d] and won 60 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2690566457099550721-4-1674686260 - Holdem no limit (15/30) - 2023/01/25 22:37:40 UTC
+Table: 'Expresso Nitro(626446320)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (270)
+Seat 2: Jc-nazole84 (260)
+Seat 3: 2Retours (370)
+*** ANTE/BLINDS ***
+2Retours posts small blind 15
+_SKR posts big blind 30
+Dealt to _SKR [7d Ks]
+*** PRE-FLOP *** 
+Jc-nazole84 calls 30
+2Retours calls 15
+_SKR checks
+*** FLOP *** [Qh 6h Jh]
+2Retours checks
+_SKR checks
+Jc-nazole84 checks
+*** TURN *** [Qh 6h Jh][Ac]
+2Retours checks
+_SKR checks
+Jc-nazole84 checks
+*** RIVER *** [Qh 6h Jh Ac][6d]
+2Retours bets 59
+_SKR folds
+Jc-nazole84 calls 59
+*** SHOW DOWN ***
+Jc-nazole84 shows [4c 4s] (Two pairs : 6 and 4)
+2Retours shows [As 5c] (Two pairs : Aces and 6)
+2Retours collected 208 from pot
+*** SUMMARY ***
+Total pot 208 | No rake
+Board: [Qh 6h Jh Ac 6d]
+Seat 2: Jc-nazole84 (button) showed [4c 4s] and lost with Two pairs : 6 and 4
+Seat 3: 2Retours (small blind) showed [As 5c] and won 208 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690566457099550721-5-1674686309 - Holdem no limit (20/40) - 2023/01/25 22:38:29 UTC
+Table: 'Expresso Nitro(626446320)#0' 3-max (real money) Seat #3 is the button
+Seat 1: _SKR (240)
+Seat 2: Jc-nazole84 (171)
+Seat 3: 2Retours (489)
+*** ANTE/BLINDS ***
+_SKR posts small blind 20
+Jc-nazole84 posts big blind 40
+Dealt to _SKR [4s 6c]
+*** PRE-FLOP *** 
+2Retours folds
+_SKR folds
+Jc-nazole84 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Jc-nazole84 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2690566457099550721-6-1674686319 - Holdem no limit (20/40) - 2023/01/25 22:38:39 UTC
+Table: 'Expresso Nitro(626446320)#0' 3-max (real money) Seat #1 is the button
+Seat 1: _SKR (220)
+Seat 2: Jc-nazole84 (191)
+Seat 3: 2Retours (489)
+*** ANTE/BLINDS ***
+Jc-nazole84 posts small blind 20
+2Retours posts big blind 40
+Dealt to _SKR [7d 9h]
+*** PRE-FLOP *** 
+_SKR folds
+Jc-nazole84 calls 20
+2Retours checks
+*** FLOP *** [Js Ts Ad]
+Jc-nazole84 checks
+2Retours checks
+*** TURN *** [Js Ts Ad][Kh]
+Jc-nazole84 checks
+2Retours checks
+*** RIVER *** [Js Ts Ad Kh][2s]
+Jc-nazole84 checks
+2Retours bets 52
+Jc-nazole84 folds
+2Retours collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Js Ts Ad Kh 2s]
+Seat 3: 2Retours (big blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2690566457099550721-7-1674686367 - Holdem no limit (30/60) - 2023/01/25 22:39:27 UTC
+Table: 'Expresso Nitro(626446320)#0' 3-max (real money) Seat #2 is the button
+Seat 1: _SKR (220)
+Seat 2: Jc-nazole84 (151)
+Seat 3: 2Retours (529)
+*** ANTE/BLINDS ***
+2Retours posts small blind 30
+_SKR posts big blind 60
+Dealt to _SKR [6c Kc]
+*** PRE-FLOP *** 
+Jc-nazole84 calls 60
+2Retours raises 469 to 529 and is all-in
+_SKR calls 160 and is all-in
+Jc-nazole84 calls 91 and is all-in
+*** FLOP *** [Ah Js 7s]
+*** TURN *** [Ah Js 7s][3c]
+*** RIVER *** [Ah Js 7s 3c][Jc]
+*** SHOW DOWN ***
+_SKR shows [6c Kc] (One pair : Jacks)
+Jc-nazole84 shows [6s 5c] (One pair : Jacks)
+2Retours shows [Ts Td] (Two pairs : Jacks and Tens)
+2Retours collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ah Js 7s 3c Jc]
+Seat 1: _SKR (big blind) showed [6c Kc] and lost with One pair : Jacks
+Seat 2: Jc-nazole84 (button) showed [6s 5c] and lost with One pair : Jacks
+Seat 3: 2Retours (small blind) showed [Ts Td] and won 900 with Two pairs : Jacks and Tens
+
+
